@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bản tin Di trú</title>
+<meta name="description" content="Cập nhật tin tức di trú Úc, Mỹ, Canada theo tuần">
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--text:#1a1d23;--muted:#667085;--line:#e4e7ec;--accent:#1d4ed8;--new:#dc2626;
+ --au:#047857;--us:#1d4ed8;--ca:#b91c1c}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1115;--card:#171a21;--text:#e6e8ec;--muted:#98a2b3;--line:#2a2f3a;--accent:#60a5fa;
+ --au:#34d399;--us:#60a5fa;--ca:#f87171}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:860px;margin:0 auto;padding:20px 16px 60px}
+header h1{margin:0 0 4px;font-size:24px}
+.meta{color:var(--muted);font-size:13px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.dot{width:8px;height:8px;border-radius:50%;background:#16a34a;display:inline-block;animation:p 2s infinite}
+@keyframes p{50%{opacity:.3}}
+.bar{position:sticky;top:0;background:var(--bg);padding:12px 0;z-index:5;display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid var(--line);margin:12px 0}
+.bar button{border:1px solid var(--line);background:var(--card);color:var(--text);padding:6px 12px;border-radius:999px;cursor:pointer;font-size:14px}
+.bar button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.bar input{flex:1;min-width:160px;padding:7px 12px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--text);font-size:14px}
+h2.week{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin:28px 0 8px}
+.item{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:8px}
+.item a{color:var(--text);text-decoration:none;font-weight:600}
+.item a:hover{color:var(--accent)}
+.item p{margin:4px 0 0;color:var(--muted);font-size:14px}
+.tags{font-size:12px;color:var(--muted);margin-top:6px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.flag{font-weight:700}.AU{color:var(--au)}.US{color:var(--us)}.CA{color:var(--ca)}
+.off{border:1px solid currentColor;border-radius:4px;padding:0 5px;color:var(--accent)}
+.badge{background:var(--new);color:#fff;border-radius:4px;padding:0 6px;font-weight:700}
+#toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;padding:10px 18px;border-radius:999px;cursor:pointer;display:none;box-shadow:0 4px 14px #0003}
+.visas{display:flex;gap:6px;flex-wrap:wrap;margin:-4px 0 8px}
+.visas:empty{display:none}
+.visas button{border:1px dashed var(--line);background:transparent;color:var(--muted);padding:4px 10px;border-radius:999px;cursor:pointer;font-size:13px}
+.visas button.on{border-style:solid;border-color:var(--accent);color:var(--accent);font-weight:600}
+.visas button span{opacity:.6;margin-left:4px}
+.vtag{background:var(--line);border-radius:4px;padding:0 6px;color:var(--text)}
+.empty{color:var(--muted);text-align:center;padding:40px}
+</style>
+</head>
+<body>
+<div class="wrap">
+ <header>
+  <h1>Bản tin Di trú</h1>
+  <div class="meta"><span class="dot"></span><span id="upd">Đang tải…</span><span id="cnt"></span></div>
+ </header>
+ <div class="bar">
+  <button data-c="ALL" class="on">Tất cả</button>
+  <button data-c="AU">🇦🇺 Úc</button>
+  <button data-c="US">🇺🇸 Mỹ</button>
+  <button data-c="CA">🇨🇦 Canada</button>
+  <button data-t="official">Chỉ nguồn chính phủ</button>
+  <input id="q" type="search" placeholder="Tìm: visa 482, EB-5, du học…">
+ </div>
+ <div id="visas" class="visas"></div>
+ <main id="list"></main>
+</div>
+<div id="toast"></div>
+<script>
+const POLL_MS = 60000, NAMES = {AU:"Úc", US:"Mỹ", CA:"Canada"};
+let data = {items: [], taxonomy: {}}, visa = "ALL", country = "ALL", officialOnly = false, query = "", knownIds = null;
+const lastVisit = +(safeGet("lastVisit") || 0);
+
+function safeGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
+function safeSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+
+function weekStart(d){const x=new Date(d);x.setHours(0,0,0,0);const day=(x.getDay()+6)%7;x.setDate(x.getDate()-day);return x}
+function fmt(d,o){return new Date(d).toLocaleDateString("vi-VN",o)}
+function weekLabel(ws){
+  const now=weekStart(new Date()), diff=Math.round((now-ws)/6048e5), end=new Date(ws);end.setDate(end.getDate()+6);
+  const range=`${fmt(ws,{day:"2-digit",month:"2-digit"})} – ${fmt(end,{day:"2-digit",month:"2-digit",year:"numeric"})}`;
+  return (diff===0?"Tuần này":diff===1?"Tuần trước":`${diff} tuần trước`)+" · "+range;
+}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+
+function visaName(c,v){return ((data.taxonomy[c]||{}).visas||{})[v]||v}
+function renderVisas(){
+  const box=document.getElementById("visas"), t=data.taxonomy[country];
+  if(!t){box.innerHTML="";return}
+  const cnt={};data.items.forEach(i=>{if(i.country===country)(i.visas||[]).forEach(v=>cnt[v]=(cnt[v]||0)+1)});
+  const total=data.items.filter(i=>i.country===country).length;
+  box.innerHTML=`<button data-v="ALL" class="${visa==="ALL"?"on":""}">Tất cả visa ${t.flag}<span>${total}</span></button>`+
+    Object.entries(t.visas).map(([id,name])=>`<button data-v="${id}" class="${visa===id?"on":""}">${esc(name)}<span>${cnt[id]||0}</span></button>`).join("");
+  box.querySelectorAll("button").forEach(b=>b.onclick=()=>{visa=b.dataset.v;renderVisas();render()});
+}
+function render(){
+  const q=query.toLowerCase();
+  const items=data.items.filter(i=>(country==="ALL"||i.country===country)&&(!officialOnly||i.type==="official")
+    &&(visa==="ALL"||(i.visas||[]).includes(visa))
+    &&(!q||(i.title+" "+i.summary+" "+i.publisher).toLowerCase().includes(q)));
+  document.getElementById("cnt").textContent=`· ${items.length} tin`;
+  if(!items.length){document.getElementById("list").innerHTML='<div class="empty">Không có tin phù hợp.</div>';return}
+  let html="",cur="";
+  for(const i of items){
+    const wk=weekStart(i.published).toISOString();
+    if(wk!==cur){cur=wk;html+=`<h2 class="week">${weekLabel(new Date(wk))}</h2>`}
+    const isNew=lastVisit&&new Date(i.fetched)>lastVisit;
+    html+=`<div class="item"><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+      ${i.summary?`<p>${esc(i.summary)}</p>`:""}
+      <div class="tags">${isNew?'<span class="badge">MỚI</span>':""}
+        <span class="flag ${i.country}">${NAMES[i.country]||i.country}</span>
+        ${(i.visas||[]).map(v=>`<span class="vtag">${esc(visaName(i.country,v).split(" · ")[0])}</span>`).join("")}
+        ${i.type==="official"?'<span class="off">Chính phủ</span>':""}
+        <span>${esc(i.publisher)}</span><span>${fmt(i.published,{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}</span></div></div>`;
+  }
+  document.getElementById("list").innerHTML=html;
+}
+
+async function load(){
+  try{
+    const r=await fetch("data/news.json?t="+Date.now(),{cache:"no-store"});
+    const fresh=await r.json();
+    const ids=new Set(fresh.items.map(i=>i.id));
+    if(knownIds){
+      const n=[...ids].filter(id=>!knownIds.has(id)).length;
+      if(n){const t=document.getElementById("toast");t.textContent=`🔔 ${n} tin mới — bấm để xem`;t.style.display="block";
+        t.onclick=()=>{t.style.display="none";window.scrollTo({top:0,behavior:"smooth"})}}
+    }
+    knownIds=ids;data=fresh;
+    document.getElementById("upd").textContent="Cập nhật lúc "+new Date(fresh.updated).toLocaleString("vi-VN");
+    renderVisas();render();
+  }catch(e){document.getElementById("upd").textContent="Không tải được dữ liệu, đang thử lại…"}
+}
+
+document.querySelectorAll(".bar button").forEach(b=>b.onclick=()=>{
+  if(b.dataset.t){officialOnly=!officialOnly;b.classList.toggle("on",officialOnly)}
+  else{country=b.dataset.c;visa="ALL";renderVisas();document.querySelectorAll("[data-c]").forEach(x=>x.classList.toggle("on",x===b))}
+  render();
+});
+document.getElementById("q").oninput=e=>{query=e.target.value;render()};
+addEventListener("beforeunload",()=>safeSet("lastVisit",Date.now()));
+load();setInterval(load,POLL_MS);
+</script>
+</body>
+</html>

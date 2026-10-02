@@ -1,0 +1,16 @@
+[
+  {"id": "au-vi",  "country": "AU", "type": "news",     "name": "Google News – Định cư Úc",
+   "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+%C3%9Ac+OR+visa+%C3%9Ac+when:14d&hl=vi&gl=VN&ceid=VN:vi"},
+  {"id": "au-en",  "country": "AU", "type": "news",     "name": "Google News – Australia Immigration",
+   "url": "https://news.google.com/rss/search?q=Australia+(visa+OR+immigration+OR+%22Home+Affairs%22)+when:7d&hl=en-AU&gl=AU&ceid=AU:en"},
+  {"id": "us-gov", "country": "US", "type": "official", "name": "Federal Register – USCIS",
+   "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=u-s-citizenship-and-immigration-services"},
+  {"id": "us-vi",  "country": "US", "type": "news",     "name": "Google News – Định cư Mỹ",
+   "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+M%E1%BB%B9+OR+visa+M%E1%BB%B9+OR+EB-5+when:14d&hl=vi&gl=VN&ceid=VN:vi"},
+  {"id": "us-en",  "country": "US", "type": "news",     "name": "Google News – US Immigration",
+   "url": "https://news.google.com/rss/search?q=USCIS+OR+%22visa+bulletin%22+OR+EB-5+when:7d&hl=en-US&gl=US&ceid=US:en"},
+  {"id": "ca-gov", "country": "CA", "type": "official", "name": "IRCC – News releases",
+   "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&type=newsreleases&sort=publishedDate&orderBy=desc&pick=30&format=atom"},
+  {"id": "ca-vi",  "country": "CA", "type": "news",     "name": "Google News – Định cư Canada",
+   "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+Canada+when:14d&hl=vi&gl=VN&ceid=VN:vi"}
+]
