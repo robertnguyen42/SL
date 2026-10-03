@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T02:20:06.267887+00:00",
+ "updated": "2026-10-03T02:52:13.017840+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -108,7 +108,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "au-student",
@@ -120,7 +120,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-investor",
@@ -240,13 +240,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 36
+   "count": 35
   }
  ],
  "items": [
@@ -823,6 +823,21 @@
    "published": "2026-10-02T04:31:16+00:00",
    "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": []
+  },
+  {
+   "id": "0ab41c617f7388b1",
+   "title": "Airbus A350F Completes Maiden Flight Express Entry Draw (Dsa4hQP2U3) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XakRvZ2pDMWUyM2NUTEJ6R0wybjdVOC15V2t3UElBSFYzUTFybWhqTVpidjZiMW5jV0c4ajNiMU5Qb1VseU9TczJkaDJOYlA4b1pZZ25CVm5GMjJYTEozN0JrZkZDZm16b25B?oc=5",
+   "summary": "",
+   "publisher": "Unisba Media",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-02T04:13:38+00:00",
+   "fetched": "2026-10-03T02:52:13.017840+00:00",
+   "visas": [
+    "express-entry"
+   ]
   },
   {
    "id": "12847492ace2139c",
@@ -1407,6 +1422,21 @@
    "published": "2026-10-01T08:19:14+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "34f2ca7d82a6bd11",
+   "title": "Second Federal Judge Blocks Trump’s $100,000 H-1B Visa Fee - Law Commentary",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaHNobkZUeHFWV1VBZ3NOTXNITzVnUWRodEZ1TkxuNWh2YkliQmZLZ0wzZmVLSG4tLVJKQnpJWnRuVlNEU0RQSTIwRDJPdUowOUljYXAxZ2M3ZUZZcGhJZ29fMmctTGRDMTN5Z01TSWwzUjcyaFpuMjFaNnpkMl9zczZyOXhIWFMyS2R6NENB?oc=5",
+   "summary": "",
+   "publisher": "Law Commentary",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-01T07:38:38+00:00",
+   "fetched": "2026-10-03T02:52:13.017840+00:00",
+   "visas": [
+    "h1b"
+   ]
   },
   {
    "id": "4775b18497b6023a",
@@ -3807,6 +3837,21 @@
    ]
   },
   {
+   "id": "b01e5acf9b03b84d",
+   "title": "Banning H-1B teachers is a recipe for disaster - The Hill",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLWGQwaDk5RkJubllvMXJFTlFRd2FuMXdXdFJwOEhWeDZZTWVmLVZmcVV2Q2k3SzFDQi1LQ0RyZlRKd002QU9VUHpuamdLalVTUEZMMjR1T0g2VGFMNlFWVjRaU0VvZWMzcU1YOVdnS0l5WTF0REYyb9IBfkFVX3lxTFBjWFZzOXNmNndkQ2hMTlltNGdiTmlRekdkbTdoanYzWHgzMlcyTVUyWVZPOGtoSmNISmNmVFUtVENtQkRPQ0ZUNU1nS0JtdkFMMGJQZlp3UVdLN2dLb2JBUl9lVzhNWHRoRDU2YV9DSHBQR19oUzhGVHQ4bVdSZw?oc=5",
+   "summary": "",
+   "publisher": "The Hill",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-25T15:30:00+00:00",
+   "fetched": "2026-10-03T02:52:13.017840+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
    "id": "b6b56df57ddbe158",
    "title": "Two distinct tests in Start-Up Visa applications and the cost of conflating them - Law360 Canada",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZzBKeHF3MDdlR1haTU9fV25QUHZyTWxlNm1tWUtQLWRFNVUybmxIVVNKai1rSmg2ZlRicWVxOUFGQUFCcm9makxfMnBxUFItT3AyNlNob0lMdHhBY2VHd2dQTVBmbDJneXlMWWc3dDdDb0FhU0wycFM5OGhRYmlhaGxaY3lQUkxQbkRSUkZHcFZBWGNQMjEyLTltQ09IMzB6SWtycDVTNWNMbVRSYXhuT0hYeTE1dE9Odmp0S3pJTnRuV3pfVzNpLVJBZ9IBWEFVX3lxTFB6UUVsSHRxLW5KN0h1aEV1TjBzM1FMV19mQXFWY1JXdE1NR0hqeTFsRGZjbnpTQ19mNFFFcFFYeXd1V0tpUmtvTnR4VFhVbGZuTGdEYkhYQXk?oc=5",
@@ -5248,6 +5293,21 @@
    ]
   },
   {
+   "id": "a9f12c593b897b4a",
+   "title": "128 people become U.S. citizens at SC4 naturalization ceremony - Belleville News-Democrat",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FZko3WnRETHRKeGtwVjRGaU1HYl9vdGtWQS1NelZlMHRjb2Z5R09JaE43Qmxyb0tyNXNFOW5yRHdFX19DaGZmOU41MTFwUF9YNTBqdmdzQzdpM0N2bUJqbmx2aUwyRHE1S2RiSGNleXJKNk5qaU1j?oc=5",
+   "summary": "",
+   "publisher": "Belleville News-Democrat",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-19T08:02:00+00:00",
+   "fetched": "2026-10-03T02:52:13.017840+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "7732dac4bdd3fb8c",
    "title": "Australia dự kiến siết quy định, du học sinh không được đưa người thân sang cùng - Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOandTbnhDbFZJZWg0enEzZVpaSnVnV1hEajJ1STJ4SkRyeTVVZS1nWkJWUTJlU1RSMEVYeDVlenJCdFpOMHo2VnVDSzVXamxSdU5NUmpaNk5nU0owWTZkX0dtODR1b0ZKakx0TGZ4ZFczXzVkZWgxR0hxYkxZblpCYjQ4eUVxaTRILWhsSDdDX2tIS1l0ZjBXLVl6NVNpZk9zOHpvYQ?oc=5",
@@ -5453,6 +5513,21 @@
    "published": "2026-09-19T07:00:00+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "5fa09cc9672c79b4",
+   "title": "Canada Publishes Documents Foreigners Need to Apply for Work Permit From Outside the Country - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTDRnMmpXOWRqaXY1ZUdiWG5MSFZoU1RuWnBwTy0xRWNKVTNYdG1PazdhVjdCNUhHNzBaOXJ0WjR5WlBvZFVYMjZyVjlDOFRFcmxfSEtKSmVwOVQ2XzZaaWJWV2FFbG5WRVpkdjR6RGhKa2ZQVDI4eFdheURpeHRCcjBoZ3Z2bkhsanNTUDBiYlc2c2lYWVNReVVWUQ?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-19T07:00:00+00:00",
+   "fetched": "2026-10-03T02:52:13.017840+00:00",
+   "visas": [
+    "work"
+   ]
   },
   {
    "id": "c94fc3ae15dac562",
@@ -9350,6 +9425,19 @@
    "visas": []
   },
   {
+   "id": "065a68ee371606d8",
+   "title": "‘Don’t need more brothel madams’: Bernardi slams Mali’s migration speech - News - InDaily South Australia",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQXljd0ZQT0Y3ZDU5bXpzdmIyeGVkVGY0MGJTUzZmV0MxV3JBREZ1c1JTV1NkVXU5R1NFYVYzY1kyQ2JfQjhHNzdXZkVjWW5tUFhTRzhsQkRJYnA5Xzh5OFJvS2o3dVNRLW9fanhXMU5xaHlpMjR1OVo1WVVjaHR2NW5relRraEllRFhIejQtWXJxek5URmd4S09EUjdoY1dZWVlSbVdwck5IM2c0WHBiRXpfaG5jQ2tGekF3?oc=5",
+   "summary": "",
+   "publisher": "InDaily South Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-09-10T07:00:00+00:00",
+   "fetched": "2026-10-03T02:52:13.017840+00:00",
+   "visas": []
+  },
+  {
    "id": "531fa91e4582d782",
    "title": "Property chiefs slam ‘all sides of politics’ over skilled worker visas - The Australian",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN0FXNGoyei1YMGROZVFlUUdKUnEyZHFsZ0FFSHFsNlk3MjVKOWdzdGZlRC1WV0l5V0JFaFltOGlMMkxrckxwekRrNTJVZzlHYmtPcTdnYVRJSUYyYjlMQ01iX0ptZmUxbUVuVDFRUmFwX0xTYnNyeU9Tb012V19vTDRObXU4NXFOcExsNG5xTWdVQm9wVE03b1AxZVFXWWtKak9jUkJOSUtDMm1XeFdOakZTTUtidTZUb3hqdDRzTkc0ZzAwYVdLdVBvUG1vMkRrdmxvNHlFU21URjhITS1qZHpyYl9kYVU?oc=5",
@@ -10131,6 +10219,19 @@
    "visas": [
     "visitor"
    ]
+  },
+  {
+   "id": "264932463a4b888e",
+   "title": "Foreign investors helped bankroll Staten Island charter school through visa program - silive.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmV5NlBueHFONmp1d19FdFM1b0tidFd2bVp0dmhmYkQzRGRfVW5qQTA3c0hNM0thaUkybDZ1Z3BhYm5FMWVqMC1jS20yZmdBZ2RCWTFyaXJhbllmbVhmQTFJeE9Gb2JmOXlrZlVqNWJXdWlfME1WX3ljVjdoS1ZnRnE2VXhSU3BNZ0JTOWFtWnV3OHY3VXJDVVlsY0syQ3VMVUJaNWJ4YlhBSUt3UmVlVU9WLVhUenh3V2l6RlZwcjlXZw?oc=5",
+   "summary": "",
+   "publisher": "silive.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-09-07T07:00:00+00:00",
+   "fetched": "2026-10-03T02:52:13.017840+00:00",
+   "visas": []
   },
   {
    "id": "e7d3b6711f1effac",
