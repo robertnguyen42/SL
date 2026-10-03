@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T07:45:37.670227+00:00",
+ "updated": "2026-10-03T08:15:18.307623+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,7 +90,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-skills-in-demand",
@@ -108,7 +108,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "au-student",
@@ -120,7 +120,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-investor",
@@ -132,13 +132,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -180,7 +180,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "us-visa-bulletin",
@@ -240,7 +240,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -250,6 +250,21 @@
   }
  ],
  "items": [
+  {
+   "id": "d06e545644730390",
+   "title": "India Excluded as US Expands Visa Bond Rule to 50 Countries - INDToday",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOTdCTXUxa29fYTlZcF9uX3d5cnAxVmQ4NjROaHVHS1laTHRtT3BqYzctVXlRd2toOTFCdW5JWWVSUTBqbnVWWmEwRzYzMkpxa3BYNXFGdUZpVWMzZVdWdTB1cHdyTWxMdXhSNm9CMVlBMkJiOHNHWTN3WGRseDhBUUNVd3NpV29V?oc=5",
+   "summary": "",
+   "publisher": "INDToday",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T08:04:12+00:00",
+   "fetched": "2026-10-03T08:15:18.307623+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
   {
    "id": "e759b5d2ee557703",
    "title": "Australia áp dụng quy định mới để chấm dứt tình trạng “nhảy visa” của du học sinh - Vietnam.vn",
@@ -2508,6 +2523,21 @@
    "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "aacc327950aface6",
+   "title": "Canada Issued 2,000 Invitations to Candidates Under CEC Category - cic times",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmc4TndqUHl5dXpHLWFwSVMxTmtqd3ZRb0pldmUzblJFMzJ4MkZXNU1TN1B1NGJ4SzJrZlY5UF9fdmw3bWNqZHVnSlZ6TW85SFBGZ29SQ1Q0bGh6Q0hHaHdmZ3ZIVkh0SUhKUVR3aUdCSEhFRUFtSkx5SFhFdkw2T0xxZ0U5X3VEV3ljR0pqb2JuQQ?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-30T01:10:00+00:00",
+   "fetched": "2026-10-03T08:15:18.307623+00:00",
+   "visas": [
+    "express-entry"
    ]
   },
   {
@@ -5576,6 +5606,22 @@
    "visas": []
   },
   {
+   "id": "2f01eb8d0434a1af",
+   "title": "Latest PEI PNP Draw Invites 195 Candidates Through Labour and Express Entry - cic times",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTS1mdVprd3kwQUt6RTc0c0JSbm1QSm1YZTRoODhJc3phQUNCUHo4LXBJZUU4X3RLblRna29xb1ZmVnlma0FzZDhmUjROLUpQZmJON1ZRTWY5YUxsZ0RjTEJMTnpvSTBmaE5NVEZFcF9taGNDVDhuSElRM1lmc1gyaEZhdXhjOThTV0tKY3ZpU3dsLUdJN1QxLThsXzREZkRUNUE?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-21T01:21:00+00:00",
+   "fetched": "2026-10-03T08:15:18.307623+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ]
+  },
+  {
    "id": "fa7e8f7bcf6ba88b",
    "title": "Australia tightens student visa rules: What Kenyan students need to know - Education News",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUlpOWN1b3VMTU5rXzVBYk9yci12RGxJQ3NPdmhQdjZwMkdKMnY0Vkl5WUI5RXpxTVUwRzBOWnR0LWFWdUlEdjZfY3BZR2JXaTlhRVRhT1E2YkRVdXh2X2syV3htemxkTDNUVldlSjJBNmxYaGxaVlJ1WFZ5czVTZ0xiRUxnb01fRmxXamxEMUhWUU4tSVVsM2pkcndyN3FNd3c?oc=5",
@@ -7344,6 +7390,21 @@
    "visas": []
   },
   {
+   "id": "a263cf31d07a2b15",
+   "title": "IRCC Invites 250 Senior Managers to Apply for Canada Permanent Residence - cic times",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1V3MDlDamtkRHpURXkwOE9ENk05NVVHSUw0YXhGLWJzOEgzTDlLNTh5R3liTFFXRkxWa2owTVQxN2NjejhKQUVnNTlUenBqdHg0TXlSR0VsS1BqMjR6OEs1WE1SbmItNENmbnpFREgyVFl4T3VqUmtBNWFReFBaZExPMi1WQ1d1b3ZtMjB2eGhtcG54SnMzM2ExT09oUQ?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-03T08:15:18.307623+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
+  },
+  {
    "id": "1de8ea0df6bb963c",
    "title": "The Uphill Climb to American Citizenship - The Dispatch",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUVVGcHBYc3d3dU04OC1BelJzSGxjQ3JSSjY4YkdvQWpFR0ZJbmVNa2x1Xy1ONWNYYXA3N2tzVjRsR0cyVnZiOUdMTzRNM2thSGRpZ1QzYXJUZERyaDFBNGNYNmtoUGRKa3pRRzdtTHU4YzUwNm9kSHhrY2VoX2tlYWRRUmRSd2h6ZC00NHU2dw?oc=5",
@@ -7819,6 +7880,21 @@
    "visas": [
     "express-entry",
     "pnp"
+   ]
+  },
+  {
+   "id": "50a604d424459798",
+   "title": "Canada Invited 576 Candidates in Latest Express Entry Draw - cic times",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYlhmOC1Delp1SjZ3a2dGVTRocjN0TVZjSlFIZ2NHNWRkRnhfSXhSNU0zbWI0S0Y2ZnJGV3FvYjVTN3dnUWlyTW5EOU85X085bW1ZY2pmek02MmJlaEs5aHB4NDZCNWt1ZG5RTlJLSGtWbXJ5ZEZLbF9vNXNFOUZpaTM1Z3lOR0RIRDJV?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-15T07:06:00+00:00",
+   "fetched": "2026-10-03T08:15:18.307623+00:00",
+   "visas": [
+    "express-entry"
    ]
   },
   {
@@ -10318,6 +10394,22 @@
    "fetched": "2026-10-03T07:20:52.079544+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "c1c74e31222e8a0e",
+   "title": "Alberta Issues New AAIP Draw Inviting More Than 1,100 Candidates - cic times",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjRsY1diVHpVWlR2QjJfeDNNUy1pRkFCaldKOTFTbDRzWWVZb2hoOHZZRFdlaTd4V0pNU0xMNHdHWjZIcXZZNE9fNnBSRG1mZGhfMEZkbVZZN1NyUk53d1lJZWNuYjhQNkxmTkQ4d3hwVWpzelRJa1ZGbHY5RndQQTFNejltRjIzUVY3QkpnRE5OQQ?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-09T06:15:00+00:00",
+   "fetched": "2026-10-03T08:15:18.307623+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
    ]
   },
   {
