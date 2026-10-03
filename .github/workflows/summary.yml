@@ -1,0 +1,24 @@
+name: Tóm tắt tuần (AI)
+on:
+  schedule:
+    - cron: "0 1 * * 1"   # 8:00 sáng thứ Hai giờ Việt Nam
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -q anthropic pydantic
+      - run: python summarize.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Commit
+        run: |
+          git config user.name "ditru-bot"
+          git config user.email "ditru-bot@users.noreply.github.com"
+          git add docs/data/summary.json docs/data/summaries
+          git diff --cached --quiet || (git commit -m "Tóm tắt tuần $(date -u +%F)" && git pull --rebase -q && git push)

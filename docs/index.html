@@ -37,6 +37,22 @@ h2.week{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(-
 .visas button.on{border-style:solid;border-color:var(--accent);color:var(--accent);font-weight:600}
 .visas button span{opacity:.6;margin-left:4px}
 .vtag{background:var(--line);border-radius:4px;padding:0 6px;color:var(--text)}
+.sum{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin:16px 0 4px}
+.sum[hidden]{display:none}
+.sum header{display:flex;justify-content:space-between;align-items:baseline;gap:8px;flex-wrap:wrap}
+.sum h2{margin:0;font-size:17px}
+.sum .when{color:var(--muted);font-size:12px}
+.sum .ov{margin:6px 0 4px;color:var(--muted);font-size:14px}
+.sum ol{margin:8px 0 0;padding:0;list-style:none;display:grid;gap:12px;counter-reset:h}
+.sum li{counter-increment:h;display:grid;grid-template-columns:28px 1fr;gap:4px 10px;padding-top:12px;border-top:1px solid var(--line)}
+.sum li::before{content:counter(h);font-weight:700;color:var(--accent);font-size:18px;line-height:1.3;grid-row:span 4}
+.sum li > *{min-width:0}
+.sum h3{margin:0;font-size:15px}
+.sum p{margin:0;font-size:14px}
+.sum .imp{color:var(--muted)}
+.sum .src{font-size:12px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.sum .src a{color:var(--accent)}
+.sum details summary{cursor:pointer;color:var(--muted);font-size:13px;margin-top:10px}
 .empty{color:var(--muted);text-align:center;padding:40px}
 </style>
 </head>
@@ -46,6 +62,7 @@ h2.week{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(-
   <h1>Bản tin Di trú</h1>
   <div class="meta"><span class="dot"></span><span id="upd">Đang tải…</span><span id="cnt"></span></div>
  </header>
+ <section id="sum" class="sum" hidden></section>
  <div class="bar">
   <button data-c="ALL" class="on">Tất cả</button>
   <button data-c="AU">🇦🇺 Úc</button>
@@ -131,7 +148,23 @@ document.querySelectorAll(".bar button").forEach(b=>b.onclick=()=>{
 });
 document.getElementById("q").oninput=e=>{query=e.target.value;render()};
 addEventListener("beforeunload",()=>safeSet("lastVisit",Date.now()));
-load();setInterval(load,POLL_MS);
+async function loadSummary(){
+  try{
+    const r=await fetch("data/summary.json?t="+Date.now(),{cache:"no-store"});
+    if(!r.ok)return;
+    const s=await r.json(), box=document.getElementById("sum"), tax=data.taxonomy||{};
+    const d=x=>new Date(x).toLocaleDateString("vi-VN",{day:"2-digit",month:"2-digit"});
+    box.innerHTML=`<header><h2>Tóm tắt tuần · Top ${s.highlights.length} thay đổi</h2>
+      <span class="when">${d(s.from)} – ${d(s.to)} · AI tổng hợp từ ${s.item_count} tin, hãy mở nguồn để kiểm tra</span></header>
+      <p class="ov">${esc(s.overview)}</p>
+      <ol>${s.highlights.map(h=>`<li><h3><span class="flag ${h.country}">${(tax[h.country]||{}).flag||""}</span> ${esc(h.headline)}</h3>
+        <p>${esc(h.detail)}</p><p class="imp">→ ${esc(h.impact)}</p>
+        <div class="src">${h.visas.map(v=>`<span class="vtag">${esc(visaName(h.country,v).split(" · ")[0])}</span>`).join("")}
+        ${h.sources.map(x=>`<a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.publisher)}</a>`).join(" · ")}</div></li>`).join("")}</ol>`;
+    box.hidden=false;
+  }catch(e){}
+}
+load().then(loadSummary);setInterval(load,POLL_MS);
 </script>
 </body>
 </html>

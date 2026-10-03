@@ -29,3 +29,9 @@ Mở http://localhost:8000
 
 ## Thêm / bớt nguồn
 Sửa `sources.json`. `type: "official"` = nguồn chính phủ (hiện tóm tắt), `type: "news"` = báo chí (lọc theo từ khoá trong `fetch_news.py`).
+
+## Tóm tắt tuần bằng AI (`summarize.py`)
+- Chạy 8:00 sáng thứ Hai (giờ VN) qua `.github/workflows/summary.yml`, hoặc bấm *Run workflow* để chạy ngay
+- Claude đọc tin 7 ngày qua, chọn Top 5 thay đổi, viết tiếng Việt → `docs/data/summary.json` (lưu trữ từng tuần trong `docs/data/summaries/`)
+- Cần secret `ANTHROPIC_API_KEY` trong Settings → Secrets and variables → Actions. Chưa có thì bước này tự bỏ qua
+- Chi phí ước tính: khoảng 0,05 USD/tuần
