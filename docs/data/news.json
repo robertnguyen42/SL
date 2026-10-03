@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T07:20:52.079544+00:00",
+ "updated": "2026-10-03T07:45:37.670227+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,7 +90,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-skills-in-demand",
@@ -120,7 +120,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-investor",
@@ -132,13 +132,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -240,7 +240,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -250,6 +250,51 @@
   }
  ],
  "items": [
+  {
+   "id": "e759b5d2ee557703",
+   "title": "Australia áp dụng quy định mới để chấm dứt tình trạng “nhảy visa” của du học sinh - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWxjbDBPd2k5azBNYVBXVFFBOTAyOW16ZWJpelFZVTdaeXc4TloxcXBoMkFHYUlSMzYxbUhtaGhKT01mUnppYXEyRXFJNE83YTlRanQzUHRrWkZ6S2pITkdKbDJyV3lDYVcwV2hNRWlMMm13bThKRVBMdGwzWUF6SGJnQVhKb1ZUZFdpR2Fkd2dLVFBoYWRCckFoNVFxc1hhRGQ0NA?oc=5",
+   "summary": "",
+   "publisher": "Vietnam.vn",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-03T07:37:17+00:00",
+   "fetched": "2026-10-03T07:45:37.670227+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "7af3c98e3bd63936",
+   "title": "US requires $10,000-$20,000 bonds for B-1/B-2 applicants from 50 countries - NewsBytes",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEM2SzdtOGpMcnFyTFhoV0Z0cVltNlFHRUxFUUExNFd6RWk0WHhMME1WdUdTMHIxYXpiX0tWR1ZHNzlEYjNPWUZkMl9fcjFfampUZlFwam9NZnVrbUNOeGg5MGpEMExiS0oyS19LSWIyMV9sVk5WRDZFd1hRbkVmVElqT2pVWUNOdlpYR2ZTcEFGOVhueVdkbzV5aTRFZ0lnZlNKSmRhLUg0ZzhScE9saW1MT2E?oc=5",
+   "summary": "",
+   "publisher": "NewsBytes",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T07:04:36+00:00",
+   "fetched": "2026-10-03T07:45:37.670227+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
+   "id": "76667003c4ec9411",
+   "title": "US imposes up to $20,000 visa bonds on 50 countries; India exempt - Zee Business",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZF9OYndYY0N0RWRyX3plR055SGdxcVAtTXpDM0dJb0p6UDViSDg4Qm5LbEw4NmRBS2NxRUh0dHc2ek5zcEwzcXBCaWMwd0Fqb3RWZjJzb0JtMFNYamJKX1dta1VLQWNiYjZDMlJEQzh1ODMtR2VtTU5YVXNIQnN3TU9QTnFSVVFVM094Q21DWnZ4cVN5bGhDdGQ1cWRUNTcxbERERnlB?oc=5",
+   "summary": "",
+   "publisher": "Zee Business",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T05:59:13+00:00",
+   "fetched": "2026-10-03T07:45:37.670227+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
   {
    "id": "177095a94ed1c6b3",
    "title": "US visa bond of up to $20,000 applies to 50 countries — is India included? - Gulf News",
@@ -3142,6 +3187,21 @@
    ]
   },
   {
+   "id": "09ee6472e53b9a76",
+   "title": "Group Says DHS Wrongly Axed Naturalization Services Grant - Law360",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1M4MWFlLVJXckNnWHNPLWtPSkMzRFFLNngybjM2Z3V0QThpWGJBUVI0UUxQQ1IwMjZ4MkUxb1pvaUxkb1RqMHEtSXl2MnBUS0JMRFV4NElwOXBNbmx1R3JNZTNfQ0RiQlZTaGlzc19mUDQ4T0E2cVdUczV5bHI2RGwtMlNUVTN2Nk9LUXlpWnY1aTlSZ09BcTBteXNTUdIBVkFVX3lxTE9qN0M0a2hSM3JreVFXSzNfUXJsZmFYak03aFA5YWZMQjRSZnRUVUtPZy1OVTZPbURoMU1KRXpnTW9wdzYybE9aWjFPOHZsOWxfZXNpZkd3?oc=5",
+   "summary": "",
+   "publisher": "Law360",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-28T21:24:04+00:00",
+   "fetched": "2026-10-03T07:45:37.670227+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "77456def86a8eabe",
    "title": "Mullin Attends Ribbon Cutting for New Citizenship and Immigration Services Field Office In Edmond - News 9",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMlpwR3JXb0cxbVBFcEN6NDZIUkVqcVA4dUoxTjJxUmY5b05aNG00R1M4RHlPQXBpaks4cUszNnF5N3JpUWl4WWFGYzk5YkdKdVdyY2x1a2t2Y2YwV2s0aVl2X1o1alBVVU5QRVlRcUx4QVFucWplWDFCcW0wTU94VGF2ODNGRmxWQUJHdzU2TnlERTdJZDB4VEI0V1duWG5xa2lsNENBM2NqUVhIQktWY2FSUTc5UU5sek5jM0xHSGZTdUQ4MjVDaU1GNElsUGY2a2Q0?oc=5",
@@ -3384,6 +3444,21 @@
    ]
   },
   {
+   "id": "5e3ba6a1c598156c",
+   "title": "Qatar Publishes List of 37 Countries Eligible for Joint Tourist Visa for 30 Days - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWs1cm1IeElPNjFSZzYtUlllVG5YWEhHR2wxWGtPUHM2MWtGSHN1LVdpYUlyeW1UWElQVEVWOGNhbnQwRmd4dS01VFFUeEl6b0hSTEtnc1R6SkVCX1lGMzNfZzBHbi1iMW1ZOWc2eFZBZjdJd0ZNWDZBd0k4ZEJlZEVQamhnU0ktMzNWaTBqZEhzQmJfLU9QckRJb0FHc1FEcWFmTQ?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-28T09:22:44+00:00",
+   "fetched": "2026-10-03T07:45:37.670227+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
    "id": "467b0f9fdc50a14d",
    "title": "Fewer citizenship applications approved in Greater Cincinnati in 2026 - 91.7 WVXU",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU0stSU0tT0JWblVFSG9LeHp3LTZrQlI1OVZ3ZHk1T3hobkY5R2p6TWdQTmlBU0Z5ejVCSElfZFhwWEJLOWhaeWZ3c0UyY21FeGVjZ09KMmdNRmYyeFlBc19sY2tZV09tS1R6NEhmbF95d0JEbFFrOS13UFVieV9WajlqNnpfTktPRndlcg?oc=5",
@@ -3482,6 +3557,21 @@
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "636b5e597cae1d9c",
+   "title": "Start-Up Visa Active Management Rules: IRCC 2026 Guide - immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMGptLW8zaFJ5SXdZWTRMeDFCTW04X3F4aXl4cTZ6T3RaY1FwMlZUM1pqaElHRFRNa1RRcWVQXzJ5TkU1aFRWLTVRV2lxVW1CNUFJUVI1T1VNbVpFRXl2LV9tQ3cxMmR2UVFwR2o5X0N3QWJ0Wmk4OVRNelFRVVdDVm9QclItM3RVdWNKYmR1RQ?oc=5",
+   "summary": "",
+   "publisher": "immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-startup",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-03T07:45:37.670227+00:00",
+   "visas": [
+    "startup"
    ]
   },
   {
@@ -3630,6 +3720,21 @@
    "published": "2026-09-27T21:23:00+00:00",
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": []
+  },
+  {
+   "id": "ddc4c925dd7fc8c8",
+   "title": "Qatar Releases List of 47 Countries Eligible for Free 30-Day Tourist Visa - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM1ZsTmVlbDFpRnY5NmFOZkk2czhRMjhRVElXSjNYWkNfcDJTaks1REZ4YXNLQkR6d21zWGZIemJhWnBhdko3TVRpZ0QwX3ZOZlp2Z1R0cXpoT3dEZWo1cXRTbmVuRTVRQVhQZDExSzA2NVZNZUNHR3daTk91ZUJCdGwyVTV0ZjZ2enlXUzdXVDlVX0ZObVEteTM0TzdtV183?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-27T16:35:41+00:00",
+   "fetched": "2026-10-03T07:45:37.670227+00:00",
+   "visas": [
+    "visitor"
+   ]
   },
   {
    "id": "33fcc166b912b84c",
@@ -10582,6 +10687,21 @@
    "published": "2026-09-08T07:00:00+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "9f09dee5be731448",
+   "title": "US Visitor Visa holders: 7 activities you must avoid during your stay - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSEZPMlN5UnEySFpGNHBRaU44RnZUWktNUTFtR3Fnc3Q3WncwejZBaS10Tk5NZmlUcHBGdFJmUmFaSFB5Y1VyX1p4UkZpYXJINUlzeHFjRE5yaWdFSG85QWZGYUJjZERLYjI2emZNV0d0MHo2cHo0enl6VHpyQlBucmNKRjl2NW0zN2t3Skh3?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-08T07:00:00+00:00",
+   "fetched": "2026-10-03T07:45:37.670227+00:00",
+   "visas": [
+    "visitor"
+   ]
   },
   {
    "id": "47ead2db1d38278c",
