@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T06:22:17.234951+00:00",
+ "updated": "2026-10-03T06:58:28.613872+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -120,7 +120,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-investor",
@@ -132,13 +132,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -240,7 +240,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -1061,6 +1061,21 @@
    "visas": []
   },
   {
+   "id": "429357f01ea5d956",
+   "title": "Calif. Judge Vacates Trump's $100K H-1B Fee Policies - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGdWdWdZVFZBci1BdmR3SHJvZWstZnlNRjl5T2JvQll6Tk5IUkJOVTJxVHVLcG50WnYyN0FXUGFyVzdPT20zYXBnT3o3cnBWTFJmX1N0TVNPSGF6Z1R1NzJqVGx6eklPWE9jQkJZYlZOcmR0bFFXMjF1TGFOLThNZ0NnU2FLZ3JyUzE1Qlg5dkVsZFVfUEcxZ256ZzVHbDZPa3VOalVXSGV6NC15YzBQNG55NEhIUlZx0gFyQVVfeXFMTkRSSE1ZSDBLUUxENUxoTWNoYmx2X3hfTlo3aDJuclc3OFNtTHNKVW96djJIdncyVUNkb0tuakFhVkhKeGxYQ3lGMGI1NWNJV29IcnJzZ2lrTWtaT3h5N0Z3Y3JxekdVbVpfb3lJaDBNRHhR?oc=5",
+   "summary": "",
+   "publisher": "Law360",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-01T22:48:53+00:00",
+   "fetched": "2026-10-03T06:58:28.613872+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
    "id": "9b961ce2d65e8dda",
    "title": "Student visa crackdown expands beyond visitors as Government closes more onshore pathways - The Koala News",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNakNsZGIxM2ljQV9yVUJFb2QyY2drTmM3Z3pLenVlUnRXQ0c3TE82Y2FSVTlsN1ZvdFNnUGV2ZERoTTloYkZZOG91V25xTkRlTVNhM0xhNVV6ODd6Ty0xa1h2T1N4akJQVjJPRTItVzVxM1ZrZ2gwUW10SDZ4Q29qY0VabkN2UWhNdlBwMmNRSzhfYkNEZDVORGF4cDhhZmdfTmlaVFJLNTFkTFpMbFhQNXMwRHdZQQ?oc=5",
@@ -1115,6 +1130,21 @@
    "published": "2026-10-01T20:55:55+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "dd3c19072b6404d7",
+   "title": "Second Federal Court Rules Against Trump's $100,000 H-1B Visa Fee - Reason Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWU13dC1nY2VHV09BVnRmWnkxRl9DVi1tbWdCandpWWVVZWxMWEplN2pwbFVLV1RmS2kxZ3dsZnAxZUxTZmprRzg2cDJrSTdTc19vTEYzSUM0TFBuc2hVUXF1MEU1ZTlqREctUWkyN3l0Ti0xYVlrU0kzWi1lNWpFdUl4OGRNVW1LTkt1bmxKS09DOWdSWHlXaWF4RlVjSjZfUFE?oc=5",
+   "summary": "",
+   "publisher": "Reason Magazine",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-01T20:11:58+00:00",
+   "fetched": "2026-10-03T06:58:28.613872+00:00",
+   "visas": [
+    "h1b"
+   ]
   },
   {
    "id": "0e755f51178e3e66",
@@ -3277,6 +3307,19 @@
    "source": "au-skilled",
    "published": "2026-09-28T11:33:56+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
+   "visas": []
+  },
+  {
+   "id": "9783781009b47461",
+   "title": "Hyderabad Has India’s Longest US Visa Wait Time Right Now - Gulte",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlRGTXhISnhJaDI5d1Q4MklTMS1nb285a2cxU2diTTgzWUZDUGZWMFdlNEEybEd4YjBocnpteUtkVDNCeWJPSEdSdjJGX1NWUFl2ODdvaUVDbU1JY05vNEhzQzBWQmxzaFU3elR2X1FpSGU5d2NZbWx0b3Bjc2JZUkV5THhXTkMzWTNxaGtaSFFUQXUxRmFHY1J30gGfAUFVX3lxTFBGQl9BMWJraEdQNHJSVVFMS25DYmszdVNOX0RwQlVoWm9uTUs1TlZVdUhjbTJyN0dNalhsZmtadm1RR2JqNVRIYkp3cndDQXQzendsZDZ2LWF5ODl3QnlQaF9RaE5QLUNnbWNpMW90TjdacElmclNXVXRlNWQ0R1BaSm9HcS0xWE9JbUFUb2ZMVGhRNXF5NzczVHNtZFZCbw?oc=5",
+   "summary": "",
+   "publisher": "Gulte",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-28T10:01:06+00:00",
+   "fetched": "2026-10-03T06:58:28.613872+00:00",
    "visas": []
   },
   {
