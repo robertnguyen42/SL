@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T03:54:58.088118+00:00",
+ "updated": "2026-10-03T04:16:26.530181+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -53,14 +53,14 @@
   {
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-en",
    "name": "Google News – Australia Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-gov",
@@ -71,14 +71,14 @@
   {
    "id": "us-vi",
    "name": "Google News – Định cư Mỹ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-en",
    "name": "Google News – US Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-gov",
@@ -89,164 +89,164 @@
   {
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 11
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 7
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 32
   },
   {
    "id": "au-student",
    "name": "Google News – Úc – 500 · Du học",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 9
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 24
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 12
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 39
   },
   {
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-eb-work",
    "name": "Google News – Mỹ – EB-1 / EB-2 / EB-3 · Định cư diện việc làm",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-h1b",
    "name": "Google News – Mỹ – H-1B · Lao động chuyên môn",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 6
   },
   {
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 25
   },
   {
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-green-card",
    "name": "Google News – Mỹ – Thẻ xanh – Điều chỉnh tình trạng",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-express-entry",
    "name": "Google News – Canada – Express Entry · Tay nghề liên bang",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-work",
    "name": "Google News – Canada – Work Permit · Lao động",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 35
   }
  ],
  "items": [
@@ -1625,6 +1625,21 @@
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": [
     "visa-bulletin"
+   ]
+  },
+  {
+   "id": "6058c4bdae31fa4c",
+   "title": "EEOC sues Plano company over 'Only H-1B' job posting - dallasnews.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcHpoZTNzcFhBTUZfMkJwYldMb251NkpjaXJ2WUlyR3YzeExYUmtsQ2R0UHFqbXRNeE5HcnFsdzRPWnhDaFZ1M0xkclRaY19lN2xYN1ByTGdna3pNWnVueGtNYURibFdxMVA2Tk1VOTFuU2RnOUNrNlZwdzZtdnU5aElMbUV1UXBEM2FEamdJdEkyc1FLS1dnYzJpYjlUc1k5ZmZvUDcyaXlEMHJE?oc=5",
+   "summary": "",
+   "publisher": "dallasnews.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-30T21:27:32+00:00",
+   "fetched": "2026-10-03T04:16:26.530181+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
@@ -4949,6 +4964,21 @@
    "visas": []
   },
   {
+   "id": "794de508b34b7cfa",
+   "title": "'It was one of her dreams': 41 new citizens welcomed during Charleston naturalization - herald-dispatch.com",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbUR4b3VWQlBPLTZCcXZIYnVXbl9mbWNLd0VRMzJUckg4aExmZzRzU25SODdwMDRrNzNhTkNJcDRGUW1HU05TZk85aEotb2p1dXFwUTJyRDFOX21kYlVtTUJhcWM1cmZSeDR1aXFWN1pfMXRPUklXdVRqc3UtV0d1bHFEejUwSlp6RjRxOXNRa2taY0ZMdnBTd0ExUWo3a2VzLU9vd0FuVVI4ZldiWHdFZFVxUTFkVElIb3gxdzJMZ3lnYUVBZFlxUS01VzV0akVkazhsLVkyV2tXQmNHa2FzRXFXMXhiTXV5WmVmMEVEY0Y0elN3Slpsd0xLV2Z6Zw?oc=5",
+   "summary": "",
+   "publisher": "herald-dispatch.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-22T04:02:43+00:00",
+   "fetched": "2026-10-03T04:16:26.530181+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "d706e6f4aefc74af",
    "title": "Labor is throwing international students under a Pauline Hanson-driven bus - crikey.com.au",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUmdIc3N6UEpGMG1MXzEwRzJBd1g2MjdjS21GUUxiSXd4eVEtN2JKcXdtSkd4UGNzR0VJNll5cGpkQk05Yjlkdi1fUVI4TUphc1A5WkNOdFNlZjFTRFdQWS0tMFdnaW81RTJqM1ZzaThocklaam1xTmp0MG9vRGd6SXp6R1Y3dkZyVE84OElBMGhfRGVycU5wcW9LSWxjLW1KanRWNlNDb1NQV2ZscHhDZXdNLXFRQm9DRFU0RHln?oc=5",
@@ -5247,6 +5277,21 @@
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": [
     "work"
+   ]
+  },
+  {
+   "id": "21bdbbcc8bfcf090",
+   "title": "Should Indian students abandon the 'American Dream' amid F-1 visa volatility? 4 things immigration expert - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNDNJN1dFRmVaNU02YzI3b3dRZnF6ZDdKdzFDTFRhQ191UzBXOUdwOFFabU56bU5QMC1DTFEzbUhzQk9Pa3R2WDZibjNxZzlCNDhTQ01xcGM5Q2kzdGotMkxMbS1ZM19mc1hPMlR4QUNIWXBqZ3JCZTNPbUtMeC16S19KRXE2allrdTM5UEE0M0doTUN2MHczQmRMS0Y2UnhsejEtb0doLTVoV2pyWTN6TjUtWjFINmNKNnpjTGhvM2pTeXp3UTVxSjdjRWVTVTRVa2drZ2FTbmM5b0hPYjVpMGJZdjJ6MzRjYWx3am4wZEl6TVQxUWNoUW1VVV84dzVlb1YwT3VQalZ4MlFJWDc40gGUAkFVX3lxTFBPQVJVaExDOE5vbFhmUnVkMF9XeHFUZGJ5MEtzTWNqOVp1UDJ1eGNZWlA2dElHVWloV0hvZHlybnY5RE1pQWZjaW02VDBLVFgxMHJ0aHVBRUNOMFN2OVEwLUFmTEFOY180M1BTNU5mYmlfaks2QThGV2dsdUdHNjdCaUVObXFQQng1U0I4RmRPbF9WU1g1OUsxSFBPT3BUTTBGNm51dVhCakpBbVMzazBHRDM3bUxiNlhBaWhDVWFTSVVYZkExOW56QUJtdzdycXBud1RtZnBBenlBSUZ4U2cxV3lkTmxqWVJULUtRQ1pjdm10bWlNaWN6V0c2SGJZUnJvbExqdC1OR2ttSkRDeml4ak9SeQ?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-20T07:00:00+00:00",
+   "fetched": "2026-10-03T04:16:26.530181+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -6900,6 +6945,19 @@
    "visas": [
     "citizenship"
    ]
+  },
+  {
+   "id": "f05916ddae36b1f0",
+   "title": "Burke's migration shake-up fast-tracks priority job sectors - hcamag.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOamlVWk56UmRodWpGZV9qdjFxSmNDWTItbU5kTElYcEM0cVpCTEswRzFjZDMydGk4UHpzNzJMUVM0X2MyM0VXemtfand3RVE4dDMzV2I2ZXU3S29xa1EzMnNMVHZMdHpJaExvSVN1cWNZbmxaM1ZLcXVQdmxKM3MwQ3haUjBkdXdTdWlVRXo1VTNUdnI5cExaUHRyaTk5VWVqbGdqZ0ktMEEzMzR4ZG1iZFRscXhLRDMtckE?oc=5",
+   "summary": "",
+   "publisher": "hcamag.com",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-03T04:16:26.530181+00:00",
+   "visas": []
   },
   {
    "id": "1de8ea0df6bb963c",
