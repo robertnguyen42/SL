@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T04:16:26.530181+00:00",
+ "updated": "2026-10-03T04:44:24.468912+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,7 +90,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-skills-in-demand",
@@ -138,7 +138,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -180,7 +180,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -250,6 +250,19 @@
   }
  ],
  "items": [
+  {
+   "id": "5490c6a219821148",
+   "title": "India excluded as US expands visa-bond requirement to 50 countries - Telangana Today",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUjhwZUhvZ19uZUpCS3JqN3BGU1ktNjNfNGE0SGVLbmc4MW9Pcm5YRTdveXRNeHQ5cXpfMGVZVG1vMDdlQ0FBanE4Um1ZcnJtdGswQ1JnYXBHZ2JXSjQ2NUxUYXI5ZGdSWFpCU3NHeGVmdU04ZVpxLXlib0Y2ZlRPTDIxUGZaVWhqc3Y2ZmxjREU2b1h6c0kyVw?oc=5",
+   "summary": "",
+   "publisher": "Telangana Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T04:31:08+00:00",
+   "fetched": "2026-10-03T04:44:24.468912+00:00",
+   "visas": []
+  },
   {
    "id": "9f0f4e1c7d32b464",
    "title": "USCIS Delays Standalone I-130 Petitions for Immediate Relatives by Transferring Them to Local Field Offices - Chodorow Law Offices",
@@ -3191,6 +3204,21 @@
    ]
   },
   {
+   "id": "63b104271b4980b2",
+   "title": "New York hospitals push for exemption from federal H-1B visa fee - Crain's New York",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1RELUZVZ2hKNHNtYWFxdnV6TmQycVFfUzJfLTZDSGRzN0NObjFVSWdyT3VwWFF1dUNwb0RUbm1vTDJZa3RkSjZSNEE5TFZUWWZ4UkE0Q1hWWUZoSG9sWjFKTXB5NGlnTi1qc3B6UGx6azJ1UnZqY0V2cWVkMC00NzhiOWdIdmxYWHpxMg?oc=5",
+   "summary": "",
+   "publisher": "Crain's New York",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-28T09:30:00+00:00",
+   "fetched": "2026-10-03T04:44:24.468912+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
    "id": "467b0f9fdc50a14d",
    "title": "Fewer citizenship applications approved in Greater Cincinnati in 2026 - 91.7 WVXU",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU0stSU0tT0JWblVFSG9LeHp3LTZrQlI1OVZ3ZHk1T3hobkY5R2p6TWdQTmlBU0Z5ejVCSElfZFhwWEJLOWhaeWZ3c0UyY21FeGVjZ09KMmdNRmYyeFlBc19sY2tZV09tS1R6NEhmbF95d0JEbFFrOS13UFVieV9WajlqNnpfTktPRndlcg?oc=5",
@@ -4721,6 +4749,19 @@
    "source": "ca-pr-citizenship",
    "published": "2026-09-23T07:00:00+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
+   "visas": []
+  },
+  {
+   "id": "19e95c71cebc57ae",
+   "title": "Trump says Canada ‘destroying itself’ with high immigration levels, data show numbers going down - cp24.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeUJ6TUxGZnRHdmJPQU9lc1I2aFVsMldBRExuZzhaME9vN3VIWXExMjJzNE9RNjB0dmdfNFlaMEpVbnZtR2xFMGZKc3VyWlFscE9MZ3Zfb25zeWFmN3oxVWVxT2VPeEJxcml5S0oxUVo0TFhvNTJuelBDYkxsdUIxOFMwT1g2dDBIbjJQMUR2MzNiR0U4dlNfRlVKSnBjOVJRQ242MzI3aGF3N1ZJaHR1cUNBckhyNGJ2SkpSMDVXOXhBUQ?oc=5",
+   "summary": "",
+   "publisher": "cp24.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-03T04:44:24.468912+00:00",
    "visas": []
   },
   {
@@ -8778,6 +8819,19 @@
    "visas": [
     "work"
    ]
+  },
+  {
+   "id": "b60de0a6d5da583c",
+   "title": "Mexican Woman Shares How Her U.S. Visa Was Denied in Less Than a Minute: 'They Didn't Ask Us Anything' - Heraldo USA",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZnZ6WFpNZ0VVcEI2ZUlNZldyYXdrcGV0Q2pBV2MwY3pycE9Bal9qWVNpU3BzYlc2YVB6NlRkdkMxQ01hVkI4SENiZm5zeW9JdXVnOVVFd01pSUJxUE1hUWVnRkZhcG1TdC1QZEFZNlNMcWFkOE4wYmMzeGZ3S190cWJ0ZUk0ZHBkdDBrMWdPMXItQ0Y0LUw2M3JyYjFEWnlHeDB3OEtudjlaUER4UHFjOG9BX3RUOFp3WkcxbHIycTVSMVhvM294Tmd5dEI4Uk0zRkNOQmxYX0JOMncxclpEOXB0OUYxZTlrUk1QWA?oc=5",
+   "summary": "",
+   "publisher": "Heraldo USA",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-13T07:00:00+00:00",
+   "fetched": "2026-10-03T04:44:24.468912+00:00",
+   "visas": []
   },
   {
    "id": "1a9d8b3a2975baa8",
