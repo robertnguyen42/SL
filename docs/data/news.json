@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T04:44:24.468912+00:00",
+ "updated": "2026-10-03T05:13:38.290447+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -138,13 +138,13 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "us-eb5",
@@ -180,7 +180,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "us-visa-bulletin",
@@ -240,7 +240,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -507,6 +507,21 @@
    "visas": [
     "pr-citizenship",
     "visitor"
+   ]
+  },
+  {
+   "id": "d4c16c7b859986d9",
+   "title": "Judge asks for a ‘roadmap’ before final ruling on Trump student visa limits - MassLive.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYWRqY2ZwSWlZLUpKaXBBLWMtNWpYb3ZvSWF0aUQ4cFBqb0JPdHFiak1NSXo0azg0Vk9YeUw2akdXX2JFakd3MS1jT2F3WkdHS0IzaU8tWjNVazdEWmxxM2x6Vy1Nc3Nvb25kOHNQNWhGUldIdzZLUUV4WGRVQnpqMFU2N3RzbVpObjdkanZrRzIxNlE0ODVIXy03eU90b09ERUN5YVlQa2JDTThJWHRJQXZhb0lGUQ?oc=5",
+   "summary": "",
+   "publisher": "MassLive.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-02T17:35:00+00:00",
+   "fetched": "2026-10-03T05:13:38.290447+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -4180,6 +4195,19 @@
    "source": "us-visitor",
    "published": "2026-09-25T03:44:00+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
+   "visas": []
+  },
+  {
+   "id": "8b1e6d7fa61724d3",
+   "title": "US Visa Delays Hit Indian Travelers as Visitor Appointments Reach 12 Months - Aviation A2Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTjR3TGNXSl9kSXRRVFh0YlJ0Q2swMU9zVld2eVVVX0oxR1h3WllzODlRSjNmRUlrRFdwNzVjNjJ3SXNZd1lVVEFiX2hGTDc3QlNkU2ZWemtCWWE0VkJzc0dRNDZPUnY4NTd3WVFuOHl2T1FYYnRnOVd2WVJoVHJBZVRJdUpDWFdoM0JHVm4ySld6dmc1RjNOanphVGRxZDE3TXRpTzlibWg5MzJWaWdLWlhvUzJpRk4tOTRMNmRn?oc=5",
+   "summary": "",
+   "publisher": "Aviation A2Z",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-24T23:34:00+00:00",
+   "fetched": "2026-10-03T05:13:38.290447+00:00",
    "visas": []
   },
   {
