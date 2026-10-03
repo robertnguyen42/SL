@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T14:47:38.206923+00:00",
+ "updated": "2026-10-03T18:54:29.235821+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,7 +90,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 13
+   "count": 15
   },
   {
    "id": "au-skills-in-demand",
@@ -120,31 +120,31 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-eb5",
@@ -180,7 +180,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 24
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -240,16 +240,59 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 36
+   "count": 37
   }
  ],
  "items": [
+  {
+   "id": "806d0803ad1fe936",
+   "title": "US More Than Doubles Key EB-5 Investor Visa Fees From Nov. 30 - IndiaWest",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWFnNlBWenNBODh3cXV1TEhVUEU5NG1zODRuMXFrdnkwTGVZSGtxMlRrOXN0RlNrWkY5V2c1WkJNcUpOTVJpU21kUkV2bVk2ekNTZTAtZ1NKZUpQeWgzdXVJSElHNzdsWHhIdXVUWjl2R1BHNE1xSU1sd3ZSdUR2TkVKWTM5U0thTnUxZg?oc=5",
+   "summary": "",
+   "publisher": "IndiaWest",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-03T15:45:25+00:00",
+   "fetched": "2026-10-03T18:54:29.235821+00:00",
+   "visas": [
+    "eb5"
+   ]
+  },
+  {
+   "id": "18d60b9637e7576c",
+   "title": "Updated: 50 countries whose citizens need up to KSh 2.5m visa bond to enter US - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLS1teFlOZVp2Z0pobld1YjNRbkpLNEZ0VHpReGdTNnNzN1o1aEdrQmJ5cXNYckF4aGFiNk1hUHBzM0NZSXN3VERmbl9fQmlLQzg0ZFk3ZVBoMWtaYmFhLVR5a0ZpTjV4WHE2d3JzeTgwNl9xQ2FselE5RTliem1WY0tLUzFaQzUtVkFVMkVJWjdKLUpWdWJ0clE2QXN0V3V4TkV0Zy1VNXNuSWFpbWx5dmRldFM?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T15:27:15+00:00",
+   "fetched": "2026-10-03T18:54:29.235821+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
+   "id": "b6a9397e3593ed9c",
+   "title": "New Zealand Lists 3 Family Members Eligible For Parent Resident Visa, Mentions Amount - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDFhQnNIWnZwMlFNNFJWaHQ4NEZKb2FMcHF5Y01Ud2NIeVVQcFd6RExRQXBiaVZEbkh0ZGpieWRVVHF3M3VnX2M0aXJiSjVVVXprWmw1MUZyNDZmaXhPZVNoMEZOU3lUTUpHN2QzUzFNSVpuWlVNNEoyMUJrMGNlclVxUHIybDBQdGs1LUFxdVJWMlE3RWlPWmVmRjU1M1hENlFOM2FScXpaa1EwRUVBMUlxeTR1ekI4?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-10-03T13:43:58+00:00",
+   "fetched": "2026-10-03T18:54:29.235821+00:00",
+   "visas": []
+  },
   {
    "id": "66a881fbbee8112e",
    "title": "India's 3 neighbours on list as US imposes visa bond of up to $20,000 on 50 countries | To see the complete list | Inshorts - inshorts.com",
@@ -608,6 +651,21 @@
    "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "b7298ea71efd29a8",
+   "title": "IRCC Express Entry Draw Invites 3,500 Candidates Under Trades Occupations - cic times",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHExb3daU0xnc2FMNEdJQXgwVFo3M1hzSkNuZzRqeTZ1ek5CRkp5akliZ1dzTTlNQ0Fzb090bzZFME1MeFJNUmlhQWtfem9VaU5DTDRkbGxuN1ZyenpkQjEzQkhhZ19GaDlPT2ZjNllkbllRaWRabFR4dXJJeFZkdkFfZ2hKVTZZRTQ3VkJFejR5elNKUUV1aTUyWmJpdw?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-02T23:13:00+00:00",
+   "fetched": "2026-10-03T18:54:29.235821+00:00",
+   "visas": [
+    "express-entry"
    ]
   },
   {
@@ -7688,6 +7746,19 @@
    "visas": [
     "pr-citizenship"
    ]
+  },
+  {
+   "id": "b7d7a46243177924",
+   "title": "Labor has finally poked its head out of the sand on migration - AFR",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNDcxRlFzckN0WUxXYm1XTHhkdTU0LUJxWXZYdDdRSE9OdGtRU2hSazNqMmFGY0Y1a1FZUENCTHJYbWdQZXVNYlBJS2tTd3hJaHRjYXRsQ2w1UU9ERUM1TmNSaDhxTDR2d1lSb21GSjdrLVpoRTN4TmhBWm9Jb1hVVkVKNkpFSWFzc0lvVDgyODZrR0VjYk9ON1VNVGc2QXdZa0JqUWhPOVVVRmNJd2xLSHpHblA?oc=5",
+   "summary": "",
+   "publisher": "AFR",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-03T18:54:29.235821+00:00",
+   "visas": []
   },
   {
    "id": "1de8ea0df6bb963c",
