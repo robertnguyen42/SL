@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T06:58:28.613872+00:00",
+ "updated": "2026-10-03T07:20:52.079544+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,7 +90,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-skills-in-demand",
@@ -132,13 +132,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -180,7 +180,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "us-visa-bulletin",
@@ -3055,6 +3055,22 @@
    ]
   },
   {
+   "id": "c5aef08fd2a98a00",
+   "title": "IRCC Issued 733 ITAs in Latest Express Entry PNP Draw for Skilled Candidates - cic times",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSzRWQm9xUG1BMVhIZ1V4cXZZekVhOHpHMzNreVpfbUVXd3g2LThTSVBPZlNZWUhXWnNJYlFGVFgwekNQaFdVZnJ5S3FNU2JtWlNDQ3U3X25fRUw0N2J3XzNnLVdWQVFRcGQzME9HT2Qzd1lEalFyOTZiTjJRZHE0Q2MzYzNpRXFwLTZ0ZzM5X1RHS2ZWUTRmM2w3VWFkZ0cyQ0NF?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-29T02:15:00+00:00",
+   "fetched": "2026-10-03T07:20:52.079544+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ]
+  },
+  {
    "id": "39fdc7e3765d6c3a",
    "title": "Proposed $103,265 H-1B Is Changing Talent Acquisition Strategy - SHRM",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkhRUXA4NW1fWm5FY1BuUWFuMHNObU9ISzhJOXlmdURTRDM0RFdnX3pETGdSSnVwcHU4YmlpVjlmUjk3ZU1VQkZSSEtsN0J3S28tS3RHbzBwMFVJdVViUjR0MzVBSTBBdDBjOVNmSUJYaVlxSkExa2lRT2RCWmh4U3VFS21meXZYMHQ5UnZnZ2dYVm1rWkt1UUVVS010LW1uQ0E?oc=5",
@@ -3308,6 +3324,21 @@
    "published": "2026-09-28T11:33:56+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "5d13268465fe9c7b",
+   "title": "Canada Announces 3 Reasons Foreigners May Need to Extend Their Work Permit - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlFlaGVzRjVJSnZ0dkM3WEJWTkVQZjEtaXFNaldVdG1YRVdSTG1Td1FoWkRWNm9GR0hCcVNGS20tRFdEMEVselRnaTl2ZF9xNFNpM2NSMTZEejVTTEcxR0Y5Vkgtd3Y4dHpiTFdPa19sSVJ5VWlqUTlaWXdOTWZkVDVQZmdjYTRBbmVSVmtYS3M1OGxRS0FmVw?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-28T10:12:06+00:00",
+   "fetched": "2026-10-03T07:20:52.079544+00:00",
+   "visas": [
+    "work"
+   ]
   },
   {
    "id": "9783781009b47461",
@@ -3652,6 +3683,21 @@
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": [
     "pr-citizenship"
+   ]
+  },
+  {
+   "id": "86943813170b3325",
+   "title": "‘We have handcuffs ready’: Trump admin warns of major H-1B changes as visa fraud crackdown widens - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcVljWG1YdWNFc2I1M3YzQU1WeG1kSjNkSEFETFBXWFJybXJBejRlQk9zMXJCR3RhZ3doWXZBakxBUE5hTFVFXzg2QmxNbWJJR3o3ZFYxZTVQTG0tVXpYemdFM0lKa1NRVG1RRktaODZuMERyblVheHRiWkEzZmFMQVF1RWlaOGRkUjZVc25zVTY0b2Q0czVOTk1yWHNBb3RIa0p5T2lmM1BxMWhjSDE5ZHlxaHRLWGRzOUFmZzZEWjBWMy1nLWZKakIxMjFhcjJvbUpDczAzLU52MVBWOUlWSkstZm1LQWJIUDc5OXRnaU9BNDhIX3JzYtIB_gFBVV95cUxOdzdkUnZBS0hLUXR2ZXRTY3BRYjBKVzJGbzl1Y2J2Mk5uMTliQkJxMVlJTks0eDZpZmliTVlYcFFaX0FYNkxIQWdrZjlNVWhkYzhrZmw3eUhzNi1hdTJvZXQ4TWJmLWZlVFpsN0I2YzIzWkZkcTVyeVpMZUNxbXoxTkhDOWp1R3RzOG05VmFNQ0VRa0l1OXdhams2U2dzSG9pdWlyZXlVa3ZvM1dxcW1Bak9kRExLblN5ODdRVVgwSGNGc21aMkxrcUJJakdibHFJRGlwYnNPbk5DSU1FU0JYMnVya29HOUd3eFRMUmdIN0FiZ3JoelhSb2poa3ZuZw?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-27T11:53:00+00:00",
+   "fetched": "2026-10-03T07:20:52.079544+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
@@ -4798,6 +4844,21 @@
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": [
     "work"
+   ]
+  },
+  {
+   "id": "a77d8a48cea5d88c",
+   "title": "US visa wait times announced for F-1, B1/B2 applicants: Check for 4 Indian cities - financialexpress.com",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTThLY1F2cWJJenlrMXJKSVAyMTBORUpaelhnTmliMl9yX1RRUU5lakxLMHoyTllaaF9MTWQ1eXAwbWxOSFpadm0wTVpxT1Y0bTVKdDJhN19jQkhUUmRyTWV0b2kxV0lSWVZkaGFLcHpKNnZlVzBaYV9hMldpbERZc1lSNW5aUG5UZzRXRzdybmdmNm1FemhWQTdNZHA4QTJQM0hjc3lwZVRKb0VValBFRERtVW01Z1c5dU5VRDlhRDNFNHVVUUo5OTBTQ3VNRjlHblpOVmNSWk95R0JiLUVTcGVaaExQQdIB7AFBVV95cUxOZUpYZURSTG51LTQ4MkZsZ0prVWMwSEtkX21yeE4xQ2lsQnV4N1B4MXJPbmdzNkpOcHBCU3VDbTNrX0NyNUxMZXZCZHl6czd1bElNTmROTW9jSGNNS3d3dXhfX2gxNzlNeHBpdXZXUm1qbzd2eWlGVXNaRUFUMF9kZk9OWlQzdmxrRlRVSXVzbHNfVkRMNFZFczd3Q196V200b2l0aUZNdm5KeUtsTTM5XzR5aWJzVkRKdE9XU0N4dERSSGpGbEx5MUtQS2cxc0Y5a0NMalFBOHhkVjRGX0E2dFctM2toTXZhSU9USw?oc=5",
+   "summary": "",
+   "publisher": "financialexpress.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-23T13:21:18+00:00",
+   "fetched": "2026-10-03T07:20:52.079544+00:00",
+   "visas": [
+    "visitor"
    ]
   },
   {
@@ -6446,6 +6507,21 @@
    "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": [
     "citizenship"
+   ]
+  },
+  {
+   "id": "7f962954e0836595",
+   "title": "Canada Announces Documents Eligible Foreigners Must Submit for Work Permit at Port of Entry - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmtfSlQxX1hvdXp6ZFNxNjlyYkVwdGFuSll0RlBBT3FSZzFCMlh6aXllMFYyYlNBTi1sUG5Va1NfbTh5Y0RGSXFsaXltbjc0dFhBZEJQNGFsNG82SFBnMUZiVlo2Q09Jc28yQlA4M3l3S0ZUVWptSjlKTEpFZWpoTl9oSV9MUlI2Y1Y0dFlta3hOSEdoM2U3dzdhcjRMRjJkWlE?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-03T07:20:52.079544+00:00",
+   "visas": [
+    "work"
    ]
   },
   {
@@ -8161,6 +8237,21 @@
    "published": "2026-09-15T07:00:00+00:00",
    "fetched": "2026-10-03T06:22:17.234951+00:00",
    "visas": []
+  },
+  {
+   "id": "4dd2f4684e7bdd82",
+   "title": "DHS Plans to Dramatically Increase Naturalization Filing Fees - Boundless Immigration",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnpoa0Vpd0NtTTdHNWJDbm80dEIwY3NjY2c5MGF1Z2FTNnhRdWd6eVllaXQxSno2a0huTzhqQ2pLNkNtT2JOekpENGE2c3FJSmJXNWNFSkVOVHdYcHhVVks2WHJmVFdtRjFBT2EwWVZwQXdHSUZDbUIxVDhfeV8zTmtHc0xDcXRT?oc=5",
+   "summary": "",
+   "publisher": "Boundless Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-03T07:20:52.079544+00:00",
+   "visas": [
+    "citizenship"
+   ]
   },
   {
    "id": "3b6595c0fcaa700c",
@@ -10107,6 +10198,21 @@
    "fetched": "2026-10-02T08:31:38.597334+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "b967fe4a7177ddd4",
+   "title": "Cognizant green card filings suspended in US: What it means for workers - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVF5cUZhbG5ZazZ3VlA3Y3VrLXJvd2NPQ01mcDM2NlgwU0V3VkNhc1dFZGIxNllWb1dwYUVkdE9US3ItY1o4NFIxUlZKcmliOVpyb2ZaOVNYaEtTLVYySzRiWHl1WDBGTFZsUjNwc0xWY05YR0hkd0hRM1JWR3BUOUgxOV8xdGxudF9TVnFUV0J4b3dDX3lHZFQzNG9iamZHc2Q4UlFjX1A0VnhQbzRmeFBySUVNME5CN3lzdXNWT21hTlFZVFlBQmpHQnBqZWdWOGfSAdcBQVVfeXFMT0VNUG5oLXpjS2JZV2ZsdnRHSlFLZ0FiTXJNOGNlNFdjZm5LcHJwMl82NGU2M1AzX2hHaHZKU09oU0NXVl9VX0NqdlJjLVpDaEFlNnRwQ0J2a3djOUxPbERMcUp3UXk3Y2hFTS0taTFqZkdZeEFBbTlKdHAyWGpGVTBqWXlidURHWUJ6MWhfM1lnOHdDRUN6RmlaTjRldk90S21zTnRLLXVpdGp5WVJsVk54UHg4dER5YVlPQ1pGekJDdk5SdlVZazRHOGtxanhrdDFyYklvNWc?oc=5",
+   "summary": "",
+   "publisher": "Business Standard",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-03T07:20:52.079544+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
