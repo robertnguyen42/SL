@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T08:31:38.597334+00:00",
+ "updated": "2026-10-03T02:20:06.267887+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,7 +90,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "id": "au-skills-in-demand",
@@ -108,7 +108,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "au-student",
@@ -126,13 +126,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-parent",
@@ -144,7 +144,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "us-eb5",
@@ -240,16 +240,463 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 34
+   "count": 36
   }
  ],
  "items": [
+  {
+   "id": "9f0f4e1c7d32b464",
+   "title": "USCIS Delays Standalone I-130 Petitions for Immediate Relatives by Transferring Them to Local Field Offices - Chodorow Law Offices",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRVloSEZ0bEFlWk9GWVJiYm9pNXBFdEJPNFJOWTI0ZER1a3BDSUZNOHpmT29DOFprLXhhSGhTMThmVGVPU2owRVlZVkdVUkhseTdiQm9GM2dXR2kwQ0VXRFVITkk0MVFpcWhnbzNST3JMYXF4endtYUJqdmVvblgwYVF4VFQ0V215WjlySFBjOUd5bUxoMURfakY0VTAwdFhEUXZidWRoZXpGRkVzclRpRUtsRnpwTzVYUHFZWGVXN2Y5cTNJZmcta1IwMHBSZw?oc=5",
+   "summary": "",
+   "publisher": "Chodorow Law Offices",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-03T02:03:38+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "family"
+   ]
+  },
+  {
+   "id": "4f56e82aa3a13440",
+   "title": "Vance says he’d support eliminating H-1B program as court fight stalls future - KATU",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT1NWOVYycnU3NTZ6OWpQM3EyVTZxb3hMMFlsdVRBd2VkeVVUVURRYlRfZXpjZzctR3BjMjM0ZW9KUVY1U1B2U1BWWWtDNGk2dG92azhaY3JfOHdDWC1COUZUeGplME91MUwwTV9RRTZETVJ4N09FanlYY3RnbGFzZWIwQ2tpZ0NSS2RCYUVKcFdyZnRfMF9LaF9IaGJpeU45eFNaQndaUEFneWNjVE51YmpFUDhmWTBGUUhqbmZtRmpxLVlYNEN1aHBoS1lUdW5TT3JsTjRudzNBc3Zob0dldkdWc1gzX3k2VWc?oc=5",
+   "summary": "",
+   "publisher": "KATU",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-02T23:26:19+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "7a493c3afcdf3f62",
+   "title": "Labor's working holiday visa policy risks regional seats, experts say - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXy1XaEllSHB1R3dabE5sSVlGWGd2LXRuWXBaS0lOMVZ5a09kTW9ta2NmRmRhVjU4R2s1RVR6M09ZdGd3bVMtc0tfMk12LVlDQmdwcmYwZGhONk8ya1pFZ3JUWXhBclFvZmxmTXZ1aEVVY2lGdW0yR2paX19Sc1RxVjRray1saVpadnRNUDVuT2xKMGc3a2EzM2VzMGpIaGVZ?oc=5",
+   "summary": "",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-02T23:08:36+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "23f412f3a14589b5",
+   "title": "USCIS Releases New E-Verify+ Employer and Employee Guides - Erickson Immigration Group",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNFhtc3VLWTdGSTNYR1MwcGlKRERqNTFQVGJNV0hVa3RuMVNJU3gwX0NzT2J1TVgwcG12WnVBNTREb0g3NXplREtlLTkwVFoyZkdEMkF1dWNaajFTQmg5VVhaVEk2RV9aaXRTdFQ0SmpNU1JkeF9HamJXcnBwejlXdVZR?oc=5",
+   "summary": "",
+   "publisher": "Erickson Immigration Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-02T22:47:34+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "7c2e113cc2f6cb4b",
+   "title": "Trump visa policies weigh on Columbia journalism program as admissions pause - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRUtiaktBNUVyd2ViTlBRZDN5cEdldGRHcVF3ZkdtTEJlYS1CZ2pzMzRxRGl6R1pzTmZrN3NyTkhYRVoyMm5KXy1pZUx3dllfRE5MNFhVb1U3bmNDRURFNnJyNHAzS3RNRGRvYXJRY0NfemVsRmdQTXh6TkpnV0RDbGdHXzg3TXItMkhPQkViTmR2Y29UaVE3bndnV0ZkOWZMS09GZUtaS1h3X18zZ29OV25RV2ltX1NiN2xoS3ZvT2pVeVJUNWFSWjBBREM4ZU9P?oc=5",
+   "summary": "",
+   "publisher": "NBC News",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-02T22:25:04+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "eb312b8b187b1d6b",
+   "title": "Boston federal judge asks higher ed leaders, Trump administration to submit ‘roadmap’ in student visa case - The Boston Globe",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFhEUll4YnhGZ2FkWlNUeWJKWXFHZE1EWFpzNFB4RENtSzFibWZ0SU5hODNsbEJ1RmR1cExIRXdGUW9rUmpwcmxySUhtcU5OM3hsb2twZDBFTG1TVFFfY1B1eG0tX0NVR1FEeUtURW5Zci1jekU1WnctOGJLXy05T252LWtad1M0ZWhj?oc=5",
+   "summary": "",
+   "publisher": "The Boston Globe",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-02T22:25:01+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "38e95b303e46b76f",
+   "title": "USCIS Raises Immigration Fees - International Legal and Business Services Group",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HNkZIX0pzRGNBNVVxNTF3UC16VEhGYWIwVHJCVU9wYjVQZ3Z5STNma0tMZjdXdHJTbkxndzhlZG5nTzYzc28yTkI4RHJ5SWhYbGJDemNSTmNzeUE5ZzFQT0xWOUI1MEozTy1NSzk0bW0xVkhEM3hKUzRn?oc=5",
+   "summary": "",
+   "publisher": "International Legal and Business Services Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-02T21:50:58+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "47d0a6aac5edef9d",
+   "title": "EB-2 NIW Green Card Case Study: Approval for Bilingual STEM Educator from Mexico - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDRINWFsRWktbmFSOWJ1WlN4TnhJbmJreFliR2lJTFBDTzh2SFRwc3RDWTBldEZIQnliSXJLWnhzZlVCeGRXRFl4eGU0d1JwR0dsVHA1UG9Pa1Q3NVNhVWszRUpLYmVWTVpiRjloS2pveHU3WGl0ZTJoSDVLVlQtRTdUNXdKdEZmUVZPN2JaZjBqdzFmY3BqR005cWlEUWlnd0F6T0lR0gGrAUFVX3lxTFAxa2NfTTdnZHFkRHpCWkw0cVI2Si1Mc25XSC0wUjlYRjRtcngwQkt6Ymp4alpUcjZlelo3blNZMm1BWFYzak1hRGJSZ3JqT2ZJbmlUaHdkWjBsV0ZsdmFsVmw1aUtSRnRrREQteHZvUXpQRGpyOXQxS3VJbDMxTXJJSU5TVE5SdVJucEF5M0t2b0JERnNoRVM2aF83eElUdlZaNGtCNThEM0YtOA?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-02T21:39:52+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
+  },
+  {
+   "id": "9c2aa22775e492ea",
+   "title": "Trump Administration Further Narrows Path for H-1B Hiring - Law.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEpTT0RRM3JRVGNtYUV5THlMZ2Q3bl9NTzhEWk5NMUFPdm85UndKMUlRREYwRFRFd0RRdU5aUjlTRUIzUF8wVVBxSVpkRTI4YU9QS1ltcWJDamVJRnIyQjFFWGQ2SXYxdU0ydGNKbXlaenBKbXFqR3J1ZXc3UnFGRko4UzUtMk1GSWNoRmdNX0h0LXBibzdDNnhjdnhSankyZXVr?oc=5",
+   "summary": "",
+   "publisher": "Law.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-02T21:35:24+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "493e3e087fb7c104",
+   "title": "Our immigration system is broken to force self-deportation | Opinion - The Courier-Journal",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVUJVMGZaSjE0djdXWkR3OHI3UUZMbDVtVEFVY1RybDVyQ0FPODdES29TM3VoMlZTNzJQem44dkFjVUxBUFlINFhXOEVvdFN0eUVKaFdzTWllTW04eFZBa1hjVmdobXlVUjJPNk1DNF9PSjlnOVFRRHBxYnE2TlozT2NSTjg1X0RwakJVcDF5akp4OXlmRVR4V1JKbm56dXNucmxVVVNQN1JtU2k2SzI4TlNKM29sQnd4V0J6T1pCeHA4RGxZcVREWnRWNzQwMElHSHdQUUxieW9ycUhGdXoxY18yd2hrN0czMjVEaUtfeWhqVDA?oc=5",
+   "summary": "",
+   "publisher": "The Courier-Journal",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-02T20:30:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "asylum"
+   ]
+  },
+  {
+   "id": "a623f4a7c5ea3db2",
+   "title": "Former Syrian Prison Official Sentenced for Torture and Immigration Fraud - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWVwTHo1cGlMTy03TWVZcTdGTE5DRlpabDBzMG1xZ0l2Nk12Wm56d1dYTTJhU2Q4SE44YUlQb1NWUDhYakhZRF9VOXJJaWtGMW0wQnRSMmhlenZucFRiRmVLQ1NuNUtQVGduenItMTItdHM1VmVqZUlSb2lSSEFkQWVqb0diNHhLaE11Z0xFOGliTWhqZUJzMVVfRlJnQVhOSDJFa2ZZcFRvR0U3c1BVV2lJRVVFbjhIWEE?oc=5",
+   "summary": "",
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-02T19:45:24+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "a36a974c4e514c22",
+   "title": "IRCC Updates Study Permit Renewals Under Francophone Pilot - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOUU1kZ1h6bnRZWXVZZHFWVFFLQlpJcHFkOHZNR1k3UEFHRUxLUnJyWVF1ZnhVOTIwN0xHbExzam9oajVUbEVWTTgzY3BZZkIwZUJvSk5RZ0JBSTlmT0YxMS00SFc4SDhqR1Jn?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-02T19:17:36+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "9c457b59c3e3fbdb",
+   "title": "SHRM Responds to H-1B Fee Proposal - SHRM",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXBLdUo1SnM5RERZT0t0Tm5vT2QyRDEyRXFxUER5NFhkOXdaQTRjaFlmUHo1a2xhTm02bV9XWmhPZndqWDdPSWFoODltWDRnYXRCaF9BaDJrU1NDMEhrRVZJMWt1UVRCNWprc2wwRWlKWk9jR1JVM1M1MjdjSkR5aGdVcFU?oc=5",
+   "summary": "",
+   "publisher": "SHRM",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-02T19:09:45+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "c62c9f2fccac4f51",
+   "title": "Canada launches personalized processing times for work permit extensions and PGWPs - cicnews.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmJlbTZ3ZGxlNGVfWTJvdU9TVjhuSnlIZlNqSjdoQW9OTDlEc2VOQnk4a3FPeHdfeTBIcEhQZk9sLTNRZzU3SnpUZ0xuQk95dC1XMzM2WFVtMFJoWDFHbDNZbHV2ZXJYS25jdkNzVFRtNVp4cDF2bU9JNWZLQWgxNXhIUWhZMVg0R2VFX0ZCVGY2UExMOXBOd2t3YmEtcmY0ck14QXZBRzVUdGl6MDZvZEhaWkJUSGo1dmE1V1U1RlY3MHNRZWfSAf8BQVVfeXFMUERSakJvZ0dWRGVyRlZyWndveElVTzZXV0g4UHdBRU5CWE01b1V2NlFtd2NUX20zeHlNY1pQTWkzanhiUGp4c2hRb3I4bC0zd19JMjFUN0o4d1pZRG5vZGNudFFWQWc4ZWthVGlXSWVMVHNndkV1bDVNQ3dnUmJ3LWRhbzNXdkNCaGFmdkhZSFlzNzA0YmdyNzBfRHFrMmVXQlhFb2VNcjkzazNQQUdjemlQX2xMVjJUbjFCMGYtNENJZ2hsUDRnd0dFUHN5R2lxVWNxdDk0LXpQR3MxUmhWUUtyMnhyTnJkcl9nWlFHZjk3WmpPUU52WDBEQ3VQYk1n?oc=5",
+   "summary": "",
+   "publisher": "cicnews.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-02T19:08:04+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student",
+    "work"
+   ]
+  },
+  {
+   "id": "c37845a14e79f58d",
+   "title": "I am the child of an immigrant. So are 51 per cent of Australians - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbV9oZU5STkNGalpmQ045d09BUlJyY0lFamFlazlmMFJKWTNaaVJwU0REclAzR1NCY1JTb0F0dEpqVGt2eHJQRmo4bmswbEJRLU14TENNSl9kbEdZZ1lZUkI5Q0pHY3FRQUhkQ0RMS2tpREV5YU1PcGZVbEVDS0dBOVA3QTBqMzlnZDQwaWpHVlhqRXF6MDFJM01GTGliZDM3NEU2WmoyZjh5SGpJRmdUS0FUSDVZQXVFMWFWOXE3aFk1VFU?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-02T19:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "520cf6c4770cfaf9",
+   "title": "10 duped of Rs 1.3 crore on Canada work permit promise, case registered - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRWFGaWhTMlY1dWNmWDI0Q0gwZnNYOVlyRWlKVDZlVV9ST21Qcm1fUEs5dWZIZ1ptTXpSblJqOUdlbElPa0otZW9FSFpTWWd3V1FKT1dMMU9HSHlkOHI2bVBBdkhHbkJFWDBfci1Uc0V5b2syRGdjSGEwLWlmOTZCd2tHVWxxRDZFdGJ1RjZOOW1FY2tpLWpTX3dZLXMwWnQxaWd0UV9JY0xSc3dtZVNJNWpqQjN0TGp1SkR2aWNqU3UxYWlHT0FDc0lVaDFmeU50WFFDR2xWV3VPejItTTdwaTln0gHnAUFVX3lxTE5hYVNILUxNRjlQeGNuZ2F1WXRUWmNkUFEtbXh5TGxfUXl5Y3VaRFQ0MC1fT1VKenFmNFlDN05yTFdVdW9DMVNjYlVFbExURmF1eGludFJpSWNpTlN4cUVzM0t1WjJaVVJLUVpnaTFycXByN0lhMVRQNGtQRGNObGkyZWVLSWlELUhEbE1nTk45aEx0Vkx5YUE1dTB0UDVmbXJkNEhsNGR1X1dndVIwWndvYVhudU1OenpTeWdQTjcxZXgxRjh3RlVvVlBnOFNUUHQ5NEQ0UFVLRmFBRllNeE5kdlNyanNhUQ?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-02T18:56:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "work"
+   ]
+  },
+  {
+   "id": "12ca6a611f2022b4",
+   "title": "Canada Names US Permanent Residents Who Can Enter Without a Visa or eTA, Gives Conditions - legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZG0xd2pmcTc2ZVg5dktKN3FCNGtxTVNXeXA4QTlnZHRwNTVIMGpnb2NiZDhwaGQwb2RuS2doRnk2cU9MVkRvTVlJZnFWaUFzLTRJdlIyRWhneGJWYjR6VTVxSEpza2FOSlZaa3hjVUNzdkxibVo1X1h4eEpzNXUtd1B4ZHhxM0Jtc0llT3FFYTViNVBhNnB4N1hJUUQzdw?oc=5",
+   "summary": "",
+   "publisher": "legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-02T18:01:01+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "pr-citizenship",
+    "visitor"
+   ]
+  },
+  {
+   "id": "546ea29f5d26e06e",
+   "title": "New visa rules in Australia from October 2: No more visa hopping for international students, agents selli - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQNFlGY0dvRnJlcElXVXlod1dzOGJ2c0plTEREYnJEU1Q4OGhoanRlanJCcW00aExyVXl6a3B5Q2FIa3FoRU00RjVmYy12ZDd1UzFCT3N4NHFWNFd0VHhENzl2T1R4Tzg2Ylc0S1p0Wnp3WmpqajNuNDgtOXp3Nm9rbmpuX0dXRDdSQzRpMUc5eExOemlzeFZvVlp6VjdGbVIwcDV0NXpzMklDRUFybm9VbXRsOXRkMVpwSlFxMVRPSFhSUnNxdXVTX1hBT3FtaEEwMWlkODg1QXJ6RGtjQWJfcG1OS0FOdkdTV3N1LUxPUTlxYnExUXZqMm9LdUtDdzRYUEhsOElOZDNlQ3p5OXdnNUpDNWp6bUQ5VFpaRTdEXzdadzR1U0JHVTFBYzV6UURGVFRsdUI0YVPSAb4CQVVfeXFMTjYtVDNhWFVkTVJDc0ZhS2xhT1A2MFc3SEFRbUtrTVktY1BIa0lXajRPWVdwLS1xMDdEZWJMLWVyTWRJT19OdHlOY1V1WXQtd1FRbThDZlA4UlBNVXNYNm9pQkZxS3R6Rkc0eDFIUGtMQy1nOUxNT1B3ZlJ3dVpVYlNmdEZVTkZ6cGhOOF9CTHU1Nk1DUnJUR0Y0QzlPTU0tai1ZdDdENmNOdlJMczJ6M0dtSzNXOFJCYXhId3hkNmliSUhjcEhGMHVhcWViNG9qRkJWbDdiTGx5MUgzdW9BZzRrSFZuZ1pvVzhvZUZXbGxiYURSZTFKaHRIYVFsUERRXzNycUgxOE44Q1ROSy1QRkdXV2lOdE4xQmxlTmJROEIxVXhnRFY2WThnNGRFTTZlcUUwS1NDaEVld2I5V2R3?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-02T17:17:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "657bfe8482e88237",
+   "title": "Australia’s student visa restrictions take effect, curbing dependants and onshore applications - The PIE News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUVtNlZfSGdOeFhwNEVjTzBscUJ1ejhQVUg0bzkzQ2c4THlvUDN1ZkJTanptWjJvdGd1TWhPWUkxSmd4WGgtVHR3aHB1RTR6MWJPbW1Fd2JFQW0xbUpDODllZmNyRlRzV1dncklxQzBiY3RSbHlyRWlZMWpuUzc0OXFXam1iMEg3b05oRl9HQ1ZNeTJNZC1sYlE2M2tubGJPWnhfcWp5bnNEa0RfLTktUGlfODFEVVE?oc=5",
+   "summary": "",
+   "publisher": "The PIE News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-02T17:16:06+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "4a7e51d85548bc73",
+   "title": "Báo Mỹ tố cáo chuyện cảnh sát trục lợi từ chương trình chống nhập cư - Báo Tuổi Trẻ",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDg0NzR0SHAyR3VpNlpXbXhBdE9LRnMwbl9xQ3ROUTNqUzNZNFdXTDYyUUF4RngwOWxNTjFiekQyQU4yRFZmUG94ajRnTkxfenJFN3RxaVZaNG1UcVZDVkRrTWFMbHRkU2YxbDJoYkk2dURnaXBNSENPRzkzVzJvVF8yc3d0SUw2MEFYbU1uVmZ0Rm5ON2lyQmNXV3I2c0xFMXYydDY2d0dGNGpQMDRZ?oc=5",
+   "summary": "",
+   "publisher": "Báo Tuổi Trẻ",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-02T16:52:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "1542404b7bb47432",
+   "title": "Australian Government Targets Migration Lawyers in Visa Claim Crackdown - SSBCrack",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkIwdGJWVmJmVFBGQUMwWEVsODNuS1R5cDhna3VhcFEtR1FjUzRtOWh2YXJydmlBVmpXbU9EZ2xUM2t6cTdXbW1wZGtSWXFtQmJxd3JWR0p3X1lnMEkyOUk2X1BzdC1VLXJuWFRybWNfcnlDNUNFTzRPWEE2eUdpX3lvZ2loUmtIZGVTdExpcnNOZlhxdElTUmlrY3NxY0E?oc=5",
+   "summary": "",
+   "publisher": "SSBCrack",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-02T16:39:04+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "a9ea81163c2d0dff",
+   "title": "Canada announces fee waiver for certain parents seeking long-term family visa - legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmV1Z1dFVXB4eDNTelR3OFFYTjNJbURRU0lIdkNOaGVuV1BEdjB3OS1NUVdaQ25nbWhFY3YtSXNzNlE5andpdV9FQk9OUUFxYzFyLUtqSlVwNmJoZWYxd1cwdzBPSnZxeDFxb2s2TVV5U3Y3S2s5OXdUMHNoblJuNVAya2hMYU15NEJsVzJrV2hjdldnM2QwejFIYXB1ZXpLVjVwTA?oc=5",
+   "summary": "",
+   "publisher": "legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-02T16:19:24+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "1dde6c0c6f1250ee",
+   "title": "Golden Gate Global Announces USCIS Approval of The Mammoth Collection, Its 17th Approved EB-5 Project in California - Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQaHJuV2tvMk9yWG5pTzlWTldqUjhsWmh4SEl5bTVFV2tiZjhTX19QREpJZVFJYUU3Zm40WmFMbnJxakV4cGpPa3VqUlU1TUxydVNKV09MeXJyV2FVUlNmdDRJZlV3a1lVMkJ5ZVNjSUs3ajdKNW1oWGZvNUp2bVQ1b0R5LW9iOThEQU5NTDR5TU9MbWF4YjFXYy1uYUVLV3c2TXZJOEtBRU1RU0lmWUVUdS11M2tsdlhXemd2U0c4VU5JVUszbHY1dHNNTjJ0YXZYb3pGMEwzQ3R3UTdMTUlZREFWMEFZNmRHdzJhb05lQjFEZEJWdVlJLU9KYVdwS1Ft?oc=5",
+   "summary": "",
+   "publisher": "Business Wire",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-02T16:14:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "eb5"
+   ]
+  },
+  {
+   "id": "1982c25a30f85031",
+   "title": "2 Ways Families Can Meet Canada Income Requirements for Parent Super Visa - legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM1RyZ09YWF90bFJ0anBrQjYyMFhDUjdWS3FWWmxMYnE2R1VwTDBnRlNJV1NPWW40cXVTZ0xaOWc3d0xIdlROSXZzZVZTeXJoOXdTVUFpQU1qdnNFalBxYWNuNks1MmNzUmF3VVk3Y1JNWGdUWXhxYk9abW1ta0xGRkNsUnc0bE1IaHhHNUl1d0wxa3Q0X2F1ZWlSUE1mb3VOd21peE14MzJCNGNINnJTaDdB?oc=5",
+   "summary": "",
+   "publisher": "legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-02T15:14:24+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "family"
+   ]
+  },
+  {
+   "id": "9d0e84dc9766bef7",
+   "title": "Green Card Dates Just Moved Backward: What the Oct. 2026 Visa Bulletin Means for Latinos - Latin Times",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVBsRE1KVWprcUF5NzdGYk13RkxqZ0FRVEtIcXBsdlU5MDFHcmIwMG9zbTh4MWtYNS1XcVczR1c3Y3V6X0J1dWp3bzJVZVVOcVRsSWdJUzVuc0Rzb05qakktMnYwcGJnenFVT1E3dmVSbG9qUlFvZVV0c0NoZUVpQ0pudllsd204M3ZZUUNUYXN0cm1BR0h0NE9oc0x6M2otaG9ZaWNTdi1ua0xpcEhkOUxB?oc=5",
+   "summary": "",
+   "publisher": "Latin Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-02T13:09:38+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "visa-bulletin",
+    "green-card"
+   ]
+  },
+  {
+   "id": "aa5210e406a0d11f",
+   "title": "Canada Invites 3,500 Trades Candidates in October 1 Express Entry Draw - immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0NSV2l4YmxTOWZNQUVnVjJkTWlQcGt1WktVQVdaRVNJaU1xS21FVW1wZks4TC1vSXJzM1ZYSDlBRmpaMnBuR2luX1h6elJuQmVINEpGZGN0TW9LeWdmZENvWC1qVWFFeXR4V0c2c3NEYnJPSWxySWlDNHZiczNYZmRZZXZoMkVUVDd1Z0lJZk1uanVwZ3c?oc=5",
+   "summary": "",
+   "publisher": "immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-02T13:05:50+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "express-entry"
+   ]
+  },
+  {
+   "id": "505f1f39c311fdf7",
+   "title": "Australia shuts door on Iranian visa holders - The Canberra Times",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlIyOFNPcVlZdVpsbmtDdGRfdUlNRVBOc2NLSm5PTFRNLURUMkZObW5jUUJ3OXFOQ1BfYTdFWVItQXJjdE1ublg4MHVkc1pmYWd4U19DdG9oMEVQbjVYWkh5eDBpYUlTVGxKc2VxMEEyTmYxQ0k4ZDd2RWRFQzNsNGQzMnJ2eHN1dUJtd1YxZVlJdVRtd2RV?oc=5",
+   "summary": "",
+   "publisher": "The Canberra Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-02T11:16:32+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "364e74964b31db19",
+   "title": "Major Student Visa Changes Now in Effect: What International Students Need to Know - Ethos Migration Lawyers",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFJpSkxQX1FXeFE4bF84bldlNGdNQkMyZ1ZDVWtUTkJvMDExUXBnN0ZXb2NpNHlfOXFWSTdRYVZFVWlVNnJoSTQ1UWVPN2p6alluYV9zcDVaWHNYam02Y2N4Vl9UOC00cnJOaWNzZDg5Yk1wamdHYWpVYmdHQkpieG5NNW9CS2lOWXpnR1g0UUFabXZnd1FWM042bGRnNGlkQ25ldExweEp0d3p6M0FiUUtB?oc=5",
+   "summary": "",
+   "publisher": "Ethos Migration Lawyers",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-02T10:31:45+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "036368b334da614d",
+   "title": "Trump H-1B Fee Proposal Tees Up Fight Over Congress’ Authority - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnVYb0RFaEttTVBfa3Z1cGZUSUV1MGNVMjRQckZRaGNxX2ZxTVpZYXgyTTBYQ1cxNEpLeUZjNG9WTXJBeldMdUNpc1pQc2hlVXBuVXRuS1NaOVNtczZQS1FlV3F6Vzg1eW9GSmJvaklndmpRZWg5YzNYeVRHZW9fTnk5aThwN1RFVVdoWDVaUkppNWVnNkJiNXhCaXBKTzM4akFldVhWNm5TT2h1bzJF?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-02T09:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "caaffcfd2777843f",
+   "title": "Australia ban hành ba quy định siết thị thực du học - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaHpTaUJPYkRiaGl1ZmdoV3F4Qkxxb2w2TW9LckdNOGswb1VkNlZabmpjWDZITnpYRV84Wk9QdGJ3ZkpmQmNpcVk2Ymw1eVdnaW9taVdWSm5pLU1rVk9JYUl2ZkhtNWJGMUd1aVNvYXoxbVlOYWR4MmNhblNhUG8?oc=5",
+   "summary": "",
+   "publisher": "Vietnam.vn",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-02T08:34:47+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "c256e0af40d9c646",
+   "title": "Australia enacts bans on dependants and onshore visa applications - Times Higher Education",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnZ1a0F4NzVBNGJ4dmlDSXI2Sngzem1yVTU4bTRKZHlxWXRaY1B6V2RuMnoybkdEeTQ5UTlFakpkbWw4VWJndEJKanFucDRSY01maUVQZVQwaGI3R2d3dFlzRVdIc0RTS0I0OUtrajBKeXdVRHJ2cEhBazVoeWhjaTlUV3lUYXZFVUJxQzJtRGxtNHJ3b3JGSU00WUtvTzhJZTJmUDFoYw?oc=5",
+   "summary": "",
+   "publisher": "Times Higher Education",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-02T08:15:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
   {
    "id": "9fff30612519f3fc",
    "title": "Major international student visa changes take effect today as Australia targets course and visa hopping - The Australia Today",
@@ -276,6 +723,34 @@
    "source": "ca-pr-citizenship",
    "published": "2026-10-02T07:43:12+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
+   "visas": []
+  },
+  {
+   "id": "c2b6131e3cf1f892",
+   "title": "Australia siết quy định nộp visa du học trong nước từ ngày 2/10 - Báo VietNamNet",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGZhd3lQa3ZWLXlMeXU3NlhNZkZPSkczdUxSSmx4bG9pRWR0Ni03MlVEYlVPQW9VcmdueEtwblJYVFFxX1BfYjJaRFZFeFZFbHFGU3FiVWU3eUwwNGg1d3NXLU1KdF83ZTRLa3ZNYU9hMU9fT1poT1FWbmtuc1BSNlpNZTE1SDB1U0JDYUpiSGJDdUZ5NDVKYk82UHdWSWs?oc=5",
+   "summary": "",
+   "publisher": "Báo VietNamNet",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-02T07:03:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "9db612bdefac15d8",
+   "title": "New Immigration Laws in Place—Will There Be Tighter Restrictions? - frihetsnytt.se",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGF6eEViRWRmSF9DNU91T2hNc2E4UXUxYzdWaTJuZVE3dXJCRV9JdVZwWjYzbmZQZGdGWE9FS3BDWlhjNGxONVJROTEwUWFIbXZSd2VEdUZjNmU0Q1EtR1plNUVZYkFzTTdheXFZSElwMkpMVVpic3pHdVd3SW9BcWpaMS0wT1J0dVM2VUIxVGh3bWtkRmZTbzQwUEc1MUlBYmZaWGFoSEhMT1AxZ3ZCc1hn?oc=5",
+   "summary": "",
+   "publisher": "frihetsnytt.se",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-02T06:15:27+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": []
   },
   {
@@ -337,6 +812,19 @@
    ]
   },
   {
+   "id": "790a23bbbe7d958c",
+   "title": "Australia tightens training visa rules to prevent foreign workers from extending stays - VnExpress International",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTXNUX2R5Ml9XMEpaYk15TVlzUElrU3RvbUk2Qk5jV1JGUlJyQW1GMHZYMkZuWGlQcUdoS2ZxeXFjZUhqZ09mejJtMTV3Tkw2TnZpQlZzYzZCV2lra2V1cGRHeHVBTVBXaUp1Z1FfLVhISkZUYWJQUzlsYzFabHlTa2hRT0JSTVZJd1VhTmdJVFdJbW40WHRkQzhtZy1ma0VUbGNOajJTU05TclR3QWV5T3hWVDF2QnhRU00wOTNOeklSNXo2UVNPdVZhQW56QQ?oc=5",
+   "summary": "",
+   "publisher": "VnExpress International",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-02T04:31:16+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
    "id": "12847492ace2139c",
    "title": "New student visa crackdown comes with extra cost for course-switchers - SBS",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNamluQUlMY1hLemtvQ19YajBPY2R2SHdORVh4WEFLVFFoT0NkbHFtdnlNSTRxb2dxUHBpaDIySTVCcEhUdHVTQS1GTk5tVUI5V2NSZllrcjhWNENsSzZrbUhtQUg1VzFsemk1cDdlVnphSkNHVGNRR0NtS29RX204Zi1YMHFBa3RlN3UxMk9TWjRja1JWRFp0Zmp2WFFXa3lJR1phazR1UV96UUI0cXhSSWJXelJmLUdGUEE?oc=5",
@@ -363,6 +851,22 @@
    "published": "2026-10-02T03:06:10+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "3a8c95b9b6cadbd6",
+   "title": "USCIS Allows Employment-Based Green Card Applicants to Use Dates for Filing in October - nepyork",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWdvc2pyOTBnREdLcEJjXzFVWTQ3ajJVNVdFWURhNlpBT1ZzUU93ZmxQZzJ6cEpvVGtzRlp6MlNwWGFpdjBVU1ZBdVBVdnpFQ0NfWTF5emQ2VHlVaEQ1QVd3V1RhTHAtT1lqTUx3TGgwUkxzQ2tWLUdMelpBR21YUzVDVm5UN1MtQ1ZNSUVTMWVvWlQyVFdPc1J6Wlo5MXh5RnVKdE5kNnJqVDZSRlRRUFRFX1ZUd291SFE?oc=5",
+   "summary": "",
+   "publisher": "nepyork",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-02T02:48:23+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
   },
   {
    "id": "92b2b8a3d4eeeb5b",
@@ -466,6 +970,21 @@
    "visas": []
   },
   {
+   "id": "1b674257999d99b1",
+   "title": "Student Visa Integrity Reforms Take Effect Today - The National Tribune",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1FjODV5ZnkzNjA3NWtpc0M1VkFIWUt3YUJDLXdnTGhmYlp2OHZnY1NxSjVXSmsweEMyZFdsV25pNGw2ZWZTVm8zbWlzUmRXUjRRUGZmSnpYUVhQRDhOak1DalhKWVhFTEZzcDBuRU9jVEdMU0dUaDYxRTBfN2lnVk9jS2J1aXA4WUk2TQ?oc=5",
+   "summary": "",
+   "publisher": "The National Tribune",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-01T21:27:18+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "41bf8b50556dc895",
    "title": "Canada to set new targets for immigrants, temporary residents - Tribune Online",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDhoek1OOEZ0YUN2eVRScXhUaExsaHR5M0o4MWVQb2NqSWx2bm5tSUlNNmM2Z1NDVmdqYUQ5SG5KNDhqQ2JsbUxzS3FLZk4tYzFGeW01cDNlSVBVVmRPOW1Nd2ZxQURfbUdTVEE5NTh5VjZVa0FjTlY0VHZSakoxUEdoSC1BS2xPY2NCYndJbURTUmFaZHllVNIBmAFBVV95cUxOSDhoek1OOEZ0YUN2eVRScXhUaExsaHR5M0o4MWVQb2NqSWx2bm5tSUlNNmM2Z1NDVmdqYUQ5SG5KNDhqQ2JsbUxzS3FLZk4tYzFGeW01cDNlSVBVVmRPOW1Nd2ZxQURfbUdTVEE5NTh5VjZVa0FjTlY0VHZSakoxUEdoSC1BS2xPY2NCYndJbURTUmFaZHllVA?oc=5",
@@ -490,6 +1009,21 @@
    "published": "2026-10-01T19:00:00+00:00",
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": []
+  },
+  {
+   "id": "505eb8c77e762894",
+   "title": "Brent Faiyaz - JACKIE BROWN [Official Video] Express Entry Draw (5bcYoQgQ2Y) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZndpbFpJcDhtOG56bUFNcTlucjBSc2V2U3BiMWdvaVZHbk4yeDZiY1ZGOGxzQklpNWYxM2JkMGJ5eUo5MHQ5MC10MUNsRmk4ZWlmWHdZZjlycG0tS0Fib2tuUWtUODZhRlR4ZjFNZVFQMFFfajZDS19nbjJvcUFBb0hRcV9sbk0?oc=5",
+   "summary": "",
+   "publisher": "Unisba Media",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-01T18:42:11+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "express-entry"
+   ]
   },
   {
    "id": "e48cca907e510a0b",
@@ -834,6 +1368,19 @@
    "visas": []
   },
   {
+   "id": "b5d0327627784adc",
+   "title": "Remote businesses fear working holiday visa changes will mean fewer 'essential' backpackers - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVE1UjdOV3pKd2FUU2hXTXA3QmZ5T0ZHdUdTQ0ZWWk1SdWc3Nk9KVVFpZFhlZGlKQWg4Slpmb19JYlZHRFpGUlBYZ3VhemVEYTNRUG85ZlpKejhqYmk3Ym91bVNTZzB3TElhZ2RNRVRkQ2RsMXZYQndQMHZ1V0Y0ZGVUY1RoNEZwZkViVm1fdUJ3ZFNQWjlUN1BsTGZNX1dpTG85Y2dOcXFMQkdTdVlOWlN3?oc=5",
+   "summary": "",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-01T08:30:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
    "id": "4f99335a5f3e6312",
    "title": "Express Entry in September 2026: 8 draws, 11,288 invitations, and a CEC cutoff that keeps easing down - ircc.com",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DcHJ0YnM4d2oxYkdtbUJudExwMWJHejNkZ1p2bzF3OUp1SFd4QTZsOGNVYUxCOGVkR2QxR3hnc2JlSlRvc0hoZGZWV2plLUNCUkxtWXlEcG9yc01Pd2h6WWJWRFZ3WkhYSXZQcXdzRQ?oc=5",
@@ -859,6 +1406,34 @@
    "source": "ca-family",
    "published": "2026-10-01T08:19:14+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
+   "visas": []
+  },
+  {
+   "id": "4775b18497b6023a",
+   "title": "Australia restricts student transfers and onshore student visa applications, starts dependent ban - studytravel.network",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUUM3eWNXYUVzM0hKc1ZaOGRXQlkzSUNuaVhVcHVWb3c3WXJidDE1eVpGazJqZms5MmZhYkE2WHREWi1KcFJTTjBTcFNuY0hVV21GOXJfWFhMZC1kR1E?oc=5",
+   "summary": "",
+   "publisher": "studytravel.network",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "7437b4cedefe4e24",
+   "title": "US: Immigration News Update – October 1, 2026 - Corporate Immigration Partners, PC",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelpwUEpneEFLUEI1eHEyY1oyYnJ3anp1VkJPbWRIbjkzS3RiNE5kRlcwR3E4aWs3TWhwUzBXd19lU2FWcFRCRTA2aTVHUmpsWDd5RnRSb3g3ODd0Nk1tODJvOGViU09Jb2p5MkRPdmpmNjFhOHJDRVVEbkUtaFhoLS13a2VyUjA3TDdz?oc=5",
+   "summary": "",
+   "publisher": "Corporate Immigration Partners, PC",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": []
   },
   {
@@ -944,6 +1519,22 @@
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": [
     "eb5"
+   ]
+  },
+  {
+   "id": "a5a07c0efe6cd869",
+   "title": "US sharply raises EB-5 investor visa fees; key Green Card route to get costlier - Khalsa Vox",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWNRcUxqRFVfYkN1c3hReWxxMWZITW9pNzk4STBFT2hmRUw2OUVpQXhxQTR6eVhkOEljNXBBLVVOUGZKd3Z5eEdPVHEtWGlrZGRlZUFnQXNRdVBkdkRMRXFFLS1tdVpGOE96c3poVXRTUVc3QkY2aWRybjJib0d3ZzRGMklMNU1xajJxeUZXcFVlUkF2ZVJOWkZXZl9RTmRtWHIwdkF1aEtNQQ?oc=5",
+   "summary": "",
+   "publisher": "Khalsa Vox",
+   "country": "US",
+   "type": "news",
+   "source": "au-investor",
+   "published": "2026-10-01T00:32:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "eb5",
+    "green-card"
    ]
   },
   {
@@ -1254,6 +1845,21 @@
    "visas": []
   },
   {
+   "id": "0fcb657bddd19f28",
+   "title": "IT Staffing Firm Unlawfully Favors H-1B Workers, EEOC Claims (1) - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1JLUVRrV2ZfMVpEbGFjbXNUa0ZlOWtSS0h2eldfYUNFeGVOUzVHdDk3cXdYa0d3Tk9GakktUlN2d2l6WWVTRm53TE9GaWNnM05tU0hLNlFwYm5zalVDWDlMYXNyQ1FIYkpwZTZiZXF6TVlZVEhscXBZUmxNcGpBVTZOYy1XU3I0X1JzdlZpR3dTcVhQcWotd3R0VmwwSlUxQUlIdS02MEN3ZzBLbEdr?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-30T15:23:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
    "id": "b627ef2729e8cece",
    "title": "USCIS Announces FY 2027 Inflation Adjustments to H.R. 1 Immigration Fees - Reddy Neumann Brown PC",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGU2WjdlRmdVT3R2ckJmRzY0M3JrNm1JejdpeTB3VUQzaW4xTm5XTDA5RHE4VzJLdUwyVExDSnpDWTQ0Vl9NeGJCcDF6a2dzNXdPS3k1Y2VBZkUwbVU5MlBpZ3BUN3JfUjRieVo5NjNIZEQxM3VXRWxaQXZzV1FJdlp0cWZET203ZjY2eFNsbEdwTFc4NzNTSmw3UDdueXNY?oc=5",
@@ -1477,6 +2083,51 @@
    ]
   },
   {
+   "id": "2302c9c2c69b9225",
+   "title": "September 2026 Visa Bulletin: Final Action Dates Unchanged, but State Department Warns of Potential Unavailability - ogletree.com",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbjRyTjFnVXE2NHZDNjFqMmdiSUkwb2NOZTVLSmlkVjcxeU44bV8xSEppMlFxTF9EM2dPNkpSYktEUHNtcl9LN01qYXlLVFo2SjlRM0syRHdJcVh4d0tSdkVtcTRyS0xJYWtSUjAxalVEQVp3ejVkbkl4MTFQeU1pY3NZcVQtelFUdnRsY2FreHByTHlaQmh6SzBDOXdQN2lkSzV2Y2tKaTcwd0x3UnRWVHpxY1JydkRoYzNOVzBXdXdKS195dWVISnU4eXl4NUdyakFPcTV6TFFpMEpMRnhqWmhJb3N2d09IanpkRnFiRXRIWGM2REI4?oc=5",
+   "summary": "",
+   "publisher": "ogletree.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "visa-bulletin"
+   ]
+  },
+  {
+   "id": "b854a63a5a4e2db6",
+   "title": "Temporary Protected Status (TPS): An Overview - American Immigration Council",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUzN1emNvUFJWQmJoN1R4T2dzXzJlYXNyVkpNQ0V5UGVJNVd2cG9vemtVeWhtM0ZHS09rbXRvY2x6aC01emVjZGxtaUJ3WjBDZTZtdVJSOEJZY3VseGx3THZpSGJXOUw5S1FsNmtBTXZQSkRUblBQU2pmYmJxQUtGM3c1VmpSUUx2RUlGUVdXLUgyd0xPZW5pZmt3?oc=5",
+   "summary": "",
+   "publisher": "American Immigration Council",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "asylum"
+   ]
+  },
+  {
+   "id": "d984e6d8cc727b23",
+   "title": "Federal Court Issues New Order Blocking Agency Implementation of $100,000 H-1B Fee - ogletree.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVzlXdmIzQUNjalRrV3U2bzdqbUw4VnVoVHBLZEdnaUhxV01IR0F3eWhRVk9EWVl1SXRXMWthZWVIdzdadS02Skg4TzRMV0szSHFrME8zcm1JWjk5WXJtQnotVWdtMzNISlFoSUt4UzJRdEVHdlNGNmlGTHc5dkpHaVVRUHMwblFNanNXckFIYS0tQ1Z0amMyWnpkQmJNVnh2cmFxbDd5T0d3eFlKYWZ0NXM0TE1abGprejNLWlVoUHFRUm1hMjVLUVg2TQ?oc=5",
+   "summary": "",
+   "publisher": "ogletree.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
    "id": "8581ee0bba37fe96",
    "title": "US to more than double fees for some EB-5 applications — The Hindu - UA.NEWS",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUREVUtpSmFlaEFhdENCN19QaVZISFlsUVFUUGY3WHZ3a1BORmtfZWdMTEZ1WDJYdzZlczNsVEZVWjZoWHNHTWt2T1RqLU9pZWF0R2JHajdJNzdkeV9ER2FwdS12R1ZNV2FOQTl4cHRFZGhPT3dRWFBNbk1YTUdsZHVicGpHS0V6WnhpLUh0OUxKYndfR0E0SndvMEJBNWlLN3JUcg?oc=5",
@@ -1618,6 +2269,21 @@
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": [
     "eb5"
+   ]
+  },
+  {
+   "id": "8aa31c2d92ea6e38",
+   "title": "Australia tightens temporary visa rules, international students among those affected - OnlineKhabar English News",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSU9WMmdZalNYaUlQaVQxUlpUNkFkQnpMUXBhU1kyVU4xcEJZeG85UFBuY1RpTW81QldpMWE1THVadUxKUlFFY2xYTU5rYWhHMWdwLVFaUGxRQWRSUnpuWUZjRnEtbGp0dU5kdXB5aWxqbi1ncmtKeER4VUxYbzg?oc=5",
+   "summary": "",
+   "publisher": "OnlineKhabar English News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-09-30T01:35:19+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -1798,6 +2464,21 @@
    "visas": [
     "visa-bulletin",
     "green-card"
+   ]
+  },
+  {
+   "id": "8c5238a373b57319",
+   "title": "SHRM: Proposed $103,265 H-1B Is Changing Talent Acquisition Strategy - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3pHS3RibjRnYnR4YmtObDFIUS1yX0tadGpjV3gyY3lVMGhyTXVHTWR5d0F5aVl0VndqT3RYcFNjMkczMHZtNGhPeW5JRTNaUkFZd2RFWVBlVjhlcWZydWZmTGU4OElHVjJyVWZSQy1Id1pqZzhybU5HVzBpeFR2T185cFpZZWNpNzlJZ1ZBZXJ3Q3pVRkMwY2JXUFctZVBnZEpHMkxlNkxKSGY3M0hJ?oc=5",
+   "summary": "",
+   "publisher": "Fragomen",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-29T18:12:14+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
@@ -2178,6 +2859,21 @@
    "published": "2026-09-29T04:13:06+00:00",
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": []
+  },
+  {
+   "id": "9829e9c8a8f85013",
+   "title": "Nữ NSƯT là Thủ khoa đại học từng làm shipper ở Úc, mua nhà 4 tầng để bố mẹ dưỡng già, con đi du học - Eva.vn",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnNnaFlGa3hOenQ2dlpVTTNwelh2ZE8wcVJJbUZuRWN3N0o3T0J5YUxsdDBkOW5rS01rVXJlSXI0THE4QkJQbnNtRmRZT085b2RHWnhObDFHU29sU2RLX25odXAwanFTT3o2azczWFp3TWhFNndFNFdlRTdqMGItWXd2MEpsNGdBZ1hqSHhsZFNpS1RJc1VsdDd2TW9qbnhiSWRpMnVkNWw3eGx1bHc1RDdOSUlZX3ZRSUdldTBVR0RIek5QeEhLVjBDWmRCLVlxNEJ3?oc=5",
+   "summary": "",
+   "publisher": "Eva.vn",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-09-29T02:30:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "39fdc7e3765d6c3a",
@@ -2767,6 +3463,19 @@
    ]
   },
   {
+   "id": "ba5ccb224a54d4f4",
+   "title": "British Columbia selects 714 cream-of-the-crop workers for provincial immigration - cicnews.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc19NX18zcWdJUGRPd216LTF5YkF6Nm52ZHZaN0ZaTEpleVhVYktVa2FMaEt5OE9lSHA4NlhodHNlSHRZX3ZEWi1lZkdlR2k4UVU3SkFTejZlZjJiRUUyUXNHYWg2TkdqU3ZKNkMtNUlrQmRoVWNQc2FHQWVybkFyY09OU2pCOWRrOVBMWUpjTnVmQjJqWHR0STQweHpSaVE4VU5GVWRQd0xRSHlHSDc5ZUVDbWt2Rkc0UGF3UUdmc2cxS1Rq0gHKAUFVX3lxTE9QSXJxc2tEQ3dXaXhfSk1QeHgzY1Zfc3JpV2J1ZVRhRDM5OWF2U3dpeTNhRmZHbnpaZ0JRLXE1TXJiOU1TMDZVOHdqbWl0SUh5NVJkODFVaVVmeC1Fb3l1aEszRE5zRFVnX2lxY0pEUlNxUVI1c0xxZkJKLXhLX0dNOGJtQVZmRUZOT281TmxmS19temF0d2hFR1BjcDJKMmJGUWFoc2dSTmtEcl9TV3FKVHUzc01MTjZDMk1za0ZyQkJnQkRCOVVZT2c?oc=5",
+   "summary": "",
+   "publisher": "cicnews.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-27T11:28:47+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
    "id": "98d73414b2a7194f",
    "title": "Minister urged to block US antisemite’s visa application - The Australian",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObGVrY0R2dnUtdzhFeE4xX2VhU2oyTDQ5YXpmWUlnamJra2xkZU9rbnppeGlIb0tiaWZMM2ZXT1dNUXNJNnhiVkt6em9ITXd5ZzViZ3htMXhuTHBmSmVZSjNPaFB5NEYzQi16SXA2YUtvVUdqN3E0UklaZmxXMVBFRjdzMVhKR1IyNERnMklRZDdTUHp6a1g2b18xU1NSZURqUHN3MktPMWdadTN1T1BtdkwtM2pSS1F2ZF9raEI5bHBDR0hzWXR2ZVZ3dXlwOWxHc0d6TUl0Umx0U1FLUS1pa0VoUlRxWjVnNkJZRmJaaDMydTBDZXVzNHpIX0tmQ01M?oc=5",
@@ -2859,6 +3568,21 @@
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "237d634922a38b3c",
+   "title": "On Rojas' agenda during pre-NLDS layoff? A US citizenship test - mlb.com",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYnlSVExjM1NuQ3JoSUl4V3pLLUpvdHV3MGFuZGRUVUpMb0dabkNKV2lmdTR4MGFPYnNUamRxNWxsRGJlU05TWDdmaHBxZVpzRk1yRW9ZVHlFVU1xUjU4Z1JOb3QzalZpTlZKZUJxNldIbkIyS2V3OHFtcUpHeFkzYllORzRCM1JKZWFSM0F2Yw?oc=5",
+   "summary": "",
+   "publisher": "mlb.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-26T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "citizenship"
    ]
   },
   {
@@ -3023,6 +3747,21 @@
    ]
   },
   {
+   "id": "6d5c5ee5b7749fdf",
+   "title": "Canada Publishes List of 7 Occupations Eligible for Targeted Express Entry Draws - legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXFDNjlwb0JtSlVlSG52OHFMdThYOTVJZVJFQmhmSWt6V3J1UHM1bUxCR2VOa3MzTWw2OFlNRFptODlKUW5pYi10cVpzUEFUcnctNGtoeXpmbGE4TEhpa0pOR3ZtQWV1eVJIQmVSak5iakE1TjZ4a0dudk92M3J2a3BheVBHQlAwNnlmTFgzbWRqUEotSUE1eW5PRnNlQmZNSGZEVTl5a015akFZZ0Vr?oc=5",
+   "summary": "",
+   "publisher": "legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-25T16:28:18+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "express-entry"
+   ]
+  },
+  {
    "id": "4823391ab45df05a",
    "title": "Green Card Update: Senate Bill Proposes Major Changes to US Immigration System - Times Now",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRGZLbURPSlh2MGF4QnlhU1ctcUNGWlZUQnpiendtWXBuN0tiN0FnUXAtZHBtRmg4S3FCTllESjlqZDhqejQyS3ZYX1Fic3h1bFNTVEZKQlNqRExoZGJ6YUFmMnB1MjZZYnpGS0dYbVZoOURLZVJEOTIxT2l1UEVOUWxVUEhLT2ktekdNLUFyM2xGbnZxdjlQZDZJODF0SWgyd01BejlrQWQwUzNHRkxrRnluQnFkNXVkX2JKNTQ5NHFNbFhKQXNFeVpyUmExcWdid0ZFRHQ4MlLSAd4BQVVfeXFMTmFUaU5mQm92ckVBUGVkSHNFT0gxS0JCQnhKaE51ejM2UVdvU3NqdC1sZEpjXzNnNVZ6R1I5UzAyVXZVdXFfb19ORXdzYWdkRHFob0p3Snh4Z193QUFlUVBRRXJGamo3R3pNdWRQZmVTX2Z5cHlKd0lPd3E1TFZoZ2x3WTNhbVZwLW1IWEFScmtPa1VyRTFwZWY1LTNncUY5U2JDS1FHVm0wZHdpU0VMaUlhNmFLeTdGbHRaNXp2Q0pNVXNuMXlPYm5uY3I0QmtRVE1TUHZRQ0pnX2tjLTVR?oc=5",
@@ -3171,6 +3910,21 @@
    ]
   },
   {
+   "id": "92bf6204feacc875",
+   "title": "New Senate Bill Seeks Major US Green Card Shake-Up - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFlqdXdfUndfeGhvWUpOUWtab1Bzd2pxb2lTYWNOcDgtenZGRDJZVUVZc1pZX2UtelpNRENqaEN4VFdTNW1zRWtMTVVKamZCaG9jX0NCVVowMUFGNDFVYjBDejVmZ01xS0thaW9YSlVmM19oWU14cVE1ZmhRNGdGNUZsSUM0UDJ0Q1A3LQ?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-25T11:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "11b74aa57718c077",
    "title": "Australia names 6 conditions for permanent residence through work sponsorship - Legit News",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONnNrWjBMQ1ZIb1NuZXhlRmZjc3RNbFVrT0RzS2NaU3V5Q0xVZGp4cVFNaU5ULUtrSGhjcWxLaG1zUXl1SEZoV3R4TS1kVUotNmZ2VlRGaG9SQm44WTRpVkdhU01OQU9JQkJVQzFvUDEza3NQdUlYb1k0bUE5TVAzSWF5SXUxWGdwZXVlTmQyMmRfVUF2cEozbGxfaXI1WWhOOUZfZDQxOG9DMElQcUR1Y3prYXdvMms?oc=5",
@@ -3214,6 +3968,19 @@
    "visas": [
     "asylum"
    ]
+  },
+  {
+   "id": "8b6cdca516575fce",
+   "title": "US visa wait times: Indians face up to 12-month wait for visitor slots; work visas up to 5.5 months - inkl",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSDhEVG1HcjE3ZUxTeHNnVzRBc2NfSHVzNzVnMlRYSDA1LXI1OGhYRDFYQVpJaXcyZTZtbFBzMkx2LTd6ak1mRnh4NnFkTGNVZWhudnYyWVpGYmhtZzI5NXFMWWNJQ1ZxNUlzYlA5ZHFFSFpmaTE2V3pSelJLeFhHdU12LTRwV0Z4UEMwU2thMjZjcGJkd2dSNVhLSkowdEhoWUZORmF2U3pySzB0VE9QSXg1WnpDUGdOY0szTVFzSE8?oc=5",
+   "summary": "",
+   "publisher": "inkl",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-25T07:00:48+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
   },
   {
    "id": "a593828246b83e51",
@@ -3325,6 +4092,21 @@
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": [
     "citizenship"
+   ]
+  },
+  {
+   "id": "54104eac3363df77",
+   "title": "Comment on DHS Proposed $103,265 Fee on Cap-Subject H-1B Petitions. - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlZTNHlVQmdZY0RuRjY0Y2tHcWhic3ZGVWxCaE5KUnpwd2hlVHJDRkRjLXI1blgwS1I3dkFVMU9FQkU4c3NtQVJzNzFDeF9Yc1pDYlNNUHZ4V1JBRTdhN01XeEdhdV9XcUVmajdyN1VFQy10Sk90RDRHcGF6SnM4QnEtQXlYSWNieTNLUTBmX0ZJQmFXR05MVTFxYzB4TGktR3Joa2xZczJPUkVuanc?oc=5",
+   "summary": "",
+   "publisher": "Fragomen",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-24T19:01:28+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
@@ -4079,6 +4861,21 @@
    ]
   },
   {
+   "id": "fee0f0f908162d7f",
+   "title": "Rs 49 LPA job at Big Four, father has diamond business in Gujarat: Redditor claims F-1 visa denied despite Harvard MBA admission, paid Rs 5 lakh for appointment to the agent - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOUkdKMHZEYWRjLS1lTTQwcXVTSXl3SEk5YWxsTDMzVWNwempic2FoNmhXeXh6TWtJbEx5Rk5OdHJwanE1aVdCdkpoYVZiX09kc0FORU5TclFfVjJsYnFWaUF3NWlRdEpsQTQ1R19tODctTDZIYllxNnZCVFh6dXVTMXFTU1VrcTlLTnp5THFlR2JRbUlrdUN5ZkVqMldpdlA5eTQ1cVpQaU5sS3hTb2tFWDVyd1VwcmxRLWkxeElMQ0lRVDVVM1VQWEVHai1tTGlDaEZRRjRwZVM1VC16M3NyNjVfNllPVGFYSWRkcXVhellzdXNOS3BfZllYdG53QnVHZUs2RTFVVTJaM3Z0cmJmVEVpR185c1NMeG1kT3VzMURPdDd1RVhlYmM4a2VKWm13dEVTbXRPb1l1dW1FZFlqcTBpMFVTam0tRjdaVmxPQ3M5OVpNeGJpNEJxTEpKUQ?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "15deb630b6ae09dc",
    "title": "Úc cần thêm “baby bonus” hay nhiều người nhập cư hơn để giải quyết bài toán dân số già? - SBS",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc3ZkMUluUThLamUzRVdXbHAyZkVHMlNFZzlpUmhLSTlGYkVyaHhuT0RTcFc0N2l0V0wyaFJ4c2xucHd4bzhob21GVW0xWnU2dEZmVVNkVl8zN0F3YWZ6M1ZGRGo2THdpemlyWVljVVpwM1BGaDlVdzgzZURhVTBHUy1HcUpoN09pQjBkS2tIcXVfZ0FpNTJLdGtCd3ZLcTc2LWhaQTZvVkpNTFdvMGNhRXp2NlFUSDd1Tk5DTWhXWFZSMEdzRWJFaDBfNlFMRHItUlZxTWk0dzl2RkFISm91YWJOa0EwNFdoalp3SQ?oc=5",
@@ -4305,6 +5102,19 @@
    "visas": [
     "visitor"
    ]
+  },
+  {
+   "id": "0e934541d688a23c",
+   "title": "New skilled visa priorities under Directions 121 and 122 - Absolute Immigration",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXd4RVByRmN3dXRGWTRqZWZES21zUDFhaDZJVWpaNHZnUml3VTVTMkU1MWxkcnRqZHhzV1ExYXdsZmNTRWo3UElkeVN5T0FFZE9PMkR5WjlZN3lYck84Nkx5Ukw3ZEZ3c2RuVk5fb0ZOb25tNXNtZy1sWFI1YWM3WG1CdFpTSWEtYjZvUHZfZ3AzTERERzVYVw?oc=5",
+   "summary": "",
+   "publisher": "Absolute Immigration",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-09-21T02:41:54+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
   },
   {
    "id": "fa7e8f7bcf6ba88b",
@@ -5258,6 +6068,49 @@
    "visas": []
   },
   {
+   "id": "c7b81af1e9ba171f",
+   "title": "Australia tightens visa rules for foreign students, restricts dependants: “The government supports immigration but is opposed to anyone rorting the immigration system” - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOT3VrNzM1UzNyWEgwalhrWE9zZ0tOQUhoTjZZeDltaVVVVTFwLUw1V3g0VTRYMDN4Mlk2LVNLV0Zrb19vMnF4ZVMwa0QtQTNpejRIYXZrUVhORDJGcUFlbFRsdHJ4bmlDY3dBQlNUMEZRVUNVcy05aWxUNjhLN21wNF9WSHhIUHRUcUp5b3c0bjhLX2NIN0thajVQUU00LUNIOWZDNlNWSmxwbW9wOHhlNFhZVWJQbFoxNVRDODR1d1hDZXNVNjdTLTF0UXdmV29mLXJtcWVNRzIwclJkcFZOdklpQ25SNlMzbF9EQnFDUlpRQ292U25xUkVIblhuczFkamhBNVBUTE96Rm1vYjNvbFE4anE3RE50VVFEMkN2QkI0dHVJRjB0LWlpVDBaNDNzUVdZNkpkOFozNXR4dVVzRjhadWY3enJFU0dWN0N5ejFCX01CYkZiYy1ibkpFQnU0cDIwdmxsbw?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "763efed1bddd79cc",
+   "title": "September 2026 H-1B Changes: New Compliance Scrutiny and Extension of the $100,000 Entry Restriction - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUl3TzNfUV84akUyQWotNzIwWkZsNlVYSUhpNHUzYjRtR241OVYtSmEyT3ZDdTFHTjc1WFZmZzdNbVFxMm5hN0UxUlJDc19SQjRHNlNjZjhDdW9iQW9MRFZ4cW5RUG5jM0RZU0hmNm5ZTXhsNzRydXBDWDUwRC1YYmM4TnVzVlpVSngwbXZEb1RzZ2E4TjNjajlNN2x2VzdMQjllSVBLSHluZmtLNmRjbtIBtgFBVV95cUxNb2Q3OUlwZXpTV3JyNGppWUx0ZEhESUJUVkxuN3lCeXlrTjVCN04wakkyZ2ZPU2pieHVKNzhpeEdMUmVnV2dzZlRZZkxiNVFudFZJd1Rzb3R2Rk9jb3RjMUZNZGs0VW1nMDJTamNiUUVYcHJjWTJmT1F1V3ViVEVUMGpzcl9vYzF6VGMtOGs4di1nRS1KQnhwSG15S1liTXhRdWlyQTNLT0Z4YUpUZGdZU3JETjFXUQ?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "3e732c49ba99be61",
+   "title": "Western District Celebrates Constitution Day with Naturalization Ceremony Held at the University of Louisiana at Lafayette - Department of Justice (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlVUbWxHY0x2c3dsRHphNVJVQTVBSUJscGRHR2xJVWZuYV9TdkJlQkRoRm9VWjFUdTNPdFFYV2lIR1V0MmQ2R3lDaEpOTFlrZDVGZS1aQXJveHdRQjk5RHYwQ2hMRldQa0ZqMlRIaDZ6UjBVdVVFa1FaQmV4Njh6ZWRUcWhDVHJRaXFuQ0UwSEoxY1RFX1ZscEZhNWl3UzdIQy1mOXFOV2hqSG5fdHRIend4X2lZNlFZS1F3YjdR?oc=5",
+   "summary": "",
+   "publisher": "Department of Justice (.gov)",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "6c8affecfef82540",
    "title": "Australia Unveils Migration Overhaul: What Indian and South Asian Migrants Need to Know - NRI Affairs",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHhZanNYMGlneU1tSG1mb2RkQllsbzhsY2M1RmRQMXRfdGVfdzZDY1hhMnNtZmlvNDFjMFlyWEQxNDduYjl4RnRJdkwtQjJodlRxdnFoYndDVUR6aEJLNTY3dGMyUEp0ZXhSUVdOeHdWT2JlRUUzUXBkUHpIeksxdjVOSGItOVlNX3NPZ3ZWQVZrRjh3ZG1pb3liV3BTMFQzYXpkUFF5QzNVbE9xSzZ4TGpBNFk?oc=5",
@@ -5393,6 +6246,19 @@
    "source": "ca-student",
    "published": "2026-09-17T13:49:14+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
+   "visas": []
+  },
+  {
+   "id": "6ac7fe10a58cc4c1",
+   "title": "What Accounting Firms Does New Brunswick Approve for Business Immigration in 2026? - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VZW10LUpGWEs2ZFkwSVEtMXFtTDBpbmhhZDJjaDFzZ0tseFN3X0tLV2dkc2RndjZZbWMzb2N4Q000WEJoRmNZb2NRUko3S0dvTHdXaUlZMDIzMVN3OVVnNGdLcGNIeTdWLUlVY0tpTHdJYXc0NWhsWlNDcw?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-17T13:15:42+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": []
   },
   {
@@ -5915,6 +6781,34 @@
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": [
     "visitor"
+   ]
+  },
+  {
+   "id": "a74231cfd3226a65",
+   "title": "Burke unveils migration changes targeting students, workers and visa hopping - The Koala News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTFNZGVFLWFWaVE5ZHVQTXUxbW84TTFWM2JtSzVjaHcyZjVyUUViMGpoXzZQSW43WTg1aWx0anhIVERVR1VZMjB5MzVTX2ltNTJ6Vjlld0JGcFl6MHpqNWVOR0ZCbUpmbHAwcTU3SDNTRkFPSDRINjZ4aHkxR2lFeDZvb0dZMnN2QlUyblVYZl9oMTUtME9ob2xsT1dNNTVqMUU0?oc=5",
+   "summary": "",
+   "publisher": "The Koala News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "a8f878d1154b8360",
+   "title": "New Americans claim their citizenship during naturalization ceremony at UND - Grand Forks Herald",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlNYODVudTk1R2Uzb1p1YTZFejM2bzF2ckVfbVVLczV3cU9FSTZTS19PVEFEWmNEVkFjdU9sT3dQN1RSNmE5UC1BcEJiVHI0dW1YU3p4Q1ludHFTN0QtOFJRaFpVLXlfLWJpTklQQmE0cExhUjB4WGhNWE1Ia3RTZ2hjdGstd1d2cVZXU1RVdUdpRVVmdHRwNFVMazJsSkhOd1AzeW8yQkhibW1ZRnVlcGJKRkVjdDlEYm9J?oc=5",
+   "summary": "",
+   "publisher": "Grand Forks Herald",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "citizenship"
    ]
   },
   {
@@ -6890,6 +7784,21 @@
    ]
   },
   {
+   "id": "70f0b8782abab2f5",
+   "title": "Canada Ends Special Family Sponsorship Policy Over ‘Integrity Concerns’ – Who Is Affected? - immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeFl2cnFTS3N3X2tNUzVWZFFPeHNHRnVPdVFwSU9iVUp2dm1MdFRVc2J5MXRxQzNWNjNUdlBna0xoRTlKU1Jqc1FBbExCLUZGR3BNdjRLXzY2OVhXM2Rtc1ItQ3RQeWVBSzRsYndPdFh6WnVuaHFrR043Yk5IdnU0ZjVPbDhUSFR4aXpPNjBrOGdWMnZfeEJZNWo1dkw0Z2tSY3lEYW4xMWYwbVEzNVE?oc=5",
+   "summary": "",
+   "publisher": "immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "family"
+   ]
+  },
+  {
    "id": "3b6595c0fcaa700c",
    "title": "Recruit Training Command Naturalization Ceremony [Image 7 of 7] - DVIDS",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYWlFWDFNX2pJOG9QVnlNeTBJN09IVzAxN2VyOWpaa29wZXFQWEVtYlhyQWFtNThxVHZxODFLVWZtVWNLZlk0V0JvSGsyOU1Mci1KSEhCZlBVblkwamVuS2c0MDNoT2JxOGhycEhVbU5Xcld2OWM4QmhySEt5dU5FWnBQZ3dGVW5taDFnc2VrRS0?oc=5",
@@ -6900,6 +7809,21 @@
    "source": "us-citizenship",
    "published": "2026-09-14T13:05:00+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
+   "id": "16cadb2c3233e460",
+   "title": "Recruit Training Command Naturalization Ceremony [Image 1 of 7] - DVIDS",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUo5aDFDYW1iV3VhZHlkWmJrSkFWWFpvMmppbTZVcEx4SWhra3dvSFRwWWxLVFQ5ekVwNVB5VE5HR2Z4OUFHOFg3VWdYVHgwUG1FclkyajlRcmdlNUJGa0NmZC1DbnMxUjNYV1k1M2tmaklIMS1tV1MtQ1BuOHNKdERaR2liQ2Jjc3VaQmZ5SGE?oc=5",
+   "summary": "",
+   "publisher": "DVIDS",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-14T13:05:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": [
     "citizenship"
    ]
@@ -7974,6 +8898,21 @@
    "published": "2026-09-11T07:00:00+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "d670d2ec0719e955",
+   "title": "How to Apply for Permanent Residence After Study in Canada - immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekxLcFRZd084MFVmTktrNGZMX05MU05lMFN1aU1ZVkFBeEwxT2tjMTlfdHhTaWg2cjZDNVZySmlQOWRuc0pCNGQ4aFhZUTQzdmdXaUZCam1sT1djRVJwWE1IUWwzakhxcmxhSlVDYTRqblRQallwek1zcUliYnFhUWpPSmNMTGRpUlE?oc=5",
+   "summary": "",
+   "publisher": "immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-11T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
   },
   {
    "id": "209d56bad5ace1cd",
@@ -9294,6 +10233,21 @@
    ]
   },
   {
+   "id": "346f081e80ffdf0c",
+   "title": "I moved from Peru to the US at 17 on a tennis scholarship. 8 years later, an H-1B layoff sent me home. - Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeS01d0doV0dKVnR5Nk1aNU5nTUp2Qk9EM2k2QVhUc21Ld2Eydy14Z2Zhb0NWbC1wd29mUFVXQUp6NVN5T2ZnTjZheXVNdVlxdUxEMmUxbVBWem1qeUhBck1DQkZ2TkFqV2xzUGpNUjRobHpoVEpVY0hWcDBMX1NTUkp4a0JlUkZtYTUtRF83WGJBQmlMTUZUcEFnbERTUGN3MWc?oc=5",
+   "summary": "",
+   "publisher": "Business Insider",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-06T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
    "id": "c12dc9baebdf133a",
    "title": "Trump faces push for 100 million foreign tourists after $15,000 visa bonds hit 30 African countries - Business Insider Africa",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTWVtak5ieUR5Y1BDVHZLWVVLVW50Zzl6YTduWmt1SUtjd2YwWjVjNUtjUXI5Y2FLcHRxYk9vUE9IeHBsYXdWNG5lYVZucWxTa2VvdExUbk1qYnVmM0JBZlFCcXl6QWd1RGh1Q2p0bTJMc195amFqYzJZYU5BZXVDN0pxeEZvejBqVjB1SkhuVVdRTnNjZ1QyYnYxaHVQR25nR2NoWFcwQjA2ZW4xbXMycU40QWpfZjR0dGdwUk5hekJ0akdSdGZ4b1dxQVpXdjdhNmFhRnY2UWpXUQ?oc=5",
@@ -9644,6 +10598,19 @@
    ]
   },
   {
+   "id": "b60708481ca3bd72",
+   "title": "Trump wants to increase fees for this visa. It could top $200,000 - USA Today",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEFrbF9mOFRJVTYxUGhaUXAwM0pqUXNHcHNaTi1tb3Zucno0cTAzdDBpRGN0NHdRbnQ0Q0hER1FUakRUcGxQeDFXeTRVRW5ZQTh3M190aUtHT2UzVlhtVEZJeEplc25IUTFORWRta19fRHUxWXZrYUl0RmRkSGotUHYtTlY1SktNcFAweXhubWhCSVd4ekxKbUN3?oc=5",
+   "summary": "",
+   "publisher": "USA Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-04T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
    "id": "c9763869c427af8a",
    "title": "‘We need skilled migrants’: Westpac CEO Anthony Miller defends migration amid Federal push to reduce rate - The Nightly",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU0h0UGJiODM1OXV4aURqbUo3ODNQQTgzTUpwSWVqcnVHQkttRnBHcHlQN0xncFgwMDhseHZtVTg1MUNXQWowQWR6LUlvczdibjdzWFF5VzBUNXRXNVhiQldLeV85V3RXbzFQNkhEM2l3Ukx1b09wV0Q4eFNxUDc1UEVET0xlWEVFS2huZU5KbEtuUXFESG1LWkU2Y3ZJRGtaT1R1bWdsS3NMVUs4Mk4tUWZOM2I1VklaTDVBZEVzOFpZandPTkpWaktqUnFManhVU2YxLW02X19qakU0SGpTbTFB?oc=5",
@@ -9941,6 +10908,21 @@
    ]
   },
   {
+   "id": "d02b75d66599e61f",
+   "title": "Green Card wait for most Indian immigrants is now 179 years after Trump imposed tough limits - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOamhHSlo1RGVnVEFqTV93c19JemZFdUdwZ1A1Yko5Y1Ywckp0a3d4T05qWlVKWTBCbVRyYU83eDVwbXo4Rm1SbVNYSWxFX21hX2NzdnFVbXBMbHZ6NF9LRVRHd3dkN01HWVJPNWs3blNXVEYxcGZ6cEp4WEJEaWlCZER0Z21wa01fQXFhbDBMakJYLVRFZlZZeW52ejlKaXVqVEZPaWQxWHNuNWJndWhyYTdrNDJvMzBFSDEtYW5NaEMtSFY0clpsSDRlTQ?oc=5",
+   "summary": "",
+   "publisher": "New York Post",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-09-03T07:00:00+00:00",
+   "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "6d7a956a10ffb8f2",
    "title": "Reds slugger Suarez passes U.S. naturalization test, comes closer to becoming U.S. citizen - WLWT",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRWg4bUNJdzlkVG5UbG9CRW04MUgwdjhmaS1KTHFSa1A4QXlpbmhqc18xYUNuWUNrblVyNEMtckdKLVRoQllfRkV6T3NOYi13azY0NE1hSU9YeUNaUkV5a0RQcWpVLXFQSUZKRU5xNDBQRl9qcmxkUzV4d0EtX3VjYWU5NTl0cXhEc0pVTkxPTUc?oc=5",
@@ -10075,19 +11057,6 @@
    "type": "official",
    "source": "ca-gov",
    "published": "2026-06-19T18:18:00+00:00",
-   "fetched": "2026-10-02T08:02:50.604805+00:00",
-   "visas": []
-  },
-  {
-   "id": "e35104b005e24a1b",
-   "title": "Canada strengthens borders while supporting economic and tourism ties with Saint-Pierre-et-Miquelon",
-   "link": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-strengthens-borders-while-supporting-economic-and-tourism-ties-with-saint-pierre-et-miquelon0.html",
-   "summary": "Canada and the French overseas collectivity of Saint-Pierre-et-Miquelon share strong travel, tourism and economic ties, particularly in Atlantic Canada. We work closely to support safe, efficient travel while strengthening the security and integrity of our shared travel routes.",
-   "publisher": "IRCC – News releases",
-   "country": "CA",
-   "type": "official",
-   "source": "ca-gov",
-   "published": "2026-06-04T12:41:35+00:00",
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": []
   }
