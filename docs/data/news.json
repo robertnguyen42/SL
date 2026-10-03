@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T10:13:37.422045+00:00",
+ "updated": "2026-10-03T11:00:46.216801+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -108,7 +108,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "au-student",
@@ -120,7 +120,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-investor",
@@ -180,7 +180,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "us-visa-bulletin",
@@ -240,7 +240,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -250,6 +250,36 @@
   }
  ],
  "items": [
+  {
+   "id": "e197c9d1d9cf65e7",
+   "title": "$20,000 US visa bond rule: Should Indians be worried? Check the complete list of affected countries - livemint.com",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOanlEd25YeUhRMW4xclp3ZnhBcjZoQllEcFpvei1iaHVfNkpScjdKdXRTOEFHSFhnOVZ6T3p0MjBwV3ZocGxBelQxUHJVeS1lOGVJREZ0OFpRRXBad05wMjBBQV9mM1NDYTZ2aUtuWkhlOXNtcDdsUHFUQnhvNHp2cnByUk5RbDNJd1ZUcy1LdmpXMmZrdi1YTVFTR1NZdDVLX1lmLWt0ekZHWTBManRIazBLSTc1cDRCUk9IVUxCeUVEbkRtRndYcS1qMUMzS0R2WnpkWnpEVHpjR2pOX2dodlNCNlBNc1E10gHuAUFVX3lxTE00Q2NHcFJ6SUZXT0RKWGdIQm82ZHhrQWdHaEN5dGoxcUpCcDNQSUdMdlpnZUtWUVNvaFhtMDZiYkZwVDVjWElUQkNXb3lON29LS2taVDBfcWo1aEdzazlpWXFMWDFkSnpZZDN3MF80TFFsbkhZa09iNmIyUlZoRW9nblMwZ1ZmSnFpUW5NYS1QX1BMTkpuNE4tRklLVngwTk1yQ3FHYjFKTXVsOHcyRGlSMFpyRVRxcDZRckhrcGRDTWxlMlU5Y0NqS2dIZTdWeVN5ZkhUYkg3a2NHdlo5cEZnZEUxOXM5SVVMb0tjQWc?oc=5",
+   "summary": "",
+   "publisher": "livemint.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T10:41:53+00:00",
+   "fetched": "2026-10-03T11:00:46.216801+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
+   "id": "b1427166acb03490",
+   "title": "US visa bond: Is India affected from $20,000 deposit rule? Check full list - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTJUbVJsNkRGX0JGa3lfSmtJR1pFbjdBbVcyUzlDanlnZDZadTh3d2F1M0M5cnpNV0lzVGdvbDh3RXhFazRQUG4tTlR2OWtZRENScVNFdVdWaDhBV01Fa2N1OURtWDdERmY4WndKUk1HU1BrNjlXSlVYaVJvV3NiV2RHc1JsbGpMWmJmZUFDUzM1ZDZsaXNkY2Znd213WmFtOFFUSEJDNU9lQnRUM04wT0J6aHNIZnZTRFRFWXp5TFJibkJnWXdaX0hxaXJYd3dMR3BQSzZmaTBvdw?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T10:22:56+00:00",
+   "fetched": "2026-10-03T11:00:46.216801+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
   {
    "id": "a5921f19f7b74beb",
    "title": "US Visa Bond: Is India safe from $20,000 deposit rule? Check full list of 50 countries - businesstoday.in",
@@ -10098,6 +10128,19 @@
    "source": "au-skilled",
    "published": "2026-09-10T07:00:00+00:00",
    "fetched": "2026-10-03T02:52:13.017840+00:00",
+   "visas": []
+  },
+  {
+   "id": "1b9b85c4eb8ecae7",
+   "title": "Denaturalization Cases Surge as Record Numbers Face Losing US Citizenship - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWNVdnp0ZFc2S3R2dkVuQktpY1BfM3ZldjJVQVRNbzZlTHVUcTEzSWNRSVNjOE16bTRmNXh1TmI1Qzk0Q3JvOWxFQVVvN3BXY1h1VWhNbG9BWGJmNEtvS0xyUjNhS1hOeHNHaS1WRkVCZXEwUHVPODVXZE9MSFlVWUJPNkZKd25vbkdrelJaZ0FCTXVVRHpSelNZVXZtNDZkUy0tQUJyYw?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-10T07:00:00+00:00",
+   "fetched": "2026-10-03T11:00:46.216801+00:00",
    "visas": []
   },
   {
