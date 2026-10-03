@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T11:00:46.216801+00:00",
+ "updated": "2026-10-03T14:47:38.206923+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,13 +90,13 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -108,7 +108,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "au-student",
@@ -132,13 +132,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -180,7 +180,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "us-visa-bulletin",
@@ -222,7 +222,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -240,16 +240,92 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 35
+   "count": 36
   }
  ],
  "items": [
+  {
+   "id": "66a881fbbee8112e",
+   "title": "India's 3 neighbours on list as US imposes visa bond of up to $20,000 on 50 countries | To see the complete list | Inshorts - inshorts.com",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQWpnUlhwVDJTNVo4dW05UW1jMUFhamVHSkkxbVVMdGx4Z3E4YzBmUDk4V3NXSlRMRF9BeXN2QXJuODZFUTFEbnBMdkJYdEdMbWU3NnZ5MmJEUEJZcl9Yb0tiS205OG9qUFZSZzF3dzFGVVVGVTYwNTdKRFFlRmgzM3pPS2hHX3cwOFowNlBpNkRNeC1OZlBKSHNrUUY3d2dYaW1qZExubUZLcUNVU2VjbENUOWRTNkZYb19RYlEzOU1ETUhfQURZN1lMWkjSAcwBQVVfeXFMTkFqZ1JYcFQyUzVaOHVtOVFtYzFBYWplR0pJMW1VTHRseGdxOGMwZlA5OFdzV0pUTERfQXlzdkFybjg2RVExRG5wTHZCWHRHTG1lNzZ2eTJiRFBCWXJfWG9LYkttOThvalBWUmcxd3cxRlVVRlU2MDU3SkRRZUZoMzN6T0toR193MDhaMDZQaTZETXgtTmZQSkhza1FGN3dnWGltamRMbm1GS3FDVVNlY2xDVDlkUzZGWG9fUWJRMzlNRE1IX0FEWTdZTFpI?oc=5",
+   "summary": "",
+   "publisher": "inshorts.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T12:45:16+00:00",
+   "fetched": "2026-10-03T14:47:38.206923+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
+   "id": "04f8ab5ef4f2197f",
+   "title": "US Visa October Bulletin 2026: EB-2 India cutoff remains November 2013. What it means - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUJsUF9Xc3NWeXd4MDVVV0hVMVl0UUtJRldvVUlsNWk3NUxROG84ODIwNnNNbzl5NlhDUVk1N0ZsVExSV0RFYmJwS25oUFUxNHlPUGY4azBQZW1Ja3hFcTRqR2JyNS16czEyLTNLR21JTkpNUEthT29ISVh4TWw5UVI2aWxRYW5TamcyaWd0ckdnV1JJeG44MGZDNXJhSXdiSkQyblhkZUlHNUpXM29nOEZ4VlNqeE5wSFZWTTVn0gHEAUFVX3lxTE1ReXJWNXNRV3R0VVNUemU4SXlBZEpmbUdCaEF6ZDZfQ21RT2lPSjdPRUY2RzV6UHd1Zjl0azNfWC1yYmFGUnlMV25TdHE1dU45Zkt0cUFNNEM1YlhqeDdUSTJaMVRhcV9JQ1BaQzZRTEVMYXJYVEJvYjVIaDN6Mk9PLWFLQ0tGUHRmb25kclVJclkxOF85c2IwVnIyOGJ6Zll5ekU4SFhVS3AxSWZacnV3Tl9VWndxYVlfeXExUDJQeFJGeHA?oc=5",
+   "summary": "",
+   "publisher": "The Indian Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-03T12:32:54+00:00",
+   "fetched": "2026-10-03T14:47:38.206923+00:00",
+   "visas": [
+    "eb-work"
+   ]
+  },
+  {
+   "id": "ed6123a614165d0a",
+   "title": "Canada introduces personalized processing times for work permit extensions and PGWPs - Philippine Canadian Inquirer",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTS16TDNhOUxvODYzZktMd1dRSUtjUDRydXlBVUZxOENjWkFGMExpYll5U0UwazBERFdVRjRPczd3cDhIM0JaQXRQVmlndUhYbVRnX0t6VEswVU92eGlpQ0N1QVlkLTYtSVdER2pLcURMNkRtM3pjczIwalZIejJVWVREUGo5ZWwxX0ZTMmJUUUE3cGdWbEdDazc1U2Vmb29WcGdjRG5iZWZkaDNGV3VPQzZ4bTFBTGVpbm90MUl4SDd3VWM?oc=5",
+   "summary": "",
+   "publisher": "Philippine Canadian Inquirer",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-03T11:29:26+00:00",
+   "fetched": "2026-10-03T14:47:38.206923+00:00",
+   "visas": [
+    "student",
+    "work"
+   ]
+  },
+  {
+   "id": "5be0a837f9ae3aba",
+   "title": "What The New Us Visa Bond Rule Means For Travelers And Why India Escaped - ИФЗ РАН",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb1MxXzZFVGE4MnVBN1E0NDVpSVFsTGVsQVNmNHgtR3JneElfcmtrenpuc2ZjYUpZYXBIREdyOFhkQjYtTWU2b2d6OXNBYXdPWWdSRklsX25FMW4yS3JyYTRCRzJuUmFIZ2FMOUd5eERVTm5pSV9wZGZmakVNZF9ya3Vn?oc=5",
+   "summary": "",
+   "publisher": "ИФЗ РАН",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T11:23:02+00:00",
+   "fetched": "2026-10-03T14:47:38.206923+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
+   "id": "e93cd53de5cafa69",
+   "title": "US Visa Bond Rule: Does the $20,000 Deposit Requirement Apply to Indian Applicants? Check Full Country List - The Sunday Guardian",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNHZLMkJvVG1yRGw4OV9uaGV4S3NxLTlXck41UVJBYXZPaFp0NVJGLWI1bi1aV2VkbGtCMkhJa0NXU1RoTHNtcGtEY1JzX3J2QVh2UUNVc3lNY1JoLTVGM0JBOE9LbFdmdzF0MG10UzVpZFY5anAxUy1ENTBpdjhQWFRqWlJua3AtcC02cGp5OVZrZExZbHl2Rjlrd08td2NNZVc2OFNyemlyTDQ5YUF1c2VHRXd6LU1aRS1ZRy1TLV84R3c0WGpxQTd1MVRyV2lOR08tTm9WTnZ2ckZYTnZzNW5PcGNPTkE?oc=5",
+   "summary": "",
+   "publisher": "The Sunday Guardian",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T11:13:45+00:00",
+   "fetched": "2026-10-03T14:47:38.206923+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
   {
    "id": "e197c9d1d9cf65e7",
    "title": "$20,000 US visa bond rule: Should Indians be worried? Check the complete list of affected countries - livemint.com",
@@ -276,6 +352,21 @@
    "source": "us-visitor",
    "published": "2026-10-03T10:22:56+00:00",
    "fetched": "2026-10-03T11:00:46.216801+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
+   "id": "cec20b65739a2b92",
+   "title": "US visa bond: Is India affected from $20,000 deposit rule? Check full list | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTJUbVJsNkRGX0JGa3lfSmtJR1pFbjdBbVcyUzlDanlnZDZadTh3d2F1M0M5cnpNV0lzVGdvbDh3RXhFazRQUG4tTlR2OWtZRENScVNFdVdWaDhBV01Fa2N1OURtWDdERmY4WndKUk1HU1BrNjlXSlVYaVJvV3NiV2RHc1JsbGpMWmJmZUFDUzM1ZDZsaXNkY2Znd213WmFtOFFUSEJDNU9lQnRUM04wT0J6aHNIZnZTRFRFWXp5TFJibkJnWXdaX0hxaXJYd3dMR3BQSzZmaTBvd9IB3wFBVV95cUxPMlhHRjRWNktPYkd6ZjFpMlZZbXpFRHpSOGtYZHpoTVVqUVktbFh3Q1lGS29UbjZXOWxkS2NDdEF4bWxaXzRDVWZCcFN2b2Z4dnJTXzlQckp3bFJmcjRQMENoWEtITkNxNjZCYmVUR0xVZEIwbXRGZC1DYmxRYnpnU1JYRnNxVC1BU0hETm9QSy1ySHZEajNYempWc3A0enRtcVg4YUp4cXVJWVlwX1dnSkI2R2ZvV1BKQjhSQUk5aFB0RU5XX3RUSk5RVk1ROS1vaUI1T1NWOXo0cU1PcjZn?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T10:22:56+00:00",
+   "fetched": "2026-10-03T14:47:38.206923+00:00",
    "visas": [
     "visitor"
    ]
@@ -368,6 +459,21 @@
    "fetched": "2026-10-03T07:45:37.670227+00:00",
    "visas": [
     "visitor"
+   ]
+  },
+  {
+   "id": "599cd67c8b667422",
+   "title": "US To Hike EB-5 Visa Fees From November 30: What Indian Investors Must Know - Travel and Leisure Asia",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTm05aDhCdkpncUZwUFNpTjlYbVhLVlVBbHpLMEI3dDg0WjhpMWxaNUtJTnZmanhfR0JMcGMyazQzcFpZa3EwdG1SaF9nelRRZzJpcFRnRGM4TUVPVDVNZjM4Vzg2bjU0WGd2Q014NUstcnlQS0hGWHBfc0pWeVB6X0lRRWpoeHRYaElZdzkxSlhvdHPSAZgBQVVfeXFMTUw3alZNM3JGV3NTd0NOTTRMYUIwZ1l0ME41TC1RMXp5alhPcU41cnV3MkY2Z3JkWTdCaUhualBuaHFqaG13ak1LaVdHOWtuUmg3cnFxMTY3NTNEampCb0lhMGEtdXVCTzZHTFRhRzZzVFFzT0tlQjRCRlZ5bnpxQ1owT0NNalkxYU1tdXFUc053aTE4Z29SbFk?oc=5",
+   "summary": "",
+   "publisher": "Travel and Leisure Asia",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-03T06:00:00+00:00",
+   "fetched": "2026-10-03T14:47:38.206923+00:00",
+   "visas": [
+    "eb5"
    ]
   },
   {
@@ -2645,6 +2751,21 @@
    ]
   },
   {
+   "id": "6b3fbe562e183b95",
+   "title": "The Trump administration’s proposed student visa changes are unnecessary, unfair - Daily Bruin",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDl5aV9pWGhxY2Q5OEZuNUliUDVFemtOQzRPeDdWWDh2QktVOVJmZVhiZlNZakw5dzFOWDRmVnV3MGN2V1AyRzhBX3lQRnhOYUpHeW9iQlBmZkxqR05Xc2RoWEhHa2JvRjhNUkJ5amZVOTdRTWg3YmZ0MllmTnFTVzQ3eE5CbFVJZXpmdUhETl9Kbnd0cGlKTFJxbkZyWW5BLWREcFFxT2VUVTZCWGNZbWd3?oc=5",
+   "summary": "",
+   "publisher": "Daily Bruin",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-30T00:51:00+00:00",
+   "fetched": "2026-10-03T14:47:38.206923+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "c88ccd6740952688",
    "title": "Tòa án Tối cao Mỹ cho phép nối lại việc trục xuất người di cư - BÁO SÀI GÒN GIẢI PHÓNG",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakh0Sk1WSG5OM1dsa1BiVVBfX0JnOXNvczhDQmhJaGdxVTV4R3NRcE9xb3JoQkpOZkkwcjhZbGRDZUY3bnRsRE1SUUtPRXFGcHFnZnRNa1ZsUVN0MXJULVVXY05TR0dnY0w2MTAwa19TaG00MEpoNGJDSFBjU0c4RnhjbkJONjcwSnN6TmRwcVBPQk8yazV6clNTOGpfMDNEbTY0?oc=5",
@@ -2732,6 +2853,21 @@
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": [
     "visa-bulletin"
+   ]
+  },
+  {
+   "id": "374ce99a6c1de1ee",
+   "title": "Ohio citizenship ceremonies face cancellations, as naturalizations slow under Trump policies - WOUB Public Media -",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXMyQ3c2QkhVQU92NmdkeUpsTHhheXJhYXdJMVdlLTBSUkY2Wm5KS1ozZVp4XzZ3OUZBUXRJQ1ZpNEY3VlZyRzNpcXhZcWI5TXpGZ3I4bi16c0RyWWY4RnNQaU5vUmhWX0xJcXhTajVsMHE3dVZneV9UNnpycVQ0bXhWU2JNQVZFemcyMkppb1N2ZWZTUGotaC1RaG03NkhQUl9tMV82UDZydw?oc=5",
+   "summary": "",
+   "publisher": "WOUB Public Media -",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-29T20:32:40+00:00",
+   "fetched": "2026-10-03T14:47:38.206923+00:00",
+   "visas": [
+    "citizenship"
    ]
   },
   {
@@ -4806,6 +4942,21 @@
    ]
   },
   {
+   "id": "87944aebd4479c67",
+   "title": "Qatar announces 47 countries eligible for 30-day free tourist visa - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMldVOTBpWjc1QWpZYlBmQ2lvMVhKVlZES3V4dHNvd0xwY3JEZmxVT09jQWJMVEx2V0MzV2V4TTlNRXFVTkRnZEkxY2o0SFpZZGI3cG1ZVnM0N1UwOFhhQ1ZLeW9VbU5RbUs5c2RqcXkxay1Fb3FKWk5DUm1aV2hrNVR5dGswNEdiazQ5NHRkLURRVDZ1M2c?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-24T14:59:27+00:00",
+   "fetched": "2026-10-03T14:47:38.206923+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
    "id": "2c3d4b66db01d692",
    "title": "DHS Overestimated Revenue In H-1B Fee Immigration Rule By $6.1 Billion - forbes.com",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWXVTdWhuNmJRcHR4NFFEMnJKeXZUNlBrWnRPc0dWeGg0OHhfRmxKWnlWU0t0NExIaHpSTFBSUW1XdDdVaUZBN1VqNFJQRVdvUjF1bi1HY2ltbWhESW5LMDYwSmZGcEFIMk41bGc3aU5fbG84YVdQbjRmYlEzc201ZDVYN3F3V241dDJEdkdjX1RnanJyUXREUXlzRGRnTDBZS0VYV0dSUk5EWnlKbENVZ1N4dEkyeE92RVROYWtlY21MQQ?oc=5",
@@ -5225,6 +5376,21 @@
    "published": "2026-09-23T07:00:00+00:00",
    "fetched": "2026-10-03T04:44:24.468912+00:00",
    "visas": []
+  },
+  {
+   "id": "64c60eefa16677b1",
+   "title": "Why I gave up on getting an H-1B visa - Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWVPNDNzWmRIYmVEZzhYVTloWVhTTXhIVG5scVppUk5YbVg4clBTZ3dQR2hjUU9NUXFXMTRaY0Z4UUFlOE52b2lDRTh6TUliNUJrOVo1RGFJN0Z4dng4N0lJOTRhMDJ6NHBiTlFMMDJOVzhHUzJJV2IxS3RuLW95MEwwWmRJUGdNSHVJeA?oc=5",
+   "summary": "",
+   "publisher": "Business Insider",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-03T14:47:38.206923+00:00",
+   "visas": [
+    "h1b"
+   ]
   },
   {
    "id": "b436ab5a5a925ab9",
