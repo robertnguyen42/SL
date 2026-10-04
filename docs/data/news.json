@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T18:54:29.235821+00:00",
+ "updated": "2026-10-04T02:30:00.766762+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,25 +90,25 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 18
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "au-student",
@@ -126,13 +126,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 23
+   "count": 21
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -144,7 +144,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-eb5",
@@ -180,7 +180,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 24
   },
   {
    "id": "us-visa-bulletin",
@@ -222,7 +222,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -240,16 +240,61 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 37
+   "count": 36
   }
  ],
  "items": [
+  {
+   "id": "83ab66b67a3e38cc",
+   "title": "EB-2 NIW Green Card Case Study: Approval for Industrial Engineer from Argentina - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2dQekJVTlp2Xy1FSk0wVDFXOFJtcmRMTFdXek9FaEhmNk5OcUZ6UE5Xd21VX3RfdTRfQm9EZk9BT3RQVEY0d01XQklsVVB2bmJZMHY1YS1ub0FZdmRyMnVmUGtJOGFrbE1iMFRGaFZiNzY3YlBZaU5OQmpxUkRsdDAtdDdjSDVKZTdsT1pfX2IyZ0JYYklpMDJhUU5FLVhGVjhKTNIBqgFBVV95cUxPQmlZVEloV24yMU9ody0xckVjV0xQM2NSeUVHQ2E5N0F5c1Mtb3VfRmhRam5PWjRZbE1SOTZ0RjgydUZZN1JwQkVlVTk2V21sUlc1U3FnY01SYl9KSEk2SjBCUHh4ODZvUHlBcUNMVXNuM2poYUh6eEVVT3plN2ROYk9tYkhIbnZLWUpDdUc3dnY4LW1UNW5hLU9tdVMwX3pFMXkyVVhTTEsyZw?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-03T22:52:30+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
+  },
+  {
+   "id": "56b4c5dad7fb8d05",
+   "title": "Green Card holder's mother denied B1/B2 visa to attend housewarming ceremony: They did not ask for any do - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOXzNXUDZhcjlBWDRkRElmODJmRFlNbWtPclRHLXhOSkJlTjltNS16Q0pEQTM4M3YydmtwOHl4TWVHbHI2ZTlXUkl0MzFIZFBValVEZkJrTGxhNmM1QkxSYUhwUUlFZzh0UG92d29TWVhfandZbndCeWJsajlWYkZJWTI5MXc4NXBmV0U4UEEyVWNRUjNkUDNDc0phSmVPckRFTUhYYk5pdHRYcjNwZGY5dzA1WHJnNDNCR3U0dE9UTXBEYVpZWmY5NGhSVW01cGFQeGI4ZkppeS1DendicFAteHJYVnhTN2doUERMQjNnTnlGYm1ZT1B3UXlQN2pXSVFCMnJKbm5uOWY0ODZBUUHSAZMCQVVfeXFMT1ZVX2YzMkF2SVFfZXZXT3lYTUdPTTkwQm9kOUJ5eDJZZG1JTFJReVZJZEM3NE1xZmVSeGVURVZSQW8yeEJ5R29RWWVjVFJSMlpfSHlzUUtXa0pKY1N0SVZuNVpTM1ViLTNBbGwxNVk1NkNlbFNEN09DWmJGa3FvcU1jRkdUNU80V2wwM2ctbzNVU1FLTlBWMjlPMFc1Z1E0a3NocUU2V0VHU0tZaVNlME4tc1RubG0wNzV3M04zVmg5RjQybUVocFhiaV9wNGN2aV9LOGo3ekFJQ0ZuT0JVU0xBRGN4V1FwWUViVWNiX2FZaFBicWJwZ0VNTFB4S0hjOGp2cGVGSkl0eEpwb0NkLUZEUzA?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-03T20:11:00+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": [
+    "green-card",
+    "visitor"
+   ]
+  },
+  {
+   "id": "c117464ba5ad06ad",
+   "title": "Canada set to unveil new immigration targets for 2027–2029 in November - TheNewsGuru",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWZBNkl3MFZaN0NGazdBbWFaUkZIbDIyMkJLUlVWdXpDVk9ybjB3Y1RIbmR6SWRTRXBwSFJvRnJHYlVROW1jci1CVVk5cElCeFdfLUQ4RkxkM2h5YnItQ1JTRml3dDBzbmQ4eWxweF9MUmRvVTRHV21jbDUtTkFwU1Fobk1jaVVxbHRHNkpHM0VPbTRScTFZb3RDWGw2TnBx?oc=5",
+   "summary": "",
+   "publisher": "TheNewsGuru",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-03T16:52:32+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": []
+  },
   {
    "id": "806d0803ad1fe936",
    "title": "US More Than Doubles Key EB-5 Investor Visa Fees From Nov. 30 - IndiaWest",
@@ -1335,6 +1380,21 @@
    ]
   },
   {
+   "id": "1c3e0dc26c5993aa",
+   "title": "Express Entry: 3,500 trades invitations in Oct draw - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aOEZOTnhPWUdnbEMtRXlvRWxndUQxZXQ4QVEzUUpaRWhFMFJTMjc3b1JuZmxRUGFiY1BWVi1xbjFoM1pselVNUmNvdVppY1RzeWZVUkMwUUlXcnRhby1KWVZLSU5FVm1KeWcyUw?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-02T01:21:02+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": [
+    "express-entry"
+   ]
+  },
+  {
    "id": "2d1e4aba27509418",
    "title": "‘Trust is key’: crackdown on migration lawyers launched - citynewsqbn.com.au",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTMzRkhKc3VxNGhUY29MVUJEamhjYkxIMmZ4SU8tWTI5YlkwaHpGVWtVZmZvOEo5dEJYRGxTT0trMmJZZENDRU9JUGplTDNMWmN3cGhWLUtjSWVUb1U3aWFRODdSZ0JPTzRJSkJXTjVTa2JvREt4X0ZDRWt1UXdtSXhwV2JYeF9oQTJialpn?oc=5",
@@ -1432,6 +1492,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "1bdabe3cb9de00d0",
+   "title": "Current Status of DACA: Explainer - National Immigration Forum",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TdWc5NjRGN2w5Qk9mNGFZem5jME53MF95Q3paM2hKblJoUWFteDNxelBxTjIxbmlTVU1MZzJIaHNRVW1ReXhSb0E2S2VaQWdRU3l2Z20tTzVZMGRNei1Sd1B3WElFLTJTWVpaZ3YtUVRjTHN1OGc?oc=5",
+   "summary": "",
+   "publisher": "National Immigration Forum",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-01T20:56:34+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": []
   },
   {
    "id": "41bf8b50556dc895",
@@ -3584,6 +3657,21 @@
    "visas": []
   },
   {
+   "id": "0a1bf19ca4c95428",
+   "title": "Australia Publishes 11 Categories of People Eligible to Apply for Evidence of Citizenship - legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPek83c0QwdkY0amxjdnBPNjhVRHhUN2NvZDliSDVLSW9fTS1XWWU2ZWlsT1g1c0pwMFUwUmJmeVFldEQwUk9EOUFaVnpGVzU2ZTgtM1lEaE41S2FudllFUVV4WE93WndmRXBQZFEwbGFEX0hnX3pWdkFKVkVWNEZ2SkgtX2JFRGxqaTB2X0F3RjkyejNLYzZzUUJGeVQyVW1ISlpZRVhnUUticlN5RFZhdlkzVQ?oc=5",
+   "summary": "",
+   "publisher": "legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-09-28T16:10:55+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "ba20d73007eeb2fe",
    "title": "Indian Green Card applicants see mysterious USCIS status change, immigration lawyer says it must be a 'sy - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOLUtIR0M3cS1DYlIyQi1aSUgtZ0FIc25YekVaaEdzVXhINXpQaEVDT3IwMGJJWjExVnBGZmJmTFoyOW1zMWN3QmRQX1JEUDhndnZ4Ri1jYlhVSXNQbklWSkNHZFU5RnU4VXBPQ2NOdXAzN0ZMYlY1UFhSSG9pUGZDMkhCZnRVXy00a3B4bFdIN0xWYkZxSEtwUll2UmdZNzVkNGQ2YkMwTEdDQnBnazNrdDRsTmJGQ3B1R1VmeG1YWDdXTExWTExPaGZMaXIwLVNBdGdHQjRrYVNsMDgtNHphQlRJUXZ3a0tDU3hoQmU2Y0Q1M3lpVFdvOUcyT2NtUmtfdVQxZlJXbzJuRjU3bmxDMDZ0Y9IBmAJBVV95cUxQTHhtUHZwc2lFZ1VId0hxY1A0cXZZZXJwRnVrTVRaTkI1U1JKRlZYMGdwUWdELXh0WnZCdHY2ekdZSnFGbHczbkZFcjJzTWh5V252YXRBUGlUYTRKNzRyenpEQjhGempzTGZlMlpvVDRSS1gxVHNlVWRiVmV4SW5JQWd6bmxFUi1QOVQxdW5wY1I4ZTJvbklSbVNpZ0Z0am03RUxFc0F5ZjdadFZVZ0UtclhvaHRkN2FSdXZucWtiQjhMSGZlb0ZzQVd6RWR2SkFLZklrVFdpY21lVlJHT0wwcklhUWtkU1dqRENPQ1Rvd0V3M1FZWXoxSm1qVU5vLTVSZEQwYkJaN05zT0pPb1VaUXk4X3VZTThG?oc=5",
@@ -3712,6 +3800,36 @@
    "published": "2026-09-28T11:33:56+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "8a10bd9bb3830d24",
+   "title": "Alberta referendum questions don't target permanent residents, new Canadians: Schow - Yahoo News Canada",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2JFd21oRGxRXzllLTBmaGtEX2RwRlFYTWZzNEdpT3Rpd09HSklVdkxtajVKanBxMnB3OHk4QXN0UThxNGFpMmxabjRfdUZ4T3h1Z3dSWm11WU9aRW5jUGZEN2lPR05qM2Nqcy1sb21xa19jX1V6STBQVlc0UTNtWC1qM0tudmZD?oc=5",
+   "summary": "",
+   "publisher": "Yahoo News Canada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-09-28T11:05:03+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
+  },
+  {
+   "id": "5bac066212c04a5f",
+   "title": "Qatar excludes citizens of 5 countries from applying for its tourist visa - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHpiRURJRjU3Q0NoS3ZWZF9Ja2JiQTlCdG9wdDN0RmgwcFhKUFZ6NlBDbWQwdVFnNnNseE03UmI5Z0tzMW9QT2xTVklaVlBuOXRZcXNqOWsxMjFpNmxJY2lyc0Ryb0ZJMTZTZUV0Qlozb09HSWlidlU5MHdrZk5zX0FsNGRpZndWR1k1eEdKUDdSczFwOXgxN0F6UnR0Z3UxLWtQbXRxeEY?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-28T10:43:52+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": [
+    "visitor"
+   ]
   },
   {
    "id": "5d13268465fe9c7b",
@@ -5252,6 +5370,19 @@
    ]
   },
   {
+   "id": "7922191212bb2857",
+   "title": "British Columbia invites entrepreneurs to pursue provincial nomination - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQnVOWkQ3MnZYWWtvOFk2bmN5M3NYT3MzXzMxbU1fXzVGby05c1JzY25lNEIyYXMtSUVwd3hsTVJUT2d6VzNyNkF5TmNUZFhrMVpOVldUSjBiY3RwVmZxdDVyelBoNDVQRFdYSWw5VEMyWm0wbmlhUUU1UDFBVFRZUmdtQm53WU1vU1dTWWlDeGo2YU1DRGpz?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-23T16:08:05+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": []
+  },
+  {
    "id": "3042e266741b585b",
    "title": "Representative David Schweikert introduces H.R. 10400: Securing Migration, Addressing Reform, and Talent Enhancement and Retention Act - Quiver Quantitative",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUzJ0ekh4NEVRXzZtLUNtZFFudl9kUXVMSTF0TldkYXpKd0E5TmY4YjZxRndzd0Q1eTlLb2d2c09vOTFxS0RqdkJqV2lGLUJiRGQwbXA4eUJFR09VamQtdnF0UUtrTlAzaXJ3Z3ZTUlAwQjhGNHM3bEUwbHBGS2Rmb19BeWdKRjE3dkhpYUx6M2FQRUloQ0RaMHpXLXBEd0kyT3VIcllIdjJ6aTVfbG5lRENlRlNKeTYycDBaMVNnYlUzazY0RXdlU0dBVzgxWTI3VHJiU05SbzJNbkstbVY0RVQyNWR2ekJLU09NLVE3My1FbWZycmk3M3ktX1pWMnltT0lZ?oc=5",
@@ -5448,6 +5579,21 @@
    "fetched": "2026-10-03T14:47:38.206923+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "4ae5949d8e99cfbb",
+   "title": "Express Entry: Why Senior Managers Can Get Canada PR With A CRS Of 389 While CEC Candidates Need 519 - immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU3dxSjlFNFJFR05rdktvWkI2SGg3RW5tRjA4X1hJQ3BnNllIR2tQMWZzSFVPYjVKWFlKdi1oZ2hNTnVxT0VaSFR5RTF1dmpFdVl6U3FsUHBJTXhLbkszRFFTUkdwRS1xSUFMbldUX0lxOTBHRG4wZ01oajNVTXZ1Sk5vai1GenFPSnJFbDI1U3lJM3A3WEZIRU80dy10QjdCRE1tTlAzbTZkTGRscDY3LWN4Y083c2lyTkpfZ1pMNkw?oc=5",
+   "summary": "",
+   "publisher": "immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": [
+    "express-entry"
    ]
   },
   {
@@ -7761,6 +7907,19 @@
    "visas": []
   },
   {
+   "id": "01f51598c4e2334c",
+   "title": "Australia’s high-speed rail rollout under threat as highly skilled workers face visa backlog - Herald Sun",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNX3JEdDVUcEdLcEVJd1lQV1pBdWMxc1JkSFdOaGpqcHZGVk81OE9hTjBWNm5pRlEzUWhVZE8ybmdkMTBTMlZPZmM1SEYxLVRVeTVrbWVMZDhoeG1Bc3BNTkhUSF95VEhDa01lbC1IcVU2NzA5Mm5NbG00dUJnNDJlYTNOb0JMSGlYQ1pPNkxnbk9RU1RVUEpfNllwcndCWl9YWVZjeXJQVFNVRzBTcXN5b2RwVElZNUxKd3dMM21ZelpKbkszQ0Vna1JZc1pQbjJmMnRqSGNwNDZrbGVGUHRqYmJnUFZZSmhoX1JTVmJLY19WMWtSdGtGQnNQWXEwWFppWDEzQ1F3?oc=5",
+   "summary": "",
+   "publisher": "Herald Sun",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": []
+  },
+  {
    "id": "1de8ea0df6bb963c",
    "title": "The Uphill Climb to American Citizenship - The Dispatch",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUVVGcHBYc3d3dU04OC1BelJzSGxjQ3JSSjY4YkdvQWpFR0ZJbmVNa2x1Xy1ONWNYYXA3N2tzVjRsR0cyVnZiOUdMTzRNM2thSGRpZ1QzYXJUZERyaDFBNGNYNmtoUGRKa3pRRzdtTHU4YzUwNm9kSHhrY2VoX2tlYWRRUmRSd2h6ZC00NHU2dw?oc=5",
@@ -9003,6 +9162,21 @@
    "published": "2026-09-14T07:00:00+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "9e00ddcd4a7653fd",
+   "title": "Office of International Affairs Breaks Down International Student Visa Restrictions - Chicago Maroon",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcTg2Q3ZNVmItSmo5Nngya1RLZzFDZE55eFIyamdEdDZwTmJZSURNck5mdmRFVU1jZS1xZWRpVkJOLV82eGRoOWw2TW4yRW00RFpuckFsMTVUOXVJRXNaMGUzX2RCTnhvWHZDU1dlckJIbG5PQWVLZF9Ybnpqa3pSZmF3U19yUkNuZloxT0VKdGQwTXpxZU9mRGtPY2RQTGlnbWlnazNuN19QYlB4R3FqYmtBQ3o0eHBJWmZzUzlR?oc=5",
+   "summary": "",
+   "publisher": "Chicago Maroon",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-14T07:00:00+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "eba521cba3efb57f",
@@ -11165,6 +11339,21 @@
    ]
   },
   {
+   "id": "007608870ac5fd7b",
+   "title": "Nearly 30 individuals recognized as U.S. citizens during Columbus naturalization ceremony - AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGtRTHg1Z09PVDVpc1RsNlhlSzloN2czUC1peHIxa3pzS0N2Mm1ycTN2NUhxQU83Q3BnUktYeUFmRXFrLWtUSGJVdXJNQzlIU0owNnJJbDdTak10Q1ZpdmNBTWtfZFNSbFpmV3F1SHFXQkVrVzZLTXJKT3JvSGlsUThKWUI?oc=5",
+   "summary": "",
+   "publisher": "AOL.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-08T07:00:00+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "47ead2db1d38278c",
    "title": "Senior USCIS Official Arrested in Green Card Crackdown Issues Denial - Newsweek",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUh6a28wVlZqTlNrRnRwM3lteGgxNU8waVNsdVFQVVNDZGxmSkROMWVodGhwMjY3Wk5OR0pNTDJpYi1sdjZ1M2tPam40WEJtRHFCckRBRENaTmdkQjdlOU9PakpNV0U2YlhjLWVUd0tYLWpwS2hMSG1XOXI3bEdrQ2hoSlFWY3dEUkxjUkFnSmpKeU02bzA3Tw?oc=5",
@@ -11456,6 +11645,19 @@
    "visas": [
     "express-entry"
    ]
+  },
+  {
+   "id": "9bd2a1d3842c2726",
+   "title": "What’s Actually Changed in U.S. Immigration Law In The Past Weeks, and What Comes Next - we are mitú",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoRjNkd0lieFNYYU1iYkdKTllacVVmamZVNkFZOE4wYzA3MkJNWmdGLUVzZkVPVmw1ZlVFNTJwUnhsMWhqUUpmd0pUTWNycjlIczBSSEZ6RHR4eEh2UDdUdzV5aEdmb0JEZEZVd1ZiRVhGOW1i?oc=5",
+   "summary": "",
+   "publisher": "we are mitú",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-04T14:12:49+00:00",
+   "fetched": "2026-10-04T02:30:00.766762+00:00",
+   "visas": []
   },
   {
    "id": "56b1b5d8f39779a8",
