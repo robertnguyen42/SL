@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T04:27:21.364728+00:00",
+ "updated": "2026-10-04T10:52:49.776817+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,19 +90,19 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 4
   },
   {
    "id": "au-skilled",
@@ -126,7 +126,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "au-partner",
@@ -138,7 +138,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -180,7 +180,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "id": "us-visa-bulletin",
@@ -228,7 +228,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "ca-work",
@@ -240,7 +240,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "ca-pr-citizenship",
@@ -250,6 +250,49 @@
   }
  ],
  "items": [
+  {
+   "id": "5a9f8092a13e173e",
+   "title": "Relief For Travelers? US Imposes Up To $20,000 Visa Bonds On 50 Nations; India Exempted - ndtvprofit.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXYzOWh4cDNsMUYzUjBGQ19GM1YxeG1QMktTVUV3OXRRaU10eEZkMVBCOGRoX1o5RExINGZrMmJuellLMUc5Z2x2eDNVMmJoc1VrUFdJN3lzZW5nR2pieU92UFlSOXNucE0yVmIzWjJ4NkdwZDNsdmgxdUdHSy0xTmkydFBNQmlldHhReXV6RTZRTmM4SjI5VVVoQzdrYklHRU5pcjgtSEtwTzJrSXJCMk1PWlkwNEnSAb8BQVVfeXFMUFJLR3MwazFYekZ5NlZWdFBmXzdnMjBRNXJFSUZDekM4Rk9PTHZDRDdZUWRaY2V5WHMwa1dUTld4TTJzaUF2M203ejBFeTd3eVBSekNsMTZwcGNVWXh5NHhRUThOZm45dGppQU9ORzhIaC1tOXloNWxacENNLWZERGN0T2xLVWt5RGlPUHF1bEd6OERnRDc1YUZid1BXOVdUaDZvWEZNMXJHMHotMXRENmpnckl2ZTljaVFYd3BrQnc?oc=5",
+   "summary": "",
+   "publisher": "ndtvprofit.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-04T10:26:27+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
+   "id": "8482fbdaa3279ae5",
+   "title": "US $20,000 bond rule for visa for Pakistan in 2026 - Pakistan Connect",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUjdhY0FiWDlWVFUwVFVQRlgwSGR2dnBDUW9XbmRxZ240TzRNSnZ6SHl1ckppTnpQLTcyMFdRYW5fOTBDMTVCaTdmSHBiZUtzcWNpSlAzLWVVSmhyaWRmZ1lBQjk3MGZHclk1YXpuYjZPSk9KTDNlMTloWi1ldF9QaUhUTFpaTDQ?oc=5",
+   "summary": "",
+   "publisher": "Pakistan Connect",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-04T06:54:36+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": []
+  },
+  {
+   "id": "ffc8b50b1f1838a3",
+   "title": "US Visa Bond explained: 50 countries to face up to $20,000 deposit; should India be worried? - ET Now",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0NHcWZEN3J2bW9pb2U0cnVPTG45MlVFMVlQeE5PSlNyd2JYbzhwZW83ZFpUX185MFNkazctX29yMkN3b0lyemp3U3dFMUgtNHpaVnRrRVFMMTFEd1IzX1FjMFlDandvRnVzQVhURlJ0bXlnREROSUxhODBrOGdKWkRyeDdnMll1RmtZcy16Y1VRV1hMWmtyRUd4VEJnYzBzVzZwSGo4MjFLNjYwb1J5N0VzOUVCS2VwenRJaUFoV1ZYcWhwdW5WWlhCMlhud0F5R3fSAdcBQVVfeXFMTUVOWW5uVmZvdnNEN1c0U2FNTzRMSnE2SEhDVHFMejJEd19Na0t5djl2ZElFbWJXenpLNE1qWm9FWnF2c3JzdFMtSEhHVlNLQlNYSmNlRnpTVVVFalpTU0YzbWd4OHZhOFRnb1A1ZWw0NkZ1a1k4YkZCOWozeVlQTk9HQV9IU2RLRHNCbkV1ZmhGdEdsNTItamdFXzRGbEZRTnZKOWs2RUFRY09oZk54SThVcVlOT3lrNUExb3RCUmtlNGdaMUQ3MlQ4d193XzdhUHcyU3N5R1E?oc=5",
+   "summary": "",
+   "publisher": "ET Now",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-04T04:04:34+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
   {
    "id": "4c395fe44416dca2",
    "title": "Canada fast-tracks foreign-trained doctors to work - ircc.com",
@@ -1850,6 +1893,19 @@
    ]
   },
   {
+   "id": "2d66b9a54e72f370",
+   "title": "Why Is the US Citizenship Queue Still More Than 742,000 Cases Long? - the420.in",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHpvQ3V2Z1VueFRoRmh1aVJXLTJBSHFQOFk0dE9RaUhrclRfZzY3X192TGtaTndzNFhnSW5aMXliT0pwbjJ3dTQzSVhiRE5ZWUFsOHg1STVfQXdIMFFnMmUxQUpaX0xSSVdnM3ptSlJvRjZ2cmttV0NhNUd1WDc5eGE4TkJJbkE2UGlaczhtWmNVeEE4YndSaU1meWZWZw?oc=5",
+   "summary": "",
+   "publisher": "the420.in",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-01T11:36:46+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": []
+  },
+  {
    "id": "5575e2edb9d41640",
    "title": "USCIS Announces Higher Immigration Fees: What Applicants Will Pay - Newsweek",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVm8wOVdyUlNNaXpKeUJjV2F1ZnpqQW1OcVkzb0Nkc2EydUk5bHg0WVRSclJVV1g1NzlfV2d1dElJY2wwTWlRWXdWVE9FMjVXR2xtNFRVSF8zbkFJc1FwNmw4c0hiQnlkTWNNVUVvLTlXRVlzdFAxWDRFQjN6bG9IWFR3Nlk2aVlMT3FqV2dqa295MzZscHpQcA?oc=5",
@@ -2385,6 +2441,19 @@
    ]
   },
   {
+   "id": "3aeeccd6857fe887",
+   "title": "Canada Funds Newfoundland And Labrador Push To Recruit Francophone Workers - immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXZ1VWlmNVdpenU1WkJSVG43UjhpTDNNem1SVjFyLTdqUi0xX25ENm8ydEl5RnpyTHBIR2dJVGk2WF93Z2IydkwxenhvVWl4SjFNdll1bFlncXVQRHNOd0I5RDBBbUQyZXZpbWc4ZU1NUjlCVzBZcVU2NkFYQ3RCZlJqMy1IUkZiN3pCMUNCNkdUUXEyYlZDNFVrY0o0TmM?oc=5",
+   "summary": "",
+   "publisher": "immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-30T16:20:35+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": []
+  },
+  {
    "id": "bf8100f622af37e9",
    "title": "Changes to the Permanent Resident Card for October: two categories reopen and dates change for certain applications - El Cronista",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNejVxQ1FWMDBhazBIZmF5NUhEWU5jTjVXcFZZMU92UE5aR09pSlFSN0paRmF5aW5xWmEtQ1hOMHc3V19tdE5Qb1ZUVmtWNW9UYlNmc05ZWFZmOGVfbTEwem5keUZza2x4RGZFc2tBeGpTT0pGNE1Hc3RmR1Y2eUsyeFN1RnhEd2c2VklnaVppUElia3h3ZXk3Z1RzUk5faXp0UllySUN5VkhjNkt4dTJuN3M0MnQ1U3ZsaG56dHBZUTVVSENEQUZDdUQyNERxQy1BaEdEMXI2WEg4WFFGTkdWRU1Ec3k2dnU1eDFr?oc=5",
@@ -2659,6 +2728,22 @@
    "published": "2026-09-30T08:01:59+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "d8f7c9bb6f93f1aa",
+   "title": "Canadian province invites 41 workers in latest draw for permanent residency - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGlxR0ZLT2syYUFTam5tS0FQSXVOR1M5VktTLUV3ODZiVEY4a21vb3prNVg5bDdBTUczc1c5cXA1eEcwd053WC0xdVc5X2JGdXFWcno0OUd1cG5SeW81Y2FCTVVwcWY3SlE1WnhZQm54U2VIaGxvZlhENThVTVNIQkVJdlJ4VHRiUXFVNEpsTkJjcjJUSUMzbElnTUNyUG43RjV2eWtadkNjelZ5bWhzLU5hd0FzeFRmUVhxMVU5bnR4ZXVuWDZCN0puekM3eEVrWU55OVdYUnnSAd4BQVVfeXFMUEV0bXM5Z1BVV1Q3QXY3QkZUc0NUZV9TZWFTcGNMQkNTMDBoMG1IdVVvLUFkRnZwMU1vTkxGcDd4NEc3b1poQkRYWnVTdWd0Z3h2dTRvTnNMZWRYT3o1T3U4bFdheWw1U3ZDSENtV1dIVXFHRDloMDVXblBqN0xuRllyYTQ1cnlmN09QMEVpOFFLcldTQ3J2VmRhRFZCQzVMUkl3QTBWc3Qya0FwcVU0bTVIOXVYRExabXZsQTRSMDd6VHlOV1ZsYWlibGx4clZsSWRPZUpQZHMzTDZSOWZB?oc=5",
+   "summary": "",
+   "publisher": "Business Standard",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-30T08:00:36+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": [
+    "express-entry",
+    "pr-citizenship"
+   ]
   },
   {
    "id": "a40459f717cab530",
@@ -3146,6 +3231,21 @@
    "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "7031abdf42d38152",
+   "title": "4,750 isn't a headcount: what the DV-2026 cut-off means for Latino green card hopefuls - Latin Times",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTMzTGVaclZZVElpWGppUW1vcGFBMkoxZ3gwQWUtcUxUb1ZiSjRRRUpSVWpwS0FhRTR0c242cXg3b3FPVkk4b19HSnV1eWt2OGJLOFRUMXhXMGtBSk5nbFZCT29Ga1BSVkM2SkxHNy1hV2d0bmR4ZnM4T29QYzZUWWNHdXM4X1o5dGRaTG00OVZSUmlnSzNVT1RycmZFRk5JR0EzQ2hubmhuREwtMHpmZEs1NE0wZmxvekVLUg?oc=5",
+   "summary": "",
+   "publisher": "Latin Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-29T17:44:58+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -5233,6 +5333,21 @@
    ]
   },
   {
+   "id": "5f1928f895f49bc6",
+   "title": "Public charge rule is live: what SNAP and Medicaid use means for a green card - Latin Times",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGM0cVItdFJUSC1VdkxsNGd3VHlSSE1DN2ZPUlVmVnh4WEU1bEN2bWdicHdUcm8zY1pSdUZqYTNGa1d2M1MwZXhwcmNoUElRVnU1eHFSdmdOcG16SS1pYm4zRk1RUHRTRW45Q0lnNVU5WnlBRzNvVjFiVlJvOE91WkpoQ0d6elQyMlMzSWR4a0JUNzduaHJ6SmNNRklSZXQ3blpCWTRQdzI5enlpaU5KdEJZUnB4WTNGOGxDTWlSZ2tuTVlQMUE?oc=5",
+   "summary": "",
+   "publisher": "Latin Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-24T12:45:17+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "4adfe66b6cbacaf0",
    "title": "US Announces Minimum Income Needed To Sponsor Family for Green Card - yen.com.gh",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVMtTk1wSTBaNmxBSUVHMFRUVGJvRmdobzg1OWxjeGxlczAwU3M3ODB2ZUJBV0phZGs4emVqM3lqTFowUk5tLXMtWUVoZlg2M2hIWjkwY181Nm5YUkFZMVVhT2dxeThsclJfdmlmMWhXeGp1OEpSSEZBUS1Kb0NZSjBTRGUxT3RvSHNBTGNJdlhFNlRUOHRoNWVCbw?oc=5",
@@ -5410,6 +5525,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "917791b4422f9967",
+   "title": "Australia tightens migration rules for intn’l students - millenniumpost.in",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkx4V3loRnBWOE5oR21mR0pDcXZPM3BBVUl0Rm90aTdHWmFnT3owMXBhTnFTUVJ1NHQzT2JPUHk0ZDUwN1B2bnNFNGJnZVVKOGpEaE9PWDJKVGFqV0V2aGUxczczM1BiYlliV2tuTk11OUlZaElKNE8xTWJCeG1vd1BlaXlrNmxMTXFoZ1RjcnBUSDUzakM2bTcwR2NoSkHSAaQBQVVfeXFMT25KY1hmWTFpSEJPUEZsWVdGalJaN2ZIbkRBaVJ3SkJWbmdJMzFaYVBUaEJGVWI3cFllTXdZU3ZUSkEzakpoR3dxbFY3eG1ac1lBZ3lwZWduZkV2aHBubXcwRHBaMzlaOW9TaXd0X2xsM3BoYWU1cldLdFFHckxnZ3VMdkpaN2FBQVEzVGdKbU9taGZUc3JrMjlyamUwbndfdklpZlU?oc=5",
+   "summary": "",
+   "publisher": "millenniumpost.in",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-23T18:55:06+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": []
   },
   {
    "id": "53d9ba22fac4ffbc",
@@ -8008,6 +8136,21 @@
    "visas": []
   },
   {
+   "id": "8681d6178985cc3b",
+   "title": "Life just got tougher for international students under new visa rules. Why is this group being targeted? - The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeHpfSkRUTTZWaGxLNUhTa1Z3bXRPS1ZWM3JweHFzRWlJSWI1cURmREd5MWVQOFlZMWhOR2tGeWIzczlKOHhjdUoxZUhKM3lvZWhvNmNBZjJ2OWdmeVlVNHc2aTVFUjRPQU8tY1lyWHZzVkpuOVZjUi04T1pPTXI1T25EWkk5d1VWYTB4aV9Va2ZUYkJkeFJhMXJhWndobzBuaGhSR051QTlHa3FVN0VtZnNvbWUtSlZlQjI4dGhSTjFxOHJhbWJZUGw1MmhCcWhXMmpv?oc=5",
+   "summary": "",
+   "publisher": "The Conversation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "1de8ea0df6bb963c",
    "title": "The Uphill Climb to American Citizenship - The Dispatch",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUVVGcHBYc3d3dU04OC1BelJzSGxjQ3JSSjY4YkdvQWpFR0ZJbmVNa2x1Xy1ONWNYYXA3N2tzVjRsR0cyVnZiOUdMTzRNM2thSGRpZ1QzYXJUZERyaDFBNGNYNmtoUGRKa3pRRzdtTHU4YzUwNm9kSHhrY2VoX2tlYWRRUmRSd2h6ZC00NHU2dw?oc=5",
@@ -8437,6 +8580,19 @@
    "visas": [
     "pr-citizenship"
    ]
+  },
+  {
+   "id": "874ad6beea6dbd84",
+   "title": "Exclusive | Why Ilhan Omar can’t be kicked out of the US for marrying brother: Immigration officials - nypost.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb242RzNoOGpGSHNXNHpZSFBvT2pfZ0VaZVdtbUJ2MDFHMkg1c2lWdUJKVzVUY3dNc0xaWkF0MVNxcjV6akVfUUtPMEZKZXM5Rlh1WjMwUHQ2MXFxWU96WlYyN0J0cTZjTXJTWTZlQlBqWHpHOFlFMnlhUWs1VGpBcjVuOEtiTG53aEFnekt5dEhUNFE5aFNiZ3hheVgteTBCV0MzYWEzbEYwV09rSkUtNFJ0VUJ2WjVXSzdZdEg2aVZpR1k?oc=5",
+   "summary": "",
+   "publisher": "nypost.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": []
   },
   {
    "id": "73038f4deac3de51",
@@ -11457,6 +11613,21 @@
    ]
   },
   {
+   "id": "d4fa739a7925fb3d",
+   "title": "Study permit holder charged in 5 Brampton armed robberies - Toronto Sun",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRjlsSWxXckNtSWgtNXBIMU1TYTRzZlpzNEFaU0dCa1N2N2paUEM2X3RtNGVqblctdWRtaUlaazVhckctTXYtbG05ZFpnZzZEYkNGclJMTzhCVDRmY25NaERIc3RFQUg1QzEzNUcwdU1xMXl2eDB3bnZyQjIyUWw4aWNyZjZ5TDBIVUtod2Z3Ymp6akpUTzFhblRteThhLW0tS0t2S0xn?oc=5",
+   "summary": "",
+   "publisher": "Toronto Sun",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-08T07:00:00+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "47ead2db1d38278c",
    "title": "Senior USCIS Official Arrested in Green Card Crackdown Issues Denial - Newsweek",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUh6a28wVlZqTlNrRnRwM3lteGgxNU8waVNsdVFQVVNDZGxmSkROMWVodGhwMjY3Wk5OR0pNTDJpYi1sdjZ1M2tPam40WEJtRHFCckRBRENaTmdkQjdlOU9PakpNV0U2YlhjLWVUd0tYLWpwS2hMSG1XOXI3bEdrQ2hoSlFWY3dEUkxjUkFnSmpKeU02bzA3Tw?oc=5",
@@ -11526,6 +11697,22 @@
    "published": "2026-09-07T07:00:00+00:00",
    "fetched": "2026-10-04T04:27:21.364728+00:00",
    "visas": []
+  },
+  {
+   "id": "0e8a3a161bd29439",
+   "title": "US Green Card: EB-1 may become unavailable for Indians before September 30 - The Federal",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeVFaNU1Rc0MyR3RhTTVFbTRibHBadnREYlBLQ2N3cU51WUc0ejRQOFpiZzRMNXhQM2Q5U09JdVJGNU5fRjVIeWtUQVRsOElMdlNCMFFvM2k5UUp1VTc3WGprMXpzWXAwRjQ4Vm8zU19nVWMtTUY3S2JDd3haaXpnVHkzbzBFT3RKdFNNSzNxdV91Wl9SRE1sa0VwMUw5NFJ1Z0dHaTFPdHlJUmFxTm1FckRXN2JfVDJp?oc=5",
+   "summary": "",
+   "publisher": "The Federal",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-07T07:00:00+00:00",
+   "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
   },
   {
    "id": "e7d3b6711f1effac",
