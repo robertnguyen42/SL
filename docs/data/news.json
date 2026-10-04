@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T21:48:42.773936+00:00",
+ "updated": "2026-10-04T22:14:25.408874+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,7 +90,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 18
+   "count": 20
   },
   {
    "id": "au-skills-in-demand",
@@ -108,7 +108,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 32
+   "count": 34
   },
   {
    "id": "au-student",
@@ -120,7 +120,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-investor",
@@ -132,7 +132,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -1595,6 +1595,22 @@
    "published": "2026-10-02T01:21:02+00:00",
    "fetched": "2026-10-04T17:51:43.349610+00:00",
    "visas": []
+  },
+  {
+   "id": "23cb9c333f75e27f",
+   "title": "Alberta invited 380 workers across six AAIP draws in September - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zTVJic0RKMlA0Y3FPZnlBbUplRTRUSURGMThaNXlnaWhOTmM1Z2ZEY2xTbS0yalVhWHdyakp3VUY2TTJhZkZwWjlrOVVZWXJVaGFNb2VtWjl3RXlybXFQblpmMVJPZw?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-02T01:21:02+00:00",
+   "fetched": "2026-10-04T22:14:25.408874+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ]
   },
   {
    "id": "2d1e4aba27509418",
@@ -4277,6 +4293,19 @@
    "visas": [
     "citizenship"
    ]
+  },
+  {
+   "id": "3a4394af47429fb4",
+   "title": "Chính sách mới siết visa người phụ thuộc: Ngoại lệ ASEAN có đủ để sinh viên Việt yên tâm? - SBS",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ09hb3Q0OG1SeHdmZ1VJV0tJc3ZwQ3U5dFBON2NQSHJvbmh3MWFnZEZiakxKMkc2NTY0aDRYVTM4WmJEbFlrdWoyTFNnUmJ3QkQwemg4LTFTLVp6QWs3dUFwRmp3aEF4R3UybnZ6cVJqN2FhWjdTTUN5cjZoX0ptcHNTR3VXaFNJd0ZiVGhpaV9FOGJxS0ItckpfeHEzM3lob01WTTYzUkJSbzJtWkt5c2F2cVZWSUpOU0x1bUZEZ3dxbkxCelBUN1E5b0FPTU8zVFk3aUc2cno4bDFZYVBmNjRLR095bnRMVC0zNWx3Nlc?oc=5",
+   "summary": "",
+   "publisher": "SBS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-09-28T08:21:28+00:00",
+   "fetched": "2026-10-04T22:14:25.408874+00:00",
+   "visas": []
   },
   {
    "id": "460ff682b35e139d",
