@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T23:12:58.114583+00:00",
+ "updated": "2026-10-04T23:43:25.880688+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,7 +90,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "au-skills-in-demand",
@@ -240,7 +240,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -250,6 +250,22 @@
   }
  ],
  "items": [
+  {
+   "id": "f3d71ca2305b0961",
+   "title": "As EB-1 advances for Indians, experts break down the October visa bulletin - The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZlhxNXNOemMxQnBNaGd2aXNRdHVfRUVPdTZfbTc1TkhKN1hweDFVU2pZQmpuMTZnbnZsQldNbHJrNFhFZXZ5aU9pWHh5SHg4YWw1ZDdqWTVYWkllTzRGNmdzLVgxTHhwR2xDcXIweDBVbHZaV25OaWtaUWtHNVVXUEkwMkRLem1Xb00tZnEwTzN3RHliWTBudzgzemQ?oc=5",
+   "summary": "",
+   "publisher": "The American Bazaar",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-04T23:31:21+00:00",
+   "fetched": "2026-10-04T23:43:25.880688+00:00",
+   "visas": [
+    "eb-work",
+    "visa-bulletin"
+   ]
+  },
   {
    "id": "c9c50b158e92bc5c",
    "title": "'It was like a lottery': Parent visa system shifts towards queue system - NZ Herald",
