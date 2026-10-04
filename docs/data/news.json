@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T22:14:25.408874+00:00",
+ "updated": "2026-10-04T22:43:45.348767+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -108,7 +108,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "au-student",
@@ -120,7 +120,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-investor",
@@ -132,13 +132,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -240,7 +240,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -5787,6 +5787,21 @@
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "ef275db898658a63",
+   "title": "Old driving violations now a bar to U.S. naturalization? - Daily Tribune",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMkVDS3ZhM0pSc1lhdGNXUHhJZGs0eVRTMTlNcGl2OEhWQ1phQmFNZzVySDRMYV94R0twQ3RNcU5hWThLNS13VnhrYnNoaTk0UlB2U2ZSTGtPaTlybXQtcW5fRkVJYVZIeU14dWRaV1pBVnZhcVpfQThZRFliamFkZUhONE9BWWxQZUFuNjViT0Q?oc=5",
+   "summary": "",
+   "publisher": "Daily Tribune",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-23T19:23:35+00:00",
+   "fetched": "2026-10-04T22:43:45.348767+00:00",
+   "visas": [
+    "citizenship"
    ]
   },
   {
