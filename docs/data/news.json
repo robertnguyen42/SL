@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T17:51:43.349610+00:00",
+ "updated": "2026-10-04T21:10:07.646894+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -102,7 +102,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -126,13 +126,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -998,6 +998,21 @@
    "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": [
     "asylum"
+   ]
+  },
+  {
+   "id": "37af9ecba82ea469",
+   "title": "Pinetree Capital Ltd. (PNP.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vR2xkaW9hYmZzUHJETWxEa2ZIQzh5QjFYZnJ6d05KRWVBR1JHd3hpNG9PTjdkRjV2VFhJN011QWpkbG1ValMzRWpZc0xpcGs2Z0JqaA?oc=5",
+   "summary": "",
+   "publisher": "Yahoo! Finance Canada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-02T19:54:26+00:00",
+   "fetched": "2026-10-04T21:10:07.646894+00:00",
+   "visas": [
+    "pnp"
    ]
   },
   {
@@ -2992,6 +3007,22 @@
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": [
     "eb5"
+   ]
+  },
+  {
+   "id": "5b83997f6e52a360",
+   "title": "US to hike EB-5 Green Card investment fees - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGNRYlpSZTF5OXFvT01mQlZ1TmcyUmxnSmZOWFF1Z1Y1TWI1QW4tTzVabVNwNTlmSUozUnluWXNMYXBfdDduQms4TTZlQzhkZUluVTlVNUpaanlKYy1OdlFjYUJYLVhWWFNpTVo4WTdsaXE4Q2JJTVM0WExNb0pyNlpTNW5fLXdxV2s2cEd6TzRJbGYzNm5XalV1b9IBogFBVV95cUxOdzhLdkszZ3NITVI4NnF6N05mLUdLa0pYZkJ2cjlabFZveFFCRGJDU19BUDRDTHVSbkdYaFpKdmlrTUpObnJJVV9wTFdZS1F0UThobWNaTjdhcUdOZW5RQ0QxT2VoTUQtTTQtTC1JSGhwRkY5cjZUVDZZa2wwTWRYcV9GSFJVbWFRZzZRWk9uTl9JMThOcXg1eHd0MS1CN0pCSUE?oc=5",
+   "summary": "",
+   "publisher": "The Hindu",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-09-30T06:16:06+00:00",
+   "fetched": "2026-10-04T21:10:07.646894+00:00",
+   "visas": [
+    "eb5",
+    "green-card"
    ]
   },
   {
@@ -8809,6 +8840,21 @@
    "visas": []
   },
   {
+   "id": "02e72275332b33fe",
+   "title": "Fort hosts naturalization ceremony for 22 new citizens - The Fort Scott Tribune",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOakdNVWkxZ2ljNWRmOUd6a1BNbUR1VFAtTjZKZ1NNUC1nbTlVdmhXOGpXWFJyM2luS3hIRThmVFB6UHBiY0QwX015eXdqS0l2dWxaaG9MMkcyY09GdldFUEFXTTRSbFBtN3RGLW1pUERZa2JGejZXYUY0dmp1OERQdEJtWEtwQmRLcWpDdGpLZF9IcElmOWpQeTRn?oc=5",
+   "summary": "",
+   "publisher": "The Fort Scott Tribune",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-04T21:10:07.646894+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "73038f4deac3de51",
    "title": "Latest Express Entry Draw Sends 2,000 Invitations to CEC Candidates - cictimes.com",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaUpsUTNScW1xMDV5S1QzTmZEV2NNWWRuSm9hM1MxTUZXVm9JYUktTzlJYzNWV290NXdOWnllUDVib0sxX0llY1VNanI3bzlBS2pSTW1EZU50VXNqeHZmSmkxbldSRmozeHVjS2hmRThuMG1HQXlDSWlwSzBiR3NCQkZ6bURvTzk2a1UwVEZjeHVLdmh4T3c?oc=5",
@@ -10309,6 +10355,19 @@
    "source": "au-citizenship",
    "published": "2026-09-12T07:00:00+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
+   "visas": []
+  },
+  {
+   "id": "4557b5d3f3346d5a",
+   "title": "Australia names 30 countries eligible for First Work and Holiday Visa in 2026 - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmpzaUUzVE1uMUFmODQ5YngyWHhmN3RuTVRuQm9URW9XaW91ZzBOYVp1UTJrZVlyZ29BLUFmdzNBbUNMRnNWQWVFaGlvOFRvX0RueUZFcEFoZ2ZvUFQ5UlJ3aHZvSU5ERDdidGJLbFRqYXFRaXd4d2JYX01PNHA1QVF2S2Q1Z05MRFI3T3NiWlRlT0FkcFJ1Q0JpQzBycXNhYzFDWQ?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-09-12T07:00:00+00:00",
+   "fetched": "2026-10-04T21:10:07.646894+00:00",
    "visas": []
   },
   {
