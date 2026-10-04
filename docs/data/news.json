@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T02:30:00.766762+00:00",
+ "updated": "2026-10-04T04:27:21.364728+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -96,7 +96,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -108,7 +108,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "au-student",
@@ -126,7 +126,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "au-partner",
@@ -144,7 +144,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-eb5",
@@ -180,7 +180,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "us-visa-bulletin",
@@ -228,7 +228,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "ca-work",
@@ -246,10 +246,39 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 36
+   "count": 37
   }
  ],
  "items": [
+  {
+   "id": "4c395fe44416dca2",
+   "title": "Canada fast-tracks foreign-trained doctors to work - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PYkFsNnlod3R6YjhqU29xTVZKZThlNmhHd2hfQmdmeVRBa3kyY0lDa29tdGRKUWgxX3Z6dllFbnBLaHo1NF9HY2dzQnVzSjNfZEtWN2xpbC1Vc29DNVRNSEZqSU1BRmZOeVpCUlotN3FyOEU?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-04T01:17:46+00:00",
+   "fetched": "2026-10-04T04:27:21.364728+00:00",
+   "visas": []
+  },
+  {
+   "id": "1f8b7b9ffea2d24f",
+   "title": "Work permit holders can study 6 months, no study permit - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KODF5MUJ6Q0U1VUdsTFV4dE9DQV9qSUZJaHl6MUFpa3RlVFNwZG4zMVhMTS1jNFJNSU12RkZIcnFSaWVEcnBWeG9JTFBqNjBmQVhSVEVPVTBnOThMUEFoRklQZUtZVy1SZXU4WkNNVlFhZUk?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-04T01:17:46+00:00",
+   "fetched": "2026-10-04T04:27:21.364728+00:00",
+   "visas": [
+    "student",
+    "work"
+   ]
+  },
   {
    "id": "83ab66b67a3e38cc",
    "title": "EB-2 NIW Green Card Case Study: Approval for Industrial Engineer from Argentina - The National Law Review",
@@ -1986,6 +2015,19 @@
    "source": "us-en",
    "published": "2026-10-01T07:00:00+00:00",
    "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": []
+  },
+  {
+   "id": "a1b6c9fb2955fe80",
+   "title": "Temporary Humanitarian Stay pathway for eligible Ukrainians in Australia - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcHJCX29jcWdHbERoMUZ2bHRNb2FMUlNCU2xGaEdNd3hBUFQ1ejg5WExFMHVVM25KcU9PQUJ2cWxuRF9KWmtWblNmU2xvSHFfeTlKSl8yLUkyNnVXZ0ptcW5MZ3RqdVN4cGl3TGRaeGFZNEdVeDVoRFgyUEt5SENjMVFzekx5WnBRSW56UnJ2UXhQU1Nrc25Bcnp4aEpkcjlRQVVwS1hxV1Q3RElvbkpvdmQ3bnBSUXhZZjlyYjM4Z0tYME12cWxqVkZZaFk2S2VILWRQRlFSSWU?oc=5",
+   "summary": "",
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-04T04:27:21.364728+00:00",
    "visas": []
   },
   {
@@ -4180,6 +4222,21 @@
    "fetched": "2026-10-03T07:45:37.670227+00:00",
    "visas": [
     "visitor"
+   ]
+  },
+  {
+   "id": "1e9e00090648726f",
+   "title": "Top 5 Green Card & Family Immigration Lawyers in Miami FL (2026 Guide) - Breaking AC News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUN0LTRTNndKN0U2Zi16d1FRX1VXV09ONFBCRjBndnVDdm1vSzNvWXphNGNEN19DbHoybjhOb1Jtck8xNklTTnFoSUxoTTNYRGNVVDNtX1d4LWlHVW9zRGZLMzJDLThRanRDektEaFN2MldYdGtUdjgwWWNXaVdWZTczOFNldGxYdWUtTWpkeUp3dGI5bzA4Zm01MWg0Ty1FSGdMQlpCUQ?oc=5",
+   "summary": "",
+   "publisher": "Breaking AC News",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-09-27T13:59:09+00:00",
+   "fetched": "2026-10-04T04:27:21.364728+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -6494,6 +6551,22 @@
    ]
   },
   {
+   "id": "c75e1e61394a1da0",
+   "title": "Prince Edward Island Issues 195 Invitations in September 2026 PNP Draw - immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0ExY0MxeXpoWjBCM1Q4bDgyUzlpTEpBX1pRNk1LVXd3LXB1V1Z0WG9lNDVuVGk5cFNwNXNCNmJVQjhJR3ltdzg1NTNXYmtiNjJHbTdSMWlybVNqdGQwbkJNeWFuWV9DZFd2NWwxX1lMcktkVXI4bDBrSHVrNEJ5LU9Sc2lEZGJibldBWFRfVnRpUG9WSUE?oc=5",
+   "summary": "",
+   "publisher": "immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-19T07:00:00+00:00",
+   "fetched": "2026-10-04T04:27:21.364728+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ]
+  },
+  {
    "id": "c94fc3ae15dac562",
    "title": "Your Green Card Case Just Got a Lot Harder to Predict. Here's What Changed Today - Latin Times",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUZ4T3J2Z0JJWHV6eDZ3cWF5TWo0M1NHTWpzOFBOYUZDYmktRlB0cFRoNFZLVVY0VUJ3LU5uZXFjY1JXbVl2anNuZ3YySDlyanhHaC1Vb3ZUU256QnZETTFjYTZnaHZPWkd5aG5ZcEtmVjFmUVY4UFR2UV9WbE00UVFVU1dNRWxua1lQRVI1ZUs4QVMwNTN4NjJNQldkdk0zbDlBYk5MVWJCVTQ?oc=5",
@@ -7162,6 +7235,21 @@
    "fetched": "2026-10-03T07:20:52.079544+00:00",
    "visas": [
     "work"
+   ]
+  },
+  {
+   "id": "6e680826c9fe48ab",
+   "title": "USCIS to Release New Form I-485 on September 18, 2026 - Erickson Immigration Group",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yZzFzUEQtZXd2bjZvUjF6TXVRdEp6a1hXRkFlUGZYLXo2cEMwVGVBbWRKQnNNNC1CSEc1OXdDMzg2VEFJMEVCXy1DQTRJY1Q3SndDRE5PMWFFMnFycVhsU1VXZEg5azJvWDdyTDdYWEdjMHVjSEdNV01CWmo?oc=5",
+   "summary": "",
+   "publisher": "Erickson Immigration Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-04T04:27:21.364728+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -9811,6 +9899,21 @@
    "visas": []
   },
   {
+   "id": "7089d3880ece2097",
+   "title": "Keire Murphy: What we get wrong about citizenship — and why we’re about to make even more mistakes - Irish Independent",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcFpOd1p6NUl0OVZ1MFhIREJhWl9ZYS1sUWVxbGREcTUwV3RlQnBEZkpOUnlNSjlTMWwxaHpBU2l0R0E4TzlWLUQ2RHMyREhLT0wyUDl0UVZLYkdtR3NYTzktNUtjVHpTTGJYbEx3UlBablctd2RFa3BaWC1hYTVRbS14aFZvWVl6MGhzZ2ZnUG1SXzFHTTAtVXRHR0NOSHZEaEV0NWF6OTZfVHloR0RsRU52Z2x4dFNQY1F1TGtvVk41T0lhZTNneWFydDQ5TWJBRk9POFhiRUdDeFFJSnVPT2RkVjByYlpBc2c?oc=5",
+   "summary": "",
+   "publisher": "Irish Independent",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-13T07:00:00+00:00",
+   "fetched": "2026-10-04T04:27:21.364728+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "1a9d8b3a2975baa8",
    "title": "Over 40% Indian student visa applications rejected by Australia: Report - India Today",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa25qS1FwT0xjeUVxcTY5bUlUOVoyR1RwTTlLQWJRckJURnlxZHFodWIyQWV6Sy1jRTNLVUV6cTFNRDBJRzYyOGU1Qkh3RzIyb3h6ZDF3WDFEREtoeUxxZ1hzX3hMNUZ6aG54Z0JPekFETERjZERveGREZnRtNTYtT3J0R2Itemp5bF8xN2hKSDdlcnB3MHZPeXJzUms4SVU0Uk91Tm5QTWUxSzRIZzJRUmMtSXlfWk9qRW9ZYWhUbS13WUZoRGc1el95YW1VMzFsZW5FVGNqTFd1cjBqMUpEWTczSUJ5bE9xQkM2LVNWR1VQeTdTRjJDSHpB0gH_AUFVX3lxTE9lY0RVNldBLU04OHFFZldrdTkzTUFLSDNJQmVENlF5UGw5T0ZCNmVZbkE4bTlRdFM2S0pDZFV0cjRKcHVaZHhFYnQxcERqQmg0aDMwaFc5X1RtOEFQZzdGdm5PbUhzTjNxZ3BhNVBJVHBmbHZ4MS1KV0FBNGljUUZhR1kxRlQ5WmtxQlJzQUZ1Q3JGMXQ3VW9xdWlrLWd2c01XTVJZeE1lZU13ZXF1RlFBY1B6OGNIaW1WRE9xaG5RRzBPSGVYNmtLRWwxQkRfMlVSNlFFYzRMczMyVmlYSWpQYlFCMlNHSzZjZkdVblcxM2Fya0RsMUNHN3gyM21vbw?oc=5",
@@ -11409,6 +11512,19 @@
    "source": "us-eb5",
    "published": "2026-09-07T07:00:00+00:00",
    "fetched": "2026-10-03T02:52:13.017840+00:00",
+   "visas": []
+  },
+  {
+   "id": "6eef2540d00f0894",
+   "title": "Cut ‘permanent temporary’ migration rort with offshore visas only - AFR",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmo5NEVnTVpKQnlCVDFicXljNE54cFVKWEZMSzZKRGxKMWtOb3JwMFJ1NWp6Qkk0NEllR2kxQTJ0aDh1SUdjNTJYNHRDR084VXJCbGNqNWJuc1llRTFCNjh6OGl4WllrQnI5b3VhMXlxNG96Q0ZvdUlqWkJERk5VU3dZaTl3SnRYYVU1LXJLRVd0RU5HVXJqd1ZwckdOTG5TRmw0bHFDc0pEUzhfa2JESWdvQnFqR1E?oc=5",
+   "summary": "",
+   "publisher": "AFR",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-07T07:00:00+00:00",
+   "fetched": "2026-10-04T04:27:21.364728+00:00",
    "visas": []
   },
   {
