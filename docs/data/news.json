@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T10:52:49.776817+00:00",
+ "updated": "2026-10-04T17:51:43.349610+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -96,7 +96,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -126,7 +126,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "au-partner",
@@ -138,7 +138,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -168,7 +168,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-student",
@@ -180,7 +180,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "us-visa-bulletin",
@@ -240,16 +240,118 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 37
+   "count": 40
   }
  ],
  "items": [
+  {
+   "id": "c9c50b158e92bc5c",
+   "title": "'It was like a lottery': Parent visa system shifts towards queue system - NZ Herald",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUUVRQnFTUmpSQzljcDVKTEJ4ZWZrMEpRVlZBWTJlNjRaWk1oN3RLeXVzZDRCN0JCS2ZKX1k2S25peUpwd0VwLW9fYlU2d2RUSzIyLUNfVl9CZGZ6dHhILWdtWEFSeG5BakF4R0M1VHhTMlkzbWE2bjUxSF9ubHRuWTFmLWgtd0Rqc3FHUGZaV0dFa1hMQzROLXhsMzZVNzVtaTFUbUpmVDUydGZUY0RVa1dIT3RHRkhwbmYxZVpMY2xaemtjV05ub2VlZ2xWZXpjNU5yemlMUzd5bmc?oc=5",
+   "summary": "",
+   "publisher": "NZ Herald",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-10-04T17:26:15+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": [
+    "parent"
+   ]
+  },
+  {
+   "id": "02da2ed20659a044",
+   "title": "US demands up to $20,000 visa bond from 50 countries; India left out - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXlfYlplb3NDOEFUQkJlZFc4ZE9uQUNZY3MwbG5YZjdTOV9Ic3lmZVRZM3U4ZWU4X0J5SjhlX05xUVJZTzg3NkhwQnpUYVpnQXgwZlc1Z1gzY0pkMjRITkx5UWIxd1VPNW9CN0t2bFlNZFNiTE1WdzVMZE9zQ202ajJMeFhxNmRHQXk2czVYOHRabDdMWVBnbU5fQ1pzR3p4ZVE5b3g5dFp3alZ4V0xkeE9rb9IBugFBVV95cUxPTW9CejZHVWVjX25yTlNTSW44UHNMam12dllXUWJqRUJ6RmlSNVR2SXdpMVk1VURGbUxPdXBhYkxHYlE3UHY2bFlyNFkzU3Y2SmcwaHpKb1p2SF9tOXNvSFhNb3FQcTZFT3VpdnNDVk1qbHBzdWFRdmo0X2tkajFlV3hOYlFNN2ltajlGdXJNNEpvVW9Rc2lqeTVNcVpra0VLdGZlT0JfbTFCZkZrZWdCMk5OY1RITmdFZlE?oc=5",
+   "summary": "",
+   "publisher": "The Indian Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-04T17:05:31+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
+   "id": "2ce96f55cb968926",
+   "title": "Conservatives call for lower immigration targets as Carney signals future increases - Philippine Canadian Inquirer",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHJLRUtMTEp4NDRNenlTUV82RHF2R1ZoaHcyNENDcTdqb3VZbnBmbE9fVHNKWWxhZFkxc296cnkzS3ZRbzVOWTJUZlV6bFI4a1pOSVZGbDNuN1l0d1JJS29TT2U4Sm1IeEVYVVN6eU4xQkJReVcwekNaVGdBd19LRXQ3aVZnWnZBVG1pQnJKbXFmYU5CbDRQUXQ4UmkwX3B5cWR3LXgzWUdOVVhzaGd0SG9helNXc1N5ZTR0eHFfd0k2dw?oc=5",
+   "summary": "",
+   "publisher": "Philippine Canadian Inquirer",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-04T15:36:24+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": []
+  },
+  {
+   "id": "5d78ee6075e9f093",
+   "title": "Canada Lists 3 Types of Partners Who Can Join Their Spouse and Become Permanent Residents - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3Q4dWQ5Zm5fRUZhQk9BU1ZLNndDS056ZnNBSFFYUUxpbktEOC10aTNNdV94blNzVkFaSkFtVnE0U0tWSkpmdHBTSW5tc2J1alBkUmE5Yk9RUGV6QllVRi1TQXNjU2tiYzNrbVoyMDh0ZTYxdmFYN2R5c3YyNk5sRnZUc1JWZlVPMFlzcy1hZmxES2l2cmcxUXJMNzh6WGVOS0MtWQ?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-04T15:26:24+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
+  },
+  {
+   "id": "62f5126049bdf948",
+   "title": "US Green Card holder’s mother denied B1/B2 visa, leaves her perplexed; internet warns, ‘Never say that you are funding…’ - livemint.com",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTG5fU1dMalVuYjdCQjM4LUhlbEhiQVNDS2VOVmRHSHUtc3pVS2FzNzJXb284M3N6SUhmcmltR0RCNnlXN2VINmdrMXVkYmV2d1Z3Rkx3TTdRV3pKdDRxZk44YlpqdVZUbmE4MVRvRjR6Ujc3ejI4MURORm1VUXJJem1WZlB3VlNqNXREWmwtVS01VHphRElqZDNFdUN2X2JHdW92RUttNjV1M2dRTzluTU9sOVRBQklmbENpbENwZ1ZEbGtkRHltV0JIT25Fc1lSblVaTnVlZll1UE5SbnBDMG11S0VqdjY5M00wdGVka3haLWtSVGVlMEZ0VnpFdjZlMnludGNR0gGGAkFVX3lxTE5Mbl9TV0xqVW5iN0JCMzgtSGVsSGJBU0NLZU5WZEdIdS1zelVLYXM3Mldvbzgzc3pJSGZyaW1HREI2eVc3ZUg2Z2sxdWRiZXZ3VndGTHdNN1FXekp0NHFmTjhiWmp1VlRuYTgxVG9GNHpSNzd6MjgxRE5GbVVRckl6bVZmUHdWU2o1dERabC1VLTVUemFESWpkM0V1Q3ZfYkd1b3ZFS202NXUzZ1FPOW5NT2w5VEFCSWZsQ2lsQ3BnVkRsa2REeW1XQkhPbkVzWVJuVVpOdWVmWXVQTlJucEMwbXVLRWp2NjkzTTB0ZWRreFota1JUZWUwRnRWekV2NmUyeW50Y1E?oc=5",
+   "summary": "",
+   "publisher": "livemint.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-04T14:18:20+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": [
+    "green-card",
+    "visitor"
+   ]
+  },
+  {
+   "id": "132eba4d3beedea0",
+   "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZHBPdjd1aFpaMGgzTm1iZGowQjRkTExpQkZQSDJZZnJlSTZnSXlSbjB4dDl5TEJiU0FtQ0ItTmRHTk4xOGpxNWxtNkk0eWpJZXRKWG5FcW5TZ3NhZnVzSFQ3LVRSdzBzSGxVaEtiUG8wUzhsRTNESTRYcmZSVzRkcTRVZmx4VUlNbV81ZXJ4LTE2UnAxUVA1TzBKS3NFbjJRVkktemdHOWVZaDhJWjd1Ml9LNUpyRUtxeWZLblhR?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-04T14:02:00+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": []
+  },
+  {
+   "id": "7cc1227025a3e9b8",
+   "title": "Australia probes flydubai hijacker's time spent in country with student visa - The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxajFBOFpFWHF4NkE1UW9qbVhJNjVsYTdJUW5VQzdPVDM2VzJrWllFdS1kUjJDTHRDM2ZnSXZhWGhydWVzazV3S01Ob1NldlNMVktMUHZnUnFyTnEzQmhOTE0xSzFOQzV4dzRFM0pZTEJoeVZFbE9Z?oc=5",
+   "summary": "",
+   "publisher": "The Jerusalem Post",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-04T12:37:51+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "5a9f8092a13e173e",
    "title": "Relief For Travelers? US Imposes Up To $20,000 Visa Bonds On 50 Nations; India Exempted - ndtvprofit.com",
@@ -1467,6 +1569,19 @@
    ]
   },
   {
+   "id": "438d428141487311",
+   "title": "New Brunswick issued 610 immigration invitations in September - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSbVlvRjZhcmNobml1cF9oa1VudjFkT0M2ZGZ6QmtPb1htWkl6bjhzMURaTEUzSWdtdmlnNnhpM2hFWHpUWGQ5eTJHSGlpUWx0ZGdXcVA5TGRaQU9NZ1ZTdjdDSlU1TDNKR3JmdDloNmNOS2Y3Rnk4?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-02T01:21:02+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": []
+  },
+  {
    "id": "2d1e4aba27509418",
    "title": "‘Trust is key’: crackdown on migration lawyers launched - citynewsqbn.com.au",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTMzRkhKc3VxNGhUY29MVUJEamhjYkxIMmZ4SU8tWTI5YlkwaHpGVWtVZmZvOEo5dEJYRGxTT0trMmJZZENDRU9JUGplTDNMWmN3cGhWLUtjSWVUb1U3aWFRODdSZ0JPTzRJSkJXTjVTa2JvREt4X0ZDRWt1UXdtSXhwV2JYeF9oQTJialpn?oc=5",
@@ -1932,6 +2047,19 @@
    "visas": [
     "skilled"
    ]
+  },
+  {
+   "id": "0da2a6a6f1f6e0ae",
+   "title": "President seeks more Australian cooperation in skilled manpower, LNG supply - daily-sun.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcm5PbUt0MlBNYllfdi1Yc2pfTFJEYU5ndW53T3lRUS1wTHNZQmFGTVpYUkd2QXZYLV9SYmhwUzZpWUZQcEJ4VzRRaW5XdS1RQURfdjhiRVlQbDNyajFLU3BVVzlVMEFBT3YybVdhM1RsekdCNkgwSEdFRk96WHBmNTl5cTFTS1N1cXFPYkxsU1IxcWJSRnVXYlhfMTJzS09YRTVNUGo0bHNXNFU4T2ZWS3Y4VUpublk?oc=5",
+   "summary": "",
+   "publisher": "daily-sun.com",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-01T10:49:19+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": []
   },
   {
    "id": "7ba6476d3435d173",
@@ -2566,6 +2694,21 @@
    ]
   },
   {
+   "id": "d668efbd0b9c6a1c",
+   "title": "The employer’s guide to reading the Visa Bulletin - BAL Immigration Law",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2dWODY5clpCOUlSd1dyN1ZoVVZFSzkzemJFYXpVYXR1YmtHbGg5VDlvU2dRak91LUp4SkFiTG16TXJjSzU1NmUtS3YyTUZ1eVNpR0hvNGh4ekVyMy1vUExqX1hVanlnSDlkNEh4Q01kYTNkRnRkd3BiYWRxYmVIcFhNbHZRSlpQV2c?oc=5",
+   "summary": "",
+   "publisher": "BAL Immigration Law",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-09-30T15:00:23+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": [
+    "visa-bulletin"
+   ]
+  },
+  {
    "id": "ee298627822b7961",
    "title": "New Canada Immigration Changes And Updates Coming In October 2026 - INC News",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xazloZGtNTjJxLU4xaG5TdDZzTW5saXlsZDVleGxqRC1wR2h6NXZiYkVHb3czSzhsdF9zbTZZV3ZTVWpIOWxhYm1tdklSQnM0a3hPQU40RGlHdGxYSWU3d1UwbEQ4NDNod05xdDBaek1JLTFPR2pGSW14R0t6dw?oc=5",
@@ -2819,6 +2962,21 @@
    "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "86d1e6964d0a77e9",
+   "title": "EB-5 in 2026: The September 30 Grandfathering Deadline - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSFlndjFUQm1fTU11TW5ULXZOSHd2WGFxUExrWWJicmFkQXF2bFVuX2RsZWRCN2loY0ZNcjB3ZER6QTRaRkNjRkY3NEl1OHJ0eWlJMVdzRzVocEhvM3M2WVE5NXRZS2hJUDZPZHJILXZpc2hZNFduN0J2clhMaVU3QnR0a2hyZ9IBiwFBVV95cUxQZUpETWFWazNZdFNRN3dRM0NZa0NFalIwUE00QWc1VU1oc2JleUgxOWVwOHVnVTdNWEJaU3dXRXhXRU1xZDRWaFFLQ0g2dnFpbER6MjE4RHlvNFc4VVRLd2pRa1hwc2RWVWI1YjNWeFRJcGl0blRvQi1sU3Y0M0Z4ME1Za21GcS1kMHhR?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": [
+    "eb5"
    ]
   },
   {
@@ -3369,6 +3527,21 @@
    "visas": [
     "eb-work",
     "visa-bulletin"
+   ]
+  },
+  {
+   "id": "74d4969e808271ba",
+   "title": "This Green Card application just changed: here’s what you need to know - El Cronista",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDg3Q3ZORWlveDlkWVM1UklLaC1zM1RlU2NHYm80R0xaOGxGeHVsc1loTW1YNFc2LWxVSXp1dnFfR1ZyREtnRHQwdy1kR2JPRkYxWXlwZTMyekpzQjBsUWNlb3czcGhIbWEyVUw3TV9LRFdONTFUQzBiaEZfN3pNMi1zYi1QNkhaRzFDQ0NHZE1EVkp0UDQ2NEtSQ09QbTQyVFRlaDc3UkVqZ2VGNEE?oc=5",
+   "summary": "",
+   "publisher": "El Cronista",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-29T14:24:03+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -6009,6 +6182,21 @@
    ]
   },
   {
+   "id": "bc03031987bdd5f8",
+   "title": "Bringing family with you on an Australian student visa - Times Higher Education",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWVPbHFUNW9OZzlRMTJ0ZlEyU2p0YXB6Nk5zNkl2MFFNdlNYY2dBYUpnX1k3WC1tcU9EWHI4TmFtcUVHekR5Z1h4N25lYkNrZnBsMVgxbHJjdWNhaHFobXhlcHhINC1JUjc5QkM4Q3N2Yy14VWtSUFpTZEVSb1A4X0Zmb0dLN25tNm5YNGQyMVptbWFfU1Z6SUpjWQ?oc=5",
+   "summary": "",
+   "publisher": "Times Higher Education",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "15deb630b6ae09dc",
    "title": "Úc cần thêm “baby bonus” hay nhiều người nhập cư hơn để giải quyết bài toán dân số già? - SBS",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc3ZkMUluUThLamUzRVdXbHAyZkVHMlNFZzlpUmhLSTlGYkVyaHhuT0RTcFc0N2l0V0wyaFJ4c2xucHd4bzhob21GVW0xWnU2dEZmVVNkVl8zN0F3YWZ6M1ZGRGo2THdpemlyWVljVVpwM1BGaDlVdzgzZURhVTBHUy1HcUpoN09pQjBkS2tIcXVfZ0FpNTJLdGtCd3ZLcTc2LWhaQTZvVkpNTFdvMGNhRXp2NlFUSDd1Tk5DTWhXWFZSMEdzRWJFaDBfNlFMRHItUlZxTWk0dzl2RkFISm91YWJOa0EwNFdoalp3SQ?oc=5",
@@ -6382,6 +6570,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "35cc6e3a0bbeb146",
+   "title": "Migrants, refugees, supporters march in Toronto’s west end ahead of Parliament resuming - CBC",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTNLSE1RU1V3bUFmc1lablN3Vk9xQkwwbUdZd0dwRTRwT3Z3TEwxX3JnaTVXajNIdXU0VkhJZlM0dnVkSmNiejRFdHJ6dmpweGRNRV9ieDE1Z19CNUJoMmN0dHkxVFFXU2tTcHhSM3dPU3MwZS1qOHpvNWxhRDVVdFBMSGNQOHpiNVV3?oc=5",
+   "summary": "",
+   "publisher": "CBC",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-20T07:00:00+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": []
   },
   {
    "id": "81d81d9fad722e35",
@@ -8149,6 +8350,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "bbf069b5a0cdbb9c",
+   "title": "Speech - National Press Club - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFA3UjdLRndoeXIyZFRKT0doME5fbFZoZ1VNVVAteVhHNUFFcDU4YURKVWR1ejNMS2s2b2Njd212UmhXVkNXUjBMeWdmTFhNUlN2cnVScEhsV3I2V1Z6aWRwYUlpcnlycllRMklFVHVCMG56dWthRHgycldQaDdQR21SLW9ZUzR0OWoyTWhuRDBVbkpvRUJB?oc=5",
+   "summary": "",
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": []
   },
   {
    "id": "1de8ea0df6bb963c",
@@ -10353,6 +10567,21 @@
    ]
   },
   {
+   "id": "19fe331daf220d74",
+   "title": "Manitoba Issues 793 Letters of Advice to Apply in MPNP Draw #279 - immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDJxVUwybkFmWU5rT3R5Vm1pc2JWTzMwajB6R2stQmxfaVE0dEpnQnpzSmNyRUtCVUduNnA2LUg5bjBCQU90elpUZ1ZVbTdJRy1DUUhLQjFzVnBTS3dLMWF5cEQ1LWtsb1AzUFRTRmc5YUdYRFY1dHRyM2ZreU5CSVpoTXZYWW9SeGJPc2prRnZxd00zVnhTUU5kQmxGaGwwVHl6Mg?oc=5",
+   "summary": "",
+   "publisher": "immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-11T07:00:00+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": [
+    "express-entry"
+   ]
+  },
+  {
    "id": "209d56bad5ace1cd",
    "title": "Calls for more skilled migrants to ride innovation boom - Yahoo News Australia",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNktWZml0eUNORjlXS1RVMDRqdlJWWW5EQWg0VzlLM0w0TzRCeXFaV1c2NDhGU3kxMURwR2JQbHdFRWhoVTdhaFdBX1IzWnVMcndvcGlrTmdLRGctc3drZ3ctTFpONFdpQ1FkdHlpZ3EyMlYyU3NLbWJwMkhtekF3WWV5dmU4TENONE1UNA?oc=5",
@@ -11932,6 +12161,21 @@
    "fetched": "2026-10-02T08:31:38.597334+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "cb869cb488378cec",
+   "title": "Canada Invites 3,500 Healthcare Workers in Express Entry Draw as CRS Holds at 475 - immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkFBUzhHTDMzMmVnbklUMW5OSVdxSFZCQ1dQZmJRNWFrX3oyWkRkWTF4cDJJY2tKV1VtdXl0UzVRejg4VUtZWno4dGozUV9kMnhHSGZiMHlRSG1Md2ZXMFVXRkRMT3VOay15aTFWSjlNaDV5eVRuNjZQRW5yRFhnQlJPeE1NZnNSU2E3dkNHTGF1SGVaZ3gyNQ?oc=5",
+   "summary": "",
+   "publisher": "immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-05T07:00:00+00:00",
+   "fetched": "2026-10-04T17:51:43.349610+00:00",
+   "visas": [
+    "express-entry"
    ]
   },
   {
