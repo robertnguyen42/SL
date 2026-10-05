@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T10:47:12.330919+00:00",
+ "updated": "2026-10-05T11:15:25.787080+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 18
+   "count": 16
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "nz-en",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-citizenship-investment",
@@ -419,6 +419,49 @@
   }
  ],
  "items": [
+  {
+   "id": "7d8aab7e960ab708",
+   "title": "Australia announces 4 types of parents eligible for sponsored parent visa - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXYycTlBNURsNlNtNVFjRmtoQWZILXJkUnZzcGJ0ZFU5UW9rWGVJOGJDZl90b2FLcElwN1VELTlMZW5pV0duS3B4d3NBVm1MRUJBSktkQ0JGTVRoMmFaSWdtbzRKQkY0OUtVNWFzZjFVUFY2TzBDaGdGa05WZXFvaFI2M1pfQk82eWxPMmh0a2lCT1ExNWFWWGZwWXdGbUZfWTQ4?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-10-05T10:49:23+00:00",
+   "fetched": "2026-10-05T11:15:25.787080+00:00",
+   "visas": [
+    "parent"
+   ]
+  },
+  {
+   "id": "3937879909943bb3",
+   "title": "Australia needs skilled migrants, but not every occupation has the same opportunities - MyBroadband",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2FRUVVFRlYxTGVPQ3A4V2xBSnZNams0TTFoNzY5Z0xITDE2Ymk3b0M0d2dWRUhpU2dhS2hnOWtnSGdLTlFfNFY1XzRoU2lJU1NOS1ZpQkZIMTZmMHB2NkZQTHBFd2V2QU1FamNDVlNMc1czRmpQaTBYZnNUbm1GYlVJQVZiQ09pM0NRaEY0bTZFQXBPWW5idVZzZ2xsNThoOWRoaktmUUxsRU9FVmxyMEVJQl93VmlyM3B4Rk53eXY3UV9wZVh1dFNjNC1seFNNV19Cdl9xWQ?oc=5",
+   "summary": "",
+   "publisher": "MyBroadband",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-05T10:41:53+00:00",
+   "fetched": "2026-10-05T11:15:25.787080+00:00",
+   "visas": []
+  },
+  {
+   "id": "3cd463f3b588f519",
+   "title": "US Visa Bond 2026: Who Pays, Refund Rules and Why India Is Excluded, Explained - India TV News",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ21yeVQyQ1VkNmhvS3hWSlk2ZTFKQ1c2MTJWbnBieXM0SVd0RDFtdmhodFRzVWhhUkFwZVpyQ2RoaWZzUU51RnVlenBVMWJ1d21MbldEVWpwTWk1Sm5RaGtVVDBDRlBXWWVZRGE3cm4xM2luWkpwaXhHMThCQV95QzRac3NlQXozd1JxbUpiWjFUSUZrUGVrckxPTG5IUFpQSTlyc2dHX0pTdE9UbF80SHVibDViS1U2eVBLaXNjYkViejRBc01VM2RocG54UG95YktletIB2gFBVV95cUxNYTBtR2loUXhfUUlqcjNBM2EtR092U0JyV0pxYmtpTmJvM2NBQUstZ2tjN1ZsVk9Yc2NvRVVaZEZNRmNLSTRHY3lSdkRrUVV0bTFOU1h3aXZ6NGdIaFFQM2lQYm8telVyMTZkTFBaaU1qc3hBYVY0MXlNdXVrR3NYU2NFWEd4YV93SzdvRkhrQ1lIb2pGam1SQjVOZHhYcUFiYzdTS2xQVk1jY01EX3dJT01ocFFfbk9kbkppSmlBelZDN3lwU2tzM2w3Nnk2Zm1fTmI4V2tGWVlZQQ?oc=5",
+   "summary": "",
+   "publisher": "India TV News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-05T10:37:45+00:00",
+   "fetched": "2026-10-05T11:15:25.787080+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
   {
    "id": "592f28092d4ad250",
    "title": "Eight Schengen countries that offer Nigerians easy visas 2026 - The Nation Newspaper",
@@ -2956,6 +2999,19 @@
    ]
   },
   {
+   "id": "6959f29d2904ef13",
+   "title": "International enrollment drops at D.C. colleges amid visa restrictions, policy shifts - The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1ROcjRKVDhVZXdtaklhRUdzWUY4cXhhdWhWUXpLdjBTUExWbHk2dkk2YWY0czlVTjZZb3g0N045cTY0Z3ZlZGF6emVBNXdob2xGLU13bnBpdFpzNXRXNmpjZy1MV1lSaFpFeWN1RWdpUXRwYWE1RWdMRXpma2o1czVEV0Uzb3lsOTZ0UGxHcnBVS1pPNjlFNUNYaTF6UU0zNkl6bDZ1OGJSNEtB?oc=5",
+   "summary": "",
+   "publisher": "The Business Journals",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-01T19:09:00+00:00",
+   "fetched": "2026-10-05T11:15:25.787080+00:00",
+   "visas": []
+  },
+  {
    "id": "0e755f51178e3e66",
    "title": "‘Sharp practices’ by rogue migration lawyers in Labor’s crosshairs - SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdFBpTmg0QjdEODd2X29SOFFJUEJWTEhqcWhjUG5TS2FfaXF2cmk3c3IxcVdKOTVld1ZHWmFyc3pSalFGclR2N3p5V05KOE8yTy1xSGw3NWptRHcyZ3FMRmRmQVlib2Qtdnd3UkRQTzhtZ25JYUp1LVZiNHpveDJTRlg1MzZ1Q1VmUzJmRF9BTVd6aHczS3Q5ZkY3M0pOSzhuTWpvNk10TUF2SnlKZFQ1cXV0czdpVzA2aFpQbGU4UkVFQms?oc=5",
@@ -4388,6 +4444,21 @@
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": [
     "express-entry"
+   ]
+  },
+  {
+   "id": "43e169b3cbb5f9fe",
+   "title": "Why Are International Students Changing The Global Education Business? - The American Reporter",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWtpdXdZR2ttZDhwTGM4TGc4V05JaUQ1QkFWbUpjcXRLYWZHZW1VQmFxbE5mc2U4elJ2S1NmRnB4dUhGOGxQZTlNN0ltbTZWUGFnYlE0S096ZDF6YnJyRjFFMlQ4Rm9Nd09zSFVXckFzWFFJUXNSMjg2SHBmTFFCNENORmxXeE5GOHJXZ2dQa2JEMFdxVDFkUTN3elZDTWk3YjBtcWxMOGNRTTVmellZWU1uWUVndHlF?oc=5",
+   "summary": "",
+   "publisher": "The American Reporter",
+   "country": "US",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-30T10:00:31+00:00",
+   "fetched": "2026-10-05T11:15:25.787080+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -11274,6 +11345,19 @@
    "visas": []
   },
   {
+   "id": "7c0948e5e06e5386",
+   "title": "Visa news: Indian students to face new family restrictions in Australia, no 'visa hopping' allowed - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWUdSVWNleGJsTEh0emtUZnNYbVVGaDh5XzFZQmFTbHlBRWk2UFQ5WmdIVjRyamU5SmM2VUU5dVdwaXBuaFFjZDlzTGhkajlYNUJPbjdhcFpfak1Kd1lKdkR2NTFFMlk4NmF0aXNXXzl5aS11cHd2QUQtSW1iSkVvaXFaYzBMV05FSndUZU9vOXUxVWdNekJCbWUyZlVMZ2hLdndORjkxTV9BQWtpNzQwMmVLTnU0UXBPbURxZVZMTkluTGFLTzRXb1hFUXJJWmY0WTlNbGlvazM3Y0lCWmloVHkxYnRKeHhZLXJ6MkRycGE3VFN2cHJyVU1sQ1dMci1SZkRTQTF0QdIBjAJBVV95cUxPWkItb2YwX2lnX0Jvb0VYMExNN3djTklkMlp0R0pvV2pvQkczRmU5RG4yNW52UG5qX2FsRHY3Rjl0dXRIUTY1QWk3NE5xTVBqYmRhVjR2X3BZczcyLWJ2QnNQTWlYTUxiUk01WHR3NmstMHpNM294dWRhOWZkeDdmcWsyaHBGcm5YdXZXOGc4bEd6R2JoNHhOaWNUY3p4eDZOSEZwUmlFQ0t6SDlCWVMtTWlkUm9xSTZ3R2lBZjI0T1FWVWVJZHd2WGt1eGtha2xrMU1lTGdwQS02cEcxYUFCUG5ZbTBRUlhyeEJKV28xM2l2SEJhajlxdmMtWlF3amw2aXVSNmJGeFhheTdy?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-05T11:15:25.787080+00:00",
+   "visas": []
+  },
+  {
    "id": "6c8affecfef82540",
    "title": "Australia Unveils Migration Overhaul: What Indian and South Asian Migrants Need to Know - NRI Affairs",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHhZanNYMGlneU1tSG1mb2RkQllsbzhsY2M1RmRQMXRfdGVfdzZDY1hhMnNtZmlvNDFjMFlyWEQxNDduYjl4RnRJdkwtQjJodlRxdnFoYndDVUR6aEJLNTY3dGMyUEp0ZXhSUVdOeHdWT2JlRUUzUXBkUHpIeksxdjVOSGItOVlNX3NPZ3ZWQVZrRjh3ZG1pb3liV3BTMFQzYXpkUFF5QzNVbE9xSzZ4TGpBNFk?oc=5",
@@ -12947,6 +13031,21 @@
    ]
   },
   {
+   "id": "09b8c04740d59b43",
+   "title": "Seen The Headlines About Visa Cuts? Here’s What International Students Need to Know - Insider Guides",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckl6bHlWbUdFM01IbXlvR2ZPY0JYSEVMODYyaXlWS1UzRzhiMWR4cUt4MlVSUV82LWs0V2lsOFZMeTA2a0Jkd214UnlzLUJKckpWa2F0YXJoMFhrUTJLLXNVZWJOUXllVm9sNjVBcmJHbVNRT2s2OWJwaGZZRlptX2hJS1hienNnRU81eVdnZmRkM2FPR2pCalZmQ0Rub0gxZ01TWTBfWkpTZ1V6NllnLQ?oc=5",
+   "summary": "",
+   "publisher": "Insider Guides",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-05T11:15:25.787080+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "a4e46b01953f32af",
    "title": "New Zealand to introduce new 6-month graduate work visa in November; Check if you are eligible - Education Times",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNakxHeHNSek5vXzJ3NzJ5ZldsUFJZbWZvempjaDRya29ycEtIVmVVcnJVUmVyU3VJTTZnYi1ZRDZUSU9oeXNxZG0wZ2V5N1pHS2gwcmVQbU1tckRYMktCeEx3cmNna0xkNUI5VnNNU3Z3Wjh3N1Q1R29mekxsV2JkbE55cjg0SDFvOEpnb2Znbk9lMGN6VjBISUhqZjZ2Rnl5V1hENGFpUWd2ZUVtdFkyU2FfUVlmTHJNZHR1VWk2Rm1xLUNnN2JYOG1mYi0xWXZ0SU5TbVJmSXEtYTFGMHRvTmNCTjZVbmg2SXlzeTNjRVYzams2Q2c?oc=5",
@@ -14320,6 +14419,19 @@
    "source": "nz-student",
    "published": "2026-09-14T07:00:00+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": []
+  },
+  {
+   "id": "00b24f3b1a6f0313",
+   "title": "One Nation pledges to slash immigration by 750,000 - 1News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWjZ2WU1Od3pUX2ZhZWlKWjhqd1JnbmJlVW15OHY3ZmowV2hiWGpmWnpqSnE5cWdHN1pxYkZwT2ZFOHJLQTNCOWtMU1c3bndNNDdDNDhqWGZTR0pFSWdHcmxXOUh2blBVSDFFWnM1Vmk3UGd6Y21TdHpEZmpSNEdoWWhNaW9NeEVFTFh3RVBB?oc=5",
+   "summary": "",
+   "publisher": "1News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-09-14T07:00:00+00:00",
+   "fetched": "2026-10-05T11:15:25.787080+00:00",
    "visas": []
   },
   {
