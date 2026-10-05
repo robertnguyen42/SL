@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T13:20:36.589160+00:00",
+ "updated": "2026-10-05T13:49:03.115534+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "nz-en",
@@ -193,13 +193,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "e42f4f3c122f5e3c",
+   "title": "The Home Office has announced that the ‘One-in-one-out’ policy is ending and the UK Resettlement Scheme is reopening - Right to Remain",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUmhNS0d5SnhvMllXLUdLUUY3eEZfdFJHZUZ4SHp5TXRGR1NPRjR5RHZfZnhyQzRHbGxzU212RGdYRmQ4WGJSeHV5dXlIQkh6blBjMHBqbkZta015dE1haWVPZUpnMnRYck9nczVxTDUwMDQzQ25oNWJYazFadGVYc2MwQVppWG1mZkZfZDVscXc1eEhhLUlhZ1k5Tlk4M3pxSHNFQmNIbHFvNVJaWnRYQ2U1bDBPT05WYk5yLWZuOU4tQ3Z4c09rTjE2LU1yQ3lVWWw3aW4zMmpRVkRM?oc=5",
+   "summary": "",
+   "publisher": "Right to Remain",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-05T13:42:37+00:00",
+   "fetched": "2026-10-05T13:49:03.115534+00:00",
+   "visas": [
+    "uk"
+   ]
+  },
+  {
+   "id": "bbb77e61091e49cf",
+   "title": "Trump Administration Boasts Of Reducing Immigration And Naturalization - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWjdaOFFPUEw2ald3a3hrRWt2ci12Q1FJb0NablNXRWczUnZBN2otNUpjMzRpMUdQRTNBN2pCcW1tZzlUbVh5WUVFUXh1T3Rab0g0ZTdITGNwVUtianE5MEFBZDhCbklkelVGbGUxYXRNdV83WHBWSnBNWmhJVEFkdEFPREI4RXp3SHNhRFhHc0ZaZzg0UkYwSUFfSFhRa3UwT1pWSEJPRVRTRlpxaW5xQ2lsd2ZkcEpDWFJPMng1U0pUNTFi?oc=5",
+   "summary": "",
+   "publisher": "Forbes",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-05T13:30:42+00:00",
+   "fetched": "2026-10-05T13:49:03.115534+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
   {
    "id": "54d6aa35595c00e6",
    "title": "US Department of State Releases October 2026 Visa Bulletin - Morgan Lewis",
@@ -535,6 +565,19 @@
    "visas": [
     "golden-visa"
    ]
+  },
+  {
+   "id": "fa3c18b0005f6812",
+   "title": "NZ-born girl who could die prematurely in South Africa gets residence after Covid muck-up - awaaz.co.nz",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHFISktzNVVfSlEwLTNqLUs5OTJzZmpvZTVBSjBJa0N4T3lFeVRWMnpUUzdPUVp6ZWtnX29MMHZWcXlyYmxIcTJHWll2c25MaGQ0TlQxVXdXVmNMZHQyUWJSU1RsN0ROY1VWMFlyV2VwdHlGNC12S3h6U3lCMnE1ZjU0TENQNTlMMURuR3hmV2R6NnU3VFl3Y0I0aEJ3dXBvRG5JVTcyVVloeXZ3SG1WblBnWEpyNXNTNm94MWRSN2pOSng3ZWF5ZnlrX2tPQ1E?oc=5",
+   "summary": "",
+   "publisher": "awaaz.co.nz",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-05T10:56:06+00:00",
+   "fetched": "2026-10-05T13:49:03.115534+00:00",
+   "visas": []
   },
   {
    "id": "7d8aab7e960ab708",
@@ -1291,6 +1334,21 @@
    "visas": [
     "green-card",
     "visitor"
+   ]
+  },
+  {
+   "id": "30d1eacee3a35bbd",
+   "title": "US Citizenship and Immigration Services Doubles EB-5 Fees Nov 30 - deeparrival.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uRXhWeTZLQWp2ZXhZaFpjZEJYdkxnQVJ5RGo5Z2N0bGxuQXZjMjhpblhSZlNPWnN3VloxSk5MOXc5NHAzTnkxc3dndkZDdjdYQkxUb1h2d29xMnRCRm9lWEVpS3FrcjhRM2lxNnZTejYwVFhGY0E?oc=5",
+   "summary": "",
+   "publisher": "deeparrival.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-03T17:28:44+00:00",
+   "fetched": "2026-10-05T13:49:03.115534+00:00",
+   "visas": [
+    "eb5"
    ]
   },
   {
@@ -3154,6 +3212,19 @@
    "source": "au-en",
    "published": "2026-10-01T19:00:00+00:00",
    "fetched": "2026-10-02T08:02:50.604805+00:00",
+   "visas": []
+  },
+  {
+   "id": "471a9b14a6bc74df",
+   "title": "Amendment Circular 2026-28 - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQckxiTTlKZmpCWnBZcllTNnVGMV81UFQ0eHBUTE84UERLSkswd21YZ2xMMGM3a3BlRVkyV1dERnp4Z3p0RkJjeWZEaFk5RHQxXzE5MnFqWVk0MnJ4M21aZ0JZaWliLTB5YWw1UHRhZGNEQlJkQUNvYWxDOGF3VlJ5TEY5c0VRclQ0cEJ3R0NTSmVvS2Ruc0NZRHVHVVk0TUhEbnNqRjFB?oc=5",
+   "summary": "Amendment Circular 2026-28 Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-01T18:57:28+00:00",
+   "fetched": "2026-10-05T13:49:03.115534+00:00",
    "visas": []
   },
   {
@@ -9050,6 +9121,19 @@
    ]
   },
   {
+   "id": "630db48952e16fc5",
+   "title": "Immigration firm wins appeal against licence removal - Legal Futures",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQmV4V2dOSGNTZGRjOW1iS0Ytb3AxNEVkQlhRamZnUjVjTzl4TFVmZlA0NVRlb0tqOTFRejZuUTEzd01BWFhFZE5qdzNNMlVFenFYbmsxc1lPWU5tX1JBZUJNSV9GdG52ZVhDcHRfMHdEOUlTa0JiWjE4aUVqc1NSZGFwZFJhOHkxQWVYU3FjZlZVaU9QVEZoUEZsWQ?oc=5",
+   "summary": "",
+   "publisher": "Legal Futures",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-22T23:59:22+00:00",
+   "fetched": "2026-10-05T13:49:03.115534+00:00",
+   "visas": []
+  },
+  {
    "id": "39750ff0c67ed7f6",
    "title": "Canada updates timelines for temporary residence applicants - ircc.com",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzcwbFRmRzAwSDhzdWtxVU1IYy1qNlNDQmg3TENLUmFGWk9jS29TeEtDQUJfam1ESzEtUEI3NVRBRE41TXJ2N19vWWh4Zm5TLTlMWDVRYVJ6T2RPZTlsM1NENXFDdk5vdU13YlhlNzFncTMzV0IwS1BicnZ6eVJqbUF0WF9qNWc0?oc=5",
@@ -11501,6 +11585,21 @@
    "published": "2026-09-18T07:00:00+00:00",
    "fetched": "2026-10-05T11:15:25.787080+00:00",
    "visas": []
+  },
+  {
+   "id": "ef295b7a06c81d01",
+   "title": "Netherlands: Fewer new asylum applications, as EU asylum pact takes effect - InfoMigrants",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa001ZjZYT2pFa3F0UnZlYk95bE05NW1CaXJySU8zVHFwN1BEMDdTNmE0MG1QUF9XTXdYdHRUVWhBR2dCTzBWckRveEFSMm5aT3JMY0dzR1MteW40S3dmSUhUc2huUjhaejFVbHpPaXM4T2x1dkl6TFRneTVjaE5JVTBQX3RrSlZwb2FLTHprckM2RXkxQjRSQjVydWJoSUM2NUZsRXFiYXdmSVYtRU5USF80dVhVZw?oc=5",
+   "summary": "",
+   "publisher": "InfoMigrants",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-05T13:49:03.115534+00:00",
+   "visas": [
+    "asylum-policy"
+   ]
   },
   {
    "id": "6c8affecfef82540",
@@ -18205,6 +18304,19 @@
    "visas": []
   },
   {
+   "id": "7fdaec3331425fc4",
+   "title": "The migrant candidate warning New Zealand about migrants having too many children - awaaz.co.nz",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3BodkNINDNTb1h3MmkwMzFRd2hHdGhQVXNTdDRRX21BV0NMZHhDUEFHcFc1YWt0MUlDelhZOVdTMHRuWExzTlNTQVlUMFBMLUFGNFF2bWNldUlHZVZfQWxDQ2JnY2t1MnhxOVhsdmZQN1N0a3RFQnNhcldBOEpEVzRLVmpyVkg0eFNubUJwMW9HLXlOcEJ2aFZXWlo3am02MjNwaS1idmpITUhqNHZBQUpsTEJXSDNRS3c?oc=5",
+   "summary": "",
+   "publisher": "awaaz.co.nz",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-family",
+   "published": "2026-09-07T07:00:00+00:00",
+   "fetched": "2026-10-05T13:49:03.115534+00:00",
+   "visas": []
+  },
+  {
    "id": "e7d3b6711f1effac",
    "title": "Olympics at risk – and a secret visa change is to blame - The Australian",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUnFpcktKZmlIVE9XNWxOWk5TdDdJOG1VX0t2MHNrcEpELVMxRWRPZml6c3d5R1kwTlN1aVgyMFAyN250d3piSmt2Wlk5T1BadWVmX3pvU2F6TFJocTRFS3VEQm4yYlQtV0tGQThVR3ZMY0ZwYlJPOUdLZzVJTVNrVk1MRVd6ZjE1RThPZjlmWXA3S3V5MHJJVE1nR3dObVdVMEFyVk50bnpMRTNMUkZGNkdqaUY1SFJHX1o4Uy1DN2VjNnpobFVROFJ6UEo0RHlEcUdEQzZXd2J5ZmxfcFJvcTI3QjQ0Q19KcTZiRXphdHBXSi1CeG9uWktJVXVia0lJ?oc=5",
@@ -19247,6 +19359,19 @@
    "visas": [
     "visitor"
    ]
+  },
+  {
+   "id": "4025df95cc0e5f5f",
+   "title": "A16.1 General Instructions for the order of processing visa applications (24/08/2026) - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vMWthLUllQlFvM1ZrckZ2WEVDcXVUTWdJRWc4MDNCNmVCbzlublE3VXJnSUdNeE5IVkFZMG1pX2JieVJ3dGNpVTBMUEcxbjJLV09Bdk5lY0wxYmRHeEZkSw?oc=5",
+   "summary": "A16.1 General Instructions for the order of processing visa applications (24/08/2026) Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-08-24T07:00:00+00:00",
+   "fetched": "2026-10-05T13:49:03.115534+00:00",
+   "visas": []
   },
   {
    "id": "cfa41b7bf0a1656e",
