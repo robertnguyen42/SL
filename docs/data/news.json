@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T18:50:52.362304+00:00",
+ "updated": "2026-10-05T21:50:58.981155+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "au-student",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -307,19 +307,19 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 20
+   "count": 23
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,64 @@
   }
  ],
  "items": [
+  {
+   "id": "9022d2f1d67e28b3",
+   "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-05T21:22:30+00:00",
+   "fetched": "2026-10-05T21:50:58.981155+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
+  },
+  {
+   "id": "3a5db97c29b881e0",
+   "title": "Coalition set to unveil dramatically deeper cuts to overseas migration as it fends off One Nation’s rise - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHNwcHJGZ0NOZFpURWFURXhWT195QWNHcFBpUkozbjk0UVZuR2l6LWZvYXl3amhJWklXeFJ1ZTkxWXJiRmtYSXFNbVg2bmpweUFfb29BVE9BcW11a2l6MjFQY0RLQkFNTmtTLVliSHphNDVmU2xaU1hrcWJNMlM3RkpNaDJxZzd3Q1ljQXQzd09aZTJJaDM2NFItYUFZcndEa2hXOFdsUmlaVDFyUE94ZHVPWkNHZzEtRTNTVw?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-05T21:22:00+00:00",
+   "fetched": "2026-10-05T21:50:58.981155+00:00",
+   "visas": []
+  },
+  {
+   "id": "9b29b9f7086190d2",
+   "title": "H-1B Prevailing Wage Floors Would Rise Under Trump Proposal - Legis1",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2VkV6OS01b3I4VlJNM29TSmx2MUlkYlRWcTJMcDkxdjc2djh1bEZtc2ZoZEs3WXNDWG5zcmxfQkNhcFhSSXFDbmFmSXZ2em8zeWdZMkNhWlJyd3VlX1NVRDlKY1RTSjhRYVlabzlNTHNJeVF1ZEx3Wg?oc=5",
+   "summary": "",
+   "publisher": "Legis1",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-05T20:10:54+00:00",
+   "fetched": "2026-10-05T21:50:58.981155+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "f90800bc849a2b23",
+   "title": "Lawsuit Challenges New Green Card Policies - American Immigration Council",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkh0aHVfZk9GS0VGMTFGWnVwUDIzbHVPYUJzeTFCYWw2NXRyYzJycFhxSkZONnJyTS02RTd6d2RmVTNDcEdHd0dmQUxzemNrVUdSWVFRWXl6bnNfbGpCaEVBTnBvb3h4NTF0anRnOWdiRjU4QUZ3Wm53TmM1WVdKMjRIcHBUYkhyMFZVNERERnB0V2dPbjNBMUNqNGFrMldFNzdEMTU4MS1NZnFYSUVjTUJURkotLWR1NGFRag?oc=5",
+   "summary": "",
+   "publisher": "American Immigration Council",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-05T20:07:11+00:00",
+   "fetched": "2026-10-05T21:50:58.981155+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
   {
    "id": "f106c8d67275dcea",
    "title": "Federal Court Blocks $100K H-1B Fee Pending Rulemaking - Clark Hill",
@@ -814,6 +872,19 @@
    "source": "us-family",
    "published": "2026-10-05T09:05:31+00:00",
    "fetched": "2026-10-05T09:18:06.348775+00:00",
+   "visas": []
+  },
+  {
+   "id": "5d7ba28ef0009f1e",
+   "title": "Coalition undercuts Labor with smaller migration target - AFR",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNk5hVU11YVZfc3ZYR2VJWXZBSU5GbXEtTGRSOUVhWHRoVTZJMEpVWUJIOHQ3TGx3V2hIak9LbURoNkc0cU9raHNTbm15eEhpYkpjajFoMFZIMDBaeEF0YzRkeFRJMVItZjJkTUVNcnN0dllxR0pUZ3U5YzI0THl5NGVSel8zZEl5bVRPRFAtWWw4dS00Skw2UjNwQ25uMC1ZcW9TRmpybF9RQTN3?oc=5",
+   "summary": "",
+   "publisher": "AFR",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-05T09:00:00+00:00",
+   "fetched": "2026-10-05T21:50:58.981155+00:00",
    "visas": []
   },
   {
@@ -4072,6 +4143,21 @@
    "visas": []
   },
   {
+   "id": "1f74b47bfd639ccf",
+   "title": "INZ 1018 Visitor Visa Guide - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzdkQTI4U1pQSzZkZmxwMzd4dzZBVFJzLVBjbnRNZ1RXYV9ReWE1Z0J4NGhDLWJ3NUlHUm1GY2FqVjlaM2VvN1RHVXlmZUlNVUNXN0pBRFBWVEw2QmFNSzFHTTJ5X1NXcndXQ2RNNFl4LUt2eFlKOFRIMTg4YW5HZjA1ak9nYldI?oc=5",
+   "summary": "INZ 1018 Visitor Visa Guide Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-05T21:50:58.981155+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
    "id": "1fccfb2ef11b7b74",
    "title": "US Visa Bulletin October 2026: Some Indians get green card relief as new US fiscal year begins, but many r - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaFp3QTJSTEF5X3VIVy1hWW5uRDVLVXZ6UnE4MGNZdnVwNTJmUG0yYWlGSkxGNjRaaXNObkZfbjMyb3U3OFBQcWZMdkEtbGh3VzlqUzdPU2lPREhBSEFpaHpkMUpmSW5hdnZjNjhHYUlSYVVDd3JTV3A5S2pWYW55bVZ4ODc2WVlHZEJxRk1DWEJXUXdhSFFJSXprMG1ZdE9iMTcyaHJaYlJmRVJsQjZpMzlYYXNNOVBzZXVOdVVoWk12RHIyUG43R2JJYldvMDZZZk9MOG9jZEdsYWxSaXNPM0o0Z0FIZjRlMXF1Z0NHUDNFbHhnTGZZSkRJVzQwZTMyWkVydjB5WFY2SVlGeWfSAZMCQVVfeXFMTkFqZVRiaU8wN1RKSHZmWkJkNzFRX3dydm9qZXJjNkdYYi1YNEhDMU9CQ2RFaTV6a0FmaldkTXdjQkZremJJS05iX1NFRVRLM0hZM0M4S1ZEbENjS1hrZFAzOEVlWUJoOHIweWhEcmtxeHp2bTYzb3NrVDZiUXRfVm03QVlQNDBQNExYX3dsRUJiM2xiNEpuN09YS3hEZTZsR1lTWm1KWU9Oc0JaU25oZUF6ZEZ2OHprZU1CTlhHM3VaZ0xjMDhyTUFCOUlIYnFSNlpNSENtb05ucmlxb0F6Qk4yaHFVTGNqVGR3THdoel9Ya0tudjc0WkpBSzNQN1RTbDVDb0VuOGRTOGxRNFVsdTZmbnc?oc=5",
@@ -5006,6 +5092,21 @@
    "fetched": "2026-10-05T10:17:44.667952+00:00",
    "visas": [
     "pnp"
+   ]
+  },
+  {
+   "id": "732d27f097b95520",
+   "title": "Start-Up Visa Commitment Certificate: What It Means Now - immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmZOOXhWRkZsaHNmc25zMVpPYUJJOWNxeV9PR2p6dDlDN3NYTk9LRUU4d050Q2ZsRGh4WDV3Z0tQc0QwUjA0Z1dVMUQtVG56eHdGZnh0WGVpUm41VDNxV051RzhvYkZTQnQxcWo5WGtRT2xWaFp3RHprR2g1WXFmTV9oSDhDZFF1dmhYZmZGczNaSU42bUJOVzhvYmI2RklF?oc=5",
+   "summary": "",
+   "publisher": "immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-startup",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-05T21:50:58.981155+00:00",
+   "visas": [
+    "startup"
    ]
   },
   {
@@ -9017,6 +9118,22 @@
    ]
   },
   {
+   "id": "477af6dad4a91a19",
+   "title": "EB-2 NIW Green Card Case Study: Approval for Telecommunications Engineer from Mexico - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZzRjdEd1Snk3UllwXzdnNTY4N1ZucE9GNHM4ckVRbFA3ZnBHU2pfSmwteVRvbDN1WnJYN0szOTRsSlRSUXR6aFhscWdEZkFLbmxYa3FnU1pjUDEwNFhnU2dMR1Q4dDM5SlNKVnhQdnJmNkJvbGtxNTloMXZfejM3dmhQYUpNaGxUWnlVNTM2WjdtOEJzMTd1bFd3dElyV3JlVW1HMzRjVWF6YzTSAbABQVVfeXFMT2pBdF9rZXNHMEs4djVhSTVaUDR2NGVqOWJoZ0lvV01rWG5BZ2N0MW9LaEswa2stSTc0WEtLSVE0VFBxU01rYlBxMl9BMGlKc2RadHA0UUFTSExtSlVLX3JUeW16eTZ0aFJDOGlNLUJUeWxZRFNYb2NVMEZSSUVMQkdhLVFvVUtKRkZyM3JndVlXejdRRHlVNUlqVWFHdHJnZ3hHeG5mVmUwX094NW1Hcng?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-09-23T13:52:28+00:00",
+   "fetched": "2026-10-05T21:50:58.981155+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
+  },
+  {
    "id": "a77d8a48cea5d88c",
    "title": "US visa wait times announced for F-1, B1/B2 applicants: Check for 4 Indian cities - financialexpress.com",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTThLY1F2cWJJenlrMXJKSVAyMTBORUpaelhnTmliMl9yX1RRUU5lakxLMHoyTllaaF9MTWQ1eXAwbWxOSFpadm0wTVpxT1Y0bTVKdDJhN19jQkhUUmRyTWV0b2kxV0lSWVZkaGFLcHpKNnZlVzBaYV9hMldpbERZc1lSNW5aUG5UZzRXRzdybmdmNm1FemhWQTdNZHA4QTJQM0hjc3lwZVRKb0VValBFRERtVW01Z1c5dU5VRDlhRDNFNHVVUUo5OTBTQ3VNRjlHblpOVmNSWk95R0JiLUVTcGVaaExQQdIB7AFBVV95cUxOZUpYZURSTG51LTQ4MkZsZ0prVWMwSEtkX21yeE4xQ2lsQnV4N1B4MXJPbmdzNkpOcHBCU3VDbTNrX0NyNUxMZXZCZHl6czd1bElNTmROTW9jSGNNS3d3dXhfX2gxNzlNeHBpdXZXUm1qbzd2eWlGVXNaRUFUMF9kZk9OWlQzdmxrRlRVSXVzbHNfVkRMNFZFczd3Q196V200b2l0aUZNdm5KeUtsTTM5XzR5aWJzVkRKdE9XU0N4dERSSGpGbEx5MUtQS2cxc0Y5a0NMalFBOHhkVjRGX0E2dFctM2toTXZhSU9USw?oc=5",
@@ -10260,6 +10377,19 @@
    "source": "nz-post-study",
    "published": "2026-09-21T07:00:00+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": []
+  },
+  {
+   "id": "ee46014f5acb9a99",
+   "title": "Canada Lists 10 Categories Of Visa Applicants Exempted From Giving Biometrics - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1dSTjlQQnlrX1p6RXp3cDhiRTVDdTBXZlZSTVQ0Q0xaSWxMRVM5SXYxcEpjRjVzTnRZRExuZUlfRGhXY0REY0Rrb2xONmFpd2VzTGVIdDVWQ0p2bUY5TVlyLVhKVWE5MGEwNVZ3UC1OU29WNHFxY0puUXZCNFBBX0NnSFNELThydFEya2lSNzczRUhPRjFsZ3BBNF9IY3NTWkxQbVFKMUVzZw?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-05T21:50:58.981155+00:00",
    "visas": []
   },
   {
@@ -13514,6 +13644,21 @@
    ]
   },
   {
+   "id": "157c96955bceefb2",
+   "title": "Permanent Residency: Canada Announces 2 Categories of Foreigners That Qualify for Sponsorship - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1pNY0VjdEJoVTEyZnBYUklhV2NBRHFGLVVGaVhjZzhXaUlRcUdlOFZzbDd0UlItaXFKczNVM2hSbGhaSEpJYU1mNEd6WnRUX0pyOE5BbWFQVUhlR09BNi1Jcm1OYWU3T2pXOTZXNEFrbE52RnVKQlVCTGRjX0JFakZzMG1OUkdxT3M0cnZxSjhGTGNPTmNtMkxHLXNhOFlIQ1I5Q2ZlVGVnWXRuMGtzdzZHZzIwM044?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-05T21:50:58.981155+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
+  },
+  {
    "id": "a4e46b01953f32af",
    "title": "New Zealand to introduce new 6-month graduate work visa in November; Check if you are eligible - Education Times",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNakxHeHNSek5vXzJ3NzJ5ZldsUFJZbWZvempjaDRya29ycEtIVmVVcnJVUmVyU3VJTTZnYi1ZRDZUSU9oeXNxZG0wZ2V5N1pHS2gwcmVQbU1tckRYMktCeEx3cmNna0xkNUI5VnNNU3Z3Wjh3N1Q1R29mekxsV2JkbE55cjg0SDFvOEpnb2Znbk9lMGN6VjBISUhqZjZ2Rnl5V1hENGFpUWd2ZUVtdFkyU2FfUVlmTHJNZHR1VWk2Rm1xLUNnN2JYOG1mYi0xWXZ0SU5TbVJmSXEtYTFGMHRvTmNCTjZVbmg2SXlzeTNjRVYzams2Q2c?oc=5",
@@ -15363,6 +15508,21 @@
    "published": "2026-09-14T04:00:00+00:00",
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": []
+  },
+  {
+   "id": "7f3edc4e299eee32",
+   "title": "E-2 Investor Visa Trends to Watch in 2027 - FinancialContent",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX000ODd1SWhjTnRTSzlPQ3lpdTVuTmFxOTlQQVFrbmRsYUpDcklSVGstamh4Rm45TDBnNFpEWVRiak92SE16RV9QbXA3MnkzS19GZVBuZzdpZk1VUTNYYVNMN3J0RDZtTE5NV1Z5ckNUc1pUX2o5UUVWSzIxQ2F1TGdLTmV5UmdWVkREOUJHR0VRdncyUDlwU0NzcU5hUGktanhhQVlMVmxrazg?oc=5",
+   "summary": "",
+   "publisher": "FinancialContent",
+   "country": "AU",
+   "type": "news",
+   "source": "au-investor",
+   "published": "2026-09-13T13:14:00+00:00",
+   "fetched": "2026-10-05T21:50:58.981155+00:00",
+   "visas": [
+    "investor"
+   ]
   },
   {
    "id": "4b1c940e93f51759",
