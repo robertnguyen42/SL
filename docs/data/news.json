@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T17:14:05.742227+00:00",
+ "updated": "2026-10-05T17:46:04.413063+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -91,7 +91,7 @@
    "id": "au-en",
    "name": "Google News – Australia Immigration",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "us-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 35
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "au-citizenship",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "46fb8eb59bb27441",
+   "title": "World Teachers' Day: Dubai awards golden visas to private school educators - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb25pR0xBWXZNdWdISFpSaFV2cnZfYVhybkFRMjV0dHprTGlUZHBXT3hjNXg3aWpxYTdoNDRWQ2hZMF8wQzI4c3AwQjY0cmJZbmpXYnhiRXRoZUtTektNN1Qwd2NyUmR5YmpZQWlQVnNJZlFVSjJkUFBQOVBTRDdTMm01RGdaVU02UnR3Mno5VmQwT1NORE9kdnZtTDYxSVdkcjd4NWMzUmg?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-05T17:15:07+00:00",
+   "fetched": "2026-10-05T17:46:04.413063+00:00",
+   "visas": [
+    "golden-visa"
+   ]
+  },
   {
    "id": "7dbf9ab168d0499b",
    "title": "Indian Green Card Applicants Face Decade-Long Backlogs in Key Employment Categories - INDIA New England News",
@@ -689,6 +704,19 @@
    "source": "eu-student",
    "published": "2026-10-05T10:36:13+00:00",
    "fetched": "2026-10-05T10:47:12.330919+00:00",
+   "visas": []
+  },
+  {
+   "id": "166d4c28ce68c0f9",
+   "title": "France rejects Turkish student’s visa over headscarf photo - Daily Sabah",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYk5WNUpudlVxN1hWOWZ1b0hyR0lTcnAzWnBJZjJFZnFvaVhBX0d5ZVozRGkzUVM0SjBua0pYaFJBS3NvSnBnZlUtR09SV3FrQzJUQ3RXcGdfQmFjay12Y1ZISC05NUJSZEd1THlpd19WRnppeEs0QTBpdEFKVGxsVWhzOTlBYW9sVmlsaUdnT2g4UTl3cmlOMS05eHA1dw?oc=5",
+   "summary": "",
+   "publisher": "Daily Sabah",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-05T10:21:00+00:00",
+   "fetched": "2026-10-05T17:46:04.413063+00:00",
    "visas": []
   },
   {
