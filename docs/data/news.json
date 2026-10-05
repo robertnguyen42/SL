@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T15:18:17.079157+00:00",
+ "updated": "2026-10-05T15:48:08.850984+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 38
+   "count": 36
   },
   {
    "id": "nz-en",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "au-student",
@@ -187,13 +187,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "au-citizenship",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "01cb8b92ce4cf0c0",
+   "title": "Canada Super Visa: How to bring your parents, grandparents for extended stay - Tribune Online",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMF9DMWIxRE43ZFdsZV90VDAzNXhiSHJjZFRiTWR5TDRDdFp2aXZMcTFUZnRDRU1DVkppSTFveEtWN1RkMGR4a21XTUJhLW9vYkdGR1RpWVJjdTJMSGxHNFcwdUJNSU9LU1N2eFNRRTQxcVh5UGxOYVBIcnl0SjIzMEdKMGdRcFpvREt6UGg4QjBxcGlDamUzd2dtenpBejVUQWx0Znpn0gH6AkFVX3lxTE01WVFxcEZmX29YM1lDWTRBOWlaTGxEdzJWeUc0UFB4Q0ROOFdYLVlEZVpVQmYtZHJIX3F6cE9jWjEtR2JFWjRfdlFUVExtdU9nOGM3SmdNRHUwYVE0WWVQbjdmVkROaGRPRU8wYV9KWU92MlkwaTc5UVZpcmFIYTVPVzNpWjU4bnR0SWZ3OHNyTnExMVFCSjJMUWl3bXdEZGZ0azdFS0dvWTQ0UVRaNlpFMGxyV0JQX2hBX1JuVmhDUE54WEpzNGktbTFNckFxTlVPcjNlQTdRYk5UdzNWNUJpOUM5NHpNNzVEQ2JoWkVEQTVpbm1tRlNWYU9fQ1dCLWZLLXRqNTh0dE5vSzJsMG03Z2lEZDFiMDV1QzZ6UmVlMmVFZVUzRWZpTE00OU1qRzJzUTJoN2Z0b2FXN0JRdHo5eGhubmpPbFBOOE5lVm02MERmM2ZiMllXU3ljZWE2eWd2R1VfbW1YUFBYOHZZYU9NbXFUVURpV3VRdw?oc=5",
+   "summary": "",
+   "publisher": "Tribune Online",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-05T15:21:11+00:00",
+   "fetched": "2026-10-05T15:48:08.850984+00:00",
+   "visas": [
+    "family"
+   ]
+  },
   {
    "id": "18960a16f3c77ac2",
    "title": "Evaluating How the USCIS SAVE System Performs in Practice: Evidence from Election Offices - Bipartisan Policy Center",
@@ -1211,6 +1226,21 @@
    "source": "nz-vi",
    "published": "2026-10-04T05:05:01+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "96fd8e9d370a44a9",
+   "title": "Flydubai co-pilot was in Australia for 2 years on student visa, investigation launched - WION",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkVJdmdmblZ5YVlLRmhNN3JZbUNTQW9oXy1qSUFEOTdpOGFwV3dueVVIc1pwTkFMNEo3bzF5Z1RHcGd0c1g0aTdxVnFoTHpJclFzUWE1cU43RS1sXzRVN2NvWXZ6TmRPbWNvNTdKb2tKQWd5ZmxveVhJRk9oc3BzQnpIR1FSZllXdlFjdThPNjVjT2RaTm5KbURpNENjZEhWQWh6YzNweWVGdEZwYUJILUxjbWd2ZVFpMDI2VW9oMk5TNTB3OU8xatIBzgFBVV95cUxQTHkwVm9qbTdyeTRHc0tySG54Qk53TU9HeTBXZ1NvX3A2QXZTUUo4cWRnMVZHc01Sd0tHYlpmSmQxSnFCY0o2UEV2eUdYSThKTFlvUnV0YzU5TVdDeHQyNi1qTDJha1gxOU9LcjBoc1Q0MGlwdkNBc1VlajhwVG5EOUlRTGhjc2NYemRXcnh1SWQ2QmswQnF0WEtCd0M4NE5WSzRTMUxNM051OXlRV04waGU2V2kxVFlUWUJMMkdEMWNiZFpxWHhWMmI0Tm9nUQ?oc=5",
+   "summary": "",
+   "publisher": "WION",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-04T04:31:00+00:00",
+   "fetched": "2026-10-05T15:48:08.850984+00:00",
    "visas": [
     "student"
    ]
@@ -8560,6 +8590,19 @@
    "source": "eu-uk",
    "published": "2026-09-24T07:00:00+00:00",
    "fetched": "2026-10-05T09:18:06.348775+00:00",
+   "visas": []
+  },
+  {
+   "id": "b0e6d4daac15b27d",
+   "title": "Immigration weekly update: September 24, 2026 - Crown World Mobility",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTVSUElSb3g4V3VYdk9JTUMxRWJfeGE3ZUYzT2RYcHE5SEd4QWYtNGRKanNKLUxWZXZDaHpfaUU1ZjkzZ3N2N19HSzNRMk5yZzlvZGt5b3plaS1DZG1PTU94SEJIcExiZGVuMWdTTUtjLTZWWFNyTUFYb2RkMl9URzJheFEzaDdYZ1RhamRadjNmc0dp?oc=5",
+   "summary": "",
+   "publisher": "Crown World Mobility",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-post-study",
+   "published": "2026-09-24T07:00:00+00:00",
+   "fetched": "2026-10-05T15:48:08.850984+00:00",
    "visas": []
   },
   {
