@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T23:43:25.880688+00:00",
+ "updated": "2026-10-05T00:22:52.355980+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,7 +90,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "au-skills-in-demand",
@@ -108,7 +108,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "au-student",
@@ -120,13 +120,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "au-partner",
@@ -250,6 +250,21 @@
   }
  ],
  "items": [
+  {
+   "id": "98acc89c63b08cf2",
+   "title": "US makes $20,000 visa bond program permanent for B-1/B-2 applicants - The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3gwQ1lxdVNZQUtvU1lfTzU0NE5id05fYVZIUkhnaXNXZFZ6enJGaUZCblVXRFNBT0RiM0VPRFVXeHZFUy1HeVZCblRfemUyeXVSNUN0MmZnVGgyUUZ5dzhRZXQ1SW9mVGRFbWZFQzRsaHFfZ05ueTV6NVBGeVZNRVhNck96anFXX2V0Qg?oc=5",
+   "summary": "",
+   "publisher": "The American Bazaar",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-05T00:00:07+00:00",
+   "fetched": "2026-10-05T00:22:52.355980+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
   {
    "id": "f3d71ca2305b0961",
    "title": "As EB-1 advances for Indians, experts break down the October visa bulletin - The American Bazaar",
@@ -3406,6 +3421,21 @@
    "visas": [
     "h1b",
     "asylum"
+   ]
+  },
+  {
+   "id": "45db1e8397ea5a94",
+   "title": "Can you lose your Green Card by staying outside the U.S.? - El Cronista",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTBMYTVEM1J3WmlQWlBuZGk0aUhQNG5TWnRFS1lTY0ZvQjA4N0FEMzZfX1hkcElSeUpmTEJIQ3BHRzVsNVA0NTFGVV9OSjJ5bEtUUGVSS2dQSXZ4OW1HWGI2YkxtdnZuSERXZmEwa29vb1ExTWVNT0dtYW1MRnBMLVRjNTRDcTBvYURwMEVVWHJMMkRCVXItY01LSQ?oc=5",
+   "summary": "",
+   "publisher": "El Cronista",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-29T19:01:02+00:00",
+   "fetched": "2026-10-05T00:22:52.355980+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -7714,6 +7744,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "9852a97df30a0040",
+   "title": "Exclusive | Illegal migrant faked US citizenship to work at military contractor for 30 years - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1djY2Z0b0VWNm5ycDd5QkVHS3hYaFdheHMwN2o5X3RKUUh1TWY5ZUdSdnotaUJvT3dTTURxaWRmbndlMjI1czJIVDBZWWp0bUNzMzBwMkZmM1ZWcVRXRjFPV29mc2U4RmE0X2t1TXpiX3p2U0J5S2hYN3oweWpfWkZ5VnpzZGJteFZscE9iVExjV0R3YjFYOHJwWEtSRDlCb2xxYWo1VmRsdw?oc=5",
+   "summary": "",
+   "publisher": "New York Post",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-05T00:22:52.355980+00:00",
+   "visas": []
   },
   {
    "id": "6c8affecfef82540",
