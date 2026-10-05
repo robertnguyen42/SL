@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T17:46:04.413063+00:00",
+ "updated": "2026-10-05T18:18:49.678002+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -91,7 +91,7 @@
    "id": "au-en",
    "name": "Google News – Australia Immigration",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "us-gov",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "eu-work",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -846,6 +846,19 @@
    "source": "au-graduate",
    "published": "2026-10-05T06:14:53+00:00",
    "fetched": "2026-10-05T09:18:06.348775+00:00",
+   "visas": []
+  },
+  {
+   "id": "8a20523671326358",
+   "title": "Visa study finds Asia-Pacific stablecoin interest rising - CFOtech Asia",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONEdCRmo2NzdBcml1NGJKY2NOOGdrTUNYZ1ZkcGxiYnMxUlV3QS1SRkZvbHBVbGEzS3dBTUFfaVo0SFk3RHNlQVdyczBFdl9XMW5hSkV6X0RjaWRyZlNVdkVualJtTGRYT1NENzFUUlptVjdkRVpDUExSOGkxWDFBUEQzZFo4aS0tTGUw?oc=5",
+   "summary": "",
+   "publisher": "CFOtech Asia",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-05T05:52:00+00:00",
+   "fetched": "2026-10-05T18:18:49.678002+00:00",
    "visas": []
   },
   {
@@ -17540,6 +17553,21 @@
    "source": "eu-student",
    "published": "2026-09-09T07:00:00+00:00",
    "fetched": "2026-10-05T05:06:40.888293+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "86d2d4001c9cc5aa",
+   "title": "Canada Study Permit Rules Tightened In 2026; Check New Financial and Work Requirements Here - Times Now",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPODgzRnRPZWFmVjF5U1A2RWhhay14WjJ6ZU1wRHIwY3diT1ZNSk1wRXhoWGhPTFA4NWNBUnNCVkVnX2h2aWo0TDdZUzhzRlVma195RWt6VUM2RjFSMXBJQm9GWGNWR2dSa0xjc2J2V3A4bTRJeTNvMHZDakdtMENqV2RHNk1fZVZhREVFbDktOTdURlNoVlYxa0Y3TTFlTjJrZ3JnR1FZM0p1VDdZUHUyYjY0VnBQZ2tBTWN4WEZYM2lEZWRZTXM3emFGMEdhRVBnMFlOeDJwdUdBMmdnZzNoU9IB5gFBVV95cUxNNTd0YUFwdDJYZXE0UUtRT09oc0FJa01ORUctd2xjTWV0UnpSY09sYzVFRjJqc2pQU3o0QzV0UFBqT3lQa0xpZnpSTnlzOHp0VTRqdlJ6VklxLTJCaEF5YmxVbXdzOFhrcmh4NUpGbTZPWm9pTUJybk8xeEczSmNSRnpzMk1Wa29CZWV2T2hzcGNSOUNBeU5IQ29BX3dRNXFzdGhsUTJXMUktMTJQMDZCLVVWc2pEOGZLUzJQRERtNDVlRHd5M2szNVpQZHFXZXFlZGRpLVBnU0FYaXVoQ0dfRFZXLXZwQQ?oc=5",
+   "summary": "",
+   "publisher": "Times Now",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-05T18:18:49.678002+00:00",
    "visas": [
     "student"
    ]
