@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T14:19:40.698967+00:00",
+ "updated": "2026-10-05T14:48:59.516328+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-investor",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-citizenship-investment",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-residence",
@@ -18023,6 +18023,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "f0f471e0bb189a71",
+   "title": "DHS asks SCOTUS to restore immigrant verification system to check citizenship for midterms - WCIV",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbTZ3dE5RbUxjV2tDdWFDR0h1UWdvR3E4akFXMTZoMzhQYkc2Y0Q1QXk3RTJNQ0NVUk1DeXVPV0ZtYVBXQWJhZ21jc0ZKZTNFckZYNkF0bm15c2ZJd2ZjRUw3SXhaUnB6WjJOaEFjbnFHY3lXZkg2OHU1bHU2TlN3MDJ6cnY2aXpfRWRaamthczY3WWF3dFVOMFJ4T2NuQmlKd3ZTbHl3TVBpOTdicWZ5Y3ZpUmI1TEVUa3VRdWV2dmxPbWdCU0QwZF9kVUJMbVZ4dDd5SEhqazRTS3NiM2F6RmxBMzFEeEhZZ2RxLUpjOFFYYy1IdUlvaTBONUM?oc=5",
+   "summary": "",
+   "publisher": "WCIV",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-09-08T07:00:00+00:00",
+   "fetched": "2026-10-05T14:48:59.516328+00:00",
+   "visas": []
   },
   {
    "id": "b1eb605250262d84",
