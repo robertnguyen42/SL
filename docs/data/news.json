@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T11:47:55.016019+00:00",
+ "updated": "2026-10-05T12:20:15.961810+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -193,13 +193,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -313,7 +313,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "eu-work",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "514828bacc102a7a",
+   "title": "US Visa Bond Program 2026: B-1/B-2 Rules and Bond Details - IndianEagle",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0JBT0t2UTIweTRqejdJQTNxYmVtd3ZHcG15R2Q1d3J4OHhTVmpaVHN3WjVoOVdNbkVSakRaN2h1M3dndVFFS2lFYmxGUTBPTkJvbWg1Mk40djFrZFZIYV94ajVFbUp5Y2VwT3NUMnZCUXN5WVVIc0pCMGVLY3N1ZEtrWmI?oc=5",
+   "summary": "",
+   "publisher": "IndianEagle",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-05T12:05:57+00:00",
+   "fetched": "2026-10-05T12:20:15.961810+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
   {
    "id": "76ad68f8e446c2b4",
    "title": "Oman names 1 category of foreigners barred from getting work visa - Yen.com.gh",
@@ -14037,6 +14052,19 @@
    "source": "nz-residence",
    "published": "2026-09-15T07:00:00+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": []
+  },
+  {
+   "id": "e205d06f2c334d9b",
+   "title": "Australia has a skills shortage. Why are we wasting the skilled migrants already here? - Pearls and Irritations",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3I2bnU1ZHdhUjBwem9KN3VyTGVEYkt3clRqZUFTazhMWUVrUmRxSE43QVlzajdtTF9fcjVxSkR4WFBfQ0g2SHJtaTl5Umc5aFRDRjlaQjZEZG5SS3JWQkJ0T1JXamNYdFhVRjEwZ2t5eVRoUzBncm5GaUlsbXBEbWZhOE8?oc=5",
+   "summary": "",
+   "publisher": "Pearls and Irritations",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-05T12:20:15.961810+00:00",
    "visas": []
   },
   {
