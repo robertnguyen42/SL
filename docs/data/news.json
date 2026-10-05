@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T12:52:35.637783+00:00",
+ "updated": "2026-10-05T13:20:36.589160+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -193,13 +193,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -419,6 +419,49 @@
   }
  ],
  "items": [
+  {
+   "id": "54d6aa35595c00e6",
+   "title": "US Department of State Releases October 2026 Visa Bulletin - Morgan Lewis",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1R6R1M3ZFBiQlRrUFZ0UEpXSGNQM2V4V0lVRFFqNEpJSzZLYVRiVWRXdEtWNkpXMEkxdDIzVDY5YzV6TzNEbnFhQUdURDdnMVBULWhQM0hERWFjZl9lYzhqVXA1Z29uNDE3RFhTNm12OGRqSHFSWGVjbXZTZHluVndFVzRyRm9XSC1leUdyOFN3ZmdMckFZZVB3MkRJVklB?oc=5",
+   "summary": "",
+   "publisher": "Morgan Lewis",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-05T13:09:09+00:00",
+   "fetched": "2026-10-05T13:20:36.589160+00:00",
+   "visas": [
+    "visa-bulletin"
+   ]
+  },
+  {
+   "id": "e4dd729ab2ff076e",
+   "title": "Australia Introduces New Migration Reforms and Skilled Visa Processing Priorities - Newland Chase",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3BoT29BTGp2SzE1Xzhic2NiNDVpYnJlS1ZyMGxuOXB0RWlwV2hlUGd5ZF9tVGJPQlVwRmJERnJFN1lRQUh5UXdObl9HaG9kTG1HWElnVm5vZHd1Ymx1Rkh4R3otLTdHNmk1ZWJQenpoZ2lic2ttaUhKd0lpTnhYVkFrbEMwcjdQbzVVQ0QycGtYNzh4TWw4dEFsRXNBNVI0a0Y2cVNHRjVsUHc?oc=5",
+   "summary": "",
+   "publisher": "Newland Chase",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-05T13:03:17+00:00",
+   "fetched": "2026-10-05T13:20:36.589160+00:00",
+   "visas": []
+  },
+  {
+   "id": "44871d66a20410a6",
+   "title": "US imposes up to $20,000 visa bond on 50 countries, India left out - Business Today",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZktINzFNeTNDYlVwd2ZfR1RjZ1ZlMW5QeXZGUDBkLW5hRWpGSm1qbDVUZmZUU0RvVERzU25yNjlPanRWemRNXzBrWW5sQWlrOFlVOEhkT1A5RTczdkVMY0dJWWhtV2M2ZmdJNS02UmNzc2F3R3FvUWZ2dGtHcmdTbFdvSHBKd25mZlhHNzhDYXB6d0Q2aFlRUVE3M25uRTA4MnJSSm1yc094Y2pZLWo2VGxEdWd4QlJzUDhoS1pVQTJ4cFXSAcgBQVVfeXFMT05KNXdwRXU5MWlPelEtM0FpbVNkMTQtd1V0TGcxdkFIZEZqcUpWSkd0b2xzUGp6N0hGWlIxM3hfT0RERk5lT004SzA1YXUydFZaUU1PQTZRSUgzbjJQb0M0RzJnblo2Y0hHOERhZ3pGMTZOejBMQVpZQWNqQm91cVczWmxyVmNUeXlXelZSeVh5ampDdXRodXhpbEpSV2xyZE9HR2dHbEZuSjkyVWNUQU14MEdBWjB2U1NCOVpDbUJMYXdTWVhMS3A?oc=5",
+   "summary": "",
+   "publisher": "Business Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-05T12:58:23+00:00",
+   "fetched": "2026-10-05T13:20:36.589160+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
   {
    "id": "f7819b79ccce8b72",
    "title": "New Zealand changes Parent Resident Visa selection process, effective today - The Economic Times",
