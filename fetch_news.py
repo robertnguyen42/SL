@@ -159,7 +159,7 @@ def main():
             if not title or not e["link"]:
                 continue
             visa_re = tax[s["country"]]["visas"][s["visa"]]["re"] if s.get("visa") else []
-            if s["type"] == "news" and not (GENERAL.search(title) or matches(visa_re, title)):
+            if (s["type"] == "news" or s.get("filter")) and not (GENERAL.search(title) or matches(visa_re, title)):
                 continue
             d = parse_date(e["date"]) or now
             if d < cutoff:

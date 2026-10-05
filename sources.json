@@ -1,16 +1,94 @@
 [
-  {"id": "au-vi",  "country": "AU", "type": "news",     "name": "Google News – Định cư Úc",
-   "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+%C3%9Ac+OR+visa+%C3%9Ac+when:14d&hl=vi&gl=VN&ceid=VN:vi"},
-  {"id": "au-en",  "country": "AU", "type": "news",     "name": "Google News – Australia Immigration",
-   "url": "https://news.google.com/rss/search?q=Australia+(visa+OR+immigration+OR+%22Home+Affairs%22)+when:7d&hl=en-AU&gl=AU&ceid=AU:en"},
-  {"id": "us-gov", "country": "US", "type": "official", "name": "Federal Register – USCIS",
-   "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=u-s-citizenship-and-immigration-services"},
-  {"id": "us-vi",  "country": "US", "type": "news",     "name": "Google News – Định cư Mỹ",
-   "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+M%E1%BB%B9+OR+visa+M%E1%BB%B9+OR+EB-5+when:14d&hl=vi&gl=VN&ceid=VN:vi"},
-  {"id": "us-en",  "country": "US", "type": "news",     "name": "Google News – US Immigration",
-   "url": "https://news.google.com/rss/search?q=USCIS+OR+%22visa+bulletin%22+OR+EB-5+when:7d&hl=en-US&gl=US&ceid=US:en"},
-  {"id": "ca-gov", "country": "CA", "type": "official", "name": "IRCC – News releases",
-   "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&type=newsreleases&sort=publishedDate&orderBy=desc&pick=30&format=atom"},
-  {"id": "ca-vi",  "country": "CA", "type": "news",     "name": "Google News – Định cư Canada",
-   "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+Canada+when:14d&hl=vi&gl=VN&ceid=VN:vi"}
+ {
+  "id": "au-vi",
+  "country": "AU",
+  "type": "news",
+  "name": "Google News – Định cư Úc",
+  "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+%C3%9Ac+OR+visa+%C3%9Ac+when:14d&hl=vi&gl=VN&ceid=VN:vi"
+ },
+ {
+  "id": "au-en",
+  "country": "AU",
+  "type": "news",
+  "name": "Google News – Australia Immigration",
+  "url": "https://news.google.com/rss/search?q=Australia+(visa+OR+immigration+OR+%22Home+Affairs%22)+when:7d&hl=en-AU&gl=AU&ceid=AU:en"
+ },
+ {
+  "id": "us-gov",
+  "country": "US",
+  "type": "official",
+  "name": "Federal Register – USCIS",
+  "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=u-s-citizenship-and-immigration-services"
+ },
+ {
+  "id": "us-vi",
+  "country": "US",
+  "type": "news",
+  "name": "Google News – Định cư Mỹ",
+  "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+M%E1%BB%B9+OR+visa+M%E1%BB%B9+OR+EB-5+when:14d&hl=vi&gl=VN&ceid=VN:vi"
+ },
+ {
+  "id": "us-en",
+  "country": "US",
+  "type": "news",
+  "name": "Google News – US Immigration",
+  "url": "https://news.google.com/rss/search?q=USCIS+OR+%22visa+bulletin%22+OR+EB-5+when:7d&hl=en-US&gl=US&ceid=US:en"
+ },
+ {
+  "id": "ca-gov",
+  "country": "CA",
+  "type": "official",
+  "name": "IRCC – News releases",
+  "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&type=newsreleases&sort=publishedDate&orderBy=desc&pick=30&format=atom"
+ },
+ {
+  "id": "ca-vi",
+  "country": "CA",
+  "type": "news",
+  "name": "Google News – Định cư Canada",
+  "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+Canada+when:14d&hl=vi&gl=VN&ceid=VN:vi"
+ },
+ {
+  "id": "eu-gov",
+  "country": "EU",
+  "type": "official",
+  "filter": true,
+  "name": "Ủy ban châu Âu – Di cư & Nội vụ",
+  "url": "https://home-affairs.ec.europa.eu/node/2/rss_en"
+ },
+ {
+  "id": "uk-gov",
+  "country": "EU",
+  "type": "official",
+  "name": "GOV.UK – UK Visas and Immigration",
+  "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=uk-visas-and-immigration"
+ },
+ {
+  "id": "eu-vi",
+  "country": "EU",
+  "type": "news",
+  "name": "Google News – Định cư châu Âu",
+  "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+ch%C3%A2u+%C3%82u+OR+golden+visa+OR+du+h%E1%BB%8Dc+ch%C3%A2u+%C3%82u+when:30d&hl=vi&gl=VN&ceid=VN:vi"
+ },
+ {
+  "id": "nz-gov",
+  "country": "NZ",
+  "type": "official",
+  "name": "Immigration New Zealand",
+  "url": "https://news.google.com/rss/search?q=site:immigration.govt.nz+when:60d&hl=en-NZ&gl=NZ&ceid=NZ:en"
+ },
+ {
+  "id": "nz-en",
+  "country": "NZ",
+  "type": "news",
+  "name": "Google News – NZ Immigration",
+  "url": "https://news.google.com/rss/search?q=%22New+Zealand%22+(visa+OR+immigration+OR+INZ)+when:7d&hl=en-NZ&gl=NZ&ceid=NZ:en"
+ },
+ {
+  "id": "nz-vi",
+  "country": "NZ",
+  "type": "news",
+  "name": "Google News – Định cư New Zealand",
+  "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+New+Zealand+OR+du+h%E1%BB%8Dc+New+Zealand+when:30d&hl=vi&gl=VN&ceid=VN:vi"
+ }
 ]
