@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T22:14:26.188857+00:00",
+ "updated": "2026-10-05T22:43:03.658304+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -379,13 +379,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "nz-business",
@@ -419,6 +419,37 @@
   }
  ],
  "items": [
+  {
+   "id": "3b90c30357b897fe",
+   "title": "Ten Things Every EB-5 Applicant Should Know About Adjustment of Status - WR Immigration",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGN0YWN3QzlNd1Y0TkRRSlRqQ3RxcFMzSV9MSmRQNlFoUEZiM3FtaktoNWRnZEZCRzVFMENyYjB2T25vdHVDcExVNy1INHJIRU9jcHptOS1nc0NjMlhJWHM4Q3ZFZmFmZE9FOHh6aHVEVW9mTnp5ZklzOVp3VGk0ZmlGeVRlNzZELW5yZml3Wml6MVpYRGF5ZA?oc=5",
+   "summary": "",
+   "publisher": "WR Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-05T22:41:25+00:00",
+   "fetched": "2026-10-05T22:43:03.658304+00:00",
+   "visas": [
+    "eb5",
+    "green-card"
+   ]
+  },
+  {
+   "id": "0c4bd215f7d27a50",
+   "title": "Active Investor Plus Visa attracts global interest - indiannewslink.co.nz",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVdhVzhjVU9fOFhsc0RvZkoxci1RdXdORWFJV0p2TXh5d2FfWEgwQXRSNmJicGx3YTFXbDM0M0dmdXhGOXp6em1KSGFhZFJpTmljbUtsU1RfR0FGaFFINE5laVRTd2RvSk5SYUIzVjJvNzliSl9VY2FhV3M3b25hT2JuVzM0b3Z6TUd3?oc=5",
+   "summary": "",
+   "publisher": "indiannewslink.co.nz",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-05T22:28:03+00:00",
+   "fetched": "2026-10-05T22:43:03.658304+00:00",
+   "visas": [
+    "investor"
+   ]
+  },
   {
    "id": "9022d2f1d67e28b3",
    "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence - CIC News",
