@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T12:20:15.961810+00:00",
+ "updated": "2026-10-05T12:52:35.637783+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "nz-en",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "au-citizenship",
@@ -307,19 +307,19 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,22 @@
   }
  ],
  "items": [
+  {
+   "id": "f7819b79ccce8b72",
+   "title": "New Zealand changes Parent Resident Visa selection process, effective today - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOEkwYmNRUEZfMzF4cDZmd1FqRl9LaXhZZVpWWFNKU2F6S2p2b3JRTkRMcW5DZG9EbVdsMXZ0ZHUySVBqa1hxOXJzaUZJU2dDNFR2WlE5bW0zUjBzYndCWHIwYWUtLThrSlQzMlNVRGp4X0VDWVlrOUFtMDhzQzRGODFEQVVSWTdseEdVbGhYTUJheTdLSHNFRTBEVUtPVHBjWFlWN3ExbW02Y1pUYlp0Y3piVlZTdk5sZmxVZUJLOGlaUlBtZUFGRnR6dWh5STVRTjdmaXh5QdIB3AFBVV95cUxOd1ZTLUxwR2F5ckpfSGZ2Tld5SFIySmktb3dSWTBQYm5ST2V5MkxGSjc0eTNRWS1iVEVLdHprQzNMMGk1cEJhYVhCOElFbWU3S0xEYVQ2dkluVXlMM2RsMjRtQ1pMVkRETEtmVXhHNGVMWTVhU1NTdE4wa0VtQmdaTGJOWm05ekphdXdLR0lhSmdHLW1iVkNJLUdNd21uOVBQdTY0N1pRQS1LSFFmSDJPdkV1OXEtUXowNFU5a1AwMUI4bFpNUXZQRGtFVEF4TDVaQ3ZtRmZ0ck90bXpf?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-05T12:32:57+00:00",
+   "fetched": "2026-10-05T12:52:35.637783+00:00",
+   "visas": [
+    "family",
+    "residence"
+   ]
+  },
   {
    "id": "514828bacc102a7a",
    "title": "US Visa Bond Program 2026: B-1/B-2 Rules and Bond Details - IndianEagle",
@@ -6612,6 +6628,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "80d8d50fe8f91896",
+   "title": "Builders flee site during immigration raid: Video - Construction Enquirer",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeW1xZ0FvNF9sd0hlTXBDYkpGVHd5OUk1ODI3RFdrRHpZdERWamM0eXI4VnQya1U0NnE5RTd2U1dJdGt6T3VlV3BKNzdIajhYcllDZnBMelhiUUlTd2EtRXJ2QUpkODdfSnRzdkdYeDhkNXNUMTJaYTlpUHNLYUdMQ3VScnRhd1dSQTd4OTJSeGoxMDJOY3VVSjlKaTdPUQ?oc=5",
+   "summary": "",
+   "publisher": "Construction Enquirer",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-28T06:21:06+00:00",
+   "fetched": "2026-10-05T12:52:35.637783+00:00",
+   "visas": []
   },
   {
    "id": "4dcaf746f8b7a7fd",
@@ -15868,6 +15897,19 @@
    "source": "nz-residence",
    "published": "2026-09-11T07:00:00+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": []
+  },
+  {
+   "id": "b71b83135597d938",
+   "title": "Election'26: Labour vows to extend permanent residence wait from two to four years - awaaz.co.nz",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEY5M045Ni0yMmJyYjJPMmRGXy1rTDMyWjlKME5wV2JSWkpIQXlHanVvam9RLUgtZDRCSTNHWkR5NUJYNmd0bERPRHN6d3cwaUkzLUdjaURUQ1dXVW9pTmp5VTBSOFdKRFIyLXBRNmVvQU54MTQ2UlFFRW13Y3ZyN0hpM3FKN1RBMkdoVjIwZmdqSXExRlktcjZTQkFIckFiYzdBR1ByT2luRXpsS0JXcmFscUtRdw?oc=5",
+   "summary": "",
+   "publisher": "awaaz.co.nz",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-09-11T07:00:00+00:00",
+   "fetched": "2026-10-05T12:52:35.637783+00:00",
    "visas": []
   },
   {
