@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T08:48:34.119675+00:00",
+ "updated": "2026-10-05T09:18:06.348775+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "nz-en",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "us-visa-bulletin",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "eu-work",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,34 @@
   }
  ],
  "items": [
+  {
+   "id": "85ef3180c013cf34",
+   "title": "US Announces 4 Preference Categories for Family-Sponsored Immigrant Visas from 2026 to 2027 - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnVXa2pVZzZkdi1VQUE1WHZITDE2RllMNHIzWGZ1bHZHY0k0b0EzU1RmQmdQN2lpM3UySlV0MTh4bHUtUUd5SFNVQTBsSDBJcjJURmVMdEpFNFBaOXM4eENWdDhBQVZybGxFSUZrQWdzaHF0WmJRN0ZETXR6RGFTcXpGUFdvZUtLWktZZTIzMmVoQjF1QjdLVjY3WDZudGVjdU5LRmdjd3hGMkFfaDd3aGcxT1ltNWJNX1E?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-05T09:05:31+00:00",
+   "fetched": "2026-10-05T09:18:06.348775+00:00",
+   "visas": []
+  },
+  {
+   "id": "be41e5319da6fd32",
+   "title": "Canada updates and personalise work permit processing time, what does it mean for Indians? - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdHlndEhEaXNKamE1ZHBsVnJzWTBlRnBGWmJoYjhPbUtQLU9xSU80NTJfVFVzc0haMU1MS05SbFJReHhVU2Roa19mVHhwXzNkS2M4SXdSd3dEamtkMHdRVC1aenF3MFBVbnQxcVplSUpsMjlTOHNtVllROVFueXRmSXR5czJKY3k3VHFGQ3M0N2hsaEItUWhIMzRSR193R2k0NlB3SXl2cE5jdEp1UFdLVmVIYmdrUlVoNjJiVk5HN1RUdjBJbVZ0VnJhaTVVMzlfN0loU0tJY0xCdWUtZVk0Y3VudDQ1d9IB6wFBVV95cUxQQnNIZFpCV2FWRkVpSnl3NEFCbDlyWW5NVkkzWjNtQ1MxX2Y2ZXo4bGpJZTJHclFwUEh2LWFaM2pPNkdhZFJvVUxIak9XVW82bGk1WG5RM2JnMHJPd0wyZ0xiREZ2cDc4bDFKMjlQMG43eWxOTzZoREJLcnR6d2dvZGpPT2d1Tk5KMTlLZk1GQWtJU3VfWGtJWFQyM0s0ell6cGtfcVJ0VWcxd1lRMkVrbXo1TWJXMjRWVFg2RWFmNS1jQmVlSGZES1M3cUJSRUZVMTNjNmRjeU9TeXBKakJiRHlGbUNzUVFZQk5n?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-05T08:27:30+00:00",
+   "fetched": "2026-10-05T09:18:06.348775+00:00",
+   "visas": [
+    "work"
+   ]
+  },
   {
    "id": "c1f039ac6a7543ac",
    "title": "Australia Introduces New Student Visa Restrictions, Affects Dependants and Onshore Applicants - Legit News",
@@ -463,6 +491,19 @@
    "visas": [
     "golden-visa"
    ]
+  },
+  {
+   "id": "9c24db098c37e744",
+   "title": "Australia visa rules change: How should Indian students plan their degrees - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWF8wbHlNSTJGQTJLc0FXVTBycVo2d1JOc1JkREpRb3NXMHk3cTF3VmxiSndGWDhHNFo3WlBDSk5wSThOUmJ4TE5Rc3RBNlQxcFRBazVUem5yZjdvNF9MRUNjOG92MDV3czNYMENwWGsxQm1nZk9XNVVrSU1JU1BzWjFtcWU4OGtWbTNSZjJQZUFrdmg2UjgySmJhdHpzV3Q1T25LclBMSW1MNnc0aC1qZWdlVzctM0Z2dHhoM2V0Wk5COTdJZDRnV3NwQ3d1Qll0elVDdlo5UFp1WHfSAdsBQVVfeXFMTVhfMGx5TUkyRkEyS3NBV1UwcnFaNndSTnNSZERKUW9zVzB5N3Exd1ZsYkp3Rlg4RzRaN1pQQ0pOcEk4TlJieExOUXN0QTZUMXBUQWs1VHpucmY3bzRfTEVDYzhvdjA1d3MzWDBDcFhrMUJtZ2ZPVzVVa0lNSVNQc1oxbXFlODhrVm0zUmYyUGVBa3ZoNlI4MkpiYXR6c1d0NU9uS3JQTEltTDZ3NGgtamVnZVc3LTNGdnR4aDNldFpOQjk3SWQ0Z1dzcEN3dUJZdHpVQ3ZaOVBadVh3?oc=5",
+   "summary": "",
+   "publisher": "Business Standard",
+   "country": "AU",
+   "type": "news",
+   "source": "au-graduate",
+   "published": "2026-10-05T06:14:53+00:00",
+   "fetched": "2026-10-05T09:18:06.348775+00:00",
+   "visas": []
   },
   {
    "id": "c2e3ccc2a270cfb1",
@@ -2885,6 +2926,21 @@
    "fetched": "2026-10-03T02:20:06.267887+00:00",
    "visas": [
     "express-entry"
+   ]
+  },
+  {
+   "id": "e1ec8511fad537dd",
+   "title": "Moroccan Visitors Advised To Apply For Schengen Visas Early - Your Gibraltar TV",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3BYTExwNkdNR0dvNjBnWUdhQ215UXF2UmtPd0JTSm5YVkNJZ1RTaDdJSE92Nnk3MDNSWGk0OHFzb21iR1NOaS1kM3RsNU5femI0Smc3TUMyajF3WDl0Um14Z0N5YkZBQ0ZuU1M4RXBwT20zODI5aERUZHRsUmJRaHlTZkpLQVI5YTI0VWJBQUxxXzU0anJ4RF9vN2tJdw?oc=5",
+   "summary": "",
+   "publisher": "Your Gibraltar TV",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-01T18:39:16+00:00",
+   "fetched": "2026-10-05T09:18:06.348775+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
@@ -7034,6 +7090,21 @@
    ]
   },
   {
+   "id": "170be932e83b40eb",
+   "title": "Recruit Training Command Naturalization Ceremony [Image 3 of 9] - DVIDS",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlJaS3Q3VjZPQnI0S0lXTmJLdERYaWxDdHdRMEZ5dTE1eWUycHVVODJkY1QzVHFDOV8yUUtCUlVKUVhlMUl2a2c2TTFQUGp6bnBhdjlnNEtnRmZHVEhWM2VKQkoxWk1fd0MxV2VJdUQ1aXJheU9TTElpMmZIOU5jOFcyRDBIcFhjV1VDVWdsaWI?oc=5",
+   "summary": "",
+   "publisher": "DVIDS",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-25T17:01:00+00:00",
+   "fetched": "2026-10-05T09:18:06.348775+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "437501a971a8dd67",
    "title": "Providers push back on proposed filing fee hike for H-1B visas - Modern Healthcare",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxU0xyaDVmMUszYm5lUVhsQmdJaW0xakVSNDBOMkhJREFrcF9zUkxBU2V3ZE9lYl9ZWEFweVpPQmNJWklrMjdvNGh5LVlDcGhRbkNRbkpOMlAtczBoZFRFRFdiT0QxX2lMczRRanh0em1DMmFiTlBV?oc=5",
@@ -7529,6 +7600,21 @@
    "fetched": "2026-10-05T02:21:52.485743+00:00",
    "visas": [
     "residence"
+   ]
+  },
+  {
+   "id": "c1a80dc7fc0b3058",
+   "title": "Lagos Man Petitions Police to 'Save My Soul' Because Schengen Visa Applicant Won't Stop Threatening Him - Foundation for Investigative Journalism (FIJ)",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjcxSWhwV1B3cjRWbXNVX283RHdiVjhQSGN3WVd3dFkwZ0ZXd292bFdSTVp4MGJ3MGh5RkU4ZFlHNktkakJVQW1FRkM4RG1vYWdwVi14Vk1wLXZRNFZvYi1Wa3prNHlKZjRnZU1RdzZ2bGxENTU3WHkwekhpLUYyWnhPdWNLOVNpRVBwaUlwdGYzWFlDd1d1TzlXS2RlZnpXMzZIcG4tRXFUM3RSdGxpVlNiSExjUlVJRFJWTExLdjF0dw?oc=5",
+   "summary": "",
+   "publisher": "Foundation for Investigative Journalism (FIJ)",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-25T07:00:00+00:00",
+   "fetched": "2026-10-05T09:18:06.348775+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
@@ -8064,6 +8150,19 @@
    "visas": [
     "uk"
    ]
+  },
+  {
+   "id": "d2a33d373e456d84",
+   "title": "Most cross-Channel migrant small boat arrivals in single day of 2026 - bbc.com",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5azJqNER5Y2toLUlhZGFsZF9OMFlxVE12RGJUSVljaXBVdEU3eVJlUFdEeUNyTFhWRTlUX3VhSnJtRGR2dXVnYzFZY19KX3NrZkl3NXhTdVlZZ2M?oc=5",
+   "summary": "",
+   "publisher": "bbc.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-24T07:00:00+00:00",
+   "fetched": "2026-10-05T09:18:06.348775+00:00",
+   "visas": []
   },
   {
    "id": "671ed9f03ca957ca",
@@ -17649,6 +17748,21 @@
    "published": "2026-09-07T07:00:00+00:00",
    "fetched": "2026-10-05T08:48:34.119675+00:00",
    "visas": []
+  },
+  {
+   "id": "aede790e3885d92c",
+   "title": "South Korea Investment Migration Draws Attention as European Golden Visas Tighten - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNak9jRWhkd01VaXQwMWxZbHM0OUFWTGE5cW5aRHY0ZzdSakNZMmwzVU9iZmtUQlFVQkt1UDBic2ljejAxNV8xWHA2V0t2Mi1CUE9NTm9kNVlRN3lmYzFoVkVnVTF3dXU4a3pidy14MnRZdmZvdFRqdjFYSUlsOVNuZDdTbm1tR1hqQ1Jvc2pobWQ5eTNzTWNZellzOTFfX3U4MzVHXzIyYlBHbUVNOVhiSWVCaDBTSy11UVBxUUhMTXM?oc=5",
+   "summary": "",
+   "publisher": "EIN News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-09-07T07:00:00+00:00",
+   "fetched": "2026-10-05T09:18:06.348775+00:00",
+   "visas": [
+    "golden-visa"
+   ]
   },
   {
    "id": "e7d3b6711f1effac",
