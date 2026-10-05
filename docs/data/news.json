@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T05:06:40.888293+00:00",
+ "updated": "2026-10-05T05:48:57.826191+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "nz-en",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "eu-citizenship-investment",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "eu-work",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -420,6 +420,21 @@
  ],
  "items": [
   {
+   "id": "c2e3ccc2a270cfb1",
+   "title": "Golden Gate Global Announces USCIS Approval of Mammoth Collection EB-5 Project - World Business Outlook",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUhvVzl5SWM2NklScVd1NW5VTVAzNUQ4amNtOWJ3TUhIb2FqWUl1cHdzUU1Db3IyanN6MDBGZ2hUQTNXTjZBeUFWTXdkMXhlMWwxNGd1cUFCTS10NHFFZGRvTE1ZUFV6ZEJ4SEtLWjdJbFJETm9pUlI1Y3oxTnJPS1hSU2dHeVZhVUs5cU5ybklTYW9OLUYzZGVia0oxbVN6d0NsOGJsMUFIeHpTQWY3VjFB?oc=5",
+   "summary": "",
+   "publisher": "World Business Outlook",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-05T05:31:40+00:00",
+   "fetched": "2026-10-05T05:48:57.826191+00:00",
+   "visas": [
+    "eb5"
+   ]
+  },
+  {
    "id": "fd4424be08f9d2c7",
    "title": "Portugal, Greece, UAE or Latvia? A look at 15 easiest residency routes in 2026 - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMUhOaEdvdURCNVV1a2otVmYxUXZqQzJDTm9HRGp0WVI3QUhrc1VaRnVyckY1SWo1dHZ0S3plUTJPeUk4SVdodzViOE1mVFFNaGJOYS1aVFJEeDVFQkVud1g0U3VHMGNyUkczM2VRZ2R3aXY0ekNqRUI0LXppMzFmTDlURUJ2c0ZmcjVIZlNXcTRVMjBmcXNoOXdsWmxoZllJRHpiYVVBQ0s1TG1faEFyenlxOVRhN3ZmX2NqWmhTSHhSXzRfWWxwSHM3LUZqanJDWDIzU1ln?oc=5",
@@ -431,6 +446,21 @@
    "published": "2026-10-05T04:32:16+00:00",
    "fetched": "2026-10-05T05:06:40.888293+00:00",
    "visas": []
+  },
+  {
+   "id": "307f56d17a3a475f",
+   "title": "US imposes up to $20,000 visa bond on 50 countries: India exempt - financialexpress.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0xleVZsOUNILVlJalpkR2Q3bnJIQlJNN053dVJKRnpyN2N4b2w1aHNRVXBXOXN3eHY4RmVqZm5ZRXphT2ZjTzlHelA3MTVuc0M1bGUtd2R3MVMxYzVvY0tZUEptVFZfZzhNWE5LY3hhN21idUU4TTNOeEY3Qm1uWTJVMWY5dld5d2xPbXdYdGwzVlBHRlRMMWR0bWtRcmNQU3pvSVUtV0hPTEs1YUlBelZnZk45d9IBvAFBVV95cUxOdWlPbVlETnpoQ0thX1FKUk9FSFpfN3JSMFd0eFNCN3R0VllIeTRlbmJ0Si1LR2xXcEhzQXFsWFdQRnY0RnJSeWNPalVMVGN3WGJLbkNPMlNsZWNHWGZQUnp6dFdnWlhIU29nUU4zanI4V085WmZuTmhITGU0SndXMkZJcl9XS3FnMnpfVGtYSzZDTU9HZGtmdi1XQ3FTYlpodGd4UW5XdHQ0bGd3OW43ODNJQmhEQTk4TDROYw?oc=5",
+   "summary": "",
+   "publisher": "financialexpress.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-05T04:16:00+00:00",
+   "fetched": "2026-10-05T05:48:57.826191+00:00",
+   "visas": [
+    "visitor"
+   ]
   },
   {
    "id": "0af98fdf627ecabd",
@@ -3221,6 +3251,21 @@
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "ee70dfb75a6d9a1e",
+   "title": "ILPA highlights 20 things you might not know about Home Office’s earned settlement proposals - Electronic Immigration Network",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFczeExkaDZKWXdXXzNnb1ZFVXpmbmpkRUdsa0w1c1hKNHZvQkFhdF9fV1FVRlFhM0J2VEJnN3puNlNJbFI0QUJHcVVxYXRSbF9Cb01MM1ZKRF9ZQmRIbldOOVZiTVFnMEJOV1pWajNGeWhRcjJOZFYzdkFkRm9semJnaFdwOFJxMTBBMWYybmtVNm9tbnhxWk5FeksxdUxkdWpRODdYVDhUOEs0VDJoOHdZRTF1T3pWdW5B?oc=5",
+   "summary": "",
+   "publisher": "Electronic Immigration Network",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-01T08:57:13+00:00",
+   "fetched": "2026-10-05T05:48:57.826191+00:00",
+   "visas": [
+    "uk"
    ]
   },
   {
@@ -17345,6 +17390,19 @@
    "source": "nz-post-study",
    "published": "2026-09-07T07:00:00+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": []
+  },
+  {
+   "id": "97d9bffb29caa344",
+   "title": "US visa woes drive Hyderabad students to new study destinations - The Siasat Daily",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcUJIYkZGYnBwQjVmZ01LM1ltdU14UGdXbEhNLURNQ1Y0eDVqUWpOUnVfNU9uOV9MSTRrMkZrNmdyQTl1TUdneEh3SHQzc3htV2FLb3g4MHl2LUlKbXFPaDM3bDB4blY5QVF3am9zVWw0d2dFaURxeGsxQTYxdEhtQ01BcEJpMEt0Z1M0SkZVS01kalNPVjRVNWd5UdIBoAFBVV95cUxNUDZJZXR6ZllfS0NyWWtMTHUtOFJfM1hINEVvMHV1dGdkaENxZC0tVWtmVHB0dER4VVhROTlBRmt2bGp3NWozdEVidnZXYzBIRFNQU1pCajhrdklObWlIdXVJR3Fxb2ZZWUFHdnMySzhXRjV1T2VQdmFYS284SGxvYTNDZUFUcVlMWVlIclJYTUNiTEJJbjVRREM4eW9FenNQ?oc=5",
+   "summary": "",
+   "publisher": "The Siasat Daily",
+   "country": "US",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-07T07:00:00+00:00",
+   "fetched": "2026-10-05T05:48:57.826191+00:00",
    "visas": []
   },
   {
