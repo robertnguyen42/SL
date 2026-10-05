@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T02:46:34.109984+00:00",
+ "updated": "2026-10-05T03:17:05.381151+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-investor",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "eu-work",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -1097,6 +1097,19 @@
    "visas": [
     "visitor"
    ]
+  },
+  {
+   "id": "fc9d090b876e3e5d",
+   "title": "New Zealand Lists 5 Reasons a Foreigner Can Be Deported From the Country - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0NuS0hpN3FUTmVYa3p2am9RbE1NNVBsSlMtNzhNTFd6TTNuTnk0b0lzSGZGWVZoMmdlaHRGX3lQeHJRRzJtSlpOUno0QmQyVFNhZzY3NjFWbXBGc0QyYUp3MXFlWmZaczg4Q2U2ZHByZ3hlUm1RQjFabGpyVG5EZXpSS1dVQmg1OTNiOHQxTWdjME4wVkdCZw?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-03T09:09:02+00:00",
+   "fetched": "2026-10-05T03:17:05.381151+00:00",
+   "visas": []
   },
   {
    "id": "67a4d5c4e373aec7",
@@ -6896,6 +6909,22 @@
    "published": "2026-09-25T11:37:37+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
    "visas": []
+  },
+  {
+   "id": "18cf8a7efef86e21",
+   "title": "US Extends $100,000 H-1B Fee Policy: Know What Changes and What Doesn't for International Students - Education Times",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSExHQVM1YVQ1V2lVNjY2Vkd2dmQyWlhQZkU4VW9FM0RVWkFaaXROTkU2RlkzdnhHZXJfTVU4SURSZHB6QnVmdXMtQU5oVnhtWV9HWXpnS082cERNdE9sb2xVSFNMZC0zUzFESmV5cXRYaXVvMG9tVWVYRmZoc3RrOTVRbHdVT0VISVRGb1pJVV94MUNMSHM3Qmp1bURxbUFXN1o0LWZJVnZGN3dXUWRkd3RCVmlwQno0blZhSW9SQ1dheWxpTkZ0QjFFOG80VnBpaTI3LUtXUEU5QmtJUEtjN2NjdGNsMlpXS0YwNi16b2pwQ2NmY19J?oc=5",
+   "summary": "",
+   "publisher": "Education Times",
+   "country": "US",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-09-25T11:30:00+00:00",
+   "fetched": "2026-10-05T03:17:05.381151+00:00",
+   "visas": [
+    "h1b",
+    "student"
+   ]
   },
   {
    "id": "15eaa7a11131b057",
@@ -15735,6 +15764,21 @@
    "fetched": "2026-10-05T02:21:52.485743+00:00",
    "visas": [
     "residence"
+   ]
+  },
+  {
+   "id": "bcb853f37ae0be6c",
+   "title": "UPDATED: Six arrested in immigration raids, including man wanted for deportation - nwemail.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3JRaHFOZjBxSzcxeDJfWlBUekxfa211UllLanlRMUNxYlAtVk54dmFhQjJ0Ukk4ckdCOVpzRVJGNHIyMWpocF9jcGQtbDlaVUpBeUk3NXJEMmxpTThTWXg4bG9RMjFKZ19sOXBWQlM5bnBNZWFxb0ZLcGRjWHF2TkJfelZfQUFwMF9LeHNrNFd2aGhaM1E?oc=5",
+   "summary": "",
+   "publisher": "nwemail.co.uk",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-10T07:00:00+00:00",
+   "fetched": "2026-10-05T03:17:05.381151+00:00",
+   "visas": [
+    "asylum-policy"
    ]
   },
   {
