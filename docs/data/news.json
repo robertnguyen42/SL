@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T03:48:22.528756+00:00",
+ "updated": "2026-10-05T04:17:14.174612+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "nz-en",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "au-student",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "0af98fdf627ecabd",
+   "title": "After 11 years on an H-1B visa, I still miss my family back home. Here’s why I stay in the US. - Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjB6TUdkcEhOU0R0cDBIb0ZRdWVUMkE4ejcxZFo4YXVyaFNSUGdsMmR4QUJybHlJeFR0RkxrX1VxaVN1cF9rWDNvZUIwQUo5djBuWF92T3BaLThTeUltN2RkcXNzNkdlSTBNSUp1cjR1ZXZNQ2E5XzI1S2U0Tkh5SXh0VnVwZHJ4ZzB4RXBIejgtQ3Z3VnV2bTU1TQ?oc=5",
+   "summary": "",
+   "publisher": "Business Insider",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-05T04:09:38+00:00",
+   "fetched": "2026-10-05T04:17:14.174612+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "a0dfef19a4d94950",
+   "title": "US makes visa bond programme permanent: 50 countries face up to $20,000, India exempt - Firstpost",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT245LVRwMXdSMkpwNmlZYlcwdkpySFZWN1A1TTlRekRiSUczMWx4S0lwMjRzSXREbnNiaGRkc0NOUUU3cVA3LXd3U3gxcEVqMXViTVJrcjJvdGR1aXRVcGRpSTZHOTRUNlFJUF8yck5Sb2RmTXpsQ1pvSU40UGFXQnJEOUdNWjc3OG0tczhPVXU2WWhJOG51WnpFc2hVZlBDMG1OYzVaSVB4d2N5X1J3dVVMWjJMYnJHek9DNUFTZ1NFX0RvRi1nV3lEWdIB0AFBVV95cUxNOU1oeEE2Z19pWFF4VzFYZWttT1MtS2RjcTBVNGM2cXh4Tlo3SjJsdmtuSTBHNmxYbE1JWFNmZXpRTUZYNlJiNFZsZ05ZNFFEaGI5ZHVha0QxM1U4TVZIR2I0T1phcjhKdE9LUk9vXzRzcFNDazh5MUIyMGdJVS1vVmJsUW00V3REQTZncFo3cWEyUzh5endpbDd5U0tsaHJxb0xaNC1PemFoeWtvWDBkSkFobHRQVUlISGRvbzV0aFQySTZmRlg1emk5Sl9NY21J?oc=5",
+   "summary": "",
+   "publisher": "Firstpost",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-05T03:49:20+00:00",
+   "fetched": "2026-10-05T04:17:14.174612+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
   {
    "id": "5d643788a97018bb",
    "title": "Today News Headlines for School Assembly, October 5, 2026: US rolls out $20,000 visa bond for 50 countries, India excluded - The Indian Express",
@@ -5677,6 +5707,21 @@
    "published": "2026-09-28T15:20:44+00:00",
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": []
+  },
+  {
+   "id": "18358886da423ebb",
+   "title": "Canada: Employer Eligibility Clarified and Employer of Record Model Restricted for LMIA Applications - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTXZHSklFWFhBTEhfYnVMZjJIUGZMY1djVF92ZzczRE9TU0VrLXctalZvN1JSOUpUbDEydE0wUEw0WkgwazdRLUE1VVptQ2pLTmd2ZTJHVnJiLUV2bWs3NWlGa1YxMTFlaXcxajhEelBpTmRfTmNZVk5EdTdFZUVTTE04eXhEa25PQzhOMVM4bEhrU2lORzdPRURLZF9EQU5EeDhDaXFKdjhzemNVM00tcHV1Y0NqVEJYemdEZ2tIc3Rzam1qV0hiUFdOeUFQQ0V4NEJwUg?oc=5",
+   "summary": "",
+   "publisher": "Fragomen",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-28T14:26:57+00:00",
+   "fetched": "2026-10-05T04:17:14.174612+00:00",
+   "visas": [
+    "work"
+   ]
   },
   {
    "id": "2d38b2fee58b8c6c",
@@ -16399,6 +16444,19 @@
    "source": "nz-residence",
    "published": "2026-09-09T07:00:00+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": []
+  },
+  {
+   "id": "f6dc78c0c67cec68",
+   "title": "Indian students rethink the American dream amid visa uncertainty - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2Zlb0k5UjBMZlRPN0R6LWxHbEI3ejFRTHhNdlp2WHhnNnY3UTBzSm44TVF0NE5fUXBrYkNZTXFrZXZFc0NqT1ItcUx6dzJaV2laTHdNM3pKZUdRMGQxMzBONnZKeW9JblhYX080Q0YyYXg3LVhnenktbUszb2diajhZSUdZTDczV0NlYldOa3lILW5tWTNEOTYwR194TDJsdHU0YmdSMHE5dk9pRmh5dU9hSWhZVGxsOWIyNGtDRzNsOHp5RHJkTGFn0gHPAUFVX3lxTFBOTk1lVXY3b2c2RlRNMm5TdGVvXzAyRHVSVTltNWdtT1NFNnhVMllsbG1tWmlpQzdDS1hHd3FTeDN2c2Nyb1BRVjFKMExkQmVwSFl2NklUMnd0enVLOUVGRWlfZVFFaEVVS01FNHBqeUZVUmdlS3cyYllQTXI0RE5PbVBsTGxvMWZUTTY3ZXZNcGF1ckZLQnYzcXA1YzIzaEFmTlZrS1VHY2MtdE1XZEUxc0tIUy1nWDBPd04zZGdzU3RVZlZ1aWxvNlVyYjlCbw?oc=5",
+   "summary": "",
+   "publisher": "Business Standard",
+   "country": "US",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-05T04:17:14.174612+00:00",
    "visas": []
   },
   {
