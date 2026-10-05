@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T11:15:25.787080+00:00",
+ "updated": "2026-10-05T11:47:55.016019+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "au-student",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "id": "eu-citizenship-investment",
@@ -420,6 +420,49 @@
  ],
  "items": [
   {
+   "id": "76ad68f8e446c2b4",
+   "title": "Oman names 1 category of foreigners barred from getting work visa - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTJPX2VGMGRWdTZPT1V2UnJ4bGhpRE9HMTY0RE1OMGNzNWNtREplakhjNFJpQTRURXRFRzYzdkFzeXFoUkNOcVRpSFJXZlpiemJyWURCRk1scnRNOWQ1THlMdmR4SWtVZF9iZWRRRkNTMTNtZS1FdVNZeHlNOFk3U3p3cUVLc0N1dnlMMVBfbWY4MndxZ19OOG9xQmM?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-10-05T11:37:50+00:00",
+   "fetched": "2026-10-05T11:47:55.016019+00:00",
+   "visas": []
+  },
+  {
+   "id": "279142ac8bfc500d",
+   "title": "Lựa chọn điểm đến du học đang thay đổi, những quốc gia nào thu hút sinh viên quốc tế? - Báo Tuổi Trẻ",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZGVsQnhwVTRPamhQQXVpRVlHdVlRQUg4M2Z6aHNCdHJBMkRXTUdvWDE1OEp1emVuU1lXNHRyMWF0LTNZR0RsWTl4ZHltUlNGbTR1TDB3UWVZWGRHVzVwUFJXUkN6UHhkU3BMa2g1anV6UWFzT2kyeG9OcldxYVZPNkx3alRheWtvVjFfa0p4NlFGNzZuNmc4QW9iWXk4OFN2b2U4U2RaaVRPelVDZ3dnYjl1ak5ERmRiSGlZeVg4eE54Mzg?oc=5",
+   "summary": "",
+   "publisher": "Báo Tuổi Trẻ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-vi",
+   "published": "2026-10-05T11:34:00+00:00",
+   "fetched": "2026-10-05T11:47:55.016019+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "358089f306b38805",
+   "title": "UAE Names 3 Family Members Golden Visa Holders Can Sponsor for Residency - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeFczU0ZtOWlQUzlvdXBjUVc1a1ZnMVpmZl9SLTBRNkRZcU1PMEdJb2s5Q1VJdlEzZnlZVnVnZlcwZTR6c3hUMTh5Y1o2dWJjV1NnVVBrMlBUallSc2cybXF4UDViakRlNG1nZWh2MG1YOVBrYnIxWi1nUThQeUg0b29vMDlDZWxOcHk0SFJYUnlvbEFvUHRqR1BRTHNyZw?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-05T11:13:59+00:00",
+   "fetched": "2026-10-05T11:47:55.016019+00:00",
+   "visas": [
+    "golden-visa"
+   ]
+  },
+  {
    "id": "7d8aab7e960ab708",
    "title": "Australia announces 4 types of parents eligible for sponsored parent visa - Yen.com.gh",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXYycTlBNURsNlNtNVFjRmtoQWZILXJkUnZzcGJ0ZFU5UW9rWGVJOGJDZl90b2FLcElwN1VELTlMZW5pV0duS3B4d3NBVm1MRUJBSktkQ0JGTVRoMmFaSWdtbzRKQkY0OUtVNWFzZjFVUFY2TzBDaGdGa05WZXFvaFI2M1pfQk82eWxPMmh0a2lCT1ExNWFWWGZwWXdGbUZfWTQ4?oc=5",
@@ -474,6 +517,21 @@
    "published": "2026-10-05T10:36:13+00:00",
    "fetched": "2026-10-05T10:47:12.330919+00:00",
    "visas": []
+  },
+  {
+   "id": "df0970ec2c4d201a",
+   "title": "Australia tightens student visa rules, limits dependants for international students - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT0lLYUFHaTJvQVRiXzdteWVWNkJaY1BNV3pwRzluTVVZS3pLUGFNN1Z6NEo2bHpHLXpZblU0NzdhLUJlTFUxbXprQ3FIc0xlU3JkbE94VjFiaGtodWdTMnZMclZMUjl0MzhrQUg4bk5NdEFQXzNRTHNBMTBOZlpMenU2dlA3dEtzOWNhZVg2NjdnbHkzMG5zZElta0xkbk8zMV9mNFFqamV1RExmWnNFaXFrYmIxVVFtWFBfdXlJeWhqbEFPdndWQ3FqbGxZLW9kelhCU3h0SEVkRUoxeXlIYUV1aVnSAeQBQVVfeXFMT09JS2FBR2kyb0FUYl83bXllVjZCWmNQTVd6cEc5bk1VWUt6S1BhTTdWejRKNmx6Ry16WW5VNDc3YS1CZUxVMW16a0NxSHNMZVNyZGxPeFYxYmhraHVnUzJ2THJWTFI5dDM4a0FIOG5OTXRBUF8zUUxzQTEwTmZaTHp1NnZQN3RLczljYWVYNjY3Z2x5MzBuc2RJbWtMZG5PMzFfZjRRampldURMZlpzRWlxa2JiMVVRbVhQX3V5SXloamxBT3Z3VkNxamxsWS1vZHpYQlN4dEhFZEVKMXl5SGFFdWlZ?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-05T10:01:00+00:00",
+   "fetched": "2026-10-05T11:47:55.016019+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "af8aeb3190d5d715",
