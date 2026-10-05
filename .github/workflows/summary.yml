@@ -20,5 +20,7 @@ jobs:
         run: |
           git config user.name "ditru-bot"
           git config user.email "ditru-bot@users.noreply.github.com"
+          # Chưa có API key thì summarize.py không tạo file nào -> không có gì để commit
+          [ -f docs/data/summary.json ] || { echo "Không có tóm tắt mới, bỏ qua commit."; exit 0; }
           git add docs/data/summary.json docs/data/summaries
           git diff --cached --quiet || (git commit -m "Tóm tắt tuần $(date -u +%F)" && git pull --rebase -q && git push)
