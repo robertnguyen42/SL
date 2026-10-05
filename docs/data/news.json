@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T01:45:13.991325+00:00",
+ "updated": "2026-10-05T02:15:39.362163+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -90,7 +90,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "au-skills-in-demand",
@@ -102,13 +102,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "au-student",
@@ -120,7 +120,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-investor",
@@ -132,13 +132,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -10486,6 +10486,23 @@
    "fetched": "2026-10-04T04:27:21.364728+00:00",
    "visas": [
     "citizenship"
+   ]
+  },
+  {
+   "id": "9f589352a57495df",
+   "title": "H-1B not enough for a US Green Card? Experts explain why Indians are turning to the $800,000 EB-5 route - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLWI4NmJBSFhzUkV2bGgzU3lqWXpvV3liUEVRNFdZRTl6NUNYQXA3ZEVBa1FDUkpVeXNxRzVSM3VicHlROHhnZjZHWEVyMVExWjROU2hkemp1eE1BeHk2TmNjUjBlOEoyZGhuZkpuSWNIckhqS3FEamlVYmt5U0RhNzQ0UFNjM3JWU1I2dktfS29aX0hpWHRUNVJLSnJ5cHNxc0R4OTVqQ1dUOVM1N2h0VzQwb1RqZzlpSXc1ZTN3cEJKajF6cHZiT2J5aVRjbmsxTzhvbS1zMUI2WGJtQnlmQXA4VDNycFc2NHF3cA?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-09-13T07:00:00+00:00",
+   "fetched": "2026-10-05T02:15:39.362163+00:00",
+   "visas": [
+    "eb5",
+    "h1b",
+    "green-card"
    ]
   },
   {
