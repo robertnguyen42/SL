@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T22:43:03.658304+00:00",
+ "updated": "2026-10-05T23:12:59.572699+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -187,13 +187,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "au-citizenship",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 25
   },
   {
    "id": "eu-work",
@@ -547,6 +547,19 @@
    "source": "ca-work",
    "published": "2026-10-05T18:40:07+00:00",
    "fetched": "2026-10-05T18:50:52.362304+00:00",
+   "visas": []
+  },
+  {
+   "id": "545b0094ddc38fa0",
+   "title": "Justice Department Moves to Strip Citizenship from 40 Criminals in Largest Single-Period Filing Under the Trump Administration - justice.gov",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdlVaLTVkQVBSNzlNckk4R2hnQmFIaDhTWTVsUnJNTWtjc1dJbUFWQ0l4UGQxbFZYUjVfZF92dHA0cllIenhTS0lFeTNUUU1kUU42NGtjek9aaGMyZUNVcEVTYmpHandMY1RTbUtKMElST01QczNMdVNFVTA3ZDVCcTV6aHgyLTNpZkNfQU80VVAwM3hadENNU29PdWJ4NUs3VmpQM2xHLXYwRzZp?oc=5",
+   "summary": "",
+   "publisher": "justice.gov",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-05T18:38:46+00:00",
+   "fetched": "2026-10-05T23:12:59.572699+00:00",
    "visas": []
   },
   {
@@ -7818,6 +7831,21 @@
    ]
   },
   {
+   "id": "3d1a3eb3da77520b",
+   "title": "Recruit Training Command Naturalization Ceremony [Image 6 of 9] - DVIDS",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNzVOallzQm5FYVRGZHJnNGpMUlhSWHE4Q3k5THoyVGlpLWhqMUJlY1FQUzdqLWowTDd0bWZ2LXdTQ3REVFAtNmFNS0JFcmFmV1hpTHBkUVAyVm1jYlBDT0FPM2NfRl9ydjRjYklPaFFtaWt0cUgwcGM0V056bnhMRmEwOTNMSjk3TXNGZno3RW0?oc=5",
+   "summary": "",
+   "publisher": "DVIDS",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-25T17:01:00+00:00",
+   "fetched": "2026-10-05T23:12:59.572699+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "437501a971a8dd67",
    "title": "Providers push back on proposed filing fee hike for H-1B visas - Modern Healthcare",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxU0xyaDVmMUszYm5lUVhsQmdJaW0xakVSNDBOMkhJREFrcF9zUkxBU2V3ZE9lYl9ZWEFweVpPQmNJWklrMjdvNGh5LVlDcGhRbkNRbkpOMlAtczBoZFRFRFdiT0QxX2lMczRRanh0em1DMmFiTlBV?oc=5",
@@ -9951,6 +9979,22 @@
    "published": "2026-09-22T07:00:00+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
    "visas": []
+  },
+  {
+   "id": "b9881ac62dd2419d",
+   "title": "US Visa Bulletin September 2026: Indian family green card wait gets shorter - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb0Q2MHBqUVdaSU5YWDA2dHA4a21FVHR2V2hsV25PM3VYZHBrM3FGOGVDQ1JQU0tMRkhfWjl2bWlvbktDNEpRU2U3bXpCbTlHUlM5OUlLZ0dmYkZ5RGJXRFQzUVFGejI1bThuMUtCYV9LMEN2Snp5TFJLYmR3aXZRa2tpSWhQeGhyRjhnMUVwbXlfMks0dzVDeEp1Mlc2aUdRWkV6NGN1U2pMNlQ2bFVSUmJhemt0SUxrU05wa3l4ZHVkc08xMTdCbXl2aWkyZFNHajJtOWRZd9IB3AFBVV95cUxOYTBFVzV1RmQzc1FWUHpRNXR1NE5qQjY1UzlPYTk0a1Bta1gxLXFFd1JaYVlxTUZhc3hkUDVUZzFqNURYNVFBZklHSVNEeXFrNkgwcnhGU0dGYzZVeTRQVUtjcnJIbk40LWQwVnRQa3dsREdQYUNtZnpHWkVDNWd5WTZ4clpyWEZqLUlwSFJEbFhSbkM3SExXV0FoWXZFeURLU1F5UnpJVHZvTFlWdEN1YjdaWUdCSHVfZ01Fak5sUHhuY00xNkg4bXNhbHdFSUZKbVNIQVdrVVlsY2pn?oc=5",
+   "summary": "",
+   "publisher": "Business Standard",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-05T23:12:59.572699+00:00",
+   "visas": [
+    "visa-bulletin",
+    "green-card"
+   ]
   },
   {
    "id": "15deb630b6ae09dc",
