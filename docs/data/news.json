@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T09:48:14.386532+00:00",
+ "updated": "2026-10-05T10:17:44.667952+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 18
   },
   {
    "id": "eu-gov",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "au-student",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-citizenship-investment",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "eu-work",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "af8aeb3190d5d715",
+   "title": "Visa Outcomes betray international education ambitions - Indian Newslink",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVctMG9VakFmMTJJNFFLQVlORUxxSHhzMmNzYm51SzdZLWROOE9sSW51d0NKRnlTeW9tVThuQXlKcTRQYV9vSG0yQnJXWURUS3B5Uy1hTmc1cFNIdFhjb2E4UHQ1US1wOUxEOV9zeHZBSEZiaFM5dFFOYi1wWHU0dlNpX1E0VENtWUpjRW1WaWY?oc=5",
+   "summary": "",
+   "publisher": "Indian Newslink",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-05T09:54:42+00:00",
+   "fetched": "2026-10-05T10:17:44.667952+00:00",
+   "visas": []
+  },
   {
    "id": "85ef3180c013cf34",
    "title": "US Announces 4 Preference Categories for Family-Sponsored Immigrant Visas from 2026 to 2027 - Legit News",
@@ -1149,6 +1162,22 @@
    "visas": [
     "family",
     "residence"
+   ]
+  },
+  {
+   "id": "124e3c2b48cb0052",
+   "title": "Greens want to spend cash ‘stopping Home Office deporting immigrants' - AOL.ca",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WTEp2TTZsR05tUlVGa2p3d2dnZFJ3YTVXYlVIR241azFaUGFVd3dVZDVnUTduZDZZSTgwenFfV0tMMEhlQVhuS2JkX3duOV9HU3RBUjZiWjE2ekhhWDR1bjFQSHM0MzRER1AtclVMdnJpbnhuQ2hMWDJ0Sk83RGc?oc=5",
+   "summary": "",
+   "publisher": "AOL.ca",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-03T13:23:34+00:00",
+   "fetched": "2026-10-05T10:17:44.667952+00:00",
+   "visas": [
+    "uk",
+    "asylum-policy"
    ]
   },
   {
@@ -4479,6 +4508,21 @@
    "fetched": "2026-10-04T17:51:43.349610+00:00",
    "visas": [
     "eb5"
+   ]
+  },
+  {
+   "id": "3b90a0a2f8e7f245",
+   "title": "The Manitoba Provincial Nominee Program Announces Temporary Database Issues - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWtCWklKRmhTQ3BSVXoySnhjdmRaZldFREplalp6V0pjRlFwWlFkaDdKNEFJOUQ3aE5mWnI1aHhTWWlIdWZGUFhXeHZQTFlzS1QzNmZSWnFEMERmQ1ZCU2ZMam9hMy1sNDAtV0VJQy02dVNRQ01MZUVtTFRMQzhnUjg2Y1lsanh4bFZvLUd5b0RPSDVpMXoyLUJIOWtVRGZDLVE?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-05T10:17:44.667952+00:00",
+   "visas": [
+    "pnp"
    ]
   },
   {
@@ -11176,6 +11220,19 @@
    ]
   },
   {
+   "id": "46a4edb2949a4078",
+   "title": "US Issues Warning to Visa Applicants over Submitting Original Documents, Gives Reason - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2dHeVF1cGhiZVFzZ0ZPNmhVamQ0dmtVSktONktndDcyVHdUUzZaaGN2blJHNXlQNmc1MjEtUEs4XzJqTHVwa19uakhUQnFGQzVlZlp5cmtXUDF2TnhPWUlOeDVEWlNzejRkdlMtQmFOcGc3YWR3SHhHSDNLUWt1bzlxQUxTXzRPM3dqRlV5TDRrNGFFV29zNGtmQnNiWTNIOGNnZjVScTU5VUU?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-05T10:17:44.667952+00:00",
+   "visas": []
+  },
+  {
    "id": "6c8affecfef82540",
    "title": "Australia Unveils Migration Overhaul: What Indian and South Asian Migrants Need to Know - NRI Affairs",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHhZanNYMGlneU1tSG1mb2RkQllsbzhsY2M1RmRQMXRfdGVfdzZDY1hhMnNtZmlvNDFjMFlyWEQxNDduYjl4RnRJdkwtQjJodlRxdnFoYndDVUR6aEJLNTY3dGMyUEp0ZXhSUVdOeHdWT2JlRUUzUXBkUHpIeksxdjVOSGItOVlNX3NPZ3ZWQVZrRjh3ZG1pb3liV3BTMFQzYXpkUFF5QzNVbE9xSzZ4TGpBNFk?oc=5",
@@ -15133,6 +15190,21 @@
    ]
   },
   {
+   "id": "6e05af7cc222b96c",
+   "title": "UK Student Visa Applications Fall 16%: How Immigration Rule Changes Are Affecting Foreign Students - Jagranjosh.com",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0QxRzZ4VWNUajZ3QzFsakpmcGlWYVp4SnNIVHU5cFRfazc0bnNvbmMxODYyNGdZRHp0UnZvWk1BbElOQk1odlNUUHI3MjF1VHR3SjJ0aS1Wd3JHWU9mMC1fQzExdTA3dWtWS3dYOXV3TXM5NDFzRnBjOHp3VHdyZkJ5LTBnTUpWODM2UW5oUjZONm9jVkxaaGg5cHJWWnEyb2Z2OGcyeTE4eUhrc2Znam4telRqbFBBVzBZSnpYb09qSXJGaXcxTS03NGEzLWE1NnVpc2l4MVFXZUHSAeIBQVVfeXFMTjdKTktnejJ4MUp6bjdneG42dTlsZ1pteElyUkVCblRrTXBVRndEWHh6dTdQQzBQRzVfemZ0cUQ5R0FYOVppMmdDcTZtbW5xYzRIOVY1clY1LXkwQVhzekJ1SzRwcGY2X2tvZnFCY3hPa2wwS2dzam45N2R6VTM4cC1KWjNCOHpXQlk3bU5YZTlLblZidzJNWlNmemNWMnpQTzVSZWtjNzRiWnFSS0NMd1l3UzNzMWZCNG1uYWRaNlJyanBlOWJrMzZ0QnJZQ251WjZOOWU1anhLTEFJeWluN2h6UQ?oc=5",
+   "summary": "",
+   "publisher": "Jagranjosh.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-12T07:00:00+00:00",
+   "fetched": "2026-10-05T10:17:44.667952+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "774a5183b7c486b2",
    "title": "2026 changes to the Parent Resident Visa EOI selection process - Immigration New Zealand",
    "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNa2QxVmdXOVhiTzhoMHRuMHg0eDN5eTV6N25WWFdEX1c4cEJYWHFiaTRScS1xTUk2Uy05TkJJdkYxd2FOMm1SYlBKN3QxWjUtMlFvcTdQM0JJTHFRT3Z2WldMSmhhZkRIcXljTlh3TzFMUXNzUWhiZWdwYWx2QklzUkdwNGhaOVRScExzd2lxTmlvZjNnUzk5ZjNmdlJiQlZURThkMXFEd3FGal83QzdJc1BFdTJpSXhxc1h4ZVJhQXVqcmZMdjVBTVdmazBmNUoxYVRTSDZNdzJMbmgzLV9RbUNXelhGdlk1ODdrVGV2dVNVMVJkZEh5NkUzN1Y5cE1uVlloZnFDNFVBcVlJQmhzNGxFNi1yMjJlbnE2dnBPejF4U2tVNU1LTGd2MXkwd2pmTHFJbWt6bVlxZw?oc=5",
@@ -16254,6 +16326,22 @@
    "fetched": "2026-10-05T03:17:05.381151+00:00",
    "visas": [
     "asylum-policy"
+   ]
+  },
+  {
+   "id": "d70a67be2d383a42",
+   "title": "Government proposes one-year waiting period for family reunion of international students - Finnish Government - Valtioneuvosto",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ0o4V3ZpYUo2dWRtaXFJZDNQalFMOUNQZ2hpNUZQY05DSldpUU51b0Nwc3A5LS1OM2hkSERZTTdVUkRIb2NtdnZVcUJEZGE5YnRrQVI2WDBza1FaVkNLR0hsem81aFpWREY5d1NBb0xETVI3V2h5NC1rQzA2QmoxWHViUWpmVHRBR2VWWjR6STVISGpaN2Jqd2hHNkhYMkcxVVZtYUl1dnA3Skh0N1dPU2dKdy1mYWdkRXlsSUdIeTdGUE42Qnc?oc=5",
+   "summary": "",
+   "publisher": "Valtioneuvosto",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-10T07:00:00+00:00",
+   "fetched": "2026-10-05T10:17:44.667952+00:00",
+   "visas": [
+    "student",
+    "family"
    ]
   },
   {
@@ -17763,6 +17851,19 @@
    "visas": [
     "golden-visa"
    ]
+  },
+  {
+   "id": "4620876d45c5a80f",
+   "title": "Ceuta: 21 returned to Morocco 'voluntarily' after stone throwing incident - InfoMigrants",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGpxT3Y2NU9zeXdtOW1NZ3k4b1J2S040Q0RMUW9IV1JMNkVkcFBNRHp6QTBkQ2pQVGZ3NjhrdHdfam5EQ0VyZnBWdUd1QWhfNnE3NGQ0UVkzZGdPdXY1d1dDbkItajVua3hnSEdBYmlfTVhiSGNaTXpfcFRFVXdsNDFTT25tRU0zZkVsbGlOeG9FX2p6d3VSVkxGVmsxQkxUNWJYREVMQXZmSUl6bWEyTWlHZw?oc=5",
+   "summary": "",
+   "publisher": "InfoMigrants",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-07T07:00:00+00:00",
+   "fetched": "2026-10-05T10:17:44.667952+00:00",
+   "visas": []
   },
   {
    "id": "e7d3b6711f1effac",
