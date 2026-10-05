@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T16:47:54.868357+00:00",
+ "updated": "2026-10-05T17:14:05.742227+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "au-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 19
+   "count": 21
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "7dbf9ab168d0499b",
+   "title": "Indian Green Card Applicants Face Decade-Long Backlogs in Key Employment Categories - INDIA New England News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekxWTklFTXhxMFBpS29Pc1ZmcHp2azk0VWZTeGZhOE5WbG5ZRElJTzY4SUxvUGZ0MnRnbjBLR0Z4bGZhMEFEeG1aUlNWWU9SVUhVTzdxM3F2SGxwRnhzNXNER3V6TlZOU0pxZXM3WHoxcEFhbHMtVXFPNEVTblcyY2VDUTY3dnFMSTA5VVlxX3pmdlBTRm5wWEtrUlQ0MklpQ1JFSDBBbXY4OGllOUItTVRR?oc=5",
+   "summary": "",
+   "publisher": "INDIA New England News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-05T16:57:08+00:00",
+   "fetched": "2026-10-05T17:14:05.742227+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
   {
    "id": "01cb8b92ce4cf0c0",
    "title": "Canada Super Visa: How to bring your parents, grandparents for extended stay - Tribune Online",
@@ -675,6 +690,21 @@
    "published": "2026-10-05T10:36:13+00:00",
    "fetched": "2026-10-05T10:47:12.330919+00:00",
    "visas": []
+  },
+  {
+   "id": "93d5c29a85c0c6fe",
+   "title": "Oman Publishes Financial Requirements For Foreigners to Obtain 5 or 10-Year Investor Visa - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb3B1OUE4ZnJ0VmlCWTR2TVJHc1Vhd09DZ2UwNzJHUFhlTmN0OEtBQnExS0cyOWhhNkVpaHkzcGRPQVlrZV9hd3VVV0M3Zk1fMVo5WC1uZEVNcGxia1VjSFdTcm1CRVlTZk83NWUwR1JkZEE2Tk5PYXljenRxRks5RGV0b0RRNUllQkJ1MU1QcWdjbV9HTmM3QTJsOXZqTnY2R1U3Q2RBeEVfRmJaMm5vNHhzR3JoVGc?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-investor",
+   "published": "2026-10-05T10:14:57+00:00",
+   "fetched": "2026-10-05T17:14:05.742227+00:00",
+   "visas": [
+    "investor"
+   ]
   },
   {
    "id": "df0970ec2c4d201a",
