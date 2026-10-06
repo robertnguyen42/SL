@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:15:17.031574+00:00",
+ "updated": "2026-10-06T10:46:52.170872+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "au-partner",
@@ -313,13 +313,13 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -419,6 +419,34 @@
   }
  ],
  "items": [
+  {
+   "id": "9ec9775e043de32d",
+   "title": "Argentina announces $350,000 citizenship-by-investment programme for foreign applicants - Business News Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHRYZTJvYnhNdjlOVE9VaWtCVWQ5Q3BuY3M5dEtWaG9GYjRqNUdCb25tVlRNd1RiNWZ1WS1hMmV0aHVuaVVKQV9zNmFJc2ZDZkMwOFhUSVNZVEVoQWlIUGYtNXFZZzNhLUFRR0hTREZCUTF4ZENmNXVLZmJlV2ktMzVpRkJYX1UtU2FHaTZhWkJoYjhrWlVGdDBaQWs3S0VwNnJuUEZ3c2QwWG43dDZJWl92c1RoWVpUd0ppaUtmcw?oc=5",
+   "summary": "",
+   "publisher": "Business News Nigeria",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-06T10:34:01+00:00",
+   "fetched": "2026-10-06T10:46:52.170872+00:00",
+   "visas": []
+  },
+  {
+   "id": "e9613146435453c3",
+   "title": "Australia sets salary foreign specialists must earn for Skills in Demand visa - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGxSdTZaUS10ZjBRWnl6YU04YjNYcl9PUXlHUUdwZlVreDdZeUo4bm8xNk5mM0laMmJDQVVmN2p0UXM0SERDMmVkc3BsM3I3QlBrZ0VYcTdRN0JXQTBmWjBhN2pBRlBKd2tja1lPclFtZEhsUnpBWEtnQ2lDTlJ1cXlsbWlUVk9LQzZpWFh5bllXaUFJMzN2S3RzR3Z5ZG12aGxuME1QTGVJS21FOXV2WXVIQWg?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skills-in-demand",
+   "published": "2026-10-06T10:24:21+00:00",
+   "fetched": "2026-10-06T10:46:52.170872+00:00",
+   "visas": [
+    "skills-in-demand"
+   ]
+  },
   {
    "id": "308dce922644ff92",
    "title": "Angus Taylor on economic tightrope as business baulks at migration pitch - The Australian",
@@ -554,6 +582,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "09e4fdf2da197b38",
+   "title": "Here's how Labor, the Coalition and One Nation's migration cuts compare - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUlOZTg3Z0tzNThzZmhJd3hZUl9Ja3o0YnJveVZKbGtKNjNKTHZENExIU3hpdEVWeHZ4eWJZWUdWMF9rTzF5blFyUTlxTFY4VlZldzBJaGhWMzR3RS1uQzMyOHQ0ejZsX3JuZGpFTFE1YTZmUjQxTmROWmlKQklnTHpNM01qR21YbkRaR0NQRnBXTEJQbnp6ZWVTQ242WG1BNm0w?oc=5",
+   "summary": "",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T06:41:53+00:00",
+   "fetched": "2026-10-06T10:46:52.170872+00:00",
+   "visas": []
   },
   {
    "id": "ab71b76c8bbf4b9c",
@@ -7742,6 +7783,19 @@
    "visas": [
     "pr-citizenship"
    ]
+  },
+  {
+   "id": "27f95f34f8ba4e12",
+   "title": "Australia unveils new visa rules affecting students, workers, tourists - legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNW16QUJOWThGNUg0WTZIYTRKdmt2N2FfYThxbWtKUExhYmhRamxKS09BaEZXX2pxQXVFNnV5NUlMMjZReklrejBBT2hFRjFFbDFlOG5nc2hXdDR1U0J4UDRmZzBUQkJKc0d0bkJIaHRlam53elA5WVAtbFd5bjBXMHpTaFV2YzNBOWFCOFJPb21EU2c?oc=5",
+   "summary": "",
+   "publisher": "legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-09-28T10:44:50+00:00",
+   "fetched": "2026-10-06T10:46:52.170872+00:00",
+   "visas": []
   },
   {
    "id": "5bac066212c04a5f",
