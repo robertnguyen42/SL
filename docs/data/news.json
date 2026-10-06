@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T05:45:22.856319+00:00",
+ "updated": "2026-10-06T06:19:23.738911+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "au-student",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "au-citizenship",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-student",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -433,6 +433,19 @@
    "visas": []
   },
   {
+   "id": "347d8d621f28c2c5",
+   "title": "Australian opposition vows ‘biggest cut to immigration’ in country’s history - The Japan Times",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3o3d2twZGZQNlZwT2xtMWF2bXItamx2MVFnU2prRDk2a3dyV1YwRHFXSVkzMC1TMnZEUjZqNWxQaFVJei1pOHhBeDA3MVpRZWM0bTZHWVE0OU5kemhTbGZzSUpQT2treDFtbkJ5RHBDN2RBV2tVSkdTek4wa2gtcG5Pak9lVFp5NlpxRDVramw0Q1RBaHVzUlpKSG1mN1RYekxjeWJ3?oc=5",
+   "summary": "",
+   "publisher": "The Japan Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-graduate",
+   "published": "2026-10-06T05:02:00+00:00",
+   "fetched": "2026-10-06T06:19:23.738911+00:00",
+   "visas": []
+  },
+  {
    "id": "b298385f858240e4",
    "title": "Australia's opposition vows 'largest cut to immigration' in country's history - France 24",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVExZYUtsMU1USUs5eHZsVWpta254T2g0LVNMOVk0T0hma21YTUxNcjlpZDV5VlFhZmVkRGgzN2h0R2FSOHBFc0RrRFF4cHcxelRORFNQMy1ycVAxeTZ5NjFrTU9udkpRTkcyWFUtMWc1VXdwWE5wMV9nN0I2UlJiSm8zblF2ajBzbHllOHVBVHYzUWdKbUlDRHV4T0ZyZDNCN2ZSb05kV0ZINzJFY1djN0lJRjFrdG15emNNVHVlcw?oc=5",
@@ -457,6 +470,21 @@
    "published": "2026-10-06T04:08:34+00:00",
    "fetched": "2026-10-06T05:14:50.350085+00:00",
    "visas": []
+  },
+  {
+   "id": "e97b3530d347e153",
+   "title": "PNP requires gun vault photo for new, renewed firearm licenses - Philippine Canadian Inquirer",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWtYRHVhYlQxOVBEMklVb3FUZ0c5cUkwRHF4UUpPV2pmV0JIci01WWhhZWZBTV9nTXJpNUhtcVBnaWdWaUJpT1lqRVR2X05aNHNKUkQ4Zi1RNHVVX3lIb2RyaTFlM2x3dlNwMlhXWE55UVZhMlQwSE5mOTIwcTNyLWthM0x5MV9hbkUta0tBWnRkTFNJMlZUVURiNzA4THpoUkNxSA?oc=5",
+   "summary": "",
+   "publisher": "Philippine Canadian Inquirer",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-06T04:07:15+00:00",
+   "fetched": "2026-10-06T06:19:23.738911+00:00",
+   "visas": [
+    "pnp"
+   ]
   },
   {
    "id": "fc9837f90d3c1b22",
@@ -540,6 +568,21 @@
    "fetched": "2026-10-06T04:16:12.432791+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "4318fd6b66492729",
+   "title": "Coalition will abolish temporary graduate visas - The Koala News",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xaWQ5QXVZX2luRWV5NTVyeGkwZmVob2pEUXBpSktxV0JsRjdYU0RGWS04M2RZZVNIQ3dOTnEyLUpWdWIwTEh4TXVDeTdyYlJDZWY0UXFibGFaWGVaZUl4SkhQd042Vm9vdkNzUWpSYWRrcGx3N3MtcGFaY3lUUQ?oc=5",
+   "summary": "",
+   "publisher": "The Koala News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T02:26:14+00:00",
+   "fetched": "2026-10-06T06:19:23.738911+00:00",
+   "visas": [
+    "graduate"
    ]
   },
   {
@@ -7054,6 +7097,21 @@
    ]
   },
   {
+   "id": "99b108e22faf9370",
+   "title": "Australia lists 11 categories of people eligible for a citizenship certificate - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOazhxQlBGdEl3N3RlZTN6OV95N0dBd2lwSGRFdlpzV2ZhYUd1UGlXb1RDTjFCdVRxTkNRc1Y3QTRjMWVxWWpOTVo3TE5nRE5zTHBiU1F4MFFrTS1MZmhocXFYUkswcEU4cHl0dzNrMHlkOGU1elFldGIxUDFLSWlfeHJyLVFwSXotd1g2YkNjRnFpSzIwSnpiakwzcTJYNWNYa1NZSw?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-09-28T20:50:56+00:00",
+   "fetched": "2026-10-06T06:19:23.738911+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "5cc3f1bc021e8b34",
    "title": "Alberta selects 380 workers for provincial immigration - CIC News",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3JhZUFYMklMOUE5dVlnWUJBRmlrc2FrNFVuMTdFcGt0cHlEMl9QYTBPZ0lac282WUJDcXEzS3R0VzdzSlFPUUY0aWw2UmY3Ui1saXdHcm5GM2pPZkhLcU5ROVpMcjZlVUN3emwwNzVvZzlwcS1ac2MzWTA2SzZoR0pYTm9qMlJWMWpxZUtWUXFPMW5ra093WU9xWm9rWW150gGGAkFVX3lxTE4xRUNJNzNCZEFYLWRmTFd6eHcyR1dLVlBKcGxMNzFESWFOVUFxOXI5c0FDeGZiZUlMMVJ6WlZqcGdwSVROZmdYY3dEVFZZQ3B4UU5GU1dnSGwyUmZ3c3ZtcW9HVFJTMUUyRWprTVc2dnN2d0kzdTBPTEJBN1dkeFdvdjU3SFVrQ1F2Qi1RZlFPRmpPLWdlbGFVZGhCTnJZSTZvMjh4bGx5YW5XN2FzbGRWa2dhaFlScEFrZE1jMjNnUlFwZGhBd081NEwwRVUzcndSUkNycnItcXNrR09Uck5OLU8yZTdhTld5SGszc2ViNFhDdkxxNjNzSFpGb1VxSXg3YTNVckE?oc=5",
@@ -12701,6 +12759,21 @@
    "fetched": "2026-10-05T13:49:03.115534+00:00",
    "visas": [
     "asylum-policy"
+   ]
+  },
+  {
+   "id": "a20155225d29434a",
+   "title": "OSU leaders push for long-term block on student visa limits - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMW9DQUdOS29OcXgwSTVVZ1EyZVlXWUlYdDZHNnFWYW5TcWsyeHhmcktLVWFrWjBocmJWWEZyeEdPcEZJLWRVWGhWSUZKSThXUFFLaEFsWkNBMm9malQ5emdPbTJvaC1WTXc4aUFsZzN4SG92ZkNvOXZBT2dhYTl1TUQ0MTJIdkk?oc=5",
+   "summary": "",
+   "publisher": "Yahoo",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-06T06:19:23.738911+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -19789,6 +19862,19 @@
     "aewv",
     "post-study"
    ]
+  },
+  {
+   "id": "b9222a46a7123fd6",
+   "title": "Fears of renewed queues for travellers as border-check flexibility rules set to expire - lbc.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVZ5aHIwV1FQSU1GM0JJbFo1eHR0emlrN0pacnpoMDRnRHdTVmhaVldBdzhEVTFMWE5fOU5wUHY2WVQ0SnRpTEhYUjhfaElJb3ZhRXJDRlFEYUFpMkZqZDdiVWtieEgyVTlaa1hyZlpLVzYzc2NiYmhwaHhubkV0TmdfVkNLS1NEalMzM1I4ZU8?oc=5",
+   "summary": "",
+   "publisher": "lbc.co.uk",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-06T07:00:00+00:00",
+   "fetched": "2026-10-06T06:19:23.738911+00:00",
+   "visas": []
   },
   {
    "id": "c12dc9baebdf133a",
