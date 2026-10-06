@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T09:46:41.865479+00:00",
+ "updated": "2026-10-06T10:15:17.031574+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -313,13 +313,13 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "308dce922644ff92",
+   "title": "Angus Taylor on economic tightrope as business baulks at migration pitch - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaW45LU05YTVWd0ZfelJtVlpTcmZCeUlQVVd2aldzR2pNcVY5WWZxUndGODR5VC1KT1hCWWJaMHlWUERDeGRsemZkWFQ0eXRyaHluSE9xWTN6dnRTbGV4SEkzZlppbmhoMDZYcTh5dkhlVkpjZXl5QXlVNXJWVnBWTzVHWGRfR1NlSVpDTS1yUGQxME1oa0FoU21xZ0t2UGVkRjNvR1J4cWh2LXZFZm5mSHFnS2xvWFQtbTNYLVZLdWhNQWJGQ2FFclBVVWJEb0hDeFJidHlrNHAxNXp6a1duNFdwd2JKbWJrV3RDa1ZsOGhmY3UtUFpNNw?oc=5",
+   "summary": "",
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T10:00:18+00:00",
+   "fetched": "2026-10-06T10:15:17.031574+00:00",
+   "visas": []
+  },
   {
    "id": "9684f7517633a9d2",
    "title": "Australia Announces Salary Foreign Specialists Must Earn Before Applying for Specialist Skills Visa - Legit News",
@@ -556,6 +569,19 @@
    "visas": [
     "express-entry"
    ]
+  },
+  {
+   "id": "4d223adffe766d8d",
+   "title": "Immigration set to be battleground issue in next election - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0M3RW01YkdxQ2ZhRFFONmp6MEQydjNobTBQLXNKNGxiNTNlcjdxN25JbmJRX1JpeUpyXzI4djk2dlY5V2JZVFYxdm9YdHloQ21uUHp0WDZJYmNoRlhRNnlKbmJQY3kzZHRmeTlIeThKM2dmR2tlQWlORENBWHI2UXhQTjlaS3ptNU9UYVV1NG1BRWZFV1NIanMxUGcyakNtZlBDQW1ob2Z1UW5jUjdTTUk5NjJtdWlQY3c?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T06:28:59+00:00",
+   "fetched": "2026-10-06T10:15:17.031574+00:00",
+   "visas": []
   },
   {
    "id": "69f332d57cb5687c",
@@ -2202,6 +2228,21 @@
    "visas": []
   },
   {
+   "id": "cb21f8c56ddb1ddc",
+   "title": "Australia Immigration Rules ’ਚ ਵੱਡੇ ਬਦਲਾਅ — Students, 485 ਤੇ Parent Visa ਵਾਲਿਆਂ ’ਤੇ ਕੀ ਪਵੇਗਾ ਅਸਰ? - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPcGE5Y0RwenA1NC0tNXBqXzdiczJ0SjdDRld2S01ZeVdvbWo2aWdUbkNjSndqTURTbDNoTkhhaGdPYUZTci13bDNSa2JsUUFkcjJ2c0E2cG5TMGdu?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-10-04T05:37:11+00:00",
+   "fetched": "2026-10-06T10:15:17.031574+00:00",
+   "visas": [
+    "parent"
+   ]
+  },
+  {
    "id": "15844c8caf3c38dd",
    "title": "Hồ sơ du học: IELTS hay điểm trung bình chung các năm quan trọng hơn? - Giáo dục Thủ đô",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObDNaMW1JWDB2Y2JaV3hfQzBib2ZRZ2NiYS03RXl0eTFKTEhzM3BaSGhBUURnQXNSQXpMekZPVXdRZnpwUE1VdWpHdFNFWGUyQWVSZ0FtSDNTb0xIOVEwUkEzNzFza3p2UWh1bjNfejVzSnl6REw5LUVKN2pORDV5VWI1dzYzUzhGaVhEN0lMVHNMTUJNUzlRUVhvLW5IQ3ZhRTNqcjg3bTlNZnpnOXlta3ZienVFWWVLc0E?oc=5",
@@ -2674,6 +2715,19 @@
    "source": "nz-en",
    "published": "2026-10-03T09:09:02+00:00",
    "fetched": "2026-10-05T03:17:05.381151+00:00",
+   "visas": []
+  },
+  {
+   "id": "c045b840785bf4ee",
+   "title": "UK university with nearly 4,000 African students faces $53 million budget squeeze as tighter visa rules hit international recruitment - Business Insider Africa",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWGJnamdYX2EzRWNKUGhFWjJNVlNlMDY0OC1RcUhzZUt5Q1B6WXV1OUlYcWhGV0N6VWNFbWxfRlpaak1ZRDFBOW1QaWNZRHVFZ1NCWUhGNFpPMWs1alJCQ296NXhFY0loVkdrdThDdGdfZnlIcGI1aHAyMWh3MHNLdFNnZU5SdTRlQk1YUXpGdjdUOVJpY0YtYXBjUV9DUk53bW5XUkN1bkhwSHliNHo4Y2F6el82c0FCZ3BLUWpSWW9fLXpMZjZnOGhpSGZ6Mmstd0UzMWpSeVJaUQ?oc=5",
+   "summary": "",
+   "publisher": "Business Insider Africa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-03T09:02:54+00:00",
+   "fetched": "2026-10-06T10:15:17.031574+00:00",
    "visas": []
   },
   {
@@ -13076,6 +13130,21 @@
    "fetched": "2026-10-06T06:19:23.738911+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "7cf2356f99cc626d",
+   "title": "Trump Extends $100,000 H-1B Visa Fee as Legal Fight Plays Out - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlk0d0RDTXpsTld4Y19adlBEc1JMVlExSDFYVFJMZHR5UXk0dlpmc2QyZE1qYUFXN2ttRWdkSXA5Z2pYZ0xQcFU4YXVIdWUzRDhHS0xDT3dCSmw3TjBoZlRfY3VEZU9DOVIwVlZLSGpia2hJM3dsdlZDMUtiUm0yOE9qcmZxUGc4bEJwUlk0Tm9OSENkNWNtWTVoMjFRY25Za096RFZMVElKNjlRSDd6TA?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-06T10:15:17.031574+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
