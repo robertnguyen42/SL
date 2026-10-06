@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T12:18:30.689410+00:00",
+ "updated": "2026-10-06T12:50:00.304005+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "au-student",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "au-partner",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "6d7ee4c5eeb5f4f3",
+   "title": "Tom Purcell: Can you pass the citizenship test? - Saratogian",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1BtZnFndG1kSF9ZVmxQTV82Z0loZGR0TFJTM282UnhmejJMMjVmLVQ5RHRvaDNqMGFNUi0yMnBXSlA3YVVySGZSSUxfYmRSdXZXRDRhRVNwWlE5eDRBeWROQ0xrVHBraG11QnFteU5oYXB4V0xEUjFGanNQdmxQb1pEZDdHWG50NVRCVQ?oc=5",
+   "summary": "",
+   "publisher": "Saratogian",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-06T12:31:16+00:00",
+   "fetched": "2026-10-06T12:50:00.304005+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
+   "id": "93a4044f1d33aa05",
+   "title": "Intermestic EB5 Fund II Wins USCIS Approval for Cobalt Processing Facility to Secure America's Defense Supply Chain - markets.businessinsider.com",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMEplZDdqRF9ueWRrZC00UzJ6ZDhzME1IRGp5YTR2aEhCSExMX2hxcGpWVF9sdW85UkNEaXIzM2owejBQSE5wQ3pZdDhPMlJYbHFqY0xJLTAta0cyc2YyVy13YXNFU0V2OWx4MExFU0RFOEJIVWhVQ1dMcHJaU1o0c2J2cUVCMnBhQm9OZG1EWHNrLVE1R3R2Yl9VdTN0NXQtVEwzaXNkWHc1eVpDX25jd1piMDEycHVKa2RiU3ZxVUM3eDA5cnNkWTFhbnI3anJlUFZVejhzTkt0LWR5cHhrSDVNVmZiOVNNNmoxZkF3ellUREEtMjdXVHh0eEU5WUJQLVp6bg?oc=5",
+   "summary": "",
+   "publisher": "markets.businessinsider.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-06T12:25:31+00:00",
+   "fetched": "2026-10-06T12:50:00.304005+00:00",
+   "visas": [
+    "eb5"
+   ]
+  },
   {
    "id": "128be24697a06bb0",
    "title": "EB1A Experts Analyzes EB-1A Visa Bulletin Trends for India - EIN News",
@@ -474,6 +504,21 @@
    "source": "nz-en",
    "published": "2026-10-06T10:46:29+00:00",
    "fetched": "2026-10-06T11:14:32.769357+00:00",
+   "visas": [
+    "family"
+   ]
+  },
+  {
+   "id": "a8cc4a25c5f0c546",
+   "title": "New Zealand changes parent visa selection: How the new rules work - business-standard.com",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY3A1NlFqVnBzNHJYaWRqRjllSDVsVHRtOEs3cDNuRWJrN2ota0d2bm9xb2o5bHRJaTNQNzcxci1tNWk2TnlXSU90Zk44YWpvemdYMGEyUmc1bjVmZ0drbDN0akw4XzY3UnV4bkpJM2UyZ0Vwc3hJRkV4cFF6aFE1bEY4NEdIMVM2VktyWlREU3FqanRGekQ3ZXNwNmpJZTBrNFM5TW5QOGtpQ0lfVUNrQURKanY0cmtNUnVJaDUzQ1hQUm1nWUJKRmJZN3piOVHSAc8BQVVfeXFMTWNwNTZRalZwczRyWGlkakY5ZUg1bFR0bThLN3AzbkViazdqLWtHdm5vcW9qOWx0SWkzUDc3MXItbTVpNk55V0lPdGZOOGFqb3pnWDBhMlJnNW41ZmdHa2wzdGpMOF82N1J1eG5KSTNlMmdFcHN4SUZFeHBRemhRNWxGODRHSDFTNlZLclpURFNxamp0RnpEN2VzcDZqSWUwazRTOU1uUDhraUNJX1VDa0FESmp2NHJrTVJ1SWg1M0NYUFJtZ1lCSkZiWTd6YjlR?oc=5",
+   "summary": "",
+   "publisher": "business-standard.com",
+   "country": "NZ",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-10-06T10:46:29+00:00",
+   "fetched": "2026-10-06T12:50:00.304005+00:00",
    "visas": [
     "family"
    ]
@@ -11662,6 +11707,19 @@
    "source": "au-skills-in-demand",
    "published": "2026-09-21T07:00:00+00:00",
    "fetched": "2026-10-06T08:46:54.273124+00:00",
+   "visas": []
+  },
+  {
+   "id": "32e1d25a3e044958",
+   "title": "Australia changes visa rules: New curbs for students, visitors and working holidaymakers - CNBC TV18 - LinkedIn",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEpDYkR3TE5hRF9sc3AxWGw3bFN3TXd2dWwwVWdkSXdPOXY5aGpaQV9UZnNfd2ZIYks3cTFESTVFVUNrZGF4alV3X1IwcEhSNzVrdkd3ZDBibU5LU0dweWZXWGF5NmE3bXJQQVJNM3lTS3c3LUhsd3NON0VudnBkMVVreUNZRkhVMTdKYm1RSkQ3azQyMHdkMGppX1p4amlXYUVwNFZEQTFIbVlfRllYNEZGS1B1M3RR?oc=5",
+   "summary": "",
+   "publisher": "LinkedIn",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-06T12:50:00.304005+00:00",
    "visas": []
   },
   {
