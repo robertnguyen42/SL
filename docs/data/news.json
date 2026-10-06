@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T02:45:55.487278+00:00",
+ "updated": "2026-10-06T03:15:10.854268+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "eu-gov",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "au-student",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 10
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -420,6 +420,75 @@
  ],
  "items": [
   {
+   "id": "d7b59f5e3b2e48e3",
+   "title": "Biggest migration cut in history won’t hurt the economy, Taylor says - AFR",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUFlZXhiMlc0bnllSVl5b3BZczZsMkdNU2QySXROWEx5TkpOME96dVNYWUhtTldEazFsSEJsa0huWGRERFNaSGtpc0FMSlRDU3BGb0Z4S2FFR0IxRGFRbG85aTMzQk9MX2k0UHRIUmNHZWJKLXhiSXdKX3dZeW9adlNNalV4SmF4WGVQSFJRckNMZnl3Vm1QVS1hTWtPdkNHZTZCQ2FIWVAxWDlGeVRFSXRtZTJ6NXFfZTlNbw?oc=5",
+   "summary": "",
+   "publisher": "AFR",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T02:17:00+00:00",
+   "fetched": "2026-10-06T03:15:10.854268+00:00",
+   "visas": []
+  },
+  {
+   "id": "7a8933207cb0fc6f",
+   "title": "Queenstown Cable Car Attracts New Zealand Golden Visa Investors - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmdSOHZRREdXdWRyYzl3UksydU5hV0phaFZ4VUFUMXVnel9TNF9RcWhSM1ZVeFBuTjVXRjN2RWxvek9pdVVTdExIbFBfOVpPRDZDdEhwYUV3Y1pGSEVWUi1Zc0dqTFJkUTk1R0VvLUtsTkRkdFFpZXlycDgxeFZpeC1FTXZUeTlxd2JiOFhsXzA0alUtSFRSWkMwTmFMMmhEWTFfS044azUybnU4bmQyZUtSTVY?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg.com",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-06T01:28:00+00:00",
+   "fetched": "2026-10-06T03:15:10.854268+00:00",
+   "visas": [
+    "investor"
+   ]
+  },
+  {
+   "id": "3c1b9263b2db54af",
+   "title": "Coalition releases long-awaited migration plan - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeGUyeGRUdHBTV3hMSW5taFI3YzJBNWZuMGhiOHo5Y2sxMjFsYU1vV3pfWTFVblV4dkZLc3ZLUmtrTm1LS0R0bHg0Ym1mVjlyVEg2d2ZNSHRKWU5kN1gtamJoVE9OSW1RY2pSVEZsM0Q5Z3Y0dEFJb2k0RTQwTDROMkg2VWFXZER2OVZsUkNEbEw3b3NkNVc1STNVWlV5NmJZMmE5S3lWM2E2VlpGQ3JJZERDYkZnRVdvTHZiSUJNVi1FV0dXbXdaLWpNb0NFbTUyMFFSMWZENXJESlBpU0pkWV9vZk9CMXpPZVBnazNlUlp6bTNjZlE?oc=5",
+   "summary": "",
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T01:00:06+00:00",
+   "fetched": "2026-10-06T03:15:10.854268+00:00",
+   "visas": []
+  },
+  {
+   "id": "3f004996e45743e3",
+   "title": "ACR joins coalition opposing H-1B visa fee - AuntMinnie",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUo1c0dnQ2VvenpHaWtsdE5UaU9QRy15UWRpQUpSNlhTV1daV1VfODhmVXoyTUltLUZwcHBVUjNINDl5QWVYR3NpSTFxUjNnc3Bac2NjRlhzaVNLTnhCVkl4OGZjSkJkc0pqamdjQ2dpMGZ6S1J6SDJhREVYM1VPOXp4N09nc1JvckdueWs5U2pkdDRnNHUxTmg4XzliUURHQzloZE9jRnRnbEs4enpvd2tvN1htUThGSVhSeg?oc=5",
+   "summary": "",
+   "publisher": "AuntMinnie",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-06T00:51:06+00:00",
+   "fetched": "2026-10-06T03:15:10.854268+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "1916a8021f7cd05c",
+   "title": "Liberals and Nationals’ Australia-first migration plan: Cut the numbers, raise the standards - Liberal Party of Australia",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ2JMSVUybFhpMWxFSWNXbjNRNXRjeEVKTEZIQTdoYURwdXdndXBFb3U0N0FCT0lXUFpBSjJPWERMSkl2dWtRczlZYnQ5YV9fckhaR3JtOEg2TVp4TEVyRXZUTC1MU2c1SklhR1JvNGZTYkZ6ZWVPYzlydDQ4ekRDcGdndG55Yi01MjlnNUk3X2c1bzUzT0FXVkJsaWU0UFVSdVBzOF9LSF9UT1RWd3FzR1NpV0lQcEhaX0llZWJZaHFpQlF4ZEE?oc=5",
+   "summary": "",
+   "publisher": "Liberal Party of Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T00:49:42+00:00",
+   "fetched": "2026-10-06T03:15:10.854268+00:00",
+   "visas": []
+  },
+  {
    "id": "36409d9d9855e28a",
    "title": "United States: Lawsuit Seeks to Enjoin Recent USCIS Policies Affecting Adjustment of Status Applicants - Fragomen",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ0JhOVRiQzBaZWN4aXJLQnpFSmpZUEpZT2c2dXNVWmJSMTI5Y0o4anBYd0Z0UFp0STZsOEt6YVVDeHJIci1laFQ5T3VQUzNoU1c4Y1hxdmhhMU9VekRQSHZMR0VqSjBWWUxyYVlLcTVTckZrT1NOcV8tdExadWhPV1Z5QnNPeGJjcHNnTzJ6anp5QXg2Qkc1MVgzcEsyX2pULXRiYTZwcjNHekhSM1FqbmZsdGtNVVlXWjNSWVhNeUFZUjctajE0SUhDazFDX0xxUm0wY1BWdw?oc=5",
@@ -492,6 +561,19 @@
    "visas": [
     "investor"
    ]
+  },
+  {
+   "id": "181f0a2c53566941",
+   "title": "The Justice Department moves to strip 40 accused criminals of citizenship - wng.org",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdWdWaXRKZlN2NmRVajdnM2VjNVFIeVhVa1NYdy1NamhNMU45eGJyb2MzMW9ELVhUUGVJaHpGSzhmekVSZEdNWGFTQmNHWU1zdndVT2h4OUNSQ08yZW05T3NSWjRSVVpXQUtNUWstRVl0a1BMeVZtd003bEV5T2hGakktQUN1akdEUEprQ3VxSTktVDZHNGhRcW1fZGhzWUFCSzZPMWVqeDg?oc=5",
+   "summary": "",
+   "publisher": "wng.org",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-05T21:41:00+00:00",
+   "fetched": "2026-10-06T03:15:10.854268+00:00",
+   "visas": []
   },
   {
    "id": "5a7322d6a3276206",
@@ -18254,6 +18336,19 @@
    "visas": [
     "uk"
    ]
+  },
+  {
+   "id": "fe2f94d409b2ae3b",
+   "title": "Sweden tightens migration policies ahead of 2026 election - SuaraGarut.ID",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjbTIxVEd0b0VOb3NsX0ZRQ0FLZEtEQmI0c2RJZGdqNUFkMUU4U1paRzU1TXRxSzU3VXRUUVhCSndYU0xHdTJsdDh3TllzRWR4VFhndWlGaTRfNkZZbUJ2T0VaLU5hSGdENjdRUGZyRFZqdw?oc=5",
+   "summary": "",
+   "publisher": "SuaraGarut.ID",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-06T03:15:10.854268+00:00",
+   "visas": []
   },
   {
    "id": "c1c74e31222e8a0e",
