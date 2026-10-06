@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T00:23:23.557511+00:00",
+ "updated": "2026-10-06T00:52:12.985915+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "eu-work",
@@ -419,6 +419,34 @@
   }
  ],
  "items": [
+  {
+   "id": "1e1b00cbdff945c3",
+   "title": "Why do they keep crossing? Africa, Europe and long history behind migration - Island.lk",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc3NWQWRrS2k3QXotdWcwcEtYYzRTbnNFVWVhMlpyZVBVdzBPU1VTTmh6MkwwYzhvRWlMalg3UEIyMEt5ZUNfc0o4aml5amc5ZlNaSUk3UXpTUGt5V3N0aU9mc29NZHdBcHlQbWZ0aGVINmVLYlpzbzdUNE0zTV8tWHpXOG9fd0hPR1ZiTkpwU0RZV0tVYlE?oc=5",
+   "summary": "",
+   "publisher": "Island.lk",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-06T00:00:16+00:00",
+   "fetched": "2026-10-06T00:52:12.985915+00:00",
+   "visas": []
+  },
+  {
+   "id": "f5b08680c785e5be",
+   "title": "Student visa crackdown puts migration agents on notice - Information Age | ACS",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3FGR1QzZkozWnBxUXl3WHVyX0NMNktjQm9sUW1BdTFLODhGU21hRGdwcEZ3QV92LUhzeW5MeEx2d2Y4VnlZQ3BDbEdqcGhJZi11NmNpbHdGeU84WkJrdXRwOV9mR29lTDZYUWZrcERKZHlVMlIwRjIyMlhveVZfajhxYl9lZ3lQOHJnXzRxNV90QjhTaDNKZ1ln?oc=5",
+   "summary": "",
+   "publisher": "Information Age | ACS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-10-05T23:36:42+00:00",
+   "fetched": "2026-10-06T00:52:12.985915+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "3b90c30357b897fe",
    "title": "Ten Things Every EB-5 Applicant Should Know About Adjustment of Status - WR Immigration",
