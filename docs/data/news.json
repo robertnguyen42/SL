@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T15:45:59.432560+00:00",
+ "updated": "2026-10-06T16:16:39.125185+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "eu-gov",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-citizenship",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-student",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-citizenship-investment",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "nz-residence",
@@ -1768,6 +1768,22 @@
    "visas": [
     "family",
     "residence"
+   ]
+  },
+  {
+   "id": "897988108c19e4ba",
+   "title": "UK Immigration Update 2026: Graduate Visa Cut, Refugee Routes & ILR Explained - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9hREpTNTc4ZGU4VFFUd2ZQNEhKcVc5SkhKWS0zNXF4bTZQMlZmYktBLXhjSlFLOFdQbm9LdFV2SW9FUQ?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-05T12:30:18+00:00",
+   "fetched": "2026-10-06T16:16:39.125185+00:00",
+   "visas": [
+    "uk",
+    "asylum-policy"
    ]
   },
   {
