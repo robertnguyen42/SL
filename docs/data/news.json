@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T23:13:12.547201+00:00",
+ "updated": "2026-10-06T23:43:18.545618+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-employer",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "au-student",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "au-partner",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "eu-citizenship-investment",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 10
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -1022,6 +1022,19 @@
    "source": "au-en",
    "published": "2026-10-06T06:57:30+00:00",
    "fetched": "2026-10-06T09:16:15.667814+00:00",
+   "visas": []
+  },
+  {
+   "id": "68442e8ad235dad9",
+   "title": "Coalition's 'biggest' ever migration slashing has three major issues, critic says - SBS",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmRSMHFwMUZ0elNtX21nNFZFUFYtekpuUXJwa2FuaVZHaEZBZmRRT3U1QTBJcDlSMW4yY2NUMy13b0xHQURSRDVuUXNLZG5RRXFCNDdYWmtHRktxR1J5bUxhRk5YLS1WTVNGTHhRdFR0dWF3QURIUUxxV0w5OFloYlVDQjlxYmwxTVA4dlVFY0l3RUlmWE5RRGhSQ3hmY0tmSE5uY3ZrQTRDbmkzSGV4c1FDcTFLVzUzTGVpeDBqc2ZzZXZ1dHJOUw?oc=5",
+   "summary": "",
+   "publisher": "SBS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T06:51:31+00:00",
+   "fetched": "2026-10-06T23:43:18.545618+00:00",
    "visas": []
   },
   {
@@ -11661,6 +11674,21 @@
    "visas": []
   },
   {
+   "id": "ba9635918a479e53",
+   "title": "Trump administration spends $410 million on deals to deport migrants abroad - The New Voice of Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObUgwVktnNU9hYzFtMFE5WHRhM2NkcDgxTC1STjhrUWtRa2RlVmVTTDdzWkljaWxleDZmSTItcTVlb05SZ3hzeE5XdGdtQm45U3F1U29WcXA2YkhnVHdDbGdGbDlLZFgwNGZCaHc2Z1pMdUxmR3lFVWI1SHFGNGpVOXpzVktyNE93bDJRSkdhNDFiQ0dVdE5aY1RSc1JpMjRVb2lvYTlIMDRrMnR1YnI1NFZkYkNzOG9xQ05JdGRvdmR0blVycEVv0gHDAUFVX3lxTE1TVmxROWNPaHpTdVctaXZ4ZnNwX2hEWnY4SlgyNFNNc3VQMkNwZXhwbFRpQ0pxeUstSTkyeXA0c2lTTlFtZHRmMTdQeEtBNHY0b2IyVXhMNlpEbkJGTlQ4M05xeVpsUUMxRmItbV9OVHVuX2lKNVJONUFuV3NDcDVxY3g2dXVLYVBleTRINVFsXzFKMG94blVyRF80Z1dHX2VCRmZ5R2xIWmJoOGlzOVAzVE13cjdDMXZ5SXAwcjhnc3hCUQ?oc=5",
+   "summary": "",
+   "publisher": "The New Voice of Ukraine",
+   "country": "US",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-06T23:43:18.545618+00:00",
+   "visas": [
+    "asylum"
+   ]
+  },
+  {
    "id": "15deb630b6ae09dc",
    "title": "Úc cần thêm “baby bonus” hay nhiều người nhập cư hơn để giải quyết bài toán dân số già? - SBS",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc3ZkMUluUThLamUzRVdXbHAyZkVHMlNFZzlpUmhLSTlGYkVyaHhuT0RTcFc0N2l0V0wyaFJ4c2xucHd4bzhob21GVW0xWnU2dEZmVVNkVl8zN0F3YWZ6M1ZGRGo2THdpemlyWVljVVpwM1BGaDlVdzgzZURhVTBHUy1HcUpoN09pQjBkS2tIcXVfZ0FpNTJLdGtCd3ZLcTc2LWhaQTZvVkpNTFdvMGNhRXp2NlFUSDd1Tk5DTWhXWFZSMEdzRWJFaDBfNlFMRHItUlZxTWk0dzl2RkFISm91YWJOa0EwNFdoalp3SQ?oc=5",
@@ -12434,6 +12462,21 @@
    "fetched": "2026-10-05T02:21:52.485743+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "66fe2a9e31a6cb1a",
+   "title": "Canada names 6 study programmes eligible for post-graduation work permit - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNl8wLTVfZzl2d1QxNkY3VHptcFEwVjRVUnlWWkVTamNIYjhDYjFoUXdncnc4WWNfZDk3VXUtcVNzdW10eWRjRmV4YXFxenVkcnBYcFRMZ1BqMVVveFpnY2o5OG1PSUFtTEVoYWJCdFF1SXBuYkV6WjFEVHNKUE5JVDRYNlZCVFNObk5YNEJ6QnhkZkZrVVhfbTA0dzF6OW9rZFE?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "CA",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-09-20T07:00:00+00:00",
+   "fetched": "2026-10-06T23:43:18.545618+00:00",
+   "visas": [
+    "work"
    ]
   },
   {
@@ -15567,6 +15610,21 @@
    "fetched": "2026-10-05T21:50:58.981155+00:00",
    "visas": [
     "pr-citizenship"
+   ]
+  },
+  {
+   "id": "47a61747734fdc04",
+   "title": "UK names visa options for work, study, family reunion and tourism - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTF5TTlDTnhYWWpteTVMRTYxR21rTEh3cllTb3BxdWFSbU5JaXlyeGIzcDNPQWpHWndSRTlxanhKRzg0bzJJNVplZkN4V0QyM1duR2dMQkRBdkMweG5mVEZKRy1pcVV0RzB1aWpwclJRVFlDV3gyOXJBSFh2alE0bmg2cE9Kc0M1bkY5eGpSSkNUXzd6ZHZSTWhSUWpaSWZVN29ocFFVUQ?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-06T23:43:18.545618+00:00",
+   "visas": [
+    "family"
    ]
   },
   {
