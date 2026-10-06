@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T21:43:50.239857+00:00",
+ "updated": "2026-10-06T22:14:47.740492+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-employer",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "au-student",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "nz-residence",
@@ -1062,6 +1062,21 @@
    "published": "2026-10-06T06:28:59+00:00",
    "fetched": "2026-10-06T10:15:17.031574+00:00",
    "visas": []
+  },
+  {
+   "id": "7e72fd6fd527b76c",
+   "title": "The Coalition’s migration changes would slash international student enrolments - The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUoweWNUNVBoZnJKVFhOVUxMNnlvRGh1bEt1RzVhWi1EbTBBUk9iV0xMZk90blFnb1BscW15dHBUT3ZGTVNsWHBEZFZMMjlQUW5INnFBRjFPNy1US2VIZzZzeEtRNVBIZWNpZ2hBeUhSSmRJRjdzM21IRHhyZXA0b3czQXE4akxnWXNQZFh2a0twbU1fMnptRVdiQ2dteEdhckphZ2IxTzdybjY4Tm9zZGxB?oc=5",
+   "summary": "",
+   "publisher": "The Conversation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T06:24:43+00:00",
+   "fetched": "2026-10-06T22:14:47.740492+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "69f332d57cb5687c",
@@ -8565,6 +8580,21 @@
    "fetched": "2026-10-05T02:21:52.485743+00:00",
    "visas": [
     "golden-visa"
+   ]
+  },
+  {
+   "id": "32598581de9849c9",
+   "title": "New Green Card rules that came into effect starting this September: List of categories subject to the changes and those that are not impacted - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPWDlUU2o2RnlCN1lzeDFCYTZVTkUxTHlrTGNyVmNSd0R0M2hJMjRIcm1rUUtsQWtJbjczUzdjYmcyRUc0QnZpWGxkUkxWYm1IS2VPWFFJdUdBVnZsQk96OXp6U2Job3hOUGZEdGVGTnB1cDNlRTUxVXFlMVMtNF84OG9FSGRpSVBDSThJaUxtV2FyQVNqa0l3ajNJbjVEaGlkeE5hby1UVmpta0pPSnF0Nld3UGluYzB4a1hScE5JOVFQNWZScHBXTEF2MExnUDA4WDhEeE1WZlZNaExtblh5Mk8zYUhQbGxGYjJnVGhaOTZOalMyVDRhRlNMa1dhbUlVbk9lWG1uYV9PdE9OTC1qTzh2d0tGMmlEcFVSREtQRXZSNUJaNl9CMDBvdXFFQnJKblZlcWJINDFqUGNoc2ZydTlMa1pXQQ?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-06T22:14:47.740492+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
