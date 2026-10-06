@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T02:14:57.648826+00:00",
+ "updated": "2026-10-06T02:45:55.487278+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "au-citizenship",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-citizenship-investment",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "nz-residence",
@@ -791,6 +791,19 @@
    "visas": [
     "visitor"
    ]
+  },
+  {
+   "id": "f03d29e73207123e",
+   "title": "'Illegal workers' arrested in immigration raid on DPD delivery depot in latest crackdown - AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaTNETEhCdWRld21fNlpaS09GUWJ6c3Z0WFU4bWV4cE9lQ29ld0Y3R1c0TDJscjdKa2c5VXdmcUZQZm5uOFBpQURMWElVRTlXQ1U1NEpPSExiaGEwM1FxNnhjRTVISFV4X3VGSW5QQUhDcnNoV190SklCa1U4V3FwYXl6WnJYRGFqVmZ2Ukw3SnM?oc=5",
+   "summary": "",
+   "publisher": "AOL.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-05T12:41:04+00:00",
+   "fetched": "2026-10-06T02:45:55.487278+00:00",
+   "visas": []
   },
   {
    "id": "f7819b79ccce8b72",
@@ -1595,6 +1608,21 @@
    "source": "au-student",
    "published": "2026-10-04T04:31:00+00:00",
    "fetched": "2026-10-05T15:48:08.850984+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "a8394c66782a6d22",
+   "title": "Nam MC duy nhất dẫn Đường Lên Đỉnh Olympia đúng 1 mùa rồi rời VTV: Tốt nghiệp Ngoại thương rồi đi du học Úc, từng làm Giám đốc ngân hàng - CafeF",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc2FRSTNfdjJISVR6VWFQYUN2S0NMTEFFT2tRVnF5R3ZGQmVIWTFrUUxfMm8yVTM0R2dxR3ZPNWxKVmluaUtJbFZETFZLSGpnQXo4OGltMm1GNjdUTS1GOGE5ME1rV1pFRWV1amlGRHFfYndDNEs4V1p0T0NuaG9DcDdDZ3ZEbjhYSnFkSk9wUHloemFJejUzV0ZGZFV6bXFhVS1NM1ZWUmtJRXdHSHNhbi1leXpkdmhOMDEwR1U2UVMxSXZWZnJvTVNBRzdSZ0NsYVp4RDJYYzRaSVlPMFloSHZybXhkbEJVNTlINFZIS1NGWGhOd2tRYUV3SVdoOXpYYTRXbA?oc=5",
+   "summary": "",
+   "publisher": "CafeF",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-04T04:07:00+00:00",
+   "fetched": "2026-10-06T02:45:55.487278+00:00",
    "visas": [
     "student"
    ]
@@ -14970,6 +14998,21 @@
    "published": "2026-09-15T07:00:00+00:00",
    "fetched": "2026-10-05T12:20:15.961810+00:00",
    "visas": []
+  },
+  {
+   "id": "148d11537b91f85f",
+   "title": "“It’s over”: Canada scraps permanent residency exemption for a group - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2J6dG1yREFPX0w0R1ZTN2haWHRUc3ZjV2VrQzcyLUp0NnptbXhHNWpDUi1kbWUxS3BaYVFwMzJjcDJPRHpvaW01cVIxVzdPaEpWS0w4WjV1cmc3QzJHTXIwWjFlNkxRQkNfYnM4OWQzVkxvWDlvZTZ0YUdtVkRISmFvVERwWU9LOXROSl8tVGRoNGZPY3hCbHF6WS1IOV9ieGlOY2lFcTI1RTFlR2c?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "CA",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-06T02:45:55.487278+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
   },
   {
    "id": "c9bbe165fb97e3ad",
