@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T19:13:51.711855+00:00",
+ "updated": "2026-10-06T19:44:41.650611+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-gov",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 36
   },
   {
    "id": "au-student",
@@ -205,13 +205,13 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "us-eb5",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 38
+   "count": 36
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -634,6 +634,19 @@
    "source": "us-eb5",
    "published": "2026-10-06T11:57:04+00:00",
    "fetched": "2026-10-06T13:46:48.085880+00:00",
+   "visas": []
+  },
+  {
+   "id": "f7490744e6e5ac89",
+   "title": "Canada Updates PRRA Rules for Nationals and Former Residents of Israel and Palestine - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGc2QXlHdlhFWWp4MUJaSGd0SnpMZ0pSemh3N001TzlySEpGemlOSHJfdkUxazR1elNiel8yRDJZclhwYXR2OHhCRFlzMDVxb19vWTVZdkNMbEd6dTZRNVQwOGswWjVJbDdPSF9welA2REs2Tkx6NWd5Y25JUmNEdHNvSXBTR01Sd05vVzcwd1ByUDhrMzI5eFVWSThGVHVHQklydEFBYzE5NlROZmc?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-06T11:46:34+00:00",
+   "fetched": "2026-10-06T19:44:41.650611+00:00",
    "visas": []
   },
   {
