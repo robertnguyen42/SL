@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T19:44:41.650611+00:00",
+ "updated": "2026-10-06T20:14:54.887618+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 36
+   "count": 39
   },
   {
    "id": "au-student",
@@ -211,7 +211,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "us-eb5",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-citizenship-investment",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "b2f4f17d6c202a45",
+   "title": "USCIS Changes How Filing Deadlines Are Calculated: What Employers and Foreign Workers Need to Know - Reddy Neumann Brown PC",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVpZZkYxMmJXb1ppcUdNRndmWUJwZUowTHplaDRtUXRBTHBCRjVycVAyU1JiRGdBLVhfSzNSbUlSUDc0bEhTeW9qcHJCY005WkZMRFQ4cjNzOTVXdWVlMlN4SmJXN2VGRjFFWWlOaTZUM2tzcUxyN1BYZmlXZkVaN2kwck84YkpuanFqMWpwR2x3NXEyQlRodDRPa1F1dXRSQWZqSi02d2l5YThqSlM2cWpwR0NEdlY4bm1uZ3Z0SHIxcTA?oc=5",
+   "summary": "",
+   "publisher": "Reddy Neumann Brown PC",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-06T19:52:21+00:00",
+   "fetched": "2026-10-06T20:14:54.887618+00:00",
+   "visas": []
+  },
   {
    "id": "a35eedb61650afd8",
    "title": "Received a USCIS Letter About “FBI Privacy Requirements”? Don’t Panic — Here’s What It Means - Reddy Neumann Brown PC",
@@ -445,6 +458,21 @@
    "fetched": "2026-10-06T18:49:41.545609+00:00",
    "visas": [
     "eb5"
+   ]
+  },
+  {
+   "id": "4425bdac83a3e5d9",
+   "title": "Judge orders immediate release of Louisville woman detained by ICE after green card interview - WDRB.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdMcVlvVV9wd2k3TVdIVFZyWUpkTHlSQUU0eGQ4aVZyWEsxaWUtQS1ROGhVUmRsTkVzWk0tcWdCQnRPQjYweU9YRi1xem5aaXpBNDJsNEUtT2ZIOGxKT3Z2Y295ajlSMUM1TDFpTkJtckVZQUVUSlJCQ1dKelI2RE1INDdfcXFDRXpqTjJmRmxUTnRvSzdna3pmNXFnVm5UaXhteVJDQkZQQjFRbnB6QnBpZkNILWhkMkVSSENxSFh0REdOZ0HSAdoBQVVfeXFMT3RBajdFOWk0Qm9FaWVnemxuZTQ1OXVBZXB4VWdXUXl6dG5weEJKOU5HN3ZycGZHd2VVSGpIcjB5U0kyTUJCdzFGb0dwY3ZkTlNQWnJnMGQ4NTN3ejRjWGlJVXpCQXRFYWl6dmRhbUxSNFBpMmZoeEVvLVk3aWtxMjhtQWVCNHBMV2JlQ1lXM1NYVDFfeEx2QkdWQ2FWeDFyX1ItZFFYb0p4NjQ2bGlCSmdUeFlldGdrc1dlQVJPbXZ5Z2RBQ01lNmFLYl9XeUZWNEdQeXltOHpxQWc?oc=5",
+   "summary": "",
+   "publisher": "WDRB.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-06T18:06:00+00:00",
+   "fetched": "2026-10-06T20:14:54.887618+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
