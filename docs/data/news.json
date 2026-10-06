@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T11:14:32.769357+00:00",
+ "updated": "2026-10-06T11:45:41.585871+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 35
+   "count": 38
   },
   {
    "id": "au-student",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "au-citizenship",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-student",
@@ -313,7 +313,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "d139a99555de9fdf",
+   "title": "Australia Migration Changes 2026: New Visa Rules Explained - IndianEagle",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDBnLWJZY2psN0N1dk5uQ0hhRndPczBnY2V1QmxyZy1xNXdQNUdqSDFEZVd3SGhYNnNUaFI0bkpoN3A3Vkx0eUxhUXVMQVFzRFB5SEJldEl5UEs4VktmR1FBeTI1RklsamY0S0NHdk82UERVUmNhNFdQX2RNRWY1c3laSFd3SXRpOC05ZQ?oc=5",
+   "summary": "",
+   "publisher": "IndianEagle",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skills-in-demand",
+   "published": "2026-10-06T11:30:23+00:00",
+   "fetched": "2026-10-06T11:45:41.585871+00:00",
+   "visas": []
+  },
   {
    "id": "88cc4fc195c5a7a6",
    "title": "New Zealand changes parent visa selection: How the new rules work - Business Standard",
@@ -460,6 +473,21 @@
    "fetched": "2026-10-06T10:46:52.170872+00:00",
    "visas": [
     "skills-in-demand"
+   ]
+  },
+  {
+   "id": "dddc468179903e54",
+   "title": "New Canada Immigration Levels Plan 2027-2029 Coming By November - cic times",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1ZUckFqeFBIdnh6NWxkc3Z3MnU5TkctbjVfQlQzSFZIVFdHd0ozeUd2TC1OYmxrZzk4eWhvRUw4QWtYeGR5cVFjWmRNcDhUWUQxTjRzUWxGSy1ZRDI1V1BEN2RDSlJ3TXd0cUFIbkVEa2hObnkzSTFLQjVtQ0V0MkRRaWNZM3pVa2VZRzZ4WEVpQQ?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-06T10:18:00+00:00",
+   "fetched": "2026-10-06T11:45:41.585871+00:00",
+   "visas": [
+    "pr-citizenship"
    ]
   },
   {
@@ -664,6 +692,22 @@
    "published": "2026-10-06T06:08:20+00:00",
    "fetched": "2026-10-06T06:51:21.918612+00:00",
    "visas": []
+  },
+  {
+   "id": "063068a0c063ff3e",
+   "title": "New Zealand Introduces New Parent Resident Visa Selection System for Families. Check Your Eligibility! - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTXQwd2wyS2NGWGpaN19BS2tXazg4T3ZDNFlOUlFtTmJ6Zy1LUmZDNGxzLVc1d3p0YmQ1QXd1RHJxRjVlS3BZclBZQ0lYbFJHOU9sV2JBbzNTa2ZUNHREQ2ZhMWkxWVRxakw1WUZtbUtzWDZlY3VXdG5JZmg2SVl1QVdVb18?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-06T06:08:11+00:00",
+   "fetched": "2026-10-06T11:45:41.585871+00:00",
+   "visas": [
+    "family",
+    "residence"
+   ]
   },
   {
    "id": "a02c6cd708db8cd6",
@@ -14271,6 +14315,21 @@
    "published": "2026-09-17T07:00:00+00:00",
    "fetched": "2026-10-06T04:16:12.432791+00:00",
    "visas": []
+  },
+  {
+   "id": "80ae9b97ce36171f",
+   "title": "New visa curbs hit international student recruitment - University World News",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnSXphVGNGYXRkZ1lwcXFLUG14dXNyMkJzcXN3NVpvOGpLYy1NSC1faTFtTW9mYWQ2YUM3eS12THdxdDlCSWNWaFhlT0w1anhxbEp4VlRDeVgxeDNyR0l3T09mUndGVG0yc01QVmpnMUF2cUxHMktz?oc=5",
+   "summary": "",
+   "publisher": "University World News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-06T11:45:41.585871+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "1de8ea0df6bb963c",
