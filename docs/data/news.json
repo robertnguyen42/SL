@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T03:46:25.831086+00:00",
+ "updated": "2026-10-06T04:16:12.432791+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-student",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "fc9837f90d3c1b22",
+   "title": "Úc siết visa du học: Hạn chế người phụ thuộc, thu hẹp đường chuyển sang visa sinh viên - CafeBiz",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLV8xajdmOEVYVENISE1sRDJTSGpkOTRrQ0FaUkFSLWZRbUp3b0pHVm9yeE8ydjZMbVFZQm1BMmY1VG5EcFR3Y0oxVXVLY3o2NG1qSkFvbjVwWUZtdWEyaTNkNUpiSXBMa0tVWURBMmNrQ1JMMGdpUzR6ZEVJTjNCbWdPLXZtMW1YdlpGekpRd3lMX1FpWmdmYjZlNjQzdHpIRmxFanJ4empCbFZhZUhCMi1PVzNrVDEzWnBrUmJULVZhVlk2?oc=5",
+   "summary": "",
+   "publisher": "CafeBiz",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-06T03:42:00+00:00",
+   "fetched": "2026-10-06T04:16:12.432791+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "007981eaf1e7bcd9",
+   "title": "Pilot accused of cockpit attack spent months in NZ on student visa - ODT",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVW5oeTJ1ckR0cUhuZ2hWejI1eVUwUHFiUW9JdkltWHVYRFlPR09ETG5UVE9iQ0xXaWZXdUY0cHk5blpHU1ZVYWR6ejE4TXdZQTVlYmd1QS1fMF9pNUlVckJQX2hySmphOERoU0VlcVJGNFEyZnNkazR6Z21MSjFuZUh3ZUI1bkk2WnNNYzhPa0dnLV91dVFmZTFNaGpaLTFuS2haMmJ0aG1fSm91MVI4cA?oc=5",
+   "summary": "",
+   "publisher": "ODT",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-06T03:30:48+00:00",
+   "fetched": "2026-10-06T04:16:12.432791+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "ae4a4421bc79aa94",
    "title": "Australian opposition party vows 'biggest cut to immigration' in country's history - The Straits Times",
@@ -431,6 +461,21 @@
    "published": "2026-10-06T03:23:00+00:00",
    "fetched": "2026-10-06T03:46:25.831086+00:00",
    "visas": []
+  },
+  {
+   "id": "4f30203c57261139",
+   "title": "FlyDubai attack pilot was in NZ on student visa, police confirm - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3lhZWEwVGJkbGowaGlsOHM1ZGxMb3ZHczk1QmJoRmktSnY1ZnJTVUtkcFRfSEhzN0pVR1cxSi0zbXhwbFJ5Y1U3STltM0JPdU1qYzdzX1FoM3JGdWhlNHJhY0JlQi05WDZLR0VCS1B5RnZYV3BrZUF5QUZwaHJFcF9KNllfSmhaV0JaV01GZ3gtWnJMMGhXWWw1SlBWa3NlWXZ1WDZ3?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-06T03:11:19+00:00",
+   "fetched": "2026-10-06T04:16:12.432791+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "d7b59f5e3b2e48e3",
@@ -458,6 +503,34 @@
    "fetched": "2026-10-06T03:46:25.831086+00:00",
    "visas": [
     "citizenship"
+   ]
+  },
+  {
+   "id": "e42170758735e4f3",
+   "title": "Saskatchewan SINP: final 2026 intake fills two sectors - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52bmo4T2hMTmlmN01nR0xzNkVMcjVzX1VtU2tJNGtxRTJOekRacjZ0WTVwakxVVUdyLUJYU19mVXBOdUZsVk9ERFkwR2g3V0dzSVh4MmJZUnc1MklqM1FzNUk3MmE3clZ2SGQxNGxDbkl6TENsYTJQOUNtTQ?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-06T01:51:56+00:00",
+   "fetched": "2026-10-06T04:16:12.432791+00:00",
+   "visas": []
+  },
+  {
+   "id": "bc22c71ef5297528",
+   "title": "Australia siết chặt chính sách nhập cư: Chặn cửa nộp visa du học từ trong nước, giới hạn đưa người thân - Docnhanh.vn",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMDcyOWt4bWQ0UUszbUZVaTNKWDNEQ1hiM1ZGRWlQSEJUU2pab25YQkgwRkljVlN6QzJQNVZmX3FxWGtIYVJrM0NMQWpGMUd3MzgxejhjaUs4bHF3T0N3UFVnQVJYNjEtVWJxMXhCeEZKNUtjcExZa3ZGQTN5SEZwdUJyYWxmY3JrdVRxVG9veEFEclNnN2VzM1ZWZFZPSUhGbmUyVVdINDE3MmZ6V3g0a0NKRmRVbGNKeXVkcEVvcERQWW95cGE2eWZ3Z0xUcGNZN3piak45UzZsZGRh?oc=5",
+   "summary": "",
+   "publisher": "Docnhanh.vn",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-06T01:40:54+00:00",
+   "fetched": "2026-10-06T04:16:12.432791+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -1177,6 +1250,19 @@
    "source": "au-en",
    "published": "2026-10-05T09:00:00+00:00",
    "fetched": "2026-10-05T21:50:58.981155+00:00",
+   "visas": []
+  },
+  {
+   "id": "e4f3ecc81eca380a",
+   "title": "Taylor to slash migration by two-thirds in bid to rival One Nation - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWhBNjBDUy1EcWQ0OXdwamQ4cTZzX3JtSUVFOTZYN3hFM0ZZcFZfOEZVTVRwbS1xYUFVY1FXMDJwdi10cHE3S19NcWRTV2tQTjZlS19UQjFZZ3M4TFJDSmxhbUpwY1Znd1BKRE5HbHFGbjlUSHU3VmpEb3pRVVdHdVpWblBvT0VjRW94cWdrWUV6RlNyQ09aTDNjRGdfUlBzZFQ1anNqaGNvNHZ6SGlJUktGZmttenFKQmFOeVRZeXVCRzJRT0E?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-05T08:45:00+00:00",
+   "fetched": "2026-10-06T04:16:12.432791+00:00",
    "visas": []
   },
   {
@@ -9299,6 +9385,21 @@
    "visas": []
   },
   {
+   "id": "e02c003b8877c5b8",
+   "title": "Qatar Announces Only 1 African Country Eligible for Free 30-Day Tourist Visa - legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUVLZk5TZnptSW52N0JwRThQaExKNmNzampDbTlORU9MMEpsQ0FScXUyb25XeXBMSXVLNVJqSjBYd1drWUt1MG5YUkRBdjI4czJGcFBQRnZJdXBDWVRRbl8yVmNZbjNab2d2VV9MM3ZmcXNNYjQtcWRYQ3MySlZVTThLUGd1NmlHREdmRXl6bDFxazZLUDcydzJMNHlfb3BNS3BPR3Robw?oc=5",
+   "summary": "",
+   "publisher": "legit.ng",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-24T07:00:00+00:00",
+   "fetched": "2026-10-06T04:16:12.432791+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
    "id": "671ed9f03ca957ca",
    "title": "SOTEU 2026: What is European migration policy becoming? - Voxeurop",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VeVZ6bkREN1NDQnFEVEVNUGhMbUkxY3JXZUJzc1dMbXlka0Y0LTc0eDZVRGhVaE1MTXR1a18tZ1JidFZPVGU2cHdEN0ZzUlBDZnV3dHJLckI3YzdMTEpuQTR0OWdPeGRndVE?oc=5",
@@ -13553,6 +13654,19 @@
    "visas": [
     "pr-citizenship"
    ]
+  },
+  {
+   "id": "b09632caff2f8153",
+   "title": "Burke says the quiet part out loud: Immigration and housing are linked - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUXBjeW42QVp2VVNESERFNWZWRnp3aUNCY1ZJdUJYMkpZNmNHMm1scWVVM3J5QmE3MnNIcks5RjhJUDdkeGlKblVJZEZ0QVl2Zk1XbDdQN3FhWWJBOXoxOW5OSFRMWFI5VFppTF9kdTVwSzA5Z2hSTmxDNTRXS0N5LVFBMFowQlJ2TWh2ZlJibHZGME9JWnl5QzdsZTNRN1VCQkxVVWdfTlFSSEIxd2JqXzcyb1NrQnA2bHlhMVBmRUVhaDRnUm55dzJ3?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-06T04:16:12.432791+00:00",
+   "visas": []
   },
   {
    "id": "1de8ea0df6bb963c",
