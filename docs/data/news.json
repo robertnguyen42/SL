@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:46:52.170872+00:00",
+ "updated": "2026-10-06T11:14:32.769357+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "eu-gov",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "au-student",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "au-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "88cc4fc195c5a7a6",
+   "title": "New Zealand changes parent visa selection: How the new rules work - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2ZmY3d2ZkEzZ3kxbWtVM0NpazR2TkM5dGh1Q2xiQ2JKV2dWOWpKY280MDlQU1k1WGFkMkhPU19WWkFReGVYNTVUOGNaRmxoajZVZVc2eW1fUnEwM29lUmhpZ1RuZ2s5TGl2dzhDUS1DeTlhX2tzY09ZYTRnYWtzdE02Nmh4RXRpeHU1Tm44U2taT1J2QXVOLXBKV1gyVGVIQmpEZW12N1ZVTFlyNmZyeTFKVklST3dOLWRwcm9VLW5nZ3BXZEVWLUNB0gHPAUFVX3lxTE1jcDU2UWpWcHM0clhpZGpGOWVINWxUdG04SzdwM25FYms3ai1rR3Zub3FvajlsdElpM1A3NzFyLW01aTZOeVdJT3RmTjhham96Z1gwYTJSZzVuNWZnR2tsM3RqTDhfNjdSdXhuSkkzZTJnRXBzeElGRXhwUXpoUTVsRjg0R0gxUzZWS3JaVERTcWpqdEZ6RDdlc3A2akllMGs0UzlNblA4a2lDSV9VQ2tBREpqdjRya01SdUloNTNDWFBSbWdZQkpGYlk3emI5UQ?oc=5",
+   "summary": "",
+   "publisher": "Business Standard",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-06T10:46:29+00:00",
+   "fetched": "2026-10-06T11:14:32.769357+00:00",
+   "visas": [
+    "family"
+   ]
+  },
   {
    "id": "9ec9775e043de32d",
    "title": "Argentina announces $350,000 citizenship-by-investment programme for foreign applicants - Business News Nigeria",
@@ -5680,6 +5695,19 @@
    "visas": [
     "visa-bulletin"
    ]
+  },
+  {
+   "id": "44f1ab7bd7bc8f1a",
+   "title": "I-765, Application for Employment Authorization - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5TRWFkTlhXdW5DMk1aLTQ3eUJIc0QtQlVLNlB6T29nOGZTeE11U2swbEh2Mlo4Nk9BWDNrVlZYdUU?oc=5",
+   "summary": "",
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-09-30T14:55:00+00:00",
+   "fetched": "2026-10-06T11:14:32.769357+00:00",
+   "visas": []
   },
   {
    "id": "ee298627822b7961",
