@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T14:17:08.243596+00:00",
+ "updated": "2026-10-06T14:46:39.196705+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 34
+   "count": 37
   },
   {
    "id": "au-student",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 38
+   "count": 36
   },
   {
    "id": "eu-citizenship-investment",
@@ -521,6 +521,21 @@
    "fetched": "2026-10-06T14:17:08.243596+00:00",
    "visas": [
     "pr-citizenship"
+   ]
+  },
+  {
+   "id": "5b240f23c5f867d1",
+   "title": "Australia’s Coalition pledges to scrap Temporary Graduate visas, cut student numbers - The PIE News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGF0V2hNR0tLeUJJZExxeS05QlZ3eUFqT2NxS1otSGFzTzVYWnVHcWp3UHl4amFXQllqY1FvaUJ3dUpVLVRERy14UW9MYy0xY3Q5OWZuTGFvaW9EdElFOUEwLW1JcjYtN2s4VWx5b2JHc0R4eU9EeUVjQjIxcHpZNW1ZTWRwYU9kTVNoNUtaWW95UEdrUkx4UnZxRVBINlI4ZGt1MFBERkIyQQ?oc=5",
+   "summary": "",
+   "publisher": "The PIE News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-06T12:20:20+00:00",
+   "fetched": "2026-10-06T14:46:39.196705+00:00",
+   "visas": [
+    "graduate"
    ]
   },
   {
