@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T16:16:39.125185+00:00",
+ "updated": "2026-10-06T16:47:37.617636+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 13
   },
   {
    "id": "eu-gov",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-student",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "65edf6cdfd29138b",
+   "title": "Health NZ chases $70m in unpaid health bills from tourists and migrants - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPendhVmpabjhoaG81Mm1DVlV3YVZ6TVYzbjNRQlRETzJia3FqanpVc09VeE9NSWIyTnA1bmtndm5QZkxuTVgxR294WjRKWEU0elUyQ2FrWUU0bU5EOGZsWnF6YWVkOUU5clZpQ1d4TTFSdGozUm1UYndRdjNtSDM5eGZjcFl6WEhTNVV0dWRIY3RkSnJ1SThyYnRFdTFHaFAwZjZvUEkxQWN6dzZkMG5YZ3V3?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-06T16:27:58+00:00",
+   "fetched": "2026-10-06T16:47:37.617636+00:00",
+   "visas": []
+  },
   {
    "id": "30bcbb6d3b7c4970",
    "title": "Canada Clarifies Work Permit Job Offer Rules For Home-Based Businesses - immigration.ca",
@@ -759,6 +772,19 @@
    "source": "au-citizenship",
    "published": "2026-10-06T07:06:08+00:00",
    "fetched": "2026-10-06T13:17:14.671517+00:00",
+   "visas": []
+  },
+  {
+   "id": "60f59a534bce311f",
+   "title": "Canada Invests $1.2 Million to Strengthen Francophone Immigration Across Three Regions - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGg3OUpNMTVPRTNZQkxPRG81NlRidzBPNW4tVkNGbTdWMmVKUGVTaVRtcHZ1cFZCVF9EWjIzRXUzd3VRa05RZllEVXBqTi14amw2X0wweDh1RmRxcDAwUVBkZk9sZmNfYkxmOHRvdXJUXzA1ZE41VmNIbFlBaVRiZlpxSVpDa3dGd0NDOHItb3NEZnljSUhtTHQzeFBhcmVJRGRBbDhVai0tZXJWdHRz?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-06T07:05:39+00:00",
+   "fetched": "2026-10-06T16:47:37.617636+00:00",
    "visas": []
   },
   {
@@ -4120,6 +4146,19 @@
    "visas": [
     "family"
    ]
+  },
+  {
+   "id": "d3271f9cddcb3b8f",
+   "title": "New Zealand Announces 4 Things Foreigners Can Do on Work Exchange Visa - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDhGVHlob3BndlFFcDU2b0sxMEpORW9Ka1VCVWlNaGRkaExsSkpjUkJ4azh5YWNaTE1WaDdXMFgtOHVpZ25HSGdOV3NadjF6SEJIeW1wTDAxelZOS1ZLT2dsSUptbGk1U2RVQkNWcmJya0NxYW1jYjZhUkw0MU1XcHVIQUhmOGVNUWNqWlZuSQ?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-02T11:45:30+00:00",
+   "fetched": "2026-10-06T16:47:37.617636+00:00",
+   "visas": []
   },
   {
    "id": "505f1f39c311fdf7",
