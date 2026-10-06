@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T03:15:10.854268+00:00",
+ "updated": "2026-10-06T03:46:25.831086+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "au-student",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-student",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -420,6 +420,19 @@
  ],
  "items": [
   {
+   "id": "ae4a4421bc79aa94",
+   "title": "Australian opposition party vows 'biggest cut to immigration' in country's history - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXJWZXNNZ1ZGdlNLY3A5V1A2U2g1ZzhTLUl2YkNSMlVpNmZmZ3VuVjFWRVdkZi1lSWlMNWFsMkVucE1CT2ttWFZ4OHlCWjFFZmc0VHRFUmlvY0VTYlRpclM0Z04ycEtDV2hRUGNVa1ZMX0J5SW4wVGhLeldsQ2NzdkxjQnFZdE5CZE1zVlpya2w3OFNPcVVvNm5mTXFMMGxHNmpVTTRLMmxRZllwZ1luSjhmWQ?oc=5",
+   "summary": "",
+   "publisher": "The Straits Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-graduate",
+   "published": "2026-10-06T03:23:00+00:00",
+   "fetched": "2026-10-06T03:46:25.831086+00:00",
+   "visas": []
+  },
+  {
    "id": "d7b59f5e3b2e48e3",
    "title": "Biggest migration cut in history won’t hurt the economy, Taylor says - AFR",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUFlZXhiMlc0bnllSVl5b3BZczZsMkdNU2QySXROWEx5TkpOME96dVNYWUhtTldEazFsSEJsa0huWGRERFNaSGtpc0FMSlRDU3BGb0Z4S2FFR0IxRGFRbG85aTMzQk9MX2k0UHRIUmNHZWJKLXhiSXdKX3dZeW9adlNNalV4SmF4WGVQSFJRckNMZnl3Vm1QVS1hTWtPdkNHZTZCQ2FIWVAxWDlGeVRFSXRtZTJ6NXFfZTlNbw?oc=5",
@@ -431,6 +444,21 @@
    "published": "2026-10-06T02:17:00+00:00",
    "fetched": "2026-10-06T03:15:10.854268+00:00",
    "visas": []
+  },
+  {
+   "id": "cab84dad42d0cc8a",
+   "title": "Lawyer who vowed to renounce Australian citizenship asks for $150k in GoFundMe plea - news24.com.au",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNS2RpbEpDcHZWR2YwUTBVbjVOOFllN190TUdvb0ctbXctU1BPMzFNU0hXQzZUcjBwTnVZWGVlNkNRMTZnbHllVWVMaktkNE1zZUowLWV2bmtTSS0zaEt2OHJkcnN2LWx5dTJCMHBDVS1oZUR2MXQtT1RNUjFVZjVLQThvZ2lvNVE4ZXluU0VkVUdial9PbjJJX0tHQ2VDRWw3eVdsR1FSVkNyZTRCS0VDU0x1Rm1lUl9GS19HX1hTOXBNSUdvcmZZUlZLUzFRbF9CbzExYVdiVUpNenAxTXN4UnFyY3VDMkpsSnZMNFZtS05EQ2huLUVtdEdGSk9VWHJnVVBnYkxTTUxpVHpxUWF4RnUtbXRfR05ZZWw3MTJiUFN4elFuSldpTWVhX2MxVERP0gG2AkFVX3lxTE1oMFhYODlnSFB0Y2VRcTFUckliZERKUmZwTFVKNGpXQnJXYno5b2hGbmxGU1pCMDNmUlBTazczUTgtMDl4ajNfSVNOeVNzZWNiOWhBOFQzVTE2c1c0SHdzbEhxeHd4enNmR2hmNUp2eGF6cGpqOWdQa2F4Z3ZxeW1EaEFwX0w0bk9CbVE0QmxjTEhnbm1pYU5wcnVyaWxyLTRVTUVxeXE5WTE0OUtZRmp3WmNibndaSG1KNzVNUTRENVh3NWFjdkpXdFI5TEp6am9qRWNGeVh5YWJvZlNQWnQyZXVCOWVTU3JDak5HZVh2N3M5bEw1Z0hJaFlSQ0dkb2hTSldOWktBN3MzalVveXRrQk9ZMjh0M0l5TGRmd3hGZzgtZWowQ21sWnpZbUl2eUxCY05IRFE?oc=5",
+   "summary": "",
+   "publisher": "news24.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-06T02:10:41+00:00",
+   "fetched": "2026-10-06T03:46:25.831086+00:00",
+   "visas": [
+    "citizenship"
+   ]
   },
   {
    "id": "7a8933207cb0fc6f",
@@ -446,6 +474,19 @@
    "visas": [
     "investor"
    ]
+  },
+  {
+   "id": "ab057e3e3d4c549c",
+   "title": "‘A home not a hotel’: Coalition promises largest migration cut in Australian history - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0dOWDdScEcwMWJyZVYxclhoWkhxRUhVbEw0bllRNW1HdTdaWE9KcW5NcVV4U3VmajR1T1ZrT3JJWWU4QjRyNVVoZ2FnUHljTUtycVd4bFRMNGZiMi14VGpxMVF0NWhEbVZBQ1FtYXNuWVJ3SGtsRnhkTDFRRWhaQXNqNkN2bnFaTnhocXI0V19jaU5SNTBwMEVxNDE1MnAwWTlSU0t3YVJtRktRTVNOV0FJTW9SLVFrbVAyQkU3cGhyN1YxQU1XTGxGM0FNRUhzQ05SMEpTMTVoUQ?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T01:15:21+00:00",
+   "fetched": "2026-10-06T03:46:25.831086+00:00",
+   "visas": []
   },
   {
    "id": "3c1b9263b2db54af",
@@ -664,6 +705,19 @@
    ]
   },
   {
+   "id": "1f163a8bdffaf8ff",
+   "title": "Coalition unveils plan for ‘biggest cut to immigration in Australian history’ - Nine.com.au",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ19CbkVOSU1NSmdYWmtNaTYzc2JuTk9pMzFWM2VCaHBKeGNiRENOVnhIeGM4WEtjV2hpMXl6SlBLZkpZLV9nMkVBSnNIdTQwb0JvWXMzSFI0NEZFVWdBOG9qRm95QWlDLTZXdGFTR0FKRGRxNWs1Z0hEMHBjQU51dUg4a2VyTDJpX0lZcnZwV0ozdVcwM1pteHBOeUszeENTRVdCTmVjREtTM0JUbXh5aE9ieXo2ckJEWDE2NXc4X2YzMnpNNkE?oc=5",
+   "summary": "",
+   "publisher": "Nine.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-05T19:46:10+00:00",
+   "fetched": "2026-10-06T03:46:25.831086+00:00",
+   "visas": []
+  },
+  {
    "id": "f106c8d67275dcea",
    "title": "Federal Court Blocks $100K H-1B Fee Pending Rulemaking - Clark Hill",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT1hONlNWczd4a01mMmlhMUxUWVFnV0VlWm5ETDQxVUNsSWY3WW8yTDZoRU1WOXRIc2FjSmVfQzZHbFN3bm1IelZSaTZRV3BIVXpQbkdUUm1WaHRvNTRQM2FYakVhTFBuZEhLWXZCZjNjNDU2VFFnR2hCMHZCZ3lkemdTdjVSSjJVX1c1MjQzTGFKUQ?oc=5",
@@ -759,6 +813,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "87b05aba557537dd",
+   "title": "DOJ moves to revoke U.S. citizenship for 40 foreign-born Americans - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0tGRWlIQWFzQzdrelI2TDZLcnhOQ19FTHZWOWYtZXlPa0xNa3FMZXlkSnBfQzdQT2ctUVU4YWdUZ0ZWcG1TZUtxdGVNMGZZMC1feFNmY3E2WVI2ZjlIZVB6eTR3ZGRrWDFQSEZycmhQUjd5aGtVUGF0TkRfZlo2enlQaVU0Q3pTbjVQOXVNaHNhYzZ2Z2xIZ2JqLTdaaXh5anpqbmFrU1Q5MUhVNkxtWmNEVQ?oc=5",
+   "summary": "",
+   "publisher": "NBC News",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-05T16:32:28+00:00",
+   "fetched": "2026-10-06T03:46:25.831086+00:00",
+   "visas": []
   },
   {
    "id": "01cb8b92ce4cf0c0",
@@ -1647,6 +1714,21 @@
    "source": "eu-schengen",
    "published": "2026-10-04T09:14:31+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
+  {
+   "id": "7078814c209dde29",
+   "title": "The Entry/Exit System becomes fully operational in Latvia - Ārlietu ministrija",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclZLbzR0YkY2ZDlIUHh5aGxKUE9GbDh3NjJ0NnJaTzJTaF8tbi1PdVE2MGctdUQxbUZWeXpBa3MtUGx1M0lVZ1pFazBqVld4UkNTRkVwTUFqMTZOMkt4SWhvbGJGbnBrLXE3TmRhWG9TU042THN1YlZ2Uk5VQXg1Sk9veEFmcTNEcWVv?oc=5",
+   "summary": "",
+   "publisher": "Ārlietu ministrija",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-04T07:00:00+00:00",
+   "fetched": "2026-10-06T03:46:25.831086+00:00",
    "visas": [
     "schengen"
    ]
@@ -9812,6 +9894,19 @@
    "source": "eu-uk",
    "published": "2026-09-23T07:00:00+00:00",
    "fetched": "2026-10-06T02:14:57.648826+00:00",
+   "visas": []
+  },
+  {
+   "id": "90c740dc3b0b4476",
+   "title": "Visa power: L-1 abuses top US senators' priority list - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV19TRmxzazBXcDFET2ZXN0w2ZWZ4VVZrcC1PQVMzbDR0V1dGN3VPNGNJX1M5RVNnUmhkb3pVWmozRE9qWXJIU084RXdydHprTk5ud1NDdkYzTzNUNXZFalZUbGxfRk5GcF9aRllQQmlpaUpYYkF0NEVBNkE4X2FDWnhreFNPWnVwU1RKbG5GZHdocUVZMzM5cS02RVI2NTlaQjVjSQ?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-l1-e2",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-06T03:46:25.831086+00:00",
    "visas": []
   },
   {
