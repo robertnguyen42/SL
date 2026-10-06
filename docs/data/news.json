@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T05:14:50.350085+00:00",
+ "updated": "2026-10-06T05:45:22.856319+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "au-student",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-student",
@@ -419,6 +419,32 @@
   }
  ],
  "items": [
+  {
+   "id": "a02c6cd708db8cd6",
+   "title": "Coalition, Labor and One Nation’s migration plans - The Nightly",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmpZa19kdlFfM2FHSUZhSFB1Y1k2Vm1yMUR2aHRJNkIzSHZ2bmVZS2k5ZnJtbjNGV2NuTVVJbnM2MDdzeHNZZjhYWElKMmlwM1ZKYkdvVHQ5VnBxWDRSaFlHLWFOZEZnQUxZbmtGYzZsZWF4RnhZUzZISEdnQWpEVmhPYlRTaDFhV253NnJwdlpiTTZ2Mmp4Nk15bFN1MVJGbTJpbEF1alowbElxVmFvWUdMeTFwLUo5OFhXbGtiOA?oc=5",
+   "summary": "",
+   "publisher": "The Nightly",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T05:17:38+00:00",
+   "fetched": "2026-10-06T05:45:22.856319+00:00",
+   "visas": []
+  },
+  {
+   "id": "b298385f858240e4",
+   "title": "Australia's opposition vows 'largest cut to immigration' in country's history - France 24",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVExZYUtsMU1USUs5eHZsVWpta254T2g0LVNMOVk0T0hma21YTUxNcjlpZDV5VlFhZmVkRGgzN2h0R2FSOHBFc0RrRFF4cHcxelRORFNQMy1ycVAxeTZ5NjFrTU9udkpRTkcyWFUtMWc1VXdwWE5wMV9nN0I2UlJiSm8zblF2ajBzbHllOHVBVHYzUWdKbUlDRHV4T0ZyZDNCN2ZSb05kV0ZINzJFY1djN0lJRjFrdG15emNNVHVlcw?oc=5",
+   "summary": "",
+   "publisher": "France 24",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T05:00:44+00:00",
+   "fetched": "2026-10-06T05:45:22.856319+00:00",
+   "visas": []
+  },
   {
    "id": "203f28d044eff7f9",
    "title": "Australia’s opposition party vows sweeping immigration cuts - Latest news from Azerbaijan",
@@ -843,6 +869,19 @@
    "visas": [
     "h1b"
    ]
+  },
+  {
+   "id": "a7ae8e826a2fb0f4",
+   "title": "Australia’s accreditation hurdle for skilled migrants - Briefly.co.za",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZDVrV25xeFpSX1ZHdVpONXk5UEtRR1kwOTZ4aGFPdm8wZEozbjRQUm1EeTBXM3Rza0NTMlEwRFZibGtFTk5YbHdEckdCejRTc3Z0VFN1MFhpTjRmalo4dDl5NlVPSkFRUm02c0ZaYVplaHE2dDV4MTBkbVNqdndQOENzY1g1Zw?oc=5",
+   "summary": "",
+   "publisher": "Briefly.co.za",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-05T18:47:24+00:00",
+   "fetched": "2026-10-06T05:45:22.856319+00:00",
+   "visas": []
   },
   {
    "id": "a725a602e1344746",
@@ -15342,6 +15381,21 @@
    "fetched": "2026-10-06T02:45:55.487278+00:00",
    "visas": [
     "pr-citizenship"
+   ]
+  },
+  {
+   "id": "40bc1720eba38a12",
+   "title": "Visa Limit Changes Scramble Outlook for International Students - Princeton Alumni Weekly",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmczQ2E1RDF6N0V4eERBTzgweW9KSEs0N2pxMl9ENk5tMVRubGQ2QlltTzhZdmhzQ1VtdWJmeG5maDdsdUw1Y1ZEMHk4SjctRkI2ZXJrd2pWYkUxaFh1RzRvX2RXRGxCSGxyZ2s1cmVwNkdhM1BDU090VUNfSFFyVlB3R0NtOW9SVExweEotSHdiRDVBT1lz?oc=5",
+   "summary": "",
+   "publisher": "Princeton Alumni Weekly",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-06T05:45:22.856319+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
