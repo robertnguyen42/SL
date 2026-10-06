@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T04:16:12.432791+00:00",
+ "updated": "2026-10-06T04:46:13.696274+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -169,13 +169,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "au-student",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 5
   },
   {
    "id": "au-investor",
@@ -307,13 +307,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "eu-work",
@@ -460,6 +460,32 @@
    "source": "au-graduate",
    "published": "2026-10-06T03:23:00+00:00",
    "fetched": "2026-10-06T03:46:25.831086+00:00",
+   "visas": []
+  },
+  {
+   "id": "7e3645756d13e5a1",
+   "title": "Australian opposition party vows ‘biggest cut to immigration’ in country’s history - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkxMbVg2ajVWWlJiU0U4ckxlaUhYZjhsMmRhZUhsTkRwZTROdnlablgxSHpoWGR2VUM5SDRaNXlldHBIMW1JZ2h4X3VyYnJJWjlEQ0ZlNTR4R0VZOG1pYURTUDVPa0hhUnBiOGNLcWQ5YjdNZEVRamJseEEzMk9sSjRRY0tSRDBQek9JTUFJWlBiUDdFVkI0NFk4RUl0UHUyb3F5VzVoZ2tFYWdZSy1ibHFNUHdodEkzcWFuQl9TQ0J6ZGc?oc=5",
+   "summary": "",
+   "publisher": "The Straits Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-graduate",
+   "published": "2026-10-06T03:23:00+00:00",
+   "fetched": "2026-10-06T04:46:13.696274+00:00",
+   "visas": []
+  },
+  {
+   "id": "3621b18e5a301690",
+   "title": "Coalition promises deep cuts in migration fight with One Nation, Labor - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT1NnelVJaHFMb1RHeHZjdHk2QjFjeFp0bkgxSFZKZTdNZnNzeFFZeEoxdzQ1X3N5X2VfaDZaRjdOYUhiMENBTDN4VzJsSWQtcmdhUHdkWnRWVkdTQlhLNXM0TWVVb3lXUlp6SGVQU0QxV2N2NVJfLUtQbzhsc1JBUzVOSW91czM3RFVCQ2ZiTm9XY2JDbUVn?oc=5",
+   "summary": "",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T03:13:59+00:00",
+   "fetched": "2026-10-06T04:46:13.696274+00:00",
    "visas": []
   },
   {
