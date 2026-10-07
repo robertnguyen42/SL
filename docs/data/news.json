@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T06:51:20.051660+00:00",
+ "updated": "2026-10-07T07:17:19.583331+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "id": "nz-en",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "us-visa-bulletin",
@@ -307,13 +307,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-golden-visa",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "8850e4cd78a0d076",
+   "title": "Coalition MPs concede immigration pledge not fully costed by independent watchdog - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkxpZk1ULXFaVDRCOGJ4eldaeTRTTm9lVnNyZmNteU1WWUJTMFVfU1N5TlgxcDdHenpMN092NGlsQW5lNDlHSjJ1SkQ4b0ctazhHdkg4dDRnYWJMYlpUdWVrbWQ3bDlDaS1Teklaa2dYT1JWS1BydFBqb2NhdE5ReW5JVDFDQmIzOEJCdHFuajgwX3IxV1NtaTFxM1ZuX2VaRndpZnZxVmg4UjhmVV9ycnJUT0hLREl4UjhZXw?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-07T06:52:00+00:00",
+   "fetched": "2026-10-07T07:17:19.583331+00:00",
+   "visas": []
+  },
   {
    "id": "ad84a67dd3e45e25",
    "title": "Security guard loses licence over petrol drive-offs, expired visa - 1News",
@@ -19610,6 +19623,21 @@
    "fetched": "2026-10-06T14:17:08.243596+00:00",
    "visas": [
     "work"
+   ]
+  },
+  {
+   "id": "3a8684b4bd6cf435",
+   "title": "How Sweden went from asylum haven to enacting Europe’s strictest migration policies - Scroll.in",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3B1Skp2T2VCUHFIWXdDRnRNWGF1eDR4R2ltVVFWQzBSSFhFUlJRR09BNGM2NEhQclNFOXk1OUdxWGVkNl84ZC1sWHhmak9FMGlXZXR2N1dyNS1OV3gxNDdQT3VHNGFqclllQzlMMUdkdzN2azliVnl5WWdzbWJyU3NTWjhmR3c1cGJQaDBjV3U0ZUNOUVdDaXRNbG84dHhlbWNjdzhLT2FreW1VU1FDR2wwVENwUzTSAbwBQVVfeXFMT09JcWswaV9CcEF0cndDdVlDLVpQc2ltbWhBU29iWGNvNUQ3eXBLb2o2ZDdrcUgyZ2hRSVlhd3BCbm43STNxTmhHczc3Y2ZZTjU4eThGcTZ0dzY3RXdCVHA0dlZycXpBUElzWkZkZXhHUURSRGdnMjU4a3Z4LVd5M3FJQjc4VjFfVmlpaDFiQXdrUG1EWjZxeEZvR2lMcTNZUDdhbml4MllrMG5RYkJ5ZFNXQ0VINHJMXzBSeGI?oc=5",
+   "summary": "",
+   "publisher": "Scroll.in",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-10T07:00:00+00:00",
+   "fetched": "2026-10-07T07:17:19.583331+00:00",
+   "visas": [
+    "asylum-policy"
    ]
   },
   {
