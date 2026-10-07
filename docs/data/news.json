@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T14:17:00.091666+00:00",
+ "updated": "2026-10-07T14:46:43.220711+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "3c3377bf3a0795dc",
+   "title": "Lawsuit Challenging USCIS Green Card Policies Filed - International Legal and Business Services Group",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEZaUklrbDZvRndON0c5Q0JFUFlRdDMwY211dWgtbGlycDlXWHFpb3lCN2xwUUg3OFV1cllIaFhFZlBNQTdLR08wMlpuM2dGVVBMLVZaSTJzc3J4LTB4dWlLbVhZdU9PdnE4RGlhWjdzSmU0bGdMNTdtcDVmQW1tUkIwZjYyQ19HMThKRWtkakd1NDdUWTFJ?oc=5",
+   "summary": "",
+   "publisher": "International Legal and Business Services Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-07T14:25:52+00:00",
+   "fetched": "2026-10-07T14:46:43.220711+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
   {
    "id": "80cf41c0887b7247",
    "title": "Migration has become a major political talking point – how do parties’ policies compare? - The Guardian",
@@ -2579,6 +2594,21 @@
    "fetched": "2026-10-05T12:20:15.961810+00:00",
    "visas": [
     "visitor"
+   ]
+  },
+  {
+   "id": "c433b0e891c4e9f0",
+   "title": "No Schengen Visa? These Greek Island Cruises Start at €299 - FTN news",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHN2ZUk2UzN1TVZjVEtKNTc3cTl1c01OVHNxenJyNU5IaG55blpxZHdCenNjMExrN3E3QzBMcm9Nc2s3TnYyNWpGWHRhZ3YtRTVid1oxWE5yYzB0M0RqcF85WUpZekFkaXVxNW5LR0dfcXRPc2lkdHZqaTFFUGp6d3RwN1lUSGs?oc=5",
+   "summary": "",
+   "publisher": "FTN news",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-05T11:38:11+00:00",
+   "fetched": "2026-10-07T14:46:43.220711+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
@@ -9820,6 +9850,21 @@
    "visas": []
   },
   {
+   "id": "86a8d330ba582192",
+   "title": "Schengen Visa.. Moroccan Consumer Rights Federation sounds the alarm over practices it describes as abusive - fesnews.media",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NOTFBa0xqV3V3a29OR1hvT3BxZ3hwQWUwbWZjcEZvLTZaSVVXRGxLLVYtaE9wX1B2RjVqMHdKSW9lZm9Fb0ZmVzZXSG55TUpGVkE?oc=5",
+   "summary": "",
+   "publisher": "fesnews.media",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-26T11:05:05+00:00",
+   "fetched": "2026-10-07T14:46:43.220711+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
+  {
    "id": "09fb146b2bb8207e",
    "title": "Proposed work authorization fee could disrupt international student career pipeline, Penn experts warn - The Daily Pennsylvanian",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1V3dERETDFOSkxnUGZLb2F0LVZuQ2p3WjBJUnpBN0RvXzZfYnR3WmZVTGlmUzdfRGV3ZnpFVlBybVpZNlo4aVhJbXRrbTVDSWxMb1gxZkhwb2dfWHVvMEs5eGkzSDJnYk5aU2ZyenRTVDJWcXNTQjAxN1g0cjdsaVY1TTdJMklrZ05UUzZEVG92Ymk1OTRHR3B0cDN2V3JKeVBIYmYzbw?oc=5",
@@ -10880,6 +10925,21 @@
    "published": "2026-09-24T15:41:34+00:00",
    "fetched": "2026-10-02T08:31:38.597334+00:00",
    "visas": []
+  },
+  {
+   "id": "819518ab7cedf64c",
+   "title": "Schengen Visa Appointments Ease as Anti-Bot Checks Tighten - FTN news",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3pDalRjNEtRME9CZXl5MEFXS3U1eWZ0b3cxV0FkdjFmX2llcVdPSEhWVlZ5S1N0bWFsQzRGUVNmRmk3RngzSzhpZXF5LVRBbHV3bC02MlUwUkg4R0NXUDFxNkdpMFdOSHBqWlRmcUVRQVFOb3FBQkstLTdXRFJKcXZVRWwyZU5pUlk2T2h6VWs3QmM?oc=5",
+   "summary": "",
+   "publisher": "FTN news",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-24T15:12:34+00:00",
+   "fetched": "2026-10-07T14:46:43.220711+00:00",
+   "visas": [
+    "schengen"
+   ]
   },
   {
    "id": "860d8f599aaba8bc",
