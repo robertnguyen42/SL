@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T19:44:19.997806+00:00",
+ "updated": "2026-10-07T20:15:30.029515+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "au-partner",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "eu-citizenship-investment",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,22 @@
   }
  ],
  "items": [
+  {
+   "id": "fcc40f6235cf2cac",
+   "title": "New Zealand changes parent resident visa rules: What Indians need to know about new 90:10 EOI rules - Business Today",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUl9kbFVCdzc2MTlEU3o1ZlF3WWl0ZmphaVB2WDgwTFEyNE5iMDhka29GMVZfSG1maVJzMC1saFRQYlpTX1ZMckJkUGM4X21PZXZVb2QwZzJ2SG40OVNiVjVuQmUyRG1ZOUE0NDJnYTRUcTFtVFpwT0RqSXFYa2pjazFSOUdJdXVmY0JOVVZOdFlGWFMzRnhjXzNTdGliNVVianBUYVcxZC1rWWE5UGpRbzhrQzFhNHp2QUlXaHB5QjNTSjBjakhVTmpoOVVURnVIQ1JNZkdPeHBIU3Q2RDlzOGNiVnhocm5iRkFITmpsbU_SAfYBQVVfeXFMTWhGd2hmaG5TSVJCbTIwSTJ3dVVfQnR0VnRIcjhTRnVOc3piOXJpbDZjeFNLUGFtR1ItRDhMR0NTVEw1WGF5UVFrSkpzUFpPc2xTSGxBY1pIbG9zeFFjMDR0ZlNrT3N0RHFleEozY1AyTTZ2SGZiSzF2SHNsSWxVWW9KVkE0VVRzNHRWMnNhdGxNLUR3VHBkSmV6XzAxOWZMbm9DN3FWcFBEemNISUk0MHFmZW1hRWhVLU9QbXFiakVuel9oei1ITHM2em1JTkU0VGx3ZTRTQzRVYVlyZnF6Q2Rtc3VRaWVYQnUwMENoZmtuU09CTEVR?oc=5",
+   "summary": "",
+   "publisher": "Business Today",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-07T19:50:04+00:00",
+   "fetched": "2026-10-07T20:15:30.029515+00:00",
+   "visas": [
+    "family",
+    "residence"
+   ]
+  },
   {
    "id": "c47c70ac2b496ad4",
    "title": "US Announces 5 Conditions Under Which Government Will Cancel Visa Bond and Refund Money - Legit News",
@@ -17894,6 +17910,21 @@
    ]
   },
   {
+   "id": "c65f155d16d11b44",
+   "title": "U.S. Judge Blocks Trump Rule Capping Student Visa Stays - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0tRSkZjakRtcEpLdEFJb0NScmFyZnNJR1FaaHRLY1AteDg1TjEtRWVPTGttM2tqOEFuMHVLeXltdll6RGdZd1BiT3hUelV4b3ZFWEpxRUZocHdOM0lBQ0RBME5WZHp1NHpRZlpVOXJpWmY5R2Zzejh2V2ktT2E1RzVZNklPWDNGdnJwaTd5QUo1XzRXM2ZadXhQQ0NYYkVlUW1j?oc=5",
+   "summary": "",
+   "publisher": "Seoul Economic Daily",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-07T20:15:30.029515+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "c9bbe165fb97e3ad",
    "title": "1,500 skilled migrant applications in a fortnight exceeded even official forecasts - B2B News",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmpESjh2SkRJNzlBTi1PRGs5dTR2MVY0OXEzaVJvZGZhbXJpLTEzWHZYb3V5V2RaTFlhUHlzcjBfclY4MS05T3A0R2RMTXY3Q3hXMGViUUZ4RktUOGlUV3I4Z0lac252V0J6Skl3UWN2TTR4UE45TjRDY2NMUEYzZHIzcnk0QQ?oc=5",
@@ -21947,6 +21978,21 @@
    "fetched": "2026-10-07T14:17:00.091666+00:00",
    "visas": [
     "golden-visa"
+   ]
+  },
+  {
+   "id": "2cf29ecb8ca59254",
+   "title": "UK Raises Student Visa Funding Requirement for Nigerians, Other African Countries - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzZxaTdfT3d3UjJ3cnRiWTRRZmZjYkY0TjVxa1E4cHVSYVA3OU9memlEMUs5N19nVVhnLXVvdU05Z3lwSjNaUjZXWTF1aXVqcUZHaEQ0ZDFoUi0zOXlwQlZhekpZRTNhQkpKRTdhWGF2OVB5RzdJOWtZeWd5NE1xOEZmc2xvWjhRODlSUEx1UHl1YU1RUTNhMGtwSWxMb0pGc3lJenRWbkdKdUZmOUNXVDhYUEw4S2FtR29PZg?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-08T07:00:00+00:00",
+   "fetched": "2026-10-07T20:15:30.029515+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
