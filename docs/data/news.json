@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T07:46:38.609638+00:00",
+ "updated": "2026-10-07T08:17:18.557322+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "us-visa-bulletin",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "c1748b2b661ded23",
+   "title": "New Zealand adds Bank of New Zealand (BNZ) to Funds Transfer Scheme for international students - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa21SNi1yOHFqOWUyaThoeEpUd0FSM2ZocUNJcktCQ0JXUlJsbGxJSnBvcGp6Z09ROS1OU0M4ZzlpekFHR0x1eEpocHlOa0lST2YtYXNORlJhZWtCeGZLdzR3dEh1VmhkV29uYWlkVzRYZjg0ZEx2UjVJd0FQdHVLaHRwUEdwM05IZi1CaVh0STR5TS1RdURoNlFwbmltMjdwNWNhVEpkd1VpWEFwZ1VSa2JJQmQ4b2NHTG4wVVBhVElJSjZOUjFmZzhHaFhSYm1oS1A0ZjQ4Nmc1eGhXeXNrMHZNTm0wWndRaE54X3dibkQzRHAxbnZfMNIB_gFBVV95cUxQNEREQ2g0WXpvdmRmSlpHbFR4UThqTXd6OVIzZUdBRERtUWp1VjVsSGg5ZUIxME1YaFRjVWRzeU5nSzBzQWg3TVhpQU96ZzVtRWR6eUpsXzAydy1HazlMNW9LLUFuUXN6U0huNlI0RzVpcE5VRDV1M2I5Q2RKaVBKWnFpYUl0RUd2MjhFZkU5YnJqa09wcDJnTEhjdUQ2NGFrMVRCUGpPSmFXRjVycWo3MUJENC1ZeDB2ZkJTUEYzOTkxTkFEMkJpNUZKMkczNFo1UnAzRnp1Zzg0NEY4MU03Y09Lem9ZSERxbWhOdUlyRVExRS1nQlY2NnI2Y3ZpQQ?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-07T07:58:58+00:00",
+   "fetched": "2026-10-07T08:17:18.557322+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "8850e4cd78a0d076",
    "title": "Coalition MPs concede immigration pledge not fully costed by independent watchdog - The Guardian",
