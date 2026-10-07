@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T23:12:14.344661+00:00",
+ "updated": "2026-10-07T23:43:31.278587+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -169,13 +169,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "au-student",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 36
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -21452,6 +21452,21 @@
    "source": "nz-student",
    "published": "2026-09-09T07:00:00+00:00",
    "fetched": "2026-10-07T13:47:02.920184+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "f6a41649d80bb2c0",
+   "title": "Canada Faces Backlash Over PGWP Refusals And Removal Orders For International Graduates - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFRqejhua0F4WUFOVGRWRk1SWGV0eFpTemdKejU4R3Q0N0VIVVA3WHBVMUhmYWtIazlRUXpOazBoTEJEWUFhWGxyQlJQVEtoRzQ5VFhoOXNnRlMxM3AxZFFYYktKbkwwcmF0VnMyRDI4b0pkdFd4WmxKYzJuaGZNZnZSWWFjSW0zNGg5SGgtckRBTmRETEF6VXJueDJmaEMtTTQwOXNVTmpYc1l2dy1FUA?oc=5",
+   "summary": "",
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-07T23:43:31.278587+00:00",
    "visas": [
     "student"
    ]
