@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T11:15:20.149614+00:00",
+ "updated": "2026-10-07T11:45:43.799558+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -193,13 +193,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "us-visa-bulletin",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "eu-student",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -420,6 +420,66 @@
  ],
  "items": [
   {
+   "id": "8190208131150429",
+   "title": "Canada lists family members eligible for open work permits under special rules - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2VRTE9GazEyeHNXa2t3Zk5XOTNBVEZwWWlBcml6eWliVXV2UExuemRtNjZkRGdDTlFhU2I2SEFIU0Q2QWlBOE5PbFZfenZOelhETkRxbVJkekxnY0ZHZVhIQi0tNFEtOXROQjdpV0lGaGU3UjZabDQ2QUk2WWUwQ3hKVmw0SldtTFZkbXR5Q0RiVjlRU2d6Mkg1RXFzZThWQ2NMQTM3TnA5VWtRdERhel9kc04?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "CA",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-07T11:22:58+00:00",
+   "fetched": "2026-10-07T11:45:43.799558+00:00",
+   "visas": [
+    "work"
+   ]
+  },
+  {
+   "id": "b24760eca0cf4109",
+   "title": "EVelution Energy Secures USCIS Approval For Up To $64.8 Million EB-5 Financing - Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWczbURSSFZ0ZXUtM3ZPajEzMWI3Z3JTcGR6WFlhVEtwUkRHS1NZUVAzWEFPTW1HZUFQVkpkTmRYNldLT3JINVQtdE96dlBZTWhNSkFqa0xhZG1WSFhHcE1mNm52QU9KVU5ycHEzMi0zNnpucWFuOHBMVmFuSUJLMlN5VU5iTHdIZGViRUhtdFBUVktZQ1ptYnNoQzNOUdIBowFBVV95cUxOZ2FhWXlmUjI5eS0zV0U1bk5GUzZUNzZ0dVhvV1dEZXNVTDJrSnVfeXlhcWhNNnFrOThSWVdya2RqaktGUUNKbkt0S044bk5qTjd6SVU1MnN3U1V2TGJpeC1SQ0FURnRWcGFqVUFvelprSWhReFVmUnFDdGRnS0tEcXluTTBSYnFsVzJ5WkVadTlVeUxYUkxDUWdTNFY3VXMwQ3ZR?oc=5",
+   "summary": "",
+   "publisher": "Pulse 2.0",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-07T11:22:32+00:00",
+   "fetched": "2026-10-07T11:45:43.799558+00:00",
+   "visas": [
+    "eb5"
+   ]
+  },
+  {
+   "id": "aab0ae054ae5239d",
+   "title": "New Zealand student visa approvals for Indians fall to 49.3% in 2026: INZ data - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV0VQQUdNaTJEMXpxN0w2eFIydE5MTzJab3dRN0hiSUVtdTdiN2VVTWJiRzdjM09ZWTFhYTdDRi12cC1jMzNvVUZDTV9fSXh4aEFINm5lS1hKVGRTZnRENFp1cDhVNVd5N1otTWNYQ0x2WXBkM2tmSWI2YzY1VVNtRWtLMkgtNVdRbDdZa1NjTXFyeTBaTkE2OG1waC1Hb0E4NGh2SVpMcVpUMm12NHN6a3c5LU1LNnJjdkd5U1VWRmREb0UtOF8zdUxOQWJveFVERnhiNlV3X1pFc1JkUkZXODNhc9IB6AFBVV95cUxONzJsVDdBU0VPbFNwbHNXN2Nhb1lLdUktWjRsSDlaaWsxbm5EQloxQU9ibkpxTEFfbUZjTHg2WXE4aVFQbWdwaFNyWjdkWjIzcWNmLTRpRC1BbmFMUUNHdnhRcFdtZkctN3MzRzlJSXlzWDdqbGpublJtMV9FTF8yblBnOEd6cjVKZm9sN1JNbjhmQlM0X2lHTlgzRFNSd3NyaG96Mlk1M3ZHb1dxMjBFQXlnM3VaMHNhcEU3TmpkMUhTU3JFTTYwc3FHUUVOSXozekoyYkNzUGJEWWlveUVYUHBPelpzR0hw?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-07T11:14:17+00:00",
+   "fetched": "2026-10-07T11:45:43.799558+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "c234875b601f8c6c",
+   "title": "What Alberta’s Education Act says about access to education — and what a yes vote could mean for non-permanent residents - Yahoo News Canada",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xU0lMSWpqRGlkZVhwaFZmeUN0OFF2UWtMcjRaM2ZZT082MnJpRy1YZTZqWFlCNWNYalNSRnY2VUk4TWg0VkJkVTdhV2hJQ1gwVERYYkotcVN5MEVKMW9KWTIyWGhjNEtpcnBtMW5tZVJlWE1RRG9EVWFUV3FXMU0?oc=5",
+   "summary": "",
+   "publisher": "Yahoo News Canada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-07T11:02:15+00:00",
+   "fetched": "2026-10-07T11:45:43.799558+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
+  },
+  {
    "id": "411a2892c8dfbdb7",
    "title": "New Zealand post-study work visa offers study, work opportunities - Daily Ausaf",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE45QS1NNFJxaVp4RmtFZ0VWejgwOXBiMnQwZ09QT0I0bWxnVkxwbUdfOVNDQmtsRTlOSnV2cm95LWFDV3NTbjBobk5ia0ZhQVBhd0pGcVNlZGl5Rm9TcFlVVDY0LXBIbG9CVUZkc04xZWlEZS1fNzhXeDBReHVNcmRrQ0lMRVVqSnhhOFdhbGNDR1RCN1JqTTlJLVppbzVadUHSAacBQVVfeXFMTjdEZ2wtU0Y4c2g4TGFmZWxVazVncUttZUZ4XzVfSWtyOFpPQVEyWlRDTDduRU14X0poSm9OcGdRUXFZdDg3MkhobENyU2hJZ2pScUpncFU0UFZQb1JBMXVzZjhjdk5LbC1jbkZ3bXlneVAtU1U3YWMyWGRfalFXYkwwWUFsZ3RTZk9mM3dTLTVVOFdLUWM2Tl9rZk5BWDQ5SHV1OGFFbVE?oc=5",
@@ -462,6 +522,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "612175be0bff7159",
+   "title": "Fears of NT business closures after delayed dry season and proposed visa cuts - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRjJyRW5SWkpheUptMUF6c0lYYWRxLVRhbWNYQkNtd0dqNkdmZDVGWkk3VkwyNEt4eDROdU9MNlVYUE5pVG12S01qZ1FjQTlPb0pVc3VySHNLdFJLcW80QXg1cWh1ODQ0QVQxYlY4MHlaMG1yMWJFdzNpMmVSREpuNzhyMk9sTTBZZk5wRnRxbHJsV0M0VDVSeVQ4aE1ucWlIM0E0OVN5ZVlSbzZ5bjdR?oc=5",
+   "summary": "",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-07T07:49:49+00:00",
+   "fetched": "2026-10-07T11:45:43.799558+00:00",
+   "visas": []
   },
   {
    "id": "8850e4cd78a0d076",
@@ -603,6 +676,19 @@
    "visas": [
     "residence"
    ]
+  },
+  {
+   "id": "6fb55d6b6c050758",
+   "title": "Canada Immigration Processing Times Updated for October 2026 - cic times",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX2xNYmJNanJ6NlhJYlNfeVM0aGpqOHJEb0pZWUwwdnVFWHhmNW5Fd0FxYjRNQ25WTXVmSllNaS1MeGh1Zlh6TUd4bGZiYjcxV2lHVVAxSFBRUjJNX3hvbWpuX0dibm4tTms5ODEybkptaHpFVml1RjMxck5sWUpRcjhyNDAyb0ItNXVBVzBB?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-07T01:31:00+00:00",
+   "fetched": "2026-10-07T11:45:43.799558+00:00",
+   "visas": []
   },
   {
    "id": "11d79bcca46c4cf4",
@@ -11657,6 +11743,19 @@
    "visas": []
   },
   {
+   "id": "6ceb1cf12c4fa4b3",
+   "title": "Home Secretary hits out at 'unacceptable' migrant landings in Kent - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zOHZCejhaQjhJZ3l2Q3hCUEg2REVsSmN4QTVGTVdpM3htUmFJakNxS3BJYzdKbzRiUkR2VElyVGtJQVJBVEZsdGR5WF90bVRUdjZtNG55VEgwMkk?oc=5",
+   "summary": "",
+   "publisher": "BBC",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-07T11:45:43.799558+00:00",
+   "visas": []
+  },
+  {
    "id": "b436ab5a5a925ab9",
    "title": "ILAC declares bankruptcy, displacing thousands of international students - CityNews Vancouver",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjl0TWl6QVhoUjladGdHLVFrSlF4cjM5andCdUJkTGloRndGOTBwdE0yMkwxNTdtNzhUaXZJZVFnRWxjOFdLLXlaWUZsSjlydk9iWDhoX2JhRGYyb1Q5MDgxNm5OUkp6MUNWN0NTU3gxckVXQUhSUkZBUk02a21ibmYyMkYzN21LTVA5QUE5dC1YR3pfTm9Tcm1FNnEtYldkZjN4ZU9OcGFTMUU0Z1FyZ3FlWGo5UTFmYWN3?oc=5",
@@ -22545,6 +22644,19 @@
    "visas": [
     "asylum-policy"
    ]
+  },
+  {
+   "id": "4468f57ca9838b6c",
+   "title": "New Visa Application Centre opening in Tonga - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0doQWh6UTJrRzBTcGk3eG5KV01TRTh4SzM4eDVVdXhNcldnaXc4bFJkaHNGeTJsWDU5QUM5MU1PZUtXRm9iLTdtQjg5OHV6dmgtY1RubFlMVWxQbEQ3M1p0cG04bFZTdEZoVTgyT3lEVHh1Z2dfMHpxSUxZaERza0RFdEpWVUtUcGd1MVdBRE96VTd3WHZ0cmJqa2lqbWc?oc=5",
+   "summary": "New Visa Application Centre opening in Tonga Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-08-31T07:00:00+00:00",
+   "fetched": "2026-10-07T11:45:43.799558+00:00",
+   "visas": []
   },
   {
    "id": "4568e5d70f4e6483",
