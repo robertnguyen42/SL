@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T21:15:16.697680+00:00",
+ "updated": "2026-10-07T21:45:55.013439+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -592,6 +592,21 @@
    "fetched": "2026-10-07T21:15:16.697680+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "3e2bf75a5bbfa266",
+   "title": "Golden visa programs ranked, the 10 best paths to residency in 2026 - qz.com",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80TC0zSGNMSElYZTN2WEs2NkNJeTktTDl0VDhmZ1J0YVRQT25ZaXhtd0FiYmZiUFRYaHdwMHJLNHNVRWNqLVJ1bU1UYnpFLURVVFF4cDhXVF9OWlU?oc=5",
+   "summary": "",
+   "publisher": "qz.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-07T17:07:27+00:00",
+   "fetched": "2026-10-07T21:45:55.013439+00:00",
+   "visas": [
+    "golden-visa"
    ]
   },
   {
@@ -19930,6 +19945,19 @@
    "visas": [
     "post-study"
    ]
+  },
+  {
+   "id": "5a2aee773285a95b",
+   "title": "Mixed-status immigrant households expected to lose benefits under new public charge rule - Stateline",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVdUUXRUWkdtS1BmRzZYcXYtaHBxNkFnRnVaQjR3QkRVaU9wUEpnWmlqMEFBZW13aWdoV3Yxa2RpTGdSX0xUd0tZXzFydkE2NGJmSWJXYnFCWDg2c1JUNFFVX0JyT3A0UTQ4YV9lUThJa3M2S29ORnZFb0lDWHVnbnUxRVRIWDM5dC1yQ1ZiUm5PdmpRQW54TE0yM3d6WWowLTFuRmZvbVF3UjJwM0pWYzdDR3JybE05SHpHWlQ4UQ?oc=5",
+   "summary": "",
+   "publisher": "Stateline",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-11T07:00:00+00:00",
+   "fetched": "2026-10-07T21:45:55.013439+00:00",
+   "visas": []
   },
   {
    "id": "209d56bad5ace1cd",
