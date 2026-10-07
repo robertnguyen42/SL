@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T16:18:02.839630+00:00",
+ "updated": "2026-10-07T16:48:03.937344+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "us-visa-bulletin",
@@ -420,6 +420,21 @@
  ],
  "items": [
   {
+   "id": "be553ea08c8dcaf5",
+   "title": "US Lists 50 New Countries Whose Citizens Are on the Fresh 2026 Visa Bond List - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVdzSGRkQXJUbzljaFJYdEZTNmtPdkw1RFJ2aU1NeTRWUWhoN1A0UHgyOElRZklLUnZLaHFqd1RLNk9Za1NXTEh5eGtIS1N3UUdzT3JjM0dEdmZfbFo2ZzhpdXdBc1lwR0Y3UVpGdHU5a2lvV2ZEMVNQc3g1dkVSTFhyeVZBWWhFb0x0b3JwMDZfWjg?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-07T16:19:14+00:00",
+   "fetched": "2026-10-07T16:48:03.937344+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
    "id": "28d099871b55463c",
    "title": "CanAm Secures USCIS I-956F Approval for Pacific Port Logistics Center, Its First EB-5 Infrastructure Set-Aside Project - The National Law Review",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcUdNLVpmVzhWTWd0MnlBcjZaRENyb0xqbktkZXNvTG9HOWxzbDZTRVN6dkpTaFR5d3huRVFReVdteGdGQ3d0LXRhNFR1YzRlSGxwN2NnTDkxaFduLWdaTTNadEI5LU1DeFA3RDlJTFkyS0V2RmFYTGdDenNSMC1SMnkwNHc5cnVUSUtZUVdpOHpqajVkU3ZWTWpjM1RfR05HdDRleEtaRWZKV0NtaHhIbVI3MkM5UQ?oc=5",
@@ -432,6 +447,22 @@
    "fetched": "2026-10-07T15:52:03.259818+00:00",
    "visas": [
     "eb5"
+   ]
+  },
+  {
+   "id": "b6e21dd17623859c",
+   "title": "Express Entry Draw #445 | 733 Invitations Issued in PNP Draw - Canadim",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZ3hvVnhidDhXUFk2b3g0ajByVGZkWmJ0Rll1RmhMSTFhQ0xySmpBb1kzeEZSbDA2ODBHdS1Dd2ZJdDVfYm42YlRmV1M4Qk1JSzlLMlpSc3QtWWxZYzVsUFhqVGdWNXM?oc=5",
+   "summary": "",
+   "publisher": "Canadim",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-07T15:39:22+00:00",
+   "fetched": "2026-10-07T16:48:03.937344+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
    ]
   },
   {
@@ -462,6 +493,21 @@
    "fetched": "2026-10-07T15:52:03.259818+00:00",
    "visas": [
     "visitor"
+   ]
+  },
+  {
+   "id": "171ede419fec8eab",
+   "title": "Express Entry Draw #447 | 3,500 Invited in Trades Occupations Draw - Canadim",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04VFNSbE5hT0lIQmhucmotUms5cnRsNWpoWmZ5cUEtY3FyU2w2dm5vOWlKbnFIakhYLXdFYjNKX3kyWTc4ZXZDNEVQa1R5LUlpc1lSbmxfNnplT0hnczhtTlJ3?oc=5",
+   "summary": "",
+   "publisher": "Canadim",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-07T15:32:11+00:00",
+   "fetched": "2026-10-07T16:48:03.937344+00:00",
+   "visas": [
+    "express-entry"
    ]
   },
   {
@@ -537,6 +583,21 @@
    "published": "2026-10-07T14:03:00+00:00",
    "fetched": "2026-10-07T14:17:00.091666+00:00",
    "visas": []
+  },
+  {
+   "id": "1e65edff485aa30f",
+   "title": "Express Entry Draw #446 | 2,000 CEC Invitations Issued…Again! - Canadim",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nb095dGVDRl9MTE1vLU9rWTk5T3JuRmRCZEthWTExazZoNFd2Y2x5S1M2M1hEekZ1am9aSnF6OTMwbHdtSkMxMTl5aXllZ19vMFFkWVpYNGVyaGxULVh1aThR?oc=5",
+   "summary": "",
+   "publisher": "Canadim",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-07T13:59:26+00:00",
+   "fetched": "2026-10-07T16:48:03.937344+00:00",
+   "visas": [
+    "express-entry"
+   ]
   },
   {
    "id": "59ed358bb850747e",
