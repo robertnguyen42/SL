@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T18:18:24.470928+00:00",
+ "updated": "2026-10-07T18:51:12.207744+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "us-visa-bulletin",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "e9c88c81308b53a6",
+   "title": "Australia: New rules now in force for accompanying dependants and onshore student visa applications - ICEF Monitor",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGVoeTYybjNCUTgzU0dNQjBmZ1l6Sk0zXzRrMmk3V3JvN1hZRVhSUEc2M1VDT0JtY1hIX3oxeUxGbG1OdHFTZXV2TVZ3VlhtNnN3cnlvZkRUOUdGMTVfNGNoZnhvVUVpbHp6Z05IRExaV3B0Mi1waWtHQVRrMTlxOUViNG1pQ3VTUnI2UnViVzN4VFhXem1fYVZ6RkU0SFdWMFBHQ1dPZFY0OHNDZjFWVmgxVkN4bDBxSGc3UWxVSnhIQ0p3MzZZNEhwODE?oc=5",
+   "summary": "",
+   "publisher": "ICEF Monitor",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-07T18:50:19+00:00",
+   "fetched": "2026-10-07T18:51:12.207744+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "f98ad14d0e2b5c74",
    "title": "EB-5 Investors Cease Federal Lawsuit Over Mississippi Project - Bloomberg Law News",
@@ -1042,6 +1057,19 @@
    "visas": [
     "work"
    ]
+  },
+  {
+   "id": "b9fded29317ec959",
+   "title": "Health NZ chases $70m in unpaid migrant hospital bills - B2B News",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXoxODRGRng2T3J3X0thODZvRGJGZ2w3WjF0SzBEUm5KM3BKd0lkOUFqNUtBQkgxX2htbVBhQzRjNjlpcWtMQmNFV0ppLWluSGhLM2JMdk56RXp1Nmk5dHd3X1VObVl3ZEdLWnkwR3h3SjZfSEE4bGRwTmFPTEU4c2FqU2lvYXQ2?oc=5",
+   "summary": "",
+   "publisher": "B2B News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-07T02:18:36+00:00",
+   "fetched": "2026-10-07T18:51:12.207744+00:00",
+   "visas": []
   },
   {
    "id": "2df093ee7c4f3f6e",
@@ -14997,6 +15025,21 @@
    "visas": []
   },
   {
+   "id": "272446448afa9caf",
+   "title": "Dutch immigration service quietly using AI systems to process asylum applications - NL Times",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFMxRDhLYXg5ZGFEeDU4cFVEdXVzU3lsMGVNei1aTVVLeEgybmN1U3VVS19CU3hjb3NpZ0FreWV3LTBJdFZxUWo5eWJiVTN5Sl83MVdnSTN0YlRvaE1RMkhON2ZFWVc2OExsYUlaUDJ3eGRkU2NVNjhlU2Z4ekNuSUdSXzREVzd0SFF2aWoxQjVQLWtya3hQSkFmMFhkRW9UdDVna1ZCdXNIMmU2?oc=5",
+   "summary": "",
+   "publisher": "NL Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-07T18:51:12.207744+00:00",
+   "visas": [
+    "asylum"
+   ]
+  },
+  {
    "id": "2a2363c327069fd8",
    "title": "PNP Diaspora Region Elects Inaugural Leadership, Expands Overseas Voice - South Florida Caribbean News",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGs2QUJoRHd3Rnd3Sko1Ym00bXd0ZDU0bmZJakVMTlZwRmktV3p6TmlRcmlVWE9LTVMzaU5uU3BLTFV0ZUhnMENBYlBLRS1tNGdmQjAtU1hDVWZtNG5MZFpXVUxHVm1ONUtUcno2OVNfVmFtdFRiejBaTkdieVN4TnRnb0xES2dpTlRHRmNiYk00LVnSAZgBQVVfeXFMTlpBcmJOU0ZENGtVMnNKRDRESkRNWWcyamhDWmNwck42b0c3OF9PWENsVUNYZTdZY0pHYklWS2hOb3JyZUYyREt1dC15RkFqRS1HVUx4X0VjOWVsMXJhc3phZUZzNzRmOXZMMWVmaEpMMmNvSzN2czY3S2IyV0lscGVyZTZzNjlEOFVYenRMcUFGc0dZNmRlRlc?oc=5",
@@ -19112,6 +19155,21 @@
    "fetched": "2026-10-07T01:46:07.020004+00:00",
    "visas": [
     "schengen"
+   ]
+  },
+  {
+   "id": "8e31d236bac86f24",
+   "title": "US $100K OPT fee proposal clears White House review: How Indian students could be affected and what happens next | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX0xTMTlYU0h0Tk5EaTJ2Rmh5SHJJLTFrUmQ1UFNYTldvci1SalFkamdXT0hMaUNGV1FRY3VjN3hfWnBGZ3RDVVpETktlOVJsZnpRaVM5SC03SWdHRUJpa1pOdmtaR1JPYVYydHZlQlNzOXZwRmlnQWlERDhtVnVGeDdBMDJjNzgzX0VNRWNYc2lPNWp0R3JWX1pObHRmVl8xQm9FNXVmLUlfVHJST09OaTR6N3N4ZFpfa0pLZVBCX0Z2Y29FR0cxSWRHN3RSZHBnc1ljbHBoakhRaFRTS1VNNjBHYVdzOHRLdERhMWRrd0tnOVZYeGc0WEdR0gH_AUFVX3lxTFA2MF9WRXFoMGJxZ3pLNlpCWlUxLUVKWF94RUpqNWdNVlVfb2NnR2ZrTF9Ua0hESjhZYlBJel9ial9Ra25Tb2dWaTFJcDJEZVVJbHlyVlU5MXdiSXVpLVJnMUNNdVAwOU5oTTNrbjJoS3hPNVVMbF9DNDlVQ2s2aUpzTDdwZ2gyYmpwTjFIbUJnaHZqVUdLZ0g3YWVWSzQ5Q3FUY3NiVHZWTHRUck50QWw4VDBiNGdjYjdUbHFYNUxHOTN5YUFZcjVEMV9ScjlhSUh2NjBWNDctQ2dlVldVdHBleTNhOFNOVlMxQUIzMlUwQXdWSDZwQmFfeVAzeGV3dw?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-13T07:00:00+00:00",
+   "fetched": "2026-10-07T18:51:12.207744+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
