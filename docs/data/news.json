@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T22:13:28.887129+00:00",
+ "updated": "2026-10-07T22:44:52.369516+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "au-employer",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -385,7 +385,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-business",
@@ -419,6 +419,37 @@
   }
  ],
  "items": [
+  {
+   "id": "097650899e1d542c",
+   "title": "EB-2 NIW Green Card Case Study: Approval for Argentine Psychologist in Human Resources - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcU5kSENOS1J5cGFtYjl0V0RGT0s0SzRBbHVueVZSS1loZXdKd3pxaWtrZ2ZXM3VFX3NiM1lrLUhDdEJ0OVlnYlJ0LTdoVEpGS2stdHpMZDRRUG5qVGxhbVRIVE1jVk1RSWlFVFQ0RHNXYkNSSGpUb2Q1OWlpSTlPMjFWNEt2Q2JDTUl2UU00ejh5UzJocGdKTXZSTEFLbkJkcEJ5Z2QzMTVTcUZWbmpEadIBtgFBVV95cUxQZHdzRzROM3JTZXpwMkczSU44b1dNY3F1a2JPWEI1am8zcVdfUDU4MmxFN0lfbzNhbGtxQWtPTDZXM0VCWk0yTUdiaHRFOGNfTkRobFJjR3BRQXZ1UXdCcUkzUjNHYzFyV2RObUJ2MmlSR1RuXzJ3MXJPSGtodXltU0xqakdhdEc4N1kwUW5WZGxsenFpSnFkN2NTOEpLVkVSR0lnVGJGM0QzZzdQQWtmeXg4MTNXZw?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-07T22:24:42+00:00",
+   "fetched": "2026-10-07T22:44:52.369516+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
+  },
+  {
+   "id": "8bdc6e55c35609a2",
+   "title": "DHS proposes charging universities $70,000 for each foreign student working under OPT: What would change - voz.us",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOenF1QklPclgtZTlZazhXaXZOcm5RbVZ1MXZ0UjlzcUlXRWxfZ0tRMGJZaXRiQnRhM2NiTkJVWVFDLTNlX3NNd3hLLXo5bkJwVDhJNFVkaWxWdU1XR3IzNUE5ZF9WdTZCM2JrQmpFV3ltcFBfeUlRcXhibkZJczF2NGREbnlTR2o4dVRfSm5tOXVFb1Y4c2hoY09QWlZ4WXNxbTgxTmdfaTlzQTE0MU5kdDVMRUdNMXFucDlrX21zUVk3WERGMXprQ3R2NTZMLVh2X3hSdnZZOER6SVBOQU85NA?oc=5",
+   "summary": "",
+   "publisher": "voz.us",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T22:20:47+00:00",
+   "fetched": "2026-10-07T22:44:52.369516+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "e2c8d9b948270e56",
    "title": "New Funds Transfer Scheme option for Indian & other eligible international students - Indian Weekender",
@@ -1367,6 +1398,21 @@
    "source": "eu-uk",
    "published": "2026-10-06T19:25:08+00:00",
    "fetched": "2026-10-06T21:43:50.239857+00:00",
+   "visas": [
+    "asylum-policy"
+   ]
+  },
+  {
+   "id": "d27a2de3266de9be",
+   "title": "Watch: Police raid on gang behind fake gay asylum claims - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95Mjd3VmVtU1BQVzd5TXFGUUNfWm1SWjNnTjM1VE5UTzg4bmxsTWczLWZPRnRmLWJHVGxpZ2hIRVRqcVg3Q0Z2Slp3VXctNVRSV1R3c0FidUg?oc=5",
+   "summary": "",
+   "publisher": "BBC",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-06T19:01:17+00:00",
+   "fetched": "2026-10-07T22:44:52.369516+00:00",
    "visas": [
     "asylum-policy"
    ]
@@ -9842,6 +9888,19 @@
    "source": "nz-student",
    "published": "2026-09-28T07:00:00+00:00",
    "fetched": "2026-10-07T12:20:39.491343+00:00",
+   "visas": []
+  },
+  {
+   "id": "8fd511356ab21b19",
+   "title": "Homes for Visas? Wealthy Foreigners Invited to Help Build New Zealand’s Rental Market - Property Noise",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUXkxZF9HVVVTNE81NXVCRlEwTFhJXzN3VEFWQW9TZ0FSN1FmN3ZBalVtOGtHa18zZkpTcFZ0TlpFODh1a1I1ay1KTGJrN1JIUml2ZTdJM2wwMGZ2TFR2ZDhBQ1Y4SkZFTjJtN21GNUJienZRQ0hqUUZsakwyeW9xU0t5ZTZDaWRPbVVqeWcxRU1tdWdzeTMwMTMyM3l6OVdlcWM4YXVQNGtBRnhjV21Wd0J6QzVxLVE?oc=5",
+   "summary": "",
+   "publisher": "Property Noise",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-investor",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-07T22:44:52.369516+00:00",
    "visas": []
   },
   {
