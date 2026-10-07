@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T07:17:19.583331+00:00",
+ "updated": "2026-10-07T07:46:38.609638+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
@@ -313,13 +313,13 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-residence",
@@ -1473,6 +1473,19 @@
    "source": "au-en",
    "published": "2026-10-06T05:00:44+00:00",
    "fetched": "2026-10-06T05:45:22.856319+00:00",
+   "visas": []
+  },
+  {
+   "id": "5a91c99a127ed70f",
+   "title": "Coalition and NFF put an agricultural visa on the agenda - Sheep Central",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0NZVlJ5dFNUa0xuenAzbnRuSUdKUC1RTE5nZEJvM19IS3FvT1duN0JSdklxYTVMYk5WVGd5TG1KTTVfZmpfa2pYbjkwMHJqUm1ZTDdRa3BoS1J3MDAxdzRDS201eXJOUHZSdTJJWFRCeDE5THREVW1lSC1wdW5wX3RsSk1Pb0JwVVdkZzRZeWE2bFVBZVE?oc=5",
+   "summary": "",
+   "publisher": "Sheep Central",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-06T04:48:09+00:00",
+   "fetched": "2026-10-07T07:46:38.609638+00:00",
    "visas": []
   },
   {
@@ -2884,6 +2897,21 @@
    "visas": [
     "family",
     "residence"
+   ]
+  },
+  {
+   "id": "d1228ce155c9f8d4",
+   "title": "ETIAS will cost 20 euros: which Cubans will need to apply for it to travel to Europe and who will still require a visa - CiberCuba",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUczd1JfZzEycnBwYU1xOGg5aExRQzJqMWk1ZE9Jbks0alpEalFHdnRmazIzWEpfYUdrOGJWVUxKelppd3dDQng4cmthQi1MT3JTcUEtREtJdUxNM3RPWDREbU1GWUl2WW5YWjdUSEhzcGN3MVIxUEhpZ2Nvd1hCSHZMRng0d3I4QTNpVmhmZzl6Q0hoSTRaSjBQMVBSbS1GejFEaDZ3cDVIaFQ2SVllT3B4TW8xeThoWnpUcmpIbw?oc=5",
+   "summary": "",
+   "publisher": "CiberCuba",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-04T19:32:38+00:00",
+   "fetched": "2026-10-07T07:46:38.609638+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
@@ -13383,6 +13411,21 @@
    ]
   },
   {
+   "id": "b2887032344dbef2",
+   "title": "Dismissal dated to the day a 482 visa expired, but worker not told for almost three months: extension of time granted - https://onnotice.com.au/",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTJmWWlLNTB5N0VEdk03VnZXTTBySklNNW5iTUdlVkcxV3hudHhidzk3cUFLMU1id0pzWVdWeTEwclRSYzItZVdNUXBnajJib0xvVUpHb1R3Wjh1WTRpaXF2Um1VckVSblk1WnRwYl8tQ3kwMy1sRE5zNEVCRWkwWFpFbXZCa0xYYWZEY05JdmxCQQ?oc=5",
+   "summary": "",
+   "publisher": "https://onnotice.com.au/",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skills-in-demand",
+   "published": "2026-09-18T23:35:26+00:00",
+   "fetched": "2026-10-07T07:46:38.609638+00:00",
+   "visas": [
+    "skills-in-demand"
+   ]
+  },
+  {
    "id": "4486825c1e5bfdff",
    "title": "EVENT | International Relocation Strategies: Tax, Immigration and Wealth Planning for North America - EB-5 Insights",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVdhTTgzVmYwZjc3XzByUllnYTdTSkRuTTctbmNoUlotRW1PV2hkUTNoaHRubGlOWGZDRHYtX3NrQkhrUU9SSmJTUDVfNkZyYmE2QmNQRkNuYUFOX1ByN21IRE9mVHRJWlZLRG5WbmUtc3NxZ1NWbEcybC1CeV9JSjRrUk5xTk95emhPTzdiWFlCTGI0Rk5lNUpXVzhRWEN4MXNkbDNPRXNCWFB6anlNN2FWalppOEJaQWFMX29sQkpGT2lCYlYxeC1YVDBJZzJh?oc=5",
@@ -16010,6 +16053,21 @@
    "fetched": "2026-10-06T23:43:18.545618+00:00",
    "visas": [
     "family"
+   ]
+  },
+  {
+   "id": "d53b9cdbb979ea4e",
+   "title": "AustraliaMigrate Examines Direction 117 Partner Visa Priorities - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV0VCQlhrdDBXUHhCYUZqNks3ZGxTbWJicXhQbTEtNTktTGNZeFpncFUweWVKdE5VMm5HcU1Nb0FvT2xPSlF0cGJxb0JWbGluc2dneGZGem1pN0VJR2RPRTJCZzlmNm9zNGtHTGFRTko2T2VVZy1QMDU0b045NHRabzZzOW5IT0J2MDN6WGI1X2xIQ0lFSHpyeDg5eUxZbWNldzZpMUxvZDU0QWZyVnhvbHl3?oc=5",
+   "summary": "",
+   "publisher": "Yahoo Finance",
+   "country": "AU",
+   "type": "news",
+   "source": "au-employer",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-07T07:46:38.609638+00:00",
+   "visas": [
+    "partner"
    ]
   },
   {
