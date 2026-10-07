@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T15:52:03.259818+00:00",
+ "updated": "2026-10-07T16:18:02.839630+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -169,13 +169,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-family",
@@ -465,6 +465,21 @@
    ]
   },
   {
+   "id": "29c66edc199a8677",
+   "title": "Trump administration proposes a $70,000 fee for international students to work in the US - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGRFMi1hVEtZT0lSV1lDX3NReks0S0dmLTdkVjMzR2hxVlB0TXYzMW53S0VYLWZKRTJvWWhhTEJDQjVaOWlrOUJVb2RmbWJFd0tlOUhhcC1iT2xDQVprRXl5ejYwbTRaWmlyVEE2TDAzRXg1ZFZRU1lnamRwWTllQ2hneXk4bUZmSkFETEhsUmttbVdJUEFPMF8tTlZabE9VVTVMcGludHpWM1N3NDZYVFJxNA?oc=5",
+   "summary": "",
+   "publisher": "AP News",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T15:14:00+00:00",
+   "fetched": "2026-10-07T16:18:02.839630+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "dadf414efe947217",
    "title": "Your Employee’s H-1B Change of Status Is Now in Effect: Next Steps for Employers - Reddy Neumann Brown PC",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUZ3eVE2MWRTc2QtQXdaSWRSX0Q4NXA2UWY4VUFvR3RlejdESHpzUlhGLUZLZURzazFnSE1naXZSbkVLcE5PQ0JqQzBQNUF2U1ozekQtZmh3S2swS0FScnR4aGQwTElscGZMaS1YSThfVnktR21YbFBFT2xnT0FCdGoxTDJaQVBjOG9lNzBraXZvanBCQlJLcnFjTEtCTGJWYU5xUlZiVno1QQ?oc=5",
@@ -522,6 +537,21 @@
    "published": "2026-10-07T14:03:00+00:00",
    "fetched": "2026-10-07T14:17:00.091666+00:00",
    "visas": []
+  },
+  {
+   "id": "59ed358bb850747e",
+   "title": "New ETIAS EU travel document for Britons could now be delayed yet again - Majorca Daily Bulletin",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOekUxOThpVDRGU1JjTUh0QXdka1NrOXkzdlRmS2hrOE13MkFoaXN5dE1hdzJiTEFIdXUwMUQ4VVhUcnJsSXpLSXptMGlFYWQ1clZhNmMtSkVQWE11dXJfZzBQcHc3UkNyUDY4Y2ctTnFqYkZ2TGtoUFNFZWMwbmNQek9TOGxwUEhrbndtNGhTY2lMaWdIOVlHZzNWQm51NXVTYlY3eVdxWUlLLWRLN284dTZOQ0E2cWphb1ZaZDhfUXNTNjk1S3ZIS2xzVGtxMmN1UFHSAdIBQVVfeXFMTnpFMTk4aVQ0RlNSY01IdEF3ZGtTazl5M3ZUZktoazhNdzJBaGlzeXRNYXcyYkxBSHV1MDFEOFVYVHJybEl6S0l6bTBpRWFkNXJWYTZjLUpFUFhNdXVyX2cwUHB3N1JDclA2OGNnLU5xamJGdkxraFBTRWVjMG5jUHpPUzhscFBIa253bTRoU2NpTGlnSDlZR2czVkJudTV1U2JWN3lXcVlJSy1kSzdvOHU2TkNBNnFqYW9WWmQ4X1FzUzY5NUt2SEtsc1RrcTJjdVBR?oc=5",
+   "summary": "",
+   "publisher": "Majorca Daily Bulletin",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-07T13:25:16+00:00",
+   "fetched": "2026-10-07T16:18:02.839630+00:00",
+   "visas": [
+    "schengen"
+   ]
   },
   {
    "id": "08cae64ce8da4855",
@@ -595,6 +625,19 @@
    "source": "au-en",
    "published": "2026-10-07T11:57:02+00:00",
    "fetched": "2026-10-07T12:53:19.977913+00:00",
+   "visas": []
+  },
+  {
+   "id": "1e8d1b1e08e350b6",
+   "title": "‘Policy must benefit Australia’: Labor blasted for ‘failing’ on immigration - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONHRoendPV0Z3VTlaTFpiRGNMWUtHVk0yZUVGbXR6T1N0akZTbmxKaUFyQXN5MHR5TWlJcFhMWUh0ZUpaVnRRcjM3UFJTeTVyb1NSbzk1QkY4SDlwYjlONTIyYTduUWwtaGpFVm9tNUtfNFRiNlNnbldGcmhnTExwMmhiUDN1M1FEY0FpMWRMbTRoZzk4ckxNNlU5cXphUmQ0c0w1YmVQTkhwdmlnQzdOR0xfb2hEVHItLVJzTV9WRlBMTXkxRkRtTmVJMjJIbjFrUzZpcjl6OWYzNXhKeS16SUhFUFRLbXM4NXRCanJjTQ?oc=5",
+   "summary": "",
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-07T11:55:08+00:00",
+   "fetched": "2026-10-07T16:18:02.839630+00:00",
    "visas": []
   },
   {
@@ -14818,6 +14861,21 @@
    "published": "2026-09-18T07:00:00+00:00",
    "fetched": "2026-10-07T00:54:08.314585+00:00",
    "visas": []
+  },
+  {
+   "id": "2a2363c327069fd8",
+   "title": "PNP Diaspora Region Elects Inaugural Leadership, Expands Overseas Voice - South Florida Caribbean News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGs2QUJoRHd3Rnd3Sko1Ym00bXd0ZDU0bmZJakVMTlZwRmktV3p6TmlRcmlVWE9LTVMzaU5uU3BLTFV0ZUhnMENBYlBLRS1tNGdmQjAtU1hDVWZtNG5MZFpXVUxHVm1ONUtUcno2OVNfVmFtdFRiejBaTkdieVN4TnRnb0xES2dpTlRHRmNiYk00LVnSAZgBQVVfeXFMTlpBcmJOU0ZENGtVMnNKRDRESkRNWWcyamhDWmNwck42b0c3OF9PWENsVUNYZTdZY0pHYklWS2hOb3JyZUYyREt1dC15RkFqRS1HVUx4X0VjOWVsMXJhc3phZUZzNzRmOXZMMWVmaEpMMmNvSzN2czY3S2IyV0lscGVyZTZzNjlEOFVYenRMcUFGc0dZNmRlRlc?oc=5",
+   "summary": "",
+   "publisher": "South Florida Caribbean News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-18T06:14:43+00:00",
+   "fetched": "2026-10-07T16:18:02.839630+00:00",
+   "visas": [
+    "pnp"
+   ]
   },
   {
    "id": "6c8affecfef82540",
