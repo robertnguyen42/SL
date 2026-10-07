@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T06:18:34.894263+00:00",
+ "updated": "2026-10-07T06:51:20.051660+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-employer",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -313,7 +313,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-residence",
@@ -502,6 +502,22 @@
    "visas": []
   },
   {
+   "id": "a787b2cf05facd73",
+   "title": "Base vs Enhanced PNP: Which Needs Express Entry? - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6SDZVNEZTcmRoMHYtWnA0RTNfakxtb2lWM0ZFaTZxMkNGWEttLXJfQnNOY0hlR3IyUG1PWjk1WVlYMUFaV0o5RUtZQ3R6VC0tRnV1X3ZMdy1vQXRjUUw0?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-07T02:29:36+00:00",
+   "fetched": "2026-10-07T06:51:20.051660+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ]
+  },
+  {
    "id": "2df093ee7c4f3f6e",
    "title": "Provider selected for New Zealand citizenship by grant test - 1News",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHdpRlNtWklwYk12cVg3NHI5eEhNb1ZuOWdkN1ZPSU9qWmR6MUFxMGlXbFF4TWU4b0IzcVJDaFBVTy1iZ1ZzQTVDdFVteFV6OERTc0J0YncyaWozZ2RpOE5WdGNjeWdodEtNUk9YTGZVeE5DWFlrVm5sY093bnpVX2Z2dElzRHZxengwTlNuaURjV29xZ0ZFUVVZSQ?oc=5",
@@ -554,6 +570,21 @@
    "published": "2026-10-06T21:01:19+00:00",
    "fetched": "2026-10-06T21:14:05.797856+00:00",
    "visas": []
+  },
+  {
+   "id": "3021ec7446954cd6",
+   "title": "UK Arrests Three, Reviews 100 Asylum Claims Over Network Allegedly Faking Evidence For Gay Asylum Cases - Sahara Reporters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQckp3RTNzZ29KVmxRWmlBVm9rRFRUemxPZXNqNmVpR2ZlczZIbFBKYlFaS3MyLW5UQXBmQlJScy1IUnpiX0xGTzQ2TlYtT2dfVDBNWGkzS0dKSDZjUDBiaTBEZG1NMDVmQ3BtYjdERE9MazJvV0w1U2F5WDVnNTZUSVFZUDFxV29EQU0tQzVVNVY4ZXpnWEdiNkZSOWZld2VwR0hyWUFnNGt4RHBMbFhjdzFvN1JMMkk5a2x5aXVNMzhVdw?oc=5",
+   "summary": "",
+   "publisher": "Sahara Reporters",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-06T20:41:52+00:00",
+   "fetched": "2026-10-07T06:51:20.051660+00:00",
+   "visas": [
+    "asylum-policy"
+   ]
   },
   {
    "id": "fa5341fb30c95d35",
@@ -7844,6 +7875,19 @@
    "source": "eu-uk",
    "published": "2026-09-29T11:08:02+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": []
+  },
+  {
+   "id": "db5426938834bdd4",
+   "title": "Australia Announces New Skilled Visa Rules for Ghanaians and Other Foreign Nationals - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFVsWS11U3FQUGU4RG9EblZ3SVo1LWpULXlpeXl5LThGdTBkRFVUX3NwOE9nbVhUTG9qUnNyeHAySlhkRmRUaldTM0QyU28yNDIyQ1VpM1FWN05YNFJscjhzNEJMX2xaZTlQZnRoUXgwSlh5TEd4di11bjZtbTU1SGxnakZwTnVIVmZ0Q0RleEJEeE53WEpFREdfUm5pYXc0Ujd2UlBUNnVNNDVS?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skills-in-demand",
+   "published": "2026-09-29T10:41:09+00:00",
+   "fetched": "2026-10-07T06:51:20.051660+00:00",
    "visas": []
   },
   {
@@ -22286,6 +22330,22 @@
    "fetched": "2026-10-05T02:21:52.485743+00:00",
    "visas": [
     "asylum-policy"
+   ]
+  },
+  {
+   "id": "4568e5d70f4e6483",
+   "title": "Skilled Migrant Category Resident Visa: Apply - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iWENFNGZ3QUtnMU9aVW05YnJnZTRNV1R1OWNuQi0tdkxETjQxUkl3aUhGZURhMnJuM2thXzl5WFdqck9lY0FzeVNjLTVUS0t3YUFmLUFiVEs0aFJoZWk5UjIwU01rLU5qYmdGUg?oc=5",
+   "summary": "Skilled Migrant Category Resident Visa: Apply Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-08-25T23:50:06+00:00",
+   "fetched": "2026-10-07T06:51:20.051660+00:00",
+   "visas": [
+    "smc",
+    "residence"
    ]
   },
   {
