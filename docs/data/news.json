@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T20:45:35.234958+00:00",
+ "updated": "2026-10-07T21:15:16.697680+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "eu-citizenship-investment",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,34 @@
   }
  ],
  "items": [
+  {
+   "id": "e2c8d9b948270e56",
+   "title": "New Funds Transfer Scheme option for Indian & other eligible international students - Indian Weekender",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzVjMjdSUUVaaUdCcU0wdEk2OTNMSGQ3VkhzQl9yQmRidFo5RE5LakdNLVRPUmZDaS1SdG1iUzdzSlc4TkgyWkwzOWZCdUtiRmtWdk1TMGs3WnowNmFaWkNaUGVrYzVZS0xMUnNjWnI3V1FXRWJNZXlUSDVEdWEwaEgteGtsYktiWlNZd0NQS08yeGJjSUlhWTRfQjFrTnlFZlJFNGRmMmhiU1FFc0hlVElhbkltY2lXZ3RMV1ltQkt3SWsxakdxSVV4NUtVWGN0bjVJUw?oc=5",
+   "summary": "",
+   "publisher": "Indian Weekender",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-07T21:13:30+00:00",
+   "fetched": "2026-10-07T21:15:16.697680+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "6114aee2bad0d2a6",
+   "title": "USCIS hits ‘most critical’ phase of financial systems modernization - Federal News Network",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQkZKMFAxek94eGhWbXZaVF80SUREdTZXV3VJMmlvNE9EeEMya1RjUFZUUVFHSGpueHBjMU5TdGttUEJjMGVIVG8tRVM0SlhxczZxRnVXVEZwNnhESVc1cWU5ZjU5S0p0amRHZ1V6MUlYUy0zWFYzZGVhTUY2N0FHVTlYd3dmWFFWbE9qWmRIdUpyTVlWampXR3dJYW9KTWJqSVZHbGhJSVVmZWFIYy1JeEY5dlZ4UnNhUE1yVmp3cWRzcUJY?oc=5",
+   "summary": "",
+   "publisher": "Federal News Network",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-07T21:00:00+00:00",
+   "fetched": "2026-10-07T21:15:16.697680+00:00",
+   "visas": []
+  },
   {
    "id": "fcc40f6235cf2cac",
    "title": "New Zealand changes parent resident visa rules: What Indians need to know about new 90:10 EOI rules - Business Today",
@@ -549,6 +577,21 @@
    "fetched": "2026-10-07T18:18:24.470928+00:00",
    "visas": [
     "asylum-policy"
+   ]
+  },
+  {
+   "id": "6845a644aecdacc1",
+   "title": "Trump administration proposes $70,000 OPT fee - The PIE News",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JdkhXbERkOHlGSXZIMU1CSHFtY0RRNXB0ZmNkMUtwS3Z0Tzl4T1kyVnN5dklDZmRpNVJWRXZtZTltVGhfaHJxZE5tT2duZVk1eEVQYkkyVjgyRG1aZ3IyWmx6RkVxZkhyVWtaTlZJVHJyWHBldEE?oc=5",
+   "summary": "",
+   "publisher": "The PIE News",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T17:24:52+00:00",
+   "fetched": "2026-10-07T21:15:16.697680+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -685,6 +728,21 @@
    "fetched": "2026-10-07T15:26:20.162747+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "aa98cee385006d7f",
+   "title": "Green Card: how to replace it if it expired, got lost, or was damaged - El Cronista",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWEtUl8zYjJwcVhPaThYbVl0QkY3Vk96RGM2SFNBWHQ3ckZqd2EwemxrMy1ET09EdURYalRZMGtfbHBvQjBWMnlWcTQtUVp3NWloNEdsUE5RODdKVE44TTlXQ3FuMDE5dG5hc1hka2E4MW9jSTlJRnRnSERfWmJ4YXBRSGdUQ09MSW9xZDFmU0Y1Z1J0R1ZYdzh6U2dyRXpRZjRwQkZpME1NUTA?oc=5",
+   "summary": "",
+   "publisher": "El Cronista",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-07T14:39:32+00:00",
+   "fetched": "2026-10-07T21:15:16.697680+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
