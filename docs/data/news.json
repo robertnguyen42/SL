@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T14:46:43.220711+00:00",
+ "updated": "2026-10-07T15:26:20.162747+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "eu-gov",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -420,6 +420,21 @@
  ],
  "items": [
   {
+   "id": "dadf414efe947217",
+   "title": "Your Employee’s H-1B Change of Status Is Now in Effect: Next Steps for Employers - Reddy Neumann Brown PC",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUZ3eVE2MWRTc2QtQXdaSWRSX0Q4NXA2UWY4VUFvR3RlejdESHpzUlhGLUZLZURzazFnSE1naXZSbkVLcE5PQ0JqQzBQNUF2U1ozekQtZmh3S2swS0FScnR4aGQwTElscGZMaS1YSThfVnktR21YbFBFT2xnT0FCdGoxTDJaQVBjOG9lNzBraXZvanBCQlJLcnFjTEtCTGJWYU5xUlZiVno1QQ?oc=5",
+   "summary": "",
+   "publisher": "Reddy Neumann Brown PC",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-07T15:06:57+00:00",
+   "fetched": "2026-10-07T15:26:20.162747+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
    "id": "3c3377bf3a0795dc",
    "title": "Lawsuit Challenging USCIS Green Card Policies Filed - International Legal and Business Services Group",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEZaUklrbDZvRndON0c5Q0JFUFlRdDMwY211dWgtbGlycDlXWHFpb3lCN2xwUUg3OFV1cllIaFhFZlBNQTdLR08wMlpuM2dGVVBMLVZaSTJzc3J4LTB4dWlLbVhZdU9PdnE4RGlhWjdzSmU0bGdMNTdtcDVmQW1tUkIwZjYyQ19HMThKRWtkakd1NDdUWTFJ?oc=5",
@@ -460,6 +475,37 @@
    "fetched": "2026-10-07T14:17:00.091666+00:00",
    "visas": [
     "golden-visa"
+   ]
+  },
+  {
+   "id": "eb002f0762cdf53c",
+   "title": "Brevet Capital and Navis Wealth Advisors Announce Partnership to Support EB-5 Investors Beyond the Green Card - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGo4MmtDMTM4S3BpQ0VSdEZ6d0hhX2hBNzB6ZmNBZEhnY2JURVBsR0FhNF91M3dPX1l1LTJiMnlNb2N0RmNqaEZYUHBSbWpUNUNYQXRJUHNGRWowNVJRemlLS2tTZXFJRElZQ2hVTmZCZ1JlYVY4V2FXOTh6ZEdvdG1UVmZxOVdmRWctUFk4alJhN0p1V0FhdVNVMk94eWRsMFBN?oc=5",
+   "summary": "",
+   "publisher": "Yahoo Finance",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-07T13:00:00+00:00",
+   "fetched": "2026-10-07T15:26:20.162747+00:00",
+   "visas": [
+    "eb5",
+    "green-card"
+   ]
+  },
+  {
+   "id": "c3ade8b5d42a0f59",
+   "title": "Ứng dụng AI ngừa tự tử, du học sinh Việt được bang Úc vinh danh xuất sắc - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHd6eV9hWl93TnIta1JmandTbTY1eEx3WGVpN2pGTmtPTjhObFluZktXOGxmazRtckV2TkJjeVlqaXRNUFlJNnFTWldUcndaVFJYYUZ1VmJndUtNSmtOOEVMc1hTTEZaN1hTWWhkbkdFUV9udnNFMlhEdmE1dUtCaVhmSExNNTFVdTdlQkZzc0Z4VU5iNFBPR3p3?oc=5",
+   "summary": "",
+   "publisher": "Vietnam.vn",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-07T12:35:58+00:00",
+   "fetched": "2026-10-07T15:26:20.162747+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -590,6 +636,19 @@
    "source": "nz-en",
    "published": "2026-10-07T08:51:35+00:00",
    "fetched": "2026-10-07T09:47:40.133889+00:00",
+   "visas": []
+  },
+  {
+   "id": "1b8d47ae6574edd4",
+   "title": "Nhật Bản siết quy định cư trú, người nước ngoài đối mặt chi phí cao - Chợ Giá",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHlLTmtYa1NvZnBONHRpZlJqVkN2UVRiU2pYbWFSeXg3eHZiMnBZaGpHSnF2QVFwRkJjZldzVmV1RzF1S2Q5NDJ0T1ViZjlCZ2tIOHFrWHlLU1dZQW94TzJncXVwdXB3M3BUNF9iOF82ejF6ckFFZlVlWjRzSW1JZ1RMczlMc3N2M1RadHRFWmJkRnlZdkE?oc=5",
+   "summary": "",
+   "publisher": "Chợ Giá",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-07T08:44:40+00:00",
+   "fetched": "2026-10-07T15:26:20.162747+00:00",
    "visas": []
   },
   {
@@ -5774,6 +5833,21 @@
    "published": "2026-10-01T17:31:00+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "cea6eb4fcf2d431e",
+   "title": "Immigration experts concerned over delays in H-1B extension for Microsoft, Cognizant, Infosys: 'There has - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQSWpoRFdkX25pR1pUZEFwWmV3cXNBRENRejJub0JBV3RFRGRKeTRqTGp6QTRidXRLam8yVUNYM0FmUG1wamdQWlpZSjdubTFzdElpcFQ2MXppUWZvNmlfNVhNbkotbDZtRnhKTXpySU40Z1BPREk5LWxwNFNXU2NneFFWOUM2UFNfMFN4bzdMRnVvVkFoVEp3TUs0Q0t5U2ZZSVFMeU80ajRLYzRpWUpxOU9PTzJBTlppeHVpbFBZTzdQc3F4c0t5dGhfSEVKQ1h2dHdUdm5nRlNYdVl4RHZ6MWJZVzZKLWVpcmp6dFJsTnNhOUUwUEpBUkROQ0hJRkpjeHJsWFN2aEstNkFhTEV0NklEeEV4Y0tfWC1PTzlkUdIBpAJBVV95cUxOYlo3aGxkWWdvcVViRnJUY29vTFdSOUVQMVdSTE96cG1kTkZTWTd6X1lucElsdTczVnI4NTBKRDZoM0tid1VlRzJzVHNOUDBkZnJiNXNraVhXUW0xdm4wcjNEdjdUR0FfR3JtUV9sazc2NW8xNS1tMTN5bl94RFNIRzFpVUpEX0UwYzc3cFNCNGlxeVc3c2g4XzhlVHFKaE02NlZxMkVTbnk2WEpyUktGTUFEZ1hzUzJjYVNFYUJMLXRVZHdmY3VWY2dYU1piVHVraWhsRXl0clRGUzA1cXlpeGVuOUxlNnk4ckh1ME5sUC1DVU81YTI4ZFNmRk5PeFNKdkI1YlEtVDZYOEpEdVVTQ1hoRTRyQ0YzNU1MODBNcXRQeTVx?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-01T17:09:00+00:00",
+   "fetched": "2026-10-07T15:26:20.162747+00:00",
+   "visas": [
+    "h1b"
+   ]
   },
   {
    "id": "93c5f418e6e0d810",
