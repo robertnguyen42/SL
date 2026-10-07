@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T03:47:17.787591+00:00",
+ "updated": "2026-10-07T04:15:45.010974+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-employer",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "au-student",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -313,7 +313,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "eu-golden-visa",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-aewv",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "1d637f7fa9d27b7a",
+   "title": "India is NZ’s biggest student visa market, but INZ’s own data shows only about half of Indian applicants are approved - Ahmedabad Mirror",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOajRpakU4cjRBUlFCcTJSOFJDWUs2M2R1NkZVTzR2ODA5dEZKakVFNTc2OWFTZXRiSkoyTVFiRDdkS1pOd2xaRnoxX1hXMWZvZjFrT2lVMEk2TUp2R0ZuazAwOFdnUEt0dFMxaEV5NmY0M0M5N040VTJDLXNJakNFY19ubzBfMVZjSV8xblcxTUFfM2hGMmRoSlltQlMxRU1BU3ZoQzBoT1pxSGFLUlI0RncyWGlXNkw5Q3cwRXpYdXh0b21UUllRamE3TF9pWm9jME1pTFZBNUtoTlpXNHl3bU5uazNNN1BfWGk3Rmg1bmp1Zw?oc=5",
+   "summary": "",
+   "publisher": "Ahmedabad Mirror",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-07T03:57:37+00:00",
+   "fetched": "2026-10-07T04:15:45.010974+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "93ac89931517c280",
    "title": "Immigration policy to give a fair go to regional Australians - NSW Nationals",
@@ -765,6 +780,21 @@
    "visas": [
     "h1b",
     "green-card"
+   ]
+  },
+  {
+   "id": "14ca703844b06442",
+   "title": "UK Immigration Update 2026 One-in-One-out Ends as New Refugee Routes Open - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0VnVUdm5zZExRd25TdGwzbDlPcElKdFpsOHFOai1JektxajIzbFVISDVhRDZ1Tlg0aEpMNkkyMVNPQQ?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-06T12:39:07+00:00",
+   "fetched": "2026-10-07T04:15:45.010974+00:00",
+   "visas": [
+    "asylum-policy"
    ]
   },
   {
@@ -10702,6 +10732,21 @@
    "published": "2026-09-24T07:00:00+00:00",
    "fetched": "2026-10-07T02:45:48.918507+00:00",
    "visas": []
+  },
+  {
+   "id": "43a9dde9c83d639d",
+   "title": "They worked nine-hour days for $100 cash. The promised work visas never came - Stuff",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTHNVai15OVNONFdwcVd3T3pDTExoZjg3alhUSW0xMVhjT0R2aUk3S01PNndBb3JmQVdFU2xmYXBXV0RsYkVwM1JnRTRNWGlTQkdfMzkzQXdEb2UwYjNwTmh4M0xUWFh0bDhkbGE4bmJzWVd4WnFkUTJkUkJoRHEydGNWS29qREo5aENVOEwzdHRjclJUVDF1ell0djNCNDN3MjY1RjVmNU96cGFq?oc=5",
+   "summary": "",
+   "publisher": "Stuff",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-aewv",
+   "published": "2026-09-24T07:00:00+00:00",
+   "fetched": "2026-10-07T04:15:45.010974+00:00",
+   "visas": [
+    "aewv"
+   ]
   },
   {
    "id": "671ed9f03ca957ca",
