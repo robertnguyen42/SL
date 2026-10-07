@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T10:46:37.464205+00:00",
+ "updated": "2026-10-07T11:15:20.149614+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "id": "us-visa-bulletin",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -419,6 +419,22 @@
   }
  ],
  "items": [
+  {
+   "id": "411a2892c8dfbdb7",
+   "title": "New Zealand post-study work visa offers study, work opportunities - Daily Ausaf",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE45QS1NNFJxaVp4RmtFZ0VWejgwOXBiMnQwZ09QT0I0bWxnVkxwbUdfOVNDQmtsRTlOSnV2cm95LWFDV3NTbjBobk5ia0ZhQVBhd0pGcVNlZGl5Rm9TcFlVVDY0LXBIbG9CVUZkc04xZWlEZS1fNzhXeDBReHVNcmRrQ0lMRVVqSnhhOFdhbGNDR1RCN1JqTTlJLVppbzVadUHSAacBQVVfeXFMTjdEZ2wtU0Y4c2g4TGFmZWxVazVncUttZUZ4XzVfSWtyOFpPQVEyWlRDTDduRU14X0poSm9OcGdRUXFZdDg3MkhobENyU2hJZ2pScUpncFU0UFZQb1JBMXVzZjhjdk5LbC1jbkZ3bXlneVAtU1U3YWMyWGRfalFXYkwwWUFsZ3RTZk9mM3dTLTVVOFdLUWM2Tl9rZk5BWDQ5SHV1OGFFbVE?oc=5",
+   "summary": "",
+   "publisher": "Daily Ausaf",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-post-study",
+   "published": "2026-10-07T09:36:26+00:00",
+   "fetched": "2026-10-07T11:15:20.149614+00:00",
+   "visas": [
+    "aewv",
+    "post-study"
+   ]
+  },
   {
    "id": "abaf256d5cd8c1bf",
    "title": "Cross-party panel to discuss immigration and future of ethnic communities in New Zealand - Indian Weekender",
@@ -2706,6 +2722,19 @@
    "visas": [
     "golden-visa"
    ]
+  },
+  {
+   "id": "762c711c300fcc59",
+   "title": "Alberta Rural Entrepreneur Stream: Requirements And How To Apply In 2026 - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBITWd4T2NTVmxIb21PRFJKMmlOZ216bjNKOEFOMVlhNDVNc3JZNkxBcW02b18yWlNzVDdzenJiT0pTamFSQmxWUmw3WXJLVjItRTBtclNXcEJpZ2VoeHJFWkotZG9LbWpVaHRLU1lzYW1iUmppVkRHZA?oc=5",
+   "summary": "",
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-startup",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-07T11:15:20.149614+00:00",
+   "visas": []
   },
   {
    "id": "9c24db098c37e744",
