@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T12:20:39.491343+00:00",
+ "updated": "2026-10-07T12:53:19.977913+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "us-visa-bulletin",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 29
   },
   {
    "id": "nz-family",
@@ -419,6 +419,34 @@
   }
  ],
  "items": [
+  {
+   "id": "6a92fa77be366a30",
+   "title": "USCIS Hit With Lawsuit Over Green Card Changes - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPekhMOUFRWk5reGxNN2YyOEZvZnhnOFJHbVViNDNGOU5XZ3VSNE1UUXdmSFpMSTZGVW9GRk1IdUhNRFhKNVRZR1FYbEd4X2l6aXR1MXQ3RXRHN3VIRVVTc1JkWjdNeklDOGFrcW1JdUpOLVVBTTFMTHBqRGNoYVMzUG9lZkc1Slk?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-07T12:12:00+00:00",
+   "fetched": "2026-10-07T12:53:19.977913+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "6b0ab60823a11feb",
+   "title": "Labor government has ‘lost control’ of Australia’s immigration intake - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbXhhUEl1Z0kyRjducUdSemFzUVJBQU5LS3lLX0x3akZkUW16eTYyWGJKUHh4TENjeUJCdkdzQjRaN0Ftd0RnQWpZQjNMaVJ2djk5cHlmMXJqWlhRSmp3TkttVVdua1FadFQ0WlJDMmwwMWRzTEZ6S3ZmcGpYc1BzaDVYRVB3X015NWd3c1dQRVFoYlI3emRtb0ZNNEhDaDg4ZFhxQUU0NEY2anJ2VWZEUF9nVzJuSTRCbWxRbmRPMTEwVzFYX0Z3TzRDMzJJSXVYNzhnTlZtMS1DTnozS0xsY0drSnptdHNYdVE?oc=5",
+   "summary": "",
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-07T11:57:02+00:00",
+   "fetched": "2026-10-07T12:53:19.977913+00:00",
+   "visas": []
+  },
   {
    "id": "8190208131150429",
    "title": "Canada lists family members eligible for open work permits under special rules - Yen.com.gh",
@@ -839,6 +867,21 @@
    "source": "us-visitor",
    "published": "2026-10-06T18:06:00+00:00",
    "fetched": "2026-10-06T20:14:54.887618+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "f08453fab10d3fb3",
+   "title": "‘So grateful I could scream’: Judge orders immediate release of Louisville woman detained by ICE after green card interview - WKYT",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMUdVWnBjRUVKM1RyN1dNYW9RT0hmdndTa1lPdlRhUktfcC1Oa1RjeEdiVFZ1TGphSDAtNU44ZTdaTmF4ZDR3dWZ6UXd4YVVTUkJMY29aemVJX1pCYWdkcUZWYlV0RVZqUV9zUVlMd3Y4NG1IVFV4TmhVU09FLW1USFBIZ1RXY1VZeHNvWHlRU0FMLS1ReXlPWGt5VE1HbDA0c2U2ODNzV3BRaVR5U0dUTWNOZWE1NW9rY29WWW9Wb3ZoejVOakgzUDZTMFU0bEdpNmZSTG1kZVBJenF4c3lGbnhSRXDSAfgBQVVfeXFMT0RCYy1vazdjSXp4UmJ1eXVMS0xldl9mTVRSb0dIV3E2elFhSG1IMkF6VnNrM3NkaF9wc1U1WjFhQUZXdENrZi1mSnBicW9rU0l3d2dBLVZJQTluVUhSUWFLS1lXeV9TQUdUdUI4bVpNelZRN1pHY3ZnSFRGQnJzSVVZYzBHbng2YjkyVHFVYl93TkkwUFVMSzFteWFHNXlmS001X1N0SzdUMzIxYVk1alRVNENsbmx4bS1XVWRVQ1dIOVFfbG5zNVpfS0hOWVd3TzNJT3ZsU3NIZkNPMDBwcEVLWE9HOWwySGZPMi1OUHRxZllCXzM1OXI?oc=5",
+   "summary": "",
+   "publisher": "WKYT",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-06T18:06:00+00:00",
+   "fetched": "2026-10-07T12:53:19.977913+00:00",
    "visas": [
     "green-card"
    ]
@@ -17272,6 +17315,21 @@
    "source": "us-student",
    "published": "2026-09-15T07:00:00+00:00",
    "fetched": "2026-10-06T05:45:22.856319+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "d03725012d543ca1",
+   "title": "US F-1 Visa New Rules 2026: What Changes From September 15 For International Students, OPT & Programme - Free Press Journal",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNRTl3U0lvbEZWM2l3dHNGeXVWMG8tX1AwZDN1Q3pySmpPNGFzdUZaOE1xTEtqRkNsVTFtc2Z1cXdxTjZKMWpsendoYkhWcE1PdlFMVjg0ODlxZk1yd2I3aUdCc1JwOXlZTzhnNmwtNm02ai1RVHJKaS1pOFJxUURDNVJ6X3h2Skx1b0NCVmtNRFFXZDVmZVFKRGtaVDBMdEdLdkRPV29sWFRwUnB6NC12NndobElHV0hCWnRYdFd6a20zU05MU3dhTmRKcnowYWx4Z3lPZlpUMldrWXVVbFhpUURIYnROOXRqbmVWb1FjYU1uLUJZREMydlRHdDU2YXVYZTVJd1lDSzJkZURiU2dYemRfUjhWWXFNN0dvd3doWWdHbjd1RTRB0gGsAkFVX3lxTFB5LVUySDNEY1BkRGd2RmJJN2ZUZVhuVE1VWnlsZm5GMU15M1dFdXB1R1pDTTA3c2NZb0pYT0RtZVRHbF9xSVB6Wmp1dlFlM2I2QS01MjQ2RWY2aDgxdVNiTUhRUXNITENYTGJZYlE2c0JJZ0VuUTl1VWg5NTY0aHpiWFpxcUJsb2dsaW93Z2ctYzVnNHhvVFlnZldiWHBpUlhORW9tQXd2SmpyQ3JtOHBvNTFLZXBfNmpzTzR5bHBHZmdPMmJLWG5pWl92T2NpVkVTTkJPdWZXekJtQmxqN01nOUNpc1pZNjNxZjcxbUdjTFJqcHdxeFpZU1FzZzljUVB5X3ExanRocmwzNUp3ZXpiRy0zYm91WUJuelVtRHg4ZWVEeU1zdGNoRnlHdQ?oc=5",
+   "summary": "",
+   "publisher": "Free Press Journal",
+   "country": "US",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-07T12:53:19.977913+00:00",
    "visas": [
     "student"
    ]
