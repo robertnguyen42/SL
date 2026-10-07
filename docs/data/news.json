@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T01:46:07.020004+00:00",
+ "updated": "2026-10-07T02:15:22.264216+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -313,7 +313,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-schengen",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "2df093ee7c4f3f6e",
+   "title": "Provider selected for New Zealand citizenship by grant test - 1News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHdpRlNtWklwYk12cVg3NHI5eEhNb1ZuOWdkN1ZPSU9qWmR6MUFxMGlXbFF4TWU4b0IzcVJDaFBVTy1iZ1ZzQTVDdFVteFV6OERTc0J0YncyaWozZ2RpOE5WdGNjeWdodEtNUk9YTGZVeE5DWFlrVm5sY093bnpVX2Z2dElzRHZxengwTlNuaURjV29xZ0ZFUVVZSQ?oc=5",
+   "summary": "",
+   "publisher": "1News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-07T01:57:06+00:00",
+   "fetched": "2026-10-07T02:15:22.264216+00:00",
+   "visas": [
+    "residence"
+   ]
+  },
   {
    "id": "11d79bcca46c4cf4",
    "title": "BNZ to join Immigration New Zealand’s Funds Transfer Scheme - Immigration New Zealand",
@@ -969,6 +984,19 @@
    "visas": [
     "work"
    ]
+  },
+  {
+   "id": "4bd2f909a0b75698",
+   "title": "Coalition takes the beaten path to immigration middle ground - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDdBOXdBRDJ4Vnp4bzl6NUdYX1FuV2gwSmdib3NwVGlsLWw4bWFkMXNPS09seW1NTFV3V0xERmQyQXhvR192UHBkM1lPeHcxei1BT1p2VDU3ZGxaYkhTaVR1T2d0ejJqSDYzUWl5bU92X21YeWwzRVhjcWhYcjZvLVZXQXVsdFJOV0IzZkVyclI2OER1ZktoNDlYYnhrTDBoVVp3aDQxaXFqX0MzQ1ozSnprMA?oc=5",
+   "summary": "",
+   "publisher": "AFR",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T07:47:00+00:00",
+   "fetched": "2026-10-07T02:15:22.264216+00:00",
+   "visas": []
   },
   {
    "id": "98ae4785a401437b",
