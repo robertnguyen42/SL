@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T13:47:02.920184+00:00",
+ "updated": "2026-10-07T14:17:00.091666+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "id": "eu-citizenship-investment",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,34 @@
   }
  ],
  "items": [
+  {
+   "id": "80cf41c0887b7247",
+   "title": "Migration has become a major political talking point – how do parties’ policies compare? - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNzFEdGdGN1kxY3M5Mm9jNjNwLU5oTWk5eGlkbi0tTGJGNThtNl9ZWnROeE8tUGpvUWR6c3BaTFNkTjMyajBUS2ZuZ3hYVkFMSDYwNWVKOWFvZnFvQ0FBeUhsbVYtZ2hzNWlmY2lNcXdBZVpPNzdJczA3ZGc2dnZSMVhObm9wUE5femJ5MXVQN2wzMkhSMWxOTFFiVWpPTXlfMVB4eFNKLXpNUlJ5VGtOSmFaNDU0b3BaYTNJNlVUeERzLWx1Zy04ckpZd0NORWpX?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-07T14:03:00+00:00",
+   "fetched": "2026-10-07T14:17:00.091666+00:00",
+   "visas": []
+  },
+  {
+   "id": "08cae64ce8da4855",
+   "title": "Androulakis Slams Mitsotakis Housing Plan, Urges Golden Visa Halt - tovima.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcXhOOWozbnZFazBIUDJHM09TOExrQTdaYnBMaXZIOUtMWUZjeHFqWUJfeHA0RE5NOTBMUlR2dGdtcXk2bm1LV2pfTWlwV2RKRWpfRWdDLUFxNEJ1STlYS25ERWFwR3JVbUw0Ri1VcEVDVFZCMlQ4R1RZSEdjT1A1aktOTlZzd0xSMWVURzRRbzNTaVhyQW8xRjhfSGJhZ1Q1SGNF0gGjAUFVX3lxTFBxeE45ajNudkVrMEhQMkczT1M4TGtBN1picExpdkg5S0xZRmN4cWpZQl94cDRETk05MExSVHZ0Z21xeTZubUtXal9NaXBXZEpFal9FZ0MtQXE0QnVJOVhLbkRFYXBHclVtTDRGLVVwRUNUVkIyVDhHVFlIR2NPUDVqS05OVnN3TFIxZVRHNFFvM1NpWHJBbzFGOF9IYmFnVDVIY0U?oc=5",
+   "summary": "",
+   "publisher": "tovima.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-07T13:12:58+00:00",
+   "fetched": "2026-10-07T14:17:00.091666+00:00",
+   "visas": [
+    "golden-visa"
+   ]
+  },
   {
    "id": "6a92fa77be366a30",
    "title": "USCIS Hit With Lawsuit Over Green Card Changes - Newsweek",
@@ -506,6 +534,19 @@
    "visas": [
     "pr-citizenship"
    ]
+  },
+  {
+   "id": "cb018f59033fd943",
+   "title": "Coalition Migration Plan: Huge 650,000 Visa Cut Hits Indians - NRI Affairs",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBha2pKck5hRDhxd2RHdFduVWNTUUVEVDF3aTc2ajlkM1c1bW9CNjctRERCOVo2MVk4TVNuQ0RqcG9vXzR5MkxsUU4zc1hBeHdFRi03amdpNlpiWlBJRk9sVUhxVDdoRDExNWVfWDZUOA?oc=5",
+   "summary": "",
+   "publisher": "NRI Affairs",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-07T10:29:27+00:00",
+   "fetched": "2026-10-07T14:17:00.091666+00:00",
+   "visas": []
   },
   {
    "id": "411a2892c8dfbdb7",
@@ -21356,6 +21397,21 @@
    "source": "eu-golden-visa",
    "published": "2026-09-08T07:00:00+00:00",
    "fetched": "2026-10-07T01:17:05.507646+00:00",
+   "visas": [
+    "golden-visa"
+   ]
+  },
+  {
+   "id": "f5f985404027bca3",
+   "title": "A 2026 Guide For Moving to Greece - Get Golden Visa",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10TDNrYkcxNUtDNU9UWGpWeTVjVTJmNGlfdDIyMGFoZzNfOXhsaW01bkMwNEtMUzFsS2hZSE5YU1BVYUxvR21lajNkeTQwdlhIUkdqWQ?oc=5",
+   "summary": "",
+   "publisher": "Get Golden Visa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-09-08T07:00:00+00:00",
+   "fetched": "2026-10-07T14:17:00.091666+00:00",
    "visas": [
     "golden-visa"
    ]
