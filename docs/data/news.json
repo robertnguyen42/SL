@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T04:15:45.010974+00:00",
+ "updated": "2026-10-07T04:48:37.424067+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-employer",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "us-visa-bulletin",
@@ -313,13 +313,13 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 32
+   "count": 34
   },
   {
    "id": "eu-citizenship-investment",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-aewv",
@@ -2395,6 +2395,21 @@
    "published": "2026-10-05T09:54:42+00:00",
    "fetched": "2026-10-05T10:17:44.667952+00:00",
    "visas": []
+  },
+  {
+   "id": "15f7d6a96f9d2f38",
+   "title": "Australia Releases List of 4 Types of Parents Eligible for Sponsored Parent Visas - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaG81dElUNUZqOFBZOXN2WGFkUlJiY0RRUUFOQTFleGJrNmViTzlSeHJCTFRYeDZiWmVmcHB1aVBHRHVkYzR1bThjOFZQaE5ySDRub0J0dXpyWnQwMWR1cFplWkxOMlM3eExCYjAwRkhaT19TMktLa2tlS1JnSEdBN2hvQldvWmt1VXB6ZmVtN1lsNHpSckdtZTVMRXhSSXBXVFVwWWdnRzRNUEkxTDJZMTd5WlRDUkswS2x3?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-10-05T09:53:34+00:00",
+   "fetched": "2026-10-07T04:48:37.424067+00:00",
+   "visas": [
+    "parent"
+   ]
   },
   {
    "id": "85ef3180c013cf34",
