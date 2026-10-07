@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T19:16:14.410313+00:00",
+ "updated": "2026-10-07T19:44:19.997806+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "au-partner",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "eu-citizenship-investment",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "c47c70ac2b496ad4",
+   "title": "US Announces 5 Conditions Under Which Government Will Cancel Visa Bond and Refund Money - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeEVRX1VjbDd3T1drQzYtd3VBRjhSNmNHZDJsRThrT3FaMWlfTklmMURXQXJPUkd4T2ZXUDRMMUFHMjlLTnFhNy1BU3FjQ1UxTWMwSVhwZldXQ0hBcWx3cS1Rc2pYMFBXeE4tRUVxbElkeVdEMEx2RXI4ZjdpakVMLWxBN2x2NFJrQ0VXUWYyeTJyX2JkYV9EV09qYVdyc2dQMkhqVg?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-07T19:15:52+00:00",
+   "fetched": "2026-10-07T19:44:19.997806+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
+   "id": "b8c826b0415c225c",
+   "title": "Trump administration plans to charge international students $70,000 for work authorization - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMlhCa1pMd3dvMl9qSjgtTlpObWgwcFNGcXUxd1RKYV9VTzl2WVFaRXdtZWNfMlE0VnpjM2pGZmlnXzFfX3VZYWJZU1NrU1VZYWpiVnpfVG1FR3NQREIxUHp1Z1EwU2lXdDE4WlFFWi1QXzhub3Z5S3NWeHFwOE9IakxINjk0VG1xT05sMUI3M1lBaGV0VkxVM05PRXZSTmhJcGZ6LXNNWUxwcWFJRmc4V19ac1A5MWNqLUgybQ?oc=5",
+   "summary": "",
+   "publisher": "Reuters",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T18:57:43+00:00",
+   "fetched": "2026-10-07T19:44:19.997806+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "f6193b1e9baee589",
    "title": "Indian students face tougher New Zealand visa rules as approval rate falls to 49.3% - Business Today",
@@ -640,6 +670,21 @@
    "visas": [
     "family",
     "residence"
+   ]
+  },
+  {
+   "id": "01aa5f37bf7aff44",
+   "title": "New OPT fee proposed: Colleges to pay $70,000 for first-time F-1 students, $30,000 for extensions; DHS sa - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOU3lHZld2c0dydlMyMEVqdk1iZHFxai0wVDVJUExBMHJRSnhTWEg2ZGRGcWRqUTJ5RUk2ZG9TZC1ZV3JJZHRDcVN4Z1lnUzR5bVJfWmZTZmYzNnJxcUFoU2VaQUh1d2JNRU5KaFdoUmd1MzZqYUMtTjlSclBKM05ydEEzRmRJNEpPOXNxYnJkb3pmWmlxV2RoZlh4Y3Exc05KZlQ2Uzl5NkNBdTN1c1JVTC1mQm44QzV3ejBfaDRoQjEzQjNVeFIwOTdHZjRmeFdqTWZEQmJlUS1DLXBIbHFTNTd6SUdaRUFYc1BjS3BnampkaEhORl81UHBVejVESHBlY0xqVkFMV0JCSXVGMzViSExMMWNZSmxndFJVM9IBogJBVV95cUxNdEpVRF9ZOTVPOXUyVTN6QU8zdmhqckhOTjBYU0VpME80eHpSZGdTMnlzcXRZV21JRlJnaUxRNFZWdV9YTklFejRRRlJVMG5KMzNzY09aUEwtOWJtQnNQdS1pQnBMRjJnXzNHWmdDMjQ4OTh2NnpJbDI5WFZpREZyTTlTd1dSLVRrNHRrSGNfV2k0WEpUOXVtRWc4dTkyNk15MVNYc2tsWHV6UU52NTBtUUxYMW9RNHVRRThuSDc4dU10aUM4SU81UHExQ0h2YmtydWpxcW05cFpCeUJEMWhFbEw3VF8xZzFOSzBub3Jib0RIcWk5cVZyLTFDNjBVbWdCWEpuTnJOVVpLMDFaSFNOeVhsODNjU3dMNG0yQ1hFQUtNZw?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T14:37:00+00:00",
+   "fetched": "2026-10-07T19:44:19.997806+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
