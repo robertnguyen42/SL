@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T17:46:41.895042+00:00",
+ "updated": "2026-10-07T18:18:24.470928+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -193,13 +193,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "eu-citizenship-investment",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,64 @@
   }
  ],
  "items": [
+  {
+   "id": "f98ad14d0e2b5c74",
+   "title": "EB-5 Investors Cease Federal Lawsuit Over Mississippi Project - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXR1bUtWMW9FUlg3NEV2QXgzYVZIanIxRnhBYkhXM2ZhLTRNOXg4aWVaRDFNVVp4NWRIQkN0SWRLVkhzR2g2amtQNHVKaVBneWZVd1Z4OXdDQ1lUNWhEQTVfY0pSSkFWenpJYnVwVjNMR1M4LVV4T3FsTzRnVUU5MTBxeWc3ei11N21NYUF6VXFUQjJoQkt3dGlWaHZUWXFJdXNaQ3psenRsdw?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-07T18:10:00+00:00",
+   "fetched": "2026-10-07T18:18:24.470928+00:00",
+   "visas": [
+    "eb5"
+   ]
+  },
+  {
+   "id": "42fe2c98cc37d98e",
+   "title": "Dodgers star Miguel Rojas aces U.S. citizenship test during NLDS - Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdG9DS3dTNXRYVlRIX1B2aVFvUXpEOGxTYkY2SXllQUw3bGZycVI1dk1qNE1yY0RTTmlMaExWVUw5NjJfdnJkZFlsOEhPTEptbE41Z2xjQ1dTVElRb2RxVzBtZ1c0OWJ0MkxjbWZzdkVzWmtyQV9ZY1NTN2xiWWNPMUZ3TWJOQQ?oc=5",
+   "summary": "",
+   "publisher": "Yahoo Sports",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-07T18:07:19+00:00",
+   "fetched": "2026-10-07T18:18:24.470928+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
+   "id": "92105ababd4af06e",
+   "title": "We need to import more tradies and retain migrant intake - The West Australian",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNHIxdGZobWlhMEJBSC1wbHVTb0RINjZIQm9HSEZZWUR6NXZxWEFsbHNLNWZuSVQzc3NsUDdVXzRBazYzOTJ1NFVHQkR3ZmxfM3RCVU9jdUx3QWJyOVNPUFVuTzRmVGE1U1hCX0oxZUhUU1NBX1FNalVZalNiMVhuZW9vYUhxUE5idWE0WVpFV1NvNG1fVTV1RWxlRi1EaDMydlZhM25fbG9sWXRzMU81amd6MURoSEZPdXRFU0JLM3RuWTVvVkIzd2R3ZDQtNjRRdE5XVWl0dkxsenRQUmxfUTJpVWFMVFNtWU5aYnYzbS1tQWI1WHZ1OA?oc=5",
+   "summary": "",
+   "publisher": "The West Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-07T18:00:00+00:00",
+   "fetched": "2026-10-07T18:18:24.470928+00:00",
+   "visas": []
+  },
+  {
+   "id": "c3f5f23d284fe010",
+   "title": "Allegedly fake gay asylum claims lead to three arrests in immigration raid - LGBTQ Nation",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjExQ0NGUnVsdTRWZXFtSzdOR3JqUTliRjBZQ0xKUVpPQWIxVUxDN2VFWWo3c1p3RXp5aUdsV2c3djJ6amM0QmFmbDhLSDdJZGxCY3Awa0ROcUVFejh6bkxHaWphUVp4dE51dlBJMkgtSG9PV184ZnhXc3JwLUh1b0xKcEdZTWJMTnp1OU5mRUF5cU5XODdkQTZMdlJiSUFub0NIQnRGN09qRzBqb2JVQQ?oc=5",
+   "summary": "",
+   "publisher": "LGBTQ Nation",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-07T18:00:00+00:00",
+   "fetched": "2026-10-07T18:18:24.470928+00:00",
+   "visas": [
+    "asylum-policy"
+   ]
+  },
   {
    "id": "be553ea08c8dcaf5",
    "title": "US Lists 50 New Countries Whose Citizens Are on the Fresh 2026 Visa Bond List - Yen.com.gh",
