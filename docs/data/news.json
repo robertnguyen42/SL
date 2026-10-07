@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T15:26:20.162747+00:00",
+ "updated": "2026-10-07T15:52:03.259818+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -169,13 +169,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "au-student",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "au-investor",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "us-visa-bulletin",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -420,6 +420,51 @@
  ],
  "items": [
   {
+   "id": "28d099871b55463c",
+   "title": "CanAm Secures USCIS I-956F Approval for Pacific Port Logistics Center, Its First EB-5 Infrastructure Set-Aside Project - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcUdNLVpmVzhWTWd0MnlBcjZaRENyb0xqbktkZXNvTG9HOWxzbDZTRVN6dkpTaFR5d3huRVFReVdteGdGQ3d0LXRhNFR1YzRlSGxwN2NnTDkxaFduLWdaTTNadEI5LU1DeFA3RDlJTFkyS0V2RmFYTGdDenNSMC1SMnkwNHc5cnVUSUtZUVdpOHpqajVkU3ZWTWpjM1RfR05HdDRleEtaRWZKV0NtaHhIbVI3MkM5UQ?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-07T15:49:59+00:00",
+   "fetched": "2026-10-07T15:52:03.259818+00:00",
+   "visas": [
+    "eb5"
+   ]
+  },
+  {
+   "id": "912ded17a91a9cc6",
+   "title": "Trump administration proposes a US$70,000 fee for international students to work in the U.S. - CTV News",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEVzZVNpVTRDOE5lNUpYUjIzbzkyNGZNMG9HWXljUjhPc2oxZTRkMkRDaDUxS09SS3RRSUFwc0NxbmU4Q2RtYnd0cF9XRkc3NFJvRWowcEFlSFNiNzlmYmhvWEY4aFh6M2RkbU1lMWhLRFRWWDdpUFh1Mkh5STVCc2lRNnNoRGRSMXZSSGlERncteUtOVHVCUy0tRHdXc3FQSGFpbWJUUkMxMXBHb194WHR5LWdQeUI0S1M3NHpsUGp4ZHJrQ1dOWA?oc=5",
+   "summary": "",
+   "publisher": "CTV News",
+   "country": "US",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-07T15:39:06+00:00",
+   "fetched": "2026-10-07T15:52:03.259818+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "3e530e90eaa261d6",
+   "title": "Breakdown of 50 Countries Whose Citizens Are on Fresh US Visa Bond List 2026 - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDZDQWhPa19KOEtrTldENDRqZExXUjRZdGx2NE9RVGx5RjhscjdkRUJ1bzBVam5vdGJIczAtYjc2NGxOUHhPOUFvLTFYSG9QdVdmLU4zaDZock9mN213QTQ0NmdWVW9SRWN3WWpnY0thN05qYnh6VllLQmJtR0Q0cDh4eWQzSkF2VTVfMENjSWlLbFF5X0NBXw?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-07T15:34:20+00:00",
+   "fetched": "2026-10-07T15:52:03.259818+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
    "id": "dadf414efe947217",
    "title": "Your Employee’s H-1B Change of Status Is Now in Effect: Next Steps for Employers - Reddy Neumann Brown PC",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUZ3eVE2MWRTc2QtQXdaSWRSX0Q4NXA2UWY4VUFvR3RlejdESHpzUlhGLUZLZURzazFnSE1naXZSbkVLcE5PQ0JqQzBQNUF2U1ozekQtZmh3S2swS0FScnR4aGQwTElscGZMaS1YSThfVnktR21YbFBFT2xnT0FCdGoxTDJaQVBjOG9lNzBraXZvanBCQlJLcnFjTEtCTGJWYU5xUlZiVno1QQ?oc=5",
@@ -432,6 +477,22 @@
    "fetched": "2026-10-07T15:26:20.162747+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "29753978005e3807",
+   "title": "New Zealand introduces new Parent Resident Visa selection system; pathway to PR unchanged - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcDB0RGQwbDEtdDNiRVBsRVQ5dGZ3bHo1allUQmpCbTB3amFGMEg1NjhSOGxKT3kwWkNrejdJN0FpWDZMTWVndjRuSndnSUZnb2F6azZOTmY5ZEVlSFJEYnllOUViV2dBejRmQXJLMlNFZXYyX2xSV3FtMUJBUjMtemZHYTQxSWwzOUQ3QWpTbm0wOEZSOUhBTVVzU0NjSl9lMXpzZ0hYY2hQNDRUWUZsRG5JWGpCZGdVLVhJamEtR1hJSWVhUHlxcjgyQjVIRmM0V2RZOUlCRm85VEN5VnVqLXlvY1ZDeVlKbndiQkNDNW7SAfcBQVVfeXFMUGpId0JVVXhzeXdNUG5pc08zY0VKOWdobHV2bFdtRWxDVldMNWQzZDZyMmMyZ0xYNlVHTEd2OWZocEMwWHhUNTlNejV1Z0NfSjBWUXVPMHpFbTdGWk1hTklGVWYzMy1XUjl5MHpxOWlpcDJXalZfQWEweW5WWnVnbElMd3dsYVhCc2FPbjVkWEVmdzlBZWhSZTFDNVZRRkdRS0NTNTl1Y292V295VXRITHJRdk5fRFlGbkJUVnZsQUlNdURZeWY3dE5RdV8yNG9uVzFrZXJ5TUtUUzNScHY0NE45amNURHRELWpWWmVZa0ZhWDhaZEpURQ?oc=5",
+   "summary": "",
+   "publisher": "The Financial Express",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-family",
+   "published": "2026-10-07T14:37:00+00:00",
+   "fetched": "2026-10-07T15:52:03.259818+00:00",
+   "visas": [
+    "family",
+    "residence"
    ]
   },
   {
@@ -1026,6 +1087,21 @@
    "published": "2026-10-06T18:00:00+00:00",
    "fetched": "2026-10-07T01:17:05.507646+00:00",
    "visas": []
+  },
+  {
+   "id": "016583ba74e26a3b",
+   "title": "C10 Significant Benefit Work Permit 2026: When to Use It - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XLWxRQ3hBUkozcFp4MVBYV0NSOUZLMkZzTkt1LWxER2w0WkoxNG5kMDE1ajVWUjNFZm1qM3VLdElSeFcwRTAtVGQzekRHMXVqVWx5NlpOR2hyYWg5REtpa09zcVgtenRKMUhVU2wzaFJaVUNzSURMZkhXOUpBM28?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-06T17:50:00+00:00",
+   "fetched": "2026-10-07T15:52:03.259818+00:00",
+   "visas": [
+    "work"
+   ]
   },
   {
    "id": "332f11d225360056",
