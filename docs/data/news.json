@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T16:48:03.937344+00:00",
+ "updated": "2026-10-07T17:21:52.286302+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-student",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -742,6 +742,21 @@
    "source": "nz-en",
    "published": "2026-10-07T11:14:17+00:00",
    "fetched": "2026-10-07T11:45:43.799558+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "c6eed6a90b7ff748",
+   "title": "Ứng dụng AI ngừa tự tử, du học sinh Việt được vinh danh xuất sắc tại Úc - Báo Thanh Niên",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjZxZUJTWnJ6ZEFxN3ZkcHp1ZkM0b0ZwZVg0QVhzZjhrM2czWkI1T0FkZjZtbklTbS1sNjNJWU5zbUZBdzJYX21oZzNncG1PTDRwSTQwQnNGZGNzS0lOR2J5Rmw1cUhMME5PYUFZdG5PLTZjcWxXZmp4NnM5WkNYOEp3SjJQTm1jNkI5ZXRjTkJRN3ZUMkI5LVdGSzd2MFFKeVJGclJVQXU3dURwZHE3Q1Z6Ylg0Zw?oc=5",
+   "summary": "",
+   "publisher": "Báo Thanh Niên",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-07T11:12:00+00:00",
+   "fetched": "2026-10-07T17:21:52.286302+00:00",
    "visas": [
     "student"
    ]
