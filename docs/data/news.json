@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T00:23:50.801612+00:00",
+ "updated": "2026-10-07T00:54:08.314585+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,19 +163,19 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "au-student",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 35
+   "count": 32
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "nz-residence",
@@ -13882,6 +13882,19 @@
    ]
   },
   {
+   "id": "363bdd3251b5aaa6",
+   "title": "Immigration culture wars are playing with lives and with love - mine included - Hannah Ferguson | Substack",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKLWh2bktYZS15NlQ4WG4xSEZnaFF2MGgtNFdRbUJyYnB5ZHpLVks5eWxYMEwzbkVWX29HY09EUEVLSmlYSUlncmtFSWd0WHI3VWQ5VE5vc0dRWGFFN1dXVUxPaFVjeWtmX2kwWUN5a0l6NmxZTDY1ZlB3?oc=5",
+   "summary": "",
+   "publisher": "Hannah Ferguson | Substack",
+   "country": "AU",
+   "type": "news",
+   "source": "au-partner",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-07T00:54:08.314585+00:00",
+   "visas": []
+  },
+  {
    "id": "6c8affecfef82540",
    "title": "Australia Unveils Migration Overhaul: What Indian and South Asian Migrants Need to Know - NRI Affairs",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHhZanNYMGlneU1tSG1mb2RkQllsbzhsY2M1RmRQMXRfdGVfdzZDY1hhMnNtZmlvNDFjMFlyWEQxNDduYjl4RnRJdkwtQjJodlRxdnFoYndDVUR6aEJLNTY3dGMyUEp0ZXhSUVdOeHdWT2JlRUUzUXBkUHpIeksxdjVOSGItOVlNX3NPZ3ZWQVZrRjh3ZG1pb3liV3BTMFQzYXpkUFF5QzNVbE9xSzZ4TGpBNFk?oc=5",
@@ -14938,6 +14951,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "93accc1944f81ec4",
+   "title": "Venezuela launches new 90-day visa for foreign professionals - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1ZFQnp4b3NLMnpmb2xsT3BrZ09UQ1NyZ1Z2UVNGaFpKTDYzRlhVU1Rsc29DOVQzeE50OTZTUXYtUjlqajJ6XzRGZGhIa1daLWYzVHFYRDRseXVaSDVfd1NHMVh3aFptcHlSb1JJUUUwRDhxX0ZXSi1UcXE1R0dCRV9kOWVOdWFaWlFLdF9RQVRFU0ZWX0gwUEdMMENrTGl2ODF3NlVnRlk0YXFvWU42dWlXcjR1V1JvRWtDYTYxSnjSAcYBQVVfeXFMTmV4NDdYQ3Btd3Q0ZG0yRXd4NkpXcGdYS1hZdXZybUdIVEw4NjE3N1Y0RFctN05rTE1hQjBpbGhJRExMenlyVnBmWE5wWlVGaTlvbDJqNlA1akg3dzhxZ0c2QjlmNUJwMjJ2MkJTZmFzZV9vRm1lZFdKTVpVVW9LOWZKOV84NVFZSjczLXFwNmZyYkQ2dzM2TXdfeFVTc3FhUjBjcmdueEI5UG5yUVhPWHpHaVZGN3dIZkdqSnJQb2RaVkNabnln?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-post-study",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-07T00:54:08.314585+00:00",
+   "visas": []
   },
   {
    "id": "1de8ea0df6bb963c",
