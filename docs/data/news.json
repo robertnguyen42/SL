@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T12:53:19.977913+00:00",
+ "updated": "2026-10-07T13:18:59.683282+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "au-employer",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "us-visa-bulletin",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 31
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-residence",
@@ -2835,6 +2835,21 @@
    "fetched": "2026-10-06T02:14:57.648826+00:00",
    "visas": [
     "uk"
+   ]
+  },
+  {
+   "id": "27866e56940f49a4",
+   "title": "ETIAS to Cost 20 Euros: Which Cubans Will Need It to Travel to Europe and Who Will Still Require a Visa - CubaHeadlines",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBOUZRWmZBdjRMaGNjYzVkMlJTdEIwRmxIaEM0bk1qWlhTQjY2dm83X20wTjQ1Y25RTXhlWXVGMUR1dUJJeXNjNmMtUUcydEE0YWlDUWhkOW4?oc=5",
+   "summary": "",
+   "publisher": "CubaHeadlines",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-05T07:05:56+00:00",
+   "fetched": "2026-10-07T13:18:59.683282+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
