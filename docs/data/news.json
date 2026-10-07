@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T20:15:30.029515+00:00",
+ "updated": "2026-10-07T20:45:35.234958+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -193,13 +193,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-residence",
@@ -549,6 +549,21 @@
    "fetched": "2026-10-07T18:18:24.470928+00:00",
    "visas": [
     "asylum-policy"
+   ]
+  },
+  {
+   "id": "7c0e990d676ee811",
+   "title": "FWD.us Statement on the Trump Administration’s Proposed $70,000 OPT Tax - FWD.us",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGFGOURRUkFHRnJ3ZUNyRUFDVGIteV9XLTFpUjVhc2xobHQzanZRblAxc2JMdGlvbE44ZTBkQjVCQUNVNjdiQVAtR1pfaUVsTmtWY3BRSzRQeklpcHFpTERSaXpoS3ZkLV9ObzhkbVd0UXRiLTVoU09RNlhSUk5RQnUyRnFMa2NCNjdxTWEtampMaF9FWTAwOQ?oc=5",
+   "summary": "",
+   "publisher": "FWD.us",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T16:24:51+00:00",
+   "fetched": "2026-10-07T20:45:35.234958+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -15112,6 +15127,19 @@
    "visas": [
     "asylum"
    ]
+  },
+  {
+   "id": "e5d7528b9b0e2d87",
+   "title": "Australia: Skilled Visa Processing Priorities Revised - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTI3ZzNPdGw2RUZtZDEtc2N4dzN6ZzA5dW5jT3VGN0ktWHZxeEhmZmdWSjVKdDlhSENPSExSaGItUDVKeG5NakFoV0tEem5zclBfTUtINnNQSFRYV2ZSQVBkb2NyaWNRZVhZd0J6OXdRVTFncVNCZG5TRzR6aVAxNFdXM3pVc1U2Mk11UV9OM01FY0JYcGc?oc=5",
+   "summary": "",
+   "publisher": "Fragomen",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skills-in-demand",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-07T20:45:35.234958+00:00",
+   "visas": []
   },
   {
    "id": "2a2363c327069fd8",
