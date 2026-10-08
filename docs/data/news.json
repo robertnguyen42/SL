@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T16:49:28.230056+00:00",
+ "updated": "2026-10-08T17:15:46.946556+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -114,8 +114,8 @@
   {
    "id": "ca-gov",
    "name": "IRCC – News releases",
-   "ok": true,
-   "count": 30
+   "ok": false,
+   "error": "The read operation timed out"
   },
   {
    "id": "ca-vi",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "us-student",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,38 @@
   }
  ],
  "items": [
+  {
+   "id": "053b520f80deb37c",
+   "title": "Green Cards red-carded: MAGA benches India-linked IT firms from PERM process - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVmFiSUU3YTMwZGhjVEQ1QzZxYjFrZXlOcWdFN1pWLS1WTGhZdURMRGZKMGtLY04tZUVzbENzRDExUnFTLWxwNXQzTEloVEtWWnVCVWpJcWItcm5WQzg4SnF1bFc4aVo1Y2lEeThNREN6S1FIU1Z2M1NzSEVZLVBEei1ZbXRZTHZzb3pTMGNFcllXaGpUaDR3eW1RZmF3YWJtVXFTT0REZThNRVFJMmdPRlR1UEs3ZzdvUk00QjNoOUgzUlJva0R2TlR5YW1yN2QweTU2ZFZTaXZEOWpKeHU40gHkAUFVX3lxTFA4WkxVcndPM1RJX2Jfa04yMnVqMVQwNWZ5aEhfekV6MEZGYTd4MjUzLUNqbUNOQUZNVllwUVJJdlcwMDFZdmFUX1U1cWxFb3Z3dXgyOHVVUlY2Um52ZWJBRVItZkR5RkM1TENyelRLSzlpSGVneVd5M2NsSmNDRkpieGxkQ1VZU3ZKdW9kOWVkZERNUmZXZjlJT0FlRDR1Q293Unh4d1JTaGloNS1TLXRyM1pKc1RERFItZjhQTUx5MUxLOUxzNUwtaUZZdjBzVC12Q0JXQ2xuWHk0SkhPdndUZ05VMA?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T17:02:00+00:00",
+   "fetched": "2026-10-08T17:15:46.946556+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
+  },
+  {
+   "id": "780c4a08f18dc1bd",
+   "title": "Microsoft suspended from applying for green cards for H-1B workers, JD Vance says - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1FyQzhaeDZodkJOeTJFby1fSkNEczlIV2YzSExmZUNkdlpwZ0ZMcFp5cnhjNkNOT1BkNlBxVU5EeWRiOHkwd1MzNmFwZ0g3bWMweXU4WFRfOEU5U0lER3NJdGdRNGQzekYyWTBVbWdoaktCLXJBSTJEZ1l2TFh6ME9SVUFJSTg4UThHek9zRkdTYURHZUZua2J3UWsyUnpzOHEwYVlXQQ?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T16:41:00+00:00",
+   "fetched": "2026-10-08T17:15:46.946556+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ]
+  },
   {
    "id": "fc0391934a662800",
    "title": "Not just an invitation: US sets financial bar for Green Card sponsors - Tuko News",
@@ -509,6 +541,19 @@
    ]
   },
   {
+   "id": "11d958bf334f2325",
+   "title": "Microsoft, Adobe blocked from green-card program amid visa fraud crackdown - WSYX",
+   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMWF3NTBiYVpLZFFINzFEQ3JWUEdYZjdONTVQZTdkdG5FODJxOXB1RnJEMlBmTGlrZjMxSjY3VHlaVUs3RnJzQUVSZGlKTDZXaTZQZEZxeTJxT0Vxc0dEMTJlMVM0eTF4Q1A2M3BZVHdaVUtrUFNPMDZkTFB4Ui1oeU9ZZ2ZiZk1jOU15MkREQjdDYVRsc0RkQVJkbHphOVdIZkl2QVE3R24zYlN6T3RDU3JPb2s0SVlTMFpkRE51UWVnUElCY0ZCM1lfcERCTndTR0JJUjRHWk5Ib0NSMDBQbjNROVVPTGQyLVdRZE5fOW9tSlJqWXZzS0lMd1BMMmNYNTBTQXpmY01lYURVemRWbHdjNDE4V3pVN1pYTHM5U0xMaDA?oc=5",
+   "summary": "",
+   "publisher": "WSYX",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T15:45:00+00:00",
+   "fetched": "2026-10-08T17:15:46.946556+00:00",
+   "visas": []
+  },
+  {
    "id": "77907d44909be2a6",
    "title": "Australia Announces October Deadline for Next Skilled Visa Invitation Round - Legit News",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSS1fT3VFaFBlNEJubEdpb1AzTk03Y1J5ZHJucDZfMXRKWm9id21aX25iY2lWNHFNZXZfbHJkUU4xMlpYZmpCZndYZFlvaWMySkpUdFBrdWg4OGVYQm12X1YyYTRaYnVydHhPQ0k3RWJXSEtUYjVPMEhGUW45MmZQa0xLenBXaDh5emdBcVNxT2hxWmk4cm9oYng2b21tMzVrcV9KV3pR?oc=5",
@@ -595,6 +640,22 @@
    "published": "2026-10-08T15:21:32+00:00",
    "fetched": "2026-10-08T16:49:28.230056+00:00",
    "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "85c0ce57c81ec8d7",
+   "title": "Microsoft suspended from H-1B visa worker green card program: Vance - NewsNation",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdExIdDhyQXMtRzdIOF9BZmprY1Y5MWF2MkRUekg4ZDJQYXZVU1FWRmxkZlFoWDRXM0l1ZXhPQ0NYNF8yNXVrWXY1dDVxRDNOYmUtRy1XeWlYWkFCb091NkxUZGFVZ3k1S3NrYmhld0Zxb1A2cjg3TXZjZ1hoUHVqb2M3aWtrWGszWXNOcnFiXzF5ZXV2cFg2NDhWaVIyZ2pMYlNrcF9UQnJyUVlfNXU1OHJ0d0hUNExuamZLZWpuSENpQkVKUThIYXI2dVBEa1NOd1NuM3hjdGJIUdIB3wFBVV95cUxPUnJDYXhwQlNNTG1BOWNRRDQ1c0dJQ0dRanhRWVBDMnJzWm04Ynk2a25OcGNncGJCNF9CLXhGcVRhTDZ4S193SFp4QU1ncDUtWDk2Ny1pYUROQ2g0RlYwVm5oZ0lfZHdOQjF3dXNjMkRPM0FVNFdaRUtranlMNEhJbHgxLVBSM3FyTHkwVm9DZk5ZWFU3aTd2bEZrUEt0bi05Y0tTWG9aV0QzNFNkU1RVc0lRX2l2SGVlZUJXN1FlYWJ3VkhNLUNmWl9KbEZRTUVWR0Rma1dxdVpiZ25MbklV?oc=5",
+   "summary": "",
+   "publisher": "NewsNation",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T15:16:16+00:00",
+   "fetched": "2026-10-08T17:15:46.946556+00:00",
+   "visas": [
+    "h1b",
     "green-card"
    ]
   },
@@ -11765,6 +11826,21 @@
    "source": "eu-uk",
    "published": "2026-09-26T07:00:00+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": [
+    "uk"
+   ]
+  },
+  {
+   "id": "41f3dc052fb939c6",
+   "title": "Car wash hit with £135k fine after Home Office raid uncovers several illegal workers - Kent Online",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVhBOUNEbFRZR1dVTURLbXo3cC1RdmZBcDF3NGxKQ2JLaDZoNVVvS2VPVnU1bDNIZXRkZl9BTVB5R3kxenQxVHZwNWdnVGFVcHJJMnJDYWI1ekpKcllOcWNyRDJYTjQxUi16dEZaV1NTUUlBcnNTcGpGZVoyZzhpLWFIamRyYkQwYzlkVGZmUkNjbVF6OFJOQ0VELUwzYm92cGFadEtoLTZKalF6?oc=5",
+   "summary": "",
+   "publisher": "Kent Online",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-26T07:00:00+00:00",
+   "fetched": "2026-10-08T17:15:46.946556+00:00",
    "visas": [
     "uk"
    ]
@@ -25024,6 +25100,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "6b58bd713080d014",
+   "title": "New Trafficking in Persons National Action Plan agreed - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVkNJYWExQW9EU2w1aEdESzZra3BCVFp0S3FoZEtZSklfb2pQdUw0cXFsY3BzY2EyVEZsS2ZvVE5NclRRRUNFamhseXBkMXF5N0VtNGhwN3VDUUF3dWNiUW9wZldTLUl3RkhmcTUyR0h0QUZKOHRUQ2tiRWJGR2d4M1hhS2RGcGR2NnRaMnBWbERKSnBsZG5yZVpQWkQwT3dTTWVkR2hxUHg3Nko0?oc=5",
+   "summary": "New Trafficking in Persons National Action Plan agreed Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-09-03T07:00:00+00:00",
+   "fetched": "2026-10-08T17:15:46.946556+00:00",
+   "visas": []
   },
   {
    "id": "6d7a956a10ffb8f2",
