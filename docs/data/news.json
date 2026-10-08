@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:20:31.985203+00:00",
+ "updated": "2026-10-08T12:53:29.295652+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
@@ -229,7 +229,7 @@
    "id": "us-h1b",
    "name": "Google News – Mỹ – H-1B · Lao động chuyên môn",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "us-l1-e2",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-schengen",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "dbc14cc1ab80272c",
+   "title": "New Zealand student visa approvals: Indians face 49.3% rate, China records 94.9% - India Today",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbXBaNnZEWGJIMjZBT2lYRjR1LXZYOHJFX1A5dDU1QmZnWEJjRVdqdXlPNGRJM2RKOVFURjZ2YURaOTRBYXlSUFU4MFBRcmRFX2Z6ZU9WV1pURXRZVDdZTG84QUJWV0k2NDYyNEZ2cS1IX3E3anc2YVJBd0pCaFlIRlpxRi1lOVFzalp0dXF1bUo1VVpGQWh3WFU0aHFoMV9qT2EybEZENTB5a2wtaDgzR2Q1MXplWFRXQjE4eFB5cHE1ZEpHMHc?oc=5",
+   "summary": "",
+   "publisher": "India Today",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-08T12:15:41+00:00",
+   "fetched": "2026-10-08T12:53:29.295652+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "d567d2aeef991e2a",
    "title": "US universities challenge new CPT restrictions for international students - The Economic Times",
@@ -641,6 +656,21 @@
    "visas": []
   },
   {
+   "id": "b0776fd5231cfb18",
+   "title": "US proposes $70,000 OPT fee for foreign students - The Sun Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SUW1hNG41Q1RnemZkNjFqYmNsZy1kOVk2RVFVSzViSEl1NmhFTFJkRGh4Y1FwSWktMlltYklOXzJIVkkzSHY0Z0lyUVVZU0NYVUFhWF9IVWdWNVpRYWFkaHRBNXdSLUh5V1NYNE9SNWE5NHM?oc=5",
+   "summary": "",
+   "publisher": "The Sun Nigeria",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T06:28:46+00:00",
+   "fetched": "2026-10-08T12:53:29.295652+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "0784ea1c7a687aed",
    "title": "US may impose $70,000 OPT fee for F-1 visa holders: How Indian students could be affected - Deccan Herald",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVy1YakFMaWxRR2VoTl9MVXh3cTFrNDNWRWdEWHVBMmFmQkljYnp1ZjctYjlrZlpybm4wZXJMQ1JUbmtMQl83SzVxUWVRY0FZWXV3X3cyaXZnX1AxcEdGdWxmMU5ZVWZvNThkVVVLa0hkbHE1aHBhLVBPUUdEQmI0NVZmQlU3Z1d2TzBhMlR5MXY2MGZkcTVncldrcUNvYW8yUnlEcDdLNDFEZHItTnRqMVhVal84Q0hfaHRvMmI0UUFTQ1Y1NGRPbU1vY20?oc=5",
@@ -785,6 +815,21 @@
    "fetched": "2026-10-08T02:44:56.681787+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "27d45138e7e953ed",
+   "title": "Vice President Vance Shows Support for Ending the H-1B Program - Federation for American Immigration Reform",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFViMHBQOGZ5NXgwM0tWTVhDVmk0OE1adTZHd2VRcGFHYUdxanNOZy1QQnZzOTUzS3ZRaVl0Z2Z0b2l4b1lrVUJzajluVGVINUJ6dVJnSjRrS1I1RFhNNk9tQ2VlaTVmb21jOGNsdnpJSHlkbXVINy01RTdmTHA0T3VkRWV4dHpnbXNNZkRTVnljc3BGN1VHdUs5YlRTQ3FS?oc=5",
+   "summary": "",
+   "publisher": "Federation for American Immigration Reform",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-07T22:40:57+00:00",
+   "fetched": "2026-10-08T12:53:29.295652+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
@@ -13302,6 +13347,19 @@
    "source": "ca-vi",
    "published": "2026-09-22T16:29:14+00:00",
    "fetched": "2026-10-02T08:02:50.604805+00:00",
+   "visas": []
+  },
+  {
+   "id": "2c54b571b6e0cc4f",
+   "title": "Business Immigration: Doing Business in Canada 2026 - McCarthy Tétrault",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTB0dk1sS1d6d1puMHVLMHhsRmxyeFQ5N1lLR1ljM3JKaVg2SFN3cVpoQlRYSHE5V2tMWDlRSXVIZkZETU1qUGd0cFpKb09XeUp4SFljNDB2WFJpM0pPczYtMkdoYWVuTGs1ejkxMl9iRGtvcDJXeWR5alBfeWR6MWVmQlRuOUFzWU5zZFVGbkZNTWFuMFd2UmlTWmxmTlkw?oc=5",
+   "summary": "",
+   "publisher": "McCarthy Tétrault",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-09-22T14:04:35+00:00",
+   "fetched": "2026-10-08T12:53:29.295652+00:00",
    "visas": []
   },
   {
