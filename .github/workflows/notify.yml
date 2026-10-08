@@ -1,0 +1,32 @@
+name: Gửi email bản tin
+on:
+  schedule:
+    - cron: "30 1 * * *"   # kiểm tra 8:30 sáng mỗi ngày (giờ VN); notify.py tự gửi khi đủ 3 ngày
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Gửi ngay, không chờ đủ 3 ngày"
+        type: boolean
+        default: true
+permissions:
+  contents: write
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python notify.py
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          FORCE: ${{ inputs.force && '1' || '' }}
+      - name: Lưu thời điểm gửi
+        run: |
+          git config user.name "ditru-bot"
+          git config user.email "ditru-bot@users.noreply.github.com"
+          [ -f docs/data/notify_state.json ] || exit 0
+          git add docs/data/notify_state.json
+          git diff --cached --quiet || (git commit -m "Đã gửi email bản tin $(date -u +%F)" && git pull --rebase -q && git push)

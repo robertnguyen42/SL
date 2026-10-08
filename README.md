@@ -35,3 +35,9 @@ Sửa `sources.json`. `type: "official"` = nguồn chính phủ (hiện tóm t�
 - Claude đọc tin 7 ngày qua, chọn Top 5 thay đổi, viết tiếng Việt → `docs/data/summary.json` (lưu trữ từng tuần trong `docs/data/summaries/`)
 - Cần secret `ANTHROPIC_API_KEY` trong Settings → Secrets and variables → Actions. Chưa có thì bước này tự bỏ qua
 - Chi phí ước tính: khoảng 0,05 USD/tuần
+
+## Email bản tin (`notify.py`)
+- `.github/workflows/notify.yml` chạy 8:30 sáng mỗi ngày (giờ VN); `notify.py` chỉ gửi khi đã đủ 3 ngày kể từ lần trước (`docs/data/notify_state.json`)
+- Nội dung: tin mới của Mỹ, Úc, Châu Âu (đổi trong `COUNTRIES`), nhóm theo diện visa, tối đa 3 tin mỗi diện, 15 tin mỗi nước
+- Secrets cần có: `SMTP_USER` (email gửi), `SMTP_PASS` (App Password), `EMAIL_TO` (người nhận, cách nhau dấu phẩy). Danh sách người nhận chỉ nằm trong secrets, không ghi vào code
+- Xem trước không gửi: `python3 notify.py --preview preview.html`. Gửi ngay: Actions → Gửi email bản tin → Run workflow
