@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T09:47:54.157586+00:00",
+ "updated": "2026-10-08T10:17:08.398938+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-citizenship",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "us-student",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "eu-student",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -420,6 +420,21 @@
  ],
  "items": [
   {
+   "id": "57812f7e92ed15af",
+   "title": "Argentina's New Citizenship by Investment Program: Sound Foundation, Unwritten Rules and EU Questions, Says Sam Bayat - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSXBfVUZEYnFJZFBZZkVJRHRjS1lFVk1tMXN1dlVBdTJNMng4ZllmUnlxdHZMWFRUTEZKcHB3ZVA3TXFLLWRqNWxrdVlLM19lX2NXdE52bkJ5VzlqdDJQYzlaYVJnbV9XTmlvNUxGbHlOOGVwRk92MGM5bl9FeDdVWGpYaEZxOVhOTE9BaGlZbHFHZEVTNDlwT2hXZWhRaWlESndLZm01N1prblJvRHVIN0t1NlRMTkxxcEdBOVY5bUpTVzl0Z2ZuZWZPYVhSWnVkZ2dDTndud0Z0by1MTDU5S3FxTUNHYk5rc2tvSw?oc=5",
+   "summary": "",
+   "publisher": "EIN News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-08T09:53:00+00:00",
+   "fetched": "2026-10-08T10:17:08.398938+00:00",
+   "visas": [
+    "citizenship-investment"
+   ]
+  },
+  {
    "id": "3ddd043944d2cf36",
    "title": "Amnesty UK warns Immigration and Asylum Bill would remove independent judicial scrutiny of Home Office decisions - Electronic Immigration Network",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE01cGhZcktyRkJlTHlXQkFzUVJXQWNqaXlEYk5tTWhrcFh4NlFKM1VYUmxRQ0dOeDNmLVYxdm5LUnNxdzFINjRnRTNn?oc=5",
@@ -434,6 +449,19 @@
     "uk",
     "asylum-policy"
    ]
+  },
+  {
+   "id": "c894894603cf7324",
+   "title": "Immigration Updates: Changes in Hong Kong, New Zealand, Sweden, and Switzerland - SSBCrack",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlA3ajJ1NlhFSWIwMUVEMnNJeUpsZDZvbnRWdTdhSC1VOTRnMVNQVHhtU0RFMDBPTjJxOGVrWGFFUzFfVmdxRk5VelVEMi1hNVpsZXhVR2pmY1dKemJVTVhpQjB6dnFOaEF3ZlVUU2dXSFZnempQUEUtUmVUVEEzeWFvbE5EUHQ5RFh6Sl9mZE1zUG5CVU5JQTdhSWtCNENjR3ZldA?oc=5",
+   "summary": "",
+   "publisher": "SSBCrack",
+   "country": "NZ",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-08T09:36:32+00:00",
+   "fetched": "2026-10-08T10:17:08.398938+00:00",
+   "visas": []
   },
   {
    "id": "948ab498cef4ff36",
@@ -684,6 +712,21 @@
    "fetched": "2026-10-08T02:44:56.681787+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "c2c2e19d2995acf8",
+   "title": "Rojas proud to pass U.S. citizenship test: “Things in life are bigger than baseball” - Toowoomba Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRFYxdFRYZWRVWFFPUVhobWI4RE9BakY0QlBQZ1hySWFvMHlldEt6RUc1cUxraHliVVhRWFRCdXY1ZE1KQnpXS1JFd0RaZ2p5M1owWTRRaVViMUk4Mk1sNzd1b1YwQURDcGtxaDdQaF96SmdvdlBPRzJGQnRXNFpGQnpUZmJINkRjdmxFemprQ3dwMnpTMU9PRVdoSlNRLVJqek5ueWZCLVFzN1lXRzZNRTg3TmZYeHJ4eHlOd1p0bXRoTGxTUElDWHdqZmMzSHJMVmNpR0dOdlREa3JKazVHdjI1V21zbWdxSm9teg?oc=5",
+   "summary": "",
+   "publisher": "Toowoomba Chronicle",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-07T22:36:01+00:00",
+   "fetched": "2026-10-08T10:17:08.398938+00:00",
+   "visas": [
+    "citizenship"
    ]
   },
   {
@@ -961,6 +1004,21 @@
    "source": "us-student",
    "published": "2026-10-07T17:24:52+00:00",
    "fetched": "2026-10-07T21:15:16.697680+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "b112509456e8b982",
+   "title": "UK student visa refusals climb for Indian applicants as tougher university rules bite - NRI Affairs",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lNDk0dFE4Ylc5MzdLUWNuQWpuaUkzSnUtT0VBSFV2aGFqMnBFLTJkWGhhaFo5WG0tTF9UUnV4ZmVZX0JYZzFRSi1ocEpXWERfb3FYa1ROUzhpTHdpWmhGQk9laGRFbGF1ZFdnZWtkVU1peWJJYTRB?oc=5",
+   "summary": "",
+   "publisher": "NRI Affairs",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-07T17:16:46+00:00",
+   "fetched": "2026-10-08T10:17:08.398938+00:00",
    "visas": [
     "student"
    ]
@@ -1549,6 +1607,21 @@
    "fetched": "2026-10-07T05:46:21.754789+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "a0f1fc59f09ff6ea",
+   "title": "Australia's opposition pledges to end post-study work visas and cut student numbers - StudyTravel Network",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16aFdtaEo4ZVczTDRpQmJuOUpMd0FSc0d5UkY5REx4QmN0V1M0RklXRmR1TmVld3NsTjVNc05DZEpUcU9fNzg5aEJaVXRGNURDUVBDeHBNT1ducENaamc?oc=5",
+   "summary": "",
+   "publisher": "StudyTravel Network",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-07T04:57:07+00:00",
+   "fetched": "2026-10-08T10:17:08.398938+00:00",
+   "visas": [
+    "graduate"
    ]
   },
   {
@@ -14345,6 +14418,21 @@
    ]
   },
   {
+   "id": "9b052368f07e49a9",
+   "title": "New Zealand 🇳🇿 Work Visa Sponsorship 2026–2027 | Jobs, Accredited Employers & AEWV Process| Visa - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wMVNaSW5BMTdlekl5MHRGN1Y5R0lLZDJtWF9NM08xMnRaSDE2V1hZanl0NjNKWVpHRG9FUEUwX0hWbkhkSkxLVXRIM2ZNN01sU2l0VjhrZkFORUot?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-aewv",
+   "published": "2026-09-20T07:00:00+00:00",
+   "fetched": "2026-10-08T10:17:08.398938+00:00",
+   "visas": [
+    "aewv"
+   ]
+  },
+  {
    "id": "81d81d9fad722e35",
    "title": "PNP probes online activity, gun access after deadly South Cotabato school shooting - Philippine Canadian Inquirer",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTjJVQTRpMzZicWZNZFZvRlVuOVk3U0FENkdGZUlPbHlTNTJHbDYyblJrb1RZT2JYM3ViNGxadGJPWE1LREVNWHNOUzJZWHBYUzBmSDhXRGNNZGp1aWdiYi1nNHktN0xsQmZ6eUR2Yjd3UlVMdjg3YnVFdXUyWHMydmkyWmhFWTRYeEFnNjMzc0F3dnpwaEdLTWVUUHJIX3lTNFVmLWgteE9zZnN6Si1yNnRQbGVwLUZQcDFOUzd0VQ?oc=5",
@@ -21349,6 +21437,21 @@
    ]
   },
   {
+   "id": "f38aa2bf183054af",
+   "title": "US suspends Cognizant’s new green card filings: What it means for workers - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUi1DaWkyMmU1VW5oQWQzZGJUWHdfejV1Z0ZfSGkxUy1BZnl3SktDYk5yMk56ZkVCRERRR053OFU1YktvdzBvLTQyS0thVE9pM1hBMUV4bk03eEJBd1FjZWVjT3pWRno0MzhjWWtsbWZ5WHVCN20tU2ZSU2hTTklsUVYzT3pUX2ltQlVyVmdiOEVwMVFqRDUtd0M4cExfNnUxUVhTZmc3a1FJNFV1dktzV2lZQnFKQVhORlRZWUFxdlVFd2Joc1ZyUjRjQzU4Wlptajc40gHYAUFVX3lxTE5RZXRVeU1DRDFoMEJZdFpYUFdjelM0ZmEtOFpBYzY2OGZvODZQX1d1ekxSYnlyd3JRd0FrUk9kblIydEU3LWc0R09nZFk0eGR4c09OSGF5ck1ydEZzUVdZNUtBUjZKQnR6OThIMnJqeGJkamtKdGhpUW53UzZjRUxpVEhpVE0wNXJNM1JqQk5ENUlnc0hIQUJKa2FZREJjNkNXVUJEYnZLb3MxdkxkV0FNcnB1NVY2b2hOdDZ3ZGpiajlzbkFqeE5vc1RpMVNScmFkc3V2Yml1bA?oc=5",
+   "summary": "",
+   "publisher": "Business Standard",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-09-10T07:00:00+00:00",
+   "fetched": "2026-10-08T10:17:08.398938+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "531fa91e4582d782",
    "title": "Property chiefs slam ‘all sides of politics’ over skilled worker visas - The Australian",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN0FXNGoyei1YMGROZVFlUUdKUnEyZHFsZ0FFSHFsNlk3MjVKOWdzdGZlRC1WV0l5V0JFaFltOGlMMkxrckxwekRrNTJVZzlHYmtPcTdnYVRJSUYyYjlMQ01iX0ptZmUxbUVuVDFRUmFwX0xTYnNyeU9Tb012V19vTDRObXU4NXFOcExsNG5xTWdVQm9wVE03b1AxZVFXWWtKak9jUkJOSUtDMm1XeFdOakZTTUtidTZUb3hqdDRzTkc0ZzAwYVdLdVBvUG1vMkRrdmxvNHlFU21URjhITS1qZHpyYl9kYVU?oc=5",
@@ -22084,6 +22187,51 @@
    "fetched": "2026-10-08T07:17:59.173879+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "98cf8ed4372e99d5",
+   "title": "Cognizant Caught In Crosshairs As US Freezes Its Green Card Filings - Outlook Business",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOalNOSGl5ak1heW1wZmZHUXVSM1VZRmNuLVJUVEY4TUE4bGtYNTA1Y21CbG44QlZOQ0xia05WVGhlNlRGUlQ5UWVDLWVpVWI3UlpWVFdZaXVtbjdXbmdMY0tadkhBaG10MDlWSzVqN1lDWktfVW1qck5wRFB3elNuWkNIV1ZrTnQ5MHhqWjE5ZVAyZnFsN2p5SFhoSG5Kb05sdnkycGJSY1Bid1J0dWfSAbsBQVVfeXFMUDE5MHNMQjR0MThlTWIxekc1TGc4UGd0dS1idWdCbG5IMl9najhGZlc3MVVWSmIxUnNQQ1ZhRjJYZl9BVVdXUi12LUtCeEEybnZzUUV4ZXFDZERCTWJLNXNFM3ItaFlHMmNiUjBsVk1RQy11eTBBaEVodnY5WEhDUUZyUFdNYmU5NlhmejJLWGJsUG9ncjBUdnBzb1FzYlkydUlfZllHM3BlM0RGWk82U0hzajkzNVdXLTBPRQ?oc=5",
+   "summary": "",
+   "publisher": "Outlook Business",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-08T10:17:08.398938+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "a03d03f40161c842",
+   "title": "Cognizant green card filings suspended in US amid visa fraud probe: What it means for Indian workers - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdkZ4bW1FcXNQLUN3eVZtNl9TbnpyVTNRTksybDhwXy1YMXIxSjRCb3NVcGU4d1pvUS0ySnhqTjlCNXMyNGNXUE9IUjQxdk9uUjFLNlplMEdvbThxMzdUYXhDRGYtTmhGWkdoWmRVYS1ta2tFT2JKMFNDLWYtUU9QRHlsSHZjUmV4RVJydzhRVGJrd3huSmZQdUJUcExnTFZZa2tJX2JYc19EbmlkTEh3N0hKYm5FNHM0Slh3THAzLXRRcmNKWmxlb0g0SFczX2dZclpxYVotX2lqWWRLdzc4WTAwQWhHZVJDZmJBbdIB8gFBVV95cUxQMGNERmlwU1RYT1ZQXzJKSVNvZEgtN2NPczBOS2JSbkp2MWhQUlNBbGdpTXRyZVV3OV8wNUdNM0FYMDF2WjRFWW1OaDQyNkd2MVFXMDJ6RDJTX2VKYS15MU9TSFVTc0xiMHp5T0xOR2xqUGtSWXdINzNaRjhHdGZ4QTQ2VGdBRkhsMlM4NkI5Q3pBWERySnRMbGw2NWNTd0JSaUZCbThDa0dKdVd6MkdtQnNXdExmdXpuTGQ0R3JHNHRveENwS3ZCU1l4Yk5FSEhaMEk2Znh0SHQ5ZFd6SlJyaFJkeUszWkdFMEZ4WF9XUXBlQQ?oc=5",
+   "summary": "",
+   "publisher": "Moneycontrol.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-08T10:17:08.398938+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "f2dc3eda04f4fa2e",
+   "title": "Cognizant PERM suspension: what it means for Indian tech workers in US - DhanamOnline",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFdmWTM1QmN3bXhmbFdXMHZMeERzYlNlZm5KQXBHQzZ0U3FzMmxRS1NFVmdQUlk2aHRJU0lBWVZNbGJkME12Nks5a2hXbnl2RmpCQnlRWnQtUWZrM0UyRXRQU2U1bGtKcDlHZHFQdEU4OTIzamNrYmtsQmZlMGlDWjJGNUdwWDNFZWVQendlanN5bVNsbjctUmZHQk9uT0pSYWFERFlxX05YbEVpYURRTS1PbWQtanNTd3ZzTnZn0gHLAUFVX3lxTE5RSU9jLTd4VDU3cEpXQnFhLTUwTTMzTnc0X1RleE5HR1I4TjJ0RlBDUTM2ZXdOU1lqMllXeDFldVZYck1yVWhpM29tV3paTTlnYTV6b0RLQTJiQTVhbkdkTUNxS2lFNWpEU1pEaE5YUVJHUmRYREg5M00wd3lrSVEwZkdhVEVlQnI0UF9QRi1QOC1LakdUX09udWZ1VUlaSEJabXJHZWphaDdlTnJNelhSYXQ3czRJX1VuLXQ1VF82NDlYXzN1MkFCRE8w?oc=5",
+   "summary": "",
+   "publisher": "DhanamOnline",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-08T10:17:08.398938+00:00",
+   "visas": [
+    "eb-work"
    ]
   },
   {
