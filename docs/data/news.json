@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T17:15:46.946556+00:00",
+ "updated": "2026-10-08T17:46:25.679914+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -114,8 +114,8 @@
   {
    "id": "ca-gov",
    "name": "IRCC – News releases",
-   "ok": false,
-   "error": "The read operation timed out"
+   "ok": true,
+   "count": 30
   },
   {
    "id": "ca-vi",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "au-citizenship",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "us-student",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "id": "us-visa-bulletin",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -420,6 +420,67 @@
  ],
  "items": [
   {
+   "id": "172d2e7188658e3a",
+   "title": "US Issues Final Rule on 9-11 Biometric Fee for H-1B and L-1 Visa Petitions - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1hNLVdYbThyRzI1ZkFCSHNlYWxRQVpWdGZUR0JBNWt3bnNTX3NOQU5oWVBPaDd2dTFpckZ0RzJUQXk5QWdIcTA4V2FkTFAxTEJiSzJaM3JhZzNlX1hQcFVlZzlnNU5nbmhkQ3l5ekZibE51ZXVLenJyWVVtOEpFMmVieUFPLUZQSHVCOHVodDlxaldnVUpPaWhEbDR2V3d3?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "us-l1-e2",
+   "published": "2026-10-08T17:41:52+00:00",
+   "fetched": "2026-10-08T17:46:25.679914+00:00",
+   "visas": [
+    "h1b",
+    "l1-e2"
+   ]
+  },
+  {
+   "id": "4991a62ec8f43eb5",
+   "title": "Trump plans to honor Microsoft’s CEO after Vance drops an H-1B visa hammer on the company - WSLS",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRTRNbnNlYmNPcGhzNFNUSDRGazJUMkFYZ3VqLTl6V0M3QmRST1pnRWphTlBNWFJBb2ZKOWlnUkxVemJYelNrekxwSE9wcUZGbHBkb2kxdlF6dEozQnA2bW5BUUVzMU8tNzJNcFdackxFdWpodWVBaWIxbzZvdWtFN3BXQ21HZFppaWJqa2hxVHNLVHBranU5dUZGRkdYWHVqWW9XblRkbU5uN1laMXN1aXlQZFlWR09CckhfNllnazhab2I5OUJHVW5Xd2pFOF9P?oc=5",
+   "summary": "",
+   "publisher": "WSLS",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T17:38:26+00:00",
+   "fetched": "2026-10-08T17:46:25.679914+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "9fb0ca83340d6203",
+   "title": "Former Canton doctor convicted of naturalization fraud - WKYC",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWkNYZE8tdzdtaHdKbjdTOGVNSTlWS2FaeG1aN0NnZmlJV1hyektUeVdVWl93d2xROGo1N1BtNlNIcWVOX1dZLTljLV8tTlYzVU5leHBCS3RFX0RLOWVjZ01iM3NzbDBZbHl5X2hVWFE2dkNJQXJPRlNXaDZmOEpEenp5YlRmSDNyQmN2UkNxU1A4cUlZczZvUndHbkhvVC1oQ1d4VTRfRTVLZ20zZWx5SS1MRG4ybXI4TXpjNEdMeWFYYWYtaGUzVV9MUnBEY0pKeC1OOXc5eS1JUXk1c0s2MnBxQWotdkRJV3pHclhKNkJFMVJyZ0hJMWJFTmpzYWNWeU5HUHZoZEU?oc=5",
+   "summary": "",
+   "publisher": "WKYC",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-08T17:24:00+00:00",
+   "fetched": "2026-10-08T17:46:25.679914+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
+   "id": "00e0a80fd560253f",
+   "title": "Opinion: Quebec promised to help them become permanent residents. Now some families may have to leave - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPajd6OEgyZTNRRzdTeUdjR0drck1aZ2dVVGQ0bjhsS3phWUJUcjlwUV9vWGVvZlVxdlpHZGlrR2RGVzB4N0phR2R0bGdkZFE3di1KbFhtN2MxNXN4M3VNNVZQR21YdEg3ZEVramhybC1Oc1BiUGh0TFhqLUlKN0g3Qkk4c1VqRGNNMUR5SVBmOUQtZGM2WVdpWTBXbTY?oc=5",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-08T17:21:28+00:00",
+   "fetched": "2026-10-08T17:46:25.679914+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
+  },
+  {
    "id": "053b520f80deb37c",
    "title": "Green Cards red-carded: MAGA benches India-linked IT firms from PERM process - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVmFiSUU3YTMwZGhjVEQ1QzZxYjFrZXlOcWdFN1pWLS1WTGhZdURMRGZKMGtLY04tZUVzbENzRDExUnFTLWxwNXQzTEloVEtWWnVCVWpJcWItcm5WQzg4SnF1bFc4aVo1Y2lEeThNREN6S1FIU1Z2M1NzSEVZLVBEei1ZbXRZTHZzb3pTMGNFcllXaGpUaDR3eW1RZmF3YWJtVXFTT0REZThNRVFJMmdPRlR1UEs3ZzdvUk00QjNoOUgzUlJva0R2TlR5YW1yN2QweTU2ZFZTaXZEOWpKeHU40gHkAUFVX3lxTFA4WkxVcndPM1RJX2Jfa04yMnVqMVQwNWZ5aEhfekV6MEZGYTd4MjUzLUNqbUNOQUZNVllwUVJJdlcwMDFZdmFUX1U1cWxFb3Z3dXgyOHVVUlY2Um52ZWJBRVItZkR5RkM1TENyelRLSzlpSGVneVd5M2NsSmNDRkpieGxkQ1VZU3ZKdW9kOWVkZERNUmZXZjlJT0FlRDR1Q293Unh4d1JTaGloNS1TLXRyM1pKc1RERFItZjhQTUx5MUxLOUxzNUwtaUZZdjBzVC12Q0JXQ2xuWHk0SkhPdndUZ05VMA?oc=5",
@@ -432,6 +493,36 @@
    "fetched": "2026-10-08T17:15:46.946556+00:00",
    "visas": [
     "eb-work",
+    "green-card"
+   ]
+  },
+  {
+   "id": "e1e826f670eb132c",
+   "title": "Trump admin suspends Microsoft from green card program, alleging visa fraud - Spectrum News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUUwZUd4Ym1qSk9TZjl3eWh1WTN3eWVJYUdERXFGT2dsSVJ1cGFPdnRHT1pHYlp6akt4WnNZeGpoNTVHdDc3dmNxMTAyQUF3VGZrLWlpMUVtU0NTVlNaaHpVd3RJVTM1Ny11cXBvcGJaUE85eVh3UF9vdE5RLVk1eUppZnVxTlFRaVN0OHRYbDFJV0M4aGN4M01FRE9kaDFwM3hqdlFuLUFyT2xMaXVPa1hFRQ?oc=5",
+   "summary": "",
+   "publisher": "Spectrum News",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T16:58:00+00:00",
+   "fetched": "2026-10-08T17:46:25.679914+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "76782e0fe4068c1a",
+   "title": "Trump officials block Microsoft’s access to program for employee green cards - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWxEWHVLM3hrdWRUWEVKUU1iWUV5Q1pWMU9qVFlqSmEyaldsUHhKQmE3Vm0zM24wRWI4a0RfQWdBUTVZMEFkZVdSUzFWbENCUWRJY0JtUU9kRkZXcXhvTnlST3RNd005N1VTNl94YVc3aFIzckltOHl0MVl3a2ZveHZJT0NKTmJTYVNPMGcwZUNuQXBTSnJHNVIxbTE1OW9wV0YxYTlUck5fdXg1NlJHbk1JQmYxam53MldLYmM0Vmc?oc=5",
+   "summary": "",
+   "publisher": "The Washington Post",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T16:49:17+00:00",
+   "fetched": "2026-10-08T17:46:25.679914+00:00",
+   "visas": [
     "green-card"
    ]
   },
@@ -493,6 +584,21 @@
    "published": "2026-10-08T16:22:39+00:00",
    "fetched": "2026-10-08T16:49:28.230056+00:00",
    "visas": []
+  },
+  {
+   "id": "9a821246254cd868",
+   "title": "US to probe J-1 student visa fraud in 9 top universities, Harvard, Yale, MIT on the list | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTGxyLTR5cF9NY0ZnLUxvem1OTTRsQ0RwUWI5cmZmNjBvR21TRC1lWTNLVEZkZjFRdGs1YVhoZEZmZzlCdGdmVmZydmpwTl9ZdFo3WElNWFY0MWFacGpfX0JkM0JqQkVVZlVTLXBzWXhuZlZhNFhUaVhtcnhKVkdKN2lKMDZRSk8tc1JJRHF0UGxTajREV3JBTVBnOHYxMUU4SFd5M0x3azhCYXVPdGtJUUxvTG1RNkt6VVl4TlhrblotYmlTR1BYZTh1OW5LVWV4ZUh2N3FUb04yLTBEanNRdnBRRjRuNkk4WTlLeNIB8gFBVV95cUxOWGdBSUhBZEluT0xMd19ndUU4MVF3RHlKREJPRi1xTW1OblBLbC1hMlBlaGdHVXZtOThQZ21VX0UwTlBKNkZXZnRhRW5VaE1zRHA3T0hYdzM4VjBuemlIOTA2aEs1SWxPNnp2aTcxQUVXY0llTndBam94SkxfZ3U2TFk2MjZJZzEweFV0SnNsX1VEMTNSREZHN25XRUsxRUdQRzVOVWo4eTJ3QkpiaW9wRExadERLZUFrdU9HdGh6d2xFZzZuSHV4OFRMSUlpbGdNWFBUY2FQWVE5T2xBQ3FjeURIY0pUTTdNdHp6SWkwamR2QQ?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T16:08:50+00:00",
+   "fetched": "2026-10-08T17:46:25.679914+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "eb72a17cd5de4db8",
@@ -565,6 +671,37 @@
    "published": "2026-10-08T15:43:22+00:00",
    "fetched": "2026-10-08T15:49:00.957559+00:00",
    "visas": []
+  },
+  {
+   "id": "b75703a3cc5c30c8",
+   "title": "Microsoft Is Suspended From Green Card Program. Vance Accuses Company Of H-1B Abuse. - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSlhaMFlyamEzVHByRXZmSDBQTHB0V3VSSHluVVo0S0tYeVlKamRldDNpMmc2Rm41ZEFJQjlvTV91UFB0Tm52T29ISnBiazQ2WFluelo4MXp2WTdXZ3RJY1RCZTB0a1BsU2w3cGc0U082OGozYzlBTUV2eUQ1NHhOX2F6QWNHanM4cUNFdzkwdVU3ZUgwSWZzZTRmS0RrMGczWGt5OWJ3?oc=5",
+   "summary": "",
+   "publisher": "Yahoo Finance",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T15:39:52+00:00",
+   "fetched": "2026-10-08T17:46:25.679914+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ]
+  },
+  {
+   "id": "41b2442a6c1621ce",
+   "title": "Vance suspends Microsoft, others from foreign workers applying for green cards, alleges visa 'abuse' - Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUEpCNkx1UUFsQnlESlZieTN1YXFGNXVUSVpNS1pjV0RwR2ZWc1VzbHp1c3dzSXlyTkZLcHNkSTNBOHQ1Y2FRdVpvTkIyaUZuNDMtU3J1eWVwZVEtS3ZvYWRLbF9FZUhzcmo1eVpzcTc1YXZJRDB6RWRMMHhqZUZWN0F6dE9xUWVLVVY4RWZ5UVBVbmZrNEl0RFVJWVBhVmtvWHFwWFRqeUs0Vk1tRlM3X3E4blJFU0NFb3JaMDZvLUZMSlZVdjd2anV6dURlRFhVdHI00gHYAUFVX3lxTE5NdlhqVWFRbkl1QnJGUC1xTDFXSXBQWXNvdzJjN093MTRrTE5xTDVCNnRjb2RvblZqdENzeVdFZlJLeHlFeVJxTEYxZ0xVeEozdEJBVU9QMlJXU3BBOUo3Tm5uTVdIMDBXNG81OFp6cVZNenFEcUczdnZEcXZSYjF6MC1yY0VCR2pIdHhvXzBkTy1nbWNpRWFCT184TDN0dUt1YlVkTWNhak5sU1RWTzRSUldQc2RiNTJ3aDdBRlZDUzN3SnlXNVRuWUlteU9ZWm5IMWxXZS1iMw?oc=5",
+   "summary": "",
+   "publisher": "Fox Business",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T15:35:00+00:00",
+   "fetched": "2026-10-08T17:46:25.679914+00:00",
+   "visas": [
+    "green-card"
+   ]
   },
   {
    "id": "80ec0477a6a6449e",
@@ -1786,6 +1923,21 @@
    "fetched": "2026-10-07T16:48:03.937344+00:00",
    "visas": [
     "express-entry"
+   ]
+  },
+  {
+   "id": "b4762f7e300d9933",
+   "title": "DHS Proposes $70,000 OPT Fee and $30,000 STEM OPT Fee for International Students - Erickson Immigration Group",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEdOUEppYVRYcDFSUllJeEk4VlliVTBJaWEtUzdfMWVXUVlsWHZ2Nks5cUVrenJyV2gwb2dtbjBpOTllWUFDMUpxOUlnN01ySjJ4RG5UWUs1N1JLTFBNU2pEbW5GTnZxUWtzNkJLZkpoYnVLZEdFYjJxTDYxdHVia0duVXJIV0FzcFgxekZ5SHhkWE5jRWJtdU10R1M?oc=5",
+   "summary": "",
+   "publisher": "Erickson Immigration Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T15:20:57+00:00",
+   "fetched": "2026-10-08T17:46:25.679914+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
