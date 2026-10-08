@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T06:53:07.145592+00:00",
+ "updated": "2026-10-08T07:17:59.173879+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 16
+   "count": 14
   },
   {
    "id": "au-employer",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-investor",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "eu-citizenship-investment",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "eu-schengen",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -419,6 +419,65 @@
   }
  ],
  "items": [
+  {
+   "id": "29928a0edbeeeea4",
+   "title": "Work Permit Holders Can Study Without a Study Permit Under New IRCC Rules - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEMDVDRlI0enBfYXdZNlZZWFlIbV9WNm1nbjNkdTBmLXR6N2JoTU9rNTF1c0IyUFZsa2NwdjZZUFJhaGx5d1ozM2xiNEZvaTFPc21nRERqNzdOdG9FOTM4RGdBQzNobjlQd0hGS0M1cUg2QlVmNFRIY0dSNFJsNkU?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-08T07:04:22+00:00",
+   "fetched": "2026-10-08T07:17:59.173879+00:00",
+   "visas": [
+    "student",
+    "work"
+   ]
+  },
+  {
+   "id": "45e675450047b48a",
+   "title": "Trump Admin. Expects Institutions to Pay $70K OPT Fee - Inside Higher Ed",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2tra2NHUlE2a1BiN0wxdkFscGU2LUFjUUJsc0x6MnJ1cmFiaTRrME1CYlhHSi1nMkhIX3pibV9UWGZzOTlfVWZOdExLcFgzSmJxUVppVnFwTFdZaS1NSWxSSHd6TjFkMGo0Uml6U0twMWhjZW9xWjBSR1JvWmRwUVMxQVVRNkpUV3MtR2psclh0aE1pNGdad0FvTXc3Um9JbDdhaS10dU9XdVljdlpGaUVYcHEzYXp3bWxlR0hDVW1BT2Ixbmsw?oc=5",
+   "summary": "",
+   "publisher": "Inside Higher Ed",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T07:03:04+00:00",
+   "fetched": "2026-10-08T07:17:59.173879+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "8ea53358b0b2c335",
+   "title": "US proposes steep new fees for international students on OPT - New Age BD",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2F1MnNhNldWODQzWXExS05Kb193SFpBeVZ1ZUhrWUJ3bE1tdWdvRVNlc0VOeVY5QXFMUVN3Y0VBeF81QnRobktPd0ZFUHJGVDVONmlqc2JXWkc1VGNNdTlWNFU3aGlxZmRFbk83SzlZbUk1d0M3MFp2a2FSeXZLQU1NXzBDc3hmdy1aUHppeFFFLU5icTA4YjhQcVhmUWFOQ0Nrb19OUUhmTGZTaW11cA?oc=5",
+   "summary": "",
+   "publisher": "New Age BD",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T06:58:00+00:00",
+   "fetched": "2026-10-08T07:17:59.173879+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "1cf21961d676541a",
+   "title": "Immigration weekly update: October 8, 2026 - Crown World Mobility",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQnd5ZGpET3VKYnVMYXRreG5UZmg2TEJKTGlqZkZuZ3RuSGFJYnBSM2hPZGhkaTk3MkhOSE5vZ083bldiTFg2WWd5clhqdXlKMzJxekxHRVZGaG1nV0RVaVZkcXlraHFUTklsOGlUS0tYWlZ1WE1oVUUyc0prLXR5MlF6c2pwMzkwU1ZlN3dB?oc=5",
+   "summary": "",
+   "publisher": "Crown World Mobility",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-08T06:55:56+00:00",
+   "fetched": "2026-10-08T07:17:59.173879+00:00",
+   "visas": []
+  },
   {
    "id": "0784ea1c7a687aed",
    "title": "US may impose $70,000 OPT fee for F-1 visa holders: How Indian students could be affected - Deccan Herald",
@@ -1200,6 +1259,21 @@
    "fetched": "2026-10-07T11:45:43.799558+00:00",
    "visas": [
     "eb5"
+   ]
+  },
+  {
+   "id": "72357976dd55c224",
+   "title": "Australia updates student visa rules for Indian students. Check Your Eligibility! - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWFkNmp2Yml1a3N2b0llYWtkY3EwdDN6aVFPREVzUzFFTm9wM2xWT2g4QTlNMUYyUFZNSkMzdjU3VGV5Z1VHd0RROUdqZzMtSUxzcHA1Y0JicG5GN3lKMEMwLWxQdEExbzByeDdESVQwamVJQ1hMMGJYeWFJZXE1bHRaN0xLZTEx?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-07T11:18:07+00:00",
+   "fetched": "2026-10-08T07:17:59.173879+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -4684,6 +4758,21 @@
    "fetched": "2026-10-03T14:47:38.206923+00:00",
    "visas": [
     "visitor"
+   ]
+  },
+  {
+   "id": "bed581025b3c9958",
+   "title": "Green Card alert: Four big changes to take place before 2027; How will Indians be impacted? Key details here | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc1VVdkFrSUtSamd0Y0p6cW1lbnI2UExLMGVhdjZCbWNPbGh0X3NSSnRhcDdMSVZrcF9MaWdmcFdKS0lsTXp3dWNYZ3JVVEdBUDRrdDVLSlBidW5ac1Y3NFdQNTNYaEVmNTB1NUR4WV9fQ3VyV3pBSFlmVkJCZVFBOGtLUTZyN0VmQ2QzMEE0cXdjbHdicU5iMzYtdWFlRjJkMnFITDdiWXdoTy1fRGI1WjFYYTRMN1BpcnVIQWhjR0FHWXI0aXZUU0pDVEJpd0M0LV9VSFlMSnRjR1g0WWdYWnNScmN5dWZwY0lEazlhT1NCT1RVZ2FGSmpISjZvSkFHaWpIclZtd9IBjAJBVV95cUxOckE1R2ZtTEEtUWo1LUxUYmlVYmZLNXRXWE40eEdZUUJRTWtYNmk0QU1hLXRhZUVScF9tZUMwRmhhRGdtbHZfZE5VU0pLZS1kTTlBWlBYTUd6OWxSVUJXekp2OXlkaEd1amFSbm9Za2VyNG44Ti0yQy1JNTJkMGtOZFI5cldWQmlsRjJNcW15WURaRDRzdGl3blVzQjRlb1ZOanp2QjloeFN0ODY3VFU3Q1lub19Fa1FRTzlzSUdia2NoeGk3VTRVenFISnhKenRwQTJXMXpJVkxuQ2xCcXJ2bk56UXNBUVJSZUM1aVJZR3VCYmEydXRoT0VjczY3dEF6UzYwNUYyMEE2X25G?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-03T10:54:56+00:00",
+   "fetched": "2026-10-08T07:17:59.173879+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -12143,6 +12232,21 @@
    ]
   },
   {
+   "id": "cc08f56aa58c71f7",
+   "title": "International student numbers are plunging—and B.C. schools are feeling it - BCBusiness",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc1lyM2lJMjlNc21GdG1aZ1d1cnExT21mYlF6NGE4YmRWODdtSF9zUFp2eERGTHlTZFlkZ1NsUnNod0cyblhIQ3Y4bVNwd25LazA1aUpuUnQxUXVFazIzWTl0SkNmQlFsVGxKTnd2NlF0TDlhNDRpYmdzb3U3eXJCNC16NTNnM2RPZFhJNkNIUnVoSl8yY3c?oc=5",
+   "summary": "",
+   "publisher": "BCBusiness",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-24T07:00:00+00:00",
+   "fetched": "2026-10-08T07:17:59.173879+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "671ed9f03ca957ca",
    "title": "SOTEU 2026: What is European migration policy becoming? - Voxeurop",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VeVZ6bkREN1NDQnFEVEVNUGhMbUkxY3JXZUJzc1dMbXlka0Y0LTc0eDZVRGhVaE1MTXR1a18tZ1JidFZPVGU2cHdEN0ZzUlBDZnV3dHJLckI3YzdMTEpuQTR0OWdPeGRndVE?oc=5",
@@ -17367,6 +17471,21 @@
    ]
   },
   {
+   "id": "ca41d2b7acb9c68d",
+   "title": "Green Card plans facing new hurdle? US moves to overhaul rules for sponsoring foreign workers | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY3RMdlowVUJUNy1IenVleTdSODAzRTIzbFVhYWdPQWdZTlZxNFFHVGFiQTRqaTVKdHg3cGJsR2NyZGVIdFhzTmtVOWpaRU5jak5hb3d6ckRnNUlLaDRfRnI1MWJuVTdzV083Ylc0RkNVcTlwY1d1UmNPM1A3NFRhVzl0bldsMl9kcVU5ZzRONTF2eXNRa0JPRXVFN29mdmFiajRHN0lvTnZRaTM0UWoyWDZianRobGhBZ3pyek1zU0VNM1BJRTZXV1M2aVRiMUF4MlZSYnhyUGRJclAtMTdUQnhB0gHnAUFVX3lxTE9YRy15QjRaT0ktMUVzZTdQdlZMdktGV2ZZZTJNcDdmNWtTczBJQmFQVmpPWl82Z0J1S09WZXlVWW4yeGhheFM2bVVPcTMteHczRnVSbk5kazY4SUVOd2E3X3p3SGY5c1M3MU93dFpfcHQ5bmYtWmRSTkR6UmgxRTVaR3R1ZFBoU0N5Qk1MWXZJY0FqTnNOazJIS1c1bjRDTlhyVmZDZTNTb1BXWGdhenpKRTd1RFpUcHBKeE9FSTlqUldCQ1VSVUI2U2tMMG1TcW12RURwQUxQclNFRzd2M29mRk10Ni1EUQ?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-08T07:17:59.173879+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "a4e46b01953f32af",
    "title": "New Zealand to introduce new 6-month graduate work visa in November; Check if you are eligible - Education Times",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNakxHeHNSek5vXzJ3NzJ5ZldsUFJZbWZvempjaDRya29ycEtIVmVVcnJVUmVyU3VJTTZnYi1ZRDZUSU9oeXNxZG0wZ2V5N1pHS2gwcmVQbU1tckRYMktCeEx3cmNna0xkNUI5VnNNU3Z3Wjh3N1Q1R29mekxsV2JkbE55cjg0SDFvOEpnb2Znbk9lMGN6VjBISUhqZjZ2Rnl5V1hENGFpUWd2ZUVtdFkyU2FfUVlmTHJNZHR1VWk2Rm1xLUNnN2JYOG1mYi0xWXZ0SU5TbVJmSXEtYTFGMHRvTmNCTjZVbmg2SXlzeTNjRVYzams2Q2c?oc=5",
@@ -21081,6 +21200,21 @@
    ]
   },
   {
+   "id": "ac7f23b4646b7129",
+   "title": "US suspends Cognizant's green card filings: How will the move affect Indians? | India News - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFR6UDl1VmM2TGlQaXEyOUtVVlN6QmhRS0VYYjdfRG85NDVvZEdKQ0R5TmllRUNjdnR0TWlRN2Nwbm5Zdy1hSlR2Y2xVQkpzZGFDeHprblFnNlhzdi1mSmhpMnh2NklJNWZnX3pFV0VMZkR2R3ZBcmU2NWhpSU9HTDZQN0NwdmV4cUJybkkzTWduTFRrc09DN3FaRy1xU1ZCSVVuOHp4MHQ3bVF0eUpKNk03ZTQxN0F3RjlFZjUyU3NqVlJGdjZSZHBrSmJXTWJfUHNB0gHYAUFVX3lxTE1BaDBWdHpPR1VvLWppMUMzcEN4N3VmYVlORWI5OFpIZ3h0U216X0w1YUN3OFR4d2xVOS00YjVjR3ZNVUFXcjJHRWZkbkV4bnVWMDRvcGt5Y1NURlZ2UnJGVU5pR25VcUZ6TGZkU2EzbUZzcUNFbkFXSDVfTlJlNUdkZ0RWX3M3LWlqUGNxSGE4OHBmb2IyclE1cVp6MkJVRURLMG5KdUs4YUkxd3FUNjIxU05nYjFqMXo5c195SmJmU2RPcDEwR2F4bjZFdEUyZDV2aE9JaERGWA?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-09-10T07:00:00+00:00",
+   "fetched": "2026-10-08T07:17:59.173879+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "531fa91e4582d782",
    "title": "Property chiefs slam ‘all sides of politics’ over skilled worker visas - The Australian",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN0FXNGoyei1YMGROZVFlUUdKUnEyZHFsZ0FFSHFsNlk3MjVKOWdzdGZlRC1WV0l5V0JFaFltOGlMMkxrckxwekRrNTJVZzlHYmtPcTdnYVRJSUYyYjlMQ01iX0ptZmUxbUVuVDFRUmFwX0xTYnNyeU9Tb012V19vTDRObXU4NXFOcExsNG5xTWdVQm9wVE03b1AxZVFXWWtKak9jUkJOSUtDMm1XeFdOakZTTUtidTZUb3hqdDRzTkc0ZzAwYVdLdVBvUG1vMkRrdmxvNHlFU21URjhITS1qZHpyYl9kYVU?oc=5",
@@ -21801,6 +21935,21 @@
    "fetched": "2026-10-08T06:21:15.914550+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "a865c8e3e4728231",
+   "title": "India-founded tech giant Cognizant hit with green card filing suspension in US amid visa fraud probe | World News - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQWsybmhlbXVqTktzZWNqV0Y5TnM5TFRiY0RRdGNvSW9PWm80a3hVR1FWLUphdDloQVcwNXBFUW50dEp1V0tYa2NFT3lFNUx4SmxfbmtPRVNmdzVubnBueGVZdmYzT0p3bzNFVi0zY3F6alhfVVNIY0JMQXV3OU1TWW9PaUpDWlVKOE1PMkpCbE5kLXBxVTRaSmdYM1FXQ0VZcGpaRWU3cU1wVHFxTkZ3YnNIcUNuNjd4aHFVRnNRaXBveFRabnp0VG5XVm9aMW8zSk1yd0xpTmNhUkIxdkdVRExsSdIB6AFBVV95cUxQc1BTdDZMZGFBdjM3by0zVnRqbTcyTEFCb21YLTdBREJ6aEJxM1hfYUM1eWw1Z1lXaF9TdkJrTG9zWjVfalFmWE5lQk9tNm52MGNsVGVsM3BsOWh4TzZuTW9uMVNaamJXZHF1MmZkQTRra05JZG9DRElnaktKLVc0QVZKazc5T0tZT2pfQVBOZHlaNGxpeDZWMzBBbVExdGlIYkJHUmVNb0gzMUJaVXdoSVhrTlc5NlowdDFYemVlUWpGa09ZRHc4bDd1czZaUDdwb1Yyc19CZkpKck85VzRJZFFrdElGTks3?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-08T07:17:59.173879+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
