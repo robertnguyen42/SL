@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:15:27.565868+00:00",
+ "updated": "2026-10-08T11:46:09.077352+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 18
+   "count": 16
   },
   {
    "id": "eu-gov",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 8
   },
   {
    "id": "us-student",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-schengen",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -430,6 +430,21 @@
    "source": "nz-student",
    "published": "2026-10-08T10:05:16+00:00",
    "fetched": "2026-10-08T10:47:27.293261+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "c82a46ad071d0b3a",
+   "title": "Trump Administration Proposes $70K Fee for International Students to Work in U.S. - Time Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObERuUGEzYTJwbHNyby1Udjd6V1N1UC02V1Y3UnBQX3AxcjJGWXA5M1RBVS1JVEJ5dVRKaThxWUhvNkZUZ3FONTZlTjJQM2YyeXpIaFZwUVhMT1BiWWlnZjM0dHpucS04TnBMcFhlaVZXa3FSUjNsMkdXYjRvUnhzYV8ydC1wSzQxeDQ1cUNWRTAwQmttZnczS0lvcnlXTmVtYjg4?oc=5",
+   "summary": "",
+   "publisher": "Time Magazine",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T10:00:00+00:00",
+   "fetched": "2026-10-08T11:46:09.077352+00:00",
    "visas": [
     "student"
    ]
@@ -4055,6 +4070,21 @@
    "published": "2026-10-05T07:00:00+00:00",
    "fetched": "2026-10-08T11:15:27.565868+00:00",
    "visas": []
+  },
+  {
+   "id": "e8197e29c4413ea4",
+   "title": "Australia Subclass 190 Visa: Eligibility, Requirements, Process & Cost Guide - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wY1NWWGdYRjB5bjJsdHRYU1puLThuakRjTHIwOWNYYU9QWEpYbUNkZ3A0bmJxM0hyLUtKelZEOUtqREFpNGVmeV9aYVZ1cTBCUmhkX1NrX0Z6QW1pNHRCSlE2Q1BjMGs?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-08T11:46:09.077352+00:00",
+   "visas": [
+    "skilled"
+   ]
   },
   {
    "id": "9c24db098c37e744",
@@ -9632,6 +9662,19 @@
    "visas": [
     "schengen"
    ]
+  },
+  {
+   "id": "ee02dad111b6f84b",
+   "title": "Carney looks at when to boost immigration as system gets 'under control' - Barrie 360",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94c0VTNko4Vi05Q0NDWEtXclplQ1BNOGktTjh6bGlzTkQwamJ3QmpyMVBPVTZQQmtIS0I0RnU4SWx1Tzg3UVJDRXVSZktNT1ZnR3QzMXdiM3VkaFNnOFZmREdXdDRQYVpvOHNpTXRZNlJ1RHZlaVVj?oc=5",
+   "summary": "",
+   "publisher": "Barrie 360",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-09-29T07:00:00+00:00",
+   "fetched": "2026-10-08T11:46:09.077352+00:00",
+   "visas": []
   },
   {
    "id": "54196663e8d0fcef",
