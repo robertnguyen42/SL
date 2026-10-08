@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T10:47:27.293261+00:00",
+ "updated": "2026-10-08T11:15:27.565868+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -492,6 +492,19 @@
    "visas": [
     "residence"
    ]
+  },
+  {
+   "id": "5c41dfb6640ddea2",
+   "title": "Angus Taylor’s immigration policy risks pleasing no one, except perhaps John Howard - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVFRqcE5feWhHbkxXaHlnVFpPV1ZzSmFXN1VaTUJ0SnFTN2VIRDV3MC01d0lwRC1FLWo0SUxmbFhTSERfTEhHREYzMzZ1Z1g0cUlndmNuTVd0U0ZUbGVKT25FZU9zZV8zZlpMeUtIRmVXbmhHTUpnWUJvNHlHT2NWRWRBNWRtUi03dGFLUXZYamp2ZFNMdzNEQnpNX3owS2dHTzJrMWJrMVFoQXZzdmRCbk9yeF90U0czRlBMdW9mOXBBM25RR2Q3OGY3T0V0NFpwNVM0?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-08T08:30:00+00:00",
+   "fetched": "2026-10-08T11:15:27.565868+00:00",
+   "visas": []
   },
   {
    "id": "948ab498cef4ff36",
@@ -4028,6 +4041,19 @@
    "source": "us-en",
    "published": "2026-10-05T07:00:00+00:00",
    "fetched": "2026-10-08T05:46:17.091803+00:00",
+   "visas": []
+  },
+  {
+   "id": "40548a7167503e7f",
+   "title": "Switzerland Work Visa for Indians – Requirements, Jobs & Salaries 2026 - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3MHZwQ3FsRlRBOU1ESVc5UHZSenpwczR6emNMLThua0RYa0dqYlRwR3A5TXk1c1dsQW5nUkUzMXd5MzFQQUR5SWlYRmNSZG5QWVQ2LXJNV3o?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-08T11:15:27.565868+00:00",
    "visas": []
   },
   {
