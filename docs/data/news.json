@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T15:49:00.957559+00:00",
+ "updated": "2026-10-08T16:18:18.390954+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "eu-gov",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -193,13 +193,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "us-visa-bulletin",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-schengen",
@@ -420,6 +420,37 @@
  ],
  "items": [
   {
+   "id": "473941cc44d12040",
+   "title": "WATCH: Vance says Microsoft is being suspended from green card program for H-1B visa workers - PBS",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRENVNi1nWU1PRmhGN0xoS1MxNUhmcEJjNWdvSl9kdjJOQVN5V1VHMnBreXhBNVpsNk1UQk9FYUpkSEoxNjl0RUhyVjFiS1VBUTkyNkNvZmZRRFpzLXlLTDc3OHByYkJuZmtXOGNwUHhyMzJkdWRCckUtYUJZZ0x3M2o2LVRKaXdMdmpuQzdUQ3ZIMjNVaV9WdDJQem9HbHkyOFpqTUdaVUpqSGdHY2NKOUdzNXlmRldDcmlxTWhVYmZHb3JfOTNGRdIBzgFBVV95cUxNNHZ2Njg4ZHd5RDJFTjBGNTZ1b2V1eHhGY3ljWGRVd0NUcnQ1YWU2YWZtTTdqejl6Z0xQSlo4X2dHdGlVQ2tpRmdLZG4tMEhYbDZiSC1aWU1BelBTSXpUeW5sY0xTN190UlVwS0VxSWRSQnE3dmVyOFNXNVU4T2xqNFNBb21HYUx0OEpDU1hpSjVOTVdTeElxSE41S3FuYkpoUHZxSzAzQkk3TzVYc3AwWW5yY2hRek12eHQ3LW5FVVdHR1FHek14NEhKaTFDUQ?oc=5",
+   "summary": "",
+   "publisher": "PBS",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T15:54:08+00:00",
+   "fetched": "2026-10-08T16:18:18.390954+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ]
+  },
+  {
+   "id": "f5ebb02557dcfc4f",
+   "title": "US suspends Microsoft, IT firms from green card program - The Journal Record",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNWItRVRLY2xzU1NiSDlWam1pMXRWdWdMMk82T2F5WHFxR2lJRzFrYVJlcHFRNE9VNEVrTzhST1hESmd5N19PTTdhN3R5YUJDZmE4VnNkX0JCR1dLUDhneDM0amxJSEZvWFpJTkxlbmlhQXk1RnlVMDJ6MkJFbmw0R2loOA?oc=5",
+   "summary": "",
+   "publisher": "The Journal Record",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T15:45:22+00:00",
+   "fetched": "2026-10-08T16:18:18.390954+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "77907d44909be2a6",
    "title": "Australia Announces October Deadline for Next Skilled Visa Invitation Round - Legit News",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSS1fT3VFaFBlNEJubEdpb1AzTk03Y1J5ZHJucDZfMXRKWm9id21aX25iY2lWNHFNZXZfbHJkUU4xMlpYZmpCZndYZFlvaWMySkpUdFBrdWg4OGVYQm12X1YyYTRaYnVydHhPQ0k3RWJXSEtUYjVPMEhGUW45MmZQa0xLenBXaDh5emdBcVNxT2hxWmk4cm9oYng2b21tMzVrcV9KV3pR?oc=5",
@@ -464,6 +495,21 @@
    ]
   },
   {
+   "id": "4d62683791e68da4",
+   "title": "US suspends Infosys, TCS, Wipro, HCL and Cognizant from green card programme amid Visa fraud claims - Firstpost",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVdiNGxORXFHelhOLXBzbUQydVpMbk5ZYzY3M0dfUU9TQl9lOXY5RlhPR1FmMGVJSlZwOEtUTEtmSnNkU0hpV2FPNWgzX20zQzJ1aHFFMFBrNHdRbkhDTzFvMVNmSnphaGtFNXRDTmdhY3lPWEVzbXQ1UW9UZWlCSnV3d1RWVkRtNUgxMFZlTVlIR2VQRXlsOWZPdjR5OVVmeTVKMG03UXdJdWN5YVdtdVpxNGtXSXFXckNiSVE2cHJyOExOb0pfdG56aFp2WGNC0gHWAUFVX3lxTE1TTTUzNUJ1c2dCUW1EQ2JXWWl4T3RVbGxCWU1LQmxKdDNpY1RqSHF6aHRMVmJrOWc1Umo4a1F6Ymh3LUNINUZ3MjdmNEE0c2RIcGV2aFhFOGRZeXB4RmVNMHJkTExyRzVvekwtSVQwVFp0V3ZIQ1dybEoyZzNLd1ZlTm9wQ3RCNXVvQS1Jd010UGtYR1MzN2RBR2tNOFpaZjVCX3hUR2RVS0M5N3F0VWhwLUdwRVViNnhOOTRlalpsY3Bvb1ZNZkFORTZXMmhMZkx4QmpFeHc?oc=5",
+   "summary": "",
+   "publisher": "Firstpost",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T15:27:15+00:00",
+   "fetched": "2026-10-08T16:18:18.390954+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "8fc32cf7b1b89ee8",
    "title": "Vance says Microsoft, Adobe barred from sponsoring H-1B workers for green cards - Politico",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXhvNG9JRG9EbkhYTV9EQmU5MWVpR2UwczFZSjlEM3R4d21mdkJoNkJRekJZOGp5YjZ2Y2RORTVEY1hwQ0Q0Y25GVktaTjdRWDVGT184UUZ2X1JVUng4TWU1NlRIWGJ2RGhzcXhRZGVTZXI5T1lzYzV6bTdOUHRsYmk1VmM3bF9Od1RRZVJDa0wxckk?oc=5",
@@ -480,6 +526,36 @@
    ]
   },
   {
+   "id": "885bd39ee46685cd",
+   "title": "Microsoft is being suspended from program to apply for green cards for skilled foreign workers, Vance says - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGR4Z1ZlRGJ5eUNrRWtHU203alVpQm5RYk1sMVkyRGtKYjd5bERQN0dvb2hzMWd3c0tFVkdWTjdsczY2Z0ppc1FZQllkZ0FBa1Z0TlphLVhtSmd0c1ZhVmRqa01IV2dNTkNuZkNxYlE1bUJFZnQxeDhpZngtdXJmRW5mVmlJWThnbmNjYmkweDVibjlnQUVQb2J3YXdPSnc4dGRSZHp3WkxQMW15ckEwYWJnX2t0cVNUV1dFeVZR?oc=5",
+   "summary": "",
+   "publisher": "NBC News",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T15:11:49+00:00",
+   "fetched": "2026-10-08T16:18:18.390954+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "47930aeb4a332db3",
+   "title": "US announces investigation into 9 universities, including Ivy League schools, over J-1 visas - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeEdGY0pzanJxT1daNHdvdVA0b2VmQ3hrTGwxTFNuaVZIcGU3RlBORWd4M0YyZ3MyYU9RaDBza2RQRGlobWFMaWF6bHpGSXJqeWU0bk93anp4Q2VqRDJITEdLNE9BSHdJajBpYnR1UHFQT0M1NzVpbVJZaWVhSjdkS3JZemVIbDVpTEVJZndwdW9yNUg2OV9heThpLTJmT2UzX3RKT3p2enRxYW9jQURFQkoxZzY2NmhMbzFtRHNVZ0o1b3dhN2twak13dTFLMDZrSC1oMlZZMUNyZjFISE96MGVYWmZTV2tON2fSAe8BQVVfeXFMTXV1TGhwWWVvZ1d3aWdwbWFyOW1id1dLNFlpNE41dDloSnJTc09zZmYtTUd2QXpoRGx1TUdZaW1XVm85VjNETEl4bDF5M1FFTkVkM1diMmhSczBFS1ZWMDdxUzVxZTJweDQxV21nOEVMTWJXOWxvM3dodVFYWnZIVEUtUnZJVlg2bktzUkFSMDUyS3J6MEJadTBLU0otYkVWSFkwRWFaZlQwelMtRWRoaHY1VzUxV2o1MFoyR1d6ZVlfTENBY180R0QwZ2JRQlVyeDBiYXhianQ1TEhpZ2lET3psaFZyZkVjYUxHZmdEdWs?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-08T14:58:55+00:00",
+   "fetched": "2026-10-08T16:18:18.390954+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "be2db8ada9574c87",
    "title": "US visa chaos: Tata, Wipro among IT firms suspended from PERM scheme; what it means - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVjVqeUlVVWVpYkdzUGZlZXBoMVpxeXZtdXVvME9rU2NSaUhxUUNCblhVSG0zekNGLTRTQ215WU8ybFlrSnhvQmlFclpyMXFRQlowT2lpcUViNXZOelFNTUhoRGRnNjJXeHJwc1hRMUg4eU5lNUJfVVZtZU9pelYyNGZkY3V4S0YyZDNZdUdzeWJxdEpPR2dqY3VDMy1qUmV0b3V4VTl3QzB3bEVXM1YzUm5NTFpyLXZhWHJNMVZCZ2w5Z1VMM3RkankwSEY2b1BHOTBGSG5LZDloZG9jYTVKT2NGRzZzNGU0UHZKU2YyMXNmelZPT0NJU2ZQdWdXa3VWLVhRZdIBigJBVV95cUxOc2NCZTBiR0ljTlJsb3JlQnJ1NnJ0bEJtRXNLSkxqeWF4dGFJMXEzSHE2bEhSdEhQZGMyRXh2akxnZmhUWWhWS2FXZ1F6bGFISThnYXFsSXFuOUNfck1ZOVhrTEF1VzM0b25WVGt0Y3VPRERXRHA0SEZhZ2ZTb3Z0MjZoZVdNeHVkU3ZtdjZFUkdYUzZIeVNlRENMN2ozaFZjRWZQWkIzd1ZUVThtTURpU3ZrXzV5VVk3ZmRzSTdDM2NEMGg0VWlxb3BkeUhvNTBENHhVc2s4ZzNZd1N5aVFYWGw4Nk5XOFBqMDlnMHM4Y0ctVE4xUDlJbkpKVGZTbTVMa1lVR3BUUVpsQQ?oc=5",
@@ -493,6 +569,19 @@
    "visas": [
     "eb-work"
    ]
+  },
+  {
+   "id": "95e123c30422551f",
+   "title": "DHS Immigration Rule Proposes $100,000 In Practical Training Fees - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNFpGM0Qxd2Z5Mzd6YkRVR2F1c3k0UjFZMzVuSXZvOVZlY2FZQl9sQ0pvazlqYlgxQ0Q4MTZXcWhpeEYwYlYxelgxMEtYMW1QRUpiLUd3QThBVkg1TTdhb0hBcGtUaU9RRWFhYnV0SEo0bUdXOWZuM2QxZm05cWJBaFI5cVVsc1Ruc3JMWjhZQS1zNVg0TDc5bHJ6N1lqc1B6VGwzUEFjVGV3SUFGU3Nud2wwdE1LNThTREdn?oc=5",
+   "summary": "",
+   "publisher": "Forbes",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T14:53:56+00:00",
+   "fetched": "2026-10-08T16:18:18.390954+00:00",
+   "visas": []
   },
   {
    "id": "49a2668c4e8a43a1",
@@ -1727,6 +1816,21 @@
    "fetched": "2026-10-07T12:53:19.977913+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "a198cca577a4158f",
+   "title": "Character Reference for Naturalization - Immigrant Legal Resource Center",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wSWJja1hTZHgyTVpzMXRONEkyaDZSWmxJblhwcUllN2lCMXdJMldVdmlnVThkOVA5dVF0a2k1ZVNfYVQ5U2czVU8zWHFYRzhtZmNuZnU1eGhvM0s3eDFxNFh0Tm1uRGNJcDlhNmlNVHN2R28?oc=5",
+   "summary": "",
+   "publisher": "Immigrant Legal Resource Center",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-07T12:00:00+00:00",
+   "fetched": "2026-10-08T16:18:18.390954+00:00",
+   "visas": [
+    "citizenship"
    ]
   },
   {
