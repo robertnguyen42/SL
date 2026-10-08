@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T17:46:25.679914+00:00",
+ "updated": "2026-10-08T18:17:37.357314+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-schengen",
@@ -373,13 +373,13 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -512,6 +512,21 @@
    ]
   },
   {
+   "id": "493f4b7ef523d42b",
+   "title": "Trump ad­min­is­tration suspends Microsoft from green card program, alleging visa fraud - Spectrum News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaU5tZjhkenc3UFoyc2xfT05xZ1RqTDhLcWFnX3VENkFuUll2bUtPQ1lqYnJoc3ZzRGsyN2ZTUkZWNnN5OVZVYWxfOWtEUngtd3hIZHFBOHB6bGVkeEhST3o3MDR4SEtHUGd1Vm1ZYnFYOHRLaUh4eWRxYUJla19CNHZoV0tKZGU3Zmc3cVBidlhiaXdYSFVFM0pqSlBrcGZWalZER2tQZFVtd200dmxvLWdSS3U?oc=5",
+   "summary": "",
+   "publisher": "Spectrum News",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T16:58:00+00:00",
+   "fetched": "2026-10-08T18:17:37.357314+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "76782e0fe4068c1a",
    "title": "Trump officials block Microsoft’s access to program for employee green cards - The Washington Post",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWxEWHVLM3hrdWRUWEVKUU1iWUV5Q1pWMU9qVFlqSmEyaldsUHhKQmE3Vm0zM24wRWI4a0RfQWdBUTVZMEFkZVdSUzFWbENCUWRJY0JtUU9kRkZXcXhvTnlST3RNd005N1VTNl94YVc3aFIzckltOHl0MVl3a2ZveHZJT0NKTmJTYVNPMGcwZUNuQXBTSnJHNVIxbTE1OW9wV0YxYTlUck5fdXg1NlJHbk1JQmYxam53MldLYmM0Vmc?oc=5",
@@ -568,6 +583,21 @@
    "source": "us-h1b",
    "published": "2026-10-08T16:31:54+00:00",
    "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "ccd5094107e1658d",
+   "title": "Infosys Stock Drops Near Six-Year Low. Why a H-1B Suspension Spells Trouble. - Barron's",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEZidUx5akhnZVN3a0o4UWg1d29HNUtqbUZfX2NLSjlJQU1IOGRvN0dDSDJfUkFaX3BXYjczbVdxbUo0cG50eTV0eUE4c3Q4eEtBRDRaa2Q0WkxhS0hSblRCWFZnLUlRLUZMQmNnT3dMWXFWWDdJdDIyTUdmN1hYRHRtYw?oc=5",
+   "summary": "",
+   "publisher": "Barron's",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T16:29:00+00:00",
+   "fetched": "2026-10-08T18:17:37.357314+00:00",
    "visas": [
     "h1b"
    ]
@@ -10103,6 +10133,23 @@
    "published": "2026-09-29T14:24:03+00:00",
    "fetched": "2026-10-04T17:51:43.349610+00:00",
    "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "efdfdece4f6d2b34",
+   "title": "Green Card: October 2026 bulletin has fresh EB-2, EB-5 news for Indians - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNDZfcldUdmNReXh3UVZHdFN6OW1Kc2dWdHJwMXd2RmsydTRIQ3BfSWVwWDlvR0d2bE5KUlE4aUtubVhmZ1N6Rlpxc0JXNkItREhMYktoQkh1cjRzeU5KWW5SY0JiUDFjYlFReVFJalJfNkt6aEtXQzlhNnlmVzhiWERCQ2dhdDFGeXBJMFBPVjY2YVUxUXJLbmtLLTlacTJ6Y2hUTG9fVnpQbUUxcW5ycnRrVGY5Nk5BY2hB0gHCAUFVX3lxTFA0UkVTUVlnNkE3U2pfUkduZDMyamt6Mi1yUWt0NmxNc2dWbDNpaTVROC1wTThseHJRVnN3NFNycFJ0UnlESFdZNmc4bnlHeXJEaDlXbmFQWE9RT0J4LV8wcUtGQUZSVEZnZ0hwUE1weWU4QTFUMzRKcU5mdnkwakNvbGRWTFc2MG82bFlSOHkwMjhyYktsSy1LUEJoQVdNSE9ZVHc1QjY2cWdvT3dTQmoycy1iUjRjTlB1Zl9hNzh1ZWZn?oc=5",
+   "summary": "",
+   "publisher": "The Financial Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-29T14:18:29+00:00",
+   "fetched": "2026-10-08T18:17:37.357314+00:00",
+   "visas": [
+    "eb5",
+    "eb-work",
     "green-card"
    ]
   },
@@ -23212,6 +23259,19 @@
    "visas": [
     "eb-work"
    ]
+  },
+  {
+   "id": "5fc0d04e857f2bad",
+   "title": "US suspends green-card filings by Cognizant amid visa-fraud probe: ‘Threats to American workers…’ - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMjEwMVRQWGZHamM1cUxDNDkxRWVOSEM5MEZkNy1IaXRpRkRfNTlvejB0ZUNvVDRlWDZ1XzJLRXYxOEJ4YTFpZXMwd3U4N0REdWl0SU1iaFROWEo3SjdDZjhCSUZ4bGh6bHh0MURtX1JJTkdLWTBWemVYRmJqVWJwVUtpQ3BDTTRRMmcxYjE4RjBuQjlyNVJZblFraVdDM0pvc2xCdWZnOTB1UnJmYmhkVHVZbVU1Y0JYakJWc0NIZTdGQlRzZUQyNUpIZVlhQkJOWmcwWlZXcDdIMlFVbEFDbGtyUUFJX1Vu0gHuAUFVX3lxTE92OUJSV1YzOVd1WU9HWFl2NDlvS20tOEpBZEFfMUpZT21qUG56RlNuUXpPSVhFTmRHQjl1djE5Rm1PSzR4ODJ4ZFc2dFdFNWluemRTZHRoWnlrb25QRHkyYWNpRHJqOC1RTlFBSkFWOWhzc082RHNqTkZNT25pZW0wN1RMaElvQzcxRXIyUjlIZm5DNEI1TkNZWXFzMXBfWnotaEtiNDdPd1hfblp6OHFvVFJzMmNTM3RpUHIwdGpIRnNCcG0tdWVkbEl0YldVSUxpVmdZUFdtWlVrUS1RSy1VclF3RmptZDBxQ3pBb0E?oc=5",
+   "summary": "",
+   "publisher": "Livemint",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-08T18:17:37.357314+00:00",
+   "visas": []
   },
   {
    "id": "c1c74e31222e8a0e",
