@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T03:15:32.621965+00:00",
+ "updated": "2026-10-08T03:47:56.114218+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -169,13 +169,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-student",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-citizenship",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "6f38c331b8a37ee6",
+   "title": "Du học sinh có thể phải tốn tới 70.000 USD nếu muốn làm việc tại Mỹ - Báo Thế giới và Việt Nam",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ0R2OGhNOFA3cXFpazZaeFpfcjdOUG9uY3dWZEhtY2NqNHVuRndINHRaNTQ3X3RvUkxGWmZlMHNzQkJTRUl5d0R6dU5wQnhvREtNeXhLdkg4SmlPMnh1WTFJQ3ZUY2pFOGNuVXlLS1ltUnZBNS1YWEZucEpEemFYY2hHOGtHMHVTdXI3azFncTlSVnFRLW5TQ1RpNXdPSW1wWFE?oc=5",
+   "summary": "",
+   "publisher": "Báo Thế giới và Việt Nam",
+   "country": "US",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-10-08T03:17:42+00:00",
+   "fetched": "2026-10-08T03:47:56.114218+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "0d4639b1b2fbb31a",
+   "title": "Mỹ đề xuất thu phí lên tới 100.000 USD với du học sinh ở lại làm việc - Laodong.vn",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2tnR05kVFEzcTRvTXRzZUFaOW42Wm1mY3FsNUdBWlJUNzRxLWVES2IyQlZ1X2JkTURBNzhrckZHMUNwbXJvd1UzdTBFcHZSYlRZMTlQaEwyS2phME0xVXM0alViVmpSQW5MZXl4UF84cmU5YklsNTdneU1yZHBsdEh4Um1WTEdRaWxELXlyWmR5bjJfUVFGanBlbm54LUNBOVNwOU9lWEZ6YWc3?oc=5",
+   "summary": "",
+   "publisher": "Laodong.vn",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-08T02:50:44+00:00",
+   "fetched": "2026-10-08T03:47:56.114218+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "886232e05c5cdd12",
    "title": "President blasts EU over \"backward\" Schengen visa hurdles for Guyanese - Demerara Waves Online News- Guyana",
@@ -507,6 +537,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "1755dbe3dbe2c1e6",
+   "title": "Grandmother who tried for NZ residence knowing she'd be rejected must return to Fiji - https://awaaz.co.nz/",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSElVZUpYWEtSWXZZQndwNjdBZUw3WkJST2o5bkhSRGdrOFNuMF9IbDlvd3FOcDZlZWZhTHVMcFNiZ1Uxa1lSeldLcWdNQ1RZcHpLR0hWQzFXMC1Vd0tQMlBjcGM5ai02VGtXTkhXcFR2QTNNcVl0aEZUNmlSaWo3VkpaQjQzdm1PYmEzc3g3czNXWDM1T3U1Mnd3LWR0dFEyZjhOTWs0bHZHNmh2SkxYNUJuSHY4NEYtTVZ6Rg?oc=5",
+   "summary": "",
+   "publisher": "https://awaaz.co.nz/",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-07T22:07:12+00:00",
+   "fetched": "2026-10-08T03:47:56.114218+00:00",
+   "visas": []
   },
   {
    "id": "1d5526e8763dbe75",
@@ -13914,6 +13957,21 @@
    "source": "eu-work",
    "published": "2026-09-20T07:00:00+00:00",
    "fetched": "2026-10-06T23:43:18.545618+00:00",
+   "visas": [
+    "work"
+   ]
+  },
+  {
+   "id": "653fa22f20b9bbe0",
+   "title": "Indians seeking jobs in Canada can apply for work permit from outside country; here's who qualifies, how to apply - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbklYaFVuSkw1NV9nNU1OMG9sNXUtcHZMMkxuSGNUc19YZE5lQkNQbVlqeUlXbDQ5NWVfSXNrQnFVdGUtS0tCODdTal90TkxUZ0xTcnRmZThjODBXdlJZaXp3bGNESnptVUtmRmEtMEJUckhWU2xBdk5OaU1JYzRQRUEzaHlqMnVRakwtb1BxaG9qaXA5d010WU5PTnhUaEtUXzB2aFBrWVhCZkVZTkJIenBLaHJlYlFaeG1oQjJYaERWZHQ5T2I0T29FdmlvZk5uYkNMODFHbkFETEhtNlZDX1U1ZHc1dGZfaTBPWi1FcjVKaGV2cFMyQ21R?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-20T07:00:00+00:00",
+   "fetched": "2026-10-08T03:47:56.114218+00:00",
    "visas": [
     "work"
    ]
