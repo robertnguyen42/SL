@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T18:51:02.072711+00:00",
+ "updated": "2026-10-08T19:16:03.465923+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-student",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-aewv",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "119647d7f2cf9efa",
+   "title": "Explainer: The skilled foreign tech workers' green card program under attack from Trump - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1hHTXgzeWc3WFZOUDJMdFg1dGQyNFhDSVBwZV9sTHliMzUwcjltTVNvWlowXzBfNUFwcHRMcHpjbnFOQ1NsUDd4U3hHU0d5MHNFek5HN3dIeXRZSWJqWDdvdlY2OEdMZm9La3BBUU80SVE2Y3RiMTEtZlNBSWZkMFNPdjVTQXBYWXdoZEF6dnJvbjVHcDI2WlJXS3lsem52b1dkM2c2UW1PZ1o0?oc=5",
+   "summary": "",
+   "publisher": "Reuters",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T19:00:52+00:00",
+   "fetched": "2026-10-08T19:16:03.465923+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "6a10f4f5e69c9176",
+   "title": "H-1B visas aren't suspended. Here's what Vance is really targeting - Axios",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrOU5renQ5NEJHXzJEbjdNY2ZmVmxCajZvZEI5TlZ3Wjg3aTByb1M0NVlUSUdicmtjcGc0ZHU3YTE2STZNNTFOOEQyVXJGTTlQSHNCVE5iWjBvMzBNak10d1UzMEdZdWhOb2hfZ0Jaa1ZqOFMy?oc=5",
+   "summary": "",
+   "publisher": "Axios",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T18:57:19+00:00",
+   "fetched": "2026-10-08T19:16:03.465923+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
   {
    "id": "154de84c43b6821d",
    "title": "Microsoft pushes back on Vance’s H-1B visa claims - The Seattle Times",
@@ -499,6 +529,22 @@
    ]
   },
   {
+   "id": "5245d2d0479fcb8c",
+   "title": "Will H-1B holders be deported? What to know as the U.S. suspends Microsoft and Adobe from green-card labor program - Clarin.com",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYkUwbTBKcnlVQnVxel9PU2RUbk5IMW9PM29xejdaYjBESF8wRmM2Yk9Jb1lVaUlhQXBGemM1ZGtmUHgxTVFEdGp0NWNpZHB5UE5saGNYOG9selFsaGkxNXhmdndfTTBhMWVXbnZMQV9tWDJYZThDWHF6S0hlNDNpU19fV2Z3Y1d3cVhYaUYtUW1oLXBfd3BJaUhtRUtHc3FLbFpmS2o2aE4wWjlMNEFQNG1OQUZETTdoYW4ybEVyMzV1N20yUzgwR3pKSV9nN2dwLTVTd2taSVRSdUhrVUd1RDNCNjZfdU91ZGlaQ2ZhWWN4d9IB9wFBVV95cUxOYkxIMzByeTJCREhZbldSWk00LWc2WE5GR0UyTmFUb1AzbVA2bmdwMG9VMU4wV0NIenZCTGNLMU5YR3pCOVN0b2lkWjhwb3NESG1qZjQ3cUwyckNKcnNvRWZjMDRyMDA4dlhDcjRqQ3JZR3pGQURiUHQ5ZXpvWExlU1k1Y3BsUnRYMzhnbEhUTkV5alRlbTBaLU5PRDhXRXJ3MDRSNmRfb0E1eEdISG4yMGNXVFJpVFZSVENfMldTUnVLSmZ2YlNYS1hDZ2lrUndFM3d1dklLOERjaGtRU0NwUkxxd1l4aGtfVDVEam1nN2Z3RmtBVy1R?oc=5",
+   "summary": "",
+   "publisher": "Clarin.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T17:39:01+00:00",
+   "fetched": "2026-10-08T19:16:03.465923+00:00",
+   "visas": [
+    "h1b",
+    "asylum"
+   ]
+  },
+  {
    "id": "4991a62ec8f43eb5",
    "title": "Trump plans to honor Microsoft’s CEO after Vance drops an H-1B visa hammer on the company - WSLS",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRTRNbnNlYmNPcGhzNFNUSDRGazJUMkFYZ3VqLTl6V0M3QmRST1pnRWphTlBNWFJBb2ZKOWlnUkxVemJYelNrekxwSE9wcUZGbHBkb2kxdlF6dEozQnA2bW5BUUVzMU8tNzJNcFdackxFdWpodWVBaWIxbzZvdWtFN3BXQ21HZFppaWJqa2hxVHNLVHBranU5dUZGRkdYWHVqWW9XblRkbU5uN1laMXN1aXlQZFlWR09CckhfNllnazhab2I5OUJHVW5Xd2pFOF9P?oc=5",
@@ -542,6 +588,19 @@
    "visas": [
     "pr-citizenship"
    ]
+  },
+  {
+   "id": "37df09f9366cd0df",
+   "title": "Fixing the catch-22 of Canada’s business immigration programs - CBA National Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM013NGI4MkR6SFR3ald5blNSbGRReFF3b3hEcFVVcFJmTFR2NExUYjNUV25DeDViamktQVJxVk1Sa1ZyTGVnMVdRXy1VdkRnSVV4RWNtOWlEbHBZUy1CQ3IyRXlnSTZidlRXZjNCU3l5NzdOYWEzY1BTMTZ1eXF0dmN2SHhYVFV2dzVldHRHZ0FJUG9VQk1aamZpbDhuQk9ucUJvRkJaUThKOFVOdWNLb05CLXFMZG14UTdLcURZd0o?oc=5",
+   "summary": "",
+   "publisher": "CBA National Magazine",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-08T17:15:15+00:00",
+   "fetched": "2026-10-08T19:16:03.465923+00:00",
+   "visas": []
   },
   {
    "id": "053b520f80deb37c",
