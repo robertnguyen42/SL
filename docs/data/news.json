@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T19:46:23.988737+00:00",
+ "updated": "2026-10-08T20:16:37.642360+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 16
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,51 @@
   }
  ],
  "items": [
+  {
+   "id": "611cfce7e577dfc1",
+   "title": "Microsoft barred from H-1B visa program - FOX Carolina News",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkhqM1NwYjdIa1NIVTFVWF83THc4dHBIMmt1d3pPVHp3RGFQSmE5R3AyNHRlclN2QXl2YVNGdWg1ZEc0QVFJX0hjbDdqSmd5dE84Tldzd1JnME5qTVVMckVFTUY2YU9iZGJvOFZiTWNPNjZKZzNGRWdpWHhpLXJCNlRpTWNsN0E?oc=5",
+   "summary": "",
+   "publisher": "FOX Carolina News",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T19:55:00+00:00",
+   "fetched": "2026-10-08T20:16:37.642360+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "520911af0942a173",
+   "title": "$70,000 proposed OPT fees for nonimmigrant students: Three tins to know about new fees US dey propose for foreign students - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LbkhzekxtMGhIXzhucHNQR3FaUGhnQlUzNE9nM2lWem9sUmZjYjZhSzJqZ05kbElHMmoxMnMwRHUzVkViZmlCYWYwZVZHRjRxZ205YXhqQnA2NHpGSFHSAWNBVV95cUxONW55TGoxUlBJNEZmNndXTUpWZ012clIwOUpFOW84TmV6WlJWWFkyZ2VXU1E2clc2S1NIUkVnOTQtNENSRnZhem5xZlBHVlhkenFfdzh3bjJKM0pGN1V6a0VkaG8?oc=5",
+   "summary": "",
+   "publisher": "BBC",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T19:49:02+00:00",
+   "fetched": "2026-10-08T20:16:37.642360+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "e2ffb3edf3974816",
+   "title": "Vance accuses Microsoft of abusing the H-1B visa program - KATU",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0ZYSVc1YkpFb2FvMENLTmhfSlJTSFV0aktxbU1UaFM3emNqU0tTVE5UazR5Y2syUVhpN1huRUFDQ0dsZTNSZTllbXFpYUlmenppWHZxSjN0YXI1UUhvWGd1RVhZVUkwYlBzSFM0aXZXRnVvQmw3bmhoUW8zUXJJUWhqQXBpUF9sbWpSWUQwN0RmZkFxdW9PN1NuZldBM2VNQl9QOWJFazcybDQ0Y0pmc0F3?oc=5",
+   "summary": "",
+   "publisher": "KATU",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T19:48:21+00:00",
+   "fetched": "2026-10-08T20:16:37.642360+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
   {
    "id": "946a9dc09d4648c5",
    "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - The Seattle Times",
@@ -8400,6 +8445,21 @@
    ]
   },
   {
+   "id": "53c72b5beeb7873b",
+   "title": "Canada names places where international students can qualify for PGWP - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3E4Y3RMd25VTmo4SnU0dzREaFNGaXpnTTAtOUR6eEVHZjkzQ1ZkWTVuZW5VblJqdnlDVUZfNmxaUDdNNnFhSkoxcDZVeUNnMzlTSnozeFZkUGFqYmJNcEFucjloQXVRYWlnLWtpSHo5WVkzLUJfM25zNEFuMFpKZFNYdVNlandZTzJtMXlWZHNNc0xaTGt1Q2RhVklObDVSV1F1OVBIc1hNMzRQX1NqVw?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-01T08:32:14+00:00",
+   "fetched": "2026-10-08T20:16:37.642360+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "94f4a86517002fa8",
    "title": "USCIS Announces FY 2027 Inflation Increase for Certain Immigration-Related Fees - Homeland Security Today",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcjRNaUx4TUtFUmtIZjdiX1hsTzBRYm1qSld1OG9LbXlRQ0NIakpFSTB2ZDhGRHBxTHVCbUl6WkdaM2tvdldPaW1jU2JlV2lEM2xHTURXUHRCRmNYbFMyaE8wX1M3bUtQNFpURnluTnBMR0RIS08zejNRWkUzS3Y5Wm5jY0FlcTRaQW5GOVcyRTgxUEZuNVBEc3lYWnh2VWg0djNzU0RVeDY1c3VLRmdEZVZsQmF0eXpWaGNKY3k0ZWVSZmMxT0lka1N2SjVyN2g4R09Id0hnUS1wcXBj?oc=5",
@@ -9182,6 +9242,22 @@
    "fetched": "2026-10-05T02:21:52.485743+00:00",
    "visas": [
     "aewv"
+   ]
+  },
+  {
+   "id": "7840a3ab95f2815e",
+   "title": "US EB-5 fees jump: What it means for Indians seeking Green Cards through investment - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWHh0c1h5SWNFSE9zT0tZTVZoMVBRbVBUdUJOMF9oV2RYaFhleURDeFRPdUMwc2dqTU5JVnctZjU2RFB6TVdReDFxTTJHd2JmQVhxdzRLVXI1Qkoya2xfbDZDdTdsaG1CVkpIbUR0ZThkeWt0SlZYZ0dZQ2xjSENiYU5VTG1tUnE5TTYwZ3RIS0xNZjJiMzAteDlnYmNVamlpMmJqMWZKS0VYVExjYnJyeUxmbl9BdUNROVhLV3VtSmJscG8wYXktVld4NjZpQ1d6d1VWRmVKONIB3AFBVV95cUxQcXNqZEozMTJIS2MxVXMyQXhMQU05SkF6WVhjb3g1Y29RSEVVMUFEeEpXVGJLbFpzUlgwNWlLbG1EZUFNY3FfTElsMXpkSjBoQjh5Szc3eXZ4a0hjSTduQVZhMW95MFVNT1U1dFBmVHZBS082MkV1N242R0hmVF9iUi1waGZrcTk1UGs1Q0MxS09ONjVPc2xzTTVUNlhpdENHVnk0SC15SGRLVHVobGF0dFUzYjhYMC1jS281ck80a1dLWXVLUHBMUXlIcWVFU0JxYkpOR2IzVnpnU0sz?oc=5",
+   "summary": "",
+   "publisher": "Livemint",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-09-30T13:51:52+00:00",
+   "fetched": "2026-10-08T20:16:37.642360+00:00",
+   "visas": [
+    "eb5",
+    "green-card"
    ]
   },
   {
@@ -12254,6 +12330,21 @@
    "fetched": "2026-10-08T17:15:46.946556+00:00",
    "visas": [
     "uk"
+   ]
+  },
+  {
+   "id": "dbafd91379ad7830",
+   "title": "Canada Mentions 3 Categories of Foreigners Who Get Free Study Permits - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSVBLeFkzeTNPd3ZiaFVTdHNLbEhyNUdFMl9DTEdwT3gxTVBQYUFkZFdxMDZrLW9jTTdoNHpyM0R5MVMwcGFNOElDanlyMXdtb2J5TWFiVVFGV28wSFRwemNkQkFwa0ZuMVJfWUVZZWhwektLNG9IQ2daYnpnSTR2NW9OMTYzMUJXTnYwTkhwMU9BVU5hY0JDcVVsYTlOZ0lXb0JLMjBpcw?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-26T07:00:00+00:00",
+   "fetched": "2026-10-08T20:16:37.642360+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -18200,6 +18291,37 @@
    "published": "2026-09-17T07:00:00+00:00",
    "fetched": "2026-10-07T00:54:08.314585+00:00",
    "visas": []
+  },
+  {
+   "id": "eb0cb742df048ba4",
+   "title": "Canada Increases Study Permit and Visitor Visa Wait Times for Nigerian Applicants - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT1ljV0ktcnRPanVwMGVZV2hDV2YwU08zYUI0R0FSaW94OV8tc1ZLOTU1UjdKUHdjOE5MV3FRZUIwN3NCUTkzcnZFZ0EwWnRlX2E0QUlUem9IdGRFeWk1OEVrcWxEbmNhM2tEZDZraHNkS0twUXFTLUZHd2RPZ0pPNWh6Y3Y0UEk4RlAzaVhiYnpEZ2FUb25PaXZNQnZZRV81MHlhdk5oSlpOZw?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-08T20:16:37.642360+00:00",
+   "visas": [
+    "student",
+    "visitor"
+   ]
+  },
+  {
+   "id": "c29ba9e920fd4f9c",
+   "title": "Canada increases processing time for student permit, visitor visa - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0lhNGZPS1pIbGRNbWMwekdUU2lYdFFERG9RUDN5blRtY3FFYlJpMTFhOHhpazlpaHc4ck5ydW9yOHA3ZlNVaDhiNmdkYnhRRDhxeUo1Z0dKWWV3ZVZVMV9KNXBVWEZ0cjBUcFdlc2RaVjBHM3ZwQVF2cWJDa0Q5MVVDSUM1aVI2WU5lQ2xsQVJyZUp6aHV3ZzNkNUxHUFNfZ3dmWjBJcXozWEppZVdmSHpXTFA?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-08T20:16:37.642360+00:00",
+   "visas": [
+    "visitor"
+   ]
   },
   {
    "id": "5f30623419cf53e1",
