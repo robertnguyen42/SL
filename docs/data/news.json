@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T10:17:08.398938+00:00",
+ "updated": "2026-10-08T10:47:27.293261+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "us-visa-bulletin",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "d567d2aeef991e2a",
+   "title": "US universities challenge new CPT restrictions for international students - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3oxdzVqeE5waDVRckhZakVBWm5EdzQ5cVFMYnlHRDBFX3B6akdSVkNfZDF3aFVaM3BsSGFlVWd3QVp6Q0dGMFJEY3FrVmp6RVhXcGRkOVNQZnR1RjZla0tFems1dFZxaVZvN0xrNE5WMk5wT1k5Y1pjOUxMajlpQUhpd2xwSDZQT0V5NGtySEUwYzB3MXVxUFd0bGJhak5GVDlLdUYwV2lUQ1NoZ3J0NDl2dFRfMVdPdmNYdy1lWUlkRVFkTkhkWU9sUTRQWV9nb25Z0gHYAUFVX3lxTE11ZURBYUZsLU9jQWtMcTZGbUVMTjhQa2g5c3psaGI0ZjRNd2N5dzR5N2JBbTI4S201azVDU3F1SFlqSnUyeHJUVkNaVHAtVWUwUWd1LW56RnV0aFBvNkR0VER2WnlNLTd5WFZ2dXF5dXVwZ204bWdqNDRlQmhrSlYxdmNOQ1ZFRlpQSmgtUjBVcmtzeDl2ZS1PUFlOUWRzNmFVcHlsUjYxSVJhR3ZZUV9CSWtDaVlXSEJmeG1lNVpRMlMtaGRieGxXZF95My1Wc1lfd3RkY2tMTg?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-08T10:05:16+00:00",
+   "fetched": "2026-10-08T10:47:27.293261+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "57812f7e92ed15af",
    "title": "Argentina's New Citizenship by Investment Program: Sound Foundation, Unwritten Rules and EU Questions, Says Sam Bayat - EIN News",
@@ -462,6 +477,21 @@
    "published": "2026-10-08T09:36:32+00:00",
    "fetched": "2026-10-08T10:17:08.398938+00:00",
    "visas": []
+  },
+  {
+   "id": "d8fa0f7f793a30d2",
+   "title": "NZ First seeks tighter rules for Citizenship and Welfare - Indian Newslink",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMEd1UlFCemRGR3ljcDNBZW1YVk16YVhtUTNwQXgtRGt4MWR4WDRWaTZwNlYwdmstdUhlVFA4b25RQ1pjOW81ZTBON3NQYkVrTnNBMlFKSE1zdktvRUdRM3hJck5QanpHaVhFaGlmOTRUQnltTzdBWnBhMEx1bGVsejNybkMweXYweU5jdXBRSGpJazQ?oc=5",
+   "summary": "",
+   "publisher": "Indian Newslink",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-08T09:30:39+00:00",
+   "fetched": "2026-10-08T10:47:27.293261+00:00",
+   "visas": [
+    "residence"
+   ]
   },
   {
    "id": "948ab498cef4ff36",
