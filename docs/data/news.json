@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T09:16:55.394460+00:00",
+ "updated": "2026-10-08T09:47:54.157586+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 17
+   "count": 19
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "us-student",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-citizenship-investment",
@@ -420,6 +420,22 @@
  ],
  "items": [
   {
+   "id": "3ddd043944d2cf36",
+   "title": "Amnesty UK warns Immigration and Asylum Bill would remove independent judicial scrutiny of Home Office decisions - Electronic Immigration Network",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE01cGhZcktyRkJlTHlXQkFzUVJXQWNqaXlEYk5tTWhrcFh4NlFKM1VYUmxRQ0dOeDNmLVYxdm5LUnNxdzFINjRnRTNn?oc=5",
+   "summary": "",
+   "publisher": "Electronic Immigration Network",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-08T09:43:15+00:00",
+   "fetched": "2026-10-08T09:47:54.157586+00:00",
+   "visas": [
+    "uk",
+    "asylum-policy"
+   ]
+  },
+  {
    "id": "948ab498cef4ff36",
    "title": "Du học sinh muốn ở lại Mỹ làm việc có thể phải trả tiền phí gần 2 tỷ đồng - nguoiquansat.vn",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0NPeGhRRjAyZXlXNElDRnY2NWQyRklXVjJCQmtVZkkwaXJkTmU1TVpvYktKQWd0cHhnRGFrcnNnMkRCQVE0MGFZVG5peVd0YmtqZkh2dlBrYkgwNGZjaWhpRkRPczdhU0hqLVZvczBxZ25kZVN0akYtOHFwNUd1cG1JemN0c0VEUmUyZVdxY2hiQkV4OVBNSXZBeTRyMXFfNVFjWFJHdFZXbkpsQnc?oc=5",
@@ -430,6 +446,36 @@
    "source": "us-vi",
    "published": "2026-10-08T08:06:01+00:00",
    "fetched": "2026-10-08T08:17:17.059343+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "143ee6523db841a8",
+   "title": "Work permit holders can now study up to 6 months - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRG53Z3hTNlV2OWROOTFPa245aktpQkZlQ1NlOEM0T3FxbUF0QlJZX29MaXF2NnVuNml0aHdqWGRiODFWSkpIM2s2Njd4bGtua29XcElZeWFQYW5hdHlqWFIwbVlOWmVKeUFvY2NWTVZmMVc5N0RKNVZtcVRuZ0RpT3pYaWItT3BESk1OcHJUY1NVQTVNSFEyb05Rdw?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-08T07:34:44+00:00",
+   "fetched": "2026-10-08T09:47:54.157586+00:00",
+   "visas": [
+    "work"
+   ]
+  },
+  {
+   "id": "96e0073f40b71bbf",
+   "title": "US proposes $70,000 OPT fee for F-1 students seeking work authorisation after study - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQa2VwZVM0NVpoYk80Z0d6U1p0X0dXcmxKU0JKUFN6cERDVDUzeFpfeUhibm45RTdTOS1aR1JUNzJKVjZoNkxGYll1TnppaHVHdmlsX3QwMDR4WWVVRFJEXzZoRnRmeTQtaTF5U2xCd1BPa2J6X19iMERvajhzdDRlN0EzWGxtUXBSY2hZS3JmN2RoRkE5Y1RtQXctU2QzN00tdk5kQUZfZUxoeGUyOEpVM3FIeGhQR3JVc3FtRXUtbEo4cFRtX3B4Skk4cEM5ZTh1VUdtNFZCMlRZRjdMcFk4MUx1WUVWaFhEbTJmS2NSNnVEWlVPb1NEOUZn0gH_AUFVX3lxTE1CR01PazhaWU1COE0ybjd2UW8wSUlHd3BzMGlyTEx3QlR0YkVqbVBQRkNvcVdYa1JJT3lOZ3ltSnp1SldWTjgtYUdCTHhDWEd5YV9jb3BWZ2paVkh3R2tKRmpLNjRwbnRkWnA1RFFBemR1SndZb05ibUJmVElxSmVOaXpqY21YWl9sNFdPZFZfbkg1b0VHalRXMjNDYzB0dmRpXzJ0ZTdfeDA1WkxhZ1ZBenpGbl9HTkdHZEdmSDlPY0hKVnJFVUYxbnpFaUR4RWIwQnM5N1R0RzRzdUZvZndVeml3T3hGMGp6TWRnd2piX3lMcDJ4dXE3eWZSU19LOA?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T07:08:00+00:00",
+   "fetched": "2026-10-08T09:47:54.157586+00:00",
    "visas": [
     "student"
    ]
