@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T22:46:19.743157+00:00",
+ "updated": "2026-10-08T23:14:32.293832+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "us-visa-bulletin",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "nz-family",
@@ -23174,6 +23174,21 @@
    "fetched": "2026-10-08T10:17:08.398938+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "c15cce81c7beb120",
+   "title": "Fearing Lineups, IATA Urges EU to Keep EES Flexibility In Play - Open Jaw",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3hwakpMT3hyZnZLZ0FtQW8tOHBZTGdaUllFQnluVTY1Rmd5eEsyOV83UjAzY1JOcnk3eUlvUnI1djNDNi1iaXIxSmVDdV9XMkRzYm04QnBzWnl1d0dmNzRqY1phR3g2Y1Z1bVlmbDlrOTRzNXgzODE5VElEcnFxRlFtZEJMNkdWdnBjXzQ1dWxTQ1hSdmdTbFBiOHlTVHc3cDM4eUFaNjU5bnl3TjhF?oc=5",
+   "summary": "",
+   "publisher": "Open Jaw",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-10T07:00:00+00:00",
+   "fetched": "2026-10-08T23:14:32.293832+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
