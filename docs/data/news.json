@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T05:15:28.099941+00:00",
+ "updated": "2026-10-08T05:46:17.091803+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-citizenship",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "1f446ec5f8bc1c48",
+   "title": "US colleges could face a $70,000 fee for international students to work after graduation - Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONVJHaGhURUc0blVVME5RUFJqSkp3N1dtSG9OZDYwUGdrbVVhTlBiWFAxdVQ0bVJsZHVBdjZEaW5NQTVRSVFFc1hCY3F4c3d3eTZ6cnZ5SFhlZHRRUUxLbmtCMmRrYVpfYUh0bERUSmREa0JselRaa0I0eWRLUmRMMThzWnE3UmxURDh4T3I1Rl9scjVSd054UlF6U3hmaldjRDhEUE9TQQ?oc=5",
+   "summary": "",
+   "publisher": "Business Insider",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T05:35:25+00:00",
+   "fetched": "2026-10-08T05:46:17.091803+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "d53a1d4551eab353",
    "title": "New Zealand Offers Up to 3-Year Post-Study Work Visa for Graduates - Bloom Pakistan",
@@ -3675,6 +3690,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "aa397357aab01ac8",
+   "title": "The Systematic Alien Verification for Entitlements (SAVE) Program: A Fact Sheet - American Immigration Council",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYjhJcTBzOGlNcXRPYzYzemx0LWNtZkpfc3RTR1ZuU1BkUUwwS3dtRzZNWjNDNTBOWHNIS2JOM1FxVjZSR01nUFhFUXdNWXJTU2h0WVlqM2pBLXBwbDlmZmFDRzh5X3dRRGRwdzAtSU9CSmFnRmM2Z3NmTUFBdkF3anJuWWh4a05XaDl4M3lNdnVJLS1wQ2lVTmRkRzFlNjFMR0EzQjJRUWJ4RGhEeWZYczZJWVpXd01a?oc=5",
+   "summary": "",
+   "publisher": "American Immigration Council",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-08T05:46:17.091803+00:00",
+   "visas": []
   },
   {
    "id": "9c24db098c37e744",
