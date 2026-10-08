@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T04:15:59.629323+00:00",
+ "updated": "2026-10-08T04:47:09.303051+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,22 @@
   }
  ],
  "items": [
+  {
+   "id": "d53a1d4551eab353",
+   "title": "New Zealand Offers Up to 3-Year Post-Study Work Visa for Graduates - Bloom Pakistan",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzVzV0lRblN5WV92SzJoQ3FVd1VVTHhmRTBmWDZTVlVkX2c0ZUxFV005TW5PdjREelo5RUFsZUNXU0MwbkxjTWd0VFVmaDVGY3FsdDVCaTB6amlkbGlKTzc3eG9fVU93V1BWcTZZM01KRUlmdHBPQ0Z2em1rMHkzc1U4MndqUVRHYjljRWRvSVJjM3VUNWtEZg?oc=5",
+   "summary": "",
+   "publisher": "Bloom Pakistan",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-post-study",
+   "published": "2026-10-08T04:38:10+00:00",
+   "fetched": "2026-10-08T04:47:09.303051+00:00",
+   "visas": [
+    "aewv",
+    "post-study"
+   ]
+  },
   {
    "id": "6f38c331b8a37ee6",
    "title": "Du học sinh có thể phải tốn tới 70.000 USD nếu muốn làm việc tại Mỹ - Báo Thế giới và Việt Nam",
