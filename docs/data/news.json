@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T02:14:39.002307+00:00",
+ "updated": "2026-10-08T02:44:56.681787+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -169,13 +169,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "au-student",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-schengen",
@@ -461,6 +461,21 @@
    "published": "2026-10-08T00:45:15+00:00",
    "fetched": "2026-10-08T02:14:39.002307+00:00",
    "visas": []
+  },
+  {
+   "id": "30b77a0d8a8b2bd7",
+   "title": "US: Climate of uncertainty continues for international students amid legal action on internships and a proposed $70,000 OPT fee - ICEF Monitor",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV3hYUzI4Y0N4Yll2MWZFanUtQi00Z1BseFJKR3VERXVveFRmWll5UEtRRlBrNWRtYWJmRldsNWJmUHdRbGpoTTFpM1BrUGI3a0tHMnNlTTM5dkRnalFKTUNWbXV5NmxaWTcyR0xueXFvczdfWjVTcXJnR1RJRVpNUkd3TDF2b2t0RkNzc1lGWFhpVFNMY2tKMW91VXlZOTBqYVRLc3lVQWRqZUR6SnhQVlEyaURRWG1GbFB6OXFYUE8zUENGV1hobXZSckdUaW9PaVBaU1VxU2FYZUVERHpOVnNHdDJfdWo1TXIzaDVaRQ?oc=5",
+   "summary": "",
+   "publisher": "ICEF Monitor",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T23:10:19+00:00",
+   "fetched": "2026-10-08T02:44:56.681787+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "097650899e1d542c",
