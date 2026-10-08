@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T04:47:09.303051+00:00",
+ "updated": "2026-10-08T05:15:28.099941+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-citizenship-investment",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "nz-residence",
@@ -740,6 +740,21 @@
    "fetched": "2026-10-07T18:18:24.470928+00:00",
    "visas": [
     "asylum-policy"
+   ]
+  },
+  {
+   "id": "f4dde9e3b985ec8a",
+   "title": "US proposes USD 70,000 OPT fee, raising worries for Indian students - India Today",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPczExMTNJZ0tQbjJnMVNhTUpHTmg5emoxdlE1cFliRk1BMEhQZEE3Tkc4ZlgzS1Ntdm5NTWFuaTRyTGJPRmQtYmF4ci1kcTEwNFdNZjQ3NHBFek1uZGx5eDZEVTdTSjJFZ0tqazJCU1l3c2JhU0VrcDczQjRuZWlldGVubzE1VW1qS2x4NTBycFdPUkV0YVl1R3lDbEsxSngtRVVUWjZCSGxTa09BYk56cjRYZ1TSAboBQVVfeXFMTVNqZDJmNVA5QURNamR5c3hwWDJEbnFRWVFGbW9BUmhVcjRNWGVOQklWZ2c5dzRldGh1aEI2ZjZTOXNwZFJ1SW5NaUZicnBPVWF6amxQNUhONTM0NlR6TEh3cXZmOHV4Q1JSYVZ3ZG96c1dISE5tQTVoNWU2LWFnaU1uYTBTTFhYT1g5azhuQV9lb3pwZDF5RlFnRllnR191VGdxYnI5S1FRNjU1SG43VHJ4T1NVVFhxZHdR?oc=5",
+   "summary": "",
+   "publisher": "India Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T17:58:43+00:00",
+   "fetched": "2026-10-08T05:15:28.099941+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -5754,6 +5769,19 @@
    "visas": [
     "golden-visa"
    ]
+  },
+  {
+   "id": "f188530169e17452",
+   "title": "8 major Dubai visa updates you need to know in 2026 - Time Out Dubai",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUxPb2VUaFRXMlJYLWhfOXY1bWhhYlJhX25XdTJJNXR4VlBWbXlCM0trbHRmVG9FdEdBVnZkVDRhaHVUY0tRczVIbmJySHg5aHNjb3hkMk9oNm1HOXVRZWFLa09TZ2RCR0tkOW1iYXpWdkJWd1ZOV0ZxMEdyaUtiMFlaUGs?oc=5",
+   "summary": "",
+   "publisher": "Time Out Dubai",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-02T10:34:40+00:00",
+   "fetched": "2026-10-08T05:15:28.099941+00:00",
+   "visas": []
   },
   {
    "id": "364e74964b31db19",
@@ -21660,6 +21688,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "c5ffd0967efed904",
+   "title": "Doctors warn new citizenship rules will make Ireland 'less viable' for healthcare workers - Irish Examiner",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vVG9ZQlVJcmVsZ25NaTVJd21pdHFlYnFROG5IMGZVcG1pTVFTT1BsaTRydjFsVDI2NkxBSmZpTG9TeVpqSmh3WFR1NjdhU0RMZDRzUGtuODVMaTNhUHNGSGw2bw?oc=5",
+   "summary": "",
+   "publisher": "Irish Examiner",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-08T05:15:28.099941+00:00",
+   "visas": []
   },
   {
    "id": "c1c74e31222e8a0e",
