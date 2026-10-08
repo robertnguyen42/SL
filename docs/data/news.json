@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T19:16:03.465923+00:00",
+ "updated": "2026-10-08T19:46:23.988737+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 16
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "us-visa-bulletin",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-aewv",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "946a9dc09d4648c5",
+   "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - The Seattle Times",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb1FYbml6ZWJuSDk0QmRhZmxCbzUxSzFWbUswWm9wTDFrQTNmZVdPeDVpT0FaZ1JwSUY1TnNNejJnN2loNDhLWWVVZjd4emt4Yks4Yk0zWE1aU1NlR1F1cFdmUF9IWnE1SXdRaHRUV2h0T0xrSnVaWUpDT1dqNC1MUy1fZmRlbk5OZXV0aVR2b0EyTFhOSEU3OFJJYkQyS2o5Qm9OdWdoYlFkTTYwS3VlWnVFWW1jQlY5MGVzTWdGNFRucDV5WUI0aFRaek45Z3l1TmpNUnZfaThYaDVaTjN5YlV3?oc=5",
+   "summary": "",
+   "publisher": "The Seattle Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T19:41:16+00:00",
+   "fetched": "2026-10-08T19:46:23.988737+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
   {
    "id": "119647d7f2cf9efa",
    "title": "Explainer: The skilled foreign tech workers' green card program under attack from Trump - Reuters",
@@ -572,6 +587,21 @@
    "fetched": "2026-10-08T17:46:25.679914+00:00",
    "visas": [
     "citizenship"
+   ]
+  },
+  {
+   "id": "53bc7f449b57684f",
+   "title": "Vance Says U.S. Will Suspend Microsoft and Other Firms From Green Card Program - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWZKb2JURTJteGhJSGR0RUs2RF9tTEhZcFdvUGwyZ05XNzVGajk0dHEyRjRBNGpCRWhXaTRLWFp1VXVCaUpzZFB2UTNoMkRMMU9xVnlRM1lobE14X3IyWldkSEJ5MlN3UnMxZGlobjJmN0duOFNJdlUzRWUycG9ZMTF5OE1CaEhQLW9CT1lvWmdGeEtnOUtmZUZwX282bWw2OFNmRmlUTWlVbENDM2Ffdk9nMTJsMk1RNUtQX2VjOA?oc=5",
+   "summary": "",
+   "publisher": "WSJ",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T17:22:00+00:00",
+   "fetched": "2026-10-08T19:46:23.988737+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -750,6 +780,21 @@
    "fetched": "2026-10-08T17:46:25.679914+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "6dd412ba32a71dfd",
+   "title": "Indian IT Giants Hit by Green Card Freeze - Deccan Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXcwNC1WYWEzNjY3c01YbVF4MjZHRGpOVWJQa283MFdjQmYzYk8zMjFNbnUxanJ4TGl4bEF0aVdqV1pmYVNOU1dTQ2NqaE13cmtRSUNTYWNIUlBnZHJRNVVnZElSZUFpTmtOd28tY1pRU3U2R05GVVFOeVAtdEhDbmdyUVZoRXduWWZUY1l4SXMwRV85bDlVaWppQ24tcmpQUWcxbDdPZFhtalpob0VjUzhmeWJJaUlfX1HSAb8BQVVfeXFMTnN4R2RPdVJHNW5aQ3NjS29SNUtma1ZucjU2MnI0a3dRc2E2UERabGxKRW9oUkdaMjRCRExZM3B1eWkycUxqSU5DY19SNWQ3OV9mdEVBVHlGcUJYV3d2R3RyV2JjMUV4RklvUnk3QXlOYm1BSDdNRjFXYl85RHlsRVNINjhxb3IwRE52VVZKYzR1ZFBmV2FBVGx2ZTdHaVVuZnNjMkh2NGFfaDlJalVGZHl2YlVaVU9JYTlWMHNPaTg?oc=5",
+   "summary": "",
+   "publisher": "Deccan Chronicle",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T16:02:10+00:00",
+   "fetched": "2026-10-08T19:46:23.988737+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -11597,6 +11642,21 @@
    "fetched": "2026-10-08T09:16:55.394460+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "2f55866d4257da8c",
+   "title": "British Columbia Provincial Nominee Program - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04TXpaaDgtSjhjNnZlcUduS29VUURJZmRLeGVwUEpSSHpWa0F6c3ptV1h3YTRnU1kwNmltVXB4Vks1ang2eG9VRWl5aFZXM0tlQWNsX08wLUxERlNzUmNqbDdtdGhQaUh2OVE?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-08T19:46:23.988737+00:00",
+   "visas": [
+    "pnp"
    ]
   },
   {
