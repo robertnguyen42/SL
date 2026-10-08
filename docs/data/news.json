@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:46:09.077352+00:00",
+ "updated": "2026-10-08T12:20:31.985203+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -229,7 +229,7 @@
    "id": "us-h1b",
    "name": "Google News – Mỹ – H-1B · Lao động chuyên môn",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "us-l1-e2",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "eu-citizenship-investment",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-schengen",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "nz-residence",
@@ -506,6 +506,21 @@
    "fetched": "2026-10-08T10:47:27.293261+00:00",
    "visas": [
     "residence"
+   ]
+  },
+  {
+   "id": "e01420c66939e5f7",
+   "title": "US proposes US$70,000 fee for international students seeking OPT work authorisation - Malay Mail",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTER0MVJGN1dBWTBkYVdKVFlPeE4xWHhoYWhuX2k3RWxock05U0ZFNGh0dzVGSk85ZTZEb0gtOW13VHc0aUtNcndQX1JUdVhvWHBpY1hHZm5IZVg1c2FiMnpTYW1yRWlFQ3BieUlkN1lGMXlPcTBFS3oxQWlnTFVCYVB0SEpVUzZnSEdXaEU2LVlpbjZmUUNBeEgzZ1FhajltUldTUXlpdGxGc0JTVVdIVXlRMHB5OUxWckFLemZwNzdKQ0FOMWI0ZnduSHJReDVjNU80ZUlySdIB1wFBVV95cUxPTER0MVJGN1dBWTBkYVdKVFlPeE4xWHhoYWhuX2k3RWxock05U0ZFNGh0dzVGSk85ZTZEb0gtOW13VHc0aUtNcndQX1JUdVhvWHBpY1hHZm5IZVg1c2FiMnpTYW1yRWlFQ3BieUlkN1lGMXlPcTBFS3oxQWlnTFVCYVB0SEpVUzZnSEdXaEU2LVlpbjZmUUNBeEgzZ1FhajltUldTUXlpdGxGc0JTVVdIVXlRMHB5OUxWckFLemZwNzdKQ0FOMWI0ZnduSHJReDVjNU80ZUlySQ?oc=5",
+   "summary": "",
+   "publisher": "Malay Mail",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T09:19:40+00:00",
+   "fetched": "2026-10-08T12:20:31.985203+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -1049,6 +1064,22 @@
    "fetched": "2026-10-08T05:15:28.099941+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "018ec16a084931b9",
+   "title": "Parent Resident Visa: 5 critical checks for fairer queues - NRI Affairs",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxa0l4VVBwTC1qc2FtT2NnMWgxaXBtSTRYQWhEOXBoZ05HdFBKWGtubnc5NGdRblpaZ2xybVBJVHRkY051Rm9VcXZNY1dYT0J6VEttdFlYdm5uVkJRODA2aG4zb0hFeFdNVGVlU3p5UQ?oc=5",
+   "summary": "",
+   "publisher": "NRI Affairs",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-07T17:39:35+00:00",
+   "fetched": "2026-10-08T12:20:31.985203+00:00",
+   "visas": [
+    "family",
+    "residence"
    ]
   },
   {
@@ -2848,6 +2879,21 @@
    "source": "ca-pnp",
    "published": "2026-10-06T04:07:15+00:00",
    "fetched": "2026-10-06T06:19:23.738911+00:00",
+   "visas": [
+    "pnp"
+   ]
+  },
+  {
+   "id": "580bc2559155b0d8",
+   "title": "PH focus crimes drop nearly 30% in third quarter – PNP - Philippine Canadian Inquirer",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUDNkRl8xTDRsdGV5Rm81dEF6YW5hUGpmakpLdGhoeGlVRFNZQTNsTjdyS3VaUjZHNGpKODJ0RHZaeVJaTmEzNlZ2WlBiY3JfTzBwaUVqTmg1bEIybHduaEk3WXp1YjhFcDN5RUtSbkRKalJKaGYwZktLZUlQNUtXTXhlZzB0bjIyWmt1QnI0VjhCSUN0NTZN?oc=5",
+   "summary": "",
+   "publisher": "Philippine Canadian Inquirer",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-06T04:07:15+00:00",
+   "fetched": "2026-10-08T12:20:31.985203+00:00",
    "visas": [
     "pnp"
    ]
@@ -10442,6 +10488,21 @@
    "published": "2026-09-28T07:05:09+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "2d2bb78f4b66a185",
+   "title": "US Green Card overhaul: Republican Senator… - inkl",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1d4X1FUTWNrd3FRcmpPc0pWUW84UXdNLVg1cnlkRUtnRy1ETlRHd3pqTVNGRmR0Wk5JcE01bndXYzJvWnNNbVpubjVRVC0tZVlGUTl0b2Y3Y0RLQ3BLZmtiVXh5QUJJSG9xNFNXUHR6R2ZRdi1hR0RXaG1NVWhvUUM3ZXFMV2JYZGdiMWJnZEpZTkhFQVF5QkJxN1hCY3VNeW4zQmdMM1NCUVJkaEdMakVUbnFJd0ZhQjdFRHNvWWhfZGVueGIzdlZGRFBfTXQxcXh6Tng1cHJraUNwTHJoVVBNYkRHWHpD?oc=5",
+   "summary": "",
+   "publisher": "inkl",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-09-28T07:00:54+00:00",
+   "fetched": "2026-10-08T12:20:31.985203+00:00",
+   "visas": [
+    "green-card"
+   ]
   },
   {
    "id": "128ad6236dcb203f",
