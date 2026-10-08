@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T18:17:37.357314+00:00",
+ "updated": "2026-10-08T18:51:02.072711+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "us-visa-bulletin",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
@@ -385,7 +385,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-business",
@@ -419,6 +419,69 @@
   }
  ],
  "items": [
+  {
+   "id": "154de84c43b6821d",
+   "title": "Microsoft pushes back on Vance’s H-1B visa claims - The Seattle Times",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHRCaWtFRWZLai1PcWU0ckFpVVNoeUVFby02aTRHY3pMZ1pyT3RPaHVEUGwwdDZaV2ZiS3huOElMejlJYTZkcjM4UzJjZ3dzc19HdFdQdi0xVkZnRTJpZnFaYU9BT3QtWFpXMWdYRUlZd2pMRGoyQVh5ZWNITnRfbF94bjlIeHNaaHZObFNaOVlqclRKc0ZndWVYcUI1dw?oc=5",
+   "summary": "",
+   "publisher": "The Seattle Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T18:20:04+00:00",
+   "fetched": "2026-10-08T18:51:02.072711+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "74321e2090d9c15b",
+   "title": "U.S. suspends Microsoft, Adobe, others from green card program, cites abuse - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWjVGSkRiS1pPU0lKM0dzeHliX3VlaXd6SjJ2MEtYdFNHbmFUS001ZFVPVER0azZ0a1B4MldKQ09YSVh6Tnk3b1JzcGNMcXMzNUdfdlBOb3JvcENBVmhsQjBSWEVacmxiTGtaMGcxOXRkcGdmOURzNUdLeEFkc0lZNEp2T2FJcExhWXpYYVBta2tYZVBwV1Y3eVByZ1JMXzlXNWoxUHJKY3N5dmV5S1F5X3FoWWZlQ3Z6eUpYSjUwVQ?oc=5",
+   "summary": "",
+   "publisher": "Investing.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T18:11:33+00:00",
+   "fetched": "2026-10-08T18:51:02.072711+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "58c8f7669185ff5d",
+   "title": "Express Entry: 2,733 invitations across back-to-back PNP and CEC draws - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84UG5VMENCWS1oU3lVUnFqYWxFSkNlWkpoU2ZlS25GNWZ2ZUVNQlNtTWZjTG16VEppWW1rZ2ZwX3JzSkxnYnk4RS1BYjRuTVNlLWVtU2ZlWjZqc094Z2g2WWlrcXJYMlFNYkF6WEpWX09ndw?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-08T17:53:42+00:00",
+   "fetched": "2026-10-08T18:51:02.072711+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ]
+  },
+  {
+   "id": "7369cbe08cf28516",
+   "title": "Working At TCS, Infosys, Wipro On H-1B And Waiting For A Green Card? Here's What The PERM Ban Means For You - NDTV Profit",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNG9KWmFUcGRDTmFob211WndUTWhyYlpqeTh6ZlFzbTZYaTFKa2ZXM1IwRWlRRHBUZzFEZkg2a0g5dWU2eVN4dHhuaThsVzB6TUlKamVxTWE2TXBkZUw3TzkxaEJBUlRKMmFUUmFMc2phLWFPNHA3eTl0bTItMURha19ncTRhTVFjUmFwTndldHczQjhkMnJHbEZ4NWJ0UTBVenkyOE1WR3JRNlVHazl0cFlGQnVBRDJCVEVPY2JOakxEYy1ENDg5UFl0bVdIQ2JhQXRXNVB3Nnd5LVJjUXfSAeYBQVVfeXFMUGtaRGJZcUZ6RFB4U2RRU0ZuWUEyOUFpQ0ZHX2pObUpjaGtmdjBMQ2hOTElCTFhUVzhobVpkV1JiVWc2RWdqZGR3UEhkY1Ztal8xeGJyMTc2dVNEY0h2bjJpUjE2MXFneEc3RnZ5eWNVRE5BcjVHd3RMRjJjWHA3MUJQNWZQaTZsLUxHNUNsUlY2eXFVVkNtOE9vY25kWXh0MGV3c1BhdkpPTUtEaHVpeUw5amRiZmpoekI2WnBYU2tya1dJZWRleUkwbWwtbnp4T0lzdW1KcmhWbVd0YTdQZ2c2cjVyNkE?oc=5",
+   "summary": "",
+   "publisher": "NDTV Profit",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T17:50:08+00:00",
+   "fetched": "2026-10-08T18:51:02.072711+00:00",
+   "visas": [
+    "eb-work",
+    "h1b",
+    "green-card"
+   ]
+  },
   {
    "id": "172d2e7188658e3a",
    "title": "US Issues Final Rule on 9-11 Biometric Fee for H-1B and L-1 Visa Petitions - Legit News",
@@ -775,6 +838,21 @@
    "source": "us-eb-work",
    "published": "2026-10-08T15:27:15+00:00",
    "fetched": "2026-10-08T16:18:18.390954+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "bac450836346ca28",
+   "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDF0UkZkaFdCWUpTV3V5c2RYZVNQak9rQVlxMHJfLWVrcGwxTTZHWWY2UUxrODZpQUhaaldPVUFNeFJ0Vlg5SXhrcmZRLVBWNW1uVzF5eWFRRjRqY0tibE5jTXZOZ0ZxMVBoUGMtRXlyamp4WDVHSkt5bTE0dUV1d2daUmdiREXSAYwBQVVfeXFMT1lDRXpaeUdqeThfZGRZYnBBcVdUR0RxWTVRY01GQVJlOU5iZURjWmIwdWpVS2hRY3JKZm9QMTZQdFR5c0VaaFpSR2EzYWZkVWZwdEE0MFJ4TWQzWHphQk94XzRaWHZkQkV6ZlI4MW9MNGxoNnctUl9Cb3FJcGpPaGtXbmFwY3RPSWhNTFA?oc=5",
+   "summary": "",
+   "publisher": "CNBC",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T15:24:25+00:00",
+   "fetched": "2026-10-08T18:51:02.072711+00:00",
    "visas": [
     "green-card"
    ]
@@ -4910,6 +4988,21 @@
    "fetched": "2026-10-08T11:46:09.077352+00:00",
    "visas": [
     "skilled"
+   ]
+  },
+  {
+   "id": "f28f79eb34e6d41f",
+   "title": "Lawsuit Opposes Policies Threatening Family Separation for Green Card Applicants - Democracy Forward",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMzFwYzY1cV9YMjEtbXFSektnX0VXM1o4TmtPcTZqTW5qV2hEZl9aSnZ3MWZGLV9iTWF3NHRadXJnUkRRR3BrZGhGX0JBLWpEdjBrR3kxb0M2YmxOUkNuSEpoQjZzd0hoVTN1Wm1rQmtENmpXNE05d2JDUE9RVUVfTFlOb3VCTFBBdm5lLVlxMXIyRHRNMm5KWHFOdVlMbDBFTjRCOTU4NGs2eGFWVU5WaXl3cFZtS3FIUGtjRFln?oc=5",
+   "summary": "",
+   "publisher": "Democracy Forward",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-08T18:51:02.072711+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
