@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T22:14:57.452713+00:00",
+ "updated": "2026-10-08T22:46:19.743157+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -445,6 +445,34 @@
    "fetched": "2026-10-08T22:14:57.452713+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "1331390b3e296163",
+   "title": "Employee FAQs: J.D. Vance Announces Immigration Action Against Microsoft & Other Companies - Reddy Neumann Brown PC",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRC11LWlFNnhRemY3dmdVUEZWZEt2MXVMNUFvbjlPMXpDYnBEWlFsTnM3MFlBd2JRZzlmTWQ1YUZMVjBpa093emtJcmN2a3hFZHExMHdMbmU4cmN2R3BNZmlkbzJ4em5Zc3BkT3V6b1R1MXBHc19SQWtYc2pLWkxBcjQtTGxyTUFVYTkzRUxEUG14MnprNXdEeVVEN3N2OEh5a2hrQ1d5SF9UN2hxUlZjWjRiTHk?oc=5",
+   "summary": "",
+   "publisher": "Reddy Neumann Brown PC",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T21:33:19+00:00",
+   "fetched": "2026-10-08T22:46:19.743157+00:00",
+   "visas": []
+  },
+  {
+   "id": "3e8dbbe228ca02ce",
+   "title": "DOL Announces PERM Suspensions for Microsoft, Adobe, and Major IT Firms - WR Immigration",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVGJZcmRSMm5KQi1yRlhYOUp1QWtXLUpkNVVmOWV1dHRwbVVYS3AxQ1FpUmlMZjlRLU9HTHloV0JmUmhyOWxnQjJuUFE5aGZfWmxoYlVQaURXRHVNOUtTXzM2TkhMaWp1UWtDTWdFZ3llNXp2MzNkVGFJUS1FMXVpS3BYSDJRNGRxeV8zclRlS3hLbWM2S3JV?oc=5",
+   "summary": "",
+   "publisher": "WR Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T20:57:47+00:00",
+   "fetched": "2026-10-08T22:46:19.743157+00:00",
+   "visas": [
+    "eb-work"
    ]
   },
   {
@@ -503,6 +531,21 @@
    "fetched": "2026-10-08T20:47:59.304506+00:00",
    "visas": [
     "partner"
+   ]
+  },
+  {
+   "id": "7ba13b9c5b67ee69",
+   "title": "New EB-5 Fee Rule Raises Investor, Regional Center Filing Fees - EB-5 Insights",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU19TTXpaXzN3aGNwb3FfNU1pel8tRTFLWWRvQkRoV0VVUnVKUWpIMi1rZXBRbERsQXY4ZjJ5a3p0M1d1SFRTd25WSVMzR29QODRvVmpyYzY3ZUlpbFBmSVhFdHFUcjF2S3pJdGpTei1iSHl5NnVlRnhJNVQyVTFWRFNFajk5ejVoelYycjdNUVNFc25QYmhvV1ctNm94dkZpOXpj?oc=5",
+   "summary": "",
+   "publisher": "EB-5 Insights",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-08T20:27:30+00:00",
+   "fetched": "2026-10-08T22:46:19.743157+00:00",
+   "visas": [
+    "eb5"
    ]
   },
   {
@@ -820,6 +863,22 @@
    "fetched": "2026-10-08T17:46:25.679914+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "c9d31c541c3d7190",
+   "title": "Major crackdown on Green Cards: What is PERM program & which IT firms has US suspended - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRTIzQjA2TmFYVnJmcXlrYl9TVjFlbEMxR2RxR21mVzVXN3RXNHRTZDA5cW4yYktOejJYTXh1Mm94VXhUMkVUaUQxZXBVMEhnTnJ3azZmaFo2S1M4RkJTemU5WW90TmNiTEJIMEJnNDM4bnc1RV9qRFdsU3ktSzNOOEpIbFB5RWdYU1hrWFJ3VlV2cElzNGlNRUd4b2dCZlN3eURHbjZ3VHlURlZxLWMzTWhsV2E4Qi1RVHNpLWVwTVJsbTRYQXY1MlRFN3JzMnllZS16SGp5bmtTbVpNYThibGdRbEQ0TExTODNsRFNKREVUaWxLQmFGVTZsaUtSUHBYTGFUZWlzUErSAY4CQVVfeXFMTXhtUDZtMWhQam03QnpQR0hsZVg3WDlJZGRkRFE2Z3h3UnVlZjhjclVCSFhmblgyWXhXNHV0SmFRaFVyM1dGd19xeS0ybFhJejVOb3VxSXFodXQtRk12S0s2Nm1UVVI5bXp4OUx0d2VNd3RJQ3d3QjNwTTl2ajZpTTYwNUJJV21ybUxfdlVkY3hwUG9QSzlUTnZvWGhtLV8zWXN4NGowRDBCSmZNMDFfZlFDUmc2dFVpOVUyRFNiN1NYUWZqd21nUDlKTXBmY01sMmdyTmJLR3ZtdHlPU2ZDYUlzcUw4ajAyQTBac2xRemsxTFNHYWRsSTFwT0xjdnVLZjJmMV9jSHZoMzJNY3hn?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T17:29:00+00:00",
+   "fetched": "2026-10-08T22:46:19.743157+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
    ]
   },
   {
