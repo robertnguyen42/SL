@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T15:16:41.262569+00:00",
+ "updated": "2026-10-08T15:49:00.957559+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -331,13 +331,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,81 @@
   }
  ],
  "items": [
+  {
+   "id": "77907d44909be2a6",
+   "title": "Australia Announces October Deadline for Next Skilled Visa Invitation Round - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSS1fT3VFaFBlNEJubEdpb1AzTk03Y1J5ZHJucDZfMXRKWm9id21aX25iY2lWNHFNZXZfbHJkUU4xMlpYZmpCZndYZFlvaWMySkpUdFBrdWg4OGVYQm12X1YyYTRaYnVydHhPQ0k3RWJXSEtUYjVPMEhGUW45MmZQa0xLenBXaDh5emdBcVNxT2hxWmk4cm9oYng2b21tMzVrcV9KV3pR?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-08T15:43:22+00:00",
+   "fetched": "2026-10-08T15:49:00.957559+00:00",
+   "visas": []
+  },
+  {
+   "id": "80ec0477a6a6449e",
+   "title": "U.S. suspends Microsoft, Adobe and other major IT firms from PERM green card programme - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcGo0ZndiLVhKRUZCUGhHU0tKVHdhYUJUU2FTa1ktZjI4LTNyWlZiWXc0V1hsb29kM3E0dHZCTmVDcExJOWIxbnUtNE1UdnRFQjZqTGlZSFZWbzBGLTduekRGX2RSWlQ2cUoyNjZaR01IbFZISlNWNUxva0VBSTVDTHRsRW9PNlU3bWYxbEViWGYwZ0RmT0h0RFRJYVhISkVpdFR6OXM0ZXlBWFlDa0IwNnNmNnVRcGd0M1NCMmoyMDNCWFItNkZnVElfV0dKUk1TS3N3M2xFWdIB3gFBVV95cUxPeUtpWm8yUnUxcFpWWGYyRVJablFQSU50RUpVb2RPeXFLWnN3dHdaNG12ZmltckwwYUhqT29LWmdfOGtWSjBlbjlOdnR0WEJwcnFLd0c2emZOZmMySVdJMkNqekZqYzZlZmVSczFOMG9kWlVkQ0ZDeUpyRVZub0dmR0RfWm8yaGNRcC1lRHNOUzFHNTdoZlU0Q3JWbFdPWWVvLWg2OFdhaGJrcENpeTNfVl9ISkY4QWd0ZGJRUzJDaTBuaEN1Sm9DSXM5Y2ozc2x2OTRrbTFDaXgwV3dsMlE?oc=5",
+   "summary": "",
+   "publisher": "The Hindu",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T15:33:46+00:00",
+   "fetched": "2026-10-08T15:49:00.957559+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
+  },
+  {
+   "id": "e7016837cb355de5",
+   "title": "Germany Announces List of Occupations Eligible for Lower Blue Card Salary Requirement - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRFc2RG0xUl9mZW5VVncybkRPUWFMZzA0U0VBV2R1dzRQZTBQM2d3SC1pY2c5bUsySG8zTjFxVERmVE1JMGhzUW5NdXpXMEFlVlktM3R5NnFvNklIbWZ3cXBqV0ItNjZWWjd3VllKbVptOTBsTUZPeUtuMEFpU1JKZFV4NkVRdmRoMkZSOVd2dUFrcXdYX2lEbnZMN0xQaGpoLVE?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-blue-card",
+   "published": "2026-10-08T15:31:55+00:00",
+   "fetched": "2026-10-08T15:49:00.957559+00:00",
+   "visas": [
+    "blue-card"
+   ]
+  },
+  {
+   "id": "8fc32cf7b1b89ee8",
+   "title": "Vance says Microsoft, Adobe barred from sponsoring H-1B workers for green cards - Politico",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXhvNG9JRG9EbkhYTV9EQmU5MWVpR2UwczFZSjlEM3R4d21mdkJoNkJRekJZOGp5YjZ2Y2RORTVEY1hwQ0Q0Y25GVktaTjdRWDVGT184UUZ2X1JVUng4TWU1NlRIWGJ2RGhzcXhRZGVTZXI5T1lzYzV6bTdOUHRsYmk1VmM3bF9Od1RRZVJDa0wxckk?oc=5",
+   "summary": "",
+   "publisher": "Politico",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T15:24:00+00:00",
+   "fetched": "2026-10-08T15:49:00.957559+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ]
+  },
+  {
+   "id": "be2db8ada9574c87",
+   "title": "US visa chaos: Tata, Wipro among IT firms suspended from PERM scheme; what it means - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVjVqeUlVVWVpYkdzUGZlZXBoMVpxeXZtdXVvME9rU2NSaUhxUUNCblhVSG0zekNGLTRTQ215WU8ybFlrSnhvQmlFclpyMXFRQlowT2lpcUViNXZOelFNTUhoRGRnNjJXeHJwc1hRMUg4eU5lNUJfVVZtZU9pelYyNGZkY3V4S0YyZDNZdUdzeWJxdEpPR2dqY3VDMy1qUmV0b3V4VTl3QzB3bEVXM1YzUm5NTFpyLXZhWHJNMVZCZ2w5Z1VMM3RkankwSEY2b1BHOTBGSG5LZDloZG9jYTVKT2NGRzZzNGU0UHZKU2YyMXNmelZPT0NJU2ZQdWdXa3VWLVhRZdIBigJBVV95cUxOc2NCZTBiR0ljTlJsb3JlQnJ1NnJ0bEJtRXNLSkxqeWF4dGFJMXEzSHE2bEhSdEhQZGMyRXh2akxnZmhUWWhWS2FXZ1F6bGFISThnYXFsSXFuOUNfck1ZOVhrTEF1VzM0b25WVGt0Y3VPRERXRHA0SEZhZ2ZTb3Z0MjZoZVdNeHVkU3ZtdjZFUkdYUzZIeVNlRENMN2ozaFZjRWZQWkIzd1ZUVThtTURpU3ZrXzV5VVk3ZmRzSTdDM2NEMGg0VWlxb3BkeUhvNTBENHhVc2s4ZzNZd1N5aVFYWGw4Nk5XOFBqMDlnMHM4Y0ctVE4xUDlJbkpKVGZTbTVMa1lVR3BUUVpsQQ?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T14:57:00+00:00",
+   "fetched": "2026-10-08T15:49:00.957559+00:00",
+   "visas": [
+    "eb-work"
+   ]
+  },
   {
    "id": "49a2668c4e8a43a1",
    "title": "Green Card Update: Trump Admin Blocks Tech Companies from H-1B PERM Program - Newsweek",
@@ -2742,6 +2817,21 @@
    "published": "2026-10-06T08:17:53+00:00",
    "fetched": "2026-10-06T08:46:54.273124+00:00",
    "visas": []
+  },
+  {
+   "id": "8610096665607d54",
+   "title": "Canada Lists 11 Countries Whose Citizens Can Enter Without Work Permit Under CPTPP - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZWdubjM2SkgxZ1FpSS05NmMxclFxQWZMdjItUG10bHlsZGR4SDA2aE9FR0R4am9iU1VuQld5bk5LTThOSlFLVFd4aXBWVkk3S0VLMHNkc1Q5RDhIN1Q4dXM4RHdWUWhPQVVFY1dzYmxydUM3eG5sdVJ4Q2wtTHJRMFdtOU1VZ3lqM2VZMnBOYw?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "CA",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-06T07:57:44+00:00",
+   "fetched": "2026-10-08T15:49:00.957559+00:00",
+   "visas": [
+    "work"
+   ]
   },
   {
    "id": "d419bb7fecbcca57",
