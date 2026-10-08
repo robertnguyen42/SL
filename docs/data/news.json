@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:53:29.295652+00:00",
+ "updated": "2026-10-08T13:19:50.421076+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -420,6 +420,35 @@
  ],
  "items": [
   {
+   "id": "a758495581e12b8e",
+   "title": "Moroccans top EU list of non-EU nationals with valid residence permits - The Arab Weekly",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ1pYLWxRa2lwLWNfaDBvLVFoMDhZaTV1eGtnSlY0OWJNM0ZQNVlqMWtaUG04QmwzNDNTWDQ5TjhiaVJtNS0yNVdDR241c1FqWmNjbUlmdUp2UzA4Q05XSGNISHkybWZQN1E4VDV0SVVRU3JjdV9mODE2SVYwSlY5X1dEd0xmSGJ2MmllZnNLVGJsUQ?oc=5",
+   "summary": "",
+   "publisher": "The Arab Weekly",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-08T13:18:08+00:00",
+   "fetched": "2026-10-08T13:19:50.421076+00:00",
+   "visas": []
+  },
+  {
+   "id": "6b18265b45ed3689",
+   "title": "PEI Issues 90 Invitations in October 2026 PNP Draw - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV0d3MjQ5UHhZak5uT051QUJaNDk5UGRfQy0tdUVFWUYwazBrZE9TOEpvSzFRcUw1TjgzZ0NTQUNUemprQVVnVVlDckJ0XzR2MXZfLTY0R0w5SGhITzllWlhEeXVqR2JSU1prTHJMNGVLOEswTmdoV1JkWXYwak1qWFJaeXIxX0NyZUp1TGVRNTVsQQ?oc=5",
+   "summary": "",
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-08T13:04:22+00:00",
+   "fetched": "2026-10-08T13:19:50.421076+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ]
+  },
+  {
    "id": "dbc14cc1ab80272c",
    "title": "New Zealand student visa approvals: Indians face 49.3% rate, China records 94.9% - India Today",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbXBaNnZEWGJIMjZBT2lYRjR1LXZYOHJFX1A5dDU1QmZnWEJjRVdqdXlPNGRJM2RKOVFURjZ2YURaOTRBYXlSUFU4MFBRcmRFX2Z6ZU9WV1pURXRZVDdZTG84QUJWV0k2NDYyNEZ2cS1IX3E3anc2YVJBd0pCaFlIRlpxRi1lOVFzalp0dXF1bUo1VVpGQWh3WFU0aHFoMV9qT2EybEZENTB5a2wtaDgzR2Q1MXplWFRXQjE4eFB5cHE1ZEpHMHc?oc=5",
@@ -433,6 +462,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "f15ef8630b435fab",
+   "title": "USCIS Resumes Neighborhood Checks for Citizenship Applicants - Boundless Immigration",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wajhybTRRcDAtVElWSzhnVmlaSXg2TlY1Uk5aUGRuNFJWVl9IcWRva09qWDZfVkc4UTRORHk5dVFDUXIzdlBJbkdRNkxzN2NRbF9sSkhRYjFuOENHMTJxX1hKRHRwNWdQLS1qNl9BakpMMmZKQnZjUFhuSQ?oc=5",
+   "summary": "",
+   "publisher": "Boundless Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-08T11:20:58+00:00",
+   "fetched": "2026-10-08T13:19:50.421076+00:00",
+   "visas": []
   },
   {
    "id": "d567d2aeef991e2a",
@@ -521,6 +563,21 @@
    "fetched": "2026-10-08T10:47:27.293261+00:00",
    "visas": [
     "residence"
+   ]
+  },
+  {
+   "id": "aecdbb8f329b59f9",
+   "title": "Mỹ đề xuất thu phí du học sinh muốn ở lại làm việc - Báo và Phát thanh Truyền hình Hà Nội",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUG1PdXZNRk1uWlJ3NmhmbWI3UWVUcFRoSm9mTWdGcF9PQ3dXS05DNHBVNXVwZTNuSHVMeUdGSFduNXdEWDlkYnJpS0Zmam5VTVc5NTVDNk1kM1ZsQ1RUVzVqYUsxWlN2T0tmZ2tvSmcwS05zdUFqMGZjVlpRTG14bXlqcTdLZXpFQ0MtQQ?oc=5",
+   "summary": "",
+   "publisher": "Báo và Phát thanh Truyền hình Hà Nội",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-08T09:20:33+00:00",
+   "fetched": "2026-10-08T13:19:50.421076+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
