@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T20:47:59.304506+00:00",
+ "updated": "2026-10-08T21:15:56.067758+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "us-visa-bulletin",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,34 @@
   }
  ],
  "items": [
+  {
+   "id": "4e5e691d524f745c",
+   "title": "USCIS Sets 2027 Launch Date for SAP Financial System - ExecutiveGov",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbjhBNmItQ1pKcjctM0JaSHNzN1FMZHczcGtjX2o5THNhTWpKZ0N4SjlwWjhLbFRiVE5TMU1TaXFIdGNrZy1JYUVfZmhfNkpaeDlpVjhYWmh3ME1lck5XMkItYUF2dWhCQjZ2VmlEME0tVXd4eDBGYW4wUkVjcHpoYjg0dnhUZE9EaVBycjR4WTRCTURMeUhMOHJwaTY?oc=5",
+   "summary": "",
+   "publisher": "ExecutiveGov",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-08T20:50:26+00:00",
+   "fetched": "2026-10-08T21:15:56.067758+00:00",
+   "visas": []
+  },
+  {
+   "id": "bcdabbad9b17071b",
+   "title": "President presses EU to remove \"backward\" process for Schengen visa applications - News Source Guyana",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODFISDBPTGZOYWsyYXBLRVZ5YkVsT1VBUzBPb3dBRVVNdGpNVnRtVENScmVBa3dqeDFsT0Jkb3N2TURnNS1xNTFyemcyc2pPZzJIN3poeDlpX2h1Qmg4TF80WkhieVFRY3g5d2dVMnNDUzlPSEVkems1c0g1OXdOeG55bFVubEE2dWkwQkE2SkllNG9ObU51WmtPUGJ3c2lHT2lsZ2l1dE5rMElfMWc?oc=5",
+   "summary": "",
+   "publisher": "News Source Guyana",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-08T20:47:50+00:00",
+   "fetched": "2026-10-08T21:15:56.067758+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
   {
    "id": "0cd5b90f1de08596",
    "title": "Western Sydney's Multicultural Families and the Partner Visa: What Couples in Our Region Need to Know - The Western Weekender",
@@ -432,6 +460,37 @@
    "fetched": "2026-10-08T20:47:59.304506+00:00",
    "visas": [
     "partner"
+   ]
+  },
+  {
+   "id": "ea5a542c046c48c5",
+   "title": "Microsoft suspended from green card program over H-1B visa abuse - Quartz",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pdnotNVhCU1pMSHVxOXl4QWZzczk4ZHBRTURHX2tFaGZmVVN5MHk1REhWSjRMUl8zSEQ3MnU3NU5RaU1yMHBKV1hWWjd5VUE5NG5VWXRTS05XTWxvcDJqc1A0dDYyaG5uTGZEU2FyVFNENFRoNDhGWQ?oc=5",
+   "summary": "",
+   "publisher": "Quartz",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T20:24:41+00:00",
+   "fetched": "2026-10-08T21:15:56.067758+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ]
+  },
+  {
+   "id": "38820ba84d228919",
+   "title": "US Immigration: The Trump administration is suspending Microsoft from a green card program, alleging fraud - ABC7 San Francisco",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTjd3bG5veGVaZmhPSGRma3VEc09QWExINVNGeWE4RzhBeW91cFViU0QyNVJYWmRLZF9pMVNaSWlXUnZMUE5jSnQ0WnZmVWJHU2lCenhRLXRtRHk1QWhRQXcyQU9HcGZtbTlLUU8wRzl4RVlhdzJhVF9ndUhQa1F6Nkt2cWdSN3B4MmdBU1pLZkptS0ZzLUJFSlpvdHp4RmxxTE5yd3gxTk5aNldIT3lRelhMU1FXMldvRUU4ZEV1WGUycC1EcFhRcdIBzgFBVV95cUxNcXhnSDgyaW1ybnV5QlAzcThCWE40dURNNy1nOXpkeGpKRzRiMlN0NWItdzVHM1hidkVKQzljOUZXWnNON0g5eGo0V1h5ZkxNU3JiN18yR1hzcXZrbVk0M3lub3VuOEktZE9fejdReTN6ZU9hanFPVGRtODB1RjBKX2ViXzQ2RFUtNUZkUVAtSzkybHE1YTVvTmNXUWh0Zjc1aWVMc0pIbXctQlhCaGJhYy1FeUxZOENOZDJfd19wMTdKS1hGbG5CcFpieTJRdw?oc=5",
+   "summary": "",
+   "publisher": "ABC7 San Francisco",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-08T20:07:57+00:00",
+   "fetched": "2026-10-08T21:15:56.067758+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -490,6 +549,21 @@
    "source": "us-h1b",
    "published": "2026-10-08T19:41:16+00:00",
    "fetched": "2026-10-08T19:46:23.988737+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "78d8dc34accbb8f1",
+   "title": "Microsoft responds to green card program suspension, Trump administration alleging fraud - KOMO",
+   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOUTNFOGstNXpnanlXcWJYNEtfOTU2Sjczc2ZLQlJmZXdnZVg1MmdsY3Jzam5WVjNXY3E4VjJkOG1jSjZpTzl6NmRlRS0xaWNrekVrdWl1alhEdVdzQm9IcjRMZU1NR2hOZXljUTJQZ2EyTUlmS3RwVGtuUmtENjFkazVrUFJyWnluLXBqR1JGRmotZ3o0QklGRGJhQTdxYmhDVmk3emJYOG5OdFFQemZKS3RqNlBPNmMtVG5SZkNyVEtiOWhmdU1iZU9xcUJHeS11RFd5SklveGh3dXR2UjY5elEwTkN0dXFNaEx6SFhGZ25EMnVtVEhMaUl0RGtEeU1KMEQ5alRiOHM3RkpsQjNjV0pObEQ3dVB4a2RkUDdTbzFGUTlUc2IyN2ZCRU5JQ28?oc=5",
+   "summary": "",
+   "publisher": "KOMO",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T19:33:38+00:00",
+   "fetched": "2026-10-08T21:15:56.067758+00:00",
    "visas": [
     "green-card"
    ]
@@ -597,6 +671,21 @@
    "visas": [
     "eb-work",
     "h1b",
+    "green-card"
+   ]
+  },
+  {
+   "id": "9d27c85330c81259",
+   "title": "Trump Administration Blocks Microsoft, Adobe From Green Card Program Over Alleged Fraud - Law Commentary",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXVUVHRmdXFwYjg0NE13TTZCT3VwaWpNa0R4cnQ5aE5TaXJ1ZE5NZkdINHMtRmY5VF9TX3hQZUlEZ0hRU05CWUtyR3p4QnJSNkF2OWpTTG9peHR6cHY1YWhVeXk3d0ZkUGV0WnFxLVpoMUtxLVJ5UXBnMU1kcWtMWEtGSHJvRWMtcFE?oc=5",
+   "summary": "",
+   "publisher": "Law Commentary",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T17:49:34+00:00",
+   "fetched": "2026-10-08T21:15:56.067758+00:00",
+   "visas": [
     "green-card"
    ]
   },
@@ -18365,6 +18454,19 @@
    "visas": [
     "visitor"
    ]
+  },
+  {
+   "id": "8435cedaaeaadd5c",
+   "title": "What are Labor’s new migration rules for Australia? - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFNSeF9DeXVVb09IeDAwRUltNVVlSXZvN0hJcHBRUW8tYi1OT09DUXBJSk1XRy1DeS1YSWhxY3htM1ZPaWU3Yk96TXlZaTRPOU4yTFNTLTkxYWN1QWVCNEhiaTR2dWNJMk5yZWVRMWFNM2RHMFNnMGtsOHFOYkh4VFRBY2FKOVhyWlB4Vk9vTlIyMjVEYkwxbi1TZm82WXZIT1JVRVVETktzcFNFM2V6dQ?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-08T21:15:56.067758+00:00",
+   "visas": []
   },
   {
    "id": "5f30623419cf53e1",
