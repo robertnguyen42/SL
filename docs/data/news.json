@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T06:21:15.914550+00:00",
+ "updated": "2026-10-08T06:53:07.145592+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -199,7 +199,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -379,13 +379,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-business",
@@ -621,6 +621,21 @@
    "source": "us-student",
    "published": "2026-10-07T21:35:00+00:00",
    "fetched": "2026-10-08T00:22:29.945371+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "84dd473d7772a0dc",
+   "title": "Trump administration proposes a $70,000 fee for international students to work in the U.S. - PBS",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDczRmpkQnAzSnNnQTh1SnJqNlVWbVBfSHJUcFROWklMQzNCRDJPdUllYlVmQVZ6OVJtRFlVRGY3bTQxUmZ1dDhBNmxNM0NOeDdJV0RYWHJpNGRITmVYc3EyeG14N0hWelFiMWFLdVV1QllLZXBWNmRiOGhaWEN4VGk5ZjFiVWg4alZJaEFIM1Y5RTV2Si1vWXFxc0tWMDl6RERRclNqRnZqYWRydVNkRTdESDFQRHpaa2k3ZWJXUWVWbGfSAcgBQVVfeXFMTXpaVS1PRWdEZUxmWUZ4aVBGc0tVeUdNNERFM29xVXB2R0Z1TFVWV0Y0TW9DbWVsV0pTS0U1TWk4Z2l5MDFLWFN2Nm5jOXdjWTkxRkU1TjJiY1c3WGlnY21QWWlmTXQ1cWVlOFl3RG9JbHhFRVVLNzhMbzdBQmFJTGxQSzRuWnVzWjNGaFVFdWxtY2hNZmxrZTNtWEp5RTNBaFRWVWl2V21sYnIyYjlESjhTZVlDckVzVnFBX2ZkUDdWb0w0X1dhZFc?oc=5",
+   "summary": "",
+   "publisher": "PBS",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T21:16:23+00:00",
+   "fetched": "2026-10-08T06:53:07.145592+00:00",
    "visas": [
     "student"
    ]
