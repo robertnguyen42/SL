@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T00:22:29.945371+00:00",
+ "updated": "2026-10-08T00:54:16.791132+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "au-partner",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -379,13 +379,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-business",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -1084,6 +1084,21 @@
    "visas": [
     "aewv",
     "post-study"
+   ]
+  },
+  {
+   "id": "ea2e2161ac0e9d5c",
+   "title": "DHS proposes $70K fee for initial OPT participation and $30K for extensions - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFRlMm0xbDB3T2ZueU1NOUdNcERTQmdlck1BLWxZaC1IeDMxZmhoMVladHZCdUE3X2NNbmlZdmMtT3ozbVh0d0VENXgxQTFxVUVEa3BRdlBBTkRIdFhLU0JDVHJkdHgybFdnbTNXdzZCdEdsWUcyWE5YaVpDRVB1ZVBaMHczQ0ZDWEE?oc=5",
+   "summary": "",
+   "publisher": "Yahoo",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T09:00:00+00:00",
+   "fetched": "2026-10-08T00:54:16.791132+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -19564,6 +19579,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "77333331f14d8264",
+   "title": "Australia Releases Categories of Non-Citizens Who Cannot Apply for Student Guardian Visa in Country - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjRLaUpIUVpTZWpJbEcyV1B1bk1LZlNaSnFaakhCeEFTanZadTJuVE9tT1ZRUkJZN0gtOEdOUm4tb2IyYjVvNUtqcW15d091aVdRaG9iNjc3UW0zTGF2V0ZPdFA1LTRqMlVGZ005Ymo4SU1pd0ZJY241Z2Y0MUUzQ2FwWXNyckt2SV9rbzFNSVE4LWI3R3RESDNqQXU5QV9RelBKM2Uza1E?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-09-12T07:00:00+00:00",
+   "fetched": "2026-10-08T00:54:16.791132+00:00",
+   "visas": []
   },
   {
    "id": "774a5183b7c486b2",
