@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T23:43:31.278587+00:00",
+ "updated": "2026-10-08T00:22:29.945371+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -169,13 +169,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-student",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -379,13 +379,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-business",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "nz-family",
@@ -446,6 +446,21 @@
    "source": "us-student",
    "published": "2026-10-07T22:20:47+00:00",
    "fetched": "2026-10-07T22:44:52.369516+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "1d5526e8763dbe75",
+   "title": "US plans steep OPT fees, shifting burden to schools and international students - CHOSUNBIZ - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREFUNGFzYkhCR0QyNkUzVnk4bnFqTTh1RVhjVjV4WXhnS0kzeW9qNGtsNVQ3U1RyY092NjZMeFRVVzlyOWQ1U1doZnVhZFJiem9rY1ByMlU5Q1FCRjBFR2k0SC1DUEVQclZzQUpIV2wwdk5ySzBpeUFsbzZfNnFIeENoYi0ta1Fl0gGcAUFVX3lxTFBmZUhma1VDYTBzZTVEVEhDNEdBU1I1QVpNVGNJYjFQY3VZc3pfUV9MWTFWZy1nOGxkNUZyUl9yRTFQQ3ZERmZWQTFZN2Nwdno2QlBvU1g1OU92Yk1IWkY4bjNYX1pubjFUakVnN3pXN0NxVlloQVlmTnV0M2sxenR4NXhtaEp2OWJubkVNQ25uLTJ0U1pUMXpEbEx3dg?oc=5",
+   "summary": "",
+   "publisher": "Chosunbiz",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T21:35:00+00:00",
+   "fetched": "2026-10-08T00:22:29.945371+00:00",
    "visas": [
     "student"
    ]
