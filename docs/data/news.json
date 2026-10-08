@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T14:49:29.339975+00:00",
+ "updated": "2026-10-08T15:16:41.262569+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 18
   },
   {
    "id": "eu-gov",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-schengen",
@@ -373,13 +373,13 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -437,6 +437,22 @@
    ]
   },
   {
+   "id": "d93daeceded116a7",
+   "title": "US bars Microsoft from sponsoring green cards for H-1B workers over alleged abuse - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSEJmNzRMR3djN0c3Q2pCVmVfeXVxc0l0MFpxb3dVZUhKLThwMU9lNjdTY1E1ZkgtWmxvdmhJRWNhVXdoeFNVVVVDZjNFdi1YYkhiV0dLMlgzMW4wMEtlN0lIbWhLcTR2a1lKTTRWTDFzY3VVSGtzdU9MOGdDR1psWVl0eV9PLTk4dzRrRkRmcktwSHQ5bWMzWjFHU3I0VllZU3VyV2VBbnJ4c1kwQU1hZllTaXd4dVVadDlJeW1ack9XSTZ0dnJyMTJUZTZRckxpODRxbkNjR3kwNkZ60gHiAUFVX3lxTE92cmNyXzNNZ2d3NUREWVRXUmQ1eFdfWFJvMXJfUHNZVHhnOV9tYkUwWG55djAzVFVmbXlFY1U2QzNBeDd3aGlHNWp5dGVnY2JxV3JZcGFueG9OdFdRdmViVTdwX1ItU2xJZC10U0w1dnFFVzY5cWh5TFJyNGJNc21oTzhPT21aVVVEamhndE51UXVOSkZCVldwZFVFSGVVVTFVVFJ6MnZ0eDAxQXp3TXF0ajZ3WlFVQ254VzVHWFQ2SkJuVS14VnhSLTdvdlZ4d29WR292MlBvTFRvRy1vVUpibkE?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T14:38:52+00:00",
+   "fetched": "2026-10-08T15:16:41.262569+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ]
+  },
+  {
    "id": "51ae1f7328bb3724",
    "title": "Portugal Says It Has Processed 13% of Its Golden Visa Backlog - IMI Daily",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1FjWXpwd25NQVNiTWFZQzNaV3hJUWhnc2R4c3dZQ0hTbFUyVEduMVJhcmRza1A1MDc2clZCT0tRMXBnU29YbnU2YVRpRU1aaENRYlc3ampoQ21ESGg5RXJoWEJvMVdlY2NKTkdpTHBaM2tUbEZxeXFtbG1hbVl0c3lCX0J1TGU1UUZpenhpbV9lM3pYWGVwMw?oc=5",
@@ -449,6 +465,21 @@
    "fetched": "2026-10-08T14:49:29.339975+00:00",
    "visas": [
     "golden-visa"
+   ]
+  },
+  {
+   "id": "35da5313cd28a1da",
+   "title": "Vance to unveil H-1B visa abuse findings - KATU",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVTBCVWdISExRa3g2emxjZHJ1MFhOMFQyV1JpaURQdUZLZklaQWRfTi00MmZsbFFJelZsM3FtT1VDV2lxZU9iNTlTd2hVYlRBNE53M3RyLWlWRUxHdmUzUjZUQ2tvQ0tOMF9IdFA2RlFFaHVlekZhcFNRU2o3Sm4yZGtBTFpMa0pRajBsaHRWVTBzLVBvUkp5MGNuTWgyWFFiQ2kwU1V2LWgwN3R5bkhDeFkyY1N0c1M4bDZiM1NrYU5Yd3lPVDdpVW9Fb0ZqSDRlNVFqXzN5eXlZVnlrZ3VIWnhiUGxtSzk4anVSQVJWdC1sN3lSQjdDU21oNGVjbDU0RUUybzBkUDVBWWtPOVo0VnFrWmR3QQ?oc=5",
+   "summary": "",
+   "publisher": "KATU",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T14:02:14+00:00",
+   "fetched": "2026-10-08T15:16:41.262569+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
