@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T13:47:55.355432+00:00",
+ "updated": "2026-10-08T14:18:46.388169+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -217,7 +217,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "us-eb-work",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-student",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "nz-residence",
@@ -461,6 +461,22 @@
    "fetched": "2026-10-08T12:53:29.295652+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "9a1e820b3bf3c85c",
+   "title": "US announces new filing deadline rules; H-1B, Green Card filers may need to act earlier - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeS1CY0lldWNWbHdhR3J5NE5qa1dIVXVRYk1GRHBhSFVfV014akkzaEpoaEx2Z2EzUGpSVHJjcmpnZGdKa0ZCMzVqd3U4Rzg3TEJjVEdIaGtWMmlITDBmV1NYNndLMjFBUVF6enllRGRtdkI3SVppU21LUVp5WHZubWgtUkpRdGlRVTlPNkdwTkFIUGJTa3duTkNHQ3F6RTJURVhnWDVmVHMzMkVVY0VxbU9KaF9IVG5UOHhYclNPemg1Z1FUNHU0dU9aVFNCVkpHXzlXY1cwSkZvbkNnOXfSAd4BQVVfeXFMTXktQmNJZXVjVmx3YUdyeTROamtXSFV1UWJNRkRwYUhVX1dNeGpJM2hKaGhMdmdhM1BqUlRyY3JqZ2RnSmtGQjM1and1OEc4N0xCY1RHSGhrVjJpSEwwZldTWDZ3SzIxQVFRenp5ZURkbXZCN0laaVNtS1FaeVh2bm1oLVJKUXRpUVU5TzZHcE5BSFBiU2t3bk5DR0NxekUyVEVYZ1g1ZlRzMzJFVWNFcW1PSmhfSFRuVDh4WHJTT3poNWdRVDR1NHVPWlRTQlZKR185V2NXMEpGb25DZzl3?oc=5",
+   "summary": "",
+   "publisher": "The Financial Express",
+   "country": "US",
+   "type": "news",
+   "source": "nz-family",
+   "published": "2026-10-08T11:21:29+00:00",
+   "fetched": "2026-10-08T14:18:46.388169+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
    ]
   },
   {
