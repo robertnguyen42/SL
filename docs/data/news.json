@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T05:46:17.091803+00:00",
+ "updated": "2026-10-08T06:21:15.914550+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -193,13 +193,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -420,6 +420,21 @@
  ],
  "items": [
   {
+   "id": "0784ea1c7a687aed",
+   "title": "US may impose $70,000 OPT fee for F-1 visa holders: How Indian students could be affected - Deccan Herald",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVy1YakFMaWxRR2VoTl9MVXh3cTFrNDNWRWdEWHVBMmFmQkljYnp1ZjctYjlrZlpybm4wZXJMQ1JUbmtMQl83SzVxUWVRY0FZWXV3X3cyaXZnX1AxcEdGdWxmMU5ZVWZvNThkVVVLa0hkbHE1aHBhLVBPUUdEQmI0NVZmQlU3Z1d2TzBhMlR5MXY2MGZkcTVncldrcUNvYW8yUnlEcDdLNDFEZHItTnRqMVhVal84Q0hfaHRvMmI0UUFTQ1Y1NGRPbU1vY20?oc=5",
+   "summary": "",
+   "publisher": "Deccan Herald",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T05:57:34+00:00",
+   "fetched": "2026-10-08T06:21:15.914550+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "1f446ec5f8bc1c48",
    "title": "US colleges could face a $70,000 fee for international students to work after graduation - Business Insider",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONVJHaGhURUc0blVVME5RUFJqSkp3N1dtSG9OZDYwUGdrbVVhTlBiWFAxdVQ0bVJsZHVBdjZEaW5NQTVRSVFFc1hCY3F4c3d3eTZ6cnZ5SFhlZHRRUUxLbmtCMmRrYVpfYUh0bERUSmREa0JselRaa0I0eWRLUmRMMThzWnE3UmxURDh4T3I1Rl9scjVSd054UlF6U3hmaldjRDhEUE9TQQ?oc=5",
@@ -433,6 +448,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "7003f536266e13fc",
+   "title": "Australia migration: Coalition plans 650,000 cut in temporary migrants over four years - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTUJ2R0gtVWE5Rjk2di02VjZpM1JqRDBxOXZLMWI2WmNLeEpkQXpZMnl4NmRjWXRYZXhqcHRaV3Q0aUhvdG83eUdFTktMMVl6U0hKSzJDYmE0YlF4SDRidGUwNGVfM3EyTHpueDBBUUlNVnJHZGttSUdEaGJ6RllWbGQ4bW9Pc3FOanR5dmVBYUtPWGxMWmVyeVk4aU5ncExXWGFZb0RNRU9RSUtZdFhNOHZTaXBERDhXYTBRTHJ6NVNMYmdQVG15RU5OTmJ2UG9TQlUtVlRSSnc5ZllfeHNPUk1VQXVEcWdCbHd0aFVaSkM2V2PSAfMBQVVfeXFMT01CdkdILVVhOUY5NnYtNlY2aTNSakQwcTl2SzFiNlpjS3hKZEF6WTJ5eDZkY1l0WGV4anB0Wld0NGlIb3RvN3lHRU5LTDFZelNISksyQ2JhNGJReEg0YnRlMDRlXzNxMkx6bngwQVFJTVZyR2RrbUlHRGhiekZZVmxkOG1vT3NxTmp0eXZlQWFLT1hsTFplcnlZOGlOZ3BMV1hhWW9ETUVPUUlLWXRYTTh2U2lwREQ4V2EwUUxyejVTTGJnUFRteUVOTk5idlBvU0JVLVZUUkp3OWZZX3hzT1JNVUF1RHFnQmx3dGhVWkpDNldj?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-08T04:43:00+00:00",
+   "fetched": "2026-10-08T06:21:15.914550+00:00",
+   "visas": []
   },
   {
    "id": "d53a1d4551eab353",
@@ -1776,6 +1804,21 @@
    "published": "2026-10-06T16:00:51+00:00",
    "fetched": "2026-10-06T21:14:05.797856+00:00",
    "visas": []
+  },
+  {
+   "id": "aa01c3fb8d99dcaf",
+   "title": "Second Federal Court Blocks $100,000 H-1B Fee, Plus New Extension - International Legal and Business Services Group",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUFdNWDNGNk1DdkdROEV6TmpDdnduSTJMcjlHQkxxSFMwVW9EMTFSTnIwNGJnbF95R0pCVGstRzdMQW5rRmtlQW93SmFTM3dXZXo4X1dzZ1ExQW5wNjJLRGE3TElqQmZZQzlMNG0xSmR2VVJ5NkNsYkxSZWs5T1lSdlN4dGdQT3FpQ3BFck54LTAxZ3pzM1NUUlB6YjIwLXZiZGZfck93?oc=5",
+   "summary": "",
+   "publisher": "International Legal and Business Services Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-06T15:41:30+00:00",
+   "fetched": "2026-10-08T06:21:15.914550+00:00",
+   "visas": [
+    "h1b"
+   ]
   },
   {
    "id": "2519a6989272dc84",
@@ -21729,6 +21772,21 @@
    "published": "2026-09-09T07:00:00+00:00",
    "fetched": "2026-10-08T05:15:28.099941+00:00",
    "visas": []
+  },
+  {
+   "id": "fb2c2e547bc76d2e",
+   "title": "How to H-1B American - Pirate Wires",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fYndhWmhTVlJDSGZWaDFhX2VXVVBIdGFmcHZyRUlKcThCVGx3MERnUkVZZm5DVnN2RHY3RTd5VVVwQi1rNGswbmtoc1VmeHIwN0dIYUVnOFdBTHZLazdz?oc=5",
+   "summary": "",
+   "publisher": "Pirate Wires",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-08T06:21:15.914550+00:00",
+   "visas": [
+    "h1b"
+   ]
   },
   {
    "id": "c1c74e31222e8a0e",
