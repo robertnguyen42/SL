@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T16:18:18.390954+00:00",
+ "updated": "2026-10-08T16:49:28.230056+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "us-student",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "us-visa-bulletin",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,64 @@
   }
  ],
  "items": [
+  {
+   "id": "fc0391934a662800",
+   "title": "Not just an invitation: US sets financial bar for Green Card sponsors - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRm80cWFXZWw0eGlqSkRfMk54WmROd21hVUcxbmM5NWszQWlCY2I2Z1NNQ2tfUnRFWGFYWFNpeGtSTWJwdXRWYlNicVB1eTRNc2UtdUt0U19ldGwycVlueDdtdmNRQzJVTzdybjlZa2RNYlRRblhJS05nd0FSS1lib1F5dGFhdjZ6LXpwQkY5VVZiX00wTDdDZHdINzY2SmFzTmdtaEltMUZOeWtaWlRhQWhEd2F6Zw?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-08T16:39:20+00:00",
+   "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "86c2a674cdf4fffa",
+   "title": "White House targets tech giants with H-1B visa suspension - Washington Technology",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSTJWazBjVkIwa044MHFSTXdlWDIyVnd3TkNqOU5iU3h0TExSVDQ0TVlqWVNNSGlUX3JlcmIwTzFaYU5TeHZzZTZLelV5dkVzLWU2Ui1wZWxkMVc4Y2NEeGNMM2xyRV93Q2U3OWM3c2ZKaU5XUTZiOWdxME5uS2l1NzNKRUh0N29GSFZESnRhZXlwWTRUWV9fc3hINFRKbVpmMU5lVWp1amZKbElFMjMyVGM0enNWaURLLWNoTFRaYVhHS1hRcUZYWWRzeHBwZ25hYjdiSQ?oc=5",
+   "summary": "",
+   "publisher": "Washington Technology",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T16:31:54+00:00",
+   "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "31054bc751384eb2",
+   "title": "Immigration catches up with overstayer who lived under alias for 38 years - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSXZoWTl5N3NydmI3OGlEX2NST0J1T2p1OWR6bE1rWUEyS3hRUFJUZXBvT3pmelhFTWNTN3FHYVZGR3pKMHhxYzZpVWI2UFFkdXc1b2hENWVDLVZ6eXRMa2NtSlVHNDk5U3k0dTg1SDFTaVREZ2NVanJGc2twYmdWNE0zNUZ1Ty1QRkVkNGZhWFZhelNncTFic1I3VFpva0taQmFfYmVabHZjd3lzQlIyYkg0NUZ5bnpETFBFQ3JOM0R5dzla?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-08T16:22:39+00:00",
+   "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": []
+  },
+  {
+   "id": "eb72a17cd5de4db8",
+   "title": "Why US has suspended Indian IT firms Cognizant, TCS, Wipro, HCL from Green Card filings - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBUendoMFRuUV81RENpSEdndXVpQ2xnUm80eFVaOVVpcFZFRXg2OFFqSHhvbVZnRmU0Q1RYbFhCQWcycU80dUhxQzJocTE4bXBBNmR6UnFqX1dRV09JSlE3NXV3MXFPNHZ1VXN3ZDJGVzlMU0VPMDRwQ0hPWTFOMXJxN2xxUnRVMW0yMUVEUTJkb043VXI4eHVyZ1Z2RXNyeXZEZ3Exd0JfZTRtM1MzR2pOYW9MZzd3dUF4LWlGX25XUWloZWE4aFU3UThNREXSAdYBQVVfeXFMTW9PUnRBc1FGOHZuRldOdFRESW1wb1E5SG9waVdBSkg2WlJsUlU2OUJ3TkNnSmFVRU96N2lReThmeHNGYVVQUXFfOVU3SFNmOGJTTTlSYy1MQnVxMU11bnU4RXpKTFU5bzRNSlZCWTZmQm8tTk5xMW94bXBYaDZCVHl5c1V6YmxyZkNocHFxcXpfX2lLTWEtN185MHI1QUlfTlFieDVQakp2d3A5eEU1b0Jld3pPNlNDVTN1TTBXR2hLak1hSW9qV09QcGJLNDdXbEhuWkZNdw?oc=5",
+   "summary": "",
+   "publisher": "The Indian Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T16:01:10+00:00",
+   "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
   {
    "id": "473941cc44d12040",
    "title": "WATCH: Vance says Microsoft is being suspended from green card program for H-1B visa workers - PBS",
@@ -526,6 +584,21 @@
    ]
   },
   {
+   "id": "3b069a874365ec57",
+   "title": "US suspends Microsoft, major IT firms from key green card program - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5",
+   "summary": "",
+   "publisher": "Reuters",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T15:21:32+00:00",
+   "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "885bd39ee46685cd",
    "title": "Microsoft is being suspended from program to apply for green cards for skilled foreign workers, Vance says - NBC News",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGR4Z1ZlRGJ5eUNrRWtHU203alVpQm5RYk1sMVkyRGtKYjd5bERQN0dvb2hzMWd3c0tFVkdWTjdsczY2Z0ppc1FZQllkZ0FBa1Z0TlphLVhtSmd0c1ZhVmRqa01IV2dNTkNuZkNxYlE1bUJFZnQxeDhpZngtdXJmRW5mVmlJWThnbmNjYmkweDVibjlnQUVQb2J3YXdPSnc4dGRSZHp3WkxQMW15ckEwYWJnX2t0cVNUV1dFeVZR?oc=5",
@@ -568,6 +641,22 @@
    "fetched": "2026-10-08T15:49:00.957559+00:00",
    "visas": [
     "eb-work"
+   ]
+  },
+  {
+   "id": "5c7c2336697ecd5f",
+   "title": "Microsoft is being suspended from program to apply for green cards for H-1B visa workers, Vance says - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
+   "summary": "",
+   "publisher": "AP News",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T14:57:00+00:00",
+   "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
    ]
   },
   {
@@ -1548,6 +1637,21 @@
    ]
   },
   {
+   "id": "90f2ec29bf665a30",
+   "title": "Sen. Husted introduces bill to modernize H-1B wage threshold and protect American workers - The Highland County Press",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFJTemgtTkZjNk1VRndVbXZiMTQ5aHFianA0dndMZWhzQlhfUWNZVU5QTldMZ2FURFVDZUdUaFYtZlkxbUxPQmZPQ243Ym5xeThIYXNVbzFkenZFYTNuN1JWbVlKcjlKZk8taE1oRUlVeGRUVTQzYWNmRW9PZW9VbkE2MFQydFNxTXVGTW1DUHVMYTNyTUpSV242Zno0Y3lkRHdzSDViY1JMSEczbzVFTTY1OTlpeVdlYjZaMkc3QQ?oc=5",
+   "summary": "",
+   "publisher": "The Highland County Press",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-07T16:09:06+00:00",
+   "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
    "id": "28d099871b55463c",
    "title": "CanAm Secures USCIS I-956F Approval for Pacific Port Logistics Center, Its First EB-5 Infrastructure Set-Aside Project - The National Law Review",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcUdNLVpmVzhWTWd0MnlBcjZaRENyb0xqbktkZXNvTG9HOWxzbDZTRVN6dkpTaFR5d3huRVFReVdteGdGQ3d0LXRhNFR1YzRlSGxwN2NnTDkxaFduLWdaTTNadEI5LU1DeFA3RDlJTFkyS0V2RmFYTGdDenNSMC1SMnkwNHc5cnVUSUtZUVdpOHpqajVkU3ZWTWpjM1RfR05HdDRleEtaRWZKV0NtaHhIbVI3MkM5UQ?oc=5",
@@ -2467,6 +2571,19 @@
    "visas": [
     "work"
    ]
+  },
+  {
+   "id": "ecbf20dd2f17ba5c",
+   "title": "C10 Visa Canada Requirements: 2026 guide - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUM1V4eU40WTBDWGJZTzJWWjBmWFV6TG5CQWg4dDlWLTZyRzVoVm9TTGthYXFfTklkN0VHZ1U4WlMtaWFvV3ZVS1hTaE9VOEl1SlhmU3NsSkdGVFB1X053?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-06T17:50:00+00:00",
+   "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": []
   },
   {
    "id": "332f11d225360056",
@@ -6758,6 +6875,21 @@
    "source": "au-vi",
    "published": "2026-10-02T08:34:47+00:00",
    "fetched": "2026-10-03T02:20:06.267887+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "d89c303e6b08048d",
+   "title": "Úc chính thức áp dụng các quy định mới về thị thực du học - Báo Cần Thơ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb09IWEFCZVpUQnctUWZVUTBmT24tM3lsc2ZBVEJCVkdkWW1GWkdnOUVSUjI4TUZwNDRsTks0SXQxUG9CTUFaUk92MmdqR01fbFYxMWRkZ3N6T2syV2xnZjFPTExFWm52aGdTYjF5X19aUVJ1S2xJX2YxblBUbXVKbFZaTWowTFR2Qkd4dEg4N2UzcFo2V2ZxZjRzVQ?oc=5",
+   "summary": "",
+   "publisher": "Báo Cần Thơ",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-02T08:24:00+00:00",
+   "fetched": "2026-10-08T16:49:28.230056+00:00",
    "visas": [
     "student"
    ]
@@ -12398,6 +12530,19 @@
    "source": "eu-uk",
    "published": "2026-09-25T07:00:00+00:00",
    "fetched": "2026-10-06T02:14:57.648826+00:00",
+   "visas": []
+  },
+  {
+   "id": "bf2bef4347a849c7",
+   "title": "Visa power: L-1 party may end soon - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjNSdHoxTzVqSS1XVy1QS3M2eUR4Q01GdlVhTnphRkdEMXFkTzJncE85czE1RHBrcFM0QzRCdzV5U1o4d2hCckNXT0d0NnU2QmlSSDBGek9ESUJrRHd3dUZlYmNfalp5dFNkRV92WTNMN1NPM18yVHQ4TEhWVnpOTDZQWEpqSW1DV1ZfZmNUbw?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-l1-e2",
+   "published": "2026-09-25T07:00:00+00:00",
+   "fetched": "2026-10-08T16:49:28.230056+00:00",
    "visas": []
   },
   {
@@ -20786,6 +20931,19 @@
    "source": "au-parent",
    "published": "2026-09-12T07:00:00+00:00",
    "fetched": "2026-10-08T00:54:16.791132+00:00",
+   "visas": []
+  },
+  {
+   "id": "6b7b5508d871baed",
+   "title": "Top Destinations for Indian Professionals in 2026: Countries With Streamlined Work Visa Routes - Global South Opportunities",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41SERCZUQyekw2TVd0U0JjZzFiYkpuMkhyMGNFMktwcFpFbzU3NC1NQUluUFRnaS1fSXEzN29xVTFIZk9lVmNPc3F0MHBJLU9tODl5cGYzYVZCVzdzRXg4MWhUbjdNa2Qxb1VJcng4cC01TVc3eVlj?oc=5",
+   "summary": "",
+   "publisher": "Global South Opportunities",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-09-12T07:00:00+00:00",
+   "fetched": "2026-10-08T16:49:28.230056+00:00",
    "visas": []
   },
   {
