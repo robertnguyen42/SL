@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T01:46:33.839922+00:00",
+ "updated": "2026-10-08T02:14:39.002307+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-citizenship",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,49 @@
   }
  ],
  "items": [
+  {
+   "id": "886232e05c5cdd12",
+   "title": "President blasts EU over \"backward\" Schengen visa hurdles for Guyanese - Demerara Waves Online News- Guyana",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzRqNjduS0tLNDFjYnVkWkFJSllMeFNxaTJSRFpPWmxiRFVyMENFRVcwRzRhdUxRTkJXM3Bhb3BfMzVZT2VtTXZHdTNWTm1vc0VfVE1wTjlyLXFudDJsTUlZNGlBcWIyYjFjWFRCNEVUUThGcnVxVUtVamJWcUYxa0FOa25FLTdYejJscFRIdGdwdFgtazM2MTBsdHdaTjJsUzliS21Wc2hjUQ?oc=5",
+   "summary": "",
+   "publisher": "Demerara Waves Online News- Guyana",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-08T01:59:26+00:00",
+   "fetched": "2026-10-08T02:14:39.002307+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
+  {
+   "id": "a4b35acaf014bade",
+   "title": "Mỹ có thể thu phí 70.000 USD với du học sinh muốn ở lại làm việc - Báo Dân trí",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVcyRE03VkxZcmdzR2hTb3VKZGtveWx1Z3poOThLNjVMV0FONkZwWWNLSTFnNDh1RzhJYUROTU83Ymg2VkZVb1loeUxMbUFXdGhuUXlUQTJmb3o1elFoSWRreGpPV2M2akd1aDBZRzd1RkNQU0ktYS1BUGtDWUNieWc3M2xRcHhNTTEwSmg2aElVRWxsTjlybHpJeXE3T3dCd1lrclozUVFZclZFdGd1S1lub0djak0?oc=5",
+   "summary": "",
+   "publisher": "Báo Dân trí",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-08T01:58:35+00:00",
+   "fetched": "2026-10-08T02:14:39.002307+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "6e3349acb8fff9e0",
+   "title": "EU’s new border system sends airport queues soaring - TVP World",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWdSY2NDbUpXQ3ZWam54Zk1MMzBtTlRlN0s4Mm9iWXdCQ2w0aVBBcThCNUZqQXNlUkt2RWlfVHJjYkc3YVExSWRVTkl0d0NrU1doM0FEdXdkRFNDRUlvdWc5SlJrX3pzdDVhaHJBUUFsc0M1OUE2YS1Bc2RrdXctOXNiTEZaaDNLSkZvZG9RamktQQ?oc=5",
+   "summary": "",
+   "publisher": "TVP World",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-08T00:45:15+00:00",
+   "fetched": "2026-10-08T02:14:39.002307+00:00",
+   "visas": []
+  },
   {
    "id": "097650899e1d542c",
    "title": "EB-2 NIW Green Card Case Study: Approval for Argentine Psychologist in Human Resources - The National Law Review",
@@ -3528,6 +3571,21 @@
    "published": "2026-10-05T07:00:00+00:00",
    "fetched": "2026-10-07T11:15:20.149614+00:00",
    "visas": []
+  },
+  {
+   "id": "14f3b613b1181578",
+   "title": "UK Student Visa 2027: New Rules, Requirements, Process & Fees - Shiksha.com",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NYkVCNFhvYy1aZm1DZ1dEQjJhQUVjUVpUb3M5a2JrN01rVDhpbVV3U2JET2NLXzRCZ3Y1TDBlRmlzN0J3bW5vbWNfSURhODY1YnhRcGFFQ1lTcFBjUlJHZGtVbVNqQ3NpZXd1TGtxWG9LWTQ0c3lxMi1wT0JZV0E?oc=5",
+   "summary": "",
+   "publisher": "Shiksha.com",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-08T02:14:39.002307+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "9c24db098c37e744",
