@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T15:15:48.965887+00:00",
+ "updated": "2026-10-09T15:48:14.023152+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-employer",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "eu-schengen",
@@ -420,6 +420,36 @@
  ],
  "items": [
   {
+   "id": "52f8a5cc11fb8da4",
+   "title": "President Trump and Vice President Vance Tell H-1B Employers To Stop Laying Off Americans Workers - Center for Immigration Studies",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmlCc0NnZ1U2NmVNSThiZWEzTFdEWnZDRjAwaFA1MGo5T256NlVmZXB4N1BHbkhlTHBZM3l2bTZ3em9ZT3JzYVVVYmFScFk1aVRXOWprQy1IZEtwcWo3X0lxODBBQ3poNGsxRFFxUDNjRjRMa3hpZ1dORlhkXzlDOUx3STBTS2d1VzhRczlnejI3MFlnR2JDeEJ2RENudFhDM2RXM0NzdmgyVlRfRmxVX0tR?oc=5",
+   "summary": "",
+   "publisher": "Center for Immigration Studies",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-09T15:16:16+00:00",
+   "fetched": "2026-10-09T15:48:14.023152+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "83bc46dca6c0baac",
+   "title": "Former Canton doctor, convicted of attempted murder, faces sentencing for naturalization fraud - Ashland Source",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPajhoSUc1WGYtWXZKMUZDTVhpckY1VUo1TVZVd0g0Q1RCZ2VubnBrOEpTWnMwV0xjU25iV0hMMUVuXzg3cnFIUkZpclNWRm5DdmNsS3lyYVdVR0VFNndjaHEyd056TXlfSUJfVHctNVpQLVRHZEpHTmNHdnI4anNLc3JPNlpnWUE5OWtucU9aWlN0bnlTelJROUw0YVpCNXo4M0YtRTQ0NldWcWxRbC1lZTdjWUNRZWNxM2JlM24xTHByRS1xTDYxOTRaZGxXQk0?oc=5",
+   "summary": "",
+   "publisher": "Ashland Source",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-09T15:10:53+00:00",
+   "fetched": "2026-10-09T15:48:14.023152+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
    "id": "23397e1fc8cfb98f",
    "title": "President Trump Tells H-1B Employers To Stop Laying Off Americans Workers - Center for Immigration Studies",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeEg3RTNqdzQ2UHVsS3FUaDhjWlgydEpUM1laYUNBREZLaWJoR2NUQ1F5SmhEQUtPem1NN1M4NXk2cXNCeldpcUM2eDE1eENmU3ZlclRlWGlELS1fcDNyMnpScFVXRXRjcjlONnlkU19IY2pMT3BsOTRMS1kzM0E3T2oybC04cTAwMFc2NEFYMUtZZw?oc=5",
@@ -458,6 +488,19 @@
    "source": "au-en",
    "published": "2026-10-09T14:01:00+00:00",
    "fetched": "2026-10-09T14:17:58.250183+00:00",
+   "visas": []
+  },
+  {
+   "id": "24732dc0dccbe8df",
+   "title": "JD Vance Attacks Companies And Immigration - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzhvMzJMYXdGQXd5dkZwMXZkNklFOWV4dklCSjZOVzQtWGZYNEtNWGx4TC0zWExmV2JiQ3VPQ1JKWDRzUWRPa1YyY0RreHgzd1JnQjY1UEU3YUtsRTBvekF0Y09GNFllTjlfUU4tVDdMV1I2a0VLb19HQUhPZjJ6QlNOcGpnOEZlWUlOX1E0YnlpdVhwcGk4Z0ktbEc4MEE?oc=5",
+   "summary": "",
+   "publisher": "Forbes",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-09T13:44:10+00:00",
+   "fetched": "2026-10-09T15:48:14.023152+00:00",
    "visas": []
   },
   {
@@ -23704,6 +23747,19 @@
    "source": "us-green-card",
    "published": "2026-09-11T07:00:00+00:00",
    "fetched": "2026-10-07T21:45:55.013439+00:00",
+   "visas": []
+  },
+  {
+   "id": "fef4628f2d88c4c3",
+   "title": "TAKE ACTION: Don't Let Trump Distract from COVID-19 Failures by Banning Immigrants - actionnetwork.org",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTVk3OEZxeUQ1TWlYUlBieTlFUDZTOTBJM0dPa0lObFEwU3ZZRnRiSUh6NTVVMXEzZkwwWE9UNHVZZmFXOFNfUjIwR1F1QmpsS1BGcThOQnBrbGxHMHdIc1RpUEU0M29hcmpLRlpOVnpDdDhtaFA1RzhhQzZaVGpEM1R1LTRUVmpDd1VfZEZUVUVqY2hucDR5WmVXUkdCZkVFTXBKOHdhdEZBMjZ6bmtmZlhKdHJfUDBMV3hSb3A1bHp6eGsyTWFsNGNn?oc=5",
+   "summary": "",
+   "publisher": "actionnetwork.org",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-09-10T11:13:43+00:00",
+   "fetched": "2026-10-09T15:48:14.023152+00:00",
    "visas": []
   },
   {
