@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T18:16:57.680704+00:00",
+ "updated": "2026-10-09T18:50:02.132221+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 38
+   "count": 36
   },
   {
    "id": "eu-schengen",
@@ -391,7 +391,7 @@
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "nz-student",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "e01dc6699969fefb",
+   "title": "From H-1B to CEO: How Satya Nadella traveled the path the U.S. just cut off for Microsoft workers - GeekWire",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDZHU2VVY1lXT21sSTJBTVpHMldhRTlORi1ZWTBxelNrZXc2SVBjY3lsRzludldONVlpWUtIQ1hZd2pPUDRRaWFlVjU0dXVpLXRNbU5aRjl5NTFLbFVUTHdMZXNHTVIwVWdjbkZqZHg5bVZsakJReWdidmUtQ0lLOW5fbnpvMjBORDVXT29JLTlCVGVNeEVlaWZmRDJ1aGtUVWxtV2NIeEIycExPYkdqQjVSMjdiWkxBRHl3cXI2Vi02UW41?oc=5",
+   "summary": "",
+   "publisher": "GeekWire",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-09T17:48:47+00:00",
+   "fetched": "2026-10-09T18:50:02.132221+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
   {
    "id": "ed5d352731700ab3",
    "title": "Five Gulf states ‘very close’ to starting Schengen visa-waiver process - Gulf News",
@@ -20220,6 +20235,21 @@
    "published": "2026-09-17T07:00:00+00:00",
    "fetched": "2026-10-08T21:15:56.067758+00:00",
    "visas": []
+  },
+  {
+   "id": "be8781359c5be027",
+   "title": "US Student Visa: 4-Year Stay Limit and 30-Day Grace Period Put on Hold after Court Ruling - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlJyWjBRaHVjLW8wcVRSTVdsU19mWXNod3dJbGdaZFJWUFZlVDRIQ2lOcF94TUlpOHltbDhqX21kbjJSa1hNWG80YkY2aDFNUGRYYlYwOFdDVkNQVzBILWdjTFJnRXBIbGN1T3ZtNXZVbFh1N1VFT3Jqd3R3MmJfUXJBRXN0dUVsYjBabVRqd2ZrcjhrMG1MeTFSbldJVXpvc2hXSkMxOVZrN1JDaVpma3FR?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-09T18:50:02.132221+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "5f30623419cf53e1",
