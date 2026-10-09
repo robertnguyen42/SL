@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T16:47:46.371367+00:00",
+ "updated": "2026-10-09T17:14:12.926888+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -265,7 +265,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-aewv",
@@ -419,6 +419,34 @@
   }
  ],
  "items": [
+  {
+   "id": "ed5d352731700ab3",
+   "title": "Five Gulf states ‘very close’ to starting Schengen visa-waiver process - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUHo4cDllaHZ3dENkTXk3NnFKaFZoOUJZNjI0YlowWTVoQW9sVHAxOURCZDFmNFRKQ0FNUEpFM1RMSTNtSUdFN1hyOWg3WFF2dU5TV1JDdTlwZGZLWlU0NVZ5MktJcVV1TkFQMnhZOHJhdnhKZGpvT1kxeERSV0NKeFprVHNvazhWNnhqczZ5QTJqSFJDUll0LWhlcU5PeE0xX0xXcy1zdUtsaE5TWl9jek1B0gHEAUFVX3lxTE1neTVnaURqRGF2X1B5XzBFTmE0QllPVlhOZzNTdDFYa0dld2NJa1BITk1Oak1SeVVhMzZoc2JEanhJdGc3MF9lN2VCMmh0NXJUalNseEZ4bnV6d1YyVERlZnk0Q1M2T2w0RWJNNFFfSUdaekxELXBBLWl1akNEUHV2eVk1WXdFbEhrRXZCVlhyRjEyM1dOMTBYMVBNSmhlSXJNYjdvMzg5dU03NWh4d3N0RktUenI4M0pvalpuYzkzMWlwajI?oc=5",
+   "summary": "",
+   "publisher": "Gulf News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-09T16:53:17+00:00",
+   "fetched": "2026-10-09T17:14:12.926888+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
+  {
+   "id": "558fa681cd91df97",
+   "title": "Minister Metlege Diab highlights new Productivity Mega Deduction to help businesses invest, grow, and create jobs in Canada",
+   "link": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/minister-metlege-diab-highlights-new-productivity-mega-deduction-to-help-businesses-invest-grow-and-create-jobs-in-canada.html",
+   "summary": "Canada has what the world wants: abundant energy and critical minerals, the most educated workforce in the world, access to 1.5 billion consumers through our free trade agreements and the strongest fiscal position in the G7. We are building on these advantages to make Canada the best place in the wo…",
+   "publisher": "IRCC – News releases",
+   "country": "CA",
+   "type": "official",
+   "source": "ca-gov",
+   "published": "2026-10-09T16:15:00+00:00",
+   "fetched": "2026-10-09T17:14:12.926888+00:00",
+   "visas": []
+  },
   {
    "id": "52f8a5cc11fb8da4",
    "title": "President Trump and Vice President Vance Tell H-1B Employers To Stop Laying Off Americans Workers - Center for Immigration Studies",
@@ -544,6 +572,21 @@
    "fetched": "2026-10-09T13:18:52.889254+00:00",
    "visas": [
     "schengen"
+   ]
+  },
+  {
+   "id": "cff7204e524c6c89",
+   "title": "Manitoba MPNP Draw #281: 340 LAAs Issued On October 8, 2026 - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOFpmZ1lSMmhxcDhkOVFGcnhSUGh1REtMQlFzOUg4YzFEbjdVVDJaRXNKWW5oUlpfMnRzSy0yaFZQbmNuZkdNQVJENDhXUVR5N2dGdS1TMnh3dHZqWmFjdEdZbTAzekN1ZU5TNUlBa1E1U0V5WC1sQkNGR19nenlNV2g4d01NaUJldW5aOWppMF9fSzlLUUM4aVBjMklSa0FU?oc=5",
+   "summary": "",
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-09T13:07:11+00:00",
+   "fetched": "2026-10-09T17:14:12.926888+00:00",
+   "visas": [
+    "express-entry"
    ]
   },
   {
@@ -977,6 +1020,21 @@
    "fetched": "2026-10-09T07:17:23.597978+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "49d38764d705e0bc",
+   "title": "The University of British Columbia (UBC) International Scholars Program 2027 for international students (Fully Funded) - Opportunities For Africans",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZWg5RGt4cHlWdkV4WW43c0ItYkQwRXQzM3hLZWR0NERtMDhIQXV1ejgteXFod0Jnalk2em82NVBjOWp5SjAtMWFZUl9TUGRnRFlmcEtkdEdHV0ZFQTZKZmdGYXUySlg5UUFWUUh0aXhPSkducWtqZWRZVi1ZLXNSdk5ab2hlYkVTb2JFb2lNZDJYMVlxY1o3a2JmQWx6QjBGMzBHWmt2ekU3SVlQMU5Fa2JSU1JKeXROcWdoblIxQ2tqY1dQbHAwdGRURjFXbmt3NXBrTjBGek8yeTQ?oc=5",
+   "summary": "",
+   "publisher": "Opportunities For Africans",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-09T04:08:00+00:00",
+   "fetched": "2026-10-09T17:14:12.926888+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -2779,6 +2837,21 @@
    "fetched": "2026-10-08T07:17:59.173879+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "deb4cebbf6079a02",
+   "title": "DOL Suspends 8 Employers From PERM: What It Means - Boundless Immigration",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVThoOTQwYnVJTEdocmxKSHRKaERtU0xzQWtLWnlWdHlWUlJoYzY5QjRmNVJpZUZ3SUdsRFFqOTkyN0ZOX2dmdG44YzZMTGwxWi1JbU9YSnZKRFlZdFFXRXFybF94cXRZODh1MXllN2lXbGpDNVVKNWMzSXJpdURnaGtqTms?oc=5",
+   "summary": "",
+   "publisher": "Boundless Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-09T17:14:12.926888+00:00",
+   "visas": [
+    "eb-work"
    ]
   },
   {
