@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T02:45:40.415714+00:00",
+ "updated": "2026-10-09T03:15:39.505690+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-student",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "c5d10554ec7910c7",
+   "title": "U.S. Department of Homeland Security proposes $70,000 fee for OPT - StudyTravel Network",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPLV9YRkdGc2dMTzZuY3Zfcmc2S1c2SF8wR2Rlb29BRktVRUNwZ0RwcjUyTU9EREszaHd1SmFyUWt5UWp5Z09TOGQ1NDJ2enFnWXJObDNCcm1acXpqQ1E?oc=5",
+   "summary": "",
+   "publisher": "StudyTravel Network",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-09T02:51:56+00:00",
+   "fetched": "2026-10-09T03:15:39.505690+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "0b9b6327f68bed75",
+   "title": "US Bars Tata, HCL, Infosys Among 8 IT Firms From Green Card Filing. What It Means For Indians - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0dmQW4xX1Izb0pxTnJxTFFqS2Jyd2JtUmtXUDdpZFJhLVh3Sm9PeXhMeEFRc2dlWkNDTUNPeFVYank2cmFGSGR1dTlmZFk0Y0FHTjFDRFZFbjk0THBaX3htZWw3OVNQZHF0eTNrZkpMTFVhcGJ5WkhKNFhPS203VlA4SzZial9kQmVlUXRpRi1jWndvSlhyVm9ZLTRwbE9GbTJnSHJjRTl6Wnh0MTdYUXFuTzFRSmVocDdZUGlGNEoxQjc0bll2THA5UdIB0wFBVV95cUxOY0xUZDJZcEtsMTNkTlNqdm45YUJlTGdjbGtpWjA1MzNNOHRsUHpMb3VwY3cxWTdrbTRmZXVCMTZmbXlINlpIQ0owQkIxd3RtTWRkaXpFck1kbGFNTWlHMkZ0Sk9TVVMwWHVydDJJNVdYUFByckNfa3VwNmpwNzljVkpYd0thTzJLZW42cmVRQ0hLWVExelR1b3BBRzdWR2RSQUtRcTNZZ1d0Z2FDdHU1SzJIY1NpekM3VUNCVE03blI0YTl0cnduWGdVbklyMlh6N0Fz?oc=5",
+   "summary": "",
+   "publisher": "NDTV",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T02:18:14+00:00",
+   "fetched": "2026-10-09T03:15:39.505690+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
   {
    "id": "0c193f6659123c58",
    "title": "US suspends 8 tech firms from PERM: What happens next for Indian workers seeking green cards? - The Times of India",
