@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T16:15:53.098198+00:00",
+ "updated": "2026-10-09T16:47:46.371367+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-employer",
@@ -265,7 +265,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "us-visitor",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "eu-schengen",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 26
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-residence",
@@ -1244,6 +1244,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "8b221d2ef369d6c6",
+   "title": "Being Muslim in India isn't a serious risk, New Zealand tells asylum-seeker to return home - awaaz.co.nz",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmtYY2pXMHJ0bVh3UHcxVTlQQUU5bkJ4QV9TNlNOaENaNmlKQW5IaXJpLUl5MlFWaTBUOUhjZF9hbVl0bmo1TVJDZDI4WGhFMG5kbmJIbE9hSm1hN2MzNGZpd0ZDZTExeEZnZkpjdDJ6OVozcVhLTE5hXzlSX1FvZG45OER0cW42blVteU95N0VfcWtjUGZDUTNmYVFvYjJUNlhxRERRZlJZclNkZ2IzMTNqQmVWU1p2WEZvUEQ1UWxsQTQ?oc=5",
+   "summary": "",
+   "publisher": "awaaz.co.nz",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-08T22:57:43+00:00",
+   "fetched": "2026-10-09T16:47:46.371367+00:00",
+   "visas": []
   },
   {
    "id": "410670903a578cbb",
