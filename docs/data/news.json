@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T14:49:44.584730+00:00",
+ "updated": "2026-10-09T15:15:48.965887+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "eu-schengen",
@@ -17962,6 +17962,21 @@
    "source": "au-partner",
    "published": "2026-09-18T14:14:45+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "44c2097a5d772e5f",
+   "title": "Canada Study Permit (Visa) Refusal Rate: What’s the Success Rate? - Wego Travel Blog",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTFDbUxFNkZkclY5S3ZpS2g5Q3ctSkJwOVhTak92RW5fc0cxWDV4TUhHYWlKUDlrT1F5eXl2eHNpTTc3NmUzbHZ4bFVSTk1Fc1dmMVRRNlhhYXNRNDFiYWM3dXhFMUJzcmhCLXVzeDl0cmtkZlRtWUtJUGR6Y0VlZTlVS3BNYXI2alJ3?oc=5",
+   "summary": "",
+   "publisher": "Wego Travel Blog",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-18T09:40:17+00:00",
+   "fetched": "2026-10-09T15:15:48.965887+00:00",
    "visas": [
     "student"
    ]
