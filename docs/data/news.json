@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T05:46:56.549653+00:00",
+ "updated": "2026-10-09T06:20:20.455108+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -234,8 +234,8 @@
   {
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "The read operation timed out"
   },
   {
    "id": "us-student",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "us-visa-bulletin",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -391,7 +391,7 @@
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "nz-student",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-residence",
@@ -2260,6 +2260,21 @@
    "source": "us-vi",
    "published": "2026-10-08T01:58:35+00:00",
    "fetched": "2026-10-08T02:14:39.002307+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
+   "id": "1befbf5bf76859cc",
+   "title": "Video | US Proposes $70K OPT Fee For International Students, Up Sharply From $500 - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0hNNktOX1hha0xqQ2lHT2F1dUd3N1d6aUVIN1h1cTZTZU1RcXI5VjZ0NGl4TklwTnR6WjRwTUVsZTZsR0N3akxUMXpaUTAwTE9PQzNMMVlNRXdNbG9oTjM4TlJja1FnLWVnWTBHaUE4UE9Ubmh0cThiLXV6em5TdTBTNGlHWUdpV3ZLczZYd0hDYUttSEtBY0pMZjJfUXJSS2R0SUw0TVg?oc=5",
+   "summary": "",
+   "publisher": "NDTV",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T01:47:16+00:00",
+   "fetched": "2026-10-09T06:20:20.455108+00:00",
    "visas": [
     "student"
    ]
@@ -20822,6 +20837,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "55f422dec142b9a2",
+   "title": "Alberta referendum pitches more control over immigration. Here's what you need to know - CBC",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVXVKVlprRWxZQ3c1SF9XeHhpenBaMkpRcVcwU2xaczB4YV9COUZvLUpEU2J6TWduQWF5Sk9jV092TkdUY2xiMFRkSnhTMnNfUUl3LXJnckMxMGFEOFNONFJjck4xYlFxVEFsdU12YThtTklDYW0yVHQ0Rm4xR2tMZklYSDJjODJfZWJOVnJ3?oc=5",
+   "summary": "",
+   "publisher": "CBC",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-09T06:20:20.455108+00:00",
+   "visas": []
   },
   {
    "id": "c9bbe165fb97e3ad",
