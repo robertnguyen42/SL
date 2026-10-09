@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T10:16:55.429065+00:00",
+ "updated": "2026-10-09T10:47:34.645488+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-employer",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-partner",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-citizenship-investment",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "eu-schengen",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "f1898894fe8e99cf",
+   "title": "Australia Names 2 Visa Types That Give Direct Permanent Residency on Approval - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbFBmOEZlR2w0cDRHWnZ4Tm9mZ2dWQzhYZVlLWThHNmNCNzlIS2tqVFdYTkQxdVhLNGlUUEFsZ0gxRUt1cW9GamFyQUNtTmoyQVFJc1N6ZWV6cWZva3JVWjRjTndtSEJjSlRQZFV0RFg1WS1KUlFINnNqM1ZrTEdWR2xGaXZELXRQN05zNTExU19Gc3BvbWxRcmxyRkRvWFJIbGc?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-09T10:31:26+00:00",
+   "fetched": "2026-10-09T10:47:34.645488+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
+   "id": "b6dcb29e1a87acbd",
+   "title": "Australia Lists Visa Holders Who Qualify for Permanent Residence After Family Violence - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSjNOYjZrQWJ1enAyOFEzVTNOR2MxcVJFZFZtanV1Rkc4VUttU3BnNzNuVV9YQWtpdHRiSUJlbFhvNkc1RFBDN1hRdGFiZFRENmx2TUpEWHVRNWhYYWhYV3FkWVNsUTZsaDlxU3IxVjQ2eEdZaWJ2bTVLZ3Y5SXZZaGo3MHhnUDBGakZBZEVRaEJsbkxQMVM2WkV6WU5vbExya1M1bFZ6V1ZsbHlLUlE?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-partner",
+   "published": "2026-10-09T10:27:36+00:00",
+   "fetched": "2026-10-09T10:47:34.645488+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
   {
    "id": "0fa1f9af165fd3d9",
    "title": "Australia Names 4 Factors Used to Score Skilled Visa Applicants for Entry - Yen.com.gh",
@@ -16638,6 +16668,21 @@
    "fetched": "2026-10-09T07:17:23.597978+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "5afe67f9cac35381",
+   "title": "Report finds Trump has stripped legal status from twice as many people as he’s deported - NBC 7 San Diego",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVcyeXZ1bm9UU2l3N05MQ3k3TUlwaVlFaFJpeXVScGJKbHBIMm5Nb1BaY1JmWHRNQ3pxOUJXUnNJMTZzYm03aTBfWXlRUUZkejQ1OHRsSlM1Z29xNjdCd1BUR1ZsM1o3VTNqOEVQcjUteUR0bDdwV1Z5TlhFbHJ3NVhwNnBBVjhWTE1URXZZMDMtcmt3dVhuRUtIbHlhMTlubGkwUEVCYnJrSTMyenY0WTRiLWtJLUxlVjk0QlNTVXhkOUZwc1U1TXhUSzBJWDQ?oc=5",
+   "summary": "",
+   "publisher": "NBC 7 San Diego",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-09T10:47:34.645488+00:00",
+   "visas": [
+    "asylum"
    ]
   },
   {
