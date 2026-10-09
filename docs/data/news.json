@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T19:14:07.052850+00:00",
+ "updated": "2026-10-09T19:45:07.514550+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "eu-schengen",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 23
   },
   {
    "id": "nz-aewv",
@@ -420,6 +420,21 @@
  ],
  "items": [
   {
+   "id": "7c82d90ad10e964d",
+   "title": "USCIS Opens New Asylum Office in Charlotte, North Carolina - Erickson Immigration Group",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM19yOGNmX3NfOGFMcjRsVHBoWmRPSFk4a2psWXA4ZDBTTEozdUcwWUFHS3R2b2NCd25GRDFIekp6MS1hbWU2WE56dDBMTDlHcVEtb3FiQVZtSTJNOU1yckVsM2dRcUxOSlVOcVhJUHZyLXUzWEJmeGhCcFZ0Q0Q4eC1YNA?oc=5",
+   "summary": "",
+   "publisher": "Erickson Immigration Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-09T19:27:18+00:00",
+   "fetched": "2026-10-09T19:45:07.514550+00:00",
+   "visas": [
+    "asylum"
+   ]
+  },
+  {
    "id": "ab070b184069fbd4",
    "title": "Liberian Child Rapist Convicted of Naturalization Fraud, Denaturalized, and Judicially Ordered Removed from the U.S. - Department of Justice (.gov)",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlFhMm9SdE9VdDZoamk3a2dZbF9BdXAzZXZNbGZKUWNXNFZWLURCd0ZQemo2aWdUa2dESVRaMUZsVGtucklGOHc3MHlrYnZYam5WTFdnVjNpSzAyUWV0X0pVLVFnajNKNWRfZjBHWTFmdVVNeGZVbHp0Q1VaQXg1Y3NOb2FSY1I2NG4weVFSenBoNk1uZ3NwZ3FZdk5CRy1LUkFfc3lNSTUyNDdiN1dJSmc3SS04ZDZ1S3c?oc=5",
@@ -448,6 +463,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "39e0975fbf7f4ff4",
+   "title": "Cuban Alien Arrested for Unlawfully Voting - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdlgyQ0t5eTBxQ1p4WEd2Q1Fnb1pQZjVoYkFJYUV4eHRDSWdFRzR1NDhNSkN1WmNqQjAzVkdCdDZPMHdFZ1ludzZYQk14ZXpoZTNvWmY0c3VYRUoyaGJhdHhuQ0JyNnVzcmFQN0Zvc0JBZ3Z4UGx1dGdvQUUzdWxDT0JObkRBUFdLdkRHLUdRMnE?oc=5",
+   "summary": "",
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-09T18:52:46+00:00",
+   "fetched": "2026-10-09T19:45:07.514550+00:00",
+   "visas": []
   },
   {
    "id": "e01dc6699969fefb",
@@ -508,6 +536,19 @@
    "visas": [
     "schengen"
    ]
+  },
+  {
+   "id": "ef5ee1f35cf4bc82",
+   "title": "“It would be ideal if immigrants who come here brought their children because we would have more young people” - La Veu Lliure",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSU5JbDJlY3hPOUtTa0VPa0JlV0c5Q1FpODZPVGI3MXd0eTJ3ZzYweDNtdFVpRDc2bEs4MEdCUi1XUGxoS1Z0LUR5YnJ5eHhfbV9iYlF6djdWemtsM0RvYXFkOXpoa0RnOE5lNE5hXzZXdWUxblNINFJCbmtWMExkLXRR?oc=5",
+   "summary": "",
+   "publisher": "La Veu Lliure",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-09T16:51:13+00:00",
+   "fetched": "2026-10-09T19:45:07.514550+00:00",
+   "visas": []
   },
   {
    "id": "84c25ed11ddcf819",
@@ -2012,6 +2053,19 @@
    "source": "ca-work",
    "published": "2026-10-08T17:15:15+00:00",
    "fetched": "2026-10-08T19:16:03.465923+00:00",
+   "visas": []
+  },
+  {
+   "id": "db5ee39d0f998987",
+   "title": "Canada is emerging as an attractive immigration destination amid renewed focus on regional opportunities: Lt Col B S Sandhu (Retd) - The Statesman",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZkVJYlZnS1ZCWXdjalVuZmFwSmxacG40MlJERzQxU2NXSGNPdzVvbVJOc2g5dXEtTDU1SDhrbDdHTmV0Sm53UzNlREZoTUNVRUtOcnkwU1F1bi1IUXY5N0JlYjJTMGJGZXB5bU50YmJmdHk2U2cwaXFrUm5EZl92VTd5RjRHMUwzR0o2XzVCckNvLVptbUdaUURwQTg3aHVCM3BrckNsUkhGVjdQZDFBTVZ5SXo1T3hITEZ1TmRRZmtqc2RDdG44Y21PRE90ajJEZHZQbjFYTnJxR0RpM1E1WkdDeHNnVTg0eXRPYlp0ZVBMSllJZXNrSmpZR1lkSGVFR21jZW9NSnFTSWNxMWFR0gGPAkFVX3lxTE1mRUliVmdLVkJZd2NqVW5mYXBKbFpwbjQyUkRHNDFTY1dIY093NW9tUk5zaDl1cS1MNTVIOGtsN0dOZXRKbndTM2VERmhNQ1VFS05yeTBTUXVuLUhRdjk3QmViMlMwYkZlcHltTnRiYmZ0eTZTZzBpcWtSbkRmX3ZVN3lGNEcxTDNHSjZfNUJyQ28tWm1tR1pRRHBBODdodUIzcGtyQ2xSSEZWN1BkMUFNVnlJejVPeEhMRnVOZFFma2pzZEN0bjhjbU9ET3RqMkRkdlBuMVhOcnFHRGkzUTVaR0N4c2dVODR5dE9iWnRlUExKWUllc2tKallHWWRIZUVHbWNlb01KcVNJY3ExYVE?oc=5",
+   "summary": "",
+   "publisher": "The Statesman",
+   "country": "CA",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-10-08T17:08:57+00:00",
+   "fetched": "2026-10-09T19:45:07.514550+00:00",
    "visas": []
   },
   {
