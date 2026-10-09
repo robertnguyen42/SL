@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T07:17:23.597978+00:00",
+ "updated": "2026-10-09T07:47:36.442087+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-skilled",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "eu-schengen",
@@ -419,6 +419,38 @@
   }
  ],
  "items": [
+  {
+   "id": "4b497b084e4d2ee1",
+   "title": "US Green Card PERM Suspension 2026: H-1B Impact - IndianEagle",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTzRCREFZekd1ZlBfdURnWm42S1B0UHFLRHk1cVR4d3BhVDRWcGRxN2ppZVRNMzlTTWNaR0paUTZ1NUE3NnhCRkhLTlJ4WUZWdW1ycUZqTDhfb3otakw2Tkw4RjZ2ckVSRmpqakJCdDV6bWl0VWYwSFlMSTM4ckpuakZ4WmlQcXVZYUlnUWhETmYtZUpseUNvUENn?oc=5",
+   "summary": "",
+   "publisher": "IndianEagle",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T07:33:13+00:00",
+   "fetched": "2026-10-09T07:47:36.442087+00:00",
+   "visas": [
+    "eb-work",
+    "h1b",
+    "green-card"
+   ]
+  },
+  {
+   "id": "237a6974f9677f8a",
+   "title": "Canada looking to attract more graduate international students | World News - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRUhkOExUbXhKWlY0UkFLMnp4SGFiT1BOV3VlcXVlNFdPODgzU21LWUduNTZvaDlGMERwSFY4NWFIT3Y1VjN2bFdiMmNSMWN6ZFh6WTR4ckJIMVh3RzUza3ZGbWQtYUdUY0J5dFBCNy1GTW4xRFBmbXJGTlF6WDNSbWx5TTlmbmt6cmM5bkgyRDEzWkl2akVqbk1veVFxcXB4N0lzWVZ1TDN0MWZCWjdJdFh3eHNZVm16Uld0SEZOZF93bmfSAcgBQVVfeXFMTkdqMDhnVlBYdzNVTmhCcUFlRlJMaXRwZGoxUEZvQ1drODg5UXBaWngyZ28xT2NwRllGZ1BJWkh6Qk1ITDJxcm5QS0MzWklscmRNdmRXZWpZemJmcnpFUDl2TllybXdmYXZrOXRVdnhxakh1MklWQllGa0J4cVRQZnRSMFVGQktZNnJjT3ExVWx6MGZEVUZLSFFKU0pRUGJyVTdzVlhKQVJ2Z2lKdjBHcW9rdnlRRzkzM0d0WnBwblI4VWFnR2g3R0w?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-09T07:29:47+00:00",
+   "fetched": "2026-10-09T07:47:36.442087+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "81c82283ed6efe1b",
    "title": "President Ali on Schengen visa backwardness - Guyana Chronicle",
@@ -4612,6 +4644,19 @@
    "source": "au-en",
    "published": "2026-10-06T05:00:44+00:00",
    "fetched": "2026-10-06T05:45:22.856319+00:00",
+   "visas": []
+  },
+  {
+   "id": "d3b74b689068e684",
+   "title": "Chính sách di trú của Liên đảng: Cắt phân nửa số thị thực nhân đạo, giảm 100.000 người nhập cư - SBS",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMzhUV25acExDRFRFU3piWEs2TEdUY1h1NjcxVGliTklwTlpBM3QzdHRlemswMi1XZDlNNGloSEFzZkJOd284c3hFbl9GbTQ3VV9zZ3lSSk9IejQwckF5ZVZFYmNJNWZKSUdQa0VYWFhhamg2bmdRdmVINlhyQnFWZ1ZPVjJmT1gxdVZtWjFqd1B3MGpMcEt0WVZYVXpsOTVxazRUSkd0T0NiZmtjcGQ0RXl0MmNVazZkdGN1ZGk1S2dESzV5X3hBY2pUVGZGUHhURXRtNjVUckx6ZmVQRzYtYXFoZ19DYlNGZmMyV0lVZFB0XzRDc01J?oc=5",
+   "summary": "",
+   "publisher": "SBS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-06T04:56:45+00:00",
+   "fetched": "2026-10-09T07:47:36.442087+00:00",
    "visas": []
   },
   {
