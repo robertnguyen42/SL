@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T23:44:34.488702+00:00",
+ "updated": "2026-10-09T00:24:59.611152+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -193,19 +193,19 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "eu-schengen",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 27
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-residence",
@@ -740,6 +740,21 @@
    "fetched": "2026-10-08T19:16:03.465923+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "c71765a5adc31f66",
+   "title": "U.K. says arrestees helped straight Bangladeshi asylum-seekers pretend to be gay - Erasing 76 Crimes",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR3F2MlBUTmhnV1JxM3oxbS1IX3ZXTFQyS2NRbmQ1ZC1yb1pfMlVBQjlhR1VpT05QcmljUkVwQlQybG52clpib3hvUlVTNjM3WENRSGpoeVE1VWZGSmZodHJ3UU05YWxqSkdsbXNYWWVyTDYtZ0tXWUNWNExxMmd2dnBXS2hCZEhvMFFXMW9BdHlqS2JQVHpjU01yRkZwblQ2U0NybEVmZGtWcDR4SUN3U1BB?oc=5",
+   "summary": "",
+   "publisher": "Erasing 76 Crimes",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-08T18:46:07+00:00",
+   "fetched": "2026-10-09T00:24:59.611152+00:00",
+   "visas": [
+    "asylum-policy"
    ]
   },
   {
