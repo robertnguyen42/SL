@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T18:50:02.132221+00:00",
+ "updated": "2026-10-09T19:14:07.052850+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-citizenship-investment",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-schengen",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 20
   },
   {
    "id": "nz-aewv",
@@ -420,6 +420,36 @@
  ],
  "items": [
   {
+   "id": "ab070b184069fbd4",
+   "title": "Liberian Child Rapist Convicted of Naturalization Fraud, Denaturalized, and Judicially Ordered Removed from the U.S. - Department of Justice (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlFhMm9SdE9VdDZoamk3a2dZbF9BdXAzZXZNbGZKUWNXNFZWLURCd0ZQemo2aWdUa2dESVRaMUZsVGtucklGOHc3MHlrYnZYam5WTFdnVjNpSzAyUWV0X0pVLVFnajNKNWRfZjBHWTFmdVVNeGZVbHp0Q1VaQXg1Y3NOb2FSY1I2NG4weVFSenBoNk1uZ3NwZ3FZdk5CRy1LUkFfc3lNSTUyNDdiN1dJSmc3SS04ZDZ1S3c?oc=5",
+   "summary": "",
+   "publisher": "Department of Justice (.gov)",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-09T19:06:08+00:00",
+   "fetched": "2026-10-09T19:14:07.052850+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
+  {
+   "id": "8abb5f62a5edf915",
+   "title": "Explainer: How US application freeze could put skilled workers’ green card plans on hold - TRT World",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDQlJWZkVNY1ZWZzJqTExOSmE1Y29ZZjRxX0t5RDkydl9rNkRia2NlMEx3bHQxcE5oNTU4UVFJZGhvSkJ1WUNwNzZ1YkljVDJTMHA3OXN4dHY?oc=5",
+   "summary": "",
+   "publisher": "TRT World",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T19:00:37+00:00",
+   "fetched": "2026-10-09T19:14:07.052850+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "e01dc6699969fefb",
    "title": "From H-1B to CEO: How Satya Nadella traveled the path the U.S. just cut off for Microsoft workers - GeekWire",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDZHU2VVY1lXT21sSTJBTVpHMldhRTlORi1ZWTBxelNrZXc2SVBjY3lsRzludldONVlpWUtIQ1hZd2pPUDRRaWFlVjU0dXVpLXRNbU5aRjl5NTFLbFVUTHdMZXNHTVIwVWdjbkZqZHg5bVZsakJReWdidmUtQ0lLOW5fbnpvMjBORDVXT29JLTlCVGVNeEVlaWZmRDJ1aGtUVWxtV2NIeEIycExPYkdqQjVSMjdiWkxBRHl3cXI2Vi02UW41?oc=5",
@@ -432,6 +462,36 @@
    "fetched": "2026-10-09T18:50:02.132221+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "6c098c8dc88f61f2",
+   "title": "BC PNP invites workers across four occupation streams on October 8 - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kUUp2V3BNdnhwSUl0SVpHZFZLTFVjTnNmUl9TM2tDNF9Ta0pwM0RCNmpkdHRMQXB3N2Z2N0VfeFFxV2lJQWlwUzQzaGZsTFZlUWw5UWVkWk40RnFDM2VRVGRmZGdSbEF1QlVhS1JLRklFaEg1?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-09T17:23:20+00:00",
+   "fetched": "2026-10-09T19:14:07.052850+00:00",
+   "visas": [
+    "pnp"
+   ]
+  },
+  {
+   "id": "90d69167e0617b7d",
+   "title": "Schengen visa waiver for GCC citizens ‘very close’, says GCC chief | Gulf Times - Gulf Times",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmZmMXhEc0xFUy1xeUYtalpoX1hINTZFRHpUYmVNdHgtc0RxNVpQdklLOU1NM0lzRTRtaHpYTjg0c2dVbk9jWl9nV2lmQnRUX182bTM0M0xvb3o5ZFRjckt4YnpyZ2ZCOTJEWWRRLTZhcnpackhNcmpYMHlidDZYTlBmLUJTWkZKUWpESC1rbE9qdHJlQllFZlJZbmVLZmJoZVBwdWprUXNGVWlBUmZqTEZB0gG3AUFVX3lxTE5FTkdacVdQVXZhQU9PVFRwY0laN09tZVRFQXJaWE9lMHh0Rzk0NndVeEE2X0RFaGJ6U2hVLWdqdFB3X2lJNGpGYnB0VlpiRzdzcXF1dlE0OFdVTms4MXc5SXhqTWZmak56VkFMRU9tem9nNW1hV2NpYzVuYXFHdUcydEI2MkJiSmdzc3pMUTdLRnk5bkEySXhIYU8yQjdOVG9lMTg4UVU3eVAxYlVvSDhkeEt4Z2dNVQ?oc=5",
+   "summary": "",
+   "publisher": "Gulf Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-09T17:10:00+00:00",
+   "fetched": "2026-10-09T19:14:07.052850+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
@@ -11403,6 +11463,21 @@
    ]
   },
   {
+   "id": "9f084a848b1b14d5",
+   "title": "EB-5 Investor Program Fees Set To Change Under New Rule - indica News",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVGU4R080WGE5TUtTMG1aRllYOW1jdGR4QkhUclVXUTA4UXFBTjNYdGFiQnNfX0lKNkNLYXlFMVplUmEzb0I2ek56X2FHcjJxcnVMd0hXLWRDU29adHU3V1lxWEhPcVUtNVVQYlVuWE1Yb0d4T1ZIa2h6Tm9PMFN4SW95b1I2dw?oc=5",
+   "summary": "",
+   "publisher": "indica News",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-09T19:14:07.052850+00:00",
+   "visas": [
+    "eb5"
+   ]
+  },
+  {
    "id": "8581ee0bba37fe96",
    "title": "US to more than double fees for some EB-5 applications — The Hindu - UA.NEWS",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUREVUtpSmFlaEFhdENCN19QaVZISFlsUVFUUGY3WHZ3a1BORmtfZWdMTEZ1WDJYdzZlczNsVEZVWjZoWHNHTWt2T1RqLU9pZWF0R2JHajdJNzdkeV9ER2FwdS12R1ZNV2FOQTl4cHRFZGhPT3dRWFBNbk1YTUdsZHVicGpHS0V6WnhpLUh0OUxKYndfR0E0SndvMEJBNWlLN3JUcg?oc=5",
@@ -16752,6 +16827,19 @@
    "source": "ca-pr-citizenship",
    "published": "2026-09-22T07:00:00+00:00",
    "fetched": "2026-10-09T08:17:03.329609+00:00",
+   "visas": []
+  },
+  {
+   "id": "c7fcb6c5fbbade81",
+   "title": "New Zealand Releases Lists of 9 Care Sector Occupations Qualified for Permanent Residency - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3dpc1JVSDN3VlhlbFVTS21GbzlFcEdmaUhTdVlQbTVMY1ZmZUNkNlRvTTdMSzhsSlZzY2VPTzI2UnNJbFlvUWpJMWJHX19MQTI5MWM0TEwxQ3d1QmRwRFd5alFYX3BIMnkzT3J1UmNvalI5ZWZoYkdCX1ExWmxDX3NaakM2Vklac3VWay1OSTlCbjhCZFZOalUxc1o1SjZULXNZZ1dtY29BRW1WVndN?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-09T19:14:07.052850+00:00",
    "visas": []
   },
   {
