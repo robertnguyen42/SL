@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T13:48:04.325060+00:00",
+ "updated": "2026-10-09T14:17:58.250183+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-citizenship-investment",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "eu-schengen",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -419,6 +419,47 @@
   }
  ],
  "items": [
+  {
+   "id": "23397e1fc8cfb98f",
+   "title": "President Trump Tells H-1B Employers To Stop Laying Off Americans Workers - Center for Immigration Studies",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeEg3RTNqdzQ2UHVsS3FUaDhjWlgydEpUM1laYUNBREZLaWJoR2NUQ1F5SmhEQUtPem1NN1M4NXk2cXNCeldpcUM2eDE1eENmU3ZlclRlWGlELS1fcDNyMnpScFVXRXRjcjlONnlkU19IY2pMT3BsOTRMS1kzM0E3T2oybC04cTAwMFc2NEFYMUtZZw?oc=5",
+   "summary": "",
+   "publisher": "Center for Immigration Studies",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-09T14:11:16+00:00",
+   "fetched": "2026-10-09T14:17:58.250183+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "bb83295c09a53204",
+   "title": "As federal politicians vow to cut immigration, regional Queensland businesses need ‘every hand we can get’ - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTkZ4YnFnOGdpQU5CQlU2VktON1oxeDJVQ0hxcC03bEZqVmVWakJhelJzLTI2M0NyS0ZTZ01leFR1cUdveE9aLXRBTjlid0VVSnpXMEpRQ1VuMkFPUmZiUTIzMUpWWDRDZlIybnk2aVVCUllMU0JLZ1R1ZlROQ0MySGRkc0l0ZFVvNEYzaW5jaTlieGVJbXV3ZThCd085a3c4dXJORzVvX0sxT0hDNEtObm0xLWU4MUdIcnllS0dNdmlRamNPbkxncXJaMmhfUFk3bVpNejRyTWdWd1p0Mll2d2pSdHZ0TzlLMEMzSVV2cw?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-09T14:01:00+00:00",
+   "fetched": "2026-10-09T14:17:58.250183+00:00",
+   "visas": []
+  },
+  {
+   "id": "7ad7f1d9eec8c440",
+   "title": "New spate of stabbings, overdoses and fires at Australian immigration detention centres run by ICE-linked US prison firm - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnBFTnA3cFZwenAyQmNOeEF3Ny1tM2VyZnIyNlZfNHBOLXhjNU1SWmctTkNGT1JXNERHZE5pYWkwVzRNNk8tQWlfMzhIRTNFaWI4amFra21RVTNjUjRsQmFObWh3aEw1SERERHAzcTZlT1lNQ3FpQUcyRFZZYV9LTGZ2bUpaaGpHUHIwREtJb0NfaEdicTBuMHpaSmM5RHB5NmlkWGJGWGxfV0hMa0FDM3FJelNveldjQTI4bTBsOXd4TzdxV3Q4?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-09T14:01:00+00:00",
+   "fetched": "2026-10-09T14:17:58.250183+00:00",
+   "visas": []
+  },
   {
    "id": "8739b06c4d6c6e8e",
    "title": "Canada Announces Special Groups Whose Families Qualify for Immigration Fee Exemption - Legit News",
@@ -974,6 +1015,21 @@
    ]
   },
   {
+   "id": "75e638da57f69db1",
+   "title": "Why Is Adobe (ADBE) Suspended From A Key US Green Card Program? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUVhxZE9yRnZGbHhXOHRuVkp4SXZLRjFiZFVUU2NFTlFoSHloNktBcjNLaGszWWk0RTFDalNlN3hBOGN6QzRnWHFDSEc1djJURGRlbDNPSVhXcFozZWtlbDdsNXNqYXhYVXM5QTA1OENJQ09qU0g0UzNCYndiUXRKMUlNRUpiZTBGNjJyVDdCRkZJME5yT2YxcQ?oc=5",
+   "summary": "",
+   "publisher": "Yahoo Finance",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T03:18:00+00:00",
+   "fetched": "2026-10-09T14:17:58.250183+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "080e8fcf2740f25e",
    "title": "Mỹ đình chỉ chương trình cấp quyền thường trú nhân với Microsoft - Vietnam+ (VietnamPlus)",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTM4Qm02Uy1vSU1SZFRacWdRcjJiTGwtZHBoWXhnUElHOU1BUWxIaG1nNEFlSGhLNmU5UmRqcGVTa3k1SmQyUk05a0dUNnA0NUptQTVCR182MmVJMVZpcTFoVG9tOF90SVhCU0QyVl9BRk9aSXo1dV9lbGJQQ0t1d3VSdGU5R3lIWWRsTThtOEFoY0ZFbWRwRUF5RjJXZHZ4Rzc2U1hLcllJcDQ?oc=5",
@@ -1044,6 +1100,21 @@
    "fetched": "2026-10-09T03:15:39.505690+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "5de2a589d5e79c74",
+   "title": "Mỹ đề xuất thu phí kỷ lục 70.000 USD với du học sinh ở lại sau tốt nghiệp: Siết chặt \"cửa sau\" nhập cư - Docnhanh.vn",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY05sY0dvdHBNNjFiSENZczNSR3lrV3JjMGo4WnMxZlcwc3haaEN3VW45d2IxdjJ0cUJmTi1JZjVkSjJrMmFIQURYd1diMTZSVWlLVWkxTGQwcHpLRnllSTZsblNFT3RRUHEzRm1mZUpjd2w3ajdBMGVaSjljaU4zbjltZHczUXVLM2xFYjVaTHBhdDlWVldIR1pDV19EQUpxWTc0OUZCQTdzdU81d3lGR294MzZFeEpSRmtSYjlCM2NkVnJveUVhVzFEeHdUZGJ5ZUdUUC1MZV8?oc=5",
+   "summary": "",
+   "publisher": "Docnhanh.vn",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-09T02:17:38+00:00",
+   "fetched": "2026-10-09T14:17:58.250183+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
