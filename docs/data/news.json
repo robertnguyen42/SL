@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:18:27.738327+00:00",
+ "updated": "2026-10-09T12:52:05.284912+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "nz-family",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "c37c7f7812ebf807",
+   "title": "Student visa applications drop as UK tightens visa, work rules - Media India Group",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXl3ZkQwT3YzNkJ3Nlp3R1F1cU9nXzctSl9QdHkwYjBMUm8zTTBKUjg1T2hNaWIzbVFJVHRBYlhNeVFXS1FMWG1RUU9BZ3Q5TWNYYzk0NUxRNnpBOFZnMmVLZlNwMk1UTVg2bTQ4amN3QzA4Y1lDZDRQZlJIZmRnaHVzeUoxUVQ4RlF3QXBpU3R3ZXFHTEc3Tg?oc=5",
+   "summary": "",
+   "publisher": "Media India Group",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-09T11:43:17+00:00",
+   "fetched": "2026-10-09T12:52:05.284912+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "0fd9bad9e3f16f32",
    "title": "Australia lists minimum score foreigners must get for skilled visa invitation - Yen.com.gh",
@@ -446,6 +461,19 @@
    "visas": [
     "pr-citizenship"
    ]
+  },
+  {
+   "id": "e1664166e5d9ac45",
+   "title": "Monmouth shops fined £85,000 for Immigration breaches - The Forester",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekZkN1gwT1phb3BGTzhNdzV6TkdNZEhmM3dSdmo2LWNhbURtcmJ5MV94cms2UmNwMUpZMjBtVkg3TkdTaTN3MlkzLWFIbHdaSmtjMTZLbUlSVzhxTEFvbjF5U2RLNlVaZjBEdW5yRXp2OEhRYi1GX3BlQW5UbkZKMkRQSjlHcGg3d1ZaZGlqaWVKcUNYeXQzU0dTMA?oc=5",
+   "summary": "",
+   "publisher": "The Forester",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-09T10:43:05+00:00",
+   "fetched": "2026-10-09T12:52:05.284912+00:00",
+   "visas": []
   },
   {
    "id": "f1898894fe8e99cf",
@@ -491,6 +519,19 @@
    "visas": [
     "citizenship"
    ]
+  },
+  {
+   "id": "ac92c5f12f571456",
+   "title": "Migration Expert Urges Nigerians to Focus on Residency Pathways - THISDAYLIVE",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONXItRWk5eXdEc2FYcUhPS0x2MmtrdmNQQkJ6Mmc3TzZ3LWc3QTNiMHR4T0xGNHcxaHhUdV81OTNFX0VCb0Y4TlE0OUNrU2hqS3p5aVpLRUNqak1LMHhJNUFrbTZGQy14RE1iUGtxNU9fcU1iUkhqbVIyaGNfUU42YktvRjZfellYR1JJUWVXZ2FSVjlNd2ZiU3k2NHZ1bElWVXNIdzRR?oc=5",
+   "summary": "",
+   "publisher": "THISDAYLIVE",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-09T10:05:05+00:00",
+   "fetched": "2026-10-09T12:52:05.284912+00:00",
+   "visas": []
   },
   {
    "id": "0fa1f9af165fd3d9",
@@ -3132,6 +3173,21 @@
    "fetched": "2026-10-07T21:45:55.013439+00:00",
    "visas": [
     "golden-visa"
+   ]
+  },
+  {
+   "id": "f86081ebd6c63b50",
+   "title": "$70,000 for OPT? DHS proposes massive new fee for F-1 international students - The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWxNd0ZDVkoyWi1ERFlYNGk4V0R0cmdNRnp1NUNhREVWeTdiMzZWc3R5Skx6M09hb2ROU0Q1MkdUazZEcm04NE16cjRrZUZaZDZMZXBOVkhwenh3WHpRc25TTHJ3d1paYVIyV3JsRmVKTVA5MW82dDV4VnZyUjV6SHhNWXBWMGtfcTJHZ1VGdDJLaTYtUHpyNXRyZ3FacTdmVHhqNWRURTg0Qnd0VWZGVw?oc=5",
+   "summary": "",
+   "publisher": "The American Bazaar",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T16:55:25+00:00",
+   "fetched": "2026-10-09T12:52:05.284912+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
