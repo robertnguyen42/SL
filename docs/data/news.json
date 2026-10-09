@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T06:53:26.361964+00:00",
+ "updated": "2026-10-09T07:17:23.597978+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 24
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 36
+   "count": 34
   },
   {
    "id": "eu-schengen",
@@ -385,7 +385,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "id": "nz-business",
@@ -420,6 +420,50 @@
  ],
  "items": [
   {
+   "id": "81c82283ed6efe1b",
+   "title": "President Ali on Schengen visa backwardness - Guyana Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJxbU5hRzBNWHlCVDdyQW51cVhPd1RQeHV1V1ZzbjRrUm9lakVOOU43eFA3UU0tOF9iNlpjLV9BTXg4bmgycE14SmlsVXM4eVlidExEV2xLN0xrM2pQYjZpOEVrRnlNV2tvakVKS3BabkRrMnRZUVVQeXlZV0JKTVJ1WXJ0amRnbERR?oc=5",
+   "summary": "",
+   "publisher": "Guyana Chronicle",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-09T07:00:29+00:00",
+   "fetched": "2026-10-09T07:17:23.597978+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
+  {
+   "id": "360aad0f83f129d2",
+   "title": "The US has suspended major IT firms, including TCS, Infosys, Wipro, HCL and Cognizant, from the PERM green card programme amid alleged visa fraud investigations. Microsoft and Adobe are also affected. The move could delay permanent residency applic - Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XRG9uUHNiNG8tUmJzTXM4c3ZoOVpkSzFxVDMtYXNxaElVWHIwODFuS19rSHI1VWFfT3ZjN1Z5MEVSUGRoczY3eXFvOEoydkIwOUE?oc=5",
+   "summary": "",
+   "publisher": "Instagram",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-09T05:29:49+00:00",
+   "fetched": "2026-10-09T07:17:23.597978+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
+  },
+  {
+   "id": "461dd63ad1b43be5",
+   "title": "Richard Attias & Associates Appoints Peter Hall as Global President & CEO - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOHhDel81RHNrV2hTWnVfRkhYbUpKS0VFSU9yRzNHdDE5NHczbS14MlcxbHJ0NjladVQxX1gwYVB5TkRTS0thS1B1VmhGdFBRLU9OZ1V1U2hEemlWVjQwcFNjQmVUZllERHFPRWRReWNUUmw3VUgxN3l6R1dCM0cxeDljcE5XTk90OFlOOUVrdEJDSktVcE1RNjgzaDJnc1FwOS1kWl8za2dPY1NIbzE0RlZiYkVVSlg3a25KNXprVDRDWEVyUGtQR2YxTXplaThzSmt4T196UnJPenRYNVFXV9IB4AFBVV95cUxNOHhDel81RHNrV2hTWnVfRkhYbUpKS0VFSU9yRzNHdDE5NHczbS14MlcxbHJ0NjladVQxX1gwYVB5TkRTS0thS1B1VmhGdFBRLU9OZ1V1U2hEemlWVjQwcFNjQmVUZllERHFPRWRReWNUUmw3VUgxN3l6R1dCM0cxeDljcE5XTk90OFlOOUVrdEJDSktVcE1RNjgzaDJnc1FwOS1kWl8za2dPY1NIbzE0RlZiYkVVSlg3a25KNXprVDRDWEVyUGtQR2YxTXplaThzSmt4T196UnJPenRYNVFXVw?oc=5",
+   "summary": "",
+   "publisher": "The Manila Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-employer",
+   "published": "2026-10-09T05:24:45+00:00",
+   "fetched": "2026-10-09T07:17:23.597978+00:00",
+   "visas": []
+  },
+  {
    "id": "1ff71d14f084c377",
    "title": "Australia Migrate Examines Employer-Sponsored Visa Pathways for 2026 - The Manila Times",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUloOU5UYllGR1hUU3RGd19iLTB6d25wUWZrRDlic2ZhZzFQQklWclkxd3ZjYjF0blZGLUltQVNTVUhaMmFyaFo1Tk1rb3JQN0dDZFA2SDkwdWVzLWUzZWk2VmFZdHBfMzR5WXZaZjFjeFFsRDVKbjdEcVkyNE0zVHZzUXlOUXZFdzlpWkxwcEFnQ0xTR3FmeFpwaEh5ZXI3SmpTQ1JWYkhpOVVOb0ctOW5HM0RoNkE4X1N6NUVyT3hMdUlxNVBvMmxaTXVQZ0ptVmNKaEh1VTBfZ9IB3wFBVV95cUxQMTlXcHdVckpwWllmNzVUVEEwckV6UnZRWHBwd2hCcHhCcVBkX3VVc21vV2lJRWRVakNJWWNYWHA2ZUR2YlgtcnEzSUI5clZvcTdheTJvY3BZTWxmSjJPVGZGUVBkRWZXR0x5STRfSG9JZjJUUEc4Z0lGa0x5WmZoeXZCZjJqX05uUUlvZHJwMFgwREZxLWZCa3B1MGhNbEcxeUZhX2gzY1VOZzZ4eWhOYUZlcEdjVGY5aXRZcnVKV2UtSGVDaGVXS05qT2IydHNHbzBiMGNHTDhRVzVnLXgw?oc=5",
@@ -445,6 +489,21 @@
    "fetched": "2026-10-09T06:53:26.361964+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "86cb4266c190c5c4",
+   "title": "US Green Card: How Indians Can Apply? Benefits, Eligibility And Application Process Explained - The Daily Jagran",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOX1dhaG5IWFd3OWJqLUVyY2RfN2lIZUNoTE5XcU52ZXdHbjJjbDZXVmFkbm1IRi0tUlhubi1IWUhNM0hQN09icExvSHkzRjdTeVZRME5TMGhDUUMyajVGRmtocXk2Q1FqdVFkeFJMT0pTR0RpMV9uMlFpdkZmbmw0T243Skk1M0J2aDBZS3FVcG94VjVZNkx3WE1lWGdCMFNmbFVqM203a3dRT2phd01mdTBhemJJRHVTd2RyOVlQdVNrTDNETHhZY1B4U3R0V3JuVmx6cHlBSV9neTltOC05eUh2b000Q3hQa0JFaEF4aktpUDYyWkNKZEFaZXJZN3Uy0gGAAkFVX3lxTE5fV2FobkhYV3c5YmotRXJjZF83aUhlQ2hMTldxTnZld0duMmNsNldWYWRubUhGLS1SWG5uLUhZSE0zSFA3T2JwTG9IeTNGN1N5VlEwTlMwaENRQzJqNUZGa2hxeTZDUWp1UWR4UkxPSlNHRGkxX24yUWl2RmZubDRPbjdKSTUzQnZoMFlLcVVwb3hWNVk2THdYTWVYZ0IwU2ZsVWozbTdrd1FPamF3TWZ1MGF6YklEdVN3ZHI5WVB1U2tMM0RMeFljUHhTdHRXcm5WbHpweUFJX2d5OW04LTl5SHZvTTRDeFBrQkVoQXhqS2lQNjJaQ0pkQVplclk3dTI?oc=5",
+   "summary": "",
+   "publisher": "The Daily Jagran",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-09T05:15:00+00:00",
+   "fetched": "2026-10-09T07:17:23.597978+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -4322,6 +4381,21 @@
    "published": "2026-10-06T07:00:41+00:00",
    "fetched": "2026-10-06T08:16:29.046808+00:00",
    "visas": []
+  },
+  {
+   "id": "423542505386e38c",
+   "title": "Australia Student Visa (Subclass 500) 2026: Eligibility, New Hiked Fees & Requirements - Shiksha.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNE9nZ3h3cDN3VFBkaXJUcGhSdVNGSEtCTEhjRWEyUzMxSjhQTENJdkRUdm1uWF9TWmhfZ2NCb2VqSDBRb3FSOUpGOF9JeUJZclNBQ3RNUHBaRDBmbC1BdXd2cWN1QzJqM3h4V3U5OEVUZVBnQ2NFT2NiN3dGOEJvWjBLNGo1blFJ?oc=5",
+   "summary": "",
+   "publisher": "Shiksha.com",
+   "country": "AU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-06T07:00:00+00:00",
+   "fetched": "2026-10-09T07:17:23.597978+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "360c812d4bf88df3",
@@ -9263,6 +9337,19 @@
    "visas": []
   },
   {
+   "id": "ea65800f242a77b3",
+   "title": "US State Department revokes more than 250,000 visas after Trump’s return to power — Dawn - UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUZ4QTRDakdFT0tVY25CNU50ZzdKTG15ZGpxaTAxVm11eVcyZTZ5NFVBYndqd1RMeTZUN2Nyd2t4OFlrRFN0QXlRaWxVR2ZrbnRYWDR4ZW95OURNVGJTd3FoYXlfamVIZklMZHhvSTk1RTdzZ3ZpVGZoWHZiT29ldDhOSlYzbFA4eUl4OXNPSkltN3Nnd3REcy1COWFIeHUxX2FOaUw0Nm1BRHVscjdV?oc=5",
+   "summary": "",
+   "publisher": "UA.NEWS",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-01T08:00:26+00:00",
+   "fetched": "2026-10-09T07:17:23.597978+00:00",
+   "visas": []
+  },
+  {
    "id": "34f2ca7d82a6bd11",
    "title": "Second Federal Judge Blocks Trump’s $100,000 H-1B Visa Fee - Law Commentary",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaHNobkZUeHFWV1VBZ3NOTXNITzVnUWRodEZ1TkxuNWh2YkliQmZLZ0wzZmVLSG4tLVJKQnpJWnRuVlNEU0RQSTIwRDJPdUowOUljYXAxZ2M3ZUZZcGhJZ29fMmctTGRDMTN5Z01TSWwzUjcyaFpuMjFaNnpkMl9zczZyOXhIWFMyS2R6NENB?oc=5",
@@ -9401,6 +9488,21 @@
    "visas": [
     "visa-bulletin",
     "green-card"
+   ]
+  },
+  {
+   "id": "e3a3a17f8d246260",
+   "title": "Drop in International Students Eases University Housing Crunch - The Tyee",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKWTJrbVZ5TXlrWjgxZlVaZHRRMTZ1WjVaMkN1U2RuaGZULWN4elBZc1IxekZmTEE5M3hhMktISjZ0M2tpOEhwbW03bll3bERJdzQ4SzFuR1JzRkgtTmlZMU9JNzM3LXJqX1doemdn?oc=5",
+   "summary": "",
+   "publisher": "The Tyee",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-01T04:23:17+00:00",
+   "fetched": "2026-10-09T07:17:23.597978+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -15158,6 +15260,22 @@
    "visas": []
   },
   {
+   "id": "c6a7f1ad04a9e311",
+   "title": "Canada Announces 3 Express Entry Routes For Foreigners Seeking Permanent Residence - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWQtSDFBRVNjc0xiRDF1b0dCd2ozUlZFbEhkTm9OU0pnTDUzbXVHU1ctanNrNnZoLWlQYzUxejdlalJGSnp4N3A1b20teVR5UXpZZXRVQjBOYWRacWRuZDB6OVRPLV9TYkZicjBvZ0x3eWtqOW9zdHBQOFVYczJjai01UldKc1phRFVsMENCblJua0xQa1ZiYi1Xd3pGQ05Eamp5N3ZZX0k3eXhrb2dXS3RqNHRRZw?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-09T07:17:23.597978+00:00",
+   "visas": [
+    "express-entry",
+    "pr-citizenship"
+   ]
+  },
+  {
    "id": "b436ab5a5a925ab9",
    "title": "ILAC declares bankruptcy, displacing thousands of international students - CityNews Vancouver",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjl0TWl6QVhoUjladGdHLVFrSlF4cjM5andCdUJkTGloRndGOTBwdE0yMkwxNTdtNzhUaXZJZVFnRWxjOFdLLXlaWUZsSjlydk9iWDhoX2JhRGYyb1Q5MDgxNm5OUkp6MUNWN0NTU3gxckVXQUhSUkZBUk02a21ibmYyMkYzN21LTVA5QUE5dC1YR3pfTm9Tcm1FNnEtYldkZjN4ZU9OcGFTMUU0Z1FyZ3FlWGo5UTFmYWN3?oc=5",
@@ -16215,6 +16333,21 @@
    "published": "2026-09-21T07:00:00+00:00",
    "fetched": "2026-10-06T12:50:00.304005+00:00",
    "visas": []
+  },
+  {
+   "id": "86a86537d9a62c9a",
+   "title": "UW-Milwaukee sees highest enrollment in nearly 2 decades despite 20 percent drop in international students - WPR",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWN5OWRXaTl4MlZSVFhzdVJWSUs4SVgwS1BRVkxDVF9lZTdRY3ZvYmwxeTZmMzh6MlBTa3Zza2p6TUZXT0x6RmlyUHloN1diTEcxNmxielZwV2czcUlYN3FyYUE1R2hKNmxqXzBERzlqRmwwbUFJU1IxdVd0NUR6bDVQSUVDSlR5d1JOdjBpeDVMR3FWZVlJZDJRT2JrdXlF?oc=5",
+   "summary": "",
+   "publisher": "WPR",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-09T07:17:23.597978+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "0e934541d688a23c",
