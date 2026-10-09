@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T06:20:20.455108+00:00",
+ "updated": "2026-10-09T06:53:26.361964+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "au-skilled",
@@ -234,8 +234,8 @@
   {
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
-   "ok": false,
-   "error": "The read operation timed out"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "us-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "eu-schengen",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-residence",
@@ -431,6 +431,21 @@
    "published": "2026-10-09T05:24:43+00:00",
    "fetched": "2026-10-09T05:46:56.549653+00:00",
    "visas": []
+  },
+  {
+   "id": "87ef92a096907754",
+   "title": "Australia tightens Student visa rules for applications made in the country - https://educationist.com/",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZVBKbXNfU3VtZzU2U1diZGR5R2lTRXQ4Z1REcFFGTlVJaVRnNE4zU00tcEpGVW9LeGNkc3EwbldWVC02UWFDVGtNSW5zY0ZDcFhEa2Z4WTUtSUNDbkRydXZyRVA5MHZ0V2o5enk4VmFfOTkzYS1INWRteF9wTHF6SVpZVHpMNUJXRFVWTk5NaFR0OXRVdGM3RzZ0dkQ?oc=5",
+   "summary": "",
+   "publisher": "https://educationist.com/",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-09T05:15:00+00:00",
+   "fetched": "2026-10-09T06:53:26.361964+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "1494b39dbaf27eae",
