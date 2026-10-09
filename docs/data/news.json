@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T02:14:59.175678+00:00",
+ "updated": "2026-10-09T02:45:40.415714+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-employer",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -420,6 +420,22 @@
  ],
  "items": [
   {
+   "id": "0c193f6659123c58",
+   "title": "US suspends 8 tech firms from PERM: What happens next for Indian workers seeking green cards? - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTDJfUlA0eVh5LXZFSndObjZaMXVzVnc0dzhIU1RCYV9pVmoyVWdYU1JIRXRZN0VveWRGWEF0Q0E5eHRUMkkyVFNnRXZEd1BQS0N6Ymc2Z3hwanM4bllUaEwwRVBldE1CQlFRNEpQWXFsWFpVY0FXVDVVaFFoSXBFMWZMOGV2RTNRaEc1ZDNicjFQR1lnbml6VTRhTDJlb2dhZThqMmxuaXVnX2prLS1YaFBQQzFRYlQ3MG9XbHM4ZHNXTnYtSHBKY2F4c3pTWEtPcUlSMlRtTUJmYVU3TEdwakp1OHRPNDExSU4xSGE0NlpsdmtHbm9lR3JhQm1KRkhmZmJJLVFfNUhrUU1VNDNJdVlMSdIBmAJBVV95cUxPZkJORkk1WmY5aFZwLVFLZEZoVEhxRWQtaWsyM1BLLTNSMTNaX0VGcXlBUDRWaUQ3MWhYdEgySVBXWmxNYjZjYmxWTmkwczZqTnhXWU90TVByVDA3T2pXMElRTVk3RW5YeWFNOFVzQUxLMnQ2TXdDd05OMTFKWDhfY3AzS2IwTUE4RWM3VVdEejEteWtBb0FnU3dfbGlpSURaYTZtOW9OcXQxZVgxSzJEdWR6OG01UHRIWmI2aWJaa1dNR3V6TnZEM19yYjhCSkJOc3gxeG1nZzVqdm5UejM2RFJsYk5yUVk2YlRHY3BrN1ZHRy03dGV0VUpwR0xFMS1pRU9JVC1SN2s1VWkxV0RNbFV6MmR5TzEx?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T02:12:00+00:00",
+   "fetched": "2026-10-09T02:45:40.415714+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
+  },
+  {
    "id": "77e4390792f8af48",
    "title": "Mỹ điều tra 9 trường đại học danh tiếng với cáo buộc gian lận visa - Báo Tuổi Trẻ",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjVXVmkxQktleTh5WUJxZ2NwVTdRbGZjNnhuU296UHoxa2ZBZ09GeWtVQ0drYlBocGVfRnRMRTdCZTdfNElMT0RxcEF4WkJCTWlGeldNNG1vb2FON1BBY0lpdzNpMDhwNy1jTXJYNHpyUVZnOVVhOU9aa043aDU0ZkpNd1oybHFRQU5wOHN2SzJSZHd3YzFCclA4bHIwNUtzLWlWbEJQeGtFalVH?oc=5",
@@ -431,6 +447,21 @@
    "published": "2026-10-09T02:00:00+00:00",
    "fetched": "2026-10-09T02:14:59.175678+00:00",
    "visas": []
+  },
+  {
+   "id": "530ab9fbed601368",
+   "title": "Indian IT firms among 8 hit by US green card curbs as America widens visa crackdown | World News - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMFFDckxndVZjYjlzSmpzanpJMUFDem5FVnJIOGZSelNYYkxMMWp1RWt3N1FDaDl5NUExel9vZklBSmtfSXh4UzFHamhaelFOV3p5dGJSMmViMk9ETTFuYlF6TEx4al9acXNxb2JvUWs3R04xRDB1ck5pWkE3Vmx0RDNUNnhJallmOXNmN08wWE1lVy1wR096dVhlSVJnRDJmbjZHaEU5TlNCOVotSDQyV2t6LS1DZ3NNT3FfOEZqWkFSd0tJRjBTQm4zQ09DUkdUWnA0WlBBLVZ6QWlRLWRj0gHkAUFVX3lxTE9DQnJlMFowd1R4RDFZSXlKaXBRa2dkOUdMTk0zbjVKMUh6T2ljQnE1R2JJRm1JMzdCLWNYZnlENGZHbFBldGZOR01sampTNkE2MXlWdl9pcU1EQ0dYNkRzS0NhbzBoc2x3cWo3YWw5aENLa2Z4SFJBWlpST0gyNnZuZEpOMTE4TnlUcjZnZk1MVUh3cmxWeWxva0hRelVwZ3pWWFAzek9WaTZBeXBhc3JSVkpwRHdKRWluOUVTMHMwcHVNbExKeWtZRXF5MHZILXNUY1N1ZXE5WlB0UW42eHhiNkQ5RA?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T01:01:34+00:00",
+   "fetched": "2026-10-09T02:45:40.415714+00:00",
+   "visas": [
+    "green-card"
+   ]
   },
   {
    "id": "5a4ab39fc06b0d00",
@@ -486,6 +517,21 @@
    "fetched": "2026-10-08T22:14:57.452713+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "5354b618898246c3",
+   "title": "The impacts of H-1B visas on the workforce - FOX 13 Seattle",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGY0RScU9Ld3Z0S2xKZDFTZGxnOWxLdWI4SW9LUUFDZXlqZXFqbmtfNTF1NmNCUFRDNngyczh0RHgzQkV0dkt2TU9KWnZjT2xndHNJa04yRXV5cGxjWFU1WUhTQVVNZ9IBa0FVX3lxTE9FMEJnclJLa0JCbWhsY3l0YWNyLV90WU1sSnQ4ZE1LcGVoLTEwR3hxc2Y5aUt6WnhXaEVrMXVuSzhrRVdYQVhWNXdKQTNnc0lUMS1tMmdtUVlIaDNEVU1Dc2FDd2VyRDRrTlVz?oc=5",
+   "summary": "",
+   "publisher": "FOX 13 Seattle",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T21:37:06+00:00",
+   "fetched": "2026-10-09T02:45:40.415714+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
@@ -1131,6 +1177,21 @@
    "visas": []
   },
   {
+   "id": "f45f873b77d0f31f",
+   "title": "Cognizant, Infosys, Tata Among IT Firms Hit By US Green Card Crackdown - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFJIT0tKTTR1RndKZHZqbVhmNGN0SmRQQVhNbnQ0aElvcDlpUGFwazhPRm5jYVJsdDc2dzBUX2liNy1oRE1zU2JLMlhCdE9fNTE3TDhTQW9BN2cwaG4tWnNHNVRGYk5aeV9TVTBJRnRhNFlhRUlxTk16YzRndGZWeDM3YUx1bmdHN1JHMjhZSG9xS1U0UktNVWs3QXdqR1M5Sy1kVWxzQnZUakVBRy1seHpKR2hKenI4bHfSAcIBQVVfeXFMTUZXNFZ3LWNWOElMRHBGOTU4UVV6U201TU10MGViYWxZYXRxa0pOZEROR1lzRHVlNElVdWg5SzZBbElMaFlSME9NNU8zRjZQUndhYy1sMFNlME83bmdlM2d1dnlKcXZsMzhUc0NXNXFPREd6Wk1NMlphVWlIVnlBMS1PQjhsSWpQckJkU1p5b1FOZ0l1c3A4WFExVUNTZkFZZHFLZTBUMDBHUW5tWnNualB0cmxLUzBpOVdDdEJBUVRFZ2c?oc=5",
+   "summary": "",
+   "publisher": "NDTV",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T16:12:10+00:00",
+   "fetched": "2026-10-09T02:45:40.415714+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "9a821246254cd868",
    "title": "US to probe J-1 student visa fraud in 9 top universities, Harvard, Yale, MIT on the list | Hindustan Times - Hindustan Times",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTGxyLTR5cF9NY0ZnLUxvem1OTTRsQ0RwUWI5cmZmNjBvR21TRC1lWTNLVEZkZjFRdGs1YVhoZEZmZzlCdGdmVmZydmpwTl9ZdFo3WElNWFY0MWFacGpfX0JkM0JqQkVVZlVTLXBzWXhuZlZhNFhUaVhtcnhKVkdKN2lKMDZRSk8tc1JJRHF0UGxTajREV3JBTVBnOHYxMUU4SFd5M0x3azhCYXVPdGtJUUxvTG1RNkt6VVl4TlhrblotYmlTR1BYZTh1OW5LVWV4ZUh2N3FUb04yLTBEanNRdnBRRjRuNkk4WTlLeNIB8gFBVV95cUxOWGdBSUhBZEluT0xMd19ndUU4MVF3RHlKREJPRi1xTW1OblBLbC1hMlBlaGdHVXZtOThQZ21VX0UwTlBKNkZXZnRhRW5VaE1zRHA3T0hYdzM4VjBuemlIOTA2aEs1SWxPNnp2aTcxQUVXY0llTndBam94SkxfZ3U2TFk2MjZJZzEweFV0SnNsX1VEMTNSREZHN25XRUsxRUdQRzVOVWo4eTJ3QkpiaW9wRExadERLZUFrdU9HdGh6d2xFZzZuSHV4OFRMSUlpbGdNWFBUY2FQWVE5T2xBQ3FjeURIY0pUTTdNdHp6SWkwamR2QQ?oc=5",
@@ -1171,6 +1232,21 @@
    "source": "us-eb-work",
    "published": "2026-10-08T16:01:10+00:00",
    "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "8f1171e7592d54af",
+   "title": "US suspends India tech giants Tata, Infosys, Wipro from green card process - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUUEzTUVaNTNzNmVlX3gxX0VkMnpDWnZWdkUwcUR0UGxjbXhfRVZyVnpXUk44Ry1PamVrYzN0ajNGSDh1MEtsRklYYWJCblMydDVBT1lqWGIyT2g0THFQZGk3aXNLOHd1VTk3a0pFcnRqZHdhbjRFRDRScklHb0d5bnVLSEJFS1YzNnpIWm9US2pvY0FjcnBaUDgwUHFUMjk4cGZB0gG2AUFVX3lxTE9qMm5qZkFTaHY5NU1LZzZUcWZhYTV0TUJNN1lyTzJZbUtsbWF4MUM4eEE2SVFGNS1tUko1U2wzUzJmVzFEcHVqRlRLcmNBSElrWlc3eE5scGh2TEM3ODVnTURGS2pCcTBTZ193WXcyejN3amRIR1hkdy1vMHJBbnlub0RMT3JLM3dGOHJsc2VpaWpodXlKVVhNaG1HQU9hV3hwOGhlM1M5SG9FV0FRMWZkSXl2TXRR?oc=5",
+   "summary": "",
+   "publisher": "Gulf News",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T15:59:18+00:00",
+   "fetched": "2026-10-09T02:45:40.415714+00:00",
    "visas": [
     "green-card"
    ]
@@ -1336,6 +1412,21 @@
    "source": "us-eb-work",
    "published": "2026-10-08T15:27:15+00:00",
    "fetched": "2026-10-08T16:18:18.390954+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "413eb12805a38dd0",
+   "title": "US Suspends Infosys, TCS, Wipro, HCL, Cognizant From Green Card Program Amid Visa Fraud Claims - Firstpost",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVdiNGxORXFHelhOLXBzbUQydVpMbk5ZYzY3M0dfUU9TQl9lOXY5RlhPR1FmMGVJSlZwOEtUTEtmSnNkU0hpV2FPNWgzX20zQzJ1aHFFMFBrNHdRbkhDTzFvMVNmSnphaGtFNXRDTmdhY3lPWEVzbXQ1UW9UZWlCSnV3d1RWVkRtNUgxMFZlTVlIR2VQRXlsOWZPdjR5OVVmeTVKMG03UXdJdWN5YVdtdVpxNGtXSXFXckNiSVE2cHJyOExOb0pfdG56aFp2WGNC?oc=5",
+   "summary": "",
+   "publisher": "Firstpost",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T15:27:15+00:00",
+   "fetched": "2026-10-09T02:45:40.415714+00:00",
    "visas": [
     "green-card"
    ]
