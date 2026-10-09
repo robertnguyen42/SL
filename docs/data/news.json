@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:14:41.343694+00:00",
+ "updated": "2026-10-09T22:45:49.228407+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "eu-citizenship-investment",
@@ -433,6 +433,37 @@
    "visas": [
     "eb-work",
     "green-card"
+   ]
+  },
+  {
+   "id": "23cb2646ec480a9b",
+   "title": "Work permit freeze expands to six more labour markets across the Maritimes, Ontario, and the Prairies - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMUY4WTM1ZDZVWms2ZXBuZWdkTXMwVlF2NzU0V0ppaDdRQXhFY0VDQUE0eWhrckdVQ1ZKVS1vY3QycVNCeGg3YjF0TFl2SHE3VzJ0ZEVjdmoyMXpTRHlNUnc2NGNXT2Q4RlIzMGpNT2FZNEtsVUxTOTJjazBlekZjbjRYSGY3cUVIOFdZZnJYNUF2ZkZJX0JCbk51b29TV1ZSUjQwZjhORjh6YUZxNVNFTTI2eTBnVy1LTHR6S2t0djY5UzJLY1lEQWh4M1dsR0dJeGl3X2RWMTdaLURv0gHiAUFVX3lxTE9qSnFxR0Jwd0JVYjR5N1Jva1BBenFYdDVPdmpQTmQtV0VNZEJVTExFX0JLS3dLb244dUdEbmxlTGJoVklEU3lPVm5ZQ1BIbDlUM2VXbUtJNEZpSHBNNWhRdEhwUVM4YWNkbnVzTncwblRHQU5xdFQ2Wk1BQkpNbTFuZFpidVAyUmFzQlVadWlwcXlHREJkdmcxTzFPd0JkR3ZsSnZKTkRmZHM1LVpJRW9aeVBvRmFnNDdfVE1DcUtiaDhna0p6U2ZQcmltUS1naEZheVFRcE00VjE3V0IwWGs3Qnc?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-09T20:44:16+00:00",
+   "fetched": "2026-10-09T22:45:49.228407+00:00",
+   "visas": [
+    "work"
+   ]
+  },
+  {
+   "id": "f697fcdf12609b53",
+   "title": "myLawCLE Webinar | Surviving the New USCIS: RFE Response Strategies, Enhanced-Vetting Delays, and Denials Without Notice in Employment-Based Adjudications - EB-5 Insights",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNekd0T2hGVmR6YUNrUThVVTVVLWxBYXgxem1hRU9NdHZMcXJvWGUzbmwwR3FnWGdDcHdidW5LQmlGVXh1YTRwYTFLZk1WRXg0T2dEdTluQk5tNzdSYVFOX3FOMjZ3VmxvRjdQVzd0UjVpV054bzVkeHBISXRKdTlaa2stSDVxMkRUTTBqaVJXa3Z2VkhYZ1FTbkphU1hnbGVCOE1RczRsZzBMV0wzdmVrUko3enc3aVFWRDRFMjRPNlNLOERhNkFQc2NkakVwamR6b01QRnhBNkR2OFlVQl9mWjhBckRMaVhKQVhncUIyMmFIVUt2Y2hkbkp6UnF1TFBNVTFjQm9oVUVUNzU1RkRXbFJPck1HYkth?oc=5",
+   "summary": "",
+   "publisher": "EB-5 Insights",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-09T20:39:04+00:00",
+   "fetched": "2026-10-09T22:45:49.228407+00:00",
+   "visas": [
+    "eb5",
+    "eb-work"
    ]
   },
   {
