@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T20:46:45.790539+00:00",
+ "updated": "2026-10-09T21:14:54.120369+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "id": "eu-citizenship-investment",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-schengen",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 20
+   "count": 18
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "de08bcc5c0b31694",
+   "title": "Private credit took $842m of golden visa fund money - B2B News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLXVJYm1zaDNqdUlBeF82bzRvclpIMXAtQlpDX05RcTd3N285UTZqcVdnRjdyYm9lbHV6ajd1blpKNVB4SENEYm1xYWdoWmRDbEZhTDRCRW0wVlJHbmRxSk13dnNoZncxd0JRbG0zMk4ta3g0ZjQ2RjhDLVJNM01UcGRTY0k?oc=5",
+   "summary": "",
+   "publisher": "B2B News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-09T20:38:23+00:00",
+   "fetched": "2026-10-09T21:14:54.120369+00:00",
+   "visas": [
+    "investor"
+   ]
+  },
   {
    "id": "de24d596e00c2270",
    "title": "Green Cards reflect cases started years ago: Immigration attorney raises 5 points on Trump administration - The Times of India",
@@ -4858,6 +4873,21 @@
    ]
   },
   {
+   "id": "be86c87efd76e3a2",
+   "title": "Greece’s Golden Visa approvals nearly doubled in 2025 as applications fell - AOL.ca",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMExjbExGbEp6Z0U0Q3ZNQjB4VUUyQ2JZWHhidXlYeUViWWkza0lCN0JYNHB6cVZ5M3oteUx0LVVwUXljb09Zem1oVDlva2pHdkFzdG5UNFNKNTlvOS00S01mUlhCc000emQtOGwtcmo4MkJjRFRVMktsUzRkSzNBRnRNOXM?oc=5",
+   "summary": "",
+   "publisher": "AOL.ca",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-06T15:30:04+00:00",
+   "fetched": "2026-10-09T21:14:54.120369+00:00",
+   "visas": [
+    "golden-visa"
+   ]
+  },
+  {
    "id": "2519a6989272dc84",
    "title": "US justice department moves to strip citizenship of 40 naturalized citizens - The Guardian",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWTI4LXI3WjhMNjJkZ2hiRUQzeTdQWTZZaWxXRjRFa09QZzU4YmktVWI0M2dJVEtVeDhMbjdGVzBfem0yWTJwaHQ0VkdndUtYUmdkaGJGaEdLUkRzSl9mVWFXV0Q5Skl5ZldqN2NpLXZHQ0pTd0JBZlZyQ3pUa3lnWTh2MFkxV2FqS1Z4UkJjOVlTOFZCRWh4UHpvb3Vhd1lqaWhr?oc=5",
@@ -9160,6 +9190,21 @@
    "source": "eu-digital-nomad",
    "published": "2026-10-02T09:19:23+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": [
+    "digital-nomad"
+   ]
+  },
+  {
+   "id": "a4bf77c6aa137bef",
+   "title": "These are the easiest countries for digital nomads, according to a new study - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVpKRnMxdWlpZTUxMVBEU1dyN2NaMHFCQ3NmQzRrOGQwS0s4Z0VrWmMyOWFHZG5US3VLbGlFeklIQVlPVGFkR3BzeU05bFp1X0VxV3Fvc1JrZDh4M2NGV2s1SFNaajVOV0lGbWJkN29tX29SanZ6cUpHQ3JNbFl6cGkxMy1rYmVxX05VR1ItdWoxeW4zLXU0MUNOOXhzT09IR2VCYmNtc3Y2TW0tcUZwekRKUUZtWjIx?oc=5",
+   "summary": "",
+   "publisher": "Euronews.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-10-02T09:19:23+00:00",
+   "fetched": "2026-10-09T21:14:54.120369+00:00",
    "visas": [
     "digital-nomad"
    ]
