@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T21:45:54.221639+00:00",
+ "updated": "2026-10-09T22:14:41.343694+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "id": "eu-citizenship-investment",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,22 @@
   }
  ],
  "items": [
+  {
+   "id": "49d40bd0a0ca02c2",
+   "title": "Microsoft, other firms suspended from \"PERM\" green card program - CNN",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXpfOGJZaUtZU1ZfWktxR1pkYnB3OWIyeElITG13M1I1bThBbDBuTkhsVTlpay1reGVaanQ1bkZjTTRYamNsNFdVeWJKTzFSWTdVVHgzX0hKa0xuWUEtc2h5SF9sdmpRSExXcXUtN2pTTHk4NzhDcXduSGQwQ1JMVTFaX2xmbVNoZ3NRQ24wOE5JeDBDMWZXZC16YXhwdWFUM1BGNjBWV0ZVTzhvSnUyZ2RVdFF6VmM?oc=5",
+   "summary": "",
+   "publisher": "CNN",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T22:05:52+00:00",
+   "fetched": "2026-10-09T22:14:41.343694+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
+  },
   {
    "id": "de08bcc5c0b31694",
    "title": "Private credit took $842m of golden visa fund money - B2B News",
@@ -520,6 +536,21 @@
    "fetched": "2026-10-09T18:50:02.132221+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "7cef9720054f8fa6",
+   "title": "Trump Administration Proposes $70,000 Fee on International Students Seeking Post-Graduate Employment - American Immigration Council",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQS05S3hiUUtqbllMRl8tdUNQUkhyLXRTTHNuTVZGVVVSUGc0OXdfMVNwS1pXclFKYkhhMHFHeE5HX29XRVl5c2dDRlBzMGxscjMwcEhRV1BfYXRrd0JUaGJ4TjZRZWNtR1IzMWg2aUZLcVFOSXBubkhKTERpZF8ydFMzM3F0eHd5UFNsWER6dHpkNXFfZGRaNUdLMk81RklpY3ZJSGVMdw?oc=5",
+   "summary": "",
+   "publisher": "American Immigration Council",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-09T17:48:01+00:00",
+   "fetched": "2026-10-09T22:14:41.343694+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -1449,6 +1480,21 @@
    "visas": [
     "eb-work",
     "green-card"
+   ]
+  },
+  {
+   "id": "2bfb46d797eb0dbf",
+   "title": "US suspends 8 tech firms from PERM process: Full list and what it means - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHNWNEJPZVRjNXdXcTBEREgwRnNYemkzY1M3LTVSME9Rb0tvbmRtNmJ6RGNrV3llR19Mb09yY1hsM1FFcFJYSmZqcXNwOVMzZ2Fqd3IxcUFZM0s1dTQ1TThfZUZfdnVfb3RfYnljSmZ2eTUyQV9LMDRvRDAyTnBmWEtYWlNQeU1OVXAxYzhIS1NHdXFsYXFUUUNmVWo3bHMxWFVJcVBfZTZDNk9VTzhhOTF2ZW56bWE5bGdQRHVIQWFlRkwxaUZtMDVWMUNzeEN5QTRaTk5qX20?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T02:12:00+00:00",
+   "fetched": "2026-10-09T22:14:41.343694+00:00",
+   "visas": [
+    "eb-work"
    ]
   },
   {
