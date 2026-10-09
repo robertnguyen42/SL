@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T17:14:12.926888+00:00",
+ "updated": "2026-10-09T17:45:48.848879+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "us-visa-bulletin",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "id": "nz-aewv",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-residence",
@@ -433,6 +433,19 @@
    "visas": [
     "schengen"
    ]
+  },
+  {
+   "id": "84c25ed11ddcf819",
+   "title": "FirstPathway Partners Announces I-956F Approval for Ameyalli Resort & Residences - WebWire",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUcEN5MzNHRFRhYTlpdkFjR1JyV2xHeDB2MEVpNVdZbnlYOWF6UGMwOTRmN1d2aEZuWGViM1RHQndDemt4bm1Wai1KVE1QS0d6X1Vfc1YyeGlVeU1tczdxaG9wbG52ckZZ?oc=5",
+   "summary": "",
+   "publisher": "WebWire",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-09T16:30:08+00:00",
+   "fetched": "2026-10-09T17:45:48.848879+00:00",
+   "visas": []
   },
   {
    "id": "558fa681cd91df97",
@@ -475,6 +488,36 @@
    "fetched": "2026-10-09T15:48:14.023152+00:00",
    "visas": [
     "citizenship"
+   ]
+  },
+  {
+   "id": "78677512c3bd1846",
+   "title": "Schengen visas, EES and ETIAS: Tourism industry calls on Europe to make travel easier - VisasNews",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNkRsQXhNY0N2bEN5LVc4Z2RLSmMxbzVMaXFXNjcwcndsX1hiVDJyVHJNeVU2aTZNWXdPdWQxb1Bhc3p0M2NyYUhOT0UtOEJ4bE00TWlGMWZ1Zk9KbXpTdHl1X3hpSFd6U2FVSHg1ZktnLXJ4M0ZZNTJGZTVlMFlLcUM2X0o1YXVEREFLbXgxam9aVEF2QnAyd1NvVktjZGliY3haZElNTTUzQWNuc0E?oc=5",
+   "summary": "",
+   "publisher": "VisasNews",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-09T14:59:14+00:00",
+   "fetched": "2026-10-09T17:45:48.848879+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
+  {
+   "id": "2ea42d44af27519d",
+   "title": "Tech giants Microsoft, Adobe, Infosys and 5 others lose ability to sponsor African and other foreign workers for US green cards - Business Insider Africa",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMzBjMlRSaWhXZjhYa3ctcGdFdkhZaDAyU2VKY19xa2lNMGdPakdDWVVxcDRJY2YxbC1icnU0X1dMQ2lrbjVESXlCTm5qOXUyNW1QSkVEZHJ2eG9EYlFMMWZzMDY3NTh3VWRkTUlJSEtqN0ZEU1ZRSGNvV0Zncm9xQndLZkZiVFo3VjB5Z3dJYjV3UXpqZV85VDdSc1lfVnVSdFVBMkU5QjhxNkxiS3JVR3Z3UlhKemhuZ2gtSTdscU1icGdBaTdMVWRuOTRXZmxZVDhIQUZKQlE?oc=5",
+   "summary": "",
+   "publisher": "Business Insider Africa",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T14:21:01+00:00",
+   "fetched": "2026-10-09T17:45:48.848879+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -2190,6 +2233,21 @@
    "published": "2026-10-08T15:43:22+00:00",
    "fetched": "2026-10-08T15:49:00.957559+00:00",
    "visas": []
+  },
+  {
+   "id": "6f3f2ae0990f4c5d",
+   "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers - TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTDBDZU5tZF9RN2tFTE0tWmJSU0ROcmt4QWRpQS1NeDRkYTRaNmxlRkJzSUotWDM0MlVTQ1JuY3U4aGlOQnM2WU1qRDRndE1oc2czdFRBejlmTGZJLTFzLUlSM0Z1RkYwLVJzOVZsUWJjOFpPd1puUzRJZG9aNE1OS0hqUnFZeDlaRkloaDcwczJmdXFDM2lxWVBpVjluOFpXX0pzSl9qN0E0RElNeTU3cnplQi1DanVRd2pYQ2lTX0FRM2RIRGVoSw?oc=5",
+   "summary": "",
+   "publisher": "TechCrunch",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T15:42:26+00:00",
+   "fetched": "2026-10-09T17:45:48.848879+00:00",
+   "visas": [
+    "green-card"
+   ]
   },
   {
    "id": "b75703a3cc5c30c8",
@@ -7219,6 +7277,19 @@
    "visas": [
     "schengen"
    ]
+  },
+  {
+   "id": "897b57361aa1243c",
+   "title": "Best Countries to Move Abroad in 2027 🌍 | Work, Visa, PR & Settlement Options - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5RFg1aDFleDVxdGt0cHNtRDQ2bV9uOFFDX1FfeEFKT2thRzFDbGN2S2h5THh5UmdJZlpTeE53Nm82NWZTSXJsSnZ5T1pRVjdtVVlRd25YdlVNQjE0?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-10-04T08:28:58+00:00",
+   "fetched": "2026-10-09T17:45:48.848879+00:00",
+   "visas": []
   },
   {
    "id": "7078814c209dde29",
@@ -20852,6 +20923,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "71c129dd963f75b4",
+   "title": "Front Door, Welded Shut: How Trump Is Dismantling Legal Immigration - Third Way",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1ZyZmJrT0puY3RsS1pVRFRNWVNqY2pMVnhKeUsySlItcE01aWVCeUpwel9Fc2ZvODE5ZGhDemNBOGJWS3MwRzY0dWtKTVYycmRHWElaV0RZSWxfTy14TGxvenQ4RDJIVU0zd3cwWWctYWlMRWtvejktczE1YlUtRGdRY3hySjVRSE9wdUxXMXlKZVJxT0pJUDhvRQ?oc=5",
+   "summary": "",
+   "publisher": "Third Way",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-09T17:45:48.848879+00:00",
+   "visas": []
   },
   {
    "id": "a4e46b01953f32af",
