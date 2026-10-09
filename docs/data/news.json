@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T09:47:55.050963+00:00",
+ "updated": "2026-10-09T10:16:55.429065+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
@@ -419,6 +419,32 @@
   }
  ],
  "items": [
+  {
+   "id": "0fa1f9af165fd3d9",
+   "title": "Australia Names 4 Factors Used to Score Skilled Visa Applicants for Entry - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORVBUR3FCQXRYOGw2TVg3MGZaMDRwTFUydWFEdUVWRjJnSXh5RkY3UVB5SExnMk9mOVlsRnI3VlVGc3ViVXRHZU00SmJ6dXk5Sm5hM09reHNBNkwzNDEwUFRQT2dIMzdZb1otbXhITzRaWjZDbkZZRHFBQ1VWcmIyOVhRcnloYzdLTVlhWTlQdmZ3LURXODVVVS1LNA?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-09T09:57:51+00:00",
+   "fetched": "2026-10-09T10:16:55.429065+00:00",
+   "visas": []
+  },
+  {
+   "id": "d4a9e5ee76814623",
+   "title": "Từ Harvard đến Stanford: 9 đại học Mỹ bị điều tra về thị thực - Báo Đại biểu Nhân dân",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzgwb0hUNUpQN3plVms5amlQbjZKNzd1a1B2TU11M0ZzTFg2N2M0RWhSNFpQNVlCbXFiay1kNnowTHFYd21GVmdQREtsdWdKR1FGMEZQa0V0OTZ2ektCTTdHU1pyZjhoVEFCQU9YMFFBWUZicno2RXJzZU9YSzlIcWtjN2hpWFFxUDNuWnF2T2t3S3IzbkNpNk5JWW9laEVvb0E?oc=5",
+   "summary": "",
+   "publisher": "Báo Đại biểu Nhân dân",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-09T09:09:01+00:00",
+   "fetched": "2026-10-09T10:16:55.429065+00:00",
+   "visas": []
+  },
   {
    "id": "de980318d679cae9",
    "title": "US Suspends TCS, Infosys And Other IT Firms From Green Card Programme, What It Means For Indian Workers - Brut",
@@ -537,6 +563,21 @@
    "published": "2026-10-09T06:43:29+00:00",
    "fetched": "2026-10-09T09:17:09.022984+00:00",
    "visas": []
+  },
+  {
+   "id": "ad802f66a689f6ad",
+   "title": "What Smart People Say About PERM Suspension on Microsoft and Indian Tech - Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0VwMDhQS1RWRzZvYUhwWHJWbjFQR25GUjl4ejBtSk5yYnJyYTFWTTByVTQwZVFkVVpVNUxNR0ExNDZpbjN0aGtXRDFvZlBLMlJncVE5Q0Y3MHN4b2EyeUZtM09mUllleWtWMkR5aHFtb00wbHpMT1FXV1RiQmVfV1NIOXVhdWxwbkV6MUdqRzk4Y05RZjFWZnFDOUVING1odmdkQUlVQ21ldVE?oc=5",
+   "summary": "",
+   "publisher": "Business Insider",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T06:41:00+00:00",
+   "fetched": "2026-10-09T10:16:55.429065+00:00",
+   "visas": [
+    "eb-work"
+   ]
   },
   {
    "id": "318ce44452d61c10",
