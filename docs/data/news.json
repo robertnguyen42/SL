@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:15:07.491680+00:00",
+ "updated": "2026-10-09T11:45:32.900589+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-employer",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-partner",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "0fd9bad9e3f16f32",
+   "title": "Australia lists minimum score foreigners must get for skilled visa invitation - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHBwcHdGREJnVG1PLWdNa0t4cWs5NENWeUNkbnRFMjUzdUhEU3EtVmMyc1BTOExRZVRzRFZ5M014RER1bmo4c1M5RVplN1l6c1VtaGlZd1c5cjktWU1kdkRwcWZrYnhxSU5hNmJyckVmNE9fYTd2LTZXcHJnRDU1Sko0NGRCR01FS2RJMFUtUE9UUkVkOU9wLUVrbjloQ3o4OWNZ?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-09T11:40:52+00:00",
+   "fetched": "2026-10-09T11:45:32.900589+00:00",
+   "visas": []
+  },
   {
    "id": "92ceb1a3ed9df859",
    "title": "Canada Announces Category of Foreigners Who Can Join its Military Without Canadian Citizenship - Legit News",
@@ -447,6 +460,21 @@
    "fetched": "2026-10-09T10:47:34.645488+00:00",
    "visas": [
     "citizenship"
+   ]
+  },
+  {
+   "id": "4c6dedf8d1d9dab2",
+   "title": "U.S. Expands Crackdown on Green Cards, Student Exchange Visas - Time Magazine",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa2xDTHVoTmFXMWpLTW83c056TjVyRWV3VlBnbE5jaW1TczZ6QnpKVXR0NVJrTDNrVmdrOWJtTlJ1cFo4T1hndFpYS3VzeExfa3FMOGZhaHAySzhGVGlYdmwtLXVpS05NZWlOMnhxN3ZuVXNCNWg0eWNBb3VQREpYRU9OM2FrLVNNTmI2Z1pqVk5lX2MtTnN0Q3V0Mlc?oc=5",
+   "summary": "",
+   "publisher": "Time Magazine",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T10:30:00+00:00",
+   "fetched": "2026-10-09T11:45:32.900589+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -489,6 +517,21 @@
    "published": "2026-10-09T09:09:01+00:00",
    "fetched": "2026-10-09T10:16:55.429065+00:00",
    "visas": []
+  },
+  {
+   "id": "db92c684dc35e9f9",
+   "title": "US government has suspended PERMS for Infosys, TCS, Wipro, Cognizant and TCS employees: What this means f - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNR3M1c0FnRkMzcDRQYmp5R002ZmkyVFd4b3dpTEdTSVF4cTdZenBOdWVZbDdyRFVFZ3lLMS1GUVdYUjNiLWppTEN3c0VrUVpvQWpNZUQ2NlMyQXd2SWJkSHJLNzE4WW5nMUR3MC13SW1CdmNFVTVfVEFXYXNLRTJtT3RMclNMLXBYQkRZR0pZOGVyRUc4eUpPU1lnaThma0NxVHNDTDdJQVg3MjNGc2tLcjFUY0dzM3Q0amU0a28yWk9YS2ViWklReTNmaVB2ZXpzXzNzNmNPUFNiemtpS3dGQVoxdU9sYUtwalFTS1ZvS1BTbjBtWGZHQjNReG8tOFJHN1hiMFB5THZtT2V3MkZTOFYwc280WVBZeFVRQXRvQTA5dTE4VEs0MWxfOG10a3h5Q2NxVlV2cFBzRF9qNjI5U21XUHdVT0nSAcwCQVVfeXFMTjlaTjU3WGtYZVZtSnB0YWs5d2RWb1duY0dqZjRRV2drVzVVbEZOcXZfN1o4dHc4bl9uTnZjZlNQcExPQlg3RFM2QzhVcGtRQ2h5b1RxVlZjd1U1Y3VHb1JobWdEeUp4bkxSdHFfTHpRUTJsR3dlLVctb01KMHYzYTduQzlCeUthYnFPVXh5NnlxTGgzUHRlUUdfcUlleTBnZWl3SlIycFUxeFZaTlVhQ2RONHRheUVUZXBRallyQTFYMVl3VzdyRE9fd3p6V1NpbWRQalk3eVc3WUVTazZQcGk3Qk4tRlktZjhCVW1TeFk1MVZwSGVJZGFrVkRkR0ZDbThFT0U4WWVKcGUta0hZYzhlN3NuSnNYUWlrVjY4QlNHT1BiLVozSUZKMmJvMVYwZllKNjRpeXlRZEpFeTY4Znd5Zlo1WkFyY0dITnk?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T08:58:00+00:00",
+   "fetched": "2026-10-09T11:45:32.900589+00:00",
+   "visas": [
+    "eb-work"
+   ]
   },
   {
    "id": "de337a6d7600f6e3",
@@ -1766,6 +1809,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "f965a8e1a9d17d12",
+   "title": "Trump admin bars Microsoft and other tech companies from seeking permanent residency for foreign workers - CNN",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YdlByeEJDck4tOWdHRzQ0UjZ5SWdZT20wT19ySTU3ZVQ2Z2lTUU02UEhhOF9tcF9oT2RtZ0kxcjdGVWphM3hOMFRRMTlqeUtsMC05cWQzUXMzVEZSemwtM1ZGS04yQkxCV09MbHZiVHl2NlZFQmtOZDk4RQ?oc=5",
+   "summary": "",
+   "publisher": "CNN",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T15:47:28+00:00",
+   "fetched": "2026-10-09T11:45:32.900589+00:00",
+   "visas": []
   },
   {
    "id": "f5ebb02557dcfc4f",
