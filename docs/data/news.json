@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T03:15:39.505690+00:00",
+ "updated": "2026-10-09T03:48:16.507553+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-citizenship",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "eu-schengen",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "080e8fcf2740f25e",
+   "title": "Mỹ đình chỉ chương trình cấp quyền thường trú nhân với Microsoft - Vietnam+ (VietnamPlus)",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTM4Qm02Uy1vSU1SZFRacWdRcjJiTGwtZHBoWXhnUElHOU1BUWxIaG1nNEFlSGhLNmU5UmRqcGVTa3k1SmQyUk05a0dUNnA0NUptQTVCR182MmVJMVZpcTFoVG9tOF90SVhCU0QyVl9BRk9aSXo1dV9lbGJQQ0t1d3VSdGU5R3lIWWRsTThtOEFoY0ZFbWRwRUF5RjJXZHZ4Rzc2U1hLcllJcDQ?oc=5",
+   "summary": "",
+   "publisher": "Vietnam+ (VietnamPlus)",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-09T03:00:12+00:00",
+   "fetched": "2026-10-09T03:48:16.507553+00:00",
+   "visas": []
+  },
   {
    "id": "c5d10554ec7910c7",
    "title": "U.S. Department of Homeland Security proposes $70,000 fee for OPT - StudyTravel Network",
@@ -576,6 +589,21 @@
    "published": "2026-10-08T21:33:19+00:00",
    "fetched": "2026-10-08T22:46:19.743157+00:00",
    "visas": []
+  },
+  {
+   "id": "d753adee8edf286a",
+   "title": "Australia confirms 2 visa types with permanent residency granted on approval - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWRKVUk5R1RMZm9qMFFvbjV2ZkFiejBmOUg0Vy1QZE1SNWllU0VPZVRQOE5ydzFOeWNITzBzaDNSSERscFJOYmg2d1hhMUttVDNxY29EU19BM3NLZzR3eUJOM2xMMllBLUI2cXMtYXlyaDFCem5FMk9YZU42ejN2MldLVDFiTk41QUNZMlljQmpwaWJEdXhrbV9Ca1BISmhVMy15dnhNR182Zw?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-08T21:27:12+00:00",
+   "fetched": "2026-10-09T03:48:16.507553+00:00",
+   "visas": [
+    "citizenship"
+   ]
   },
   {
    "id": "3e8dbbe228ca02ce",
@@ -2267,6 +2295,22 @@
    "visas": []
   },
   {
+   "id": "0133dabb9b8cc981",
+   "title": "Lawsuit Challenges New USCIS Rules Affecting Employment-Based Green Card Applicants - NRI Pulse",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQm1xZG1SUTRzMUZzSHhFamNDRmRHNG8xWlFBcWNnQTNoWTlBYzU4TGd4RHI5QjQxbzA1c1ZtVGFtVnUyblA1ZkZaUWZULU9nTExTVDJjVmxWdktfaXllMHpyb0FSek44TDE4SXVSUkxySW84QUh0R0hwZ292TDNIZHZzTWFTNEFrVlA5dF9Tbm5aekk5M2tPajlMM3M5aWZGemhIZWEwZnA?oc=5",
+   "summary": "",
+   "publisher": "NRI Pulse",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-07T21:38:57+00:00",
+   "fetched": "2026-10-09T03:48:16.507553+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
+  },
+  {
    "id": "04a009ea4fdc8c03",
    "title": "Trump Administration Proposes $70,000 OPT Fee for International Students to Work in the US - NRI Pulse",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd0thYVFYQW1FaXpLRVFQa2kyTXMxRUgtbFM5VVpaOG1CWGRJa0dMTVJKdE9icVA2aVBLT014MXpZaV9xRUxoeHZTRXZIa1BiSXB4bV9ZandjNmNiY3lzZDVfQThLUDI0Y1hJeTNBTm9Ba2RoaG1nWkdqMkNQUHJBRWNwSVRyTGZCUGtYSENyNko1VmRtRUZjQ3VuTS1kTTVSQnRkeV9pNFdydDBMUzV3?oc=5",
@@ -3332,6 +3376,19 @@
    "source": "ca-family",
    "published": "2026-10-07T01:31:00+00:00",
    "fetched": "2026-10-07T11:45:43.799558+00:00",
+   "visas": []
+  },
+  {
+   "id": "0ec9edf38462725d",
+   "title": "Coalition’s immigration cut: The numbers voters need to know - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREdObTlhTU9rRXJTZkFoWUJoNUd6NjdNRnJqbUo4SkE3OVl6dUR0LWVKOHZNYkRKOVRTd21mQTR3TkU5b1dQbjlwLWRJN0dHUGFSalVGWVpPWmhTMl9CX1B2aXZoTTc5cTM5b0lQQmZYd213TjA0UzduUHAzVDZHNjVjMTFJSmxveE5GN2dSUjQ3RUp3ZEttc0pKWF9KYXJYUDY0Y2Y0cTJQUWM4UjZpYnVRalZ2aVl5TnhSdHlvXzg?oc=5",
+   "summary": "",
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-07T00:18:00+00:00",
+   "fetched": "2026-10-09T03:48:16.507553+00:00",
    "visas": []
   },
   {
