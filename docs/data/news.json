@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T17:45:48.848879+00:00",
+ "updated": "2026-10-09T18:16:57.680704+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 36
+   "count": 38
   },
   {
    "id": "eu-schengen",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 14
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -391,7 +391,7 @@
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "nz-student",
@@ -6155,6 +6155,19 @@
    ]
   },
   {
+   "id": "b468e5c9033a7040",
+   "title": "New Zealand Updates Skilled Residency Rules, What It Means for South Africans - Briefly.co.za",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbG02SVota1QtVHpaTGJCZVpTc0lGNk1QN1dxaDhudFBPU3ZRNE1MbDNwcnZlQ0RBUEVMTUMzeFNhWjFKVHhTcVctckZxNk9KWGw0ZUFwTm1YMU9xWXVrM0xRUXByVF8zSTlWZDJ5RFpOOUxQZmZSYV8wMlFYaGlleUVFcjhwcjNGR1hka2lkSl9DcHMzMUNteDBoTGxXYXo5cnVQYzR2NmRKQQ?oc=5",
+   "summary": "",
+   "publisher": "Briefly.co.za",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-10-05T15:32:26+00:00",
+   "fetched": "2026-10-09T18:16:57.680704+00:00",
+   "visas": []
+  },
+  {
    "id": "01cb8b92ce4cf0c0",
    "title": "Canada Super Visa: How to bring your parents, grandparents for extended stay - Tribune Online",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMF9DMWIxRE43ZFdsZV90VDAzNXhiSHJjZFRiTWR5TDRDdFp2aXZMcTFUZnRDRU1DVkppSTFveEtWN1RkMGR4a21XTUJhLW9vYkdGR1RpWVJjdTJMSGxHNFcwdUJNSU9LU1N2eFNRRTQxcVh5UGxOYVBIcnl0SjIzMEdKMGdRcFpvREt6UGg4QjBxcGlDamUzd2dtenpBejVUQWx0Znpn0gH6AkFVX3lxTE01WVFxcEZmX29YM1lDWTRBOWlaTGxEdzJWeUc0UFB4Q0ROOFdYLVlEZVpVQmYtZHJIX3F6cE9jWjEtR2JFWjRfdlFUVExtdU9nOGM3SmdNRHUwYVE0WWVQbjdmVkROaGRPRU8wYV9KWU92MlkwaTc5UVZpcmFIYTVPVzNpWjU4bnR0SWZ3OHNyTnExMVFCSjJMUWl3bXdEZGZ0azdFS0dvWTQ0UVRaNlpFMGxyV0JQX2hBX1JuVmhDUE54WEpzNGktbTFNckFxTlVPcjNlQTdRYk5UdzNWNUJpOUM5NHpNNzVEQ2JoWkVEQTVpbm1tRlNWYU9fQ1dCLWZLLXRqNTh0dE5vSzJsMG03Z2lEZDFiMDV1QzZ6UmVlMmVFZVUzRWZpTE00OU1qRzJzUTJoN2Z0b2FXN0JRdHo5eGhubmpPbFBOOE5lVm02MERmM2ZiMllXU3ljZWE2eWd2R1VfbW1YUFBYOHZZYU9NbXFUVURpV3VRdw?oc=5",
@@ -7555,6 +7568,21 @@
    "published": "2026-10-03T16:52:32+00:00",
    "fetched": "2026-10-04T02:30:00.766762+00:00",
    "visas": []
+  },
+  {
+   "id": "fd2a9c46ff7dc8ab",
+   "title": "The October 2026 priority dates - Philstar.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0xCT19VZUlBRmR5LVNVR3BNckFlMEg2dWNQT0YxM05yZVA1cEVMTHNTN3k4VnNyV0RJQzk0dXdJZjdCQm91Z3N2TFZqbEdjd1ptcVFPSlRhN0xpZ0Fnc1ZRTDYzZlo3aWZlTHBmcC1YczZHUnRaRVFSZzVYZHlteWF3Z0RkQTlLbUVWUkRiSUNUSTdXbkHSAZwBQVVfeXFMTUxxQ21CSFJvcGZmcS1IeUVCQ1lDdGdSbmJtMXVXbzVRaDljZVNtZnNZSXR2cUpyQkxhbVloZWN5UDNQQUNKRC1BbFNtbDVyRDJhYWRJMkJDZkdoZE9zdXlfM21BclpJa2FWOUNTQ0JNcUVHOXFSSUNoTVJhLVk5ZzN3OXU5UDgxVFlnOHg3V1pick5XQW5jMXN0Zkhk?oc=5",
+   "summary": "",
+   "publisher": "Philstar.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-03T16:00:00+00:00",
+   "fetched": "2026-10-09T18:16:57.680704+00:00",
+   "visas": [
+    "visa-bulletin"
+   ]
   },
   {
    "id": "806d0803ad1fe936",
@@ -21958,6 +21986,21 @@
    "published": "2026-09-15T07:00:00+00:00",
    "fetched": "2026-10-09T06:20:20.455108+00:00",
    "visas": []
+  },
+  {
+   "id": "d204a260402bcdd2",
+   "title": "Practice Your U.S. Citizenship Test: All 128 Civics Questions & Answers (2025) - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmc20yV1NvQW5jSWo5V3VqcVpmREV1U2x2VVdLNWFqWHVYMnVpYy1OallfM0tkNUQwREMtRUJfcVpfTkhNVC1adHhNOGU4VFZocEk0N0o1VkVVUTli?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-09T18:16:57.680704+00:00",
+   "visas": [
+    "citizenship"
+   ]
   },
   {
    "id": "c9bbe165fb97e3ad",
