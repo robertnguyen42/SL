@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T21:14:54.120369+00:00",
+ "updated": "2026-10-09T21:45:54.221639+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "eu-citizenship-investment",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 18
+   "count": 20
   },
   {
    "id": "nz-residence",
@@ -605,6 +605,21 @@
    "published": "2026-10-09T16:15:00+00:00",
    "fetched": "2026-10-09T17:14:12.926888+00:00",
    "visas": []
+  },
+  {
+   "id": "c423b24a58dbe8a6",
+   "title": "Battling language barriers: CRIC workshops to prepare residents for citizenship test - The Herald Journal",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSTdHNUFwZENVSjRQbTgzaHhVRVVCM2xPTThMallwTFJkam01eGZ0UWlydjBwQWxEVTJEdzEyd0llY0tPcE9yY19UOWZpRHNYNmh3dlhwc1Y3eDNQZEg4TS1FRlBxOFFPODJHWF81NHlWUnV4U2FjbVlxdXplSVMzV3ZzLVVCd2kxNXNDbkNYVmQ1QXExeGpSSUNKU2NMcDJHOGlmZ09qemV5d25uVzJwanVxb1RwRVdCazIyWkN3TFNDTjJDMDZXNlkyMkZtcVdXUVA0LUt4Rkx3U0E0VHlPaGY2ZlZKV1NkYWZCbG1rWUEzWjJRRFgtZ2RUYw?oc=5",
+   "summary": "",
+   "publisher": "The Herald Journal",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-09T16:02:00+00:00",
+   "fetched": "2026-10-09T21:45:54.221639+00:00",
+   "visas": [
+    "citizenship"
+   ]
   },
   {
    "id": "52f8a5cc11fb8da4",
@@ -6700,6 +6715,21 @@
    "fetched": "2026-10-07T10:46:37.464205+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "8093c79de84b83e5",
+   "title": "Digital Nomad Visa Portugal 2026: D8 Requirements, Simplified - Portugalist",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sZGRpOWtWSDhFWkptQ0NESF9WWi03LTQwOHd4VWN3M1pEUVhWQ0piLVRkdTdqOWpTLUVvVHZ0T2Y1cG4zR3ZtWHdIbEZfWGZ2YU9CLUYtMHlsaWJuNGt4N3BZZEY4U2s?oc=5",
+   "summary": "",
+   "publisher": "Portugalist",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-10-05T10:24:41+00:00",
+   "fetched": "2026-10-09T21:45:54.221639+00:00",
+   "visas": [
+    "digital-nomad"
    ]
   },
   {
@@ -22232,6 +22262,21 @@
    "fetched": "2026-10-09T18:16:57.680704+00:00",
    "visas": [
     "citizenship"
+   ]
+  },
+  {
+   "id": "9b82b70ba4f08d83",
+   "title": "US court halts new rule capping student visa at 4 years - NHKニュース",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xTlNsdjl4eFJ3ME5keTlkNFF1SVlmUnNYX0pqMDI0RE5xX2I0Vm1MaWlxdHFIaXlpakhreDd0ZUtEUG05Q25uZVY3RFU4U2ZmcDUweXllQ1VrWmtxMVBaUG5EWQ?oc=5",
+   "summary": "",
+   "publisher": "NHKニュース",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-09T21:45:54.221639+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
