@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:52:05.284912+00:00",
+ "updated": "2026-10-09T13:18:52.889254+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-citizenship-investment",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "eu-schengen",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "0299e3b57723ea26",
+   "title": "GCC Secretary-General: We are very close to a Schengen visa waiver for Gulf citizens - صحيفة مال",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90X0h2NDdKRzdaWUVPb1ZkRUtvblhoNVp4emRXaEZnRUg4MElmamhHYTZ0T1Q4TDVsODl3MGxZNWdGb0FRSkNnWGVaNXpPYUROR0tCemFfWVJmUm1hVHlBb3R5STRweVZveEE?oc=5",
+   "summary": "",
+   "publisher": "صحيفة مال",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-09T13:14:13+00:00",
+   "fetched": "2026-10-09T13:18:52.889254+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
+  {
+   "id": "947ab7a3a58ce945",
+   "title": "Top 6 Golden Visa Countries Best for Families in 2026: Which Country Stands Out and Why? - Get Golden Visa",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wYVRZVzBmSUQ5cEttNUZJeklaeTVYbE81endxZHJTaEJWUEIwNmpaR1B1TkJiUVM5Z0t3S0RSRmtNVXYyazdJZFpheDd1ek9nQ2p5WWsydWUzTjNncFZmWEc5cFpmMUdudFRLYQ?oc=5",
+   "summary": "",
+   "publisher": "Get Golden Visa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-09T12:54:05+00:00",
+   "fetched": "2026-10-09T13:18:52.889254+00:00",
+   "visas": [
+    "golden-visa"
+   ]
+  },
   {
    "id": "c37c7f7812ebf807",
    "title": "Student visa applications drop as UK tightens visa, work rules - Media India Group",
@@ -446,6 +476,21 @@
    "published": "2026-10-09T11:40:52+00:00",
    "fetched": "2026-10-09T11:45:32.900589+00:00",
    "visas": []
+  },
+  {
+   "id": "a986917d709ba2fd",
+   "title": "‘Indentured servants’: US green card move will hit thousands of IT workers - Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXJmejNGTTB4dWZOSlFsMnBjRnNGWFF2YTNlaE42RzgwU2lUZ0U2Vm43VHQxc1RleG8xNWNxSVZ0cXVlLXpvV1ByaW5tZXlKeGdvUVRaLWhzNGlNTUpuOXl6MDNOSjJfWWp4SGpZYkdxWmRYVVh5dkM4Xy1JRWVrYnplNG5OTGxkY0JvcU5STGNuYm9XVHM0QmxTSnhUNVFGMG9LWmh0VloxVVp4amZZUUhB0gG3AUFVX3lxTFBMT1ItMmlDbXpBRlh2WVVqb1d5Z2RtSnNhRFdiaXZCTGl3eTVHTUpMcktHZ0dUclNRNkxOaXlVcmlPRHRQQThTblVhVXlxSjBHZzNUQWJtckNDMzF4T2lBZ3pPNUVPdWFYQmwtQ0dwMEpSRzA5Nm40N2VBX3lvWDVUdnliakQydXlTV1h1eFRWN3pOTjFiSmJPMEVuTk1FaGhTTjlIYnFFQXVJS1ZIcDk2cGd6eklFQQ?oc=5",
+   "summary": "",
+   "publisher": "Al Jazeera",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T11:09:50+00:00",
+   "fetched": "2026-10-09T13:18:52.889254+00:00",
+   "visas": [
+    "green-card"
+   ]
   },
   {
    "id": "92ceb1a3ed9df859",
@@ -9576,6 +9621,19 @@
    "visas": []
   },
   {
+   "id": "af333a7b6299afb7",
+   "title": "US raises select immigration fees for FY 2027, new charges from October 16 - inkl",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1Mxa25SeHZLd2ZJRFh4YWR0MGFTRDNwVnR5REtEaWRJM1lhZllYNVJLeXdwdXNfR2kwOTBPRi1FMzBQZG45SG5nMjhpZ0Q0QkxXbDdGM0twWHdOOGZjYkdYUHpVMThwUHhRTjlnd2JCcnd6cENqaGE3WTc2R2w2Snk3Rl9kQUc5eXExVVEyLUZRdGlSeTV5VGxBMnF5T2dn?oc=5",
+   "summary": "",
+   "publisher": "inkl",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-01T11:07:00+00:00",
+   "fetched": "2026-10-09T13:18:52.889254+00:00",
+   "visas": []
+  },
+  {
    "id": "e820d0012070d0e9",
    "title": "Visa And Nexi Join Luna Rossa As Official Sponsors - Boating New Zealand",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2dkN2UxQ3B3VUhVVE9LV0xFLTB6X2ZWaUJEa2NGUV9JU0pFRWRQdWhvRmVmYnFxQzhjeHRWZ1QwU25fMDVPUmxJTUV3VDJTVEc3MUdFUnN2SFNVOFdmOGtka045c3d4ckFSUXBwVWJNNms2M3ZnakdpSjFfWDlGNWF0Z2FJRXFDNHVJZnRrcHY?oc=5",
@@ -10513,6 +10571,19 @@
    "source": "ca-pr-citizenship",
    "published": "2026-09-30T14:31:11+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
+   "visas": []
+  },
+  {
+   "id": "c87470a18db3bf34",
+   "title": "US citizenship backlog hits 742,138 as USCIS decides just 48 cases per 100 received - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlNCMDFtNE5oM2xoQkRJUUxQSEtLMXFUYzEyQjdYTFBGZEhhb3U2U1UyOVY0TkFvQ2ZCNGpVN21zNnZVMmk2S2lzakt0b2gzQkUwc25WdTlEbFpDS0wyMXJvQnBwdlhLckRhRGY4T3R1bW81NnhVSnc5Sm05WFFOTllTU05KMXU1c3BrdHdQYkJrNzRFUWpEOWtjVzMzWW0zMFd2VDhrZThFeFRNQ08tN0ZjTm0tT2lnXzBab2xvZm82MnV0V1NFcXZnR3BMd9IB1AFBVV95cUxNT2NnaC1oRURZY0tHcTNubk02RVAxeHdHZ1FaeGYwNDZwSEdpN0FtRFdqUTR0eWtlZFVKVVJtRGtyZGZKWXZNZVZZR3Mwb1ZkQ3RpY2hEcGM5eWFrRm5tU2F3b0UyOS1lREpwb1ZmMlBVZGZ2Wm1NYUU0WVExWHYtX0lGbVVZV2VzYlBvQU5RSzBuc3B6VlBSRE16cTkxcjBGcU9zVVFXQ3NjOExxRDFRMHZPMmhqQlVMS051Y0V0c2JIR2xsZVlidENqZ2VfaFVGOWxTeg?oc=5",
+   "summary": "",
+   "publisher": "The Financial Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-30T14:09:11+00:00",
+   "fetched": "2026-10-09T13:18:52.889254+00:00",
    "visas": []
   },
   {
