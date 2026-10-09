@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T07:47:36.442087+00:00",
+ "updated": "2026-10-09T08:17:03.329609+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -391,7 +391,7 @@
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "nz-student",
@@ -419,6 +419,35 @@
   }
  ],
  "items": [
+  {
+   "id": "77d2e905d8944892",
+   "title": "Mỹ siết bảo lãnh thẻ xanh tại nhiều hãng công nghệ - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85azB2aVVzRURJNEd3RXZKcDEzNGJQTkRoTFVkVlZ0dVdkSDhkbTN1YXhXeGgtRnBiTGJtWVZ3dDBGeUpVRHlfM3hkUjBQNG5oMU5wR3dJX0QwSnlnZDZ4ejc0eDBuRU9Qa3VBSFhzcThEaFppUE5MUFFQZzE1dw?oc=5",
+   "summary": "",
+   "publisher": "Vietnam.vn",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-09T07:51:43+00:00",
+   "fetched": "2026-10-09T08:17:03.329609+00:00",
+   "visas": [
+    "family",
+    "green-card"
+   ]
+  },
+  {
+   "id": "156819147aa5c514",
+   "title": "Australian Opposition vows biggest immigration cut: What the plan proposes - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQUZvYjVFOHJBZHB1RUFVS2VxU0VlbDNucVZDOUNodU5zbDRMYU9JMEhjRFNoejdmWnMxWnBYdDdKc19xWVpPb3lJYkN3LUVVdEM1aThLc3JSUGF1U3I3dUd0V01FNEMydEZ4bFhoSHI4V3FlX0lDTnA3VldGOU41VFVubkxTbm4yWXplcndGc0Fjb05kUGtmUHJLSUI4cF9jSzBSaTZHXzg1RWctU05xOE9jY0VJdDR5dENJRDhxdHdmYURqRnZYT0YtYVFYVlFCWGo1MURn0gHbAUFVX3lxTFBzbUg0NnBBMVNRMDBQcmJfY1lCdDN5eTlYbUxuYXlkZG5sRkZVMUNHbkF3bE0wQ0VrblVSY3Z4NFhqUng3SUMtVEFsVEd3bDdqbERfVWRDSWk0UzZrUWZBQUtDNDBwclVaTEJEYm95allxMEplV2ZPWkxTWEZ3d3ZmLXF3azNhcU9TTm84bnhWNjBrQ0U5WlMzMzRwckxkc3dTeEJQbFZubVFrZjJSTFhleXJwQ2xyT0R2ZzNfUTAtOThyckhtQTBpOENMc0N5NlJGNGNZdXdFSWRVWQ?oc=5",
+   "summary": "",
+   "publisher": "Business Standard",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-10-09T07:46:51+00:00",
+   "fetched": "2026-10-09T08:17:03.329609+00:00",
+   "visas": []
+  },
   {
    "id": "4b497b084e4d2ee1",
    "title": "US Green Card PERM Suspension 2026: H-1B Impact - IndianEagle",
@@ -569,6 +598,21 @@
    ]
   },
   {
+   "id": "378ce4dba0dcd9c8",
+   "title": "8 IT firms including TCS, Infosys suspended from US green card programme: How does it hit Indian professionals? - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOb1lWTDJLUFowczM0NzZKQy01S0k4MUtlblR0azFyQnl1MjhxaFd4dWU4dDBLU21KMElxb1BkUndfOEh5MExJajJacXpSRmE0TnBRWUtyaFF1T3dnTVlzQUxVZUhOdnppaWN5N0VxU0o2RkFwN3REWnJEZTNId2ZuWDVRUU9BcmhRSERYMy15cFB5MzR4cTM5QXc5aTl5T3EwMk4weTRNRFRERTdIQlhPNkVPNFdSZHNldi1jN003X04tNVNxbldCN3ZTeGYzUE5BMGpnaE5MT0dSRzNlQWxQLUlsQzZJRTJuXzd5VXhoaWVudEhIWGVHN0wwNHBzeHVydUJWVFB2TUg2ZS1XUW1oM0ZJS010VjR6b0JmN1FjZnlwNDRFck9HYURLV1ZYVkhOdzVBSk9qOXpDS2c?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T03:33:00+00:00",
+   "fetched": "2026-10-09T08:17:03.329609+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "ce664af29129bf95",
    "title": "Mỹ 'siết' chương trình thẻ xanh với nhiều hãng công nghệ - VnExpress",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaktObG9UR1MweVNxbVVMRFFLaldYQVI4MmJWUV9zNUl1em5sMlFlNkdFRUJwV05tQ055aTcyTWVVUlY1VXNDMU1USWpDLU1NOTFObGZGZ0psa25aOHdlZHpmUTBpUDlvVkJrLWZpVGpPUTF2ZGxOZGlMMnktOGFETms2RHhrRlduMlgxTjNma1Q5YlU?oc=5",
@@ -697,6 +741,21 @@
    "published": "2026-10-08T23:42:39+00:00",
    "fetched": "2026-10-09T02:14:59.175678+00:00",
    "visas": []
+  },
+  {
+   "id": "d53538f3a4a51245",
+   "title": "Why Trump is targeting green card path used by Microsoft, other tech firms - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObjRnTkMxUW5YdGEyT1dRWUxpU25ZcmoxcVNlZThENjcyckY2OUFsNFRiUERlb1lpd1hKcG5LMHNka2RoVWEzSVZGdW5WcGhvWEV1aFEtRG5pRUlZUUdKMlItT3BtekptUVFob25YN0J6bU5uNEF3aGpXcHRKTEVYZXdkSUMydHVEZGNKM0F2Vm9JV0Z6YVNKUzhMWDRrTzEyS2RrM3RpNVlIQklTc0I3VVR6UDRnZXBkZUZaSjJVMA?oc=5",
+   "summary": "",
+   "publisher": "The Straits Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T23:00:00+00:00",
+   "fetched": "2026-10-09T08:17:03.329609+00:00",
+   "visas": [
+    "green-card"
+   ]
   },
   {
    "id": "410670903a578cbb",
@@ -9840,6 +9899,21 @@
    "visas": []
   },
   {
+   "id": "5f075faf93811f43",
+   "title": "Blanche announces charges against 10 permanent residents accused of Minnesota voter fraud - WFIN",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHctRU5NODcyaXNfemJMdDAzQnV0UW96bjVOTFlUdF9lRG8wSThfOTM1MG1YUzM0VUs1V0VrSmpySV8zR2JLRHVjV0pMRUJ4SmNDQXFrR0xtSFFTV0cwQzlVSDZHeTltSFN4eVBoUzJ5T216WkZuYUxqc0RQQkxZREY5clZQZkk3Nmc5STluWl9oWlpjRXdDanpLNV9vX0pLanUxU1ZzYWZTMWsyOGh6VktzZnRWN2VXQWs1Vm84eWZLVGpM?oc=5",
+   "summary": "",
+   "publisher": "WFIN",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-09-30T19:01:17+00:00",
+   "fetched": "2026-10-09T08:17:03.329609+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
+  },
+  {
    "id": "e343d4f648f84454",
    "title": "Public comment: Proposed $103k fee for H-1B petitions 2026 - Niskanen Center",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdFM3UlRQUXZ3ZWFSR053UVNIZmx5M0ViaVpuMW9wUl9zMlg2UHk1WVRybzNTN1ZPMWp6d3pDVGtSbGdTMUdMRWhDc08wLUMzaHkwNW52M0VWRmFHTkhBVHdacFhFNXVrRlByeW5xWVUzUzluNGFtSzBIeUxpSHZPVDM5dWo4c1NaNEd4X1I3ZGRKQQ?oc=5",
@@ -11797,6 +11871,19 @@
    "source": "nz-en",
    "published": "2026-09-29T02:44:40+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": []
+  },
+  {
+   "id": "da4940a574ca17aa",
+   "title": "Trump warns Canada is 'importing 3rd world migrants', calls for securing northern border - Firstpost",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDBjcU5GeklGUW1SbF9xMkNrdENKanM5Z2ZMSS1UTUtjTVR2VUF1VDN3VXQ0UzdQUHkxVkdGYTR2Nkx1MzJhbS02SFpzWkJ4N1Nza3JtYXhydjhDWlFBRFdPcVRqZ1JhVGNMcGF1TkpIV29PUlBOVkw0VHhrSjZJQ3RSRDVyV2lGcndrQ2hvQVZDcFJQNXdoUVhxV0hsVS15bll5VUREQmI1bUJ2S3FNUnl0eTJZUWVNbGx5RU9iSDFkc0h1NnliRnk4c9IB0AFBVV95cUxOa0JqcHYzdmJKcUJ2emNOdlVtdV95ckQyRXhQT2MwS2FFWXlqTXRyRW01dDk2ZF81cTUxOWRKYmNUWHhrRldIUFA0aW1sdVFZLVo0MDY0VXN2YmdYNjNSMEpFdUdZVWhic216eWlDcG5lM21FN3NIT2t0YTRvUDAzWm1vOThuX3Nzb19CRDNQVnRDV3Z0SDlUaVVrQmpLRXdyUEE1NEJCS0YyNDlSWDVaVnFpRjV1WllFUlZsSG9abU5kakUtQXBuM2dMN3FrV01D?oc=5",
+   "summary": "",
+   "publisher": "Firstpost",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-09-29T02:32:26+00:00",
+   "fetched": "2026-10-09T08:17:03.329609+00:00",
    "visas": []
   },
   {
@@ -15853,6 +15940,19 @@
    "visas": [
     "asylum"
    ]
+  },
+  {
+   "id": "fcc3a978adf477c3",
+   "title": "Danielle Smith floats charging temporary residents $1,900 to access public health care - CBC",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVm1tYUJKb0NkdS1EdU02V0pSOEVab0t4aGZsOGtvTGVmaW9RZGZTelgwX3ZWcUVxZnREV1EzU2hNQkc3QnA3QmhXdDhUek0xZHhBZ3lCZEFxVGt0aXJMX0VhUy1RdEdfeTNyMWc4U1RBU0pvLXN4YUJyWi1wN2RuU3ROTWpNOF9UeUNuaFozQVY?oc=5",
+   "summary": "",
+   "publisher": "CBC",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-09T08:17:03.329609+00:00",
+   "visas": []
   },
   {
    "id": "15deb630b6ae09dc",
