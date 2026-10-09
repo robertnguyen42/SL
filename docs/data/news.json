@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T03:48:16.507553+00:00",
+ "updated": "2026-10-09T04:16:56.863072+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "us-student",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "1494b39dbaf27eae",
+   "title": "Mỹ siết 'thẻ xanh' với Microsoft, điều tra 9 trường đại học - Báo Thanh Niên",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMFF1cURRU0tyVV9Ga0l0Q0FRUm9XWWVXc1ZtblplNkszeDNRZTk2NGNidkZMZ2VlMnFLc25fWDVfWld1SlBINDBZMmxQemhzbGZiVEJtREhMX1FtWUl5WkFIZVJ4U3ZveXNwVHBHU1loNjFoVkhhdDJZRUh6MmVrY1dPSFVVUTdCM3IzWWpXM2lyMFh1SmFLNHk1MFhqU0FxU1E?oc=5",
+   "summary": "",
+   "publisher": "Báo Thanh Niên",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-09T04:00:00+00:00",
+   "fetched": "2026-10-09T04:16:56.863072+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "ce664af29129bf95",
+   "title": "Mỹ 'siết' chương trình thẻ xanh với nhiều hãng công nghệ - VnExpress",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaktObG9UR1MweVNxbVVMRFFLaldYQVI4MmJWUV9zNUl1em5sMlFlNkdFRUJwV05tQ055aTcyTWVVUlY1VXNDMU1USWpDLU1NOTFObGZGZ0psa25aOHdlZHpmUTBpUDlvVkJrLWZpVGpPUTF2ZGxOZGlMMnktOGFETms2RHhrRlduMlgxTjNma1Q5YlU?oc=5",
+   "summary": "",
+   "publisher": "VnExpress",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-09T03:26:06+00:00",
+   "fetched": "2026-10-09T04:16:56.863072+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
   {
    "id": "080e8fcf2740f25e",
    "title": "Mỹ đình chỉ chương trình cấp quyền thường trú nhân với Microsoft - Vietnam+ (VietnamPlus)",
@@ -445,6 +475,21 @@
    "fetched": "2026-10-09T03:15:39.505690+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "0b8559915b789cdc",
+   "title": "The advice immigration attorneys have for Microsoft workers worried about their green cards - Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcW1yWDZpNjlPNkx3QmVmODh6azl2WWU3ZXpDSGVkb0ktVUtvOXAtQTNlWUJLbko5bFJleFEzLTdtNk12eEZSeThPTDBBY3JYZGR6TUJfa080ajlEdjh4TXo3MzlvWEFmb1VEYzZGNV9RSFJIQWtla3pKWWhnNEpLV3o4X09RSWNZYi1qbllxbjlpOTRsZW9kdkozemxyWEkw?oc=5",
+   "summary": "",
+   "publisher": "Business Insider",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T02:34:00+00:00",
+   "fetched": "2026-10-09T04:16:56.863072+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -4054,6 +4099,19 @@
    "source": "au-skills-in-demand",
    "published": "2026-10-06T09:20:29+00:00",
    "fetched": "2026-10-06T09:46:41.865479+00:00",
+   "visas": []
+  },
+  {
+   "id": "b948022cf687c61c",
+   "title": "Australia opposition pledges ‘biggest cut to immigration’ in history - TRT World",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fQW84ZVhtOEM2RFI1aVJrZ3lmNVBOaU1jeVJkSzJ5U2RzZ3dBQWxuaDl6eW9zV3d5NU95VGFmeExIZE5zSkx1WmFZRUl5a2owX2M0V0lZbEU?oc=5",
+   "summary": "",
+   "publisher": "TRT World",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T08:56:31+00:00",
+   "fetched": "2026-10-09T04:16:56.863072+00:00",
    "visas": []
   },
   {
@@ -22182,6 +22240,19 @@
    "source": "au-skilled",
    "published": "2026-09-12T07:00:00+00:00",
    "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": []
+  },
+  {
+   "id": "a4be2345ffd3f7bf",
+   "title": "Houston Immigration Lawyer Solomon Musyimi Marks 24 Years Serving Immigrant Families - ncwlife.com",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORkRydy1GMzlXc3Q4RVBXU2taTEdUaUlEYUVZdWtaSjJrYm54RUw0d2IzZUpwQWt5VVZRdkJyVHE4LUNpbUZwa3pIaVBkVWE5Z1V6cEFrSWlpTmhqcWRILTZRM2VZaE1IYTVOam9mNnV1Vm5xNnpIbGtRM05CbmlwT2szanl3R2VWaGlORFNabXl5a2stX0llRVlfQS1SR2psWjRhQnJ5bGVHNGpaRU1oejBSVUtQQUFTcmNuUS1HNWVlemhWTkNZcmxSblRRYkxlVnNEUGFIektIM1phendJd0w4bTlnZFpNSnhZbnVnVnloQ1Z4bnltSmltMGlJTkVkc3VwUlFMbUdsb0kyOWhWemxPVU1XSUl4?oc=5",
+   "summary": "",
+   "publisher": "ncwlife.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-09-12T00:20:02+00:00",
+   "fetched": "2026-10-09T04:16:56.863072+00:00",
    "visas": []
   },
   {
