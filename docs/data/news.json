@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T09:17:09.022984+00:00",
+ "updated": "2026-10-09T09:47:55.050963+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-employer",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "us-visa-bulletin",
@@ -464,6 +464,21 @@
    "visas": []
   },
   {
+   "id": "ccbffde1a917e28e",
+   "title": "Mỹ đình chỉ xử lý hồ sơ thẻ xanh của 8 công ty công nghệ, điều tra 9 trường đại học - Báo Thanh Hóa",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWldyaG1xT1VILURWS2ZveHpUN2h6X21ndFNhSmEzSXJLSVZEZ01NNzl2YUtYYVYtU1l5cmZLbU16RV8weWplcXFMbW1zSFQ1NzUwU1UwV3hWVmxKekNuRWtDb28wa3V6eGFPSFVsMnpKcEZjZWZ3UXluendoNzFvTWIxaE0wSllEdjFHTURpTlVMcUNhVFdJRUdJYWh5NzhVbk1zYzJFdXNidWliY2oxU3ZfT3U2YTA?oc=5",
+   "summary": "",
+   "publisher": "Báo Thanh Hóa",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-09T07:44:00+00:00",
+   "fetched": "2026-10-09T09:47:55.050963+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
    "id": "4b497b084e4d2ee1",
    "title": "US Green Card PERM Suspension 2026: H-1B Impact - IndianEagle",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTzRCREFZekd1ZlBfdURnWm42S1B0UHFLRHk1cVR4d3BhVDRWcGRxN2ppZVRNMzlTTWNaR0paUTZ1NUE3NnhCRkhLTlJ4WUZWdW1ycUZqTDhfb3otakw2Tkw4RjZ2ckVSRmpqakJCdDV6bWl0VWYwSFlMSTM4ckpuakZ4WmlQcXVZYUlnUWhETmYtZUpseUNvUENn?oc=5",
@@ -522,6 +537,22 @@
    "published": "2026-10-09T06:43:29+00:00",
    "fetched": "2026-10-09T09:17:09.022984+00:00",
    "visas": []
+  },
+  {
+   "id": "318ce44452d61c10",
+   "title": "US suspends Green card program for Infosys, TCS, Wipro and HCL: What it means for H-1B visa holders - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNN3h5ZUlYNVJZbk4zRzNsSWVHQ1ZNeHJZMndMMUxRUXV2TW9xQm9qTHk1UndKeHlzR0RIOFNwYXJyYkg0ZTlNU3gxTnFMU2Z4SVdlbktMb0VnZjNQM0V1UWtKcmh1TkQ0VFhodm04X2U5RUJQZkNBdGQzN0d0dGxyMDBnVE0yd3RBOWFJQ1FfYWZGejNLelAyNnVHeTh6a1RGNl8tLUNGMkNmSnJJQmZxam0xZzIxMURwdUFVSVpLMGRLMU5Vcmp5bWFOSGR3WDF5R21BZWh4SzJtUmZhaWJ5RUE0VnhqRjRpazdwWkpvSG9NbUkwTVB2emkwVjZUSlZoYWs3NzV1cy1vODNfRkRScmNsUVk1eVM4VkxHQUpnUU1vVlZsTzdOMDFnX1E5UVpzaGpuZ0Vn0gG7AkFVX3lxTE03WkotMDRWWkl4MWh4X0F3aXM2aS0wcFBidGlTN0p3QmdmYU5hQ0QxUzVvZGh4Q2NnUUFHNmF1cGdkclNCbFBiSHVZLXpMZnJpalM0a1lVdWNTREYwS1pwMWFrTVBBQk1mNGxBeVR6VEtBWEoyZVNVMWRlcTJaRnRDUGtyUFlKTFJyc2ZTc0V1Zm0xTTB6ZG9qei05cG8tYmtxOFlhS0pNNzRfNzFYVEt3ZU5UWjg0SDZPbmM3akQxVWVMNlV4d3VYLUZKeUpydHU3ekJrd1lHVElvYmd5Qkpyc2xERlRESmxQbnZiOGgxNTF6NU9qZ2xyMHltM1prTmNRQ01UbllnNGQ5LVJJTU04QlJMSlNtSGh1MWZMXzFySXhmWkt0N3VOM3ZyaFVxOWluZEFRbGxHaHJQWQ?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T06:10:00+00:00",
+   "fetched": "2026-10-09T09:47:55.050963+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ]
   },
   {
    "id": "360aad0f83f129d2",
@@ -637,6 +668,22 @@
    "published": "2026-10-09T03:33:00+00:00",
    "fetched": "2026-10-09T08:17:03.329609+00:00",
    "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "d1e3bf9f5a18d441",
+   "title": "Mỹ dừng xử lý hồ sơ bảo lãnh thẻ xanh của Microsoft - Báo Gia Lai điện tử",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVBZUDdNZFhPeTFhaGVKdE5Rb0x1WlU5MjNoS0FFSTBnRWJWOVJCQS1XSERvaVk4bDNZTU52NHJmLW96MDBDd1EzdkFsUnZDb0xpR3NUdVR1d2tJYzhiYV92aGY2eHBQcnUxYTRxcWlSQ1VjMzlmREtncW5nMXZqWVFiZW5jbE4xNEh2VU1DMDlxWnlhRTUw?oc=5",
+   "summary": "",
+   "publisher": "Báo Gia Lai điện tử",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-09T03:30:07+00:00",
+   "fetched": "2026-10-09T09:47:55.050963+00:00",
+   "visas": [
+    "family",
     "green-card"
    ]
   },
@@ -3660,6 +3707,21 @@
    "published": "2026-10-07T02:18:36+00:00",
    "fetched": "2026-10-07T18:51:12.207744+00:00",
    "visas": []
+  },
+  {
+   "id": "b4a50146a11486db",
+   "title": "Gần 70 trường châu Âu hội tụ, mở rộng cơ hội du học cho học sinh Việt - Skydoor News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkZub0VJeWdxdE9YSWZVMC1zNGcyUV9BT0hMM295SnIwMHpidHdkWFR4Z2ZBTzZTanBpNXRCNllRWU8zZHhlM3pRcklfSzQ4b25oUXF6MHdpVktscG83d05HQVRFNXQ4Y1VBTkU1Z1l3dm9yUUZEUEJfSFpKbWpZRzRIU1BuVnJzUzM4QVRFRENuOHVoLXZ0ZGgzTGwyVTZ6UjRMZw?oc=5",
+   "summary": "",
+   "publisher": "Skydoor News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-10-07T02:00:00+00:00",
+   "fetched": "2026-10-09T09:47:55.050963+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "2df093ee7c4f3f6e",
