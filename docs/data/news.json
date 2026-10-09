@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T23:13:50.911504+00:00",
+ "updated": "2026-10-09T23:44:09.790644+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
@@ -509,6 +509,21 @@
    "fetched": "2026-10-09T20:46:45.790539+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "6e385a703542ebed",
+   "title": "Liberian man loses citizenship over naturalization fraud - AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMnU0Vk5ZQ2hvYzVjaldKZUdnbDBWR2JqWkd6eDNDTGdVdDdJMGZreVFxTmY5bWVlZWhlSVhQdDdORGxPQktoUXlRd0ExSkNKUjB0OWhJNEtzMFp5Z2Zyak1IaU41bHJvdW1TWFZ4SUsyNEJWYlk3VllVNmxUYy00VURCbGdVdw?oc=5",
+   "summary": "",
+   "publisher": "AOL.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-09T19:49:48+00:00",
+   "fetched": "2026-10-09T23:44:09.790644+00:00",
+   "visas": [
+    "citizenship"
    ]
   },
   {
@@ -883,6 +898,21 @@
    "fetched": "2026-10-09T13:18:52.889254+00:00",
    "visas": [
     "golden-visa"
+   ]
+  },
+  {
+   "id": "3c89c72eb75a9bd6",
+   "title": "US Green Card Suspension: What It Means for Indian Techies at TCS, Infosys, Microsoft, Wipro and Others - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkVpZlJYeGJ1ek50elZLR0gtd21nVXMzU1BIODBOSlFuWGtQNml3Z0E4QUlxR0RfUHFwNGVJWjljd0pNN2JjZ0NOTFhMTXBVNXo1ZjB2TGlFajhVWDdKNHFxUElmeV9scG5vZnF1cXJ2ckFJWHR2MTNReUkxLUpPTFBrWFVLdUdza0NmYzNMY3Fya1dURnpqVWEwcEJTME14bTRnMFNjUUxjM1RzVHRqV2p3RTFXbzV5eHhlM2J4T0Q2dnVlbjVyTFlZaVA?oc=5",
+   "summary": "",
+   "publisher": "The Indian Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T12:29:30+00:00",
+   "fetched": "2026-10-09T23:44:09.790644+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -20574,6 +20604,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "85dd7ed0cfcb0e9c",
+   "title": "‘Don’t think the numbers are credible’: Sharma sceptical of Labor’s migration plan - News24",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdXJpODVRQmZhaG5SZkJsNU5sRV9GdFZaT0dQb0p3ZnZ0d2hwVkpQZ2t6SmVKX0F3ZVN0VjVYQVpvRk14ZXNpaDlNVXlyY2NvR3ZUcERwLWxqVEVKOHNIcDl4V2pwRGFWYmFseU5NXzRDcl96QnlpZkxBanlVRWg0NUd3UmtFRk9uM1V6MnBlYlNzNVQtMWNJVnFONUdZZ21hLXUyQnRWR1NZZEdZQkZzeVo2MTAzMl9MU2dEZ0ZSX0RodFFLdXN2bmp3NnhKVjdZZVk4WHpsOFR3WUtRaDNwSjVGZUhqQlZKNUt2Y3dVaEhOczNEaGVOXzFfUWpaZ3JB0gGGAkFVX3lxTE9lSFllLTlFQ2dzWWd0Yk5oNjBIZXZrNjg0aGVOdVJIUkJ6Vjg4S2plLVFpdGFXZks3QzlfQUVFaW55V1hITXo3YWZZOUNZRS1fN1NfWFJCYVhuNHk4RVdyNXlhUUVoRUQzX2d4MGxZaVM0aE5MYUZ2YlVWb2ZQT0JSVHFCdnFBYmNqWTQ3WHJOY0Q4LTVWRGwtWUtOdExuSllVQUxaTXNuZUNxV1NleFFwenhsdF90OFJYUmFDOFNLSE8wYzRCYjY0WXhqMHhfNTkwbzVMOU1UM2doV3hhZDdRbDJTRUZ5dnJ5d25WcVZKNnF0NVVzNFplOHZKX3ozZVAwcFFsd3c?oc=5",
+   "summary": "",
+   "publisher": "News24",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-09T23:44:09.790644+00:00",
+   "visas": []
   },
   {
    "id": "5f30623419cf53e1",
