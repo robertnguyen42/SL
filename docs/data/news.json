@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T05:15:10.440754+00:00",
+ "updated": "2026-10-09T05:46:56.549653+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "us-student",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -391,7 +391,7 @@
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "nz-student",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "1ff71d14f084c377",
+   "title": "Australia Migrate Examines Employer-Sponsored Visa Pathways for 2026 - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUloOU5UYllGR1hUU3RGd19iLTB6d25wUWZrRDlic2ZhZzFQQklWclkxd3ZjYjF0blZGLUltQVNTVUhaMmFyaFo1Tk1rb3JQN0dDZFA2SDkwdWVzLWUzZWk2VmFZdHBfMzR5WXZaZjFjeFFsRDVKbjdEcVkyNE0zVHZzUXlOUXZFdzlpWkxwcEFnQ0xTR3FmeFpwaEh5ZXI3SmpTQ1JWYkhpOVVOb0ctOW5HM0RoNkE4X1N6NUVyT3hMdUlxNVBvMmxaTXVQZ0ptVmNKaEh1VTBfZ9IB3wFBVV95cUxQMTlXcHdVckpwWllmNzVUVEEwckV6UnZRWHBwd2hCcHhCcVBkX3VVc21vV2lJRWRVakNJWWNYWHA2ZUR2YlgtcnEzSUI5clZvcTdheTJvY3BZTWxmSjJPVGZGUVBkRWZXR0x5STRfSG9JZjJUUEc4Z0lGa0x5WmZoeXZCZjJqX05uUUlvZHJwMFgwREZxLWZCa3B1MGhNbEcxeUZhX2gzY1VOZzZ4eWhOYUZlcEdjVGY5aXRZcnVKV2UtSGVDaGVXS05qT2IydHNHbzBiMGNHTDhRVzVnLXgw?oc=5",
+   "summary": "",
+   "publisher": "The Manila Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skills-in-demand",
+   "published": "2026-10-09T05:24:43+00:00",
+   "fetched": "2026-10-09T05:46:56.549653+00:00",
+   "visas": []
+  },
   {
    "id": "1494b39dbaf27eae",
    "title": "Mỹ siết 'thẻ xanh' với Microsoft, điều tra 9 trường đại học - Báo Thanh Niên",
@@ -1622,6 +1635,21 @@
    "source": "us-h1b",
    "published": "2026-10-08T15:11:49+00:00",
    "fetched": "2026-10-08T16:18:18.390954+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "567ad2185a8e1273",
+   "title": "New lawsuit against Green Card rules: Why separate family members by sending the applicants out of countr - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZ1A1VU5OeGhKYmN0OFdlUXBQMHh1bEw1Y3BuZGVMSUNKdDhoS25tWnd3c3lKR3pUMUV4NjBmWXZBQzNWRXdJYVVPSUJpZG9JSGo0UlF1d3Y0WS12dWdXTzRrMzJOVTVWRkM4MGt3NVpYMW4yeHM4T2l2c2VaZU5MRDVJYXBnTXBDdUp5ZHlyNEpYdHpBbGdOVnFGOWV5ZlROOXZtZ1NSc0k2LTlWTy1YZEhCZ0s4M0RmQVlwUVpiQVZ2ME1mUVpDME8zZG5JQk1WU2pLTjlkazJ4VUNVZ2V0S0xzRUxMaHlCZV95U1pURTZRS2xyb3RKTS1aYW10QmNTczhsZlkya9IBjAJBVV95cUxNTW4wQy1VWVNDNTVGeXpPQTdER3daR09NVFVqZ0Eybk1weTNzbEJfSW1CQzVRcWcwQ0Z2MHZTLVhUOGxRWlJrVUpIcmF6R1AtUjNhU0kxblRvdTJLTFNiTk5GNGkxYS03MkJvYlliaUt4dDU1RUlkaUhDM0thOVJON2tMMDNSWkl1ZU1oUXBHQm9feFpYcGdZbURhalREb1RoaTRJaXpsM2lYalNKS2s0UEdWZks1bTc0SzBCM3VfZVVkbjlpdV9iekh5dkQzME5yOThVLWlkQXZsR1U5bndRdnYzanNjVERVNkx3YTl0SDdRTDZoREFnQjh4b1JSVy1pU19WSW1qMDN5NjZ3?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-08T15:06:00+00:00",
+   "fetched": "2026-10-09T05:46:56.549653+00:00",
    "visas": [
     "green-card"
    ]
