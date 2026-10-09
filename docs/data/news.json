@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T13:18:52.889254+00:00",
+ "updated": "2026-10-09T13:48:04.325060+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -419,6 +419,34 @@
   }
  ],
  "items": [
+  {
+   "id": "8739b06c4d6c6e8e",
+   "title": "Canada Announces Special Groups Whose Families Qualify for Immigration Fee Exemption - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjZHTlVDVjFab1F4WGhCbEhKaVV4TC1GcjVyY1ZPYWlJMnhIRm1XOWJrcWZLRnpKMkM4dW5CLU1ldEJ1QUluYXBDcC1NQzBiV0Q3RjRod1NWeldueXI4Q0lrdEg0S3NKTmdhTi03QkU2MTNZaU5LSjB2Snl5UzNKYklEYkliT2NST2NJNkp6c2dYTkZJY24wTEIxNGdXX1FDN1NjX09zZEtkdw?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-09T13:33:57+00:00",
+   "fetched": "2026-10-09T13:48:04.325060+00:00",
+   "visas": []
+  },
+  {
+   "id": "c491c658d331e5ab",
+   "title": "UK student visa applications fall 10.3% as universities face pressure over £12.4 billion in overseas fee income - Business Insider Africa",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjVlVFdqb3VYTHRCLU5OdUQ5dWJVXzRyeU1kMmtWXzMyTDUyUF9Qdk8wbDBlaHRnR0dHdUdBWUV2X3V0YWwxYmpDT2NIZ0Q1cDhhUFRsVl9TOTFuZWFBVy15STBFcmpOdDRHb0FVWVpFckJzSy1pUzFCVWpQUV9TcTk3TTJGTzcwUl9OVm84a2xiVWFNWkNhakFpa3JqM0Q1UWlSTlBULXU5aldUYno5NTZoTmhoUDQwVENfelRfSTQtVTVkZmEtaHJ5clZReG9LdmtJTWcyVTgxUQ?oc=5",
+   "summary": "",
+   "publisher": "Business Insider Africa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-09T13:14:53+00:00",
+   "fetched": "2026-10-09T13:48:04.325060+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "0299e3b57723ea26",
    "title": "GCC Secretary-General: We are very close to a Schengen visa waiver for Gulf citizens - صحيفة مال",
@@ -852,6 +880,21 @@
    "fetched": "2026-10-09T07:17:23.597978+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "a82b880f286e8640",
+   "title": "EXCLUSIVE GCC Schengen Visa Waiver Process Set to Begin | SG of GCC Jasem AlBudaiwi | Arab Views Ep2 - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtaEt5dVdOR3dnV2NoWHVHMzczUWVQVERjLXFybWJnZDFiNGNybEV6bE9zbXZ3NXgtTm82SzVtbXY5NE9Dc3NZeHMzbjZXNUNCdjdGUUJoYWNud2Rq?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-09T04:04:35+00:00",
+   "fetched": "2026-10-09T13:48:04.325060+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
@@ -3399,6 +3442,21 @@
    "fetched": "2026-10-07T15:26:20.162747+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "5898b0fccd468c53",
+   "title": "Tin tức thế giới 8-10: Nga bác bỏ nguy cơ xảy ra dịch hạch; Du học sinh ở Mỹ trả thêm tiền 'học nghề' - TAMDA MEDIA",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2JZcUIxTXhWM09RMDRZdGhzbnp5cDdYazNqWTUtN0dDNVRqSVlLQzRjdkhsZU5hd3M1M045OHR2RGJrblFHXzVwVkhNQVlYeGFiYkV4enVjdm9FN0JYeWtPc0xQbEtSZHhPOWtBZlBjYjFEWnRoSDFTUnV4VGh1TW1HcVZNbG9QZjU1S29aWks0UGFMN0t6d3NzWlJUbjlNaWNtZncyT2Zlam5DY2tPN0NPNENzaVQwcHEw?oc=5",
+   "summary": "",
+   "publisher": "TAMDA MEDIA",
+   "country": "US",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-10-07T14:52:00+00:00",
+   "fetched": "2026-10-09T13:48:04.325060+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -16894,6 +16952,21 @@
    "fetched": "2026-10-09T10:47:34.645488+00:00",
    "visas": [
     "asylum"
+   ]
+  },
+  {
+   "id": "d0506a1329502fc9",
+   "title": "Nữ du học sinh cứ thứ Sáu bay từ Anh về nước, tối thứ Ba lại bay sang: Có tuần chỉ ở trường 3 đêm - Kenh14.vn",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWmVQVmFaOWdEbm02SkpCdU5rcUhoNGMzbnhwQkZtLW52ZE1KanNmSFBxclFlVXpfemZfbFh6VkFkdmFPVDlUSlN4WnVmbEc3RTQ2TUJOdXZTT0U5bWtteDdjMktwWFVyMmQwcUtQaGFwdFYtanJGTUlEQ3E1RWRBMDhuZGI3c0FzTTBFbVpvRjdYci1ZOFlCS25Mb3NHWjdFRy1zamhQS0FNU3ZpTVVqQVliN1VJTGdBUE5qaWJGdjNaS1JsWXRIVXdJRy1SSWpkVVE?oc=5",
+   "summary": "",
+   "publisher": "Kenh14.vn",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-09T13:48:04.325060+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
