@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T08:45:19.056018+00:00",
+ "updated": "2026-10-10T09:14:16.926925+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-citizenship-investment",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "nz-residence",
@@ -18038,6 +18038,22 @@
    "fetched": "2026-10-09T13:48:04.325060+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "2613d5e83b41c76b",
+   "title": "Canada Lists 10 Occupations Ghanaians and Others Can Use to Gain Express Entry Permanent Residency - Yen.com.gh",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdFlKR1NXSnZobjliMEF5dVNmdFFLcjU4T09MMDBwRGFJdWRqc2JJS2h5VjVlQmc3STNDX3pqZUdFWW5Oc2JaSjBRaGdidGNaVGZVMXloampfZFdTOEF5bFZHdGFPM29GYlJ1VWZWaG5QTmtabUFLdVRtcXJuZlFSRXdhQ3cyY1VSck9MVi1qWWFNZHRVSm9tZW1ERzRrNURFNlFVYXlHMlI2V1VZSkw0?oc=5",
+   "summary": "",
+   "publisher": "Yen.com.gh",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-10T09:14:16.926925+00:00",
+   "visas": [
+    "express-entry",
+    "pr-citizenship"
    ]
   },
   {
