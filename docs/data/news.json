@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T02:14:24.703523+00:00",
+ "updated": "2026-10-10T02:46:24.439151+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "nz-en",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "us-visa-bulletin",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "nz-residence",
@@ -18576,6 +18576,21 @@
    "fetched": "2026-10-06T00:23:23.557511+00:00",
    "visas": [
     "work"
+   ]
+  },
+  {
+   "id": "209097c5a4bb3a21",
+   "title": "15 Fully Funded Scholarships in Canada | International Students | How to Apply | Young Researchers - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lT2hjVGlpdFIxeGV1bEdZVDJzNWFDbmV0cEM3MXVrSzJObU9DVFljTkwtWEp0RjUyOEczNzFaUVZlM2M2UTVKUFNxNWYyRVhCWVg3TU1Ma0J3TW5h?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-19T07:00:00+00:00",
+   "fetched": "2026-10-10T02:46:24.439151+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
