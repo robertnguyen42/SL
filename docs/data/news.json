@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T19:13:21.574495+00:00",
+ "updated": "2026-10-10T19:43:27.091092+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-employer",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "nz-aewv",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 24
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -473,6 +473,22 @@
    "published": "2026-10-10T14:22:23+00:00",
    "fetched": "2026-10-10T18:48:17.536320+00:00",
    "visas": []
+  },
+  {
+   "id": "52037a41b26d165a",
+   "title": "UK student visa crackdown leaves international applicants caught between universities and Home Office - EasternEye",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkZhY1JXQlpiUnhhcFhabW53Z1BoOFN6VXRyNnltc2ZxaVVKN01CWHJQSmY4d0EtWGRyaW1TVGJTdHdQS1FWUlZGVlI1Vy1mR19tOWh1Wl9kck95RnJvOGJOQW0zVTdZTmdWN01wQW5uTVJjenJnMGJ0YkRnTDJ2a1dZVWozNVdHY2lRYVZVZHRHdTVkT19Pd0VpcnBtZw?oc=5",
+   "summary": "",
+   "publisher": "EasternEye",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-10T12:21:07+00:00",
+   "fetched": "2026-10-10T19:43:27.091092+00:00",
+   "visas": [
+    "student",
+    "uk"
+   ]
   },
   {
    "id": "1ae0a8030b0ebff5",
@@ -6277,6 +6293,19 @@
    "visas": []
   },
   {
+   "id": "2737587099e004ea",
+   "title": "Australia’s opposition pledges sharp migration cuts if elected - Banglanews24",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6b3JldE5QMjF6NDRKbVg0VEkyQU93VWlZNUZvYjRzblc3WG43dy1QX1ZRYmNvY3FubFdWakdZZlBFUXVDRC1WNE96RkZfS2F6QTB5ZllhdkRfNWY3MjRyVVI0anBTZjV1dllITm4xM193Zw?oc=5",
+   "summary": "",
+   "publisher": "Banglanews24",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-06T04:20:45+00:00",
+   "fetched": "2026-10-10T19:43:27.091092+00:00",
+   "visas": []
+  },
+  {
    "id": "203f28d044eff7f9",
    "title": "Australia’s opposition party vows sweeping immigration cuts - Latest news from Azerbaijan",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWlVqeWtNX1Nxa2tiYk42dnplMmV5UGJfVmU1NGRsUEdia3kya0g2amNyQTdkQ3RqOHFVSVc4bUhYOGcwQVgtbzlzNEEydm5Pb3ZOWklTcElFcTUxNkwtOGRYWkRwOWhlUDF0OFd5NWpSVk1RYlFlc0ZfQ3ZNMi1BNlV2T2JZUQ?oc=5",
@@ -11307,6 +11336,21 @@
    "source": "eu-family",
    "published": "2026-10-01T07:00:00+00:00",
    "fetched": "2026-10-10T12:17:17.211488+00:00",
+   "visas": [
+    "family"
+   ]
+  },
+  {
+   "id": "5b073dca757a7894",
+   "title": "Sweden tightens family reunification rules — The Local Sweden - UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3lnbnR0NW9CTFlJaHBOTEUtR29JS3NOblpUcmt1cUs0UTFPdXFHLUVoRDJwY04zMmpvR2hBbU8zZ0N3eUYzbnc4Y2NrS29vQ1hZY2VaS2xHRkJUb3FkUFlaSGxWN2J5VHY0S0xKRkg2ZWZQNFJfWnJOMG1RMU9OR2E1UDBiajNvSS1SN1RBbmh2OWVOSU00?oc=5",
+   "summary": "",
+   "publisher": "UA.NEWS",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-10T19:43:27.091092+00:00",
    "visas": [
     "family"
    ]
