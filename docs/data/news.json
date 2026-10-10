@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T00:23:31.235391+00:00",
+ "updated": "2026-10-10T00:54:45.412680+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-gov",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-schengen",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "1f00b39175a1b657",
+   "title": "Canada Announces Date of October Express Entry Draw: Requirements - Heraldo USA",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2ZEa1JmaER2bHNnOVJfVElWbEpwS2ROMGdUOFJQeDM3V3R0UVpxN3RMY01WazlyQTExRG9ZZ1RDOWoxNVF0YzJheXRkbEgyZVFfRERxZXNrQmw5Wng2RGo3b1VsYkJUa1p0M0xIVTFmVlEzS19YRWdpNVE4cWZaT3dCYUJNV2Rhb190U19IV2RkbXpqZlVJYXJHbzVFSFNDeEJGTzBRanpKaEJ3Z3R6MWpqWlF6UXNQUDhPYXNFZnhJRkk?oc=5",
+   "summary": "",
+   "publisher": "Heraldo USA",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-10T00:44:56+00:00",
+   "fetched": "2026-10-10T00:54:45.412680+00:00",
+   "visas": [
+    "express-entry"
+   ]
+  },
   {
    "id": "b9ee8598f3d7c843",
    "title": "Mỹ siết thẻ xanh, thêm sức ép lên giới công nghệ - Báo Thanh Niên",
@@ -569,6 +584,22 @@
    "fetched": "2026-10-09T19:14:07.052850+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "da0cc750386ab21d",
+   "title": "PERM Suspended, H-1B Not Ended - Dallas Express",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45dWNXanNTbjFLcy1LN0d1YVlCWjc3aWdIWjRFLTdaZ3BEYlZUQTFjY0tNZmpXdUlOdHVQRnBjQ2RuQ3lESUc2bWVOUQ?oc=5",
+   "summary": "",
+   "publisher": "Dallas Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T18:53:34+00:00",
+   "fetched": "2026-10-10T00:54:45.412680+00:00",
+   "visas": [
+    "eb-work",
+    "h1b"
    ]
   },
   {
