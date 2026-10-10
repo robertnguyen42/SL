@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T12:17:17.211488+00:00",
+ "updated": "2026-10-10T12:50:48.707264+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -537,6 +537,21 @@
    "fetched": "2026-10-10T01:46:11.892614+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "36419639e3f84457",
+   "title": "Five Gulf states ‘very close’ to Schengen visa waiver - Gulf Daily News (Bahrain)",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmc5WmI5Q2MteFdTTTVxb1JST1otdlpVNG9oZ1NqZHc0QXEzRHNFTnJGU0pTRUg2WFhpMkc0Tk1ZcEtGQndUeG9sdUJrMk04V0lzYjR6TjVibV8xME9fekVWQzgxemVTSmVKTU10S24zcnVSY1Jqc2o5ekh3VXlYeERkajdxYURTVm0wemxxcy1DdzV3cG1MUHp1Ul8wbW9Dc0hpOEowUF9uWHBza0FjXw?oc=5",
+   "summary": "",
+   "publisher": "Gulf Daily News (Bahrain)",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-09T23:03:17+00:00",
+   "fetched": "2026-10-10T12:50:48.707264+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
