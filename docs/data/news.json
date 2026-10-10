@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T12:50:48.707264+00:00",
+ "updated": "2026-10-10T13:14:31.060804+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "nz-en",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "us-visa-bulletin",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -14337,6 +14337,21 @@
    "fetched": "2026-10-08T19:46:23.988737+00:00",
    "visas": [
     "pnp"
+   ]
+  },
+  {
+   "id": "5680b7aa582455f0",
+   "title": "Latest Express Entry Draw On September 28 Issues 733 PR Invitations - INC News",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PelFZQzJpQkhyVjVOVUJNV25HSjc1ZlVYOTB2eWR6SGNaNGE2ZWhybXN0OHFxeFp5eXZRbTJsZ2RDMHJNNDJZV25ialhtQ2lkRzdjYXQ4b2x3Rk84VndBbVgxUHRMZmRIdUJRSUZwZl9vXzNiY3JLY0NVaw?oc=5",
+   "summary": "",
+   "publisher": "INC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-10T13:14:31.060804+00:00",
+   "visas": [
+    "express-entry"
    ]
   },
   {
