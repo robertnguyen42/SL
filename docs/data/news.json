@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T06:18:17.079489+00:00",
+ "updated": "2026-10-10T06:50:42.928328+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-citizenship-investment",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "id": "eu-schengen",
@@ -1423,6 +1423,21 @@
    "fetched": "2026-10-09T07:17:23.597978+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "f5733e2d27411383",
+   "title": "Columbia alerts students about DHS-proposed $70,000 fee for international student work authorization - Columbia Daily Spectator",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUmE3QTRxeWxmTjRSdmdSR3RmUkRGczZnaUJQaVprT1ltOEkxYzNkZjBxX3FIWUdUejhndnI4QlViX0R1RmhNUlJIX2prcXVJbUNMX0Rqd2UySHRjZHg5X0c1eERKVWpKN0JSa3Z3MkJjUWJ6SXZMQ3I2eUhjX1Z0QVVCQVVJWFVSWFJzdXZOTkpqSmdpLTdxdkUtYXJJbFB3OWpDc2VXX193bU00WjFNSVJCYVZIb0p4dzY4THRrVkt4emJydU5KbEJFYTdwNlVoZDFpVXRqdVFiZmh1bUpocEt6dw?oc=5",
+   "summary": "",
+   "publisher": "Columbia Daily Spectator",
+   "country": "US",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-09T04:59:32+00:00",
+   "fetched": "2026-10-10T06:50:42.928328+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -4622,6 +4637,21 @@
    "published": "2026-10-07T07:36:31+00:00",
    "fetched": "2026-10-10T05:14:05.376661+00:00",
    "visas": []
+  },
+  {
+   "id": "97c2641193658e3d",
+   "title": "IRCC Clarifies Work Permit Rules for Home-Based Businesses - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXNfR1NHUk8xZEUyM3M2Z0RpcXh4N2hVYjBrSkVDOW80dHhYZlhnckNxZ013cmFTdF9EbTVaXzY1bjIwb3Z1SzVKWUhKS3dlZlMzWHJpMW93aFh1a2taTUFnSVBQLU1hN29VM2tKbUt5ZGVzNFJQeHExRXhhRlIzR09TX3Q?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-07T07:19:12+00:00",
+   "fetched": "2026-10-10T06:50:42.928328+00:00",
+   "visas": [
+    "work"
+   ]
   },
   {
    "id": "4c23ef0c8049dcd9",
@@ -9189,6 +9219,21 @@
    "fetched": "2026-10-05T02:21:52.485743+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "173111f8731cd370",
+   "title": "Argentina Announces New Citizenship by Investment Program - Henley & Partners",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUFENnd4dmhSNmN0RFFmcmt3RUZwbzFiLVhQWlJFUDNNRmxya2VMZHpVeDN3ckZiMm5PYWVmd0lTRnRrdi15V3ZqUWpOYTdqYVEzaTliZmQ3OVQtVXRmNTZjOTF0cUxlMXVyS2hmaVN4dFEyVld0c0xKN081MC1HanRHa05tMnhsSmdlTzVCWFdDcXdqTGs1TXdGZ2hyT2hZbHJMRktMY0NJQQ?oc=5",
+   "summary": "",
+   "publisher": "Henley & Partners",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-02T16:01:04+00:00",
+   "fetched": "2026-10-10T06:50:42.928328+00:00",
+   "visas": [
+    "citizenship-investment"
    ]
   },
   {
@@ -24672,6 +24717,19 @@
    "source": "us-green-card",
    "published": "2026-09-11T07:00:00+00:00",
    "fetched": "2026-10-07T21:45:55.013439+00:00",
+   "visas": []
+  },
+  {
+   "id": "6abf8478d204b5b0",
+   "title": "Welcoming Week 2026 celebrates belonging across New Zealand - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmY0akd3SDl0TnlFbEFOb3R6aXAyTW1sNW40ek56WXRjU1pNMTB1VnFNYnpTczVNbklZZDU3Z3BvMHhGaUowVUF6RVllaGlGZTB6UERGanZNbGJRdWVCRkMzcU9IMXd5VDF0dVBVclJnV2RHdzVkZ1NfejBOanVnbzg5QVJ5dl9uT0pWVHdhWUNoMEYwZnJxa3VXdS1oRlNock84bGVsRkhRQlk2ZUJIYmF1MA?oc=5",
+   "summary": "Welcoming Week 2026 celebrates belonging across New Zealand Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-09-11T07:00:00+00:00",
+   "fetched": "2026-10-10T06:50:42.928328+00:00",
    "visas": []
   },
   {
