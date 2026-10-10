@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T05:14:05.376661+00:00",
+ "updated": "2026-10-10T05:45:09.688825+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "us-visa-bulletin",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "nz-residence",
@@ -2958,6 +2958,22 @@
    ]
   },
   {
+   "id": "f9ec9821a680c14d",
+   "title": "Vance says Microsoft is being suspended from program to apply for green cards for H-1B visa workers - Spectrum News NY1",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZWFOc0dlS2ROTkZJY3FOTmNwNDJmeDJrSWx6aXAzdG9tdmMxVzZRRHdYcjBKVXJDTmh1YW1oUkNzeWZRTGZEdmJNZE9JZ0k3U2lheVc4TzZCOG52aXRsNmdKZS16Y0c4VlNUTlhhNVQ4N2hWd1dRaWJaVVdoNVdSOFRyUUVWX09xbG9LTF9aWV9hdk9sY3dQRTRMUnlDWGhjei1IMUxIVUZBc0dVY0c2WGc4dUVzZVR2YTJnTU9hQjd5ejgzNmN3eHUwUkhRX3kyMEpzRnctSGYzMzNLUW44bHVMWDlRTGlfZUNF?oc=5",
+   "summary": "",
+   "publisher": "Spectrum News NY1",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T14:37:00+00:00",
+   "fetched": "2026-10-10T05:45:09.688825+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ]
+  },
+  {
    "id": "51ae1f7328bb3724",
    "title": "Portugal Says It Has Processed 13% of Its Golden Visa Backlog - IMI Daily",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1FjWXpwd25NQVNiTWFZQzNaV3hJUWhnc2R4c3dZQ0hTbFUyVEduMVJhcmRza1A1MDc2clZCT0tRMXBnU29YbnU2YVRpRU1aaENRYlc3ampoQ21ESGg5RXJoWEJvMVdlY2NKTkdpTHBaM2tUbEZxeXFtbG1hbVl0c3lCX0J1TGU1UUZpenhpbV9lM3pYWGVwMw?oc=5",
@@ -4856,6 +4872,19 @@
    "source": "au-en",
    "published": "2026-10-06T22:47:00+00:00",
    "fetched": "2026-10-07T05:15:39.184818+00:00",
+   "visas": []
+  },
+  {
+   "id": "780ec70a04f0ee25",
+   "title": "What proposed migration changes mean - Yahoo News Australia",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ud0N5eUswalhMM0F1elhNeF95a0FwLXJnR3NCa3VIdzJXNE4yNndEQndWTmcxd0haQnNqN0pDQnYxeEpXalB2cWttWWxBM2V0TlBra19OdkZpdG1jdmRGaVhYdzBfUHNMa2pz?oc=5",
+   "summary": "",
+   "publisher": "Yahoo News Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-06T21:29:51+00:00",
+   "fetched": "2026-10-10T05:45:09.688825+00:00",
    "visas": []
   },
   {
