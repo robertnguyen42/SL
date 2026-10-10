@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T22:43:39.256053+00:00",
+ "updated": "2026-10-10T23:12:45.996180+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 32
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -187,13 +187,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "nz-aewv",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "nz-family",
@@ -472,6 +472,22 @@
    "published": "2026-10-10T17:55:14+00:00",
    "fetched": "2026-10-10T18:15:53.722193+00:00",
    "visas": []
+  },
+  {
+   "id": "984cb300c7b04b15",
+   "title": "Microsoft’s PERM Suspension Blocks a Green-Card Step, Not H-1B Work - Quasa.io",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVVFNnVnbGZUQUxVRWJGYTA0YVFKU3hndU92eENvN2xTMl9kbkJjQUxYVVNpM3lGeVY0R3RiYmhrS1N5UnFIVmQ2WXFkaVU5RmxyVGxwQlQ1NnVUZTFfc2VCX3d5UWZyanRXWk1tZ0l0c1Q4dEljS25OVWthU1VjUWlfTnFBZGdXRWN0VkJvc1JWOVRHQkE?oc=5",
+   "summary": "",
+   "publisher": "Quasa.io",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-10T17:00:00+00:00",
+   "fetched": "2026-10-10T23:12:45.996180+00:00",
+   "visas": [
+    "eb-work",
+    "h1b"
+   ]
   },
   {
    "id": "e529e3710b371dc1",
@@ -18014,6 +18030,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "99754e284837d47e",
+   "title": "Canada trims list of partners providing access to fast-track hiring under Global Talent Stream of… - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenhQSFNQeFg5QUNyeFFYNEp1UWdTU1ZTM3lockNsak45eVpJM0tyLXVIemRMYnlhSmh2NVZtRHRRNHhvaHd6bzFET0liTkkwbTVUT2pBanpSQ0F0QkthLUxGNG1pZW9KZzJFRmhOVk11Mk42a3picEc3eUdZdFpUZVFlN0ZXR2FTMXIyMldVM290YTZjRXRZOXN3VQ?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-21T19:08:25+00:00",
+   "fetched": "2026-10-10T23:12:45.996180+00:00",
+   "visas": []
   },
   {
    "id": "5da2e5dea467ee22",
