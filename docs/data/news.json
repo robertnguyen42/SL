@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T04:15:14.157100+00:00",
+ "updated": "2026-10-10T04:47:43.594364+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-gov",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-student",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "be53e5c28409a1d5",
+   "title": "Work permit freeze adds six more labour markets - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2Nlc3NkbEJ2MWZXSW1kT2Ewb3UxUENnZm9xMEg4eEhmTmwxb2trNDVNV0JybFNCZHpYem5xQlJVQjlXNWdCTERSWlJOVTZMbGdZUUNsRnJzY1JvbkVHVWxZZGtENEs3RWRUYlNyeDBzdk9BTE4yRENhd25GUXo0RTdiREJuVUxvTUk2YkJhdzV5MFhUMmtTRTdrbGM?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-10T02:52:23+00:00",
+   "fetched": "2026-10-10T04:47:43.594364+00:00",
+   "visas": [
+    "work"
+   ]
+  },
   {
    "id": "1f00b39175a1b657",
    "title": "Canada Announces Date of October Express Entry Draw: Requirements - Heraldo USA",
@@ -1677,6 +1692,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "e6529b2ea154c0c7",
+   "title": "Business travel is turning short trips into tax and visa traps - Human Resources Director",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd2I2RTVaUDE5RnpTdFQ0RkFRVTVnb2tvZ2tUNnFlakdFc21ucVJmVGZTSTY2aVh3bmwxem9kMXhGMDdRdGpzVkhzR0pNX01kTHNsbEdIRXRpVkxWaDJiQTlYa1NtN2N5MzM2LWs0TGNyTlBMclZ5VGFRcXZBSGZKLVUtMEpnRkhGb25wOWFsU1dCOUdxYzBwVGZNUHh1UHVfc0NLejM0TEExOHdmbU56bnpBU2FmTUd1M1hsM1FHU0xQNm8?oc=5",
+   "summary": "",
+   "publisher": "Human Resources Director",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-08T23:49:38+00:00",
+   "fetched": "2026-10-10T04:47:43.594364+00:00",
+   "visas": []
   },
   {
    "id": "5a4ab39fc06b0d00",
@@ -3060,6 +3088,19 @@
    "source": "us-en",
    "published": "2026-10-08T11:20:58+00:00",
    "fetched": "2026-10-08T13:19:50.421076+00:00",
+   "visas": []
+  },
+  {
+   "id": "f760d0b5fbcafb1b",
+   "title": "Australia has seen ‘record level’ of immigration under Labor government - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd3pHUTRoSzc4TksxcEJ3T3g0ZkNxMkk4T1d5X2R5YmhzVFRxMjFjTlJHTU9xUlptYktBNWgwaXB4bmUtd2x5cWxWd1dMQVg1MmMzd0E1MFV2N1ZBS0lxTzVHM0R1NHQ0blNPRjVmel9nSHlBOVJlRWNSMVFuQ29TQ1RpMGc3SlN4WHB6RzZlVm04ckJUS0lEZ1F5TUdOTHhRY0ZWZ1EzOGtSdjkydnNud0F3YmNTQ3dmQy1qUFNOTExESng2djRmM2tod2hUbUJVSnJ2V21Od00tM0VPYUFKS09RTnZESlVPOHJYamxB?oc=5",
+   "summary": "",
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-08T11:20:05+00:00",
+   "fetched": "2026-10-10T04:47:43.594364+00:00",
    "visas": []
   },
   {
