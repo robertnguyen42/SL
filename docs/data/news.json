@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T06:50:42.928328+00:00",
+ "updated": "2026-10-10T07:15:06.227559+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "id": "nz-en",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-citizenship",
@@ -235,7 +235,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 10
+   "count": 6
   },
   {
    "id": "us-student",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "eu-schengen",
@@ -385,7 +385,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-business",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 24
   },
   {
    "id": "nz-family",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "a18ae40e02c987e8",
+   "title": "5 GCC states set to start Schengen visa-waiver - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nZnhsd2JjMUJNY2tYM0ljd1VTV0g1TXk5a3pzTkx5cjNxN18zWUYyZUE1a1NNaG1kY0kyMXZzeWNKOXdreHlxTlQzZTExN0ZNWmtlRUQ5MTZaVTVBY0c0bVlteHFtYU5oNUE?oc=5",
+   "summary": "",
+   "publisher": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-10T06:45:45+00:00",
+   "fetched": "2026-10-10T07:15:06.227559+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
   {
    "id": "be53e5c28409a1d5",
    "title": "Work permit freeze adds six more labour markets - https://ircc.com/",
