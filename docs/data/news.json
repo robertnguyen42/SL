@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T03:14:47.064587+00:00",
+ "updated": "2026-10-10T03:46:39.938811+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-schengen",
@@ -717,6 +717,22 @@
    "published": "2026-10-09T16:51:13+00:00",
    "fetched": "2026-10-09T19:45:07.514550+00:00",
    "visas": []
+  },
+  {
+   "id": "9fd9e42d62af42f6",
+   "title": "New Zealand Parent Resident Visa 2026: 90% Queue Rule - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1A1WEtSWGdWYXRDVzBuZy1uOE9GZFlKYkpKbS1Bd2Y1UXRUb0UyOWc2S1YtNDhzaHpPeTlzU3l1TThCVnNGV1BfcFIyV2cySVVkdHBpaFd4MUE1UUdOYWdCNFV3QTJHalVVSmRuck15TExFd2Z0QmFPRWNRSmpRSnM5Y2VXUER3RTdFc0tSRjV4WUpHUWstUXhQQmYzVUU1dFNNT0NKd1hkZw?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-09T16:45:51+00:00",
+   "fetched": "2026-10-10T03:46:39.938811+00:00",
+   "visas": [
+    "family",
+    "residence"
+   ]
   },
   {
    "id": "84c25ed11ddcf819",
@@ -2504,6 +2520,21 @@
    "fetched": "2026-10-09T02:45:40.415714+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "aaba5c17e4ac40fc",
+   "title": "DHS proposes $70,000 OPT fee for F-1 students: Who pays and when it could start. - El Cronista",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVVFeWF3cFk5ZXA3SmhCY2w0NUFLcEdMRnRYbWpMeDJtYXBBX0N0b1dxOG05dDUyY05MZGhYZFJ4TEZvUllFZzVDYVpockFOUXdRWG40eS00cEhEYkNVTWoxSmF2aTdzMGZkM0ZNTTFjYll4QlZWRkxTSDhPcGRWSFFjdHd2MHpDMjFCczdRUW9Sc2xsWlc1TW16M1IyM2FqUjRvdmZmNFBVSVUzdG1SbUgtZFN5RTFWV1ZBNDE5RHd4WDJNeDN3WVJuWDhoRDNlVERGUA?oc=5",
+   "summary": "",
+   "publisher": "El Cronista",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T15:58:29+00:00",
+   "fetched": "2026-10-10T03:46:39.938811+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
