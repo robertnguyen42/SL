@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T10:13:41.489232+00:00",
+ "updated": "2026-10-10T10:44:12.267102+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-employer",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "us-visa-bulletin",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-schengen",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "2c130fb36cb5a766",
+   "title": "Lawyers Break Down What You Should Know About the $70,000 OPT Fee - Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPemRfR1ZNRGhJTnRGOFY0NEx4Rm1BRUk1ZVpoQzZ4dkpvUzlranl6dHVYTDJ6RFpNZlNDcVV6RFhYTUR0MlZpUUJveGZnbjFxNW1hSmVlQXNYRmhibzdOVmIwVng2NDcyU21fS084T0Y4SUtNQmZiWTNDdkE0RmhtSFpKMXpSdnU1UTJBblZGNTZVeW9Zb1hKenNZdDBKSGRI?oc=5",
+   "summary": "",
+   "publisher": "Business Insider",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-10T09:37:00+00:00",
+   "fetched": "2026-10-10T10:44:12.267102+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "13717ef577da37ad",
    "title": "US tightens visa, green card rules: 5 countries Indian techies can explore for overseas jobs, permanent residency | Hindustan Times - Hindustan Times",
@@ -644,6 +659,21 @@
    "fetched": "2026-10-09T19:14:07.052850+00:00",
    "visas": [
     "citizenship"
+   ]
+  },
+  {
+   "id": "9960b2675a25249e",
+   "title": "IMMIGRATION NEWS—Microsoft, Adobe suspended from permanent visa program amid H-1B fraud allegations - VitalLaw.com",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQnFvNERZV1I4SFhDOFRTQkgzc1AyaklCb2JYRWdCNjllVDJnMTBMdUtHT3FtWFdfREpLNmhaZDY4ZjYwaWpfYndsMWVDU0htNkRGOWh2ZUNCdFRCMWh3Mzc4bHc3QTlTaF9Uc1ZsWnNHS1ZRcVhxMS1FckFqVi1HeUlOTDdta19TWjFxVTRWTTJ5RHZQZWg4a1BKUVMzTzhGMmVocUlPWkF0VjJBR2c3VjRfS2pxVE9udy16a3BhNUgyZHpPM09yLU02blpWb3hxMVYyd0xrMmtEcEpzMDgtUFY5d2NkNUdyb0ZvSUstRlhfV082R2F1aVhn?oc=5",
+   "summary": "",
+   "publisher": "VitalLaw.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-09T19:03:38+00:00",
+   "fetched": "2026-10-10T10:44:12.267102+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
@@ -1932,6 +1962,21 @@
    "fetched": "2026-10-08T22:46:19.743157+00:00",
    "visas": [
     "eb-work"
+   ]
+  },
+  {
+   "id": "c63ce0fdeb49b257",
+   "title": "Trump honors Microsoft’s CEO after Vance drops an H-1B visa hammer on the company - Gulf Coast News and Weather",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsNEdlZk85ZmhNbDdUTVhhMFlRbUFPVVJwajdlOVozSlJBZWJsalBhU1NXTnVTeHI2enliczFxMHNNYmpjYkVtUzM0V1ZXYTctWEtqNGJiNVJSWW9KNU9TeDRzbWQtQlJ5aWQ3YVZNU0dzaDZPNXJfQUVKWG40QQ?oc=5",
+   "summary": "",
+   "publisher": "Gulf Coast News and Weather",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T20:55:00+00:00",
+   "fetched": "2026-10-10T10:44:12.267102+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
@@ -11478,6 +11523,19 @@
    "source": "ca-pnp",
    "published": "2026-09-30T16:20:35+00:00",
    "fetched": "2026-10-04T10:52:49.776817+00:00",
+   "visas": []
+  },
+  {
+   "id": "5f1056f850511a89",
+   "title": "New U.S. Visa Year Offers Little Relief for Indians - South Asian Herald",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnNBT3VyR2QxbTNLYTVBeXlZWXM3enhDcjRzS2FYZW1ZMXlGSXRLNEU1WmRkT1U2Q25fM3NBNE1fNnhRME1PdTZGN2plbnFKeUFTTTFzdXpORm8xX2VsSi1jSjdDTDlZUW9MNndicUl0Yng2Y1dRTlZnek94aFRVbUpaNmxDeUE?oc=5",
+   "summary": "",
+   "publisher": "South Asian Herald",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-30T16:14:37+00:00",
+   "fetched": "2026-10-10T10:44:12.267102+00:00",
    "visas": []
   },
   {
