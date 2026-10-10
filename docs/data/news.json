@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T01:16:31.286806+00:00",
+ "updated": "2026-10-10T01:46:11.892614+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "us-visa-bulletin",
@@ -349,13 +349,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-schengen",
@@ -432,6 +432,21 @@
    "fetched": "2026-10-10T00:54:45.412680+00:00",
    "visas": [
     "express-entry"
+   ]
+  },
+  {
+   "id": "6c0743feca67a6ba",
+   "title": "Tech industry responds to Trump administration targeting H-1B program - NBC Bay Area",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVJSNnp5VFpOSExPcDR1dnVUcXZWMElIcngtZ21qUDNzSE5iblFVbkFuU0xBV05rWjF4SlpPWmpGVzl3b0cxQ2dld2MteEZaazViYUR6TU9HS3pNY1lTYW5TU3pjS3dQRVBuSTZqQm1yLXRqelVXNEh3LV9POVAta9IBiAFBVV95cUxOb0JOYzRyNjNJVzBLLXVLeUxVaHU5bUpuSUxrZHN3M1ZKVjlWS3d6ci1NMjhtQmxVLUpaRTB3QVYtZUdxT3gyRGh1czI0TXZJNWhjWFhwc2pUY3hZbVJqMEEza3Q3SThsRjBZaFB3MWFzX1RTUHJxcUNFdVNEOHFRUjExWWJNOEt1?oc=5",
+   "summary": "",
+   "publisher": "NBC Bay Area",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-10T00:40:39+00:00",
+   "fetched": "2026-10-10T01:46:11.892614+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
