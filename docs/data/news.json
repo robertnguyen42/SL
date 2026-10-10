@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T01:46:11.892614+00:00",
+ "updated": "2026-10-10T02:14:24.703523+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "us-visa-bulletin",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-schengen",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "nz-aewv",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "nz-residence",
@@ -957,6 +957,21 @@
    "source": "us-eb-work",
    "published": "2026-10-09T12:29:30+00:00",
    "fetched": "2026-10-09T23:44:09.790644+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "c4a91bdd2166e9fa",
+   "title": "US Green Card suspension: What it means for Indian techies at Microsoft, TCS, Cognizant, Infosys, Wipro, HCL, Adobe and Capgemini - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkVpZlJYeGJ1ek50elZLR0gtd21nVXMzU1BIODBOSlFuWGtQNml3Z0E4QUlxR0RfUHFwNGVJWjljd0pNN2JjZ0NOTFhMTXBVNXo1ZjB2TGlFajhVWDdKNHFxUElmeV9scG5vZnF1cXJ2ckFJWHR2MTNReUkxLUpPTFBrWFVLdUdza0NmYzNMY3Fya1dURnpqVWEwcEJTME14bTRnMFNjUUxjM1RzVHRqV2p3RTFXbzV5eHhlM2J4T0Q2dnVlbjVyTFlZaVDSAdMBQVVfeXFMTngtRnJmeVNxU2U5T2pnbGgyZnpFOTN2T19od2tnQzIzb1BMbXRHc2F1UjVIR3ZaTXBCOHN5UldzcGd0MDl3WC01VHdHLUFkLVNEZ214eWtXNldEUWI3WEdPV0s3UnVET3dFeTJrbDRBUlRydzlMbkh2YWZfSXR6YVRVNWhKUVE2bGZSb2hlQ21JQkxkc3llX25VUktIYlB2cDBpTDhLSy1aUzNta044QkhRQ2RkZDdFUDlzVlQyajBnR05sWFFwZHNtOElZb1RrMHAwYw?oc=5",
+   "summary": "",
+   "publisher": "The Indian Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T12:29:30+00:00",
+   "fetched": "2026-10-10T02:14:24.703523+00:00",
    "visas": [
     "green-card"
    ]
