@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T07:44:37.242179+00:00",
+ "updated": "2026-10-10T08:14:33.526298+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "us-visa-bulletin",
@@ -355,7 +355,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "eu-schengen",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "52494f5687649b73",
+   "title": "US Announces West African Countries Whose Citizens May Pay Up to $20,000 Visa Bond - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTlHMWpDd21wZkZBcl9WcEowYjBFUmwwdFBfMkU0MENNUVMycnpJM0JHQXQ3czRxTW8yNnVSa2I5anZlY0thLTA0U3ZBbGQxTUVVT2p1LW1BbGduQ3A5WXk2ZXl1bDI1ckhrNllleWZ2eW41NEw1QXFXd2Itc1h0SE5ISHdxLWJNLWc4ajI5b3NoekVjcG82d3d4d096UkgwX2pF?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-10T08:10:10+00:00",
+   "fetched": "2026-10-10T08:14:33.526298+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
   {
    "id": "a18ae40e02c987e8",
    "title": "5 GCC states set to start Schengen visa-waiver - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
@@ -1575,6 +1590,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "f50b6391f5bf9ba0",
+   "title": "Mỹ đình chỉ chứng nhận lao động định cư của Microsoft - Báo và phát thanh, truyền hình Tây Ninh",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTzVMTURrZVFOSWtmT0k1aTVvX2I0ajVHUU1pNXFmRENLSDFJWTZWQ1hDUFRUU3lSLUNzNExyT0JiX3c2VGh4YS03cExnQ3JvOGpnOWk1ck10VUxzc0RlYUZLZ0FYX2NWMGFHSUhPVkF0cXhHTjVacFY2dTFuTy1veTVRcGhKZDhvQlItSldnR1U?oc=5",
+   "summary": "",
+   "publisher": "Báo và phát thanh, truyền hình Tây Ninh",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-09T03:17:06+00:00",
+   "fetched": "2026-10-10T08:14:33.526298+00:00",
+   "visas": []
   },
   {
    "id": "080e8fcf2740f25e",
@@ -16331,6 +16359,19 @@
    "visas": [
     "citizenship"
    ]
+  },
+  {
+   "id": "711c7a7d07192418",
+   "title": "Ontario Funding More Than 2,500 More Seats at the University of Waterloo to Prepare Students for… - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlVZUDg0dkxZZkFtWEtnWG5YNDVsTjNoVmFjZGtVMm1BR19fckhIcThORkJGWHRYZDJzbGdzYUp4NlZPb0lhd1JZWW9TS2hmQ0tKc1VtZlV0VkJfZW5pSW5pVHE5ZXAzMmxOQnRuY2xER2RTRUhDZlhiLXpURWpFcFN3cVdaVHNYa20zVExxS1pVWGlnSnRDRXkyYVg?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-23T19:07:45+00:00",
+   "fetched": "2026-10-10T08:14:33.526298+00:00",
+   "visas": []
   },
   {
    "id": "917791b4422f9967",
