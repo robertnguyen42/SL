@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T18:16:05.784981+00:00",
+ "updated": "2026-10-11T18:49:19.460272+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "74d439a7a4063d75",
+   "title": "How Donald Trump's immigration politics could ripple into Australia - SBS",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOERYREktQ0EzYjE1RTZUYzdUTXRjcjhkV2c1OHFlcUtLb2tZbENzdlQzNkkyak51cjh5QkNjWmoybXR3Y2NQNENCNUxzUjJlbzNKSWhyZ2MwclRTOTNxclA5bUZZblhVcG9EUzlhRXByaHQ2dE5Gc0d6aUFqNm1vcHhWNGtUcVJkcnlEVjhiMF9scWFKMGJPaUdVMjFPQVoyY3VFWlhPS0JkeHdpU3pBTnRB?oc=5",
+   "summary": "",
+   "publisher": "SBS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-11T18:42:57+00:00",
+   "fetched": "2026-10-11T18:49:19.460272+00:00",
+   "visas": []
+  },
   {
    "id": "0fde571609fb0266",
    "title": "Fears migration changes may fuel coercive control, visa-related abuse - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -5271,6 +5284,21 @@
    "visas": [
     "eb5",
     "green-card"
+   ]
+  },
+  {
+   "id": "679fe8fb448d5c05",
+   "title": "‘Serious concern’: Nine European countries urge EU to ease Entry/Exit System border checks - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVzRwSkh6aXNPM0hJeWZqNmszR0NIRWJtdVhfWEhKanlRQ1NQZ29tMGszdlhJVkZ2c0NkcWU2dnh2dk9DZ2lkeTU2dmZySGZFeGl1WHJ3cnR6VG9kU1VVTmhnZWR2VWFMSERrVFZMdERUUUJTWGY1ampsWjhPeWVoemJqTmtlTDF6SlJUMEVYNzNaY0IwU0dnQ19BZHZEQWdiYXFsOHl5LVhReDhsUHZDR3J0MHpXWkZROGw4cW9xTQ?oc=5",
+   "summary": "",
+   "publisher": "Euronews.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-07T12:51:00+00:00",
+   "fetched": "2026-10-11T18:49:19.460272+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
@@ -13278,6 +13306,22 @@
    "fetched": "2026-10-09T19:14:07.052850+00:00",
    "visas": [
     "eb5"
+   ]
+  },
+  {
+   "id": "76a989633f508d12",
+   "title": "US Visa Bulletin October 2026: Some Indians get green card relief as new US fiscal year begins, but many remain stuck - inkl",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVjctck5nOGNlZnlHTmRhaUVNX0xZOU52NUZ6TzU3QnZlcGI1M1JDbWZjRmRTTFFTdG5lSE9kOGp0VFpBdUFBdUtwa0VjaFViN3RTblVhOFBYUkNpYnB4QkVBXzV6YW9fNUwxVDhYZDVWOThjQmY5T0xaTUNMZ0lnQ0puX3dVOVJpUXlKOGdScVhnd1l1dWdXek9qMWpjVkhzT0FXdFFldW1TaDR0OVk4eWNQVEEyOVlXUktNSXMtVUxqR053OG8zdHA5WHQ3SGZkd2NnZWczUkI?oc=5",
+   "summary": "",
+   "publisher": "inkl",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-11T18:49:19.460272+00:00",
+   "visas": [
+    "visa-bulletin",
+    "green-card"
    ]
   },
   {
