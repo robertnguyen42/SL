@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T20:13:35.014783+00:00",
+ "updated": "2026-10-11T20:45:16.778087+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -96,8 +96,8 @@
   {
    "id": "us-gov",
    "name": "Federal Register – USCIS",
-   "ok": true,
-   "count": 40
+   "ok": false,
+   "error": "HTTP Error 403: Forbidden"
   },
   {
    "id": "us-vi",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 18
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-student",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -331,13 +331,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 15
   },
   {
    "id": "eu-student",
@@ -379,13 +379,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "nz-family",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "07b1cef1aa971a6e",
+   "title": "Woman unable to leave Cook Islands after NZ, Australia decline transit visa - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZkZybk4yalpZS0xfUEZ5d3p5YzFIRjVwcUFUNDVwd1lOVjJEUUdYUk5fNTlvekhvWm84LWpPbjhmaHNFeE5NMElmd2tNRkduNE5lQURLMzNvcEVvbXFobU1yVU4yYVdReEpDd1gwUU5OaldyUGZXM01LMzNycXg0ak1aRVpYMTBkX2xiYkpGMkpCM0huS01PZjVKc1VodVZydU1iYTdjN1RHVldmdUdBNU43cGhaTkRk?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-11T20:42:15+00:00",
+   "fetched": "2026-10-11T20:45:16.778087+00:00",
+   "visas": []
+  },
   {
    "id": "c5bdc6523bcc421c",
    "title": "Ly Tran on the Coalition’s announcement of abolishing the 485 visa - The Koala News",
@@ -2099,6 +2112,21 @@
    "visas": [
     "golden-visa",
     "citizenship-investment"
+   ]
+  },
+  {
+   "id": "47cda7592ce4fac4",
+   "title": "Portugal Golden Visa 2026 : Complete Guide to EU Residency - Get Golden Visa",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TeUtqSkwxS05VMGVGTG1sbHlvdlhwOEMtdFR2TG5rNm1PTnVDR0ctdExhTVdEQTJ6NWJRSDlEaHFTS0t0UzB1b003b25nN0hlQlB1djZpckxJd2h2MXZ6MFVEdjU?oc=5",
+   "summary": "",
+   "publisher": "Get Golden Visa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-11T20:45:16.778087+00:00",
+   "visas": [
+    "golden-visa"
    ]
   },
   {
