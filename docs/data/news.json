@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T21:45:48.409512+00:00",
+ "updated": "2026-10-11T22:14:40.027254+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "us-visa-bulletin",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "nz-family",
@@ -1347,6 +1347,21 @@
    "published": "2026-10-09T18:52:46+00:00",
    "fetched": "2026-10-09T19:45:07.514550+00:00",
    "visas": []
+  },
+  {
+   "id": "f5da2c2fa53aef57",
+   "title": "Microsoft pushes back on H-1B restrictions: What's at stake for tech? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NMnRRVWlyczVFWnpULTlsOXliSzN1TU1RakJ2YVFLNG0xOVZCUXUyX3NfX3U5ZEFoVkdMVUNRUnVlQmVZdHFNX0YxX2VmTUF5RDNOQ2l6WGFHN05LdjRreDB5cUF6QU54NGEyMWZwMFFoVjNxY0ppUVN6V2kyZw?oc=5",
+   "summary": "",
+   "publisher": "Yahoo Finance",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-09T17:55:00+00:00",
+   "fetched": "2026-10-11T22:14:40.027254+00:00",
+   "visas": [
+    "h1b"
+   ]
   },
   {
    "id": "e01dc6699969fefb",
@@ -13796,6 +13811,22 @@
    "fetched": "2026-10-02T08:31:38.597334+00:00",
    "visas": [
     "eb5"
+   ]
+  },
+  {
+   "id": "110294d7893bc99b",
+   "title": "LawPracticeCLE Webinar | Immigration Adjustment of Status: Managing Heightened Discretionary Review - EB-5 Insights",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY3YycTBtaGNGbWdva2UzWmV3Rm1qQ3pmTFgxaU0wQkxsclQ0T3VSdE9xNmtxZF9PMUlWd1pKbHNvZnBnb2wtcFNPRUhQVXV4VFZWdGRJTEtRaFBoTWFpdHlLcWJuamhVdWNVX29yYjFwYUhEX3g0Vk1RYzlZQ1dGYmZDaWRfV0g4bHc0RVNvZ2d6MXUyeDNUcHpwNzFDcE92R3l6OE16UWZhejRtNFpSVFg0SW5wd0E2VXBpOFhkS1J2RHBnWjRYNXYweEp1dFJiNkE?oc=5",
+   "summary": "",
+   "publisher": "EB-5 Insights",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-09-29T21:46:59+00:00",
+   "fetched": "2026-10-11T22:14:40.027254+00:00",
+   "visas": [
+    "eb5",
+    "green-card"
    ]
   },
   {
