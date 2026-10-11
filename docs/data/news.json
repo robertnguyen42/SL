@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T01:45:43.233991+00:00",
+ "updated": "2026-10-11T02:13:58.600487+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 29
   },
   {
    "id": "nz-en",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "au-student",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "us-visa-bulletin",
@@ -319,7 +319,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "eu-work",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -419,6 +419,36 @@
   }
  ],
  "items": [
+  {
+   "id": "8439217a3cbc080f",
+   "title": "Schengen visa delays push UAE residents to seek alternatives for National Day trips - Khaleej Times",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV9XdUVTelJVS1pCakZ6eWJVekxvS1dBTEJ6U2JoQXdtejVEZS1adzNMMFp5UG1MeHg5a29wVVZYT2Rrb1BuM0VVWElHTnB0bk1WVHBGbFV2TUQtU2M0djZVeVdEaDBDOXJMcnNjaUhjc3J2NUlMbVBSRlI2M0Y0U284Y1c2ZEo0MFpTWXdPdW01R1RfR2U0TDlqVDhxSG50T2plWTVFREhLNVNvcm1tcHRBeVZ5Qzk30gHAAUFVX3lxTE5ZWURzR1ZHSWo1N0VIYlA2ZFRkb2hMRU1aNmxyQlRGdzc2dms5Z1cybEo1Qi04YnZnLWdZY2RveXdra0pZWW4tTngxVFFwOTBSZzBNaTZ6RWZsaHZfUlp4SzNFRGRHM3lya3lQQ2txN3dLVFAzNXpibHVjdGhOMm4xYzFFMWtLTEc4VERIYmlpb3FzaW9CODBmekhSbUlFS2E1dzZTZXRicWlWWkVuWTRtUVlXTlJ1ZEpDUkt0YVRVYQ?oc=5",
+   "summary": "",
+   "publisher": "Khaleej Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-11T02:00:00+00:00",
+   "fetched": "2026-10-11T02:13:58.600487+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
+  {
+   "id": "3577d26d15c19d07",
+   "title": "NZ First promises to implement 'shortage-led' skilled work visas - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXy1UWHFPcUlFQWJnZUlwT2ZrRzJPeE9vZTNZb3F0bzZyZU5LaXJzaW0tZ3otWXFiMGUybHZWMHhZRlpaV3NHT2FSVWhZeWk3R196NDV0UFdXQnByMmhuVEZYSnRmdmQzTlEyV1Z3VENsUEtvcnJrZlllRkh5TlV0Y0J6amJ2SmlTSTE2VkR2QldzOUlXUjVXTVlKa1RlY1pwN1A1U1FwbzlfZEVRTWI1SEYtaE5CSHlURzdiVQ?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-11T01:46:22+00:00",
+   "fetched": "2026-10-11T02:13:58.600487+00:00",
+   "visas": [
+    "aewv"
+   ]
+  },
   {
    "id": "c5f6f17f793b23a2",
    "title": "TỪ NGƯỜI TỊ NẠN ĐẾN GIÁM ĐỐC HỌC THUẬT ĐẠI HỌC TẠI RÔMA - HỘI ĐỒNG GIÁM MỤC VIỆT NAM",
@@ -1126,6 +1156,21 @@
    "fetched": "2026-10-09T17:45:48.848879+00:00",
    "visas": [
     "schengen"
+   ]
+  },
+  {
+   "id": "c2deef7254801ea4",
+   "title": "Home Office calls for restaurant to lose licence - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1adDAyM2ROU1B6d0g4S191dU9iRWx4X3RCNDB2aE5rMFJjNERJVUk4Z0pwaGF1YVBSYnp6VlhBNFFLNDlMdmY1eFRUOEdHaUR5dS1KaXVYTVl0Nk1WZGc?oc=5",
+   "summary": "",
+   "publisher": "BBC",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-09T14:39:08+00:00",
+   "fetched": "2026-10-11T02:13:58.600487+00:00",
+   "visas": [
+    "uk"
    ]
   },
   {
@@ -5077,6 +5122,21 @@
    "fetched": "2026-10-09T14:49:44.584730+00:00",
    "visas": [
     "work"
+   ]
+  },
+  {
+   "id": "5317494f96dfbbe7",
+   "title": "DHS Proposes $70,000 OPT Fee for International Students - Boundless Immigration",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ROWo2ekF2cm1yYVNxRnFUZHllMlVGdTIxV19IV1lDaEFVMUZNejhXY0V5Q3dIcl9jSVB4ZFhna09GQmRFc3dWaHd5ZGttQ0RKb3JsdEdkQTVyb2RHS01JT3ZR?oc=5",
+   "summary": "",
+   "publisher": "Boundless Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-11T02:13:58.600487+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -10305,6 +10365,21 @@
    "fetched": "2026-10-07T09:16:33.986164+00:00",
    "visas": [
     "golden-visa"
+   ]
+  },
+  {
+   "id": "0f358667a5b3836f",
+   "title": "New visa rules in Australia from October 2: No more visa hopping for international students, agents selling 'false hope' under scrutiny - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQNFlGY0dvRnJlcElXVXlod1dzOGJ2c0plTEREYnJEU1Q4OGhoanRlanJCcW00aExyVXl6a3B5Q2FIa3FoRU00RjVmYy12ZDd1UzFCT3N4NHFWNFd0VHhENzl2T1R4Tzg2Ylc0S1p0Wnp3WmpqajNuNDgtOXp3Nm9rbmpuX0dXRDdSQzRpMUc5eExOemlzeFZvVlp6VjdGbVIwcDV0NXpzMklDRUFybm9VbXRsOXRkMVpwSlFxMVRPSFhSUnNxdXVTX1hBT3FtaEEwMWlkODg1QXJ6RGtjQWJfcG1OS0FOdkdTV3N1LUxPUTlxYnExUXZqMm9LdUtDdzRYUEhsOElOZDNlQ3p5OXdnNUpDNWp6bUQ5VFpaRTdEXzdadzR1U0JHVTFBYzV6UURGVFRsdUI0YVM?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-02T07:00:00+00:00",
+   "fetched": "2026-10-11T02:13:58.600487+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
