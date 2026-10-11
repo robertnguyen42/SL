@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T14:45:21.037554+00:00",
+ "updated": "2026-10-11T15:13:35.267342+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "nz-en",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-student",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "us-visa-bulletin",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -385,7 +385,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-business",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "00def45b0b6816a0",
+   "title": "UBC's International Scholars Awards Open for 2027 Intake - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVkyTlJNS3BzNEF0eFAzNnlKNXZQTURCNzB5c3lkcFl6VnlZU2lVenY3azYyaXdGVi15anViOTlsMDZkeHQxZnlqM3JpVDJHTTN4UTJXWFFfR0dTOFFGN2tSZlpoX1o4M0RTSm5vTWtsN3A3NHpHd2F1bDdPTlR3aXpkeno4WXg5Vi1SWHdxOVB6TEU?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-11T12:19:08+00:00",
+   "fetched": "2026-10-11T15:13:35.267342+00:00",
+   "visas": []
   },
   {
    "id": "6e1bebb316120411",
@@ -15965,6 +15978,21 @@
    "fetched": "2026-10-08T20:16:37.642360+00:00",
    "visas": [
     "student"
+   ]
+  },
+  {
+   "id": "539bc3a8a04ba415",
+   "title": "Canada Announces 3 Categories of Foreigners Eligible for Work Permit Fee Waiver - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkhGMEo3elA0OTdkZDNvemNrSjhNVHhlV3BDRDA2REV6a0YxenN3TmdwTzk2bm9GeVJYMlNwMWJ0NjFEM0hOMXpBT1pqYkhYOVR3bGNKNXRkUDlmaHVkZVdwM2RxTzlHVkFuNElPZm8xV0EzRlB5aW5GMVU0amJmeURaSmlVeWV2emhlTjVYR2xzSlRIS3FFQmI2TUd1UTBfRk5PNw?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-26T07:00:00+00:00",
+   "fetched": "2026-10-11T15:13:35.267342+00:00",
+   "visas": [
+    "work"
    ]
   },
   {
