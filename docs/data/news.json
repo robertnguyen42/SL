@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T18:49:19.460272+00:00",
+ "updated": "2026-10-11T19:13:45.176115+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "eu-gov",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -385,7 +385,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "c5bdc6523bcc421c",
+   "title": "Ly Tran on the Coalition’s announcement of abolishing the 485 visa - The Koala News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXRkTXhaVmRuSXFIS2dxLVFiX0lVSXdjRGN3WDBPa2l3MXF2V0trSm0wdnRCTUxXYkVmVkhJcDlZbUZiV2x3SlZjV2tqLVllOG9tenJ2ZHZrNmVYM2xqYmZ3RllKWHNDVHc2NXVBWkIxckw0V0lsMGxNT1Jwczh1cGJ4ZW5FWnZtMk40MHAtcEo4MWhLVUE?oc=5",
+   "summary": "",
+   "publisher": "The Koala News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-graduate",
+   "published": "2026-10-11T19:00:18+00:00",
+   "fetched": "2026-10-11T19:13:45.176115+00:00",
+   "visas": [
+    "graduate"
+   ]
+  },
   {
    "id": "74d439a7a4063d75",
    "title": "How Donald Trump's immigration politics could ripple into Australia - SBS",
@@ -23196,6 +23211,21 @@
    "fetched": "2026-10-10T13:44:31.708748+00:00",
    "visas": [
     "investor"
+   ]
+  },
+  {
+   "id": "efef67e38ad67e83",
+   "title": "UAE Opens Website Where Foreigners Can Check If They Qualify for Golden Visa - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSmJra1k1VUtjY2FqSFgxLWZFVG9QNloyU1BvNjNxbmR3LThiaHgxM24wNjM0d2Z2bDZfTmxWR3QtY2ZFdTdMa0dWWTRKcFozQzZQd0doWkJiRXVSakQ1Y3ZpTEZiQTVPY3JFanZTb2VDZUVpRHpDOHlfMVRxaVhlWlJGRnRUNGNDanU2VzFpMjZZbFQ0anc?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-11T19:13:45.176115+00:00",
+   "visas": [
+    "golden-visa"
    ]
   },
   {
