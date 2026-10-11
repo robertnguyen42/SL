@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T20:45:16.778087+00:00",
+ "updated": "2026-10-11T21:13:55.067454+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -96,8 +96,8 @@
   {
    "id": "us-gov",
    "name": "Federal Register – USCIS",
-   "ok": false,
-   "error": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-vi",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "us-visa-bulletin",
@@ -419,6 +419,34 @@
   }
  ],
  "items": [
+  {
+   "id": "afa68a9865cde430",
+   "title": "NZ First to abolish Accredited Employer Work Visa - Indian Newslink",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2ttTjBoN1hWRU5xQXhfdzQzaHhXMGViSWQwM05uQkVkUWVwY2JFelpFaWVUZUZQMlhId0k2b1lnWk1QWVVpSzFCY0xfMlg1aVNRREF5ME1SUnpRUjg2cGRUa3o3VFYzS21aWDh5YTNFYWFEaDMxeWliTk5ZNlVLTkJaSVVlTWVTZUE?oc=5",
+   "summary": "",
+   "publisher": "Indian Newslink",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-11T21:03:55+00:00",
+   "fetched": "2026-10-11T21:13:55.067454+00:00",
+   "visas": [
+    "aewv"
+   ]
+  },
+  {
+   "id": "85ea275fe5952099",
+   "title": "Federal judge revokes citizenship of Durham man who concealed child-sex crimes - Raleigh News & Observer",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vSEdzTDktX21naWZqOGU3b3Q3VjJ1QXFQb3pLOTVFZVFHZENjY1VfOWFjQnozb0ZLNjhyemg3eC1mLW9SMWNiUmR2WG83eVZaQmJHRXl3cWEteDhKWmphNzhrOEdKVDBzS0E4dERMWUJGZEJOSFHSAXZBVV95cUxNMGl2bFNqUDBkS1lQNzRDc2YzOThqLXpWdnc3eFZ3bFdYT0ExRXE0UUY4anVpMnI2R0x2UTFZVENYZ2dtTVZCdUdSMkRWN0thcTY3NTRFb195ZGdINnByazJHeXhtaVdHS2Rmd19rWUhfU0pWYXRn?oc=5",
+   "summary": "",
+   "publisher": "Raleigh News & Observer",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-11T20:45:15+00:00",
+   "fetched": "2026-10-11T21:13:55.067454+00:00",
+   "visas": []
+  },
   {
    "id": "07b1cef1aa971a6e",
    "title": "Woman unable to leave Cook Islands after NZ, Australia decline transit visa - RNZ",
@@ -1463,6 +1491,21 @@
    "fetched": "2026-10-09T21:45:54.221639+00:00",
    "visas": [
     "citizenship"
+   ]
+  },
+  {
+   "id": "da7c20fb09bf1046",
+   "title": "Optimize Converts Its €435 Million Portugal Golden Visa Fund Into an Umbrella - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVNCSmhFeFZOb3R2bXpselY4WHJlSGZnTEpUOUtMYjV6WFNYRXpVUmR2a0NyMDg4Mjl4NmsxTlhkUk43bmpucDRPZDJjMjJaRXdUYW1mWTRCU2VjV3h6WmdFU01HVVlaWk5uV253TDMxYU52eTRyZXRtUExMUVlmMXFDUFVDNmhQNnVrZFdGN0tSZjVYZjNXRlh1WUpQQ3dKOTY1MmlqMk43dEFTaHM2NjFJY1hWU2NlTHRfLS1R?oc=5",
+   "summary": "",
+   "publisher": "IMI Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-09T15:50:47+00:00",
+   "fetched": "2026-10-11T21:13:55.067454+00:00",
+   "visas": [
+    "golden-visa"
    ]
   },
   {
@@ -3079,6 +3122,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "3f1df111ccf1cb49",
+   "title": "Federal Court Blocks Trump-Vance Policy Denying Detained Immigrants Access to Legal Protections - Democracy Forward",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVB1WVdULWxOM0ozYXBxWXhTYWJzLVJvNXg0MGoyTHdQWmVXVklDSlEzYkkxTGp6OW5weWZhbXlwSXZwMnJDdzRTY2NaRDk5WXBJWi14VXBOdlZOcWFwUkNFYlYxdlVZcGlZVGFhdHBHMjB4azVQejJZYjR1cG53UmRma28tb3J5WFlkNW04ZjRxa1kyTFV1NDhFVXc0Y0JxalJXRWRjQ0JpV3c1TEYzRERITzdUWUM5blk1dDdYTTMzVDJBbERuczIzYUdLWGhIbFVJU2kxc3RwNkRadWc?oc=5",
+   "summary": "",
+   "publisher": "Democracy Forward",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-08T18:05:21+00:00",
+   "fetched": "2026-10-11T21:13:55.067454+00:00",
+   "visas": []
   },
   {
    "id": "3767aef227e2c217",
@@ -23267,6 +23323,21 @@
    "fetched": "2026-10-11T19:13:45.176115+00:00",
    "visas": [
     "golden-visa"
+   ]
+  },
+  {
+   "id": "5349df4210da8535",
+   "title": "New Zealand offers new work visa for international graduates - Pakistan Connect",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5acVd0NVUxdFZlT3hTUS1PcXhYVERzeXlsd1dUeVllSm5KdnhKaGY4ZnJOQXJrUHJpRFdDbm9ESTZMQmczOUdPbVBrZlI5UzFhV3MxcHZjeUR5NzZ1Q1I3alB5QQ?oc=5",
+   "summary": "",
+   "publisher": "Pakistan Connect",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-post-study",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-11T21:13:55.067454+00:00",
+   "visas": [
+    "aewv"
    ]
   },
   {
