@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T04:14:56.473198+00:00",
+ "updated": "2026-10-11T04:46:57.481391+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "nz-aewv",
@@ -460,6 +460,34 @@
    "fetched": "2026-10-11T02:13:58.600487+00:00",
    "visas": [
     "aewv"
+   ]
+  },
+  {
+   "id": "b06a582760393b94",
+   "title": "'She is a Kiwi': High-needs child wins appeal after being denied residency - NZ Herald",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2piR1cyWlcyU1FsWlRIbUw0VVZ3MkdtUjJaRUVJRVNqbHpBNTRUV3ZwOEpSSGFSeGZLODlHN2lQZG5qT3hxWjhqc21qdlh4bktkQzA2bVJENDhxeE1Xc0l5bnBETG5adkZCcFl1NkNJWjUxVFNfSXFvbTdHQmhNQ25FRTRfNlQydzdILUxnU3Q3cC1aaXBIWUtpY2hVaF90UGpZUUZTZmJtcXRUV3EyTmloRGI0bUc3a1FfNEdIM0x4ekxvc3hOZmdGUQ?oc=5",
+   "summary": "",
+   "publisher": "NZ Herald",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-11T01:14:35+00:00",
+   "fetched": "2026-10-11T04:46:57.481391+00:00",
+   "visas": []
+  },
+  {
+   "id": "19c04ecbc2c0d7a4",
+   "title": "Italy vs Portugal Golden Visa 2026: Which Is Better for Investors? - CEOWORLD magazine",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPclFaUktwWHBSYjRFUTB4VHo4THMxczJwbGQ3dDRPQlZEYWIwZ0s5X1lLTzkybDRlUV8wQzkyQ1pNMElJWXNIdW5idUNBcG8tOGdPaFprelBSV0Z1Q2NyZTl3YjY4Z2Mza29VNWJDSFJWaW4zNW5pcHNoLUdPSXowY09jeWVYV2ZFam8yX0FYRGl0QjNfTmpDZUl3Qkszdw?oc=5",
+   "summary": "",
+   "publisher": "CEOWORLD magazine",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-10T23:34:36+00:00",
+   "fetched": "2026-10-11T04:46:57.481391+00:00",
+   "visas": [
+    "golden-visa"
    ]
   },
   {
@@ -2634,6 +2662,19 @@
    "source": "us-eb-work",
    "published": "2026-10-08T18:05:00+00:00",
    "fetched": "2026-10-08T20:47:59.304506+00:00",
+   "visas": []
+  },
+  {
+   "id": "ab5705833d73c2bb",
+   "title": "Unless you're Hanson, migration can be a dangerous sinkhole - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdldUemFuV0ZHU29IT1FLakNRcmRJb25JNTUwSWZCMmxKd3JoUEM3S1NGd1pDTTQ1bkE3ODhkWkNidHFJYV8ycnVudUJYVHUyenoyWlBLNW1nWWQ2RU9Oc1JqU19HODFJems1V1JFUjRZcUZ4S2xNQTd1YVBuWlJjOUVnZEVZeTVCQVlzUDZYVU54a2ZDOHFRVGVjc3Y?oc=5",
+   "summary": "",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-08T18:00:00+00:00",
+   "fetched": "2026-10-11T04:46:57.481391+00:00",
    "visas": []
   },
   {
@@ -13975,6 +14016,19 @@
    ]
   },
   {
+   "id": "dd27a0f5c4ac2a2d",
+   "title": "Tanzania removes special visa clearance for Nigerians - Vanguard News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblRwQkJRaWxNNFV0dkFxNHNsZm1Bem1yT1VTejd4Z0lpR3VCSnlNQ0E5ckJNU0dMWE1zczdRRHFBNUc0S3JOZzNjVHI3S3NySTUwbEJMVFlOS0J1LXpSSjk0UnBCSGZ2REJ2V256T0xwcXFNdHpPbUNjYnhCcmRRUnB5dXQ5UHN3ZHRCdE52R0lZc09o0gGaAUFVX3lxTE1qMkNwMEVVcHppRmFDNWVMeTBDQXpvakh6VEdjZ1JUa1hPYjVNVEVOWUFLQmdsbUJkYkpqSlpOY1Q3QlloR2dyY1NWUjJ3NGtzUVF5aUFQT19hQ1k0czlRWUpKcjgwdE9XelQ3MEtfQkxkMjFHbkNBam5kVy1ualozSVV3a2RIM1RTWm9oUWxqRU8xZ19Yd0lBamc?oc=5",
+   "summary": "",
+   "publisher": "Vanguard News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-09-29T07:00:00+00:00",
+   "fetched": "2026-10-11T04:46:57.481391+00:00",
+   "visas": []
+  },
+  {
    "id": "54196663e8d0fcef",
    "title": "New Zealand family visa application to move to enhanced online system from November 16 - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1ByWjh2bkdVbHBXekJISHRoaEQ2NllBRmlMREV3WWljNkx2OWc4TUtMZmRiNWk5N1hHMWZkaWtMWEtCelA5NmJMNW5BejQwajlVSDlnb3NRQUp2MlZNWjN1Y0dwOVVFNmVJczRWNUtUVG1ZckNOcnQ4eXFicjQ3SFdNRS1FNXVBQ2Q5ZjZ4UjFUckpUQldnRkNDWk5ULTkySVJ5eE5TQVo3UnFFbEd6cDRaS2RNVE1jVHE0V2RYZTNnWXEtYmpOYU1JMVNtcjlvTFcxU1dxUU56d3dDTGxpWDdFRnPSAeoBQVVfeXFMTzA1MjllcU5IX3JaR0R6WDNHX0h4UHlUdTZqemRUdy13MG93cG9BYUxHTHZlMTFFTDFiNW44MXRYZjI2RWRMbmltRjItTjl1OFJKSzhUUkxFOGY4aVp2czdkVU5IWUdvWmNVbjNvRzhXMzRYdFR4LTZfY0xCUkQxR2xzQ1p4YlNJYVJiV0oxX1NQNlR2YkZqWWtPRWZKV21HbFZQbTRLOGlKM25EdUx5bU9xa01HSjBWMmlEQXgzQlB0ZHFfQ1hrdHlpWUkwOVAxenU5OVVPWmdRcjVXaU9iMV9FYVNNYmdKWWJn?oc=5",
@@ -16977,6 +17031,19 @@
    "source": "nz-aewv",
    "published": "2026-09-24T07:00:00+00:00",
    "fetched": "2026-10-10T14:13:06.948594+00:00",
+   "visas": []
+  },
+  {
+   "id": "6c2d796b5e9fbf6d",
+   "title": "Europe’s largest economy relaxes immigration rules for African and foreign graduates, but applicants must meet 5 critical requirements - Business Insider Africa",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUNfcUdpSDVkSlVMTEk3Z1pSc1NRZjJVa1B5aF9sZXM1Mkh3SkVUam9nUDB0WTJGZEszNTJPbFRUa3RLY2E5YXVjdmVObjktWWxZMzIwSDN0TXNsbUgyUU5hellfa0xTTUFlYUluR2tkbGNycUJwZGJBMmRfOXk3aV9rRkVEeW93RGo4dzlITGJOV2VSMWhpNjQwdUtaV2VENzFLT3YzMENFZmJkTnpRTEpEQ244RDgtSHBHTWlQaVZBYTRpYVdNYW9UV1gydzQtX2R2dHVzUQ?oc=5",
+   "summary": "",
+   "publisher": "Business Insider Africa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-09-24T07:00:00+00:00",
+   "fetched": "2026-10-11T04:46:57.481391+00:00",
    "visas": []
   },
   {
