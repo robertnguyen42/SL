@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T08:15:07.051067+00:00",
+ "updated": "2026-10-11T08:46:14.390942+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-en",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "nz-aewv",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "c6670028aef9c566",
+   "title": "Anh xét visa khó hơn, nhiều đại học 'chọn lọc' du học sinh ngay từ đầu - Báo Tuổi Trẻ",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWF3bzFBcGM0RHdCQzVoV3FXMm5RUF9kYmhXZWdDZXhXT0ctaENrVUlpR056T0xCZmpQdkMxaFRsT3ZFN005M1p3SGN1SE1HYzhxejdHRERyaHdJMFljeDRqcHRxNVljVmw0VnR4TmRwMjFONWpqMDdxRHBHVE5mbGx2MlZicEZRS2p4dHJYM0t6NzdVX050QWt4VXI3YzVTU29KaXozQlowcmhlRlE?oc=5",
+   "summary": "",
+   "publisher": "Báo Tuổi Trẻ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-vi",
+   "published": "2026-10-11T08:39:00+00:00",
+   "fetched": "2026-10-11T08:46:14.390942+00:00",
+   "visas": [
+    "student"
+   ]
+  },
   {
    "id": "8819ff521a0bcd05",
    "title": "UBC International Scholars Program 2027: Fully Funded Undergraduate Scholarships in Canada for International Students - Global South Opportunities",
@@ -1831,6 +1846,19 @@
    ]
   },
   {
+   "id": "f2da6b5dd234f338",
+   "title": "Alberta Advantage Immigration program: Your Path to Canadian PR - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXdEhneEhxdm53b0x2YktlN1d1ZXkwdEczbWpSakpVTG1QazYyaUt2VFhGREN1blBMYUNpbDFPVS1EM0RFMEhLX2QyaDkzd1Y2dU1pUTFCT2pSeWpNbnhv?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-11T08:46:14.390942+00:00",
+   "visas": []
+  },
+  {
    "id": "f6cc906fe6524f7c",
    "title": "‘Vulnerable’: Hastie’s huge migrant claim - News24",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSTJ2VjdlaVI1WGlERGhZU1pRUVdLMTRKdms2WGxzandNZG9pVFIzQ0lndXg2cDN5WlJLWlFhbGNUanhyRGo2eDFJc1gweUhpMFVIMFd6SEFoQkZmaFJOME5PMHJHVWd0OGc3WW1Qb2tLaExsY0E3em5fWUJNUzQzTHEtQnVEc0k3bG5nMV90ZHFia1pINUhNUExfWDltRXRRRmgzZ2xOaFprUXo3bHVJbTMwVm1xUjlfaTRyNjdZR0FOWWRNaHIyeXkxVi1QRm83N2sxcFVuM0ZXaWw2N1dwSGhUYVpuc1VQaTQ5d1JGX01DU05tNy1IZ9IB-AFBVV95cUxNSTJ2VjdlaVI1WGlERGhZU1pRUVdLMTRKdms2WGxzandNZG9pVFIzQ0lndXg2cDN5WlJLWlFhbGNUanhyRGo2eDFJc1gweUhpMFVIMFd6SEFoQkZmaFJOME5PMHJHVWd0OGc3WW1Qb2tLaExsY0E3em5fWUJNUzQzTHEtQnVEc0k3bG5nMV90ZHFia1pINUhNUExfWDltRXRRRmgzZ2xOaFprUXo3bHVJbTMwVm1xUjlfaTRyNjdZR0FOWWRNaHIyeXkxVi1QRm83N2sxcFVuM0ZXaWw2N1dwSGhUYVpuc1VQaTQ5d1JGX01DU05tNy1IZw?oc=5",
@@ -2311,6 +2339,21 @@
    "published": "2026-10-08T23:42:39+00:00",
    "fetched": "2026-10-09T02:14:59.175678+00:00",
    "visas": []
+  },
+  {
+   "id": "dcda8f06db1f2106",
+   "title": "Knoxville naturalization ceremony welcomes new U.S. citizens - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT1ZSOW8tZ2d4UG9Jb0ViSFJnNDdDYUk1aHJ3dzVuTHotOVYtZE9WckNlR3p5Q2pPNHd5U0xlQTZuZHFDdUpaTHdNeG51YVpMVlo2MEE0eUF1bHhCMjA1OV9hMGp3dUVnUEJmSlBub3R3aDRrMWxqSzZheFlqU2xNNnJncGZacG1ROGU3aEdYX0xFSklwbVk4Yg?oc=5",
+   "summary": "",
+   "publisher": "Yahoo",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-08T23:13:07+00:00",
+   "fetched": "2026-10-11T08:46:14.390942+00:00",
+   "visas": [
+    "citizenship"
+   ]
   },
   {
    "id": "d53538f3a4a51245",
@@ -19308,6 +19351,21 @@
    "fetched": "2026-10-08T10:17:08.398938+00:00",
    "visas": [
     "aewv"
+   ]
+  },
+  {
+   "id": "1999416b5f3e8435",
+   "title": "27 countries represented at Charles Pinckney site naturalization ceremony - Live 5 News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkR2T09BcXlZTGxjdDFTRUFxZWZ5cmhnbFpwbGVDNmt6aTZLTW9objdiSmhwbE1NRmdOaW1WSjNvYUNheldVVkJscnBfajlJRDJkTE05NEQ2MUdhUkN2d29vT09OcC0zMWZQWkh4T2ZoVjd5b0Vyaks4YXlLZXIteHN0cDljVnpxbldfTnBMalFFSGxiaVdOUk5pMHFMRVV4NnYxam1WYVhuVldP0gHAAUFVX3lxTE83TzNHVUcxaTFPNnRqZDQzZHhacVhnRUU0Q0p2WWhEMHVFNFk5WVdTUXVoRnhLOHNrMlZCUDRVT255VlFlWWh0aGthbTdUVjNlQnhXTko5cmJjX3RvVEZMWFQzTEZFUy1HUGZUVTR0cUpBUGRNU1BFZ3lVNDV0LXdjbEdhcURfbzdHTjhRVGpCd2ZiUDJETGt3N0d6WGxUYU83dFpXbjNKLUxsRzROMnpvQVM0WEtyYUx3Qy1BRVBJWQ?oc=5",
+   "summary": "",
+   "publisher": "Live 5 News",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-20T07:00:00+00:00",
+   "fetched": "2026-10-11T08:46:14.390942+00:00",
+   "visas": [
+    "citizenship"
    ]
   },
   {
