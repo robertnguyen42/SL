@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T13:45:04.057742+00:00",
+ "updated": "2026-10-11T14:13:40.793320+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -331,7 +331,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-work",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 23
+   "count": 25
   },
   {
    "id": "nz-aewv",
@@ -385,7 +385,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -419,6 +419,34 @@
   }
  ],
  "items": [
+  {
+   "id": "46b7adc9ca611f37",
+   "title": "Australia has never driven migration into reverse by design. Would slamming the brakes on be calamitous? - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX2psanlPTEcxRHpfWjB6ZjN6U3dCTWxybFNwa0RJODFZM2huVkZjSVY4TXZJQVhoNTRMMkdFakdzQUNGM0hUc1Zhei1zRzM4ODdmU0hhdE1xcGZSOHlOY0Rvak1iZlkwRG8waXNmMGRTdGEtZ2pNQnR4ZS1vR21vTXVMNlh0S2FiaTg0amd3YVZadEI2T3p4eHNHWFBjZWx6em1HSHQ0VDZ3NV95OUw4U3JYTEluTV9TS3l0VFBDRzMxOXJyN0JQUlc3LXB3WHgzMFlkZVVqdHRKTEdVSUQ2Wnp3ZElwNUw4R3J5dmln?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-11T14:02:00+00:00",
+   "fetched": "2026-10-11T14:13:40.793320+00:00",
+   "visas": []
+  },
+  {
+   "id": "ed3c684ff652fac9",
+   "title": "US Visa and Green Card Rules Updated 5 Top Countries for Indian Tech Jobs - RS Web Solutions",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNd1E4Y014b2pEaEhhT0MyUk1iTk1BRWFId3pTZE5jZzMxbFBUd1B3M2JVWjFUU2Zsb3FlbHFZZVgzWXIyekxnMVA3YjR6eTY3dmROUFptTGVnckIzOC15WFBjNWgyeVpBSE1pbV9PRGFMczVEbXh4Q2tKM1RPUENkNFE2UnBLTF90cHFTeXZKMjRGOGNsUDI2cGthR2FTX0J3dTIwNGwwMHJBSGsydlNQQzlrSEJLekVaM2pZMzdWZHZiaG56WV9zMVV2ZWxNQ0E0NzRIb3JGS1pNRV9qdmVjLU1sSXh5WDdOXzRhazZ6RDFocUphRUhBcQ?oc=5",
+   "summary": "",
+   "publisher": "RS Web Solutions",
+   "country": "US",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-10-11T14:00:00+00:00",
+   "fetched": "2026-10-11T14:13:40.793320+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
   {
    "id": "6e1bebb316120411",
    "title": "Decision on Schengen visa exemption for all GCC citizens likely on October 24 - Oman Observer",
