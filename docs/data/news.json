@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T12:51:18.010636+00:00",
+ "updated": "2026-10-11T13:15:30.438244+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "au-student",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -373,13 +373,13 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-family",
@@ -432,6 +432,22 @@
    "fetched": "2026-10-11T09:45:57.500144+00:00",
    "visas": [
     "schengen"
+   ]
+  },
+  {
+   "id": "8348d5579fa5c01c",
+   "title": "Surgeon faces deportation as Home Office revokes refugee status for Syrians - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmplR3FnUnlkdHBZTWthbnZuUW5oVDY1eTlzOWpVOXdmTzdWd2hjMHUwWlZFNGxHcXNXbjR2V21JWkhFZDFacGFjWko5VmZ1b05kb21OODRoOU93ZHNQakRzX1MzYS1TMnJGN29XNWpNa2lhcDBBVnpRejFKdmFrQTRSNl81dzlRU1h4MFlVMXhYQVREMXYyM2ZjcF93ZlVnQ3pqN3RXZWp5Xy1PZzdRR0hxMlRjMzFMeDRlaHhQTVJWSWhP?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-11T09:01:00+00:00",
+   "fetched": "2026-10-11T13:15:30.438244+00:00",
+   "visas": [
+    "uk",
+    "asylum-policy"
    ]
   },
   {
@@ -6402,6 +6418,19 @@
    "source": "au-en",
    "published": "2026-10-06T08:56:31+00:00",
    "fetched": "2026-10-09T04:16:56.863072+00:00",
+   "visas": []
+  },
+  {
+   "id": "847ca6289fa0e68a",
+   "title": "Australia Permanent Protection Visa: 9 Conditions Foreign Nationals Must Meet To Qualify - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObk10NkJ4MlZEd3lvRlJwVVliMnpNU2NTODg0VmlwcEpmZldDUm9WTXk0bkstQm96TGZhaHY3SWJxLTQyZ1ZiWUFHS3NVWVdhYnRjd0VaVGpCUVpGRkpkRkg1V1Y2SjFwNTB6bG9OOWtuN0ZsY2xpZU1NWmFqS1p6NFNlYlROaU9vLWhHTUd1UEJGRHNrUkdOVVFhbDRIOE9NSTZMSndkdWRjMFJTNFJhUU5n?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-10-06T08:53:24+00:00",
+   "fetched": "2026-10-11T13:15:30.438244+00:00",
    "visas": []
   },
   {
