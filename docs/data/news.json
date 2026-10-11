@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T23:42:53.233042+00:00",
+ "updated": "2026-10-11T00:22:43.777417+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -84,14 +84,14 @@
   {
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-en",
    "name": "Google News – Australia Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-gov",
@@ -102,14 +102,14 @@
   {
    "id": "us-vi",
    "name": "Google News – Định cư Mỹ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-en",
    "name": "Google News – US Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-gov",
@@ -120,8 +120,8 @@
   {
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 18
   },
   {
    "id": "eu-gov",
@@ -138,284 +138,284 @@
   {
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-gov",
    "name": "Immigration New Zealand",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 31
   },
   {
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 11
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 6
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-student",
    "name": "Google News – Úc – 500 · Du học",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 6
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 12
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 14
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-eb-work",
    "name": "Google News – Mỹ – EB-1 / EB-2 / EB-3 · Định cư diện việc làm",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-h1b",
    "name": "Google News – Mỹ – H-1B · Lao động chuyên môn",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 7
   },
   {
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-green-card",
    "name": "Google News – Mỹ – Thẻ xanh – Điều chỉnh tình trạng",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-express-entry",
    "name": "Google News – Canada – Express Entry · Tay nghề liên bang",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-work",
    "name": "Google News – Canada – Work Permit · Lao động",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 21
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 13
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 9
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 25
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 9
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 11
   },
   {
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 4
   },
   {
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 25
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 15
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   }
  ],
  "items": [
@@ -595,6 +595,19 @@
    ]
   },
   {
+   "id": "499f19db2bf46cdd",
+   "title": "Certified translation services for USCIS are available online from Brazil USA Translations - The Daily Tribune News",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPa1ZPSHcxR3ZqNUZISkozaFVsTVVRZFhJZTRkeXJDU3Y1c05hQ1lkdmoyMDVsUEVST3FXZE1mZmlnNmx3eHpEVjVpcXl5N24wY01yM3lIM00walhhMms5N3RPTzhLMl9LTkF3RDRfaDR6YkxoWHc4LVBTeFk2T3pmOGdHOEI1SnpQMXRKejUyVzYwc3pXdi1wVXBXMWs4QWR1dy1EQTdwVF9vYjNFT3hDbXpGQWt2bWEyNTlMSmp5UHR5QjlXQ1NVVk5Zb1NMcEQyYm45aW80Tk03dmxXOU1iYTZ6UlVJU3hxQXAwbjB1M3Z4ZjM3OHpCR1E3UFFhX09OZlRNMnVKSHpnRkpCRnBNTTNocHVhTFYwNERSN2FfMi1hOUxPZFdheQ?oc=5",
+   "summary": "",
+   "publisher": "The Daily Tribune News",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-10T08:20:02+00:00",
+   "fetched": "2026-10-11T00:22:43.777417+00:00",
+   "visas": []
+  },
+  {
    "id": "52494f5687649b73",
    "title": "US Announces West African Countries Whose Citizens May Pay Up to $20,000 Visa Bond - Legit News",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTlHMWpDd21wZkZBcl9WcEowYjBFUmwwdFBfMkU0MENNUVMycnpJM0JHQXQ3czRxTW8yNnVSa2I5anZlY0thLTA0U3ZBbGQxTUVVT2p1LW1BbGduQ3A5WXk2ZXl1bDI1ckhrNllleWZ2eW41NEw1QXFXd2Itc1h0SE5ISHdxLWJNLWc4ajI5b3NoekVjcG82d3d4d096UkgwX2pF?oc=5",
@@ -637,6 +650,21 @@
    "fetched": "2026-10-10T14:13:06.948594+00:00",
    "visas": [
     "golden-visa"
+   ]
+  },
+  {
+   "id": "dbcfe20ea3590b0b",
+   "title": "UK universities withdraw offers from international students to avoid blanket ban - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOWFjOWpqVGlNdVJZWms4Q0o2MTBIZTFxbHRieHhIVlNZVTdndUZjazNnZ3hMeHVsQ2NzWGlCTTJOMXNXNmo5TDFqcjNaLUJMZWFIa3FXaG1YMi01M3NQRWRZSldxN1VzeWxuczZCNHpsa3NHUFhpQVlkeGtPTFJVdzFBRVA?oc=5",
+   "summary": "",
+   "publisher": "Financial Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-10T04:00:38+00:00",
+   "fetched": "2026-10-11T00:22:43.777417+00:00",
+   "visas": [
+    "student"
    ]
   },
   {
@@ -21528,6 +21556,21 @@
    "published": "2026-09-17T07:00:00+00:00",
    "fetched": "2026-10-09T23:44:09.790644+00:00",
    "visas": []
+  },
+  {
+   "id": "4f338e43786363d3",
+   "title": "How Trump’s New Green Card Policy Could Affect Immigrant Families - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS09yOU52NU12SWFRb1dWVWRibFZyNV8wTUxlT2RjTnpYWkpIX0duR0VscVJRQXlwcnFfYTU0bnZIREFDNzRzNFBxUWlRcUNtY1FiSklkcW1TUUd3RzJQaV9sMi0zMXZPSWZKTy1OOENjV1lPTG9XTXhndlRNMjBWdVFWQUI3elFyV3FrTUNKdGl2QQ?oc=5",
+   "summary": "",
+   "publisher": "The New York Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-11T00:22:43.777417+00:00",
+   "visas": [
+    "green-card"
+   ]
   },
   {
    "id": "5f30623419cf53e1",
