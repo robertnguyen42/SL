@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T22:14:40.027254+00:00",
+ "updated": "2026-10-11T22:45:02.039011+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 17
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "au-skilled",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -379,13 +379,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-business",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "nz-family",
@@ -459,6 +459,21 @@
    "published": "2026-10-11T20:42:15+00:00",
    "fetched": "2026-10-11T20:45:16.778087+00:00",
    "visas": []
+  },
+  {
+   "id": "f6ab1fc625f8078b",
+   "title": "NZ First Targets International Students Work Rights - Massive Magazine",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGpSYlkwZ3g4WDNVU2hsaU1BZmxES09Sd1dqNFJKTk1fdG5nRU0yMUw3U1ZxdU82T2hqajA4SUVyTTAwMjM1QjhteUFfUjJKb2gzT2czazhObnJIZ1Jwa1NqX2dNQmJnMjFONllINHY5OUxIRjJiY2NPZzUxSFViSmstQTVFLUFoc3dfalA0eTNwSnIzNHhxVERtSQ?oc=5",
+   "summary": "",
+   "publisher": "Massive Magazine",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-11T20:00:39+00:00",
+   "fetched": "2026-10-11T22:45:02.039011+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "c5bdc6523bcc421c",
@@ -7983,6 +7998,19 @@
    "visas": [
     "express-entry"
    ]
+  },
+  {
+   "id": "2a56c22085dde709",
+   "title": "Canada Immigration Processing Times As Of June 2026 - INC News",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUVZjcks0QUlqbHJXM3VZVXJHWWJXdXFqTzlmUzNqWDFwWVk5NFRHQkY5NlljWmRQNWp1X3BMSGx3MGZBVTFZak05MGNnNThJa1dDSWt0QWxRV1p5RlZpbkFULW9vOG41cDFleHkxMnJzUE1XMko1NWFKLTVJMG8?oc=5",
+   "summary": "",
+   "publisher": "INC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-05T13:49:59+00:00",
+   "fetched": "2026-10-11T22:45:02.039011+00:00",
+   "visas": []
   },
   {
    "id": "e42f4f3c122f5e3c",
@@ -19027,6 +19055,21 @@
    "published": "2026-09-22T07:00:00+00:00",
    "fetched": "2026-10-09T19:14:07.052850+00:00",
    "visas": []
+  },
+  {
+   "id": "91b03d3a9355bc88",
+   "title": "Portugal tightens immigration law, narrows routes to residence permits - ETIAS.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU20xWUxmREoxTVdIQU5tMGp2d2wzZVVCenA2RzNlcnRCMjlQZ2VXWllaNzliemU5ZnpaTk5vQ3lub1VwTG5DOUttVXU3VDEzLS1SckZWeThZR2dDTnlVamRUYWZTNWhZNXJMVE9ISmhHZm4wbmY4OU1mdm50SVpKdDVwWlFHc0ZhcWxQQTZoLU1SUGM3T0NSaEl4LV9EUQ?oc=5",
+   "summary": "",
+   "publisher": "ETIAS.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-11T22:45:02.039011+00:00",
+   "visas": [
+    "schengen"
+   ]
   },
   {
    "id": "15deb630b6ae09dc",
