@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T09:15:01.304195+00:00",
+ "updated": "2026-10-11T09:45:57.500144+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -373,19 +373,19 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "6e1bebb316120411",
+   "title": "Decision on Schengen visa exemption for all GCC citizens likely on October 24 - Oman Observer",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb3VTOFhUWFlJcWt5MlZiNXl4LXJxU01nbnRsandIWlFiWnRHZ29nN3pPZ0R2cU1lMUtMZVcwN1BDQUs0bFdQdGsySE5PWmkzai1CM1JTT2xad0Q4R3Z1VmJjQXVhQ1dORnRVNlRPcXJ4TGZGZUNvNXhmRlhES2I5aDRweEtmV21ZU3hFUXNwbURPX1piYnRPOVF3YXA5b1JFeW1Hck54M1I5ZnltOTRjdmswWEtGT1BZQnVUcUtWQ0Zza196REpjQW41OU5tTHlGUGfSAVpBVV95cUxQeDFCTlc2VkEwVndycFc5U2ROWHQ4RHFpOHN0NVB4bExoR2l0dHJFWExMbEJsYjFSd08yRk5wRGxVZGdkQ3UzLS11SFpaT2wyVGtuTEpuSnZrbEE?oc=5",
+   "summary": "",
+   "publisher": "Oman Observer",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-11T09:33:41+00:00",
+   "fetched": "2026-10-11T09:45:57.500144+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
   {
    "id": "c6670028aef9c566",
    "title": "Anh xét visa khó hơn, nhiều đại học 'chọn lọc' du học sinh ngay từ đầu - Báo Tuổi Trẻ",
