@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T07:45:17.324157+00:00",
+ "updated": "2026-10-11T08:15:07.051067+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "nz-en",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -175,7 +175,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "au-student",
@@ -420,6 +420,21 @@
  ],
  "items": [
   {
+   "id": "8819ff521a0bcd05",
+   "title": "UBC International Scholars Program 2027: Fully Funded Undergraduate Scholarships in Canada for International Students - Global South Opportunities",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsR1AyekFzeFdlWVRsV3lrMFZ3VzJRTHB6YWVKQ2ZJUDB4eEs0eWo0dWZ6N0JXRU9xa2VhQjNENmRabFdoZmpBdzA4bHZaeUxKZTlYaVN0cW4wU0ViVEttRi1xMl9qT25kU2c?oc=5",
+   "summary": "",
+   "publisher": "Global South Opportunities",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-11T07:41:33+00:00",
+   "fetched": "2026-10-11T08:15:07.051067+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "ee1bbf469051a928",
    "title": "Coalition seizes on Flydubai terror plot to push visa overhaul - AFR",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1kxUVU5XzhQOW9qOTU5ZS1ocmRGdTg3UDlrQU1PaFA2R1dWS05Fb1EtRWJQel9GcWo4TElpaGl5QktLY0M5WjRHVWpTd1YyaEtyZEpqOVpKNGRnT3VNSkpNdHh4N2k0RGZOMlBuWmZGOEJjSi00VUo3bXVyS0w2VFhyVlhGYkJtcGRQdkhVYkFINXVQNXY0Q3RhbmpabG5faGQyblp3RjJpaUtTYnQxT0swZTY4ZFE?oc=5",
@@ -599,6 +614,21 @@
    "visas": [
     "eb-work",
     "h1b"
+   ]
+  },
+  {
+   "id": "7f137abc8a69f95e",
+   "title": "Finnish PM Petteri Orpo calls on EU to end tourist visa issuance to Russian citizens - The New Voice of Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGNmVmVyZU1pMGg3MlNqWmFMd0hoeEdLZ0FQS29PbUhmQzhWQi1DTmxDcDEwdjdyWF9QZEJzVjlxaVE2cXEwTTFWdlpTU2gxWkt2UjJsWkZUUEZ4YnJDbVE5dVFRMTgyc2FxUmF6SVlOQThHeFoyeWt3b3dseFFIZHdVWGs2c3pCcndLNGNGVzhmSS1QOURHaVZEenQ0RHo5aXp6dkdQY0kxMFNm0gGoAUFVX3lxTE1BLUMzamo1Z1hQS2pvbEZVSWdYa2hYbFlzaEx5aDIyMWxiaVM4MlpsRlNXRjMxd2NyOVM3c1pXNkJ4enozV1h1ZllwRFl2YnBUbG9LNGJ0VUI4YlRoTXBxQTBLVWw1VHpyR1o4ZHJnWk5jWE9zSHBwclZMUGtERmpWZ2F2eHp4enF1aEtHa3Q3bDZINEI1cXhMMHRMN1lVaFJPSmVLeFVHWQ?oc=5",
+   "summary": "",
+   "publisher": "The New Voice of Ukraine",
+   "country": "EU",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-10T15:39:00+00:00",
+   "fetched": "2026-10-11T08:15:07.051067+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
@@ -1784,6 +1814,21 @@
    "published": "2026-10-09T07:00:00+00:00",
    "fetched": "2026-10-11T03:47:31.540587+00:00",
    "visas": []
+  },
+  {
+   "id": "3fd85661b9b0f20e",
+   "title": "DHS removes interview requirement for asylum seekers, possibly speeding removals - News From The States",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUpEUjYtaEhGVy1zWWloSmhCWEhtRGtZaU9SeHZIZVVCUFhqd1BrQkt6X1BCN1d0TWhuZWp4X2hSTzBPM3hQVmJWNW5tSDkxVHlOTUVtTkFrM1FxSFlnVXdyYm9GM05pSS16eFBaZUFtRVdqd3ZPOFNYaFhVbFJBdXdPSGdsRDFENC1CanlZNGFOSUpzd2RENzE5OEItb1YyMU5GMWpQRlo3SnR2SkNpZXZMM3hsaENZ?oc=5",
+   "summary": "",
+   "publisher": "News From The States",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-11T08:15:07.051067+00:00",
+   "visas": [
+    "asylum"
+   ]
   },
   {
    "id": "f6cc906fe6524f7c",
