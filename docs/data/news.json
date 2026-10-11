@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T21:13:55.067454+00:00",
+ "updated": "2026-10-11T21:45:48.409512+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "au-skilled",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -1780,6 +1780,21 @@
    "published": "2026-10-09T11:40:52+00:00",
    "fetched": "2026-10-09T11:45:32.900589+00:00",
    "visas": []
+  },
+  {
+   "id": "d179cf7bad9fd5a9",
+   "title": "Schengen visa waiver for Gulf citizens near, GCC chief says - Minute Mirror",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNVnltaVI0REwyQ19WdGtRdG4tcWZzU3NiYXJROWpJdnA2NVFsT2F5QTdaR081bVVlN1FNcGs4M25oaDdXUHFhLWhHZ2xSX21ad29ZZzJXb3hoMGxYWmJnWUE3Z29yck5ySzhESS1hVGFybVhxZ1R5YjRB?oc=5",
+   "summary": "",
+   "publisher": "Minute Mirror",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-09T11:21:54+00:00",
+   "fetched": "2026-10-11T21:45:48.409512+00:00",
+   "visas": [
+    "schengen"
+   ]
   },
   {
    "id": "a986917d709ba2fd",
@@ -4403,6 +4418,19 @@
    "visas": [
     "green-card"
    ]
+  },
+  {
+   "id": "2714f12ca4f2298d",
+   "title": "Post-Higher Education Work Visa in Australia in 2026: Validity, Latest Fee & How to Apply - Shiksha.com",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFhHa1dEQkVITXdOeFZ2RVd4b21YbWN2Y1o1dGp0LWVWVExQZ3VPNDlBYzdFWDNOLTNGbGNyaEdMeEFFNk9xNG5FMjJnal8tODViRmZPaHNmSW5ORmlWbk4yTkM1OWQyc2FMVjZ0anl3ZWF3MHJ3azZoN2RGa2JGVVVmbFdSZHNmNkRNbzA2Z3BQWHhjSldCeTZoc0U0R2M?oc=5",
+   "summary": "",
+   "publisher": "Shiksha.com",
+   "country": "AU",
+   "type": "news",
+   "source": "au-graduate",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-11T21:45:48.409512+00:00",
+   "visas": []
   },
   {
    "id": "8ea53358b0b2c335",
@@ -12343,6 +12371,21 @@
    "visas": []
   },
   {
+   "id": "ec67935eb00171d8",
+   "title": "Germany announces 1 activity not permitted for Schengen tourist visa holders - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekdTSkJQZ05UbzJXbU96YTk3UlA2aVduLV9kMmFERWFfUFRlTldJWDdGWUhRMXFTdWZHQS1xUUtSb3FnNWIwMnFoZkJkNkZkZFd2WjZFVHNON1Etbi1aclVYcF9lWFFsaWN3LS1pbGRTNU9LX0p3dHNRZ1FwVTFBamVmZEQ4RVVzclg5cmo2aVQ4LXo5TDU3SWNnZXdqRUtRS3MwLWVvWnFGdWh5TnFz?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-11T21:45:48.409512+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
+  {
    "id": "1fccfb2ef11b7b74",
    "title": "US Visa Bulletin October 2026: Some Indians get green card relief as new US fiscal year begins, but many r - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaFp3QTJSTEF5X3VIVy1hWW5uRDVLVXZ6UnE4MGNZdnVwNTJmUG0yYWlGSkxGNjRaaXNObkZfbjMyb3U3OFBQcWZMdkEtbGh3VzlqUzdPU2lPREhBSEFpaHpkMUpmSW5hdnZjNjhHYUlSYVVDd3JTV3A5S2pWYW55bVZ4ODc2WVlHZEJxRk1DWEJXUXdhSFFJSXprMG1ZdE9iMTcyaHJaYlJmRVJsQjZpMzlYYXNNOVBzZXVOdVVoWk12RHIyUG43R2JJYldvMDZZZk9MOG9jZEdsYWxSaXNPM0o0Z0FIZjRlMXF1Z0NHUDNFbHhnTGZZSkRJVzQwZTMyWkVydjB5WFY2SVlGeWfSAZMCQVVfeXFMTkFqZVRiaU8wN1RKSHZmWkJkNzFRX3dydm9qZXJjNkdYYi1YNEhDMU9CQ2RFaTV6a0FmaldkTXdjQkZremJJS05iX1NFRVRLM0hZM0M4S1ZEbENjS1hrZFAzOEVlWUJoOHIweWhEcmtxeHp2bTYzb3NrVDZiUXRfVm03QVlQNDBQNExYX3dsRUJiM2xiNEpuN09YS3hEZTZsR1lTWm1KWU9Oc0JaU25oZUF6ZEZ2OHprZU1CTlhHM3VaZ0xjMDhyTUFCOUlIYnFSNlpNSENtb05ucmlxb0F6Qk4yaHFVTGNqVGR3THdoel9Ya0tudjc0WkpBSzNQN1RTbDVDb0VuOGRTOGxRNFVsdTZmbnc?oc=5",
@@ -16010,6 +16053,21 @@
    ]
   },
   {
+   "id": "e2f321cb57e68132",
+   "title": "EU Clarifies Official Timeframe to Apply for Schengen Visa - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGtyQzYwaDRYUmFlUndMX3JzX2Y1VEZDUUhtVzZvOVFheGhnNjY3QS04M2ZMX3lZdDNLU0VlS2hjMkludFJyVjZWVzhVRDFtZTRzVThXaEFrQWJBR3pXMkhObkZDUzhoNDBVeV9YU1NfcGRUWWQ3eHRIUURaUHRlM0NIekd0cHJFTHlDQzN2N2l2dw?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-27T07:00:00+00:00",
+   "fetched": "2026-10-11T21:45:48.409512+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
+  {
    "id": "030fe334c779eb91",
    "title": "US Immigration authority has 10-day deadline on home address; says: You are responsible for keeping your - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcVhXUjJBdC1zWTAwRDlKQ3RpNm1tQjduYzFVcUZtVnVrcHE0R1ZGa3lTOWc0SmFVMzFRbGd3X0lYNV81R0twUEJITEU2WnAweHc2Z0J6T3h3b0M4VkdUQmpFM0RzUkk2VVh0VGR0NWxJNHVoaW5na3IzeWNqNE5BemJ0VXR6NmhfclQ5SW1zcnB2UENlRm1sVE9PRjZGREVGNVdPUEdKb3FFZ3QxMXlCOTV5dk9zYUlvd3JvUHRSR0FCMC1vQzhSUHI1WG4wbTQ4SWxXcHMzd3VYbXNsRG5jQjlRTFlDQnJfamFYOEdRSlBFaFQ0ZHRMbW91R1QzTE41ZHVyWFRSVm40T0JXSndjOVFoMXrSAZoCQVVfeXFMTm9zNVI3ZDUtMkEwTHp4MkJvb20xR2IyTzB4RkR5cHlaQUFLSGxXb09SZjlHVWN4QjctWGF2UFRRMkpwb3NxclpzaUZqYmE0M18zdDBpckRmU3lmMnlzSWVHQW1zalR4YWJrRWUyMWhNTmpleVVBMUNDMEhPdjl3RlhudFdaTVNzb29OOWZaYzJNckhFd2xxWEp6X1Z1VXVLemp1MG1Bd251cFc5Y0dJa1N5emYzMHEzTlIyZmpCdFB1bTZHbERwMHhUZXRzNzdoMkJoV0otWVFxR0p5QTVPM0dmTFdUbVBqLXZxTW5va1NxUDZVZWQwbTRkRExINnBsU0ZrUFBvQVk0TTJHcDlrUkl1Y0xjTVVBMlln?oc=5",
@@ -18367,6 +18425,19 @@
    "visas": []
   },
   {
+   "id": "2d420155be65496b",
+   "title": "EU’s free Schengen calculator helps travellers stay within visa limits - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTJUUUtLRUhXWnkzWFdwaDR1V3V6ZGd3RFJOY0FBU2pxaTZ0aTlfdFFxdktaeWh1ZFl5WExUWGg5YzFnYnNobjMwZW53eWtlV3Qtb056UmdhYWpyUHU2dVE5cWxlOWlydXk1Vmg3djFHdHFiVGVjSHEtUEhCTElqMmp1S20telVoZURJ?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-11T21:45:48.409512+00:00",
+   "visas": []
+  },
+  {
    "id": "b436ab5a5a925ab9",
    "title": "ILAC declares bankruptcy, displacing thousands of international students - CityNews Vancouver",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjl0TWl6QVhoUjladGdHLVFrSlF4cjM5andCdUJkTGloRndGOTBwdE0yMkwxNTdtNzhUaXZJZVFnRWxjOFdLLXlaWUZsSjlydk9iWDhoX2JhRGYyb1Q5MDgxNm5OUkp6MUNWN0NTU3gxckVXQUhSUkZBUk02a21ibmYyMkYzN21LTVA5QUE5dC1YR3pfTm9Tcm1FNnEtYldkZjN4ZU9OcGFTMUU0Z1FyZ3FlWGo5UTFmYWN3?oc=5",
@@ -19834,6 +19905,21 @@
    "fetched": "2026-10-11T08:46:14.390942+00:00",
    "visas": [
     "citizenship"
+   ]
+  },
+  {
+   "id": "a6b607060f727077",
+   "title": "EU to Add New Rules and Extra Fees to Schengen Visa Applications in Fresh Plan - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSTBic18tRC1pM1BveHdXeW1tYld5LXdlVXRXaDlrZUpBNk5VelE0RnlhSXFXcms3Y3JiWHJLR3Y4VXh6Zm1SYUNocy1ET29DY1dDeHlxNDA4eTg4bzBGQURSZ3YyWU5HRmY5Y2U4R2lzd2RRX3A1dHJyZ3hiM1VWeENoSnhIMWhLY0MwcHQ5cldRVnVHelA3REEzRmpOQQ?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-20T07:00:00+00:00",
+   "fetched": "2026-10-11T21:45:48.409512+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
@@ -24421,6 +24507,21 @@
    "visas": []
   },
   {
+   "id": "5102d869d32a098a",
+   "title": "EU names 51 African countries that need a Schengen visa to enter Europe - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDMzdEQ4RV9UUUlxSi1Fbm5Qa283dUJqc1NpMXVONmR3NlV1ZmNCeDh6QVFjck5iczdIYW51aUF1bHBDUE9PRWNhdHBTeXlncGQ3UlVlUVN1OHA3LWZ0czQyS2tZeDkyS1BWeWIzVTA0SGtoaWF4bXFvWUw2Rzlpd0Y0U294WlJpLVhxVlJmRExCeDFvaG4xT2dUVmdQcmt6LVRiMnREWVlaZ1E4dzA5LVlhYUM0d2RxTUE?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-11T21:45:48.409512+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
+  {
    "id": "c9bbe165fb97e3ad",
    "title": "1,500 skilled migrant applications in a fortnight exceeded even official forecasts - B2B News",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmpESjh2SkRJNzlBTi1PRGs5dTR2MVY0OXEzaVJvZGZhbXJpLTEzWHZYb3V5V2RaTFlhUHlzcjBfclY4MS05T3A0R2RMTXY3Q3hXMGViUUZ4RktUOGlUV3I4Z0lac252V0J6Skl3UWN2TTR4UE45TjRDY2NMUEYzZHIzcnk0QQ?oc=5",
@@ -25782,6 +25883,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "19fa37a6b53cb5f2",
+   "title": "Humiliated EU forced to shelve border checks in U-turn on flagship scheme - GB News",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42dU5UZ25IaVktbG81OEtjTHg0a2lQWEM4YTZYMzF0Z2cxamoyMlBzY2k1QlRQZGxSOUM0Ylc2U3E1Q1MwZXF4c2p6dmZLZ2p3LWxNNWlpUFYtX1J1amVEZF9JUzUzeU4tcmlCZ0o1WnJCQkVQQ1E3cFhHcUE?oc=5",
+   "summary": "",
+   "publisher": "GB News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-13T07:00:00+00:00",
+   "fetched": "2026-10-11T21:45:48.409512+00:00",
+   "visas": []
   },
   {
    "id": "1a9d8b3a2975baa8",
