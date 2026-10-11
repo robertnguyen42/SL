@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T10:45:11.174670+00:00",
+ "updated": "2026-10-11T11:13:24.180685+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "nz-en",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "au-skilled",
@@ -337,7 +337,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -379,13 +379,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-business",
@@ -8785,6 +8785,19 @@
    "visas": []
   },
   {
+   "id": "ae846dbd2854ee63",
+   "title": "documents requirements after approval of petition i-130 | us immigration process | - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Hb2JpN0RqOV9yNjZwTFRJelJxWkxaM2R1a3o1SDlQMXJ4YWJNNmp3aDY5eFFZY2l2ckJVeTYzbWtSS1NpaTd6ck1zSWRzMnphNnJ3clBSeWRuS1Fh?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-04T07:52:42+00:00",
+   "fetched": "2026-10-11T11:13:24.180685+00:00",
+   "visas": []
+  },
+  {
    "id": "7078814c209dde29",
    "title": "The Entry/Exit System becomes fully operational in Latvia - Ārlietu ministrija",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclZLbzR0YkY2ZDlIUHh5aGxKUE9GbDh3NjJ0NnJaTzJTaF8tbi1PdVE2MGctdUQxbUZWeXpBa3MtUGx1M0lVZ1pFazBqVld4UkNTRkVwTUFqMTZOMkt4SWhvbGJGbnBrLXE3TmRhWG9TU042THN1YlZ2Uk5VQXg1Sk9veEFmcTNEcWVv?oc=5",
@@ -11973,6 +11986,19 @@
    "visas": [
     "family"
    ]
+  },
+  {
+   "id": "51da73885eb65f6a",
+   "title": "New US visa rule from October 1: Expanded social media screening for I, TN and TD visa applicants - inkl",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNm56c0s2TlpXVkp2VmxFU0pucnR6SVNQem5uNVZhRGcwVkJuTllZdkpGVElCZTFYWDNuUDBSNjJEOGdBU0dQRlVyWFJBd0I3THktUzZWbWZsVlNuUVBfS0d0UUM2U05tMUxZUXktTndCak1nM2pFOHNvUFdVYkszeGxrZVktNjdCWWtVVElMR0FjdUgwbVNCU2UyczZnY0E0eXhmZDVoWjJYb1l2Q2tLMHEwRkpHLXVoX0hYdEZ3?oc=5",
+   "summary": "",
+   "publisher": "inkl",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-11T11:13:24.180685+00:00",
+   "visas": []
   },
   {
    "id": "1fccfb2ef11b7b74",
@@ -15721,6 +15747,21 @@
    "published": "2026-09-26T13:34:00+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
    "visas": []
+  },
+  {
+   "id": "7c5cf51064734cf9",
+   "title": "Newfoundland and Labrador Issues 41 Invitations in September 25 Draw - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR3J0MmRfZHFObDZaLVp6OVY5eUpaZ00xdXpMcU9vMlhVVDc0VlRRcGdrTVV3U1lVN2w0bklfNWVTM0FfRHFPQ3I4T0t0YTVIVEV6Y0ZaY0c2enY3QzRzX0lFckEzOWh4TjA1QXNYZUtUZWVMN2kwSTAwZ2hzMkdtQXNsTXc2Q3g5UDgwSzJtajBBNmM?oc=5",
+   "summary": "",
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-26T13:05:13+00:00",
+   "fetched": "2026-10-11T11:13:24.180685+00:00",
+   "visas": [
+    "express-entry"
+   ]
   },
   {
    "id": "1e265605800e6fbf",
