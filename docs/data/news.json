@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T10:18:33.189205+00:00",
+ "updated": "2026-10-12T10:49:13.854370+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 0
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -199,13 +199,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 0
+   "count": 12
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -217,7 +217,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "us-eb-work",
@@ -259,7 +259,7 @@
    "id": "us-green-card",
    "name": "Google News – Mỹ – Thẻ xanh – Điều chỉnh tình trạng",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "us-citizenship",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "a66cd1e2c04f6051",
+   "title": "Australia’s NSW proposes new migration pathway for regional workers; Indians may benefit - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR3VwNlVEZ0tMV3Q1dTBObWVUTy1Zam9vY0pFYXRjaHVmamViRHhwT3BPaE9VaUJFQXNUS0oyeG82dnFGMnFTb1Z3RmJqam5OLUY0Sm91S0xpVUVRbjdSajN2N3R5eld6MUprbi1ySVpoYVYtcU1zLXpRWDZoOUpqVWJRSWtJS1R2eGdMdkZEZmR3bEdHbmpJNGt6UlFmWDRvSjFaOTZ1VkZVaHY4UFRDaUh0MG93X2w4MWRtN193Z0VTbWluTjFhV3dHZkJTMTRtd3dCc3RueTNucmNObEQ1WlBaTnpHc25aeVZreWpKakLSAfYBQVVfeXFMTWx2V0RJdXdqbDQ2SGlhTlhaLXQ2MXVCaE1MNC1zWnVsbGJRVTRjZ1dRTmNFWUdoTUxJcTJrUGt4bFJUSTdab0w3Q2NDaTRJaHhQdlBGYUJFRE54VDZqOGQxNWF6NzV3Z19CbkhMcGFHeENNbmN6bHgxeGc4dTRwUmZjOUtjZjVhZVk0OUxkY01HTm5EMUoyOWh2VEdqYzUzcVk4ZU8zMG9EUV9aMlhWNWd1NDRFaGo0Tl84Q1gxMnd0a3Q4dXQtNUVURG5DLTN3cHhQb1J2eDhMaWxleF9WT0kyLVVzbkY2Nk5Zem14alhLWHZHR0h3?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-12T10:34:53+00:00",
+   "fetched": "2026-10-12T10:49:13.854370+00:00",
+   "visas": []
+  },
   {
    "id": "de954f2ef9b29ee8",
    "title": "All you need to know as an Indian traveller about the UAE's five-year multiple-entry tourist visa rules - The Economic Times",
@@ -15469,6 +15482,21 @@
    "fetched": "2026-10-02T08:02:50.604805+00:00",
    "visas": [
     "green-card"
+   ]
+  },
+  {
+   "id": "02c3f36e7cce67f0",
+   "title": "UK Resettlement Scheme reopens for new referrals",
+   "link": "https://www.gov.uk/government/news/uk-resettlement-scheme-reopens-for-new-referrals",
+   "summary": "The Home Secretary has reopened the UK Resettlement Scheme, with around a quarter of referrals expected to be Afghan women and girls and Palestinian refugees.",
+   "publisher": "GOV.UK – UK Visas and Immigration",
+   "country": "EU",
+   "type": "official",
+   "source": "uk-gov",
+   "published": "2026-09-28T15:57:00+00:00",
+   "fetched": "2026-10-12T10:49:13.854370+00:00",
+   "visas": [
+    "asylum-policy"
    ]
   },
   {
