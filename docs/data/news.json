@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T04:50:56.606026+00:00",
+ "updated": "2026-10-12T05:16:49.742731+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "nz-en",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-investor",
@@ -385,7 +385,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "663d4d288946e720",
+   "title": "No provisional visa needed: 2 Australian routes to permanent residency - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTZXU05ucW0wQS1aVC1SV2RocGFFZGE0NWU3UEZyaGlQSlZjeldXR0pEcUxRcnMzbmJZSlFOUXRvZ1pSdXZyRHVmM3dCX2FDbXdwTDB2SGZVZnRJay1uS0ludVBDb0pHbkRiZDlyVVRFUndXdVNMUXZGb0xEbm1IQkljR3lxb3lXY1lGT181TEJBQS1TcTFjd25sbjU3U1lDN29ORFFIX3BBZw?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-12T04:59:27+00:00",
+   "fetched": "2026-10-12T05:16:49.742731+00:00",
+   "visas": [
+    "citizenship"
+   ]
+  },
   {
    "id": "f841261f1621c508",
    "title": "Child allowances and immigration top political agenda - Paperjam.lu",
@@ -5593,6 +5608,19 @@
     "eb5",
     "green-card"
    ]
+  },
+  {
+   "id": "8544d3491a03e856",
+   "title": "Letters: Angus Taylor runs the gauntlet on immigration numbers - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRVoza2wtRUFZRFhXR0pqRVFoS2tDWVRrVU5TSXlDelJGa0txWnhuT0Jxb0FENnV6UWlndDV0SUhrU0hQbF8xRnlVMXVqbzNfczB1UVVmcWRIQVhrWTUwVmUzLS12d1YyQUc2Qmh6ODRrRFJ1RFJoMW9wbjBVSGV1OE9fR1IyZzRwZklHNUh2aGM1SWp2Z1N4ODhmVWMyQ09GTDdMVy02T3lEYzh3VEVTOUtYRGZzNTNHbURUTk5ucHpSZkZHckpwSmx4VGJpNHNRcU9BRG52ekl1LURNbVlMNUpOTQ?oc=5",
+   "summary": "",
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-07T13:00:00+00:00",
+   "fetched": "2026-10-12T05:16:49.742731+00:00",
+   "visas": []
   },
   {
    "id": "679fe8fb448d5c05",
@@ -14018,6 +14046,21 @@
    "fetched": "2026-10-02T08:31:38.597334+00:00",
    "visas": [
     "eb5"
+   ]
+  },
+  {
+   "id": "0b7c66e0529c8a75",
+   "title": "Temporary graduate visa (subclass 485) in Australia - Expatica",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObTVhR0FaS1lNS3ZmQ3Fma1ZOdWpaU3NYNVpiZmxMMmZNMVNQdVk4U3NNTlNacTZOMFltSl9VNTlHSlMtZDBlelB2RDBzUkdnS1R2d2c1Q0FkREM4dzZERzdhNnRaajRlLUVhcV9yN2daWE53S1VjT1JPTWk0MGhqY3ExOE9PWFJaZTk4?oc=5",
+   "summary": "",
+   "publisher": "Expatica",
+   "country": "AU",
+   "type": "news",
+   "source": "au-graduate",
+   "published": "2026-09-29T22:29:35+00:00",
+   "fetched": "2026-10-12T05:16:49.742731+00:00",
+   "visas": [
+    "graduate"
    ]
   },
   {
@@ -25344,6 +25387,21 @@
    "published": "2026-09-14T07:00:00+00:00",
    "fetched": "2026-10-11T07:45:17.324157+00:00",
    "visas": []
+  },
+  {
+   "id": "4ec5e11d0864fa07",
+   "title": "List of countries where your student visa may allow you to work - Vanguard News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXI4UTh4Q2czZGd6S3kzd05hZnZETnFhWDJvMXB6MnFLQ3hvbHJoWHVsWi1SM2tUVTlvNnFrYzRiRnJNNlplV2lHd1pzN19uQjJfQjZtQXhNU05FR0plc3h2Y3hCcmNFVjNTbUd1dk1VeUt5Y2I0QVNXOVF1MWxBYWZzWkpSOEEtVXpYc2R4R25hSWh0UGhIRmhOd0VhUUVRMnfSAacBQVVfeXFMTlBOenlkcnNiNDBKR1h6aGhDcWtwcXFWdnhoVjJGZE1XYVFBVHVNSDI3VU9ScWxvSzRzZkYwM1pfaG9NQTFiN0FWQmUzM0o0cW51UWNvd0wzS2RUYTM2QkZxOWVsbjRPanJJbFB1Y01nWTlnejJVaWJPWnVJR2pTVDYxWGV4TmJBOWZNbmh5czdnQWhsMjlTVlF0eWswQkRzazlBbXZwQzg?oc=5",
+   "summary": "",
+   "publisher": "Vanguard News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-09-14T07:00:00+00:00",
+   "fetched": "2026-10-12T05:16:49.742731+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "eba521cba3efb57f",
