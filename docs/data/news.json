@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T20:49:33.750795+00:00",
+ "updated": "2026-10-12T21:14:48.706359+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "nz-en",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-family",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "nz-aewv",
@@ -26855,6 +26855,21 @@
    "published": "2026-09-13T07:00:00+00:00",
    "fetched": "2026-10-12T02:16:46.866649+00:00",
    "visas": []
+  },
+  {
+   "id": "1526277c5bdedf6b",
+   "title": "Africa’s golden visa shift must focus on productive capital, not just quick cash - Businessday NG",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNy05cnJjRjJyMENIS2o5Uk1QREFfUUhCbHBWR2VfTV9iLTlfYXNWTWFHeTBOQ2c5dlNuVFB3Y0lxLXNseW9mMGIzcXZNR0JKWTR4dFY3M2JNZG44U01vVmxwZXo3SGo1cnpWWVZ3cDM0WFlKN2hQZ0dUWmJGWkd4cHJJRWtieVA2Qkg3UlNtbUxKbG5vSmRqbm4tekZhTlhZa19ESjhTRFc2NzBmX0VsZThhX0xVelhNN1HSAb8BQVVfeXFMTUJwa0NBekk2ek83cXkxUmRzOXl6U05hb1ZoeFdESUw5YjFhQVA0RFpkQ0YxSTRyLVFaSmZJVWpmYWp5Y3lNZng5Yk9za1RZcjNCQnBDVGlZaGs0eHp1TkgwejRXZk0wakZxTWlUa0xOVFlESllUeEtadjQ5cUJ1aEJVWFoydlEyeEdUcFlDNkprTDFfVkRhVDRUMmtTbWRqS1hhNER0RXBUNUFneHZOQ1FJcDBTWTdETzY4SVRxVW8?oc=5",
+   "summary": "",
+   "publisher": "Businessday NG",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-09-13T07:00:00+00:00",
+   "fetched": "2026-10-12T21:14:48.706359+00:00",
+   "visas": [
+    "golden-visa"
+   ]
   },
   {
    "id": "1a9d8b3a2975baa8",
