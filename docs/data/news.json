@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T03:52:12.803569+00:00",
+ "updated": "2026-10-12T04:17:38.600890+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "nz-family",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "f841261f1621c508",
+   "title": "Child allowances and immigration top political agenda - Paperjam.lu",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTEY2cy00UXMtWEZ5bTdRby0zQ2ZRSEQ2MzM3eHpvWjZjYldWR3Y4T2g3Z29zZUxIZ0hFemM1QjFsZHpiS0NHRnhpQlF1a19odFl1azRiUGlwTnBSSVBub2F3NlgwSEM4ZzJheDlXcVNYRHpVVEZaMmtNVnQ0ZDB3enZGUS1YWlZoV0ZZ?oc=5",
+   "summary": "",
+   "publisher": "Paperjam.lu",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-12T04:05:10+00:00",
+   "fetched": "2026-10-12T04:17:38.600890+00:00",
+   "visas": []
+  },
   {
    "id": "20b26c7d51ce3529",
    "title": "UK universities restrict recruitment from Bangladesh, Pakistan and Nigeria over visa rules - The Business Standard",
@@ -14186,6 +14199,21 @@
    ]
   },
   {
+   "id": "ab45aec5ccc5877a",
+   "title": "October 2026 Visa Bulletin Shows Significant Shifts; Implications for African Immigrants - Mwakilishi.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbE5tSHdBOXhUcmY0dzJuWHY5NnNNWFNnVmtVWmVDMWVRSFNSZWxhdFloZHQxWVpya3M0NGZiM3pDUjZTWUhqS2lITFpzTnR6R1o0UDB6WEFPVGZxNTVJZTZpeVpndDhERjhwMTh2T0NpbU9kR2puay1yRk9NbWlyd1Q1NzNKOGJDZGxWc2tvbGN0Zy1SMnRvdXV4Q0ViLURQY3pXTG9maXdQMk9Ua0lpanNSeEkyUQ?oc=5",
+   "summary": "",
+   "publisher": "Mwakilishi.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-29T19:08:37+00:00",
+   "fetched": "2026-10-12T04:17:38.600890+00:00",
+   "visas": [
+    "visa-bulletin"
+   ]
+  },
+  {
    "id": "45db1e8397ea5a94",
    "title": "Can you lose your Green Card by staying outside the U.S.? - El Cronista",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTBMYTVEM1J3WmlQWlBuZGk0aUhQNG5TWnRFS1lTY0ZvQjA4N0FEMzZfX1hkcElSeUpmTEJIQ3BHRzVsNVA0NTFGVV9OSjJ5bEtUUGVSS2dQSXZ4OW1HWGI2YkxtdnZuSERXZmEwa29vb1ExTWVNT0dtYW1MRnBMLVRjNTRDcTBvYURwMEVVWHJMMkRCVXItY01LSQ?oc=5",
@@ -14878,6 +14906,21 @@
    "published": "2026-09-29T07:00:00+00:00",
    "fetched": "2026-10-11T04:46:57.481391+00:00",
    "visas": []
+  },
+  {
+   "id": "ab65070b1a90affd",
+   "title": "USCIS Opens October 2026 Employment Green Card Filing Window - SuaraGarut.ID",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UTnN2QVZZaENKUFBCTmlJQlljQk9xYVEzcEtsbC00UGtibFRFcmVkNVZGTnhidFJkd1RfeUxPNWN0RU5EbDJYMTZXN3RmUld0VkpFZXpzcVZDWnN5M1Foclc2MVdNOWZUWjNxWHB4dld1RkJZUUQ3c2xUQUtXY28?oc=5",
+   "summary": "",
+   "publisher": "SuaraGarut.ID",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-29T07:00:00+00:00",
+   "fetched": "2026-10-12T04:17:38.600890+00:00",
+   "visas": [
+    "green-card"
+   ]
   },
   {
    "id": "54196663e8d0fcef",
