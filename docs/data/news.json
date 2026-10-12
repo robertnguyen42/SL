@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T15:18:44.587380+00:00",
+ "updated": "2026-10-12T15:50:23.606733+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-gov",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -487,6 +487,21 @@
    "published": "2026-10-12T12:13:50+00:00",
    "fetched": "2026-10-12T14:00:08.468495+00:00",
    "visas": []
+  },
+  {
+   "id": "01d029308a389b6b",
+   "title": "Belarusian woman waited more than two years to apply for a Schengen visa, and then simply missed it - Наша Ніва",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42d3Q5cFRHM0UxTndVaWE1X2xqc01GSmxGVUpkU2FiTERlY0ZjZVBGU2FzYVNQa01LYUR4cFFJaURRVHdOMkHSAUtBVV95cUxPSEFPZkJ5ZEFPdEF4eTFNUmFWWlhZcFFpZlRYcmJib2tTUFNMV2JNQWg5T1lMYWtDQzE5SktrVG44MG9vdWZZMTBjZTA?oc=5",
+   "summary": "",
+   "publisher": "Наша Ніва",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-12T11:55:49+00:00",
+   "fetched": "2026-10-12T15:50:23.606733+00:00",
+   "visas": [
+    "schengen"
+   ]
   },
   {
    "id": "a66cd1e2c04f6051",
@@ -1294,6 +1309,21 @@
    "published": "2026-10-10T08:20:02+00:00",
    "fetched": "2026-10-12T00:24:35.828514+00:00",
    "visas": []
+  },
+  {
+   "id": "807223000f80fa69",
+   "title": "Cựu du học sinh châu Âu chia sẻ lựa chọn ở lại hay về nước sau tốt nghiệp - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0ZwTVhOWHV4YWR1WndHTENPUkEyWUF2Vlh2WXpWdjhrUVlFZ2xrUmFsVXZBLUQ4M251MHpScHJZUXl0RUdHV2Q0UExIUWNRWDV1QVNCRzlRWjhabm5SQ2FGVlowWDFZTzd1Vl9oaF9DTFdfZ0ZNcXNic0lDVVlDdExySW1wLXFkejBZbWlSX2VZM2RJREx3NVFIRWs?oc=5",
+   "summary": "",
+   "publisher": "Vietnam.vn",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-10-10T08:17:50+00:00",
+   "fetched": "2026-10-12T15:50:23.606733+00:00",
+   "visas": [
+    "student"
+   ]
   },
   {
    "id": "52494f5687649b73",
