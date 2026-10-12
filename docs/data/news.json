@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T14:00:08.468495+00:00",
+ "updated": "2026-10-12T14:52:55.325331+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "nz-en",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "us-visa-bulletin",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "457ef5a9281b7b8e",
+   "title": "Portugal Releases List of Foreigners Exempt From Its 2-Year Family Reunification Rule - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1I3b0VjdkVoaUFZQ1ItNlNqU0FJbDJjc3BXZExHMVpCWGJBbW5PTmRzaklNbzRNZkt1Y0ZsWm45dVNUbzhiVlBWNG5RblRWeHlMcGNZZzYwSHpuNEVRZ251UlFFU3VqYTVueGQwNFhUcEJBNXlDdFYzaW9XeHYwYnpSZ09MYVZxTjdRZTVIQUk2a19HSm1NeHgzcUphUlFjRGZGaGNGMlpVb2ZxNW1v?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-12T13:49:11+00:00",
+   "fetched": "2026-10-12T14:52:55.325331+00:00",
+   "visas": [
+    "family"
+   ]
+  },
   {
    "id": "3f3a16290d0f83b4",
    "title": "Canada names 3 conditions for permanent residents to join its military - Yen News",
