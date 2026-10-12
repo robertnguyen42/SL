@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T23:44:17.385634+00:00",
+ "updated": "2026-10-12T00:24:35.828514+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -270,8 +270,8 @@
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
-   "ok": false,
-   "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-express-entry",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -354,8 +354,8 @@
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
-   "ok": false,
-   "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "nz-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "nz-family",
@@ -501,6 +501,19 @@
    "source": "au-en",
    "published": "2026-10-11T18:42:57+00:00",
    "fetched": "2026-10-11T18:49:19.460272+00:00",
+   "visas": []
+  },
+  {
+   "id": "e6dab00012590e3d",
+   "title": "ALP migrant policy the opposite of compassion - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa0Z2bGtBM0NsUFlJcGxoeERlcVZPZ25fTE94Y0xKZm5VelpkZTlSa090WjNjcTZVYnN6QVJ6eHZ2T2VmQWRPZktvclotLUpQRmpXN2JHTVhPbHZfMXMxa1plVlVuSmdvbUVleXA3Q1hBSGtVV2ZDSWtzRHBrc2psUjc1UWY1cURaNjVrbDNyTDZzRHlkRmVHUGMyWVBpVmpQQ2k0ODNvQzlocHhqY0h3Ny1fUWo2Z2MzSmMtQ3dWQ1ZKSWsyQV9QOC14dGF0UQ?oc=5",
+   "summary": "",
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-11T18:07:57+00:00",
+   "fetched": "2026-10-12T00:24:35.828514+00:00",
    "visas": []
   },
   {
@@ -1032,6 +1045,19 @@
    "source": "us-en",
    "published": "2026-10-10T08:20:02+00:00",
    "fetched": "2026-10-11T00:22:43.777417+00:00",
+   "visas": []
+  },
+  {
+   "id": "2139f757873c685c",
+   "title": "Certified translation services for USCIS are available online from Brazil USA Translations - Carroll County Mirror-Democrat",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTl5LXI5RUlUbV9ySG42VnBBNzJYS1RkVEZoVS0wcTJKUmxEN25SQVRlM1ZlX0xvZWk3QjIzMEczZ0NReThJREpidnV2VWRhVnowMEhPcmpnYV8weUtGWDBZTUhpNy03REk3cjQzVnF6MHRnb1hGcHVubE5JZzhBa2NuS1lXa1BJUm83aUJHelNpV2VNaTQ1bzRIekV2blpwVzAwRzg1MnJjLURHWS15c292azJvUFk?oc=5",
+   "summary": "",
+   "publisher": "Carroll County Mirror-Democrat",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-10T08:20:02+00:00",
+   "fetched": "2026-10-12T00:24:35.828514+00:00",
    "visas": []
   },
   {
@@ -3029,6 +3055,21 @@
    "source": "us-h1b",
    "published": "2026-10-08T19:55:00+00:00",
    "fetched": "2026-10-08T20:16:37.642360+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "7c9b86e70de6109d",
+   "title": "Microsoft barred from H-1B visa program - WDAM-TV",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40amFocUlfdWNpeWRiM2daMkFYOUZhWjQwSENpZkF4cFdFa0haX2w3VTRRVjdCVDV4VVZoTUp3WDJ1ZHplbFNsMG45QkV0cXpIT0ZNQWFFT3pUUzIyRVJJc3I4SDFVTlpQRVVUM3BIS2w5ZmZPeTR0NVlDdzJRdw?oc=5",
+   "summary": "",
+   "publisher": "WDAM-TV",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T19:55:00+00:00",
+   "fetched": "2026-10-12T00:24:35.828514+00:00",
    "visas": [
     "h1b"
    ]
@@ -17131,6 +17172,23 @@
    "published": "2026-09-25T07:00:00+00:00",
    "fetched": "2026-10-08T16:49:28.230056+00:00",
    "visas": []
+  },
+  {
+   "id": "d9685b4b94056908",
+   "title": "Australia Migration Changes 2026: Australia Student Visa, Visitor Visa & PR Major Updates Explained - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fY1R5T2F0bDNkRmlIa1ZyWlhuWmlkVmZSTXpkekpJNlo5Y29ObXYyOFY4UGtoU3pYZlJ1NDBFU2daelJIOHpLNEs2cjhaTlJJTjVta1RPVXRIcmhV?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-25T07:00:00+00:00",
+   "fetched": "2026-10-12T00:24:35.828514+00:00",
+   "visas": [
+    "student",
+    "visitor",
+    "citizenship"
+   ]
   },
   {
    "id": "33413638a88282cf",
