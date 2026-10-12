@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T19:46:50.938992+00:00",
+ "updated": "2026-10-12T20:15:49.875015+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-en",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 0
   },
   {
    "id": "au-skilled",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -325,7 +325,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "eu-blue-card",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-family",
@@ -518,6 +518,21 @@
    "fetched": "2026-10-12T14:52:55.325331+00:00",
    "visas": [
     "family"
+   ]
+  },
+  {
+   "id": "7d473b9c1bbe5fab",
+   "title": "Do Americans Need ETIAS to Visit Europe in 2027? - Woodlands Online",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yVWZCTlB2cE9FcmNRMWIzdmEtXzNoUGI2bFVMX3lLVnNoUmdfelF3WTRXY0xGOFRrNXBPalpFMmVNRW9SVHJ2ZzFCYllWalJSN0w1OWh0TzBPWnBnT0lfd01UYkplZGlBWXdj?oc=5",
+   "summary": "",
+   "publisher": "Woodlands Online",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-12T13:16:42+00:00",
+   "fetched": "2026-10-12T20:15:49.875015+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
@@ -6447,6 +6462,19 @@
    "visas": []
   },
   {
+   "id": "aa542de238641518",
+   "title": "Immigration Policy Promises Fair Go for Regional Australians - Mirage News",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWZrci1jWXFQTlNHQjNqeFpfb0NwVGNYbTFHdDdpV2hTazB0VVB3RG9pdGVwa3hVeElmSVJCb21HeGJGR1FKaE5xT0E3U1dmM1kyNHppQ0YzYjlGWVd4TjAxSFI1TVdoS2RTLWVGaGZLR2tmVnJjSW5wNDlXWXJ6dA?oc=5",
+   "summary": "",
+   "publisher": "Mirage News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-07T03:59:00+00:00",
+   "fetched": "2026-10-12T20:15:49.875015+00:00",
+   "visas": []
+  },
+  {
    "id": "1d637f7fa9d27b7a",
    "title": "India is NZ’s biggest student visa market, but INZ’s own data shows only about half of Indian applicants are approved - Ahmedabad Mirror",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOajRpakU4cjRBUlFCcTJSOFJDWUs2M2R1NkZVTzR2ODA5dEZKakVFNTc2OWFTZXRiSkoyTVFiRDdkS1pOd2xaRnoxX1hXMWZvZjFrT2lVMEk2TUp2R0ZuazAwOFdnUEt0dFMxaEV5NmY0M0M5N040VTJDLXNJakNFY19ubzBfMVZjSV8xblcxTUFfM2hGMmRoSlltQlMxRU1BU3ZoQzBoT1pxSGFLUlI0RncyWGlXNkw5Q3cwRXpYdXh0b21UUllRamE3TF9pWm9jME1pTFZBNUtoTlpXNHl3bU5uazNNN1BfWGk3Rmg1bmp1Zw?oc=5",
@@ -8032,6 +8060,19 @@
    "source": "au-en",
    "published": "2026-10-06T01:15:21+00:00",
    "fetched": "2026-10-06T03:46:25.831086+00:00",
+   "visas": []
+  },
+  {
+   "id": "fc5bf453c7230c9b",
+   "title": "Liberals, Nationals Propose Lower Migration, Higher Standards - Mirage News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWowbnVPNjZJakRZVHdjLUpmdWJ5NTJqeHdNV1lNWk1kNFA5MDRJNDZkOWNyek1ZV1IyQXdDUmJyRGhuTFBsVGU0b0Iya2U4eGZMUTlEMkh0cmkwWng5NWMtS0UzTDFQUGVlMVdWR0JlVEhUa3FKUXlVTVpTUmZRLVdfNUc?oc=5",
+   "summary": "",
+   "publisher": "Mirage News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-06T01:06:00+00:00",
+   "fetched": "2026-10-12T20:15:49.875015+00:00",
    "visas": []
   },
   {
