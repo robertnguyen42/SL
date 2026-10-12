@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T07:53:22.254178+00:00",
+ "updated": "2026-10-12T08:20:04.805119+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "eu-gov",
@@ -139,13 +139,13 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "nz-en",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-partner",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -420,6 +420,19 @@
  ],
  "items": [
   {
+   "id": "92d212333b77e6c7",
+   "title": "NZ-born girl with severe neurological condition granted residency as exception - Indianweekender",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVFwbFcxWHRvRTc0Q2ZBYzJia0tIYi1CS2FYbUhHRVZnLTFweXVxaVJ3czBxckdTSF93ems1dFpJeXlCYmIxVlY5MjVyeVhmeWpsOVdfR3hHZzliX2tlUEJJc1BJWXVoZklRY0pUaERkblZ5OEFWZFc4NXZkbXdIWXFZNlZtVTVNSHBjUHR5VmdKZEU2dWxTNlZYdjQzMmc2MU5Cdzhtc2trLWNVRmUzRDBGeVRYNk9G0gHIAUFVX3lxTE01bk9mOGQyWlRXa3V3OVRwOWpUSUN0Qno0b05SdzdFMllOUS1CZzNZY3hwT1ItYTNUeGMxcS1jcFlOR2N3MFRWdENpYTRjVnJKdkw0RDNVZFNUUG1Gd1FYZ051RF9hNHdrajgtbVlVVVdocy1WZkhhemljSmw1ZHFwVDh6d3NpalFMOE1CQS1JMkJheWpJX0o1MXZwaG1CSFBuM3B3MzZBbWZDaGhpczFxdVR5ak9jN3R1aS1KZmNFYUFwRGZLWjY3?oc=5",
+   "summary": "",
+   "publisher": "Indianweekender",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-12T05:22:01+00:00",
+   "fetched": "2026-10-12T08:20:04.805119+00:00",
+   "visas": []
+  },
+  {
    "id": "663d4d288946e720",
    "title": "No provisional visa needed: 2 Australian routes to permanent residency - Tuko News",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTZXU05ucW0wQS1aVC1SV2RocGFFZGE0NWU3UEZyaGlQSlZjeldXR0pEcUxRcnMzbmJZSlFOUXRvZ1pSdXZyRHVmM3dCX2FDbXdwTDB2SGZVZnRJay1uS0ludVBDb0pHbkRiZDlyVVRFUndXdVNMUXZGb0xEbm1IQkljR3lxb3lXY1lGT181TEJBQS1TcTFjd25sbjU3U1lDN29ORFFIX3BBZw?oc=5",
@@ -435,6 +448,21 @@
    ]
   },
   {
+   "id": "a203667d201cd7e8",
+   "title": "Du học sinh giảm, nhiều trường đại học ở Úc hụt nguồn thu - Báo Tuổi Trẻ",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2dBWmNfVTFXaXhTaU5tdk01UWZ4VnZXZHZ1RXE1MDBGRnhjZm04b21UbVZjdE5mNnR4M0YtRGFpZkVfNnJCc0Jlb1dITWVhaURXMU14V0ozZUxSRWljVzAzUy05Mnd0aW4zdTdwd09XLXZ6YWYtS2RiUGYycUNfV0dCMjlRRENIWVJSZXg0TW43M1lma19BbnROMmRsRXM?oc=5",
+   "summary": "",
+   "publisher": "Báo Tuổi Trẻ",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-vi",
+   "published": "2026-10-12T04:36:00+00:00",
+   "fetched": "2026-10-12T08:20:04.805119+00:00",
+   "visas": [
+    "student"
+   ]
+  },
+  {
    "id": "f841261f1621c508",
    "title": "Child allowances and immigration top political agenda - Paperjam.lu",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTEY2cy00UXMtWEZ5bTdRby0zQ2ZRSEQ2MzM3eHpvWjZjYldWR3Y4T2g3Z29zZUxIZ0hFemM1QjFsZHpiS0NHRnhpQlF1a19odFl1azRiUGlwTnBSSVBub2F3NlgwSEM4ZzJheDlXcVNYRHpVVEZaMmtNVnQ0ZDB3enZGUS1YWlZoV0ZZ?oc=5",
@@ -445,6 +473,19 @@
    "source": "eu-family",
    "published": "2026-10-12T04:05:10+00:00",
    "fetched": "2026-10-12T04:17:38.600890+00:00",
+   "visas": []
+  },
+  {
+   "id": "9c0fc4fd0a97c622",
+   "title": "Australia’s Coalition Proposes Major Migration Cuts and Tighter Visa Rules - Desi Australia",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkV2YWYtWGJTTDctTDBVWENibUhrekFDa0JES2RycURGYTBEWmE2U0lOQXNlbzh2aGd4ckhMclBMc0Y3WlZscEE0S3h2cVd2aXF6SlJZNFRMZ2xPZlFFUkNtQlFzSjhYU1ZqNDJPdjE1c2hzMTdsUmxlWlhhLWYyMTZ4UEdVbHdmLUQyWTU3WlZ0Vlp2LVdoVDVlYmROX0x4Mjl0TXRkMmZSZURjTVN5bkxGWUgtZw?oc=5",
+   "summary": "",
+   "publisher": "Desi Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-12T03:46:09+00:00",
+   "fetched": "2026-10-12T08:20:04.805119+00:00",
    "visas": []
   },
   {
@@ -2528,6 +2569,19 @@
    "visas": [
     "schengen"
    ]
+  },
+  {
+   "id": "45c266910fe55bf3",
+   "title": "US Bars Microsoft, Indian Firms From Visa Program in Blow (2) - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnlrNnpCTFlwMUZvOE05Wm9QS1lEdEtEanc4VFRwRm9meHEtZUExMUw0SHpNYWFXbzRkYVotams1bU5zcHhaYm9tR1VtQmw2S2toN1Vac1Utc0pUV0hsVHJFdTNZcmo4azBtd2k4MEY2TkJYSlFsZmFyb3VqUEdhdnVWUWtuVHdOMDFlbGZyVlNjQTdPSEVZRzhqTUs1ZDJUM0N4dzdPUkZZYVRGSnlR?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-09T04:04:00+00:00",
+   "fetched": "2026-10-12T08:20:04.805119+00:00",
+   "visas": []
   },
   {
    "id": "2360a5ab2bd3b0c5",
