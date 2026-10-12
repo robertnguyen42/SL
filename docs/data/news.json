@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T13:12:48.605424+00:00",
+ "updated": "2026-10-12T14:00:08.468495+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-gov",
@@ -187,7 +187,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-investor",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "3f3a16290d0f83b4",
+   "title": "Canada names 3 conditions for permanent residents to join its military - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkhlVFZza1RlcThZTTM4T2JmOGxvSlhwdkVUZjBPZ3RyN3BTdW1rbUViNWx1SjBOVmd6dWk0akRfUE1Zc3RxbEpPczlvQjJkb3hsdm1VTUI3aExzQmMzMDhDVDZHNURzVkQ2OGJQdm1KZHJXdmZLbDBETEdyQVQwcFlwRDk1bEt1dUY3UXBBR0xaMFhFOTExTEVFdnQ3dw?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-12T13:12:03+00:00",
+   "fetched": "2026-10-12T14:00:08.468495+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
+  },
   {
    "id": "73d3925a27fa2e58",
    "title": "A culture of reciprocity: what Australia owes immigrants — and what immigrants owe Australia - The Centre for Independent Studies",
@@ -443,6 +458,19 @@
    "source": "au-citizenship",
    "published": "2026-10-12T13:01:36+00:00",
    "fetched": "2026-10-12T13:12:48.605424+00:00",
+   "visas": []
+  },
+  {
+   "id": "06fd4ddc9b790569",
+   "title": "3 men arrested after immigration officers raid Bradford businesses - Yahoo News UK",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWtjVlR6TGpCTmNBRXBXZE1uNVZjeFdoR3lTRkdNNVdyR2Z5Mk93NE1sRVdGNk51OHNCWEFTUUQ0dlVycUZYQ2VzbzZIZ3dHejV3d0ljdVRGRHcwVHA2cFJ5TTRrN3IzOGkwbVBmUkdxVXlZUVFnTHlhODB1ZnNEdnJzalI?oc=5",
+   "summary": "",
+   "publisher": "Yahoo News UK",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-12T12:13:50+00:00",
+   "fetched": "2026-10-12T14:00:08.468495+00:00",
    "visas": []
   },
   {
@@ -1654,6 +1682,22 @@
    "fetched": "2026-10-09T19:14:07.052850+00:00",
    "visas": [
     "pnp"
+   ]
+  },
+  {
+   "id": "bba8446c30b253af",
+   "title": "US probes nine unis over J-1 visas and suspends firms’ green card pathway - The PIE News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEtZU24zZHN0WmZPcjRDemVHTTBZWlpwbm1qaW0zTWE3YVR4WjR0cVdid19JOEk4OTNwYWhMSlhCZ05XN2xETEZ0OXBSekFydGlwLXRLbXR6N091RXd6WU9uNWJmLU0xTkVvNHlNdFZBRWFxbkFfa3JlRWRSeENTeHZIY09kc0RtdXlfWWJVQmZYU0d4eEhLYUoybE0?oc=5",
+   "summary": "",
+   "publisher": "The PIE News",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T17:11:01+00:00",
+   "fetched": "2026-10-12T14:00:08.468495+00:00",
+   "visas": [
+    "student",
+    "green-card"
    ]
   },
   {
