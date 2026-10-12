@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T20:15:49.875015+00:00",
+ "updated": "2026-10-12T20:49:33.750795+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 28
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 0
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -419,6 +419,37 @@
   }
  ],
  "items": [
+  {
+   "id": "4edc0cf95bd08da6",
+   "title": "This country allows US, UK, Canada and New Zealand residents join its military without citizenship. Check - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQSUd6V1g5a1hlTURMUVFvMkVCOHJKd1phdGg5alAzZEZSQ2hHVUZuUXItV1djbDNyUEFKX09DTVVIMmVoamZ1MHFJSTd5NjFlRWkyN2dTbW1ucjFKTEdGQU5ja1NTb3FERmFNbWw3RjBhV1lyeGdZM2Fldm1oZnBrNGMxa0NKSWNCLUtvTWw1dUhudFpFS3Z5UmRObEh1dE5NWlA5Tl9jYk1mWTBVYUgwNUpLQVVNd1NnVV94cnVrbmR3ZV8xYWlRMF9CUkQ5SHhPRlNhU0ZXaHBtRExTdzh3MHE3b0JtVDU2dFJMczgxcWU4aHpKTmFCME84RXoxTHh3RzAzY1B6VE1lRmNDRDFkUW5fS2ZzbldOaE9Za19iM3RubWFTdlZlV3cyMHlZclExMTlZTXhLZjkzdDM0N2s5T1A3eGdpZ9IBywJBVV95cUxQeGhTYVpVekFIbDY2Y0U4T2U5RVIxcHJaUDNQQ09WOGRTdzJWeXBQS25hTjJOQ0kzSHlUTmlnNzU1SEJpazRpV3pXdFdSakV3c1ROSk9lLTU2UjFDX0F1anRVTUc0azh3V3pkVzgwVVZZeXBIYm1SNTRLSHdyTWpkVDhkOHpKSU5BR2JVSV8yVVpoT3FLX0FhdHdENjFOa3RqazVrQkxpSjFlemZldTZlMHpEY0F6TjJhM2pvaVNLQ19UYTFRNzNObWppREhnYXdrS2thQ3ZCUG1tbjJvR0ZCeTA2cmxkMzU4aHIxcXp6VkNiN0tGV1dtM3lTVWpWUEhjQ2s1eVUtbEgyTFlON2lkZEQyTkpSUnBGblZfZzF3bFh1b3RldGZHdG9vWF9jbm9OZm14MU5yV3ZVQkFnX3ZDQUtEeXBkaUoxZnpF?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-12T20:22:55+00:00",
+   "fetched": "2026-10-12T20:49:33.750795+00:00",
+   "visas": [
+    "pr-citizenship"
+   ]
+  },
+  {
+   "id": "9956c6d4a78d02ee",
+   "title": "October 2026 Visa Bulletin Advances EB-5 Filing Date for Mainland China by 4 Years - EB-5 Insights",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR0NUYXdNWGxaakwxOHlUTHhlOWdiVEtjZk5oMTJ6eGROUDQzUGo4WFYwWWpkWW10Y2lKMWdyZkJBX1Q0MW1wUUpWVGdsOWtLb3Jnclc4ZHdUTHpfbUZjZlVRYWE4LVNYR2VNalROcTFKQlVBcGRlWHdYeXVxT200QzRwWURnU21fM25tYjF3enVua0MwTE9BUnNJVTdGWTM2aktTdlpPcTU0OE52M3V1NE45VTBlS0gtbkZfSFZUWQ?oc=5",
+   "summary": "",
+   "publisher": "EB-5 Insights",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-12T19:12:13+00:00",
+   "fetched": "2026-10-12T20:49:33.750795+00:00",
+   "visas": [
+    "eb5",
+    "visa-bulletin"
+   ]
+  },
   {
    "id": "ffdf57d9c7dc60b3",
    "title": "Why more London councils are refusing to comply with Home Office immigration raids - London Evening Standard",
