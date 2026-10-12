@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T02:16:46.866649+00:00",
+ "updated": "2026-10-12T02:48:55.559051+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -169,7 +169,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "au-skilled",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "us-visa-bulletin",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "20b26c7d51ce3529",
+   "title": "UK universities restrict recruitment from Bangladesh, Pakistan and Nigeria over visa rules - The Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2hlbWt0c2U3VllmOTJCa2Q2R2hTb2VHS19PZS1keS1WeElfMW9Fb1VQTWZUZTlaNEpHMkxNWEQ4Q1BEa1NyZ1EwU3dfTko3SGtHQTNfTDZYTWRxblktc1hBeHVJdUxKUzFlMVRGYk9SWUlleHE3VjZ6czB3WGQ1c3NSMmVZZVNvOFpWcnIwd0Q3a3cwTElqQlVMYkhuYWNfMFBwTEZtTHVtWWk0T01iUmFqN0w0VjBhTVdOYm02SE1QQQ?oc=5",
+   "summary": "",
+   "publisher": "The Business Standard",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-12T02:22:13+00:00",
+   "fetched": "2026-10-12T02:48:55.559051+00:00",
+   "visas": []
+  },
   {
    "id": "2fe085229e7a1c65",
    "title": "NZ First’s employer work visa reset sounds dramatic. The detail is less revolutionary - https://awaaz.co.nz/",
