@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T01:22:13.382980+00:00",
+ "updated": "2026-10-12T01:49:33.696982+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -163,13 +163,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "nz-investor",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -419,6 +419,21 @@
   }
  ],
  "items": [
+  {
+   "id": "2fe085229e7a1c65",
+   "title": "NZ First’s employer work visa reset sounds dramatic. The detail is less revolutionary - https://awaaz.co.nz/",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTdKMVdEZXFobGhpRDVXZVk0UnJUOGZSdEtjaW8zTVpBdHlhVzlNVXRjNFIyMjRsbWpKN0w0YWNUWDV6ODJmU04yVVRDMHYteEwwSHdrbG5hOE9PeG13Y0xSMkFzeWtyTDhwdVFkREN5MlhKa0l6SEcyVl9RcHlGSXkxUVM2eVZVMWZzWVJLTUlxeWZXUTRsT1JUNjNRS1BpRFBLZGhPN294Nms5OWRLU3huUDg3MjI5SUNmUA?oc=5",
+   "summary": "",
+   "publisher": "https://awaaz.co.nz/",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-12T01:46:45+00:00",
+   "fetched": "2026-10-12T01:49:33.696982+00:00",
+   "visas": [
+    "aewv"
+   ]
+  },
   {
    "id": "cbcc04c71c7e5eb0",
    "title": "Immigration Debate must be honest, based on facts, not slogans - Indian Newslink",
