@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T22:14:04.129607+00:00",
+ "updated": "2026-10-12T22:46:41.285923+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "nz-en",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 0
   },
   {
    "id": "ca-student",
@@ -420,6 +420,19 @@
  ],
  "items": [
   {
+   "id": "39a3d6f95bae164c",
+   "title": "Labor’s new migration rhetoric doesn’t bode well for sensible policymaking - Crikey",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTG8xZk1KZE92Z1AzcjJvVFl4YU84Q0FEU2U5dW1GbFhZOGp6U0IzQzJ6bFdEMEhVX2hXNjdNYlNBZm5lSnBrLWRSREdodUhoU2QxZUduWnVDeTVsSVZqLUh4OGZ1YWQ0UTA4bXlvc3NoYlowUDFuTlVtTDRRWkNHbWVXcDVpeWs2REtaeDVPbHcxQzg?oc=5",
+   "summary": "",
+   "publisher": "Crikey",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-12T22:38:58+00:00",
+   "fetched": "2026-10-12T22:46:41.285923+00:00",
+   "visas": []
+  },
+  {
    "id": "792d16d9c9783399",
    "title": "Migrant couple hit by visa setback after 8-year-old daughter qualifies for disability support - https://awaaz.co.nz/",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVXFqT2I5NE5McE5SQWRQWFJxNXc1a1JQNG5nckV5cHJUQUlfbTdseGNjaFNlWUR1UDdtWC1IcXRwUGZMaWxKUnNvamZXRmpRYVBrMUlOSmZRZ2hEc3RIWlN5Y05TVE84S01iZjZra0tYR21COHV3WlR1aWlNV2FtTTN4SGFGTjlEaHZwVW5QamFlTGRVQXhSQ1dLNnZsRzRUY01PNUtBRnVrQ3ppRUVvU21iS294bDhjLXpDUFd1N3duQUl3aVRCRlF3?oc=5",
@@ -445,6 +458,21 @@
    "fetched": "2026-10-12T20:49:33.750795+00:00",
    "visas": [
     "pr-citizenship"
+   ]
+  },
+  {
+   "id": "6482e5a9c4ab24e0",
+   "title": "Satya Nadella went from H-1B worker to Microsoft CEO. The Trump administration just shut that path for his employees - Fortune",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnN3a2xweWZqYXdhOTFJWUZ6RFNRNjBDNmtEZlQ1UlVwUHpjNG5wdlJYR2pmUXJHdW0tWEpnbU1hTzZmN2R4SjE1Y1Y4aEg1SHhfUVBTQWRLbXNKSi1PQkY1QlJlZFFJcF9pM0NOZXl0Z1BzQWwtRGJmU2MyNzRVdDBValhidzFINWxQa3ZkLVNHSWc?oc=5",
+   "summary": "",
+   "publisher": "Fortune",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-12T19:37:00+00:00",
+   "fetched": "2026-10-12T22:46:41.285923+00:00",
+   "visas": [
+    "h1b"
    ]
   },
   {
@@ -1365,6 +1393,21 @@
    "published": "2026-10-10T14:22:23+00:00",
    "fetched": "2026-10-10T18:48:17.536320+00:00",
    "visas": []
+  },
+  {
+   "id": "26bf2d6583c45d47",
+   "title": "'Migrant taxi service' smuggler deported from UK - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LVXVUcWVxT2xqQWhrR29JRWNkQ0pUbXJCM2F4ekV5SURfR05mV0gzWG1LR3ZGcTlzbTU1WU1aU3BMVFQxNldVZlhSbDZtdlBnLU1Mck83M0RuVmlMRGc?oc=5",
+   "summary": "",
+   "publisher": "BBC",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-10T12:40:41+00:00",
+   "fetched": "2026-10-12T22:46:41.285923+00:00",
+   "visas": [
+    "asylum-policy"
+   ]
   },
   {
    "id": "52037a41b26d165a",
@@ -2724,6 +2767,19 @@
    "visas": [
     "golden-visa"
    ]
+  },
+  {
+   "id": "9fbf1dd7d68e6c2c",
+   "title": "This Week in Immigration: October 9, 2026 - Boundless Immigration",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmMFZHcE5UQXV6TTN5V2JnRDlOUWVyalpsNzNVZVpwQmtsaUtGdElfalZKNF9vcFRfVlhLSXBkdUVIMExGblBoWjdlVHVvS0stZXp5aEJtUXZiSENZLXhta3hQOFJnX2s3ODBpUEs1QzFEcFpOVlpKTy1jQQ?oc=5",
+   "summary": "",
+   "publisher": "Boundless Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-12T22:46:41.285923+00:00",
+   "visas": []
   },
   {
    "id": "f6cc906fe6524f7c",
@@ -8973,6 +9029,21 @@
    "published": "2026-10-05T10:36:13+00:00",
    "fetched": "2026-10-05T10:47:12.330919+00:00",
    "visas": []
+  },
+  {
+   "id": "3b3f5ca7c88a345d",
+   "title": "Portugal Golden Visa 2026: Requirements, Costs & Who It Suits - Portugalist",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rbmpjTW5RUzQ4THl6endJTV9fekcxcUs4X1B1SzAxajdSZVNqZ3JPYU1iUktfM21OeVJvUnFVSXlBeC1VTmFBQUpvMVluSWFLYkE?oc=5",
+   "summary": "",
+   "publisher": "Portugalist",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-05T10:28:47+00:00",
+   "fetched": "2026-10-12T22:46:41.285923+00:00",
+   "visas": [
+    "golden-visa"
+   ]
   },
   {
    "id": "22ebc5b8798f3c23",
