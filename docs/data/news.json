@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T16:48:12.986124+00:00",
+ "updated": "2026-10-12T17:16:03.084144+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "id": "eu-gov",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -419,6 +419,47 @@
   }
  ],
  "items": [
+  {
+   "id": "08e845ea7c4b68a1",
+   "title": "Man in US on a tourist visa arrested in connection with gold coin fraud - Audacy",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3pUeXpEcFpNRnp5ckJReC1FMDFoeEVuZk9ZOEozWFBJN2Z5SmtqTDNsd3ZiQ19kam5fTkJqOHhNQ0drLXd1Q2hhVzgtdkIzMnYzVWRHNUxCa0RXNG96aS1wOFhwUWgtakVucTFiS0pDMkFOSlRSWnJ4YkgxcjJJa3h0d3NVak5lR3FzZWdjWXFYQXp2VklwWVhMUk9RNGQxaXFOTk95eldpV1hGRzNTYnk0YmpYS0Nva3c?oc=5",
+   "summary": "",
+   "publisher": "Audacy",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-12T16:59:00+00:00",
+   "fetched": "2026-10-12T17:16:03.084144+00:00",
+   "visas": [
+    "visitor"
+   ]
+  },
+  {
+   "id": "6c048b664505fb75",
+   "title": "Jung Chung-rae's European audit follows U.S. visa delay - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWdnQl9LQnE3Zi1IYjg2UUxKNVVtdVpUa3ZnOV9pVFpZOU1rQ1dMTnJsRWFoNUdFUTR6QWFqX05lRFFfRGRRdW4tUWtGeFZsenBZdC1aOTR4Z0Y5TlFFcWZsby1FV21MREVSaFA1Y0JDV3E0OGJ1aGk1SzRWTlFVeFFnRlQ?oc=5",
+   "summary": "",
+   "publisher": "조선일보",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-12T16:53:15+00:00",
+   "fetched": "2026-10-12T17:16:03.084144+00:00",
+   "visas": []
+  },
+  {
+   "id": "4c90c54539660f02",
+   "title": "New migrants make for proud but anxious Aussies - Yahoo News Australia",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzZ3hPLWJIbC1TNVA4YjU2d0p4Y2tfR3dfM18tVVdrY1NiVnhsd2JybWE3a0ZOTGYxb2FCaFJNOVJFTmFDSk85Z282ZlBrdVRFY2ZjdVBLX25mbGNtVndjSjBXNTR1cDgxaTU3SDRBN1lxN0hJYmxsejl0RQ?oc=5",
+   "summary": "",
+   "publisher": "Yahoo News Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-12T16:30:00+00:00",
+   "fetched": "2026-10-12T17:16:03.084144+00:00",
+   "visas": []
+  },
   {
    "id": "54f0c55bda51595a",
    "title": "Trump Appeals Court Loss That Blocked $100,000 H-1B Fee Policies - Bloomberg Law News",
