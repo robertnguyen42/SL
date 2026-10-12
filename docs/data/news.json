@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T22:46:41.285923+00:00",
+ "updated": "2026-10-12T23:14:54.890964+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -289,7 +289,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 0
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "nz-aewv",
@@ -409,7 +409,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -430,6 +430,19 @@
    "source": "au-citizenship",
    "published": "2026-10-12T22:38:58+00:00",
    "fetched": "2026-10-12T22:46:41.285923+00:00",
+   "visas": []
+  },
+  {
+   "id": "c7dfbe6c21416a1b",
+   "title": "Simpler accommodation standards coming for RSE employers - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUVJOZzEzMEJvTDJ0ZUFLWGE3dU1mX0xEN3FINWV4eDZFLU93QVZ3RUhVWU1hakVpaWpVVl90OEIwc0N1YTF0VEQ3cXJGTjVERVUwc3Zqd3VSSkFmeURhaGdNUlNpY2RGbUdIOEtyc2EzZjc0d0o2Y3FiRzFlUmlTOUt3TTFjU2pNZ1JrTlo3Skp0YlBZZUNUcmNMMEJXQ3Fpc1lvVm1ZX0hfZGlLbGtF?oc=5",
+   "summary": "Simpler accommodation standards coming for RSE employers Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-12T21:41:32+00:00",
+   "fetched": "2026-10-12T23:14:54.890964+00:00",
    "visas": []
   },
   {
@@ -5327,6 +5340,21 @@
    "visas": [
     "express-entry",
     "pnp"
+   ]
+  },
+  {
+   "id": "64c8b4510bc86017",
+   "title": "TPS Haiti - Ayisyen Ap Resi Delivre USCIS Soti Nòt 47 Senatè Siyen - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fZFFjT2FQY2lzSVZ0OG91d1E5N2RzNnhXdDh0YW41ajhLX1pIdWlKY01aTkY5VW1UQmpyMDdaT3lReEJWV1p6WUttNFFIdVdRakw3OFdDTkd4REdx?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-07T23:29:12+00:00",
+   "fetched": "2026-10-12T23:14:54.890964+00:00",
+   "visas": [
+    "asylum"
    ]
   },
   {
