@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T07:26:55.750676+00:00",
+ "updated": "2026-10-12T07:53:22.254178+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-en",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -403,13 +403,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -18779,6 +18779,21 @@
    "published": "2026-09-23T07:00:00+00:00",
    "fetched": "2026-10-11T21:45:48.409512+00:00",
    "visas": []
+  },
+  {
+   "id": "cb650435c2b577ec",
+   "title": "Citizenship by Investment Physical Presence Rules in 2026 - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVnRFSzMySE5TX2F3TU1mZUlvVllFS1BwaEdsUDJrRFJpcmZxOGRZRFlQRWNmNGY5OW1ZYmFxRjZ4N01lOVI4UXVuQTg2NXNneVZ4WUM3eWJhdGpLbnJuRGtxX3dOMU5hSTZoNFRvSUlvWmNtQ01OdWJUQnc2ZTA4ZnE4ODlYU3h3YWc?oc=5",
+   "summary": "",
+   "publisher": "IMI Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-12T07:53:22.254178+00:00",
+   "visas": [
+    "citizenship-investment"
+   ]
   },
   {
    "id": "b436ab5a5a925ab9",
