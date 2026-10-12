@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T23:14:54.890964+00:00",
+ "updated": "2026-10-12T23:45:39.197272+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 9
+   "count": 12
   },
   {
    "id": "eu-gov",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-family",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "nz-aewv",
@@ -13228,6 +13228,19 @@
    "visas": [
     "golden-visa"
    ]
+  },
+  {
+   "id": "e8f096cbfeb4d289",
+   "title": "Belonging: Migration and Human Rights in Australia - Australian Human Rights Commission",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmhEUldvVU9FZWRiM3hwdjFqeE80QWtmX1g5TmlJNUpJUWhBc2RVUkJfeUxNamMtMFktM1k2WnVDRXFrZkdRc0dmSExybnZwVy1fRFY2ZWszV1FLVlEyRzJLVF9RZjhrNEpHZFE1MFVfLTExdGowNjVMd3NqTnY3cjVWaUlVRzdJemVCMDQxT0Ztd2RBaGFKeF9hOC11c1ppR0Rxbm9MNFJVQXl3TnVhZUFZUWxsTnByejdudGxrUUY?oc=5",
+   "summary": "",
+   "publisher": "Australian Human Rights Commission",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-12T23:45:39.197272+00:00",
+   "visas": []
   },
   {
    "id": "1fccfb2ef11b7b74",
