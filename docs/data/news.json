@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T19:15:20.879706+00:00",
+ "updated": "2026-10-12T19:46:50.938992+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -325,7 +325,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "eu-blue-card",
@@ -379,7 +379,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -486,6 +486,21 @@
    "source": "us-h1b",
    "published": "2026-10-12T15:26:00+00:00",
    "fetched": "2026-10-12T16:16:59.725167+00:00",
+   "visas": [
+    "h1b"
+   ]
+  },
+  {
+   "id": "8c756361d8e03287",
+   "title": "Week in review: EEOC sues employment agency for alleged H-1B worker preference - HR Dive",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREFkU1FiTndTekVuVi1kRG12dTBUUXBRRURlT0xGZk85N2F3ajdKQTJTMkFLZklhS2dWU0ZXb0s2TzVGVFVyODkxOGpaeFhuUzUzS0I3RWk2Zmtfa3ZjVk1POTVlSXRkR3JoMXZiSkFaUEZ3djQ2VTVodjh2UVpDUjVoakVIdTRDVUFRM21DYTE1aENrWlhvbUdyUDdubG1VNDhYbTNFaDRlN1JaWWx3?oc=5",
+   "summary": "",
+   "publisher": "HR Dive",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-12T15:24:30+00:00",
+   "fetched": "2026-10-12T19:46:50.938992+00:00",
    "visas": [
     "h1b"
    ]
@@ -28273,6 +28288,22 @@
    "source": "nz-gov",
    "published": "2026-09-10T07:00:00+00:00",
    "fetched": "2026-10-11T16:46:00.950891+00:00",
+   "visas": [
+    "aewv",
+    "post-study"
+   ]
+  },
+  {
+   "id": "c9224bcaf518bb2f",
+   "title": "New Short-Term Graduate Work Visa launching on 16 November 2026 - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnM2TU9QMDk0YWVTSkRpWDlBRjJpOWhEcGItMmdkX19HaG81VWhTVnNFSVZzM04wU3JwRjJLN1VlOXlWTWpCY0RGVy14NGtTaTd3bDRtdFZXeXNKQWpWOEkwR3dObTNieTVCRHlVdGZtQnlQLUtPWEVhUGhpVnh0VlphZ1I3TzhqX0RwR1JfRHIzTThxOWc1NzNIaUhhYk1JTm52RE9na1RoY0d2Mmt4cHZXc29iWXhp?oc=5",
+   "summary": "New Short-Term Graduate Work Visa launching on 16 November 2026 Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-09-10T07:00:00+00:00",
+   "fetched": "2026-10-12T19:46:50.938992+00:00",
    "visas": [
     "aewv",
     "post-study"
