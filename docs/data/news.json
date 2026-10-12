@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T16:16:59.725167+00:00",
+ "updated": "2026-10-12T16:48:12.986124+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-gov",
@@ -205,7 +205,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "nz-aewv",
@@ -2003,6 +2003,21 @@
    "published": "2026-10-09T13:44:10+00:00",
    "fetched": "2026-10-09T15:48:14.023152+00:00",
    "visas": []
+  },
+  {
+   "id": "866252f8feb618d2",
+   "title": "Trump administration suspends Microsoft’s use of green card program - KIRO 7 News Seattle",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczk3alJRR2hIUkNTWm9kTjVkZDBScV9LV28zbTNGdzNZVWV3cFBSMDNFVnctYUdGNnNDSzZMSTg4SzlvazB3SU5WU1hBUkY0dkY2ZGhTUWJDSGRhZlAzUWRUbG40R1RVUmYwUlNGMFAwS3E0dzNNQUZzVFJFRl9VOWFwSnRyRW5tS1JRWVo0bnZGeFFsT2FGZXpWU2psQ3JWMWRqbnZ0azQ1ZGs2RFpDVHZTYUxxQjQ1cXdfOTNVVHZjd9IB1gFBVV95cUxPR3RrOENxdlZ1ZGNnQU1GVmQ5aGN3TnBmOHp5SFRoYzVLTmxCaGNMWHJZQ2VuZEE0dkxDSzl6RHA4OEtCcUQwOFB6VzUzSWdNdHFNZUhOWHhzMm9UdUJTaU5EeHN0emtFekItZEhOTFlPb2ZwYldSY1p5TGZZQ3p1SXdxWmxYWVR4dWl1QmdDUFI4dmo1dTdjdlM3TVk5MVlQaE93UGNISGFINk9vWVFTd1RtaTAwU2NjbENCYkxkVFhaMnhLMGotb3VCWUxRSWtDbVYxa2ZR?oc=5",
+   "summary": "",
+   "publisher": "KIRO 7 News Seattle",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-09T13:35:40+00:00",
+   "fetched": "2026-10-12T16:48:12.986124+00:00",
+   "visas": [
+    "green-card"
+   ]
   },
   {
    "id": "8739b06c4d6c6e8e",
