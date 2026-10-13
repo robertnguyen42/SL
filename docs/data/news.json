@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T17:47:41.040557+00:00",
+ "updated": "2026-10-13T18:21:59.865755+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-investor",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "1c2deedbd9fe645b",
+   "title": "I’m sick of immigration being blamed for problems it doesn’t cause - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWZJaVJtMlppdW4tMDF5NG1YMHRUZGw3OGduR0k3TV9zSHVVclJpTlFCTUtXaWJjd3UwTDBKdFRDMGdLR1pQQVpoRjVOMkpzajRmVzY4TE1RdmtZc0YyckRaVF9JQnpIOG9pdGRpV1JzN3FweFY0YkoyaWFVUGZrd0NoMXJUanVhNjlYYWFIRzU3a1doV1dLOE1xUEppb0V6Mmhkd2hRYk5CbXNJZjdrMXNyOGU4V1JxQmhRLUxTS1pvUUZaYWRRN2MxMA?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-13T18:00:00+00:00",
+   "fetched": "2026-10-13T18:21:59.865755+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "b06d6b6ac32d1ee2",
    "title": "DHS Proposes Ending Deference for Prior USCIS Approvals in Nonimmigrant Worker Extension Cases - Erickson Immigration Group",
@@ -637,6 +655,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "68091de4b03f546e",
+   "title": "What the US PERM Freeze Really Costs India’s IT Industry - The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnQxRkNhYTItaXllT0ZjVHFnY1BETjU5Q1lDMmpFVEk1Tkt1MW03NkRqNkpaWWV0TkNPdXRrVjZpc29sNzd1QjFVc0hpMF9XRnRfdDl4VU5SUHVrUUh5Y0pQNjdKTUxZbUxlNmRHbnZPSWNXU3E0NGwzNF9oVkhaNk5ranJDOWZBSXF2VTIzWmdJZw?oc=5",
+   "summary": "",
+   "publisher": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-13T15:10:06+00:00",
+   "fetched": "2026-10-13T18:21:59.865755+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "17c4409bd5cbb958",
@@ -3784,6 +3822,26 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "8917526932a18221",
+   "title": "Microsoft and Adobe are suspended from H-1B visa program, with Vance accusing the tech giants of fraud - Fast Company",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSUNQcXgxN0RXYlp6MmdtNkQwcV9GUkotTGdzTVc4Z2phYzluSENPV0ZKTFNqeXltSnduR0RDYjF0U29JeF9ac3BUazVOVVI3T01jSmdZMTVBRThpb3B4MGJmcHpmR1ZhMTZEODNUbTJLU1ZzRG1hQVpVY3cwbnlYVXg0anlpMjZoVy1YMW96LVhGUU5SWlZNZFpkTVJPNTFCOWZlZ3g3VXlvRklPdmNXeE5JU1ZVRkVwTjF5MERqeUU4OEw3OTVNX3Y5QTVCMnY4S2JqOQ?oc=5",
+   "summary": "",
+   "publisher": "Fast Company",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-09T14:14:08+00:00",
+   "fetched": "2026-10-13T18:21:59.865755+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "23397e1fc8cfb98f",
@@ -17194,6 +17252,24 @@
    "visas": [
     "family"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d7821c7c70340de4",
+   "title": "New Zealand Lists 6 Key Conditions Foreigners Must Meet for Work Exchange Visa - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEprQnA4THAtYnEwV253UTJxVVB5bDRfSlNUbllZWEJMMW1ZbnctMWhqMkF3NXVGb1JVamxGb2pCRGVzNnBYRmxoNEhlTVRpQ0tjdG1Wb0o3Y0VEOEcwUkxZWURmSi1sSEdaa21TcXBhbnRGejZTbmc0alFidWFNLVNoZXNySTI5SWlRbE8yWlYzeWc1aUliODQxMEJtQ09oYUZZSjduUnBEUQ?oc=5",
+   "summary": "",
+   "publisher": "Legit News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-02T07:00:00+00:00",
+   "fetched": "2026-10-13T18:21:59.865755+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -36517,6 +36593,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "c535a0d06a7af4cb",
+   "title": "EU Commission mulls revision of Schengen visa rules and fees - The Local Europe",
+   "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNVF9NejJlV25NUVRiOUw3d2hHTzMwOVN2eUVhMXFjai00cmlFWjhMZFlZTXRQS1QybXFOcGJ5blc3TXpjb1gtYnlPbE5fOWZXQkRESzFKUjh3YUdyTTNxYTNJUWNQNXB6Mk1vcnVaN2NVQTNaRFRhbUtKaXdxVnY4ckhra053SzZyeDdHZnl3VWFEcVhMWjRGTE1DTU1NaThzNU5aekVwd19wbjV1VzRBTWV2Vk5zQTF2UGI3Z3BweFlRa0tJVlZHVld0VGlsNUpyZkhGTnBYS25Da28wOEpqeWQ1MjFHSnBFUGJtdW9IQkw0QUczenFEQzhTN2hTRHlhVnN3VnNYZUJ6NnVCWFdsQXhneWVnUkU5elR0M3UzMTBBYWd4MEJGSHdvVnloNVNZdnJtekhhUDQyblYzdXZiSURndHZ2cUo2U3hENFRjUmhkUjN0ekthSFFUem1VbThGY1NpMVZCQjRSNEd4R2lGVHByYkdFdzE0RGZnSi1PQ3lBclJISVlOQmRib1EwLXVhZ05nRVlFQmdCRzlLYWhN?oc=5",
+   "summary": "",
+   "publisher": "The Local Europe",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-14T07:00:00+00:00",
+   "fetched": "2026-10-13T18:21:59.865755+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "eba521cba3efb57f",
