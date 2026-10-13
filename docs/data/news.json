@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T13:56:35.961488+00:00",
+ "updated": "2026-10-13T14:22:40.872679+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-work",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -585,6 +585,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "0fd215ce1fc3bcd0",
+   "title": "New Zealand Releases List of 25 Visitor and Transit Visas That Must Now be Applied for Online - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzM3OGUwQUt4ZjBZS01yNkJ5STVWdk9tZGVMVXlfM0w2YTkxUlM4MVlISVRCandjSUVRbnRjckdxZHd5aHNlbW9PN2JmZUF0a1pmNlJfRnJvRHV4VHVMYm1WQWpJR3phWkl6bW41Q1BkMXZKdlg0bmFNbkVMN3lHRmxTbVlBN1hYbGZpaFFuRFkySThpZEE?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-13T10:21:00+00:00",
+   "fetched": "2026-10-13T14:22:40.872679+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "cf29b57235f6583e",
@@ -36089,6 +36107,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "c43e186f9c878f0b",
+   "title": "Tufts international students grapple with imminent visa restrictions, concerns about potential drops in international enrollment - The Tufts Daily",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTFVVTm5BbERoWmNsRnRrbWVmYmw1S1pCODJxVHJlX2xDVTVyWkQzd0tidHdVUU9JS2JYaVNQU3o1R0xGRTFNUzl2ZUotRlp0MHYwUjZJMDRvRElhVVlVaV9kYTcyazhMdXFtTGhheG5wN3ZmdXdwYS1MWHVtcE9uY2JaMVNLaU9LdmdudVNJX0I3Q0dqT0pSWVdublNGckp1b3Q5ZkFCS3lNbHl1SS04QkVkbVJZNGtYZktIcV9WdzFIVUpNU2lqTUlpYVNnSEhRYjF6Sm8zbnRaZmxjbDg0Zm11cHA3SFpTQW5yaHlneDJYR1JDVVpkWjZvS2tHU1U?oc=5",
+   "summary": "",
+   "publisher": "The Tufts Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-14T07:00:00+00:00",
+   "fetched": "2026-10-13T14:22:40.872679+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "eba521cba3efb57f",
