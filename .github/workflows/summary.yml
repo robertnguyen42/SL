@@ -1,7 +1,9 @@
-name: Tóm tắt tuần (AI)
+name: Tóm tắt tuần (AI) — ĐANG TẮT
+# Đã tắt để không phát sinh chi phí API: bỏ lịch chạy và không truyền ANTHROPIC_API_KEY,
+# nên kể cả bấm Run workflow thì summarize.py cũng tự bỏ qua.
+# Bật lại: thêm `schedule: - cron: "0 1 * * 1"` vào `on:` và thêm
+#   env: { ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }} } cho bước summarize.py
 on:
-  schedule:
-    - cron: "0 1 * * 1"   # 8:00 sáng thứ Hai giờ Việt Nam
   workflow_dispatch:
 permissions:
   contents: write
@@ -10,17 +12,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: "3.12" }
-      - run: pip install -q anthropic pydantic
-      - run: python summarize.py
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      - name: Commit
-        run: |
-          git config user.name "ditru-bot"
-          git config user.email "ditru-bot@users.noreply.github.com"
-          # Chưa có API key thì summarize.py không tạo file nào -> không có gì để commit
-          [ -f docs/data/summary.json ] || { echo "Không có tóm tắt mới, bỏ qua commit."; exit 0; }
-          git add docs/data/summary.json docs/data/summaries
-          git diff --cached --quiet || (git commit -m "Tóm tắt tuần $(date -u +%F)" && git pull --rebase -q && git push)
+      - run: echo "Tóm tắt tuần bằng AI đang tắt (không dùng chi phí API)."

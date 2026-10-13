@@ -175,6 +175,7 @@ async function loadSummary(){
     const r=await fetch("data/summary.json?t="+Date.now(),{cache:"no-store"});
     if(!r.ok)return;
     const s=await r.json(), box=document.getElementById("sum"), tax=data.taxonomy||{};
+    if(Date.now()-new Date(s.generated)>8*864e5)return; // tóm tắt cũ hơn 8 ngày thì ẩn (tính năng AI đang tắt)
     const d=x=>new Date(x).toLocaleDateString("vi-VN",{day:"2-digit",month:"2-digit"});
     box.innerHTML=`<header><h2>Tóm tắt tuần · Top ${s.highlights.length} thay đổi</h2>
       <span class="when">${d(s.from)} – ${d(s.to)} · AI tổng hợp từ ${s.item_count} tin, hãy mở nguồn để kiểm tra</span></header>
