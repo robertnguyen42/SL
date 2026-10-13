@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T20:26:39.293780+00:00",
+ "updated": "2026-10-13T21:01:59.600733+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-family",
@@ -406,7 +406,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-investor",
@@ -430,13 +430,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "ef45cfd08fc0041c",
+   "title": "Employment Court: offshore visa job premiums now illegal - B2B News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUZyRTViRWgxb3lpWVEwMEZFY1VjbjBEYW1JRVpyNXdlX0Y5TDY0aUR4Wm5VcGNGOUdRTEZiOGxrS2pCT2VadnZEN2ViVmFPaktHUW8wSkJmVTdvQmRYeXRWNjJzT3VZd2doZ0liQUFMWUlYZUF3T05UTnBOeUxzU1pEUEVYZGxQWWVj?oc=5",
+   "summary": "",
+   "publisher": "B2B News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-13T20:40:13+00:00",
+   "fetched": "2026-10-13T21:01:59.600733+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "dd089fb53995a621",
    "title": "Naturalization in the U.S. is on the decline - NPR",
@@ -1009,6 +1027,26 @@
    "score": 1.5
   },
   {
+   "id": "70444a6b37c97440",
+   "title": "UK names family circumstances that could affect migrants' deportation cases - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmpVS0hTeWxiZ24zeF82SHQ5WVRYT2JhM2FZMmc5ZkQwa0w1OVZWbUhBMDliTWthTjQzbzZGWFZibENSQlF4V1RlZ2VkTE8yLXBDdWxmZzY1OGFvTzFMcFFxeHdYTGVadlB5SE9EM1FWVlNBczVUUG4xVDQ5Y2NkQWRaVVRKaTJQMGltY0U1ekljOFpRb2FOS2t5NDQ4RGsxMHc?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-13T12:46:01+00:00",
+   "fetched": "2026-10-13T21:01:59.600733+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "9470c1620136c68d",
    "title": "New USCIS Deadline Rules: What Green Card and H-1B Applicants Must Know - Outlook India",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc1VJSW96NGFvVHZaVWtEbGE4S0JwMWQtWHhJc2tvVkxUUUpDaGEzc1FDcGFlMVdGcjZfcVU3R2NzRS1BRFhHV1JVTGxxUDZCQUI3a2k5MUFvNTgtNFdWZDVoVUM4YnlfZ290U3duVlhHWVhwQ29sTTQtRC1IUzg5cFpPRnZFa2tqUUVfN3FhMGlSSUpWejRhQUpjODlGRThfbVVsUXVkSHQzVHZoYk82TzhSNNIBwAFBVV95cUxQRzJqdEhNUVJ4QmFkWkF0UE8ybWV5SExmWXVVNzA5Tk9fZHZ4cmVxTjRiMkw5OUd2ZkstSGhXeDktRGNNR3FSUmZzQXB4eE5oM3BHcjg5Und6aU5QdURERFFpWVpuZ2I4N1JReWJ6STFucnhsMFU3amZvWDhHRnE0ZVQ4WGJidHNwS1BqUC14eFdBNEFFVGU4SDVLaVpTZVEyMUFrMFhVbnpGTnJyOTNWenRlMzNJN3BuMkw2UmRRVHA?oc=5",
@@ -1068,6 +1106,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d6fa9a75642db467",
+   "title": "US PERM freeze: Expert outlines impact and alternative Green Card routes for Indian workers, ‘The real consequence is…’ | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRVV1TnNmX2dxRUN2cFRKYkxJRUFGU3ZuQk5zMy02TUROMjNtckQ3Q1hDNnhwcllocnNfWmE2dVU0TEhjZHBvYmk1dVI5aTJ3QU83aDFqa040TjU4d0g2T2RUcTRuUUhaSDY2d1RKR3p5NXAzeTMxcG50MGFwcGNOZDlLNnlXVjhoaFZQYnZMVDh0NkM3dzNOUHdVNmxJWTFIanBwaWJUa0hVS2gzZFB5MGZTRXhTTmM4NktVbF9ka2NQWEY1YUloeWRmRWp3bU1MNVhLQXJnTWNkNW1SaVdmYUpQa0NRanRNeVg2TXo5ZkNNSG9RbUIwVEVEeWU3UnZrZHU2SHdWVWfSAY4CQVVfeXFMTzBXb3k5T3FmVGJzc0FaOTBvUnp4UG1hQklOYlI5Z1p0Y2c2TjdlWjUxeElqeDZxN2R3YnlZNlpDaFpjaTdFNFlsMkpneTNmdFlnX2FlaW9WSTFQb3ZZWVNtVEwzaDJXWWtGWFF0UklpS2dOU28wcEZuWmJMdTNpX2tTXzlHQTR4cUE3V3hyeWpvMFByeGVpbGtjcDZ5NDRBSkVhTXN1VTlVa0lHanIyVUJrTUVvdmRYLWljUnhucVNkdGoyMTgxdzEwbW1aSUlYZHZaOGt5M2FLVERPREtZTlpSdHZtY2JYWGNncFdnZGdkV21NS2pxaGRzWWN3Mm82Wk1OdTZydUE2Ry1kanRn?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-13T11:32:39+00:00",
+   "fetched": "2026-10-13T21:01:59.600733+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "b3a5388c66117a5b",
@@ -1185,6 +1244,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "a280acbd3376c661",
+   "title": "Warning over fake ETIAS authorisation scams | More than 150 fake websites promise travel authorisations - money-tourism.gr",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenZSWklIUjd5NG02WVAyeGZKc3IxSWlxQldZV1dIQVk3OXpOVXJtX3Vtak5wUndSUEtseVZhZ0F1engwV2tXN29yTzlqYkFmVllPSHQzVzByVjBXMFA2amNxQ05leEdHNTFyRW9KcHVzMGtkN3B3Zm84bnlKT3lxdGZWRHlTTkRkVzF2RzJPVHNVNEhkVFZ1TzJJZ1o4OFZpNXp3Ni1QTDFNdU1yQV9ncnhUbzlpcE9CZENGSTZXU3JUa3FhLXc1MU93?oc=5",
+   "summary": "",
+   "publisher": "money-tourism.gr",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-13T08:49:01+00:00",
+   "fetched": "2026-10-13T21:01:59.600733+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c771de575b13e729",
@@ -7634,6 +7713,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "8693237b6211175c",
+   "title": "Argentina's New Citizenship by Investment Program: Sound Foundati - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQnZ3bE92azJaLVhsNDM5MlA3cGYzakhaZkx2SXN1TkwwVndLVHMxTmlHVXFPSGJQbGoyWml5dTNZbVRGeGNlODUzLWhUNzFQY2hFMWpNbVl3Tmo5VDFJSWhuVmh1MmdWcFE1X05pdklneFFmc0N0cnJOSDUzRkkxYm5nM0ZhNnV1QnJWTHl0aE45RE9sRUpLYlJPR29LS19ya190V19odmpUckRKRnFxY3dn?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-08T11:58:20+00:00",
+   "fetched": "2026-10-13T21:01:59.600733+00:00",
+   "visas": [
+    "citizenship-investment"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "0c321a3e056debb6",
