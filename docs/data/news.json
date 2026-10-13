@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T11:17:28.730526+00:00",
+ "updated": "2026-10-13T11:49:00.861031+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-work",
@@ -486,6 +486,26 @@
    "score": 4.0
   },
   {
+   "id": "4da569a73ea1405c",
+   "title": "Dubai lists 4 categories of foreigners eligible for a 10-year Golden Visa - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalg5MjU2U1ZHVU5tTXJIa1FxWkRLUjFGdjlTdXk1d29MZ040Smdkak1GSnpnRmZtS0tDemhwMHFGMmtkbktVeWp0TVJSLVVFSlJBQkpVanJlanFrTm42eC1hZWo3d3JUZGJEMWNnR2pRTGpTMHk1Vy1QMmJTWkxtLTBVNzdQRDlZZThQYks2cTlsNTBrMzZGdTBmQ0FsMS1iS2FuYzdR?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-13T10:27:40+00:00",
+   "fetched": "2026-10-13T11:49:00.861031+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "cf29b57235f6583e",
    "title": "EES checks can be suspended until end of 2026 as ETIAS launch date is dropped - Travel Gossip",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzZONHhDWlhHRzBabGRTVFMwcE52NGRpVmZlNnBCazFBVG5RMkRtNEdsVkRBcmhrc1NiemNMRGNOeVZXSmlOUGIxdVcxMEU0UHJOa1YxaHhzNFZjaTY3UmpXUjhFVHZCalJ2SmRaLWt1VGF5VlR5S19UYWRxdmw0dHZKekl6eGhEa2xkODU2b24wQ2dRVlg2U3ZNUHlzTW9UYkJyTDNNSUs5aHdRV0hGdkdFNHBpRlE?oc=5",
@@ -524,6 +544,26 @@
    "direction": "noi",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "0e2bad2857226d49",
+   "title": "Tourist Visa Fee Plan Wins Approval - News of Bahrain",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGtKUEsxVlFpbWpLeThMR2VSTUZ4R1FlZUVfX21WUG9WeEN3T2lySW94UFlWNkczSnROeC11R3NFZXdILU0wYWZxWU83M3lLVVAyRHV0VGp0UUpnNGpXNjlaeEZQank0WVlndld6cG13UEpRY0pLVG13NWdXc3RCS2JB?oc=5",
+   "summary": "",
+   "publisher": "News of Bahrain",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-13T07:22:11+00:00",
+   "fetched": "2026-10-13T11:49:00.861031+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "d52494cc79598047",
