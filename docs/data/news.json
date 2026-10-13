@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T22:28:20.004321+00:00",
+ "updated": "2026-10-13T22:58:31.186746+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "85c503ce5f91bbd8",
+   "title": "'A psychological nightmare': Why NZ declined transit visa for woman stranded in Cook Islands - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ3pLS0FhLURydE9VY3p1d2t5VnBucE9UTWZidFI5Um5uY0tlVTlSMnNpUlNscU9FdVl3VS1aSTJKZ0pycnlWNnNLU1hxR0FEU0cwTnhwdGt6MjZFSDRGSC0yd1A0aGpHOFFqQ2lRVVlrUHM2TERPcDd6TmpCSVRBYzJBOEFlVGp5QnB4Q094UTZKTjVOaV9xX0F0SXBJX2swTXdIaWctbUU0MlBmVDh1VEZWWl9WOVFzaW1BNW1VYnlSSkRDVmJQZzlSSmI?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-13T22:27:16+00:00",
+   "fetched": "2026-10-13T22:58:31.186746+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "7e058143e050a5d6",
    "title": "EU Entry/Exit System: Airports, Airlines Propose Six Measures to Cut Delays - GTP Headlines",
@@ -903,6 +921,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "1a73eb8f6ddaa6ba",
+   "title": "Canada’s immigration policy is undermining diversity - Frontier Centre For Public Policy",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOS15Q09LeVY4OE8tSGJSYWdidWJsdEZUWk82RjdQLXFLWTVUUDhZejNpTnlvYWlYMWdBMGNJU0FvUFFUaUxBR0xPWmVnOTZPTTVZQnNVNjRtdE9HQV8xcnR2enQ2N0UzM0swMUFmYTZTRVhvU3VJUjJHVEl0TlQwbG5GUHVuNlQ5aHktZm1aVmROU0VF?oc=5",
+   "summary": "",
+   "publisher": "Frontier Centre For Public Policy",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-13T15:16:06+00:00",
+   "fetched": "2026-10-13T22:58:31.186746+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "68091de4b03f546e",
@@ -36252,6 +36288,26 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "e20e6eec7a877da5",
+   "title": "Opinion: Six Months in, the EU’s Entry/Exit System Isn’t Working - Business Traveller",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFEwRy1kbG95cHFYS1EwYXpNRXJTY3Y2Wl9pLU94MUZZalpuaENOYksxQUNpa2dTUG9QeExnZW9HRnNudGR5NFo2b3QyME4zNVNlNDVQMy1fZkl3UzFrOUM0UXI2c2ZrN2tXcndmQmVMOXZJaVpFVFk3U3pzejlmVWt2UjMtQWF6d19XeWJnd2d3NDNKdzZRTVU2cTVFcE80OVE?oc=5",
+   "summary": "",
+   "publisher": "Business Traveller",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-13T22:58:31.186746+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c9bbe165fb97e3ad",
