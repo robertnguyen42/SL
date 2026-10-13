@@ -1,5 +1,5 @@
 {
- "_huong_dan": "Cấp 1 = nước, cấp 2 = loại visa. 'country' = từ khoá nhận diện nước. 'kw' = từ khoá gắn nhãn visa (không phân biệt hoa thường; số thuần như 482 chỉ khớp khi đi kèm 'visa'/'subclass'/'diện'). 'q' = câu tìm Google News để lấy thêm tin riêng cho loại visa đó (để trống = không tìm riêng).",
+ "_huong_dan": "Cấp 1 = nước, cấp 2 = loại visa. 'country' = từ khoá nhận diện nước. 'kw' = từ khoá gắn nhãn visa (không phân biệt hoa thường; số thuần như 482 chỉ khớp khi đi kèm 'visa'/'subclass'/'diện'). 'q' = câu tìm Google News để lấy thêm tin riêng cho loại visa đó (để trống = không tìm riêng). 'uu_tien': true = diện visa ưu tiên (định cư lâu dài), được xếp lên trên.",
  "AU": {
   "name": "Úc",
   "flag": "🇦🇺",
@@ -19,7 +19,8 @@
      "Skills in Demand",
      "temporary skill shortage"
     ],
-    "q": "Australia (\"482 visa\" OR \"Skills in Demand visa\")"
+    "q": "Australia (\"482 visa\" OR \"Skills in Demand visa\")",
+    "uu_tien": true
    },
    "employer": {
     "name": "186 / 494 · Doanh nghiệp bảo lãnh",
@@ -31,7 +32,8 @@
      "ENS",
      "doanh nghiệp bảo lãnh"
     ],
-    "q": "Australia (\"186 visa\" OR \"employer sponsored visa\" OR \"494 visa\")"
+    "q": "Australia (\"186 visa\" OR \"employer sponsored visa\" OR \"494 visa\")",
+    "uu_tien": true
    },
    "skilled": {
     "name": "189 / 190 / 491 · Tay nghề độc lập & đề cử",
@@ -45,9 +47,11 @@
      "state nomination",
      "skilled migration",
      "tay nghề",
-     "đề cử tiểu bang"
+     "đề cử tiểu bang",
+     "định cư tay nghề"
     ],
-    "q": "Australia (\"skilled migration\" OR \"190 visa\" OR \"491 visa\" OR SkillSelect)"
+    "q": "Australia (\"skilled migration\" OR \"190 visa\" OR \"491 visa\" OR SkillSelect)",
+    "uu_tien": true
    },
    "student": {
     "name": "500 · Du học",
@@ -82,7 +86,8 @@
      "đầu tư định cư",
      "doanh nhân"
     ],
-    "q": "Australia (\"National Innovation Visa\" OR \"investor visa\" OR \"188 visa\")"
+    "q": "Australia (\"National Innovation Visa\" OR \"investor visa\" OR \"188 visa\")",
+    "uu_tien": true
    },
    "partner": {
     "name": "820 / 309 · Vợ chồng – Hôn phu",
@@ -165,7 +170,8 @@
      "regional center",
      "đầu tư định cư Mỹ"
     ],
-    "q": "\"EB-5\""
+    "q": "\"EB-5\"",
+    "uu_tien": true
    },
    "eb-work": {
     "name": "EB-1 / EB-2 / EB-3 · Định cư diện việc làm",
@@ -179,9 +185,13 @@
      "NIW",
      "PERM",
      "labor certification",
-     "employment-based"
+     "employment-based",
+     "chứng nhận lao động",
+     "định cư diện tay nghề",
+     "định cư diện lao động"
     ],
-    "q": "(\"EB-2\" OR \"EB-3\" OR NIW OR PERM) green card"
+    "q": "(\"EB-2\" OR \"EB-3\" OR NIW OR PERM) green card",
+    "uu_tien": true
    },
    "h1b": {
     "name": "H-1B · Lao động chuyên môn",
@@ -244,7 +254,8 @@
      "priority date",
      "final action date"
     ],
-    "q": "\"visa bulletin\""
+    "q": "\"visa bulletin\"",
+    "uu_tien": true
    },
    "green-card": {
     "name": "Thẻ xanh – Điều chỉnh tình trạng",
@@ -253,9 +264,12 @@
      "thẻ xanh",
      "I-485",
      "adjustment of status",
-     "permanent resident"
+     "permanent resident",
+     "thường trú nhân",
+     "quyền thường trú"
     ],
-    "q": "\"green card\" USCIS"
+    "q": "\"green card\" USCIS",
+    "uu_tien": true
    },
    "citizenship": {
     "name": "Nhập tịch – Quốc tịch",
@@ -323,7 +337,8 @@
      "Canadian Experience Class",
      "draw"
     ],
-    "q": "\"Express Entry\" draw"
+    "q": "\"Express Entry\" draw",
+    "uu_tien": true
    },
    "pnp": {
     "name": "PNP · Đề cử tỉnh bang",
@@ -335,7 +350,8 @@
      "AAIP",
      "đề cử tỉnh bang"
     ],
-    "q": "Canada (\"provincial nominee\" OR PNP)"
+    "q": "Canada (\"provincial nominee\" OR PNP)",
+    "uu_tien": true
    },
    "startup": {
     "name": "Start-up Visa · Doanh nhân",
@@ -347,7 +363,8 @@
      "C11",
      "doanh nhân"
     ],
-    "q": "Canada \"start-up visa\""
+    "q": "Canada \"start-up visa\"",
+    "uu_tien": true
    },
    "student": {
     "name": "Study Permit · Du học",
@@ -462,7 +479,8 @@
      "đầu tư định cư châu Âu",
      "đầu tư cư trú"
     ],
-    "q": "(\"golden visa\" OR \"residence by investment\") Europe"
+    "q": "(\"golden visa\" OR \"residence by investment\") Europe",
+    "uu_tien": true
    },
    "citizenship-investment": {
     "name": "Quốc tịch đầu tư (Malta…)",
@@ -472,7 +490,8 @@
      "hộ chiếu vàng",
      "quốc tịch đầu tư"
     ],
-    "q": "\"citizenship by investment\" Europe"
+    "q": "\"citizenship by investment\" Europe",
+    "uu_tien": true
    },
    "blue-card": {
     "name": "EU Blue Card · Lao động tay nghề cao",
@@ -485,7 +504,8 @@
      "skilled immigration",
      "lao động tay nghề"
     ],
-    "q": "(\"EU Blue Card\" OR \"Opportunity Card\" Germany)"
+    "q": "(\"EU Blue Card\" OR \"Opportunity Card\" Germany)",
+    "uu_tien": true
    },
    "work": {
     "name": "Giấy phép lao động · Thời vụ",
@@ -596,7 +616,8 @@
      "work to residence",
      "tay nghề"
     ],
-    "q": "New Zealand (\"Skilled Migrant\" OR \"Green List\" OR \"straight to residence\")"
+    "q": "New Zealand (\"Skilled Migrant\" OR \"Green List\" OR \"straight to residence\")",
+    "uu_tien": true
    },
    "aewv": {
     "name": "AEWV · Doanh nghiệp bảo lãnh lao động",
@@ -608,7 +629,8 @@
      "work visa",
      "lao động"
     ],
-    "q": "New Zealand (AEWV OR \"accredited employer\") visa"
+    "q": "New Zealand (AEWV OR \"accredited employer\") visa",
+    "uu_tien": true
    },
    "investor": {
     "name": "Active Investor Plus · Đầu tư",
@@ -619,7 +641,8 @@
      "golden visa",
      "đầu tư định cư"
     ],
-    "q": "New Zealand (\"Active Investor Plus\" OR \"investor visa\")"
+    "q": "New Zealand (\"Active Investor Plus\" OR \"investor visa\")",
+    "uu_tien": true
    },
    "business": {
     "name": "Doanh nhân · Business Investor",
@@ -687,5 +710,141 @@
     "q": "New Zealand (\"residence visa\" OR citizenship) immigration"
    }
   }
+ },
+ "_uu_tien": {
+  "_huong_dan": "Điểm ưu tiên = tiếng Việt (+2) + tin chính sách (+2.5) + diện visa ưu tiên (+1.5) + nguồn chính phủ (+1). Trang web và email xếp tin theo điểm này trong từng tuần. Từ khoá khớp nguyên từ (fee không khớp feel); thêm * ở cuối để khớp tiền tố (simplif* khớp simplify, simplified).",
+  "chinh_sach": [
+   "polic*",
+   "rule*",
+   "final rule",
+   "proposed rule*",
+   "regulation*",
+   "bill",
+   "laws",
+   "law",
+   "executive order",
+   "proclamation",
+   "announce*",
+   "quota*",
+   "cap",
+   "fee*",
+   "levy",
+   "threshold*",
+   "processing time",
+   "pathway*",
+   "program*",
+   "programme*",
+   "planning level",
+   "levels plan",
+   "invitation round",
+   "draw",
+   "visa bulletin",
+   "priority date",
+   "chính sách",
+   "quy định",
+   "luật",
+   "dự luật",
+   "sắc lệnh",
+   "đề xuất",
+   "thông báo",
+   "hạn mức",
+   "chỉ tiêu",
+   "phí",
+   "lệ phí",
+   "điều kiện",
+   "ngưỡng",
+   "thời gian xét",
+   "lộ trình",
+   "chương trình",
+   "lịch visa",
+   "lịch chiếu khán",
+   "áp dụng từ",
+   "có hiệu lực"
+  ],
+  "siet": [
+   "tighten*",
+   "crackdown",
+   "restrict*",
+   "suspen*",
+   "pause*",
+   "halt*",
+   "ban",
+   "cuts",
+   "cut",
+   "reduc*",
+   "lower cap",
+   "raise fee",
+   "fee hike",
+   "higher fee",
+   "strict*",
+   "tougher",
+   "end",
+   "scrap*",
+   "abolish*",
+   "closure*",
+   "freez*",
+   "limit*",
+   "deport*",
+   "revok*",
+   "cancel*",
+   "siết",
+   "thắt chặt",
+   "hạn chế",
+   "tạm dừng",
+   "đình chỉ",
+   "cấm",
+   "cắt giảm",
+   "giảm chỉ tiêu",
+   "tăng phí",
+   "tăng lệ phí",
+   "khắt khe",
+   "chấm dứt",
+   "bãi bỏ",
+   "đóng cửa",
+   "hủy",
+   "huỷ",
+   "trục xuất",
+   "thu hồi",
+   "shut*",
+   "crack down",
+   "clamp down"
+  ],
+  "noi": [
+   "ease",
+   "relax*",
+   "expan*",
+   "increase cap",
+   "raise cap",
+   "more places",
+   "new pathway",
+   "launch*",
+   "lower fee",
+   "cut fee",
+   "fee cut",
+   "faster",
+   "fast-track*",
+   "boost*",
+   "simplif*",
+   "nới lỏng",
+   "nới",
+   "mở rộng",
+   "tăng chỉ tiêu",
+   "thêm suất",
+   "diện mới",
+   "ra mắt",
+   "mở cửa",
+   "giảm phí",
+   "rút ngắn",
+   "nhanh hơn",
+   "gia hạn",
+   "đơn giản hoá",
+   "đơn giản hóa",
+   "ưu đãi",
+   "ease",
+   "eases",
+   "eased",
+   "easing",
+   "widen*"
+  ]
  }
 }

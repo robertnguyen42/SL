@@ -40,8 +40,9 @@ def pick_items(news, since):
         items = [i for i in news["items"] if i["country"] == c
                  and datetime.fromisoformat(i["fetched"]) > since
                  and datetime.fromisoformat(i["published"]) > since - timedelta(days=2)]
-        # news.json đã xếp mới nhất trước; sort ổn định nên giữ thứ tự đó trong từng nhóm
-        items.sort(key=lambda i: (i["type"] != "official", not i.get("visas")))
+        # Tiếng Việt, tin chính sách, diện visa định cư chính lên trước (điểm tính ở fetch_news.py);
+        # sort ổn định nên tin cùng điểm vẫn giữ thứ tự mới nhất trước
+        items.sort(key=lambda i: -i.get("score", 0))
         out[c] = items
     return out
 
@@ -70,7 +71,8 @@ def build_html(groups, tax, since, now, summary):
         by_visa = {}
         for i in items:
             by_visa.setdefault((i.get("visas") or ["_other"])[0], []).append(i)
-        order = sorted(by_visa, key=lambda v: (v == "_other", -len(by_visa[v])))
+        prio = set(t.get("prio", []))
+        order = sorted(by_visa, key=lambda v: (v == "_other", v not in prio, -max(i.get("score", 0) for i in by_visa[v]), -len(by_visa[v])))
         shown = 0
         for v in order:
             if shown >= MAX_PER_COUNTRY:
@@ -83,6 +85,10 @@ def build_html(groups, tax, since, now, summary):
                 date = datetime.fromisoformat(i["published"]).astimezone(VN)
                 gov = ('<span style="background:#1d4ed8;color:#fff;border-radius:3px;padding:0 5px;font-size:11px">CHÍNH PHỦ</span> '
                        if i["type"] == "official" else "")
+                if i.get("direction") == "siet":
+                    gov = '<span style="background:#b91c1c;color:#fff;border-radius:3px;padding:0 5px;font-size:11px">▼ SIẾT</span> ' + gov
+                elif i.get("direction") == "noi":
+                    gov = '<span style="background:#047857;color:#fff;border-radius:3px;padding:0 5px;font-size:11px">▲ NỚI</span> ' + gov
                 parts.append(f'<div style="margin:4px 0 8px"><a href="{esc(i["link"])}" style="color:#1a1d23;text-decoration:none">{esc(i["title"])}</a>'
                              f'<div style="font-size:12px;color:#667085">{gov}{esc(i["publisher"])} · {date:%d/%m %H:%M}</div></div>')
                 shown += 1

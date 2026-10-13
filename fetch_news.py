@@ -49,9 +49,21 @@ def load_taxonomy():
         if c.startswith("_"):
             continue
         tax[c] = {"name": v["name"], "flag": v["flag"], "re": compile_kws(v["country"]),
-                  "visas": {vid: {"name": x["name"], "q": x.get("q", ""), "re": compile_kws(x["kw"])}
+                  "visas": {vid: {"name": x["name"], "q": x.get("q", ""), "re": compile_kws(x["kw"]),
+                                  "prio": bool(x.get("uu_tien"))}
                             for vid, x in v["visas"].items()}}
     return tax
+
+
+VI_CHARS = re.compile(r"[ăâđêôơưạảấầẩẫậắằẳẵặẹẻẽếềểễệỉịọỏốồổỗộớờởỡợụủứừửữựỳỵỷỹ]", re.I)
+
+
+def load_priority():
+    raw = json.loads((ROOT / "keywords.json").read_text("utf-8")).get("_uu_tien", {})
+    def words(ws):  # khớp nguyên từ; "abc*" = khớp tiền tố
+        pats = [rf"(?<!\w){re.escape(w[:-1])}" if w.endswith("*") else rf"(?<!\w){re.escape(w)}(?!\w)" for w in ws]
+        return [re.compile("|".join(pats), re.I)] if pats else []
+    return {k: words(raw.get(k, [])) for k in ("chinh_sach", "siet", "noi")}
 
 
 def tag(item, tax):
@@ -62,6 +74,20 @@ def tag(item, tax):
         item["country"] = hit[0]
     t = tax.get(item["country"])
     item["visas"] = [vid for vid, v in t["visas"].items() if matches(v["re"], text)] if t else []
+    return item
+
+
+def score(item, tax, pr):
+    """Ưu tiên: tiếng Việt, tin thay đổi chính sách (kèm hướng siết/nới), diện visa định cư chính."""
+    title = item["title"]
+    item["lang"] = "vi" if len(VI_CHARS.findall(title)) >= 3 else "en"
+    tighten, ease = matches(pr["siet"], title), matches(pr["noi"], title)
+    item["policy"] = item["type"] == "official" or tighten or ease or matches(pr["chinh_sach"], title)
+    item["direction"] = "siet" if tighten and not ease else "noi" if ease and not tighten else None
+    visas = tax.get(item["country"], {}).get("visas", {})
+    item["prio"] = any(visas[v]["prio"] for v in item.get("visas", []) if v in visas)
+    item["score"] = (2 * (item["lang"] == "vi") + 2.5 * item["policy"] + 1.5 * item["prio"]
+                     + 1 * (item["type"] == "official"))
     return item
 
 
@@ -184,11 +210,13 @@ def main():
             added += 1
 
     # Gắn nhãn lại toàn bộ, để sửa keywords.json là áp dụng ngay cho cả tin cũ
-    items = [tag(i, tax) for i in by_id.values()
+    pr = load_priority()
+    items = [score(tag(i, tax), tax, pr) for i in by_id.values()
              if parse_date(i["published"]) >= cutoff and not EXCLUDE.search(i["title"])]
     items.sort(key=lambda i: i["published"], reverse=True)
     taxonomy = {c: {"name": t["name"], "flag": t["flag"],
-                    "visas": {vid: v["name"] for vid, v in t["visas"].items()}} for c, t in tax.items()}
+                    "visas": {vid: v["name"] for vid, v in t["visas"].items()},
+                    "prio": [vid for vid, v in t["visas"].items() if v["prio"]]} for c, t in tax.items()}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"updated": now.isoformat(), "taxonomy": taxonomy, "sources": status,
                                "items": items}, ensure_ascii=False, indent=1), "utf-8")

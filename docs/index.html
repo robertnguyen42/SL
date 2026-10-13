@@ -7,9 +7,9 @@
 <meta name="description" content="Cập nhật tin tức di trú Úc, Mỹ, Canada theo tuần">
 <style>
 :root{--bg:#f6f7f9;--card:#fff;--text:#1a1d23;--muted:#667085;--line:#e4e7ec;--accent:#1d4ed8;--new:#dc2626;
- --au:#047857;--us:#1d4ed8;--ca:#b91c1c;--eu:#1e40af;--nz:#0f766e}
+ --au:#047857;--us:#1d4ed8;--ca:#b91c1c;--eu:#1e40af;--nz:#0f766e;--siet:#b91c1c;--noi:#047857}
 @media (prefers-color-scheme:dark){:root{--bg:#0f1115;--card:#171a21;--text:#e6e8ec;--muted:#98a2b3;--line:#2a2f3a;--accent:#60a5fa;
- --au:#34d399;--us:#60a5fa;--ca:#f87171;--eu:#93c5fd;--nz:#5eead4}}
+ --au:#34d399;--us:#60a5fa;--ca:#f87171;--eu:#93c5fd;--nz:#5eead4;--siet:#dc2626;--noi:#059669}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
 .wrap{max-width:860px;margin:0 auto;padding:20px 16px 60px}
@@ -53,6 +53,12 @@ h2.week{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(-
 .sum .src{font-size:12px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
 .sum .src a{color:var(--accent)}
 .sum details summary{cursor:pointer;color:var(--muted);font-size:13px;margin-top:10px}
+.dir{border-radius:4px;padding:0 6px;font-weight:700;color:#fff}
+.dir.siet{background:var(--siet)}.dir.noi{background:var(--noi)}
+.pol{border:1px solid var(--muted);border-radius:4px;padding:0 5px}
+.vtag.prio{font-weight:700}
+.bar select{border:1px solid var(--line);background:var(--card);color:var(--text);padding:6px 10px;border-radius:999px;font-size:14px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 .empty{color:var(--muted);text-align:center;padding:40px}
 </style>
 </head>
@@ -71,6 +77,9 @@ h2.week{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(-
   <button data-c="NZ">🇳🇿 New Zealand</button>
   <button data-c="EU">🇪🇺 Châu Âu</button>
   <button data-t="official">Chỉ nguồn chính phủ</button>
+  <button data-p="policy">Chỉ tin chính sách</button>
+  <label for="sort" class="sr">Xếp theo</label>
+  <select id="sort"><option value="prio">Xếp: Ưu tiên</option><option value="new">Xếp: Mới nhất</option></select>
   <input id="q" type="search" placeholder="Tìm: visa 482, EB-5, golden visa…">
  </div>
  <div id="visas" class="visas"></div>
@@ -79,7 +88,7 @@ h2.week{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(-
 <div id="toast"></div>
 <script>
 const POLL_MS = 60000, NAMES = {AU:"Úc", US:"Mỹ", CA:"Canada", NZ:"New Zealand", EU:"Châu Âu"};
-let data = {items: [], taxonomy: {}}, visa = "ALL", country = "ALL", officialOnly = false, query = "", knownIds = null;
+let data = {items: [], taxonomy: {}}, visa = "ALL", country = "ALL", policyOnly = false, sortMode = safeGet("sortMode") || "prio", officialOnly = false, query = "", knownIds = null;
 const lastVisit = +(safeGet("lastVisit") || 0);
 
 function safeGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
@@ -94,6 +103,7 @@ function weekLabel(ws){
 }
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
 
+function prioVisa(c,v){return ((data.taxonomy[c]||{}).prio||[]).includes(v)}
 function visaName(c,v){return ((data.taxonomy[c]||{}).visas||{})[v]||v}
 function renderVisas(){
   const box=document.getElementById("visas"), t=data.taxonomy[country];
@@ -107,8 +117,13 @@ function renderVisas(){
 function render(){
   const q=query.toLowerCase();
   const items=data.items.filter(i=>(country==="ALL"||i.country===country)&&(!officialOnly||i.type==="official")
-    &&(visa==="ALL"||(i.visas||[]).includes(visa))
+    &&(visa==="ALL"||(i.visas||[]).includes(visa))&&(!policyOnly||i.policy)
     &&(!q||(i.title+" "+i.summary+" "+i.publisher).toLowerCase().includes(q)));
+  if(sortMode==="prio"){
+    // Trong từng tuần: tiếng Việt, tin chính sách, diện visa định cư chính lên trước (điểm tính ở fetch_news.py)
+    const wkey=i=>weekStart(i.published).getTime();
+    items.sort((a,b)=>wkey(b)-wkey(a)||(b.score||0)-(a.score||0)||(a.published<b.published?1:-1));
+  }
   document.getElementById("cnt").textContent=`· ${items.length} tin`;
   if(!items.length){document.getElementById("list").innerHTML='<div class="empty">Không có tin phù hợp.</div>';return}
   let html="",cur="";
@@ -119,8 +134,10 @@ function render(){
     html+=`<div class="item"><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>
       ${i.summary?`<p>${esc(i.summary)}</p>`:""}
       <div class="tags">${isNew?'<span class="badge">MỚI</span>':""}
+        ${i.direction==="siet"?'<span class="dir siet" title="Chính sách bị siết chặt">▼ Siết</span>':i.direction==="noi"?'<span class="dir noi" title="Chính sách được nới lỏng">▲ Nới</span>':""}
+        ${i.policy&&!i.direction&&i.type!=="official"?'<span class="pol">Chính sách</span>':""}
         <span class="flag ${i.country}">${NAMES[i.country]||i.country}</span>
-        ${(i.visas||[]).map(v=>`<span class="vtag">${esc(visaName(i.country,v).split(" · ")[0])}</span>`).join("")}
+        ${(i.visas||[]).map(v=>`<span class="vtag${prioVisa(i.country,v)?" prio":""}">${esc(visaName(i.country,v).split(" · ")[0])}</span>`).join("")}
         ${i.type==="official"?'<span class="off">Chính phủ</span>':""}
         <span>${esc(i.publisher)}</span><span>${fmt(i.published,{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}</span></div></div>`;
   }
@@ -145,10 +162,13 @@ async function load(){
 
 document.querySelectorAll(".bar button").forEach(b=>b.onclick=()=>{
   if(b.dataset.t){officialOnly=!officialOnly;b.classList.toggle("on",officialOnly)}
+  else if(b.dataset.p){policyOnly=!policyOnly;b.classList.toggle("on",policyOnly)}
   else{country=b.dataset.c;visa="ALL";renderVisas();document.querySelectorAll("[data-c]").forEach(x=>x.classList.toggle("on",x===b))}
   render();
 });
 document.getElementById("q").oninput=e=>{query=e.target.value;render()};
+const sortSel=document.getElementById("sort");sortSel.value=sortMode;
+sortSel.onchange=e=>{sortMode=e.target.value;safeSet("sortMode",sortMode);render()};
 addEventListener("beforeunload",()=>safeSet("lastVisit",Date.now()));
 async function loadSummary(){
   try{
