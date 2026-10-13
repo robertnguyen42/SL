@@ -77,13 +77,19 @@ def tag(item, tax):
     return item
 
 
-def score(item, tax, pr):
-    """Ưu tiên: tiếng Việt, tin thay đổi chính sách (kèm hướng siết/nới), diện visa định cư chính."""
+def score(item, tax, pr, ai=None):
+    """Ưu tiên: tiếng Việt, tin thay đổi chính sách (kèm hướng siết/nới), diện visa định cư chính.
+    `ai`: nhãn Claude từ classify.py ({id: {"p": bool, "d": "siet"|"noi"|None}}); có thì dùng thay cho từ khoá."""
     title = item["title"]
     item["lang"] = "vi" if len(VI_CHARS.findall(title)) >= 3 else "en"
-    tighten, ease = matches(pr["siet"], title), matches(pr["noi"], title)
-    item["policy"] = item["type"] == "official" or tighten or ease or matches(pr["chinh_sach"], title)
-    item["direction"] = "siet" if tighten and not ease else "noi" if ease and not tighten else None
+    label = (ai or {}).get(item["id"])
+    if label:
+        item["policy"], item["direction"], item["ai"] = label["p"] or item["type"] == "official", label["d"], True
+    else:
+        tighten, ease = matches(pr["siet"], title), matches(pr["noi"], title)
+        item["policy"] = item["type"] == "official" or tighten or ease or matches(pr["chinh_sach"], title)
+        item["direction"] = "siet" if tighten and not ease else "noi" if ease and not tighten else None
+        item.pop("ai", None)
     visas = tax.get(item["country"], {}).get("visas", {})
     item["prio"] = any(visas[v]["prio"] for v in item.get("visas", []) if v in visas)
     item["score"] = (2 * (item["lang"] == "vi") + 2.5 * item["policy"] + 1.5 * item["prio"]
@@ -211,7 +217,11 @@ def main():
 
     # Gắn nhãn lại toàn bộ, để sửa keywords.json là áp dụng ngay cho cả tin cũ
     pr = load_priority()
-    items = [score(tag(i, tax), tax, pr) for i in by_id.values()
+    try:
+        ai = json.loads((OUT.parent / "ai_labels.json").read_text("utf-8"))
+    except Exception:
+        ai = {}
+    items = [score(tag(i, tax), tax, pr, ai) for i in by_id.values()
              if parse_date(i["published"]) >= cutoff and not EXCLUDE.search(i["title"])]
     items.sort(key=lambda i: i["published"], reverse=True)
     taxonomy = {c: {"name": t["name"], "flag": t["flag"],

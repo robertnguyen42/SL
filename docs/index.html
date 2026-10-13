@@ -134,7 +134,7 @@ function render(){
     html+=`<div class="item"><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>
       ${i.summary?`<p>${esc(i.summary)}</p>`:""}
       <div class="tags">${isNew?'<span class="badge">MỚI</span>':""}
-        ${i.direction==="siet"?'<span class="dir siet" title="Chính sách bị siết chặt">▼ Siết</span>':i.direction==="noi"?'<span class="dir noi" title="Chính sách được nới lỏng">▲ Nới</span>':""}
+        ${i.direction==="siet"?`<span class="dir siet" title="Chính sách bị siết chặt${i.ai?" · AI phân loại":" · theo từ khoá"}">▼ Siết</span>`:i.direction==="noi"?`<span class="dir noi" title="Chính sách được nới lỏng${i.ai?" · AI phân loại":" · theo từ khoá"}">▲ Nới</span>`:""}
         ${i.policy&&!i.direction&&i.type!=="official"?'<span class="pol">Chính sách</span>':""}
         <span class="flag ${i.country}">${NAMES[i.country]||i.country}</span>
         ${(i.visas||[]).map(v=>`<span class="vtag${prioVisa(i.country,v)?" prio":""}">${esc(visaName(i.country,v).split(" · ")[0])}</span>`).join("")}

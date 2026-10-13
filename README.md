@@ -41,3 +41,9 @@ Sửa `sources.json`. `type: "official"` = nguồn chính phủ (hiện tóm t�
 - Nội dung: tin mới của Mỹ, Úc, Châu Âu (đổi trong `COUNTRIES`), nhóm theo diện visa, tối đa 3 tin mỗi diện, 15 tin mỗi nước
 - Secrets cần có: `SMTP_USER` (email gửi), `SMTP_PASS` (App Password), `EMAIL_TO` (người nhận, cách nhau dấu phẩy). Danh sách người nhận chỉ nằm trong secrets, không ghi vào code
 - Xem trước không gửi: `python3 notify.py --preview preview.html`. Gửi ngay: Actions → Gửi email bản tin → Run workflow
+
+## AI phân loại Siết / Nới (`classify.py`)
+- Chạy trong workflow cập nhật tin; gom lô (>= 40 tin chờ hoặc chờ quá 6 giờ) rồi gọi Claude một lần
+- Claude quyết định: có phải tin thay đổi chính sách không, và chính sách bị **siết** hay **nới** → lưu `docs/data/ai_labels.json`
+- Tin chưa được AI phân loại vẫn dùng nhãn theo từ khoá (`_uu_tien` trong `keywords.json`)
+- Dùng chung secret `ANTHROPIC_API_KEY` với tóm tắt tuần. Lỗi AI không chặn việc cập nhật tin
