@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T21:01:59.600733+00:00",
+ "updated": "2026-10-13T21:57:55.969736+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -358,13 +358,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-student",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-aewv",
@@ -430,13 +430,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -859,6 +859,24 @@
    "source": "eu-schengen",
    "published": "2026-10-13T15:22:00+00:00",
    "fetched": "2026-10-13T15:50:16.355957+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "26ce0f95e394a4f3",
+   "title": "Britons travelling to EU countries told not to apply for delayed Etias visa waiver - inkl",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa1BkRnRrdzlnOWNUUHktaW9URlpWTEhkcEN3MTA5WEVmVGh4c1g5aHl4ZXFfUUVTLXZ6c3g5QXF1TUM4VG1paTJPbjEteFFOanFXUUd3MEVYeVJOVGhRYi1SZ3RHOVlLQ21HY0JFTFZaenUyT2RyZnp4REluOUxHbmVfNjVJdWVpbXZ2b2sxOG03eHVLaVZkaENwNEtsLUh2MHkzcg?oc=5",
+   "summary": "",
+   "publisher": "inkl",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-13T15:21:04+00:00",
+   "fetched": "2026-10-13T21:57:55.969736+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
@@ -10284,6 +10302,27 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "b0fd78203b100aad",
+   "title": "US Green Card backlog: Why Indian EB-3 applicants are still stuck in 2014 - Mathrubhumi English",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSk50SmFrSy1QTlEtbFNWQVFYTUd6UHpGdjRwZkhZT1VNUzBGeTNmYXpDZ3JTNEFoSjktMFF1dzE3eEktajJyVXI5RlNqRVdjUVRrS3JQWFJjdS1Vd0oyMzkzUGNKMDk0Z2xOajRDMjktMi01Um9FNWMxbFI3NkRqdmJtTng5cVRzdUhkQTYyNE9uQ0xDakstQ3N1QW52QkloWGdhWVdxaFFZYlJjY3BIVEhvM201a1BZdjNiS0VkSVBYd9IBxwFBVV95cUxOYmkwWlhFLThxR293M3N0N1dkOG5yVjBwejl0XzVqUWliSjJJdVgwako2cVh4eXhpZ2JDZTg0Q0NUbkdyLWhNOHdmbjJ5QnJGV2x5dDBkS0gzLWJlWFhoMDNGT0s5d3VDZTZPM0tmbkNaMkQwRjBPTnpKSUpQRWh5N05GVXoybGZOLVplN2lqMldYOHJ5Q2FyMUUtVmp1NDFvdGlKQi05Y3ExT3NQV0JCNWUyN2k2ZTZoTjF0RGNmS0RPZWYyX0Jn?oc=5",
+   "summary": "",
+   "publisher": "Mathrubhumi English",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-07T04:35:17+00:00",
+   "fetched": "2026-10-13T21:57:55.969736+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "f0a6775791b8423d",
@@ -33508,6 +33547,26 @@
    "fetched": "2026-10-13T10:17:56.089872+00:00",
    "visas": [
     "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b79452560be61b94",
+   "title": "Dutch asylum numbers a third lower than a year ago - DutchNews.nl",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSHhlUjEwSDk4eU1lXzBlLURJZk5mVDE5N0pSVC05LTE1WXFKbTdQbUoydlBmUTV5VkJRdGY4R0h5cURuS1BUZE4tbW5GcHlzY1phUmxyXzZ0bzdJcFI0aXpwd25MZ01qSUxVRTZKVzVLb2J4YXl4NlVKTEQzdnR4MV9qa3dDUkJVeWFzaw?oc=5",
+   "summary": "",
+   "publisher": "DutchNews.nl",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-13T21:57:55.969736+00:00",
+   "visas": [
+    "asylum-policy"
    ],
    "lang": "en",
    "policy": false,
