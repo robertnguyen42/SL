@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T16:18:05.848534+00:00",
+ "updated": "2026-10-13T16:50:47.314165+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "us-visa-bulletin",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -400,13 +400,13 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-investor",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -503,6 +503,26 @@
    "score": 2.5
   },
   {
+   "id": "e689d2801beff3af",
+   "title": "H-1B Visa renewals face tougher reviews under Trump proposal - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOEhUc3RldFc1b1BLeWFuSFNpMkQtN1BQU2drMXVFcGNHQnlXbzZsRW1DcGw2dXE4b1ptenVIek5RNHRJZ3ROZzlIMU9XcGtFSzZ0eGVLMkJRMWJtZFN4NzhSOFN4NFB2VVVqeWtyMFpjc0J1YzdGcDBVczY0MjYxelhZWllaMG93RXBZ?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T15:46:00+00:00",
+   "fetched": "2026-10-13T16:50:47.314165+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "94c1a9ec87d6bf7f",
    "title": "Canada Invites 752 Provincial Nominees in October 13 Express Entry Draw - immigration.ca",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDY3YmtTWW9RRFlMSThDYmZ1ZF83LVBiX01HaGpUMWYyZU9tM1E2LTJxTVdxZEZvSnBoUExDVFpXNmFiUF9uYUNTOUI5MW9nNGVlbnNkRFZkYm0tZXZHaWZVR2dDbFJKQ1RsMzN1VTZnTkx3bndlS1BRQzBRbmw3Qk1meHRnQmxYcXZkVG9pMXdvV2l0eWhj?oc=5",
@@ -540,6 +560,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "23d194f8bc366682",
+   "title": "New Zealand announces proposed replacement for AEWV with stricter skilled work visa - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX3dJanJESHp0MzJJN2FCZHluUEtXdVdvQWZoXzZ0Y3M5cjdldmlmakZUSnVQM3VmVDBLNHhUQVpHNXZFSy1aek1QUEhMMkN6THVpcjNpNGxuT2lDSjdzd1hFLXlHT1oxMnZWQmktVFB1eVp2N0RZRVIzaThVT3J4SEFCd1VzaUNOanJ0bjdSa2tsMG95dTdQV1gxakRodEVhNG9lc2pwTUQ5YzFtRHBOWDAyQmdFQzV5N1dVUkNFSlV3RWt0SVhlOVJrS2VNYkNhNVJMWTBzMNIB3gFBVV95cUxQVE5UVThNMnZIQTNIenVKMEZfd042NFRWRjU1YjhvbGVKcDdrbDh6OW52N3A0ZlBZU21KT3FGV0lLSl9HVHIzendoNmRiUFpVcU5jZms5XzZremFMakJsMGJLRlNLWnhpcElCYzZIQUtqZFpzc2wwbmRfOTlvemNQRlp5ZUFQdmYwaHRuQ0JyVmFxMG5MZ3lCQXgzQ2VYSnRXZ0tQS1I4b1RDRlZxSmNLSzhlQXlCbW1LbE9QZG14bmc0bC0yVlFyb3l1ZHRNYlFjQTczQUVLclFzYlR6Smc?oc=5",
+   "summary": "",
+   "publisher": "The Financial Express",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-13T14:55:28+00:00",
+   "fetched": "2026-10-13T16:50:47.314165+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "4bb909257f0e3959",
@@ -9693,6 +9733,24 @@
    "source": "nz-en",
    "published": "2026-10-07T06:09:12+00:00",
    "fetched": "2026-10-07T06:18:34.894263+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "3a20d015ad241a64",
+   "title": "Health NZ Chases $70m In Unpaid Health Bills From Tourists And Migrants - Scoop - New Zealand News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVkVHbjRWZ3Q1Z1RULVdJVnRVNFRSMVJ5MV9EaUF5SnRpQ0lkQzZOeXpyaGtyQVlqdkhDTW5RbmFmcW9qQXJzczJyRmxxaUxxY3JpUUZGbXhOZGEtQVFFNGxseTNubGd0R1d4cmFDNGJuYjEtUFl3X2VDS2ZsWnAxZlZiczRqOGhjd0p1ZzVnZE1memhRTmhZcHRoN0FObUZJSU9LTkZWa2tybTI3?oc=5",
+   "summary": "",
+   "publisher": "Scoop - New Zealand News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-07T05:58:40+00:00",
+   "fetched": "2026-10-13T16:50:47.314165+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
