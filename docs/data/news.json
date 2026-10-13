@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T14:22:40.872679+00:00",
+ "updated": "2026-10-13T14:52:21.258603+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "us-visa-bulletin",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-work",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-aewv",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-business",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -446,6 +446,47 @@
   }
  ],
  "items": [
+  {
+   "id": "0eaeb6fe610ef0be",
+   "title": "PEI PNP Draw October 2026: 90 Candidates Invited in Unscheduled Round - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xbENHZ1cwb3lzMmRlMDhmN2kzd193RWtDdEZoaVFhNlllMFJ5M0hMd0JpWVJvOXhiemFkOFU5Y1ZaMnN2ZGtZTldrXzBPOF9MTWNOWDk3cnhpVm5FUkUw?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-13T14:25:29+00:00",
+   "fetched": "2026-10-13T14:52:21.258603+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "35f82b8e7d0cbdb6",
+   "title": "Deference to Prior H-1B Worker Approvals Nixed in DHS Proposal - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeElqU21XdWJIZmlJdWdYVmRXWkw1VDk5VGExLXNCVUdJeWVnSlQ3S0tJNlo1SWo2dVMwN0lELWh0SGhGQ1AzNzhQU1JIRS00Y3pmUzB0cENBUGN4MHlFajZwZ1FJM3FlRm1OTUZFbFd2ckh4ZnRBTUs1anRzYkRhOG8zSG9qQVR1YlotbHJ0TXdmbEFRSlRBb2dLV0Q2alhOOGF0NEtodU5kdGVmRXNNOQ?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-13T13:45:00+00:00",
+   "fetched": "2026-10-13T14:52:21.258603+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "bb9a51ba9de01d3a",
    "title": "Which Golden Visa is Best for Retirees in 2026? Top 5 Compared - Get Golden Visa",
@@ -699,6 +740,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "a464db776e6a9b67",
+   "title": "US visa, green card applicants face new filing deadline rules from Oct 23 - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2Y4S0RtWXJXREpsWmVuVkl1ZjRYWEpBamFUdjhUbzQ3SUVHZnQ0UUFEaGJsckQ2dWg1NDhCaFNxbWsyaG5tWUd4VlhOejdZMTdWSXRZMmdXa0ZfdHlOMHBVV0JTZzhmZ240Vk90Rk9qT2FPbzVIUzE4UmJObjB3bGZMTTZQb2U5VDZrUDNGZnB6NGRvdmJ6UVRNWHlfaG1rYTEtSy01WGNjMGV1N1BHTk13X3Y0R3ZkQnJ2ZFZVRWxQZmtZWDRBY0dCNjZENGw2ek5mNEI2NlItZ9IB2gFBVV95cUxPb2Y4S0RtWXJXREpsWmVuVkl1ZjRYWEpBamFUdjhUbzQ3SUVHZnQ0UUFEaGJsckQ2dWg1NDhCaFNxbWsyaG5tWUd4VlhOejdZMTdWSXRZMmdXa0ZfdHlOMHBVV0JTZzhmZ240Vk90Rk9qT2FPbzVIUzE4UmJObjB3bGZMTTZQb2U5VDZrUDNGZnB6NGRvdmJ6UVRNWHlfaG1rYTEtSy01WGNjMGV1N1BHTk13X3Y0R3ZkQnJ2ZFZVRWxQZmtZWDRBY0dCNjZENGw2ek5mNEI2NlItZw?oc=5",
+   "summary": "",
+   "publisher": "Business Standard",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T07:01:24+00:00",
+   "fetched": "2026-10-13T14:52:21.258603+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "e65f83390e09d04b",
