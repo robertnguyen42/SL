@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T19:33:02.775524+00:00",
+ "updated": "2026-10-13T20:26:39.293780+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -358,13 +358,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-student",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-aewv",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "dd089fb53995a621",
+   "title": "Naturalization in the U.S. is on the decline - NPR",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMEY3MHc3ZTJuOUlaREljRWlHRnVRZk5kUEE5Ql9qeFFsY1lFcWxZNVJLTExjZ3FwQm94UG43YmFjLW1yci1zR2xJNjcyZ1NUVWdjRXhSclhTS3lNN1FGTjNCTmk0TkZBZGFXLTluZlQ2ZzJFUEtUYWlpTEdZdWs3dFBMek1EVlJZR3ZnQ3NGQmc5dw?oc=5",
+   "summary": "",
+   "publisher": "NPR",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-13T20:03:32+00:00",
+   "fetched": "2026-10-13T20:26:39.293780+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "4ae80f81dcb83302",
+   "title": "USCIS will reject these immigration applications starting Oct. 16 if applicants fail to meet this requirement - El Cronista",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTWFVNUJpcmQ4UFN4VS1FS0JMQ0xlbEFTa0V0OC1iWTEzdzdiTXlJR0phdkdjYXZhOWlVT1RUU3E3YWowcm8xQ3M2TjhRVVE4dFVMTlFFTmtNWXRyaEs4Y3ZSYWRVZm9RYXg5dnlwTUxFbnRGRE5LbU91X2k0WkU3UjNJbm1TYjBtQVVDeTMzNWtoaF8ya29SWXFFaVJWeGcwQ1V0T1BzdkVSbk4wRkhNeFVsXzlRaEo3T0R3SUd1UmxxYkQ1MDJnMi1BSnV3MEIwajVpVmNCUnZNMDk3REtfRTVkdw?oc=5",
+   "summary": "",
+   "publisher": "El Cronista",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T19:47:41+00:00",
+   "fetched": "2026-10-13T20:26:39.293780+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "e038719e220fdaeb",
    "title": "IMMIGRATION NEWS—DHS proposes ending USCIS deference policy for nonimmigrant worker extensions - VitalLaw.com",
@@ -3221,6 +3259,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "707a72cc0088053c",
+   "title": "Move to Germany Without a Job Offer (Opportunity Card 2026) - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84dUdjRzlyTVpVVWo5R3ZNakNINURiUkltaG05dW1JV0Q2UWg4Q2lKRC1VMnhWb3R4X1ZWRjUzTndiRlRzRjVUTUNLUHJUTjhDTjYyTmFqNS15Y0lq?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-blue-card",
+   "published": "2026-10-10T04:03:27+00:00",
+   "fetched": "2026-10-13T20:26:39.293780+00:00",
+   "visas": [
+    "blue-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "dbcfe20ea3590b0b",
@@ -11664,6 +11722,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "5985f33e433dbafb",
+   "title": "Best Pilot Training Schools in USA for International Students 2026 - Shiksha.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd0gwSVVSc3AtMXd2QVVXcmk4a3FpUERSUktIc2FhWC1samZWN1c3S3JabWpMaTZ6OGVnY1gwSkxqR2xmMVBPZlNZYlIxYU9RY1NQV1dzdkloT0wtcEtGdHJaeFdtMXRaa05BLTh4RHB1ZWlhdVZsbjhpWnN5Y3Y2Y1ZYTnpzZWk5cF9rRFo1M05oQVFHNll0Rkc3Y0g?oc=5",
+   "summary": "",
+   "publisher": "Shiksha.com",
+   "country": "US",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-06T07:00:00+00:00",
+   "fetched": "2026-10-13T20:26:39.293780+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "360c812d4bf88df3",
