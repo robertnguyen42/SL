@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T06:58:09.245706+00:00",
+ "updated": "2026-10-13T07:26:08.784258+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -358,13 +358,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 19
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-student",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "nz-aewv",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "d52494cc79598047",
+   "title": "US Immigration authority has 10-day deadline on home addresses; says: You may not receive your immigratio - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPU0szdDFkdlBRUTJyWEpDdlREeFZKRDc0MXozWUNhZTdzRU5GeFdqRWtwcXd0VUtnT0YyNVVDNVZqZnZVUlp5UWczUElIazVtMVc1dUtTX3JvZ0diTmhTUGxaNXd4MF9kdHBkSXZaMWgwTndvblJTT0dRcmsxVFQzTmNYOEotaHpxM0lSZFk0YmwzTnpETnAyNm5kQ0UzcHRUSTJZUS03cHhPT3dKN0hpOFZYY2hxMWhQb2pJb3ZXQTgxa0NLbmpkdFpacVFzMTNydG9BLXVXSExXZEVaYjFzSkhFb0NQc2Z6Y3BReDdsdzVfb2VtR0NCM1NBV3NwQXQzUkVVQ1hMSEtyUU1fVmJrbWpNWUhRREJnV0tnS2hfbHBNVUJSSEtTWtIBrgJBVV95cUxOVGl1SkRoR2JjS2k3RDUtdk42NVV4MHBHUHVZVXFScTRGRTA1NzZqTmtmb3czS0pqaVFVN2EtRVdkTkwxTkhKa1FtSHF3MHlsTWY3azhNNC1iekJDZHNzaktMZEVHQUxsQU9KODVLalhxNmpOdWZyRERNem1YN0FIYkk2RXZnYmhSU1ZidWg5WnEwYTZIWGlmUlg4Y01mT3pNdERhNmtkdjNGZTZ2RjZlT0cybHo5T01mdkRvcEZub0N5NjNmVy1jQUFrMFpxVXRoVGF2ekI0STNzRmpKcXlwYUZFeTR6a3lLM2hIbXM2bmhCMVNfeGRLbEF6TWUtRjJYX0V1eG5xVzBjMjNzcG1FS2NiTWRjc01zLXlla2NVdHo2eXFrWTFGcHp2THdpQQ?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T07:04:00+00:00",
+   "fetched": "2026-10-13T07:26:08.784258+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "e65f83390e09d04b",
    "title": "What NZ’s political parties are promising on Immigration - Indianweekender",
@@ -10396,6 +10414,24 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "eefa6e7d619a9a37",
+   "title": "Australia opposition unveils biggest immigration cut in nation’s history - The Arab Weekly",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb05YbzBMdEZ6M1hHYTREWTJ5TGpYWnVLNm83Vy1YbVZNbHhpWnB5andmOHNCR09MZXJra0MyRmlYbnNOb0QyX2R4N2VZVDhlRi1GRmpnaUQyWExjUHNkR2JKOE1LTFkxZlZwbmhxeFIzRHIxbUpIS3hycGRXWFJOOHU5bUtLLWE1S05hVEV3QjRMNjVORXRvd3Rn?oc=5",
+   "summary": "",
+   "publisher": "The Arab Weekly",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-06T10:07:29+00:00",
+   "fetched": "2026-10-13T07:26:08.784258+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
    "prio": false,
    "score": 2.5
   },
