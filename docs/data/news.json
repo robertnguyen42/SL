@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T09:48:56.112687+00:00",
+ "updated": "2026-10-13T10:17:56.089872+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 29
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-work",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "cf29b57235f6583e",
+   "title": "EES checks can be suspended until end of 2026 as ETIAS launch date is dropped - Travel Gossip",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzZONHhDWlhHRzBabGRTVFMwcE52NGRpVmZlNnBCazFBVG5RMkRtNEdsVkRBcmhrc1NiemNMRGNOeVZXSmlOUGIxdVcxMEU0UHJOa1YxaHhzNFZjaTY3UmpXUjhFVHZCalJ2SmRaLWt1VGF5VlR5S19UYWRxdmw0dHZKekl6eGhEa2xkODU2b24wQ2dRVlg2U3ZNUHlzTW9UYkJyTDNNSUs5aHdRV0hGdkdFNHBpRlE?oc=5",
+   "summary": "",
+   "publisher": "Travel Gossip",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-13T09:30:12+00:00",
+   "fetched": "2026-10-13T10:17:56.089872+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "c771de575b13e729",
    "title": "Nhiều ưu đãi thu hút sinh viên Việt Nam du học Đức - VnExpress",
@@ -1412,6 +1432,26 @@
    "published": "2026-10-11T20:42:15+00:00",
    "fetched": "2026-10-11T20:45:16.778087+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9fb29ff9d3eaca19",
+   "title": "International student awarded nearly $28,000 after being fired on the spot - Stuff",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXzUxdy05VWVMU3VKX0Rvc1hBbEJfTUp3S1NTZFpITWk5Y1JNd1BZaUhwMlpkYjc4N2gwUWE4MlBrbWVqZVdnMTlHbEpaNWVrcWRNdHhhSmZOQ3FnUkw2YUQ3YTJCMkRHZnFVQzdLaDB4ZV9OcVF4TkhtZklpRm00ZzFaMWFFY0hTR200T09ZeE52N0pDWUI0V01YRG5YZTAxY2YtNXRvUW5zc1k?oc=5",
+   "summary": "",
+   "publisher": "Stuff",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-11T20:23:27+00:00",
+   "fetched": "2026-10-13T10:17:56.089872+00:00",
+   "visas": [
+    "student"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -21544,6 +21584,27 @@
    "score": 1.5
   },
   {
+   "id": "a150a4882ee60b18",
+   "title": "Canada Invites 733 Provincial Nominees to Apply for Permanent Residence in 2026 - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdDg2UFRPa1pnY21mbkxsQTZ3ZnJ3VVhEdGtndGttVGxhRExRcmV1MlVNUmVJVlA3WGh0aDlKSDhwMzV3T1NOaWxQeUF4eDNaU2VwQnBvOHlXNVprQVZ1WDRUbndYSjhCM01jUmRBcEJCa2JkMG96Z2o3YV81ck5TYUd0Y3ByUEJYVFpFQ0Ztcjl3bkdWWmVXbVJvTHhhZ2ozanVr?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-29T07:00:00+00:00",
+   "fetched": "2026-10-13T10:17:56.089872+00:00",
+   "visas": [
+    "pnp",
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "54196663e8d0fcef",
    "title": "New Zealand family visa application to move to enhanced online system from November 16 - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1ByWjh2bkdVbHBXekJISHRoaEQ2NllBRmlMREV3WWljNkx2OWc4TUtMZmRiNWk5N1hHMWZkaWtMWEtCelA5NmJMNW5BejQwajlVSDlnb3NRQUp2MlZNWjN1Y0dwOVVFNmVJczRWNUtUVG1ZckNOcnQ4eXFicjQ3SFdNRS1FNXVBQ2Q5ZjZ4UjFUckpUQldnRkNDWk5ULTkySVJ5eE5TQVo3UnFFbEd6cDRaS2RNVE1jVHE0V2RYZTNnWXEtYmpOYU1JMVNtcjlvTFcxU1dxUU56d3dDTGxpWDdFRnPSAeoBQVVfeXFMTzA1MjllcU5IX3JaR0R6WDNHX0h4UHlUdTZqemRUdy13MG93cG9BYUxHTHZlMTFFTDFiNW44MXRYZjI2RWRMbmltRjItTjl1OFJKSzhUUkxFOGY4aVp2czdkVU5IWUdvWmNVbjNvRzhXMzRYdFR4LTZfY0xCUkQxR2xzQ1p4YlNJYVJiV0oxX1NQNlR2YkZqWWtPRWZKV21HbFZQbTRLOGlKM25EdUx5bU9xa01HSjBWMmlEQXgzQlB0ZHFfQ1hrdHlpWUkwOVAxenU5OVVPWmdRcjVXaU9iMV9FYVNNYmdKWWJn?oc=5",
@@ -32426,6 +32487,26 @@
    "score": 4.0
   },
   {
+   "id": "d4523a2a5321335f",
+   "title": "How to Apply as Canada Invites 250 Senior Managers For Permanent Residence - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXhrWkI0WnowV2xQc2theWhINFRscEY4X1lGeHVvendhM2k0bzI1UW0tSzRnYXZMOFk0UnJlMGprLUxUUExVMDI5WHNXS05wbnVub05TXzFoSjFOamxVWDdTWlBWazhCbVpINEItNmVTU2N4cGJpbEZVd0xHU2lkajZPZnN4TFdHaVNlbFhKRGkxTXp5a2x3S1N6dFVKcHJPRUQzdE50Y1RVNUdZdlV5N1VVYmRfTXpp?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-13T10:17:56.089872+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "5f30623419cf53e1",
    "title": "Australia tightens student, working holiday visa rules as migration debate intensifies - TRT World",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TYWtCNDJiSWg2Tm9ITklsbUJvalZLYkVpeEl3QU5IQnVINWNBeEhXZXhmZUFjYnRUNElVSDAtbGhZLXJaVTU3VXZPall2XzhLSTNPVXM4N1Q?oc=5",
@@ -40135,6 +40216,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "938f08b7119fcba4",
+   "title": "New Build to Rent investment option added to Active Investor Plus - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdjVKSEcwaElpWEVRVmRSbmoyWjJYRnFIamJJVVpSR2x5TmlGUEk1empPRFltaUZaOHNxczNtVnBNWlFPMFkwTXZrOVl4N0JBdHQyMmoxeFhEbkJtMVp3NWItdDlMZW9MRVhSUDBra3pYQjZVQS1oRkYwMGozNG1HOU80b1JwNFg2Qk1PdGRidzB1V1NMa3RFLTNCSlNFaVFQVGdsQVpIX255WVhqeW9EQTNJLVJ4SHlZbm5v?oc=5",
+   "summary": "New Build to Rent investment option added to Active Investor Plus Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-09-09T07:00:00+00:00",
+   "fetched": "2026-10-13T10:17:56.089872+00:00",
+   "visas": [
+    "investor"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 5.0
   },
   {
    "id": "c1c74e31222e8a0e",
