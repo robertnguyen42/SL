@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T14:52:21.258603+00:00",
+ "updated": "2026-10-13T15:18:57.725279+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-parent",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "us-visa-bulletin",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "nz-aewv",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -447,6 +447,24 @@
  ],
  "items": [
   {
+   "id": "4bb909257f0e3959",
+   "title": "Commission provides additional EU funding to strengthen border security",
+   "link": "https://home-affairs.ec.europa.eu/news/commission-provides-additional-eu-funding-strengthen-border-security-2026-10-13_en",
+   "summary": "The European Commission is providing an additional EUR 130 million under the Border Management and Visa Instrument to support drone and counter-drone measures that strengthen security at the EU external borders.",
+   "publisher": "Ủy ban châu Âu – Di cư & Nội vụ",
+   "country": "EU",
+   "type": "official",
+   "source": "eu-gov",
+   "published": "2026-10-13T14:54:19+00:00",
+   "fetched": "2026-10-13T15:18:57.725279+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
+  },
+  {
    "id": "0eaeb6fe610ef0be",
    "title": "PEI PNP Draw October 2026: 90 Candidates Invited in Unscheduled Round - ImmigCanada Immigration Consulting Services",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xbENHZ1cwb3lzMmRlMDhmN2kzd193RWtDdEZoaVFhNlllMFJ5M0hMd0JpWVJvOXhiemFkOFU5Y1ZaMnN2ZGtZTldrXzBPOF9MTWNOWDk3cnhpVm5FUkUw?oc=5",
@@ -466,6 +484,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "852088ed04e7c30f",
+   "title": "35,767 Green Card applicants’ work permits denied, rejection rate jumps to 44%: USCIS data - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV0RvVzhtdXJmeEQ4Q1JZemxtbVlKRGs3My0weUZUd1NpU3UyS1M0WnhaUjF1UHNSSkVTZElFeDY0cWgwN2FMMkpFei1lbkZTaXhSLWJEVUdPMDV6djRteXdwWmRLVFB5eXVvSGZjZEhMVTdVOUM4dGR0cW9lYkFGd1AzMy0yWDA0NHdwTE5KNlRfQWhxQmxZSHE1aUoySmtRNlE2UkN3cVh4Y2doeUJHSVowRW0wM0hBQTUtM3RlNk04SUdORkYtZjluRWJKemxwbElXN9IB2wFBVV95cUxQeGVyM0VBNG16U09DQ0dVRWd0TDU4dXBEay1IeWhvRktnXzE5SWNsZFkxbzlkTjM0MDZPNFpCQXVncnJrVzQyd1lJZHZ4VS16T1ZUVDBMZG9QNTJIUDh2LUQ4a1VHZmNXanY2bVBzQVVsLUgxZ0hHVUdXUFREa2E4OGRlNDRRaW1PTGl2MHQ5RjRQamI3M3g0YzRjUFVnNlZkaXkyTmFqZkhQNDZVMkh5QjFFamZfNnpzcFJValZieHFBQkUwdW1Oc2Z4ck5LX21jMHVXNXNGMWVsMDg?oc=5",
+   "summary": "",
+   "publisher": "The Financial Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-13T14:08:53+00:00",
+   "fetched": "2026-10-13T15:18:57.725279+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "35f82b8e7d0cbdb6",
@@ -36188,6 +36226,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "8f97d2b7e8295932",
+   "title": "How has the Trump administration changed the U.S. student visa process? - WBEZ Chicago",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaEVLZHNKWmpFWTBmenUzNk9aRG9KUENwU1VNNG53MjlTU2dELTJmNjZ5a0lxWWZ0M1Q2R3liVjYyemt4NEhSMmRTdjNtVjQ0UVlxV3lXcTFMNlh6NFJ1dGhYMFJfM0tUcUNWXzJnNjFJUGxCSzR4a0FWaHVQdDJIVURHQ0hIWmtZWkZOT1VFZ2duY0RydFNVQlFtR0hmN3RJbnhaTEM2NTMyTE1NTVpWSWdWNTJnZFFCcWNrTUlicU14V3VELXo5cG9CVnR0ZkxV?oc=5",
+   "summary": "",
+   "publisher": "WBEZ Chicago",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-14T07:00:00+00:00",
+   "fetched": "2026-10-13T15:18:57.725279+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "eba521cba3efb57f",
