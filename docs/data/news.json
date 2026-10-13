@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T12:22:18.496721+00:00",
+ "updated": "2026-10-13T12:57:36.752467+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-work",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 22
+   "count": 20
   },
   {
    "id": "nz-aewv",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -584,6 +584,24 @@
    "direction": "noi",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "3a3e03bbcedde426",
+   "title": "Brazilian birth certificate translation for USCIS is now available online - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkktcmE4MjJ1TzYtMzNTZmxiT2ZtTFh3R1UxSnpJTWlTbnRqSnZCc2Fiak83NXBncUhNNnU4QmVFZEt0S1MzQnhuZzMwYU9zYjVncGVhRWVqRnNyR3ZWQU9kb3RhdG5mLU9fQjAtZkFweFFLVU5QVzlWZFdfWW5WRy00c3UtNkRIcS1NU0ZMckFDQ0ZpSzFz?oc=5",
+   "summary": "",
+   "publisher": "openPR.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T07:56:04+00:00",
+   "fetched": "2026-10-13T12:57:36.752467+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "0e2bad2857226d49",
