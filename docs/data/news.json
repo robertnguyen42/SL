@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T23:45:39.197272+00:00",
+ "updated": "2026-10-13T00:25:39.586071+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -307,7 +307,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "nz-aewv",
@@ -419,6 +419,22 @@
   }
  ],
  "items": [
+  {
+   "id": "b03ecfeb78387c7b",
+   "title": "US PERM suspension delays Green Card path for Indian tech workers - The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ3YwRmpSbk5lTTNhM3M0eVQ2T3ZpUFZRWXpKaW9BRFpRRmFFSjRrOFR3VU9TeE14Y2lPRHJPX0F3NGtrdTBJY2ZXUVcyQ0Y0QWszcFN4ZUhaWjBNa1c3OTJTVGJTSFFnUnMycTkzTlUtem9oUzVvdFItRlFTcWYxa3MwV1BqZzhSY09ucU9vVjV6SmJlMHBmQTg1OUt5WTJRQVRR?oc=5",
+   "summary": "",
+   "publisher": "The American Bazaar",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-13T00:05:22+00:00",
+   "fetched": "2026-10-13T00:25:39.586071+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ]
+  },
   {
    "id": "39a3d6f95bae164c",
    "title": "Labor’s new migration rhetoric doesn’t bode well for sensible policymaking - Crikey",
@@ -1264,6 +1280,21 @@
    "published": "2026-10-10T22:15:00+00:00",
    "fetched": "2026-10-11T17:44:20.638196+00:00",
    "visas": []
+  },
+  {
+   "id": "a46fbd00e233e96b",
+   "title": "Lawsuit Challenges USCIS Green Card Policies - MundoNOW",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGRE1MYmM5M29INy03WklfMklBYzFsLThWY1JKY21aZWRXTHJuUGpGUnZ0RWFPREhWaHUyc1lLX1g1RTRxUTA1SlozLUtzMWtSbXZwek5BWURmV0JmaXhoWFdCcWlHbzI5VXdXVlhtMlZ5UEViaWszVnZzeEZ0dw?oc=5",
+   "summary": "",
+   "publisher": "MundoNOW",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-10T20:49:36+00:00",
+   "fetched": "2026-10-13T00:25:39.586071+00:00",
+   "visas": [
+    "green-card"
+   ]
   },
   {
    "id": "c5f6f17f793b23a2",
