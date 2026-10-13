@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T18:21:59.865755+00:00",
+ "updated": "2026-10-13T18:58:55.348300+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -447,6 +447,64 @@
  ],
  "items": [
   {
+   "id": "5b95587ac41118f3",
+   "title": "Apex Capital Partners Acquires Peck & Nascimben Global, a Citizenship by Investment Firm Licensed in African Countries - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdnBJYndGazlPUGM5enBFMm8tVHAzR3NUSlYzbmFGRlk4dXQ0MVNNd2tHUnpfMjh4YUxqVk4xNEh4YnFLVGRuc3ExWGFDYzJzVG1kNjdFOTJrNHdwUzcxcWJSZzBQdkZBOHBSMzhfNHJfdFFJYzlHSWpfUHlRN1NlZlU1aUlJdFZUc2gyWUhCZjVFSFVDNFhYVHlvbjhyR2pvTGU1TGQ4a3pCekdmU05tUi1YMkN6RFhzM3dtTG15Q0NkWmIwaUd3YkRvWUltdG9sLTNlUmN1NEdsMElrMlhCdzdzYW1FZVNGUWhab3JxZjZFaFJMeC1HMGVGZ3Q5aXZKUHNzc0w2ZFlmdjJLT0JFYUNqVjVvVE5y0gGeAkFVX3lxTFBzb1ZzV1hiMXlxVU9kWkk0OWZmX3NPRzZ1dGxEYXNJcW9WaFNFZ0lzaGVKbVlOdU9NS3h1eEl3WG1OcVYwempFQTgxZEpXT0tHZEVhbmU2cFNyNGM5RFBMTU00UkE4Um05TWREbFBpb3NROW1aekhYcTJGcng0S1IybzBmR0wxOWh2NXp5S280VXZCLW4zdEJIR3kzSnhBeGZUaDREZEE1YlgyOFIwSmhYb0RDVFR4anBkTmxkMjBlelhGb1JLdXc1R3c3TXFjV3FmWVhNNUhnZ2FPa2FIcTBkcUM5Y0lRVU5KSkc5MnFuZENodmxIMlBXNUpfdE1qZHdBLV9tLU9ObEkyN1VLRENIb3g1SjdrT2xqSWQzaHc?oc=5",
+   "summary": "",
+   "publisher": "The Manila Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-13T18:45:05+00:00",
+   "fetched": "2026-10-13T18:58:55.348300+00:00",
+   "visas": [
+    "citizenship-investment"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "98a1ed4d9fe607fc",
+   "title": "US denies 35,767 work permits to Green Card applicants as rejection rate rises to 44% - Nairametrics",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkdoaXlqN05KY3RIMEc1akVvYV9QX3dYdXYwQ2lGVkpseTRoV2RWbFJPb0tvMmtncU9SMGVGb19HeFcxcGtHR2NEWnVkZjJLM3JCTS1qLU8xOHdjLTMxVXFfZFhxY2FJQ1RzTVBlRk54SFhMVmxSYzFSN2pneE1ISkVEZk4wem02RXlicUZIWkJWVzF3a2xKd0V2cTVNdEJJSWFpY3dlQ1lIWUg4UlFqREgwMWkzd1M2T2NwXw?oc=5",
+   "summary": "",
+   "publisher": "Nairametrics",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-13T18:25:42+00:00",
+   "fetched": "2026-10-13T18:58:55.348300+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "a06a61ded7f04736",
+   "title": "NZ denies transit visa over ‘genuine intentions’ concerns as stranded woman begs for return home - Cook Islands News",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRUMxZ1lHQWdfbXgta0huWTkwR3pnTmpOZHBUajAwZVNqaHpGbXMtNmVFYlZPbHJiRHpDUmgtMGpjRGx4WW5qbkFmM1JKVTgtY0h0NDFzU3J5NVp4bEJQVUFJQWVxTFJGQVQ4Q1J4a0JtaENjTFh6NWhsSFlab014VEVYRnVVOGo5TG9hOTJQQm94TWdqOW5IZDlfOTJoQVhBSUxWTjA5bUphalM3cFFRSTNiZHY4OWw3YTJQV2lhVklOeWptaXFmbGpfOWIyb1JsMlgxdmlEVjIxb013eWdaa1JYb0QtUFl3dnZJeHNCYnVCbXhkRFRabQ?oc=5",
+   "summary": "",
+   "publisher": "Cook Islands News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-13T18:22:53+00:00",
+   "fetched": "2026-10-13T18:58:55.348300+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "1c2deedbd9fe645b",
    "title": "I’m sick of immigration being blamed for problems it doesn’t cause - SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWZJaVJtMlppdW4tMDF5NG1YMHRUZGw3OGduR0k3TV9zSHVVclJpTlFCTUtXaWJjd3UwTDBKdFRDMGdLR1pQQVpoRjVOMkpzajRmVzY4TE1RdmtZc0YyckRaVF9JQnpIOG9pdGRpV1JzN3FweFY0YkoyaWFVUGZrd0NoMXJUanVhNjlYYWFIRzU3a1doV1dLOE1xUEppb0V6Mmhkd2hRYk5CbXNJZjdrMXNyOGU4V1JxQmhRLUxTS1pvUUZaYWRRN2MxMA?oc=5",
@@ -463,6 +521,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "f14614b121c2fc9b",
+   "title": "Prince Edward Island invites 90 candidates in October 7 Expression of Interest draw - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oREFtRGV6cEhjM3ZJelVtNzFVUHBWRTRUbmcxTVg2akRkZFlMakYwclJUSkVRbEJxdHJzVlBKekcyZzV1a085S2NBY0tRNVVZX2NsNzhQdFNOeVB3UkhNaVpCVzNxT3F5N2dGNkt5bGtFU3ZNN2VLQ0F4Zw?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-13T17:23:23+00:00",
+   "fetched": "2026-10-13T18:58:55.348300+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "b06d6b6ac32d1ee2",
