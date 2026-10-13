@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T05:48:53.425310+00:00",
+ "updated": "2026-10-13T06:22:49.337698+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-partner",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "nz-aewv",
@@ -403,7 +403,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -419,6 +419,62 @@
   }
  ],
  "items": [
+  {
+   "id": "e65f83390e09d04b",
+   "title": "What NZ’s political parties are promising on Immigration - Indianweekender",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeEY4T2ZGdGNUc0RsMUpJYngtQ1k5OWFlbXdra01yd1NJV3NtbUh3V1dwVk9HSm80MHA2OVlvaUFtMENxSXVWcGVLcTRORHlqdVJsZXdRa3d6Vks3ZkdjVTB4bmpjT1BSQ25fRFZzTVJjOGNTck9BTk5EM3JWQ25CNVhLMHQzNE9UZ0tGcUtYRGhVOElndk5uaGtidWRyNmhEUmFnektQZldUZ3o1RzNSbkEzbEhxTTFKWERHcQ?oc=5",
+   "summary": "",
+   "publisher": "Indianweekender",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-13T06:07:33+00:00",
+   "fetched": "2026-10-13T06:22:49.337698+00:00",
+   "visas": []
+  },
+  {
+   "id": "f32ec2eb276e1fdc",
+   "title": "MPNP Draw #281 Invites 340 Skilled Workers in Manitoba - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0pqaEtNeGoxbGVuMHNBQ1hsTzRkU25HTmlhY2h5ZDRrSzd1bmpONXJfUllPWENrOHZnc09jbnliM01qRkxxM2ZWSXcyM2lsQnIzSWRPSGZtMTRIOGlabWFzNWNla1M4TzVCY2dTMFllX2hlYzdnRjUtTDBRT3g5TC1aZjU?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-13T06:04:17+00:00",
+   "fetched": "2026-10-13T06:22:49.337698+00:00",
+   "visas": [
+    "express-entry"
+   ]
+  },
+  {
+   "id": "9fbd0343366aabff",
+   "title": "Những gia đình bị ngăn cách bởi các quy định visa mới - SBS",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVndjS2NTUDR1clFONHp5X2VDdkdsUWlzeUc4MVNIX1Q2M3o4MHhHb2NERzd6S2M5YkY2UE8tV2VrcThFQWVELWpHYWJ3RDd0VTRGOHJsaVF5dDBoOTBYbHBCekt4TnVrYTFUOHR4REFOLW5TTGQwOGVuMWdDdXpSTmxOTEZlTWQwR3k5WTBRTDBzZGlLYlVVNWlhdGhwVElPSmZFd2kzR1hEYl9Wa2NKUU5yb0ZTeGZiYlZic0h2MVBvQ3M?oc=5",
+   "summary": "",
+   "publisher": "SBS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-13T06:04:08+00:00",
+   "fetched": "2026-10-13T06:22:49.337698+00:00",
+   "visas": []
+  },
+  {
+   "id": "deac4533e26100d8",
+   "title": "Five Gulf nations pursue Schengen visa waiver: What travellers should know - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZk5JWVgwNnFMbVQwQ2VMeDNNVFpoMVYwX0JZR1ZQNW9POUxvdlpCbDR3NUhmY3RYNDAtMEVCd3lwcUlqX3RVYk1MaGxteTl0clZ2b3B4X1BFbWRTcGJyUE9QMUNOR2w0ZU5QWkdPYmt2ckhCS3BzUURSWGlLZVpiNXlONDJMTzB5RWRELU1BeVpaRG1pT3dPaWZMY0pYb2hOcDlyYkFOSmJFUG9CcEdOMUxqalVTTnRWbE5jNXdwNFViZ3VJZHR0clIxVk52STU0QkR4WHdmUFNjQ2I4R1ZJ0gHkAUFVX3lxTE8zUGNRNzk2TVpMTlFnc29BRXZUbU9Pb2tnUmFFNFREcFo4QlA4QWFOc2pZWlAzOEJ0WWJkeWR5VVdodlVSVzRmdW5iZURhVUlfcmliLU5tT0ZMaEpzM2poTnZsc2FZekJoUV9kS19tMzF0MmxXd1d4N0phQU9sUjZkajVuSklBN29SUV9ta2N6MjRWRlpQTmhhdHNrTldmb2tXT2VhN3BtZkNaNmlSM2llb1ktS2lwLW9rRTJpdXBoQVp4X0gwOVQ2NE1KQWttb1c2eFV0TTZiMmdGdVVXVlVwMXZqUA?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-13T06:03:06+00:00",
+   "fetched": "2026-10-13T06:22:49.337698+00:00",
+   "visas": [
+    "schengen"
+   ]
+  },
   {
    "id": "27f4947f72f923e2",
    "title": "Best European Countries for Digital Nomads in 2026: Visas, Costs, and Lifestyle - ETIAS.com",
@@ -450,6 +506,19 @@
     "h1b",
     "green-card"
    ]
+  },
+  {
+   "id": "4c7884c77d78770b",
+   "title": "Xu hướng khách quốc tế định cư: Động lực mới cho thị trường địa ốc Nha Trang - Báo Dân trí",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYWR5ckEwbHdraGJVZ2N4dEUxQ19VU2k4cDFPTHFnOFB3TDViSlR6emlpVTI3ZWI1ZWR1WmtwX25SeFBtZlItbW5FY3JBd2YzVlAwb21BSjlqUVlleFk3WnJqOHQxQV9QVE5iQkMyNlZMUGM4bHo5QmZIYVNkQVpaaHhQVkhickVOOVg4dDd6cUpHMkxIWDlFbHRCbmdheFlOdWwzVE1nbUFUU3NmLW02MkZYUVRxUVNIM3BXOGJMSUNlOVRLZm9JLWM4SHk?oc=5",
+   "summary": "",
+   "publisher": "Báo Dân trí",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-10-13T04:45:50+00:00",
+   "fetched": "2026-10-13T06:22:49.337698+00:00",
+   "visas": []
   },
   {
    "id": "07b6c31e61b15a52",
@@ -1745,6 +1814,21 @@
    ]
   },
   {
+   "id": "4086ad535bd3589c",
+   "title": "UK accused of giving people of Gaza false hope over new refugee safe route - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHIyRGRQS3NCMzV4bVNobXRGMDlMT2RZU1FseUNFWjcyOHBtdlgxUEsxS2lTbGdUMXFtSzJQWENpYTE1S1ZXMWRYRWtZYm55YjV6WXpMLUJkbEQzc0FGWWRlNGNMRkZ6SnNsT1JYRU9jVE5jYVRKTHY0elZtNmxQem00YWFJS0dvTmJYSjVtWW4tQkg5VFZNWnJ1MmtHSHpmZHdKOHcwN0MwWGRl?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-10T06:00:00+00:00",
+   "fetched": "2026-10-13T06:22:49.337698+00:00",
+   "visas": [
+    "asylum-policy"
+   ]
+  },
+  {
    "id": "9d08359510211713",
    "title": "Australian capitalist parties escalate anti-immigrant bidding war - World Socialist Web Site",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZGJjR0c5MDB6MXlZNE93c0ZMQXFrVnM4STNrRWhXN3M2WGd1cER5emp0YnA0VUZnTHBiTWhCOFE3cWptaGFEc3RSTklKSmdGdnB0eEo4cjZGb3JMbkJSTzJzeGVhZmE3?oc=5",
@@ -2979,6 +3063,21 @@
    "published": "2026-10-09T07:00:00+00:00",
    "fetched": "2026-10-12T22:46:41.285923+00:00",
    "visas": []
+  },
+  {
+   "id": "5005adce3dc00d12",
+   "title": "France Work Visa for Indians: Process, Requirements, and Fees - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZbzBxTU9DZmRfTm53WnQwRFlrTm5hNkJZSFNLMlA2YzV5Sl9Cd3Q2V2hnaEJ4eDh6aW1UTzNsU3hVcXFMOXllNHpHaWVYVm4ydXc?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-13T06:22:49.337698+00:00",
+   "visas": [
+    "work"
+   ]
   },
   {
    "id": "f6cc906fe6524f7c",
@@ -7702,6 +7801,21 @@
    "fetched": "2026-10-06T11:45:41.585871+00:00",
    "visas": [
     "pr-citizenship"
+   ]
+  },
+  {
+   "id": "91902ab993b3b6fe",
+   "title": "Europe’s chaotic Entry/Exit System could take up to two years to stabilise, EU official warns - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWpzbVB5bmtVTW0xVE9SaUxGU3JHbVgzcVZmbDBNazd1bnNzMG5jbUNxU3NMbk1rbXB1NnJZb2FnT19OSjV1X0VPWmhuRmc0OE9YMnJwLXVyUnJsNXBGb3EzYk1RQ1FTUHJOeExGVzR1NHJKV3o2X2pEX3lJbGhfOTA2d0REYUZTZkh0YkNoMUx4R2IzalRCcXFTVzhaZHkwT3BkMjB5OEJ0LV9yalRuSnppaDJ1bTZkbV9oRVJBWU5XSnMt?oc=5",
+   "summary": "",
+   "publisher": "Euronews.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-06T10:06:00+00:00",
+   "fetched": "2026-10-13T06:22:49.337698+00:00",
+   "visas": [
+    "schengen"
    ]
   },
   {
