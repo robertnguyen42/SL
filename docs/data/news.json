@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T10:17:56.089872+00:00",
+ "updated": "2026-10-13T10:50:30.035911+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "us-visa-bulletin",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -446,6 +446,27 @@
   }
  ],
  "items": [
+  {
+   "id": "5c9193368e69d0b8",
+   "title": "US visa alert: New USCIS rules tighten deadlines for Green Card applicants and H-1B workers; here's what's changing | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUG5uQVliS1UtazlnckJqSV9qN2hXdGxneDctOFZfX2E3Qy0zX19FRm5qZ0tqOUlsRUMwaXNtMjdSZk5zQmhEVEUyZkhsUzNsX1Y1N1ppRG13WUp0RTBEazliVUVCaGh4QjRiMEZZQ0VLMGRuZU96bmFOdjFicFR3UVZaeUxqNG1MU1NHVGF6eVJ5VnF0MDJwZk4yME52R2MweHNLZTJtS0lfOHk2SzI1Z2dtMzlteGw4VkloX21yU1VBbG5qa2RlRTlqbmlDM21pX0xkWENSVDBFaHpzem9RMEVnaFRyRF9fNkFlZF9MN29xaWNBSVB5Y2czNVlXZV9xaHJKbnVmQ1dya29oeUR30gGUAkFVX3lxTE8tRXlEcV9kandSVTdPMGFtcVFsTXhNQ2JBaDk0eE1tUFREMlQ2OXVGRXFOOUY5SHl6d29ieFlXdFQwTHRRd2xMVGs4TlBsZmQyNHNBeFN3VDIzNm5hcmI1X1NKNm9xNWIxR3A2WFVkV19wQ01PXzVoOC1TNktQUGpzNVA4Q1RRTGs4Vmh6cl9GVF9pcW9ETFBhN091QXcxc2djU2Z1V3ZRWW12Yi01TTA2dXVLQzFCT2k3LTh1Q3Jwc2hDZlphZHNleVZhNExrYXVBNjgwQ1BRTnhsdWV4RHFRNjRaZ0RfbHkwX2tkb2FFekh5YVVqTTJCRG0xYU1Lb2haRzlIUkNKb0tNZk8wdnFadHFjeA?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T10:39:37+00:00",
+   "fetched": "2026-10-13T10:50:30.035911+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "cf29b57235f6583e",
    "title": "EES checks can be suspended until end of 2026 as ETIAS launch date is dropped - Travel Gossip",
@@ -28400,6 +28421,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "35a767883e4c1b51",
+   "title": "U.S. Attorney’s Office looks to revoke citizenship for Charlotte men over fraud - Queen City News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2w4U0M5REFqUklMUW0zalFkNkczNTRiVk80eUhjWXh2RDRwQlZJYnBWb2tzVGVJRVAwNmJtSUZfWDRtcGJkWWRPMnFuU094dlJwOS1nUE1TSGpPOXAzTnZYcllvQ0gwd2lUWXN3T2s0U1U4cTY5T1NXZUFxZEVlTU5vcWlMZjR1WmxTZXBXbjAwQW1QZllQTGlCUVZ5VVR1dkhNMzdDeldfUVhGU2pJTDlwME13R1FE?oc=5",
+   "summary": "",
+   "publisher": "Queen City News",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-13T10:50:30.035911+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "0e934541d688a23c",
