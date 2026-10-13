@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T11:49:00.861031+00:00",
+ "updated": "2026-10-13T12:22:18.496721+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-gov",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-work",
@@ -446,6 +446,46 @@
   }
  ],
  "items": [
+  {
+   "id": "e6e76aff20360b24",
+   "title": "US visa, green card applicants face new USCIS filing deadline rules from October 23 - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR2lxSUtOUUpRVERDaDgta2hsd0U4QzZGNFlhM21iaENwOEI0a3FrdVlUaFZ0RVRaMVQxQjFfODJjWjkyX3VIdkt0VTFHT2ZsLWZ4NDBUeWpRbU01bHlQejNzWDRLWXlwSVMzZXBjMmlFbzNuWW5jZXVwd2NXV29Id1VkNjhfNHNHT2JpQUZjb0F6b0dqbTluY1g2Q0RTWGFVeFZJektmanlZMkxQYzJwQnFxZ1lGazYtbHAtTnliZ0ZELUt0OWtlTTJRWjFCcmRhSEI4UHVWREhxa0nSAdsBQVVfeXFMTkdpcUlLTlFKUVREQ2g4LWtobHdFOEM2RjRZYTNtYmhDcDhCNGtxa3VZVGhWdEVUWjFUMUIxXzgyY1o5Ml91SHZLdFUxR09mbC1meDQwVHlqUW1NNWx5UHozc1g0S1l5cElTM2VwYzJpRW8zblluY2V1cHdjV1dvSHdVZDY4XzRzR09iaUFGY29Bem9Ham05bmNYNkNEU1hhVXhWSXpLZmp5WTJMUGMycEJxcWdZRms2LWxwLU55YmdGRC1LdDlrZU0yUVoxQnJkYUhCOFB1VkRIcWtJ?oc=5",
+   "summary": "",
+   "publisher": "Moneycontrol.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T11:58:12+00:00",
+   "fetched": "2026-10-13T12:22:18.496721+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "b3a5388c66117a5b",
+   "title": "Barksdale Air Force Base hosts naturalization ceremony welcoming new U.S. citizens - Shreveport-Bossier Journal",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTXA4UDhKV2NRUGF2dy1SbTdPRkFhUFRpMEo2cTJMZGVHX2hmZ0lneDlYX3FsYnk3RHpTbWY3UzlNODZEOWhyQXpVS2dtY1ZUaWpZY0hOSERvWmlJdTJYTzZaUjhWMlZ4dDkwNHN2WDZZVEtGRXc4dVdIc0VkZGVDZ1NQYU5NNFE3TTBnOE9NVjZsQzl5QUFKYXBSbExpNGFvSlV2SkZoNjA5SGhrV0RRN1dnSlFNZzR4M0hxazFRaVhWY1cwMmRrTzZR?oc=5",
+   "summary": "",
+   "publisher": "Shreveport-Bossier Journal",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-13T11:31:47+00:00",
+   "fetched": "2026-10-13T12:22:18.496721+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "5f79c0b4b847f512",
    "title": "New Zealand lists visitor and transit visas that must now be applied for online - Yen News",
