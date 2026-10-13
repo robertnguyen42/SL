@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T22:58:31.186746+00:00",
+ "updated": "2026-10-13T23:26:48.247547+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -370,7 +370,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "eu-digital-nomad",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -465,6 +465,26 @@
    "score": 0.0
   },
   {
+   "id": "571139317175b049",
+   "title": "Federal Court Review of USCIS Adjustment of Status Delays - American Immigration Council",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUV5NXIwc29EOUh6ek03dV9rdzc2WG9PcmlhYmFMQUh1dEp2enZVZEl0aEl4V3J4dGxJZEtyVDFxVFNWZi1DRjViMUVGWUlnT1lXajdQbm0yU1FOSm5yV0NEWGZtRHlkMTdMUHc4NGkwTlZTS1BmUVFRelVuOE9idXRlQl9uWHRWVkZlM3dR?oc=5",
+   "summary": "",
+   "publisher": "American Immigration Council",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T22:23:06+00:00",
+   "fetched": "2026-10-13T23:26:48.247547+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "7e058143e050a5d6",
    "title": "EU Entry/Exit System: Airports, Airlines Propose Six Measures to Cut Delays - GTP Headlines",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV1hUWHB3cG5CTG9meWFqTzhUbGxndEdfZHRmLTh5VjRhTDExZG9PT2kwUGd2OUxKY19YUXFXRXZVQkVfNHRmemZWMVVlTFFSZV9NbEZ5Nmo3SFBfUkFGNGsyZzdtcExnNmp3bzVqdzVETlJhME1MZjA4OFl2UG1ZWFByQTFvM3RvdDA2WW1HdzZtT1BZVXpOMVV4dFRibVZnQ2l2VXpTTE4?oc=5",
@@ -481,6 +501,27 @@
    "lang": "en",
    "policy": true,
    "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "8b506a533d3e1230",
+   "title": "Public comments flood US government websites over proposed H-1B, OPT fee hikes - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSTc0SnRVUTU5UU95X25FLXVwd2NuMHdRelM4OTl4SHRTN21aMHE2MThKaThUN0poZjVOTWhsdFlrVHdlcGUtTVpKMkVhaGlYclpDTWNJS2lOMXl1MFRadlBjTU5lQVhyWDRsNThlTVBhLXdza0FOOFROcU90aXc3YTBreVNFU3FmQUVLeTM3YjhKeTNoa3hTZFFxT0ZKb1Fac1JqOXF1SGJacmluWkFFa05rNFRWSF9MdUg0WFltQdIBvwFBVV95cUxPSTc0SnRVUTU5UU95X25FLXVwd2NuMHdRelM4OTl4SHRTN21aMHE2MThKaThUN0poZjVOTWhsdFlrVHdlcGUtTVpKMkVhaGlYclpDTWNJS2lOMXl1MFRadlBjTU5lQVhyWDRsNThlTVBhLXdza0FOOFROcU90aXc3YTBreVNFU3FmQUVLeTM3YjhKeTNoa3hTZFFxT0ZKb1Fac1JqOXF1SGJacmluWkFFa05rNFRWSF9MdUg0WFltQQ?oc=5",
+   "summary": "",
+   "publisher": "South China Morning Post",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-13T22:17:08+00:00",
+   "fetched": "2026-10-13T23:26:48.247547+00:00",
+   "visas": [
+    "h1b",
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": false,
    "score": 2.5
   },
@@ -1360,6 +1401,26 @@
    "score": 4.5
   },
   {
+   "id": "4f22937cc768a1c4",
+   "title": "Australia Announces New Conditions for Student Visa Applicants and Their Families - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekdPaUhHLUZ6TXMzQkNkdG5WdWFxdUFIUHJnTXhEeVR5Nm85dnRWWjRKMXRldVE5c2tHNGMxLWJvTzZVbDlzVGxZWldFRTVCRnowUW9CUFRGemdDcjNJNFQ0WDBPZlprY2pYZ29ZQkp3aWxBMlp3N2NaQ0tNZmZVRUdySTdqblFfRnllbEh1X2htTE01d3RvYk5JMTFnU3FNdUE?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-13T08:12:58+00:00",
+   "fetched": "2026-10-13T23:26:48.247547+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "3a3e03bbcedde426",
    "title": "Brazilian birth certificate translation for USCIS is now available online - openPR.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkktcmE4MjJ1TzYtMzNTZmxiT2ZtTFh3R1UxSnpJTWlTbnRqSnZCc2Fiak83NXBncUhNNnU4QmVFZEt0S1MzQnhuZzMwYU9zYjVncGVhRWVqRnNyR3ZWQU9kb3RhdG5mLU9fQjAtZkFweFFLVU5QVzlWZFdfWW5WRy00c3UtNkRIcS1NU0ZMckFDQ0ZpSzFz?oc=5",
@@ -1683,6 +1744,24 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "6283f97ac28dada7",
+   "title": "UK outlines 3 visa types foreigners can't use to secure permanent residence - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2k0Qk9zYmRBZDF5ejdxWVhBdU1RaG11dW1CYmY4MzY2MG9mTEkySG9fQk1SOE44NnVudGdZc2RrUnBNei1rRnQ2Xy1rQjdlT0c4U3IwZzdDckpoUENZdlNLdjVwUnA4R3RRSm5KNElGQnBhQVdIdTk1QVVtd3Q0Y3lRYU14SjBtdDdla2hkVk4tb1hWbGFEZUU1TQ?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-12T23:46:23+00:00",
+   "fetched": "2026-10-13T23:26:48.247547+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "39a3d6f95bae164c",
@@ -2699,6 +2778,24 @@
    "score": 2.0
   },
   {
+   "id": "6021f6fc7863ad16",
+   "title": "UK Universities Revoking Admission Offers for Kenyan Students as Visa Rules Tighten - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaDF1VklzUkRCR3lRMnVjMjI4QUlwYU5rS3dHb3ZjTVp2bklmTWVFY2Q2WkxyM0wyOG9CaWJoT1dPd18tMlREMGE3TUYxdEVlZjVka0FJRTh6czFVRE5tbnhrQWo2WW9pSzFna3U1VWp1eFVocWhBRjE5N09WdUx4dnhhdk9mZE1NLUdZa0Jxby1xTW9heVMtMTg5QTlrQkNfT3hQQXlkZjd3ZWo2Z2xGUzR1Q3RJR01ndmlpbA?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-11T08:31:51+00:00",
+   "fetched": "2026-10-13T23:26:48.247547+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "8819ff521a0bcd05",
    "title": "UBC International Scholars Program 2027: Fully Funded Undergraduate Scholarships in Canada for International Students - Global South Opportunities",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsR1AyekFzeFdlWVRsV3lrMFZ3VzJRTHB6YWVKQ2ZJUDB4eEs0eWo0dWZ6N0JXRU9xa2VhQjNENmRabFdoZmpBdzA4bHZaeUxKZTlYaVN0cW4wU0ViVEttRi1xMl9qT25kU2c?oc=5",
@@ -3040,6 +3137,24 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "60778545e39e2353",
+   "title": "UK universities withdraw admission offers to Nigerian over visa crisis - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaG5Dd0xMNVdXQTBhbTlaVmVJNHpRTG1ZaVlQcE9CYWZPbGx0aWRvZ3JMSTFsenhTZnpReTlvQ0F0VWtDWnNJU1llRUE4VEtxUVdjYjBUZlNhbGRuc3l6eGIwV2FKWUFqOTFLU0EzVUlxdmxiSVlhN1lwdmUyMFdtUTZpN1ZSNEJDMzhQU2JyaTRiT2Roei1qczVmVHd5MzMyMjYweg?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-10T16:02:53+00:00",
+   "fetched": "2026-10-13T23:26:48.247547+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "624b0c3f78d30240",
@@ -22709,6 +22824,26 @@
    "score": 1.5
   },
   {
+   "id": "149771102142ccfa",
+   "title": "UK sets stay deadline for international students whose sponsors lose licence - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHUzTnFtWGdsZGIyYWZXODdkR1d3al9Xajk0YWtvNXhZcGwtRy1HNWptbmRFOVdBMlZPSERfM0lZWWtnLVR2QlA2azBDYzFSeXUtUFlRMDB4UUpOVThNUC13TjRvT3ZFSEN2NUplanFFUExxcGY4X09PS0wzNC1qWXQ1a0tJQTNTclZmTEsxU3A5cVV6WDlRTWtoczJGdU9qZ19yOEFmMVE?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-29T07:00:00+00:00",
+   "fetched": "2026-10-13T23:26:48.247547+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "54196663e8d0fcef",
    "title": "New Zealand family visa application to move to enhanced online system from November 16 - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1ByWjh2bkdVbHBXekJISHRoaEQ2NllBRmlMREV3WWljNkx2OWc4TUtMZmRiNWk5N1hHMWZkaWtMWEtCelA5NmJMNW5BejQwajlVSDlnb3NRQUp2MlZNWjN1Y0dwOVVFNmVJczRWNUtUVG1ZckNOcnQ4eXFicjQ3SFdNRS1FNXVBQ2Q5ZjZ4UjFUckpUQldnRkNDWk5ULTkySVJ5eE5TQVo3UnFFbEd6cDRaS2RNVE1jVHE0V2RYZTNnWXEtYmpOYU1JMVNtcjlvTFcxU1dxUU56d3dDTGxpWDdFRnPSAeoBQVVfeXFMTzA1MjllcU5IX3JaR0R6WDNHX0h4UHlUdTZqemRUdy13MG93cG9BYUxHTHZlMTFFTDFiNW44MXRYZjI2RWRMbmltRjItTjl1OFJKSzhUUkxFOGY4aVp2czdkVU5IWUdvWmNVbjNvRzhXMzRYdFR4LTZfY0xCUkQxR2xzQ1p4YlNJYVJiV0oxX1NQNlR2YkZqWWtPRWZKV21HbFZQbTRLOGlKM25EdUx5bU9xa01HSjBWMmlEQXgzQlB0ZHFfQ1hrdHlpWUkwOVAxenU5OVVPWmdRcjVXaU9iMV9FYVNNYmdKWWJn?oc=5",
@@ -28675,6 +28810,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "644d15722498c470",
+   "title": "Germany shares 4 steps foreigners must take before applying for a study visa - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR3M2U2JYUVFWXzEyZndZU2pNVklEUE5UNHNaSEIyNW92MVd0Q0p4eTl2NW5xdE1RQ2ExOHVKZkVTMm43bXdlWnpvRjVoZldYSGxpMHZEbEVzaFlXZnlwdzFLLWhHRGpKemN1VUw4XzF0c3Ztb2NSZWZOU0h1Z2drQk9VcVJ3R0YtVnpheUxxeTFhbnZyY1E5S3dvaUVIR3BTenc?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-13T23:26:48.247547+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "15deb630b6ae09dc",
@@ -36308,6 +36463,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "054f536f0cb988b4",
+   "title": "US judge postpones strict visa limits for foreign students and journalists - Le Monde.fr",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNak0walcxTGtBUzhoTnk5cWw5M01oQndCZXNqSkRsQ2NMSURva3JBWHd4cWNpekJDVTNzVFBjU1VTVXItTXRUWkZoLXUtdkhkbFpMQ2xpOUM1bXVuLUZFbDhuZ3p4RExoaEh5ZEJMencwYld3QURsaFU3eGtSWnZoMXNFRWtNbVFkd0NtY0tkR0xzbFBMcVFIREZIbkJZdDRlUlRROUJqNlJjXzJTRTBPVjVnMUc4MjR4d2VBVVJaZXlkSlZIOHNEcjFJX05qdF9yTFFQWTZtZzRqdGJLVjJibmdR?oc=5",
+   "summary": "",
+   "publisher": "Le Monde.fr",
+   "country": "US",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-13T23:26:48.247547+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "c9bbe165fb97e3ad",
