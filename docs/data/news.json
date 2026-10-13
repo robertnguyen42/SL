@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T05:17:40.333216+00:00",
+ "updated": "2026-10-13T05:48:53.425310+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "nz-en",
@@ -419,6 +419,22 @@
   }
  ],
  "items": [
+  {
+   "id": "27f4947f72f923e2",
+   "title": "Best European Countries for Digital Nomads in 2026: Visas, Costs, and Lifestyle - ETIAS.com",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpV2VZSW5laWtUT1BhczdXc2lib1JJQmVZcXlyd09GTF9VdDFIeXN5ZXlrSFhqUThNY0l6TU1hMWI3UnVLNzJmSU12X0FPOXlpVGdmakptN28taG5PTzY3bjZVbEIzQVdjWTg2WThxWkNzMDg?oc=5",
+   "summary": "",
+   "publisher": "ETIAS.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-10-13T05:33:50+00:00",
+   "fetched": "2026-10-13T05:48:53.425310+00:00",
+   "visas": [
+    "digital-nomad",
+    "schengen"
+   ]
+  },
   {
    "id": "8280457ac136de4f",
    "title": "USCIS new filing deadline rules: What H-1B and green card filers must know - The Economic Times",
@@ -2698,6 +2714,19 @@
    "source": "us-vi",
    "published": "2026-10-09T09:09:01+00:00",
    "fetched": "2026-10-09T10:16:55.429065+00:00",
+   "visas": []
+  },
+  {
+   "id": "b27d859940966c82",
+   "title": "DHS Policy That Made It Harder For Immigrants To Get Visas Blocked By Judge - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN0pwTEpPeE15MFBpY3VoQWxOVG5mclA2bjdLeHRiZ1laaEhENEk0bm9LZFhGY0Y1V2h5RHRnWnI5UW9vWVg0cGJKUm1aR09jNlNCc2tscXpobGxXQnhfOXlPMS1FZ2JYSVZIM1BQNEpRTl81b1hYeEFZMExIVzI3c3lldzFUSHk1YU1fSXJFYUx4VEw0Z252bUNfYk5MMEJjTVN1akJBSFBXWE1QLVE?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-09T09:05:00+00:00",
+   "fetched": "2026-10-13T05:48:53.425310+00:00",
    "visas": []
   },
   {
@@ -25840,6 +25869,22 @@
    "fetched": "2026-10-11T21:45:48.409512+00:00",
    "visas": [
     "schengen"
+   ]
+  },
+  {
+   "id": "7f5c946f25d64e8d",
+   "title": "New Zealand introduces new work visa route for international students - India Today",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlp0WFlaRzRKWTFHeXZEV0xmUVdRWWJQdDRYTXFsRHBkcVB5UUpOTmp0UFJnSXdSODBzQllFV0dFQU5VVUMxUVpOOUZWNS1WT2daSm5VNk5LVFV2N3hXUktLNHY2TFBfVnBFYlg5NVlOajNPWjhEM2xqbk8wMnFiMHNWMURGVzBzS3dGZ3Y3eUFjemlkNThTdWxCbFNuVUJMZTAzYTV3YXJYLS0zUllvQWJ5cUI2N0pMQzl2NUw0OU0?oc=5",
+   "summary": "",
+   "publisher": "India Today",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-13T05:48:53.425310+00:00",
+   "visas": [
+    "aewv",
+    "student"
    ]
   },
   {
