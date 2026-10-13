@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T15:50:16.355957+00:00",
+ "updated": "2026-10-13T16:18:05.848534+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-gov",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-family",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-aewv",
@@ -446,6 +446,62 @@
   }
  ],
  "items": [
+  {
+   "id": "02797c60d065fa93",
+   "title": "How Washington, DC, Immigration Policy Affects Local Families - Mediaite",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWxFbVZOUUhoTjRxTTQzWlpSR2NCcnhhUElXS1FPekVIdU5NZE0yUjZreFN5ZERLajlHSFNqMGgzWWVScGNocXNhMGd4ZnZhbE5xZzc5a2V1alhLdmpkcm1vRE9mdFNSSXJqYlBwRXVISzA3eFJBS3VrQmw0cDVsMmZqSnJ6WWM5eXNhM3FsSnlGeEpYcDhPd1lDT1dWU0VaSGF3?oc=5",
+   "summary": "",
+   "publisher": "Mediaite",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-13T16:00:00+00:00",
+   "fetched": "2026-10-13T16:18:05.848534+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "b00ae7b7cafac3d8",
+   "title": "ABTA urges Britons not to apply for ETIAS before system launches — The Guardian - UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM25XSFR1OVc0X2RFcXJRTzRqNkF2eFpuOXBOS2JtbHVMb3VGX3BWMjVoRGIyVlpPUWZxb2ZGVzhZdXJHMUZMY0lFU1lzbGttVHR3NlNhc0Y3dS02c0NBWTh0WjhzQkN1VVhwbUNZTzRFX3M0ZDAzSGljV1RPc3BFbXFzTXQ5SHNJV0RRMDg2bW5XVTBFOEotY2VYSWw5a3lWNDMtSHNfQ2NEY3p6dEN0X0htekFxdw?oc=5",
+   "summary": "",
+   "publisher": "UA.NEWS",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-13T15:58:15+00:00",
+   "fetched": "2026-10-13T16:18:05.848534+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "6da24371b1958a63",
+   "title": "New Zealand Announces Full Requirements for Foreigners Seeking Retirement Visa - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVB1cl9zUkE5SHFsUFdndFpwc1pYT2pMVkRWNEtHaTRhYWtxRzJLQmhQY20wdnVSSnpQUHo5dGY3V1NHWHhfLWp3UW9ROHBCeTRsczlNMUVXX3ZGTFVVWlRhVVpXY2VkdjVBcXBPQlFmQW9SVVBmSW00bVFxZXpEcXFOaHV5R0ZOQXdQTURmMUtYcV9PY05VU3lIblhMckU3QnRkT0lfanE5X19HUGc?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-13T15:46:33+00:00",
+   "fetched": "2026-10-13T16:18:05.848534+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "94c1a9ec87d6bf7f",
    "title": "Canada Invites 752 Provincial Nominees in October 13 Express Entry Draw - immigration.ca",
