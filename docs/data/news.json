@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T04:17:51.829037+00:00",
+ "updated": "2026-10-13T04:51:32.830655+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 12
   },
   {
    "id": "eu-gov",
@@ -145,7 +145,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "us-visa-bulletin",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "nz-aewv",
@@ -419,6 +419,19 @@
   }
  ],
  "items": [
+  {
+   "id": "07b6c31e61b15a52",
+   "title": "Australian Championship: Không chỉ là bóng đá, mà còn là câu chuyện nhập cư, cơ hội ở nước Úc đa văn hóa - SBS",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZ2NHRVhWMVpQZjItY2VuQTdnU1dqVUtLWkZWX1A2YzJ2THFCQWw0T0M3WDhlc0tiR2pMb2Nsa1U0TVdLbEVlMTRBWXJkN3cyMnhYTEdYWGJiUG1VUXR2M29hMlBXMFNIeVh4OEwzY2s4dDNmekpadDhSQm5tSVpEVkFraVh3UU1kcDBhMjAwMzRWQ2EzUXh6a3lDUDFhUlI2RGhKeU1YUnY3Q0JrOEZ6VjYzSHlaLWFvYTVmZUlQUFc3cjhBU0JkTWtTTG5WMTlFb2dKdzJXdDNqQVBzUUtNRWhlMmFiRE40Q1RzckNBZjQ3MmZYaVlVaVdTMUN0R1NZVUJMNW5ESi13RjZUd0ZXbA?oc=5",
+   "summary": "",
+   "publisher": "SBS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-13T04:27:09+00:00",
+   "fetched": "2026-10-13T04:51:32.830655+00:00",
+   "visas": []
+  },
   {
    "id": "da20e349fbd32d3b",
    "title": "Visa crackdown is not aimed at Pasifika workers, says NZ First - Pacific Media Network",
@@ -2941,6 +2954,19 @@
    ]
   },
   {
+   "id": "df53643ced61f642",
+   "title": "Aduk’s story and mine, Immigration is a blessing - The Other Cheek",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOVZ0VS1kVF9MSDJGOHJHdUIwcmhFZ2JwYVd1bG41OUlTb1FkaFlXVUhuZVBVRG9raFFkd290amlkX0UtZ0NvMU5pM05fZm44T0hEU1JfU280VmJrYnJ2NGE1OXUwQmlJdlk1cHl0NHJkMDFnMmpaVENVVmpkdV93Vk9n?oc=5",
+   "summary": "",
+   "publisher": "The Other Cheek",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-09T06:05:11+00:00",
+   "fetched": "2026-10-13T04:51:32.830655+00:00",
+   "visas": []
+  },
+  {
    "id": "5bcf7095ab21c52f",
    "title": "Mỹ đình chỉ chương trình cấp quyền thường trú nhân đối với Microsoft và một số tập đoàn công nghệ - Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzBVRDcyMXhfeXBWR05kUnYxajgxeXBzYUloSlJRcWY1b19FWExyaG9QVlpTWDQ2Y3lSeloxc2U2bnd2TFpJbjE2YkVNR2gyS3I2QVFpcWdqVGdrYllKQTJnbmRnTXRQZU5Mb05wN1k4ME0zZC1ORzNucXlfMGZVQ0tPZkF4WjZQWUdSR08ta0xieFNGRldCWUtTeVI1R0l2ckRreVZrcmE1MmJVT3ltdXdIQ0wtZjBZbDdHZQ?oc=5",
@@ -4287,6 +4313,21 @@
    "source": "us-eb-work",
    "published": "2026-10-08T16:01:10+00:00",
    "fetched": "2026-10-08T16:49:28.230056+00:00",
+   "visas": [
+    "green-card"
+   ]
+  },
+  {
+   "id": "29ffb9487cdb3ca1",
+   "title": "Lawsuit Challenges USCIS Over New Green Card Restrictions: What Cubans Need to Know - CubaHeadlines",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGSjNuSkRUMnJvWkpMempQOTczRXFEbzdFc3ZZSl9SV3JUdDI0V0VMalZQNVd2WjdvVHB6WXp4bDZoNGJhc1lqYUhGVGxCTXRDZlFyTzFrWFc?oc=5",
+   "summary": "",
+   "publisher": "CubaHeadlines",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-08T16:00:43+00:00",
+   "fetched": "2026-10-13T04:51:32.830655+00:00",
    "visas": [
     "green-card"
    ]
@@ -6636,6 +6677,19 @@
    "visas": []
   },
   {
+   "id": "0b20f24cad725c85",
+   "title": "Immigration policy to be a bonus for renters - Australian Conveyancer",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbjJYZGxvalNOdTIxZVlQSjNlUk5ZVjhmVVFnOTladVk4aE9VTWwzdDZuVDBlY2VTSHE2czc4Y2JwdTgyTTUxOFFKZ2ZEX0ZIMERJU3hnTmtlQ3czdlBWdmt3YlBocHpxNmxoUDduaHVKOFU3TGZoNzFub2Q3WVR2NFg2SnJuTHFKZnJ4N3BseGhDYjZsRFp0eWFB?oc=5",
+   "summary": "",
+   "publisher": "Australian Conveyancer",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-07T06:38:32+00:00",
+   "fetched": "2026-10-13T04:51:32.830655+00:00",
+   "visas": []
+  },
+  {
    "id": "e9f27d069d064a22",
    "title": "India is NZ’s biggest student visa market, but INZ’s own data shows only about half of Indian applicants are approved - Mid-Day",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPS28xVDlxcU5XQlVPN1lzRHJHWFdXemlPbnNXczBnMW9uc0hveWh0YmNrWFBiUjJjWkd4OUM3ZWV5OFBGMDFiWUI5dmJzekhtZnVPSXdUU3V5NjRzS3VyRTQtMjBiZVJwZ1hrUWFiWGtlM21tcjdkYXJfMktybGFsSXRCV2REdlVsZnh2Z2xyZjE5Z1FuMnZxTXAxLUprU0NUOGxzS3NGeExQaVlvSUlBdDJnUXl3U19kc214dTVQT2JfM2JKSW4xRkhLRE12R3dpQ010dDllWF9oeGw0cllFdF9oSVB0T2ZneExFbnY4SG5RbVA0QzE1akVNMNIB-wFBVV95cUxPS28xVDlxcU5XQlVPN1lzRHJHWFdXemlPbnNXczBnMW9uc0hveWh0YmNrWFBiUjJjWkd4OUM3ZWV5OFBGMDFiWUI5dmJzekhtZnVPSXdUU3V5NjRzS3VyRTQtMjBiZVJwZ1hrUWFiWGtlM21tcjdkYXJfMktybGFsSXRCV2REdlVsZnh2Z2xyZjE5Z1FuMnZxTXAxLUprU0NUOGxzS3NGeExQaVlvSUlBdDJnUXl3U19kc214dTVQT2JfM2JKSW4xRkhLRE12R3dpQ010dDllWF9oeGw0cllFdF9oSVB0T2ZneExFbnY4SG5RbVA0QzE1akVNMA?oc=5",
@@ -6746,6 +6800,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "33f26840a1983881",
+   "title": "Proposed visa shakeup set to boost regional hospitality - Hotel Management",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGs2cHRqSjV5dk16SExzUHZIRGk5dUFJNnk2SEFxU1BHTG8xUndZVmsyOFdiS1RJaUdqNzlLdVNHeW1FRVdTMEY4UUg3ZlBtbV9POWFMNkk1V2NVOTF2Y3lucUp1c3ZUcmRzSzhuQldUR2w4MnZPWU81Z0lIQWlkWjBkNjhaNU42eE9vMC1FQUpnWEtaWnVKVmMtRkJCNkplNm1faQ?oc=5",
+   "summary": "",
+   "publisher": "Hotel Management",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-07T03:35:36+00:00",
+   "fetched": "2026-10-13T04:51:32.830655+00:00",
+   "visas": []
   },
   {
    "id": "93ac89931517c280",
