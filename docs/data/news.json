@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T21:57:55.969736+00:00",
+ "updated": "2026-10-13T22:28:20.004321+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "id": "us-visa-bulletin",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -430,13 +430,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "7e058143e050a5d6",
+   "title": "EU Entry/Exit System: Airports, Airlines Propose Six Measures to Cut Delays - GTP Headlines",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV1hUWHB3cG5CTG9meWFqTzhUbGxndEdfZHRmLTh5VjRhTDExZG9PT2kwUGd2OUxKY19YUXFXRXZVQkVfNHRmemZWMVVlTFFSZV9NbEZ5Nmo3SFBfUkFGNGsyZzdtcExnNmp3bzVqdzVETlJhME1MZjA4OFl2UG1ZWFByQTFvM3RvdDA2WW1HdzZtT1BZVXpOMVV4dFRibVZnQ2l2VXpTTE4?oc=5",
+   "summary": "",
+   "publisher": "GTP Headlines",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-13T22:18:45+00:00",
+   "fetched": "2026-10-13T22:28:20.004321+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "ef45cfd08fc0041c",
    "title": "Employment Court: offshore visa job premiums now illegal - B2B News",
@@ -8078,6 +8098,24 @@
    "visas": [
     "work"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "ce0955456b7c67f8",
+   "title": "Australia’s rental crisis: Is immigration really driving rents up? - Ticker News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSndMcUdnTEhzN2s4RFl4X0RJUktsaTVtSUJaam9jVExNR0F4akFlV3VzNms2SmlSNXo1cnl5TXlVVThsVmN2b1I1NGpmOG1kNm96V2dDUldnZ3k0TFhCeGxyVVRZUnhWYWI2OFB6Sl9aVUpJZHlQQU9GVFlwNFJrYXRGZEp4UndrMTFhYWZsb9IBlAFBVV95cUxNTTQzNXluRWZZZTRMUnMzc3BoSm9vVUh3Y3NBYzJaSUxBd1RsUzNNVGxMN2FYVm5lWE54bmlVMGZ2RV9IZER4SzBmcU05NjZLMC1ESndsRFJuYlotSnEtTHdFMThiNmFma1dvcEo5cVpHU1FWeWgtaWJhMFBHbHk1UDJ0OE1CTmJvaXRaTDZGbUgybE93?oc=5",
+   "summary": "",
+   "publisher": "Ticker News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-08T07:30:05+00:00",
+   "fetched": "2026-10-13T22:28:20.004321+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
