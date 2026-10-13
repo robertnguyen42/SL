@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T17:16:29.362710+00:00",
+ "updated": "2026-10-13T17:47:41.040557+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-aewv",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -457,6 +457,24 @@
    "source": "us-en",
    "published": "2026-10-13T17:00:53+00:00",
    "fetched": "2026-10-13T17:16:29.362710+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "631588e942ead5e6",
+   "title": "150 websites selling EU visa waivers are scams, warn fraud experts - The Times",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc21nb2NwZWI0aHhJX0pHb1VDb09JUktXYmhna3dlUjNPRC1uWEp0bE4wamJXZ1ZoLUdXTUZ6TVhBS2U2ckcxbXBiRDVzQUxwNFBuTHA4dVE1WUIyMUEwU2pQeUFXS2prRDA4Z0tYRFNFNnRXS0s4ZDJXNjNnLWxjcEppdGQtVVhsWDJSSVpQWjZ1WXpPM1VvYmNRTi1YQ1hYb3FwWUJvNzVpZHF5X2dxdHFseW5oUQ?oc=5",
+   "summary": "",
+   "publisher": "The Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-13T17:00:00+00:00",
+   "fetched": "2026-10-13T17:47:41.040557+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
