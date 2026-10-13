@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T06:52:43.683208+00:00",
+ "updated": "2026-10-13T06:58:09.245706+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "nz-en",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-partner",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "nz-aewv",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -34991,6 +34991,26 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "e575953722884c27",
+   "title": "International Student Program a pipeline for cheap labour - Troy Media",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQnJ5VHUwN29EUy1uRXlVM1g5ZGFZSU81WTZRelk2THEzUkhvOVVwZ0hJNXJJQ3RaMm9Ca29PQlNpdFI0cmllNHFnZmpTUjBpTkpUbUZwLThZOFl4d3ByUDNUUFdGSGNXZjE1U25kQ2NycUh4ejdOUE5CUHFrYXJZVDJNelRYeEFRRnhkNTJKNW53d19HODQ0?oc=5",
+   "summary": "",
+   "publisher": "Troy Media",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-09-14T14:13:10+00:00",
+   "fetched": "2026-10-13T06:58:09.245706+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "3b6595c0fcaa700c",
