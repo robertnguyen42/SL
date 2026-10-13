@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:50:33.324672+00:00",
+ "updated": "2026-10-13T09:18:00.072413+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-work",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-aewv",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "c771de575b13e729",
+   "title": "Nhiều ưu đãi thu hút sinh viên Việt Nam du học Đức - VnExpress",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSkpUWTNPWTdoLWZQNEw2RFVyTllXaTFjS3NiVTRHLTZpdEE2MmN2TFpvbjRlcGZpZUdtX1B3RmlUYzREeXB1UVJUVXZEak5IeTM5azl0TFV4NkZPSHcxTGx3SmMwOC1GZl84NTZkc2wzeXhiYVlXVUZHaGd0b0NSMDdSLUUyeUxJX0JUeHN3?oc=5",
+   "summary": "",
+   "publisher": "VnExpress",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-10-13T08:37:50+00:00",
+   "fetched": "2026-10-13T09:18:00.072413+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "vi",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 4.5
+  },
   {
    "id": "d52494cc79598047",
    "title": "US Immigration authority has 10-day deadline on home addresses; says: You may not receive your immigratio - The Times of India",
