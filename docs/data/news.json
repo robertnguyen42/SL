@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T15:18:57.725279+00:00",
+ "updated": "2026-10-13T15:50:16.355957+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-work",
@@ -446,6 +446,45 @@
   }
  ],
  "items": [
+  {
+   "id": "94c1a9ec87d6bf7f",
+   "title": "Canada Invites 752 Provincial Nominees in October 13 Express Entry Draw - immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDY3YmtTWW9RRFlMSThDYmZ1ZF83LVBiX01HaGpUMWYyZU9tM1E2LTJxTVdxZEZvSnBoUExDVFpXNmFiUF9uYUNTOUI5MW9nNGVlbnNkRFZkYm0tZXZHaWZVR2dDbFJKQ1RsMzN1VTZnTkx3bndlS1BRQzBRbmw3Qk1meHRnQmxYcXZkVG9pMXdvV2l0eWhj?oc=5",
+   "summary": "",
+   "publisher": "immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-13T15:43:45+00:00",
+   "fetched": "2026-10-13T15:50:16.355957+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "4f8895c091f5d8c7",
+   "title": "Britons travelling to Europe told not to apply for delayed Etias visa waiver - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOanFfelVkY1VCeE9aLUJzVktjZ1lhbjZjSEdIajFZWHdvSlBrSExSN0tlSkdXWmdac0Y5dHAzdE1NZkFvRlFoZmhnWlJ3VDNFbFA2YmMzSDM2Vy03UTVDbGNZTEwyZi1DeFc0Mmc5TmZNQmNaUG13Zl9BZTlmVkE3Wnc5N3ZnRlpQZ192YUlQQ0FiZ25ndzFKeVVmU2t1VTZ6NExfNDBPTzhab2NUT0s3Q2gxams1VW91b3Q1T2N1aw?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-13T15:22:00+00:00",
+   "fetched": "2026-10-13T15:50:16.355957+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "4bb909257f0e3959",
    "title": "Commission provides additional EU funding to strengthen border security",
