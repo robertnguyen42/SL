@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:19:24.637924+00:00",
+ "updated": "2026-10-13T08:50:33.324672+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "nz-en",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-work",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 23
+   "count": 21
   },
   {
    "id": "nz-aewv",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -5523,6 +5523,24 @@
    "score": 4.0
   },
   {
+   "id": "7f2de779594ed137",
+   "title": "Immigration catches up with overstayer who lived in NZ under alias for 38 years - NZ Herald",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkl0dHNTcWVxeFVNWDVtcE9OTVFab1UwRC00czllRmZud3NyalRabTNRdXoycldOVUdnd054QlJBZ2Myclp0MlMwdmpKUWR6alhiUUFGTFRydzdZdnpmeWJZcVB3RUJ5YWN1M2VtYjQwSS1GZDVhRkdTVWhoUFVsMk5heFZIYzYyLUlOWVdUa1VqUzJ0bHlITElRdk9lbDhoRUhWN1JzWFlhZWZuc3pFcUZqcDEtdlJReVdocy1YczhIVFduMlU5VVlUZw?oc=5",
+   "summary": "",
+   "publisher": "NZ Herald",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-08T17:46:24+00:00",
+   "fetched": "2026-10-13T08:50:33.324672+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "172d2e7188658e3a",
    "title": "US Issues Final Rule on 9-11 Biometric Fee for H-1B and L-1 Visa Petitions - Legit News",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1hNLVdYbThyRzI1ZkFCSHNlYWxRQVpWdGZUR0JBNWt3bnNTX3NOQU5oWVBPaDd2dTFpckZ0RzJUQXk5QWdIcTA4V2FkTFAxTEJiSzJaM3JhZzNlX1hQcFVlZzlnNU5nbmhkQ3l5ekZibE51ZXVLenJyWVVtOEpFMmVieUFPLUZQSHVCOHVodDlxaldnVUpPaWhEbDR2V3d3?oc=5",
@@ -9095,6 +9113,26 @@
    "fetched": "2026-10-11T02:13:58.600487+00:00",
    "visas": [
     "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "1d0711ccaf37c0c2",
+   "title": "Refugee Admissions Program for South Africans - U.S. Embassy & Consulates in South Africa (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5laEJTdGtNVlJDa01MT0NIUXN3MkItaWZIcGF5a0VBZTRJSG8xbjFuaXNld1l2VUVyenhjWTZSN2E4QmZJdEt5QVRzMFE4Nno0b1ZMaWhyOE9sVEpVMVRvNWpackNFQVJzZ3piNmo3TVh2YTFydTBfUkc1aw?oc=5",
+   "summary": "",
+   "publisher": "U.S. Embassy & Consulates in South Africa (.gov)",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-13T08:50:33.324672+00:00",
+   "visas": [
+    "asylum"
    ],
    "lang": "en",
    "policy": true,
