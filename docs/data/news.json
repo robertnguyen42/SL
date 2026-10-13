@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T04:51:32.830655+00:00",
+ "updated": "2026-10-13T05:17:40.333216+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -349,7 +349,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-family",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "nz-aewv",
@@ -385,7 +385,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-business",
@@ -420,6 +420,22 @@
  ],
  "items": [
   {
+   "id": "8280457ac136de4f",
+   "title": "USCIS new filing deadline rules: What H-1B and green card filers must know - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ1hBenFxeWJBODBqU3F3Rk1vQzNERmVaRFZGTURNaEJDV01NM1lWN2FwcmdCcUs0aEFvOUJDVGxNWUJUbTA3RV8yVmtaS1dTeXZ4b1FORlJvNkFSUmF2d1Z5OTltS1JreWwwMEktRDlRR3RiTHdFRlRsR2h6MzhwRFowLUpDcmNiUFZ5TlV5dVM0a2p2bUdlUXZnWGV0MEl2ZnZNc0dSNGotUW1zckhNN0R5ME9PSVlOcG9FLXVjc05yaExlQldHb1lyMTBQWUNyLTU0?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T04:55:50+00:00",
+   "fetched": "2026-10-13T05:17:40.333216+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ]
+  },
+  {
    "id": "07b6c31e61b15a52",
    "title": "Australian Championship: Không chỉ là bóng đá, mà còn là câu chuyện nhập cư, cơ hội ở nước Úc đa văn hóa - SBS",
    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZ2NHRVhWMVpQZjItY2VuQTdnU1dqVUtLWkZWX1A2YzJ2THFCQWw0T0M3WDhlc0tiR2pMb2Nsa1U0TVdLbEVlMTRBWXJkN3cyMnhYTEdYWGJiUG1VUXR2M29hMlBXMFNIeVh4OEwzY2s4dDNmekpadDhSQm5tSVpEVkFraVh3UU1kcDBhMjAwMzRWQ2EzUXh6a3lDUDFhUlI2RGhKeU1YUnY3Q0JrOEZ6VjYzSHlaLWFvYTVmZUlQUFc3cjhBU0JkTWtTTG5WMTlFb2dKdzJXdDNqQVBzUUtNRWhlMmFiRE40Q1RzckNBZjQ3MmZYaVlVaVdTMUN0R1NZVUJMNW5ESi13RjZUd0ZXbA?oc=5",
@@ -430,6 +446,19 @@
    "source": "au-vi",
    "published": "2026-10-13T04:27:09+00:00",
    "fetched": "2026-10-13T04:51:32.830655+00:00",
+   "visas": []
+  },
+  {
+   "id": "a4ca1626c50060c2",
+   "title": "New migrants: Proud but anxious Aussies - Australian Conveyancer",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa29Nd3FtVVN1eGh2Sl9hMV9iZ2lTemJSSDdZVGFZajRWRjZoZXJKUlItZm4tQS1qeGgyWHMyLTNiUUhqTzZoVzg5ZWg4Q1dXcld0dW1OVExyaWpqQkZEQjAzdXFiRmRSTHE3enVWeWZjYkNDZU02eThQRlpNMTBXNXktWTFFcmRDRC1iMGl1X1lGUElfQ3RrR2JCaFlxdw?oc=5",
+   "summary": "",
+   "publisher": "Australian Conveyancer",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-13T03:21:32+00:00",
+   "fetched": "2026-10-13T05:17:40.333216+00:00",
    "visas": []
   },
   {
@@ -1726,6 +1755,19 @@
    "visas": [
     "student"
    ]
+  },
+  {
+   "id": "0ef2b71ab154ef5a",
+   "title": "Visa Infinite free 6-month ALL Accor+ Explorer membership now available in Singapore - The MileLion",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNakoxWnZIVGhFOGNwLXVSUnFTNjRUX05uUm1KdExfUENFSnlsR3RRZFRkaWRMOU10ZTNBRXNRZGZUekZlQTE5MllXVjVEbDN4RnFKeGNEWEJac2JqWGVVSnJCOHVKNlA5R2tTejByUG9EVldNTHktcWdiWUhoNVVlMWl0SVJjM1d2SWtPRHBMUlR2djc5VmMzaFpGMzJwdlpma1Q4V3NXSHM3ai05SVhXLVBBN0R6ZXc?oc=5",
+   "summary": "",
+   "publisher": "The MileLion",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-10T03:03:03+00:00",
+   "fetched": "2026-10-13T05:17:40.333216+00:00",
+   "visas": []
   },
   {
    "id": "be53e5c28409a1d5",
