@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T10:50:30.035911+00:00",
+ "updated": "2026-10-13T11:17:28.730526+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-work",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "5f79c0b4b847f512",
+   "title": "New Zealand lists visitor and transit visas that must now be applied for online - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORTFKTGNGT290THBfd0x6dW5Xd0JqZGx4MWl5SFVrTzdSV1hRNGZwREFIXy0yY0pHSzh5YXA3LUhKRnZXakVqNF9WYVIzcGh1U2NicmRHQVpNdXJrd1I3bnd2Nk5hLTRJNFh0cUtEeWo2QUpRSG9HcWxhQWhaeXQ3cWRlTlRYS1p4S3U0RlRPV2E1bTVJQXBtcmVGVE5HekJQN091U3ZoaXpMMS1jVE5JenJPSkFnakdsTVE?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-13T11:08:57+00:00",
+   "fetched": "2026-10-13T11:17:28.730526+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "5c9193368e69d0b8",
    "title": "US visa alert: New USCIS rules tighten deadlines for Green Card applicants and H-1B workers; here's what's changing | Hindustan Times - Hindustan Times",
@@ -1708,6 +1726,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "c0cae04917db6c80",
+   "title": "Canada PR for Indians: Who benefits from the new immigration rules? - Education Times",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQUVWNmJ2RmF6eXQzM1V3VkVJYkN5VF80RnVoSVpRYmE2UVRDRmk2dHY4di01dmlYdkNEZkI4MXY3M1lVX25oTG1ZLVhCd1hXMEVqSnVqeGNWXzE1eWpad2VaU1I0cHhQWnlIOUhWck5RRDdCWW5KM2wtRWhiTWVfVXEwTzZDb2ZyZXVvc25QUGpBMlMyWHZ3TWE4N3IyaEh1NVNQeS1Sb3l0RUVZRDVMdnc2QkYxc3NDeEhsZTI4aG93RzEwNVAtTTVDNnpOT0kz?oc=5",
+   "summary": "",
+   "publisher": "Education Times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-11T11:02:00+00:00",
+   "fetched": "2026-10-13T11:17:28.730526+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "6e1bebb316120411",
