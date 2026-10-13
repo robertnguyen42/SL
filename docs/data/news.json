@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T18:58:55.348300+00:00",
+ "updated": "2026-10-13T19:33:02.775524+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-aewv",
@@ -446,6 +446,42 @@
   }
  ],
  "items": [
+  {
+   "id": "e038719e220fdaeb",
+   "title": "IMMIGRATION NEWS—DHS proposes ending USCIS deference policy for nonimmigrant worker extensions - VitalLaw.com",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNUhfYnY1Um5ubzNBN2VKb3d6bDZ4b3lOUmltNHk4MlFZVkZMSTl3eGJyTV9yVnBobGE3d281U29ZVVZna2lVMk1RaFZubUM5U1kwckp3U1FOSkZxZWZEVFk2SnBsUVJGVTB1NkgtWmUzTkx3R3RYLTg0cnFMUzJKbjcxSmJiU3pHYWRiMzNOVHdEVk91VEUtQV9faFJJTmgxeTZFNWZPSlhMRW82OTlpUWo5VE1Sbk42cUo1WFE0a0NVX1R4MEt1aDJzdzZHeUlLYy16UHhVYzI5RnFXWjhocGFrS0N1RkFVUUtfU3NYMGRJSWJY?oc=5",
+   "summary": "",
+   "publisher": "VitalLaw.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T19:23:02+00:00",
+   "fetched": "2026-10-13T19:33:02.775524+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "99e8c474fa28ce0a",
+   "title": "United States: USCIS Reaffirms Regulation Eliminating Maximum 540-Day EAD Auto-Extension - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0tBR1U2YVVHNVJxTEhSbEZpMU82NU9Oai1vRlpKU2FRdmxxdlNub2s4Zm9PVVVRSFVlbTA2Um9rbmwyWHNVTEpzUFAxSk5vLXNNMU01Q3JsV1hCdVlNSkFyNE1hV1E0RF9GNEtnckMwRlFKZzFZVFIzZzRBUnpCUnN6U1dnTmZVWUtKLU1zMWxxY3ZWZVZ2UXcxVlZGTDh5R0xVZXU2eGdzZWVvejE4MFdDTU1tN2RDRC1VRzVaQ2lFMUVO?oc=5",
+   "summary": "",
+   "publisher": "Fragomen",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T19:11:31+00:00",
+   "fetched": "2026-10-13T19:33:02.775524+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "5b95587ac41118f3",
    "title": "Apex Capital Partners Acquires Peck & Nascimben Global, a Citizenship by Investment Firm Licensed in African Countries - The Manila Times",
@@ -543,6 +579,26 @@
    "score": 4.0
   },
   {
+   "id": "3b05f58a71c8f938",
+   "title": "Alberta issues 476 invitations across four AAIP rounds in late September and October - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGJqckdPTWQ4WGk2Y2FBeHFTTW0zdTQ3LXJjRERMSVg5SG9Yekx5eTc3WVRVaHROSTgxYS13RHY4UkprTHZNenNjejdLYUJpRXNHTzJZZlAyb3E4UU1FQ2w4SlNOY0toNkMzWkVvOTJ6dC0tTW5wZGRBbk9qVkliaGwtUzRBajZTQWw0?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-13T17:23:23+00:00",
+   "fetched": "2026-10-13T19:33:02.775524+00:00",
+   "visas": [
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "b06d6b6ac32d1ee2",
    "title": "DHS Proposes Ending Deference for Prior USCIS Approvals in Nonimmigrant Worker Extension Cases - Erickson Immigration Group",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2Z3aGdXODhfVktpeFpWeFBGeWNjSzFMdE55ZE8tb2hsWFZGM0huUE9HVUxXNTNuMDFfdXUwSEhpZGRIZlZiMkFwM2JHM3lNVzZpUjhHbnRtWlVqWkZLTnBxUVNNSk5hSkVONmM1NFhlQm9SdjZuNVF4dmZGUklBeGN5VFVORVFVTEoxQnh0S1BuUjhTNGc2bmJCbTUxQ1ZhWl8tdUoxZmt0MkQtb1BmcVVaVTI?oc=5",
@@ -572,6 +628,26 @@
    "published": "2026-10-13T17:00:00+00:00",
    "fetched": "2026-10-13T17:47:41.040557+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d869e02d72fc287d",
+   "title": "LMIA processing times trend downward - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMWsxbzV1d2N2N2xLeFhvS3pXbnBLTGdvREw2WlNGWFJ2Q24tTnF4Vk85QTNZRFZ3b2pabWs4YkhBZUhVb3l6Y25iZDNVVDVIaGI5dkN2SGZqMUIxdU5ERmc4c29pYmhRb2ZNaWRfMXdHRV9MaHU5ZmM5OXNveUN3cnRkdHZpUEU5Z29DZW1R0gGOAUFVX3lxTE4xazFvNXV3Y3Y3bEt4WG9LelducEtMZ29ETDZaU0ZYUnZDbi1OcXhWTzlBM1lEVndvalptazhiSEFlSFVveXpjbmJkM1VUNUhoYjl2Q3ZIZmoxQjF1TkRGZzhzb2liaFFvZk1pZF8xd0dFX0xodTlmYzk5c295Q3dydGR0dmlQRTlnb0NlbVE?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-13T16:49:48+00:00",
+   "fetched": "2026-10-13T19:33:02.775524+00:00",
+   "visas": [
+    "work"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
