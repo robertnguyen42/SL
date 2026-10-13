@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T00:58:52.487067+00:00",
+ "updated": "2026-10-13T01:23:28.128083+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -121,7 +121,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-gov",
@@ -163,7 +163,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -193,7 +193,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -247,7 +247,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
@@ -373,7 +373,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "nz-aewv",
@@ -385,7 +385,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-business",
@@ -604,6 +604,21 @@
    "fetched": "2026-10-12T19:46:50.938992+00:00",
    "visas": [
     "h1b"
+   ]
+  },
+  {
+   "id": "75408edb885d79f0",
+   "title": "US Citizen of 15 Years Faces Denaturalization Over Discarded Green Card - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMHJvYzhEOENaUDNXZ0h0cEtma0dhUk5aTnkyeC10Y0lDN2tIT25XOElDM1c4dy1NYjJNWkVxWVhXVnlyeV9TLWo2enpLWG90RDREX3YtVUdxWWlsOXh3S1ZJT2U3bGxIZ21YQWZvRUo0UE13VHhmdnU3Ry1BR2hpeTJvb3lUdw?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-12T14:21:00+00:00",
+   "fetched": "2026-10-13T01:23:28.128083+00:00",
+   "visas": [
+    "green-card"
    ]
   },
   {
@@ -7180,6 +7195,19 @@
    "visas": [
     "work"
    ]
+  },
+  {
+   "id": "9128005daecb8fe9",
+   "title": "Moroccans remain largest group of foreign EU residence permit holders - HESPRESS English - Morocco News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjVUbkw2RF9YNm9UY21SWWdROE9hUlViVVRJNzNSTTVvSUQ0ajBGX3hVUnI2WHlOenlZV2VZVXhJMFczanZzM1NPZHdGSjJsOXYtaURZWk4zZlFTVmpZbUh5M2xqTmxMeFB0bFB3RmJwREc2b05wOV9EYnRTaDdQaUJvU1FYZHlaWlV5LVNsX21SdWNEN1k3Mkk0ZDVhWFZ4ZkpfNGg0UHU?oc=5",
+   "summary": "",
+   "publisher": "HESPRESS English - Morocco News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-06T14:09:45+00:00",
+   "fetched": "2026-10-13T01:23:28.128083+00:00",
+   "visas": []
   },
   {
    "id": "9c292a021674fcf1",
