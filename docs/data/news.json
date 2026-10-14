@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T09:07:08.657018+00:00",
+ "updated": "2026-10-14T10:02:36.843189+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "nz-en",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-student",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "21cd4a5f2b5dfa9a",
+   "title": "Changes to the suitability rules: How your immigration history could impact a future application - Right to Remain",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVc1bGpBT0VjLWpNcDBIXzJxd3pVTVVPUFBNNDNIbHF3ZjRVTFZVS2JZRUJrU1VMNVFiNml4VzBNOG5pVzB0dzhQTW1CQmlHVEdHSDBOdzdDekUtbmg2S1BuODJ3SWhzSXR3ZW5ORlZPWlFfeTFORzI3b0pQSXloX3RZMjl3WE9sbTdwZGtqQ0Y5MW5Vb0ZDRHRra0VIYzlMTkdXS3B5MXFobXUyWllvUlJJRlhJaklEc2w1ZDBaT1pxcWM?oc=5",
+   "summary": "",
+   "publisher": "Right to Remain",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-14T09:08:56+00:00",
+   "fetched": "2026-10-14T10:02:36.843189+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "70b95406749b4a45",
+   "title": "Argentina's $350,000 citizenship-by-investment program opens as golden passports vanish across Europe - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlpTUWFvM2hEN0gxM0h5aTNlWFZKTkYzZ1p5X2o4R29HWV9vN1BWQWpoc1A0VWxSSFhSSloyOUl2VUFCYWZOYWplR1lNUVdpSGljNFc4dzJERnZGRnhhcjc5SF93aEV0M09PWXdOeGQyUXBONTBMY3ZCMEx4cTc3NXZJNmgwd3ZhazA1aFFyU1VveFNGWTF5LXduSEFKMk8xdnBnVEVlLWl6Zw?oc=5",
+   "summary": "",
+   "publisher": "Yahoo Finance",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-14T09:00:00+00:00",
+   "fetched": "2026-10-14T10:02:36.843189+00:00",
+   "visas": [
+    "citizenship-investment"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "76e6c4a86786197b",
    "title": "Argentina launches South America's first citizenship-by-investment program — an Argentine passport starts at $350,000 - MoneyWise.com",
@@ -656,6 +694,24 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "17d4da8ec12352ae",
+   "title": "Empty shelves, soiled sheets in migrant ad - News.com.au",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOMVBmUkc0YXJVOWZSSTJhd2xFSlVZMkhudVM1U253NFU0N3paOFlURndGV1BPRjFrSkhmdDFPc0FrSGUzTUZDelFRZnRxMUVHTFBGZVplSk9Cd3h3bWhEbU14N1EyV3A2QzhzZkJqcVJ4YURESkFzMHZpMS0wb1pITl9xRGx5bFZoVTBCa2c3dkxCaDhkcGw3Zi1tYUdjSWlHWUdrVjhiSm8xSUcyNjItQ1M2ZzF1TjdMUjVwTVZRTHpHNGRKTEo0MjU0VDJQY2xlaVNwLVlOWlVYU2cyMUVUZnJreFR5b2xQd2kwSndNSEVub1FzVC1icGIxeWFZWF82cWg5aFEwTnpUb21jU3V3N2tfVFZtbVhyQTdhLVNB0gGjAkFVX3lxTE83YWFlMEhIOVBJekVWUnRId29wMDBzejJWX1BESzhDQzVOX0NETi1NYzFyWFVJaHFSY3BkX1A5a2dqQnU4US0zVk1IdGFNMVR6cGRRVEx5NzZaUEVtN2dsSHM1Q3dCZDlhQ1hIMnJONTY0WFNSejVGSFhJY2dZYXo2UG1aTDM2SHd5cUFfVVRDaFdRYXFJQURXVFRKVlVIQlZuLXB5Z1cwVmk0YTFzRjlHckZYOWNzZ3E2N2tZM2lVSW42bHl6bFBRaUtpcV9sMEtIbDlRNDY4M2xGMVZCdndYVUd1UDQ5em1YcjBnNjlneUp4aVVwSHAxWXotX2IzZm9wQ0IxdjNLaEFQNFhoWkZaWkFkUWo4aTBNQnlCR3A5YUtQYw?oc=5",
+   "summary": "",
+   "publisher": "News.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-14T02:39:47+00:00",
+   "fetched": "2026-10-14T10:02:36.843189+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "27facb6a35ba341d",
@@ -21722,6 +21778,26 @@
    "score": 4.0
   },
   {
+   "id": "bd95174f4d951332",
+   "title": "Introduction of ETIAS in 2027 - Gov.pl",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5USE53MlJOOEV4RXBBckFzRi1pWFo4V09FT3ZXVU1pbDAwYXBIWURDQi03N0QybFZORHJRRFF0dDFPdUM5N3lXOU4xVUFJcVVVUm9TeXRhdTBzQWxqckxMYWNrSWlvS1hocmxTRTZ4WE5lUGJ3?oc=5",
+   "summary": "",
+   "publisher": "Gov.pl",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-14T10:02:36.843189+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "8581ee0bba37fe96",
    "title": "US to more than double fees for some EB-5 applications — The Hindu - UA.NEWS",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUREVUtpSmFlaEFhdENCN19QaVZISFlsUVFUUGY3WHZ3a1BORmtfZWdMTEZ1WDJYdzZlczNsVEZVWjZoWHNHTWt2T1RqLU9pZWF0R2JHajdJNzdkeV9ER2FwdS12R1ZNV2FOQTl4cHRFZGhPT3dRWFBNbk1YTUdsZHVicGpHS0V6WnhpLUh0OUxKYndfR0E0SndvMEJBNWlLN3JUcg?oc=5",
@@ -33073,6 +33149,24 @@
    "source": "nz-gov",
    "published": "2026-09-18T02:05:56+00:00",
    "fetched": "2026-10-05T02:21:52.485743+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
+  },
+  {
+   "id": "f36fe50a52b7e16c",
+   "title": "Councils and local boards reach new Welcoming Communities accreditation milestones - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX0RWYWJ1LVZ1NmVvQ1I0RktVNnBRWHNNNkdMdkFJYm9KV1p2TkxVcVhGYWVwLVdNNUV0dFdpbm9EcWtnb3pETkVvWjVuZHVIWEZwY2NKV0J4MnRnNnhwZTFPellJa3ZhWGVPdTY0ZW1IWUo2QXlOVEdncC1jaXlUdHlGQU1VWHhUbjRFVjdpalFSYkpXbDZnXzRmdkNvZVlOQUNiRmd5VEtqcGxkYjY0ZTlMeEdpTkQtR1RCMzJzMU1qQWNmbmE2aVNkTUxOd3ZKeHc?oc=5",
+   "summary": "Councils and local boards reach new Welcoming Communities accreditation milestones Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-09-17T23:59:17+00:00",
+   "fetched": "2026-10-14T10:02:36.843189+00:00",
    "visas": [],
    "lang": "en",
    "policy": true,
