@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T06:39:40.575134+00:00",
+ "updated": "2026-10-14T07:36:41.104254+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-parent",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "us-visa-bulletin",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -406,13 +406,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-business",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 23
   },
   {
    "id": "nz-family",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "d69e76fbe04f080a",
+   "title": "US Work Permit Rejections Surge as over 35,000 of Green Card Applicants Are Denied - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUFoTUlsQWJfUm1pSDBwT0RCcUR5TFF6dUllY3lzbHV3UVhkR1dDV0d0UXlnbXN0WVNIQWtiVy1OSkVqdnZWc2NkaFdCR2V6MG1VOFRfUm9aWk5IZXJ6V25UNGtYdkp5RUJHUnh2N2VENWNBaW1leU1EUVZtbEpEeUxzZUg1aGk1LURtNUhoczdMQ2tfVE5UY2Z3dUFCTmt5LWMxeXJkdmpodk1iTThDODFLdVdHQUxsNnB6Qnp4WQ?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-14T07:17:52+00:00",
+   "fetched": "2026-10-14T07:36:41.104254+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "f7d524cf64063f5a",
+   "title": "Europe records 59% decline in migrant arrivals by sea from four West African countries - Nairametrics",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0dXcVVUMV9uR0xNVlBZU0JwRXFCUzQzNWhDY01yeDF2ZnpCRTIwVm4zYU44UGs2LVQ2U3FIYm40OC1acDNzZENTb1EtbUFOUFEwMzRxVGdhX1h0UTQ2T3BpeDZIaV9Fd1AzYXJIX1IyeWZjWVZwcldEdUpjM29ESFBvNVVMYW9yNEVTQ2JnN3g4a2QxT2lEUlIwMUZUSzVJU1RaRmhNU0l2Um5iaWVJS1pNNUswb0hRREtNRWlFVQ?oc=5",
+   "summary": "",
+   "publisher": "Nairametrics",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-14T06:53:58+00:00",
+   "fetched": "2026-10-14T07:36:41.104254+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "95b8d0b4ae16ba0f",
    "title": "BC PNP Draw October 2026 Invited up to 288 Candidates - ImmigCanada Immigration Consulting Services",
@@ -499,6 +537,26 @@
    "published": "2026-10-14T05:39:19+00:00",
    "fetched": "2026-10-14T06:39:40.575134+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "75f5c4df04bbfd99",
+   "title": "UK allows modern slavery victims on Skilled Worker visas to leave abusive employers without risking immigr - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOOVpJSkNIY3I2V2VvT21WekJRN2o4M19PTjdLSHdpU2Nfc1o3UDdXa2hiMi1OTW9JcGZ0UF9CZ2k1VDV1eldWQ3hmX0hBQkRZUHgxQzVxSFNMTDB1OWFwVHBHX2VvT2RFdVYtX25VWUJ2RkRTTDVLUDNCYXZqYmVaMGpNTWZ6a0h5WUlwbVotSlo2NnVuRmIzTzBxU09BdDJmRDV4WnhpYzdEMHVpdlZ5VWZNV0QxN1IxbU1hMExpRDNoNExQTk1uakU4a2V0eDRBZmNmRHE4bVBYNDc3RXI1dUpiR1hlTW00MjNrcFNrNUJ5S0Y4ZzV3czktSTdxZ2ltd1V5UThLZF9DSU1UclFvU0d3M01BUdIBlgJBVV95cUxOOVpJSkNIY3I2V2VvT21WekJRN2o4M19PTjdLSHdpU2Nfc1o3UDdXa2hiMi1OTW9JcGZ0UF9CZ2k1VDV1eldWQ3hmX0hBQkRZUHgxQzVxSFNMTDB1OWFwVHBHX2VvT2RFdVYtX25VWUJ2RkRTTDVLUDNCYXZqYmVaMGpNTWZ6a0h5WUlwbVotSlo2NnVuRmIzTzBxU09BdDJmRDV4WnhpYzdEMHVpdlZ5VWZNV0QxN1IxbU1hMExpRDNoNExQTk1uakU4a2V0eDRBZmNmRHE4bVBYNDc3RXI1dUpiR1hlTW00MjNrcFNrNUJ5S0Y4ZzV3czktSTdxZ2ltd1V5UThLZF9DSU1UclFvU0d3M01BUQ?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-14T05:18:00+00:00",
+   "fetched": "2026-10-14T07:36:41.104254+00:00",
+   "visas": [
+    "uk"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -2771,6 +2829,24 @@
    "score": 2.5
   },
   {
+   "id": "ea9ab34c51770918",
+   "title": "Migrant who shouted down Peters over racism 24 years ago now vying for Parliament - awaaz.co.nz",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkQ4Y1NwTm5ZVkl1RExlSWJ5VnRMV1VnekhJSlJMR2hpc0lwMlF5ems1S1J6TjdVQXFwQ29OYXpRWFpQSFJQVC1sRzlyel8xT3RZS0hsRzBodllRUEsyRnNnXzRxbHd3N05qS3VJZ3JhczNucDN5bW94bWNZZ1FnQ0VjTmJuUmluUzhOU0FWeFM5dzhrbWU3MEFmUEs2Q0pxTGtQTFd5a3lwcEVYYi02dmhGZFhBcHItSkE?oc=5",
+   "summary": "",
+   "publisher": "awaaz.co.nz",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-11T21:47:12+00:00",
+   "fetched": "2026-10-14T07:36:41.104254+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "afa68a9865cde430",
    "title": "NZ First to abolish Accredited Employer Work Visa - Indian Newslink",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2ttTjBoN1hWRU5xQXhfdzQzaHhXMGViSWQwM05uQkVkUWVwY2JFelpFaWVUZUZQMlhId0k2b1lnWk1QWVVpSzFCY0xfMlg1aVNRREF5ME1SUnpRUjg2cGRUa3o3VFYzS21aWDh5YTNFYWFEaDMxeWliTk5ZNlVLTkJaSVVlTWVTZUE?oc=5",
@@ -4910,6 +4986,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "dd051d20f804595e",
+   "title": "OPINION: Sweden's Migration Agency is not fit for purpose. It should be scrapped - The Local Sweden",
+   "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPanJQVjNTUERDYTFjLXF1NFBBUmNyOVV5d2VTQjZsZkM4OVVEZXZQT0hoZm9xUWdJekI3STZ1OW5QQVB6UUFqcElPVlVYb1VvSzJiMl9jNTllUHY3YXQ5NFNsMGhGU3l5NjNTWFdRV2t2S29ma3c2d1E0ZkpGZVo1cWF0QThhX1hWQUtqb1BORmZHMlhMYmVkb3dVWUdCSTVCOFFiNkR3Y3YtMFVqRzJyUEZrQzhNemMtTldvM1hiX2h6eENiWEU1anBhYk5tMDdtQ0JVZFEtWFM5ZHBVRUtkcE9fUFlrREdKcmFoZjZvRkdTQmVqUTMzU2FlWWR4R0xqQUV4M3F6U3BKdFB5cXBNT1ZzX0tyaXpnT3NXeDNvMmFNRU1nUFpyRXpmS0ZIejFYeHdncUZCNlp2NThfNmFtVjJjMDN2ZEN2eVkyRWtaeHZGVFV2ZGJFV2JuVnhBdi1uQ2xiLTFfQ21zS3NVSlpySzJnUWEtV0VpYlQyVTlWa1A1MEVjUm55VmtsX0ZwTjlhekdINlBrbUppTEg4X0tMYW1Ua18tbDVtYmc?oc=5",
+   "summary": "",
+   "publisher": "The Local Sweden",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-09T12:29:50+00:00",
+   "fetched": "2026-10-14T07:36:41.104254+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "3c89c72eb75a9bd6",
@@ -19205,6 +19299,24 @@
    "score": 2.5
   },
   {
+   "id": "50c0b2724c441118",
+   "title": "US visa and immigration rules change from Oct 1 - Pakistan Connect",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSVkxTNnNOQ256Wmc2bzUyRzhVV1RkdFZrTE8yZG1iQ1NLNWZyTXNLeVN5NUlQVU9PRmd5eGlLQ3BNVVlsbmVUdEFUdXFUM28tWEtxbjVQZV9sYVRPVWQ3akNoXzVSV2llMmZDVFNDMDliUQ?oc=5",
+   "summary": "",
+   "publisher": "Pakistan Connect",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-01T14:52:50+00:00",
+   "fetched": "2026-10-14T07:36:41.104254+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "f8349d27caa8616c",
    "title": "New Canada Immigration Levels Plan 2027 Coming By November 2026 - INC News",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFIwUkgtclhXNV9hYWp5dVp1X0xadHJ2TDR3S0RmTkJhMWR0S3NiWk45dzZXUWsxYTBBcExBT01yNE5wLVpKZm9oN2x2c2RjZUVJa3pQMW5mOVMtenBNNlptdHRaYTBWS3NZYkFXVjg0OVljU3BiYlpoWUNidXlMeQ?oc=5",
@@ -22102,6 +22214,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "afe21c5e1fd96e9f",
+   "title": "October Visa Bulletin 2026: New Green Card Cutoff Dates You Need To Know - International Business Times, Singapore Edition",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUpQdE9qbnZjM3Y5QlVwNHZ5UG5PMDR0QXE1QXNHbG0tcUp0QWFrc1hfN3VMS28xZ0hCbFlWMGlsTnU5ZDNyVUR2VHY0WGV6bld3OFFwYXZ0RzlTT250M0xmMDI2ejZ4VTZhTlVaX1kwenp3dVpXTVRnYi1vRUlZUU02eFdYQ1ZfMDJCZ252czJUWnBQYTNKSHRzeEotQQ?oc=5",
+   "summary": "",
+   "publisher": "International Business Times, Singapore Edition",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-29T20:39:38+00:00",
+   "fetched": "2026-10-14T07:36:41.104254+00:00",
+   "visas": [
+    "visa-bulletin",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "374ce99a6c1de1ee",
