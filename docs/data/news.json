@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T10:02:36.843189+00:00",
+ "updated": "2026-10-14T11:00:43.053984+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 32
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-investor",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 34
   },
   {
    "id": "ca-pr-citizenship",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-student",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "nz-residence",
@@ -1361,6 +1361,24 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "ae0913057d9d9777",
+   "title": "Malta citizenship: Foreigners may qualify based on exceptional merit - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUlZMDVTajhWV3hQNWhTTzFDQm5ZZTBjRnVPTEN4aVVFZlNlM2RyclJkdU95R3h5VGNGYTJ3c01BbFJBQi1LOE51eEVsX081eHpocmZqV3pmN2V3eURRRWh0dHlReGd3Vm52OGctbXZ5WGUzSTdWXzlQTnd5aDlCU2YtV012OE4tejcxaURGRkJjTHFJRjV4Nnhtd21GZ3BZU3FSTDhucHo?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-13T15:40:15+00:00",
+   "fetched": "2026-10-14T11:00:43.053984+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "91caaddce0f8e7a6",
@@ -2387,6 +2405,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "4c3591d9d0a53713",
+   "title": "Canada Sends Important Message to Foreigners on What eTA and Visitor Visa Can Not Do - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlBuTG9wSnRpRFR3NUVnM25JM1RycTh2WHR4YmdGa0g5T1RyRUlPWFhOaWN1NnF6eUJZVHdmVmVYckNmbFpLVjM1LWx4Q3BVV0RnSmVwYXZzVkVLTkNWejF3U0VxUzdfV0dwbDZ2eEF2LTlxcTJDajducEhhVVVkZ2pYSUh0X1l4RVAyQ3hUTnd1SlhIc2lv?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-12T19:07:00+00:00",
+   "fetched": "2026-10-14T11:00:43.053984+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "ffdf57d9c7dc60b3",
@@ -35879,6 +35917,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "aadff0b3e1063dc5",
+   "title": "Newfoundland and Labrador PNP Draw Issues 36 Invitations in Latest Selection - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeE1XUkxTNVNSODRCSFV1ajJxbERMWURrRTlLRUxzRGF4TktYenFMNjBLSDRtM3otYkVuTFVQb28zcjNBUmVJR0xIUmM5Q2M3Rzc0dVpkd0xSR1h1N0VZUWdPcHdBeURaT045VUVWbUg2VERkbWNCdjNJeEl5YWw1ZFJyUjU5d0xH?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-15T07:46:35+00:00",
+   "fetched": "2026-10-14T11:00:43.053984+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "50a604d424459798",
