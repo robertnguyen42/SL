@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T12:41:06.137774+00:00",
+ "updated": "2026-10-14T13:33:53.400433+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-investor",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -358,13 +358,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 15
+   "count": 17
   },
   {
    "id": "eu-student",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "nz-family",
@@ -446,6 +446,60 @@
   }
  ],
  "items": [
+  {
+   "id": "3f4148e220a9a557",
+   "title": "Check New IRCC Processing Times For October 2026 - INC News",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13RzZUakd0ZWxQeXVDaXJFSWpCYi01UGVFQVh3ZUwzVkJBTXdNTzVLR3ZNbUJiZGxtTVVEcENJdmFuR19GdzdCQVI0WkhQc3JzVWFCTFF0V2F5NDJqX2lTaklhQWV1NFlwVklJdFBjRV9VQVlFQkRteTg3VTI?oc=5",
+   "summary": "",
+   "publisher": "INC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-14T13:12:02+00:00",
+   "fetched": "2026-10-14T13:33:53.400433+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d049faa5556c7e02",
+   "title": "New Zealand Names Visa Holders Allowed to Run Businesses and Those Who Must Be Employees - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUFHelZ3ci1xdWRxTVEtaHl1bDRibWZiRjZiZThRMnJJU1VKRTJSeUJNQ25uVkFzMmZqX2RiMTFaWEhjRlZCUlpGaG1COEdkakF3YVpGWFJyamhWb1A1WDZVQ2Jhc05XM1ZWTWRQWDd6TjB5SDQ5c2FRQ055UG1VcXczN3FBdEZJWHdUNmhWd3FlMUZvbVZkQkhTa2MyXzZySVE?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-14T13:01:38+00:00",
+   "fetched": "2026-10-14T13:33:53.400433+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "7a82d5ec02caf226",
+   "title": "UK guidance on facial recognition in immigration enforcement - Digital Watch Observatory",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yT3JFZW5tUnZtUVJUQVB4TUlUeGdBNmVsNDdESU8zTks4RVdFRzdGVno2cDZNdVBPWV9lbUV1OTQ2M18zUlZoVTEtSzVjZmR3THdYaW85a05TOW05N2VJbkNEa2ozaU5HdmlMWExBeVRldEJTYXhvX0huOEszMkE?oc=5",
+   "summary": "",
+   "publisher": "Digital Watch Observatory",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-14T12:44:20+00:00",
+   "fetched": "2026-10-14T13:33:53.400433+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "f7586716ed94169a",
    "title": "\"More than 90 days\": Germany opens online route for long-stay visas - Legit.ng",
