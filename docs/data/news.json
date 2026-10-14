@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T22:56:37.699176+00:00",
+ "updated": "2026-10-14T23:26:15.483382+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -447,6 +447,26 @@
  ],
  "items": [
   {
+   "id": "96e9c5e027807764",
+   "title": "UAE Golden Visa nominations and Amazon incentives announced for Kris Fade, Noor Stars and other creators - Arabian Business",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVA2XzRSS3Rqb29LM0FGRHQta2I3d1gwWHo0blB4WTJtYU96eHZMWm5DQnFBaTZNWEFMOVNnY29WZktIMVY5YWNCRE9XWmRoMW1kNkI1a0RxVlZ3bW5VQkppcEk0YXlQeDJWUmRSRmNLWUlyWTNkYVlVcFR5MFRESHpGbFZkbmRhUUIyRWZ6ZjVVSjFGYlJ3WVh1WFpaSHlTQXo2Nk50aEtSN0dTWlk3TA?oc=5",
+   "summary": "",
+   "publisher": "Arabian Business",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-14T22:39:52+00:00",
+   "fetched": "2026-10-14T23:26:15.483382+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "b5f03453500e1fde",
    "title": "52 become new U.S. citizens in naturalization ceremony in Berks - Reading Eagle",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3FHVHptOTZ4bXZHVFJudnpNMGZnd1p2YTlxOGI0cHU4ZFVBa2ZGUGtQQm9YQ1FxMWM0MzVYM0p3ZDY4QkVST0Z4UEtPMC1mQUVyMS00SHdKblB5T3lKbmhPcGE1X29NdzZMejl0QTMyQXNPaWhCODFhalhxMmhLUS1sdXNMZmd3a2lvTDlfQk56NDFGQ0ZMWVFhZEhwcTdEbmtuTFN3?oc=5",
@@ -459,6 +479,26 @@
    "fetched": "2026-10-14T22:24:12.504596+00:00",
    "visas": [
     "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9a30b25ffb36660c",
+   "title": "Global Mobility Networking Forum: Exploring Residence and Citizenship Options Worldwide - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hUkxmVUttZ3h6SXZ2dnU3VHJOa2d0WUxaNlc0Nl9Mdml1b2lRaTZxTEkzNlFEYmRmLTF4N0tCTi14TEVaU2RuNllvRTE3NVVmcXJLSjFlOXVwZGxFX0d0UjFxVnl6NWV0YklKQTZQYw?oc=5",
+   "summary": "",
+   "publisher": "Fragomen",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-14T21:46:27+00:00",
+   "fetched": "2026-10-14T23:26:15.483382+00:00",
+   "visas": [
+    "residence"
    ],
    "lang": "en",
    "policy": false,
@@ -3000,6 +3040,27 @@
    "fetched": "2026-10-13T14:52:21.258603+00:00",
    "visas": [
     "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "8b1ea73a81045e5a",
+   "title": "Express Entry Draw #448 | 752 Invitations Issued in PNP Draw - Canadim",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4RVJFbElWc3UyZk5nM2xQRm5fZUZzMHZycG03dVV5WGpLSlppeE05TFdocGY3ck5QNVF5NXdIc1VOYlJzbGgwS01MbGVlb182blk1NlBTMi1pbjZ5aDVWUGpNT0g3ajg?oc=5",
+   "summary": "",
+   "publisher": "Canadim",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-13T07:00:00+00:00",
+   "fetched": "2026-10-14T23:26:15.483382+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
    ],
    "lang": "en",
    "policy": true,
@@ -34600,6 +34661,24 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "78eaa45e5ec2999c",
+   "title": "Public Charge Rule 2026: Frequently Asked Questions - Boundless Immigration",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOTGNoWWNtQ2E0ODdPb3lFN2NTTW1XRXRoV2lST1JXQkNLR0dCaldzOHJFQV9pVVpOdXhqcDl0a0FjekU2OUFyTFd5dktzWGw0Ri13VG5nZXloRUJxa3I4RlMtTQ?oc=5",
+   "summary": "",
+   "publisher": "Boundless Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-14T23:26:15.483382+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "2a2363c327069fd8",
