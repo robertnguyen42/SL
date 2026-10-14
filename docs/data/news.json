@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T02:58:27.593710+00:00",
+ "updated": "2026-10-14T03:30:44.717148+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -244,7 +244,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "us-eb-work",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -1266,6 +1266,24 @@
    "visas": [
     "h1b"
    ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "1d0236ef6b9b8b71",
+   "title": "DHS Rule Nixes Automatic Extension of Immigrant Work Permits - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzBVS2F2SHk4Q2F6QWxBcHdzS2JDSVBGVzZ0Q3NlT3I1d2luQzlsMDk4RGVWT3Rudnd5aHlnQXJDUTUyNFhESmxld0JGOU9QMDV1YU04QkdpSnU0dWRSU3BsZlJnRDhPblhZTTZSWldPbjY2cXRadkZQOUVwcFlaXy14UHdtMk5WclNpaGxtLXVtS1N4VkNGWnpTMFdmYlgxUlFCSUVPaXNicEV1M1E?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-13T13:04:00+00:00",
+   "fetched": "2026-10-14T03:30:44.717148+00:00",
+   "visas": [],
    "lang": "en",
    "policy": true,
    "direction": null,
