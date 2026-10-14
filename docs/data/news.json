@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T11:00:43.053984+00:00",
+ "updated": "2026-10-14T11:59:50.220124+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-parent",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-student",
@@ -447,6 +447,66 @@
  ],
  "items": [
   {
+   "id": "18f319181e7a049c",
+   "title": "Five Gulf States Are “Very Close” to Starting the Schengen Visa Waiver Process, GCC Chief Says - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHYyUHpxWUpBWEVYbVc5ZkZVQi0wMnRlSU9idkxzZWF6RFl1ek1XNFVhLXVYV3N6T2xJNDB5cFFORHRYSzNyNDRUNC0zVFFJcDRET3RXaldET3RqTkdmdnpYNFVUSEo3SkZuZzhlZVpUVVZyYkgxb3VYenRVT2xFclpwT1hDYXcteWxSYUFCMnJJUUlx?oc=5",
+   "summary": "",
+   "publisher": "IMI Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-14T10:48:11+00:00",
+   "fetched": "2026-10-14T11:59:50.220124+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "50a097ab367d8c2d",
+   "title": "Calls for EU entry/exit system suspension to continue into 2027 - The Independent",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNVhqQktJTFFRdDRZd3ZyWGlWY1V3cHN3SUx2Q3MyaHd6bE9IazBqZzlHR2xsbjFTRURJdTJHYTBXbmRkaWZRLWMwd211cXFwaDZtMGV6TXJIdFN1TXJhX3cxcDl6NkkteEpHak0zUjRKcE96WlBEaHpwNjN5aktHRExCbGhPWHMta2d5a1dhMHZCRk9NTGNkbmFHVnlUVEV6Wkc3cW9tQUYxM0FCaUZ3?oc=5",
+   "summary": "",
+   "publisher": "The Independent",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-14T10:48:00+00:00",
+   "fetched": "2026-10-14T11:59:50.220124+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "1869c77688837703",
+   "title": "The winners and losers of the new H-1B era - Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjQwb1VzT2tBb3hVTnpJQVVROGRQdDV3Y0toT1FCejJ2Z09nb21kNUtqWF9hLWJ0NjNjd18xMnZOb3ptY2xCM3Z1OXZCNUN1V2J0QVNYRTZWUzctbVhId3JqUnZkb1N2a2lyVU1JQk9IcDBfOWJEMXhwMDBVdXJSeDN1blRwRG0zTU5Hb2tSWkNLT1pnbmRXN2Y3RkMwNVBDT1E?oc=5",
+   "summary": "",
+   "publisher": "Business Insider",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-14T09:18:00+00:00",
+   "fetched": "2026-10-14T11:59:50.220124+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "21cd4a5f2b5dfa9a",
    "title": "Changes to the suitability rules: How your immigration history could impact a future application - Right to Remain",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVc1bGpBT0VjLWpNcDBIXzJxd3pVTVVPUFBNNDNIbHF3ZjRVTFZVS2JZRUJrU1VMNVFiNml4VzBNOG5pVzB0dzhQTW1CQmlHVEdHSDBOdzdDekUtbmg2S1BuODJ3SWhzSXR3ZW5ORlZPWlFfeTFORzI3b0pQSXloX3RZMjl3WE9sbTdwZGtqQ0Y5MW5Vb0ZDRHRra0VIYzlMTkdXS3B5MXFobXUyWllvUlJJRlhJaklEc2w1ZDBaT1pxcWM?oc=5",
@@ -514,6 +574,26 @@
    "published": "2026-10-14T07:40:58+00:00",
    "fetched": "2026-10-14T08:29:02.376645+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "0a1b931640ff8e4c",
+   "title": "American man runs out of money in Japan, gets arrested for overstaying tourist visa - Japan Today",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenVOYU1ZWjN5ejJORW9qZ2Q5R3cwdlQ5eVhtbldYbW11cjJPdF9EREhhRFVpZ0xFN19hdUZNSGUyM2VHeFQ3ZGpqWWpaclNSM3dwVk1Dck9oTVp5cm9tSWtYeWJYdmNUdmxycWE0MGJmN0tzLW9VWlh6WjZnR1F2aEJUNGJWLVZHbFl6U0VIWHVheGRKM2c5RkJFdTlUek9SZUF1dVl1RTBPS09SV3BRMXJXSEtJN0dPQTRmcw?oc=5",
+   "summary": "",
+   "publisher": "Japan Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-14T07:31:00+00:00",
+   "fetched": "2026-10-14T11:59:50.220124+00:00",
+   "visas": [
+    "visitor"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -1533,6 +1613,26 @@
    "direction": null,
    "prio": false,
    "score": 3.5
+  },
+  {
+   "id": "e45c4b2b4c912abc",
+   "title": "A week before signing, EU agreement sets minimum quotas and eases family reunification - La Veu Lliure",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajBMREtOUFp5aEpZWFg5Qlcyd0JpZFhER1ZsMGh3bkR4cWRsaFo4QzlReGxINVhaN1YtVWFqb18xMVp1RFlHUlFmN3R4SFpnUkIxU1ByLVdmUk82b0IxZlVPQTVaUWVkVEZGRGFSNjVWc183MUdyWnRzTENSckZ4UWJDaXdDaUZGX2Q0aVhpQVRiRHhWQ0pJWHIyS2NQdDFl?oc=5",
+   "summary": "",
+   "publisher": "La Veu Lliure",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-13T14:40:01+00:00",
+   "fetched": "2026-10-14T11:59:50.220124+00:00",
+   "visas": [
+    "family"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "0eaeb6fe610ef0be",
@@ -2800,6 +2900,44 @@
    "visas": [
     "visitor"
    ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "0efc190d99a6145f",
+   "title": "Poland Work Visa for Indians: Requirements, Jobs - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xOTM2cUFubFA3QUNkenpiZXljS2EwUDAySlFxOGZWc2V6azhNSkw4elZKZWJDN0YwTlpHWTJwODdXdkZMeFprTERIWDJLck1HX3c?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-12T07:00:00+00:00",
+   "fetched": "2026-10-14T11:59:50.220124+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b0f8cdd44321e5ec",
+   "title": "Living Overseas or on a Temporary Visa? How Australia’s CGT Indexation Rules Affect You - Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd29ST2dqcEs5Ry01bVdKajN3cGRIYVdsMlFScVNHQkxrUEhOcEdjRG0xbVFkUXYwcmpfN1BqaEI5T0hVZ0djV2hBTnVjRXd1N1J6NTJ3T3hoTTNLOTVicV9MRlpmcFZnRkoyTjdra2pPTm9jX3d5clVhcU4zb01hX25JY2tFbmpTeGkyODlweTltSFl6Yzh4ajF6NTdyaGk1UzZXUVBZLXRDT3lnMnBEZGc3c0lJUDVUVVN0U1FYblE?oc=5",
+   "summary": "",
+   "publisher": "Kalkine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-12T06:59:00+00:00",
+   "fetched": "2026-10-14T11:59:50.220124+00:00",
+   "visas": [],
    "lang": "en",
    "policy": true,
    "direction": null,
@@ -9494,6 +9632,24 @@
    "visas": [
     "citizenship"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "3875b8008fd114ac",
+   "title": "Key issue being overlooked in divisive immigration debate - The Courier Mail",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSlRwVi1xU2J1TElXeV9ZQWhkdXhJa09saU95Qk1WRDVJT3FSOU9sclFwQ2NyeWtYcnFYeU5fcFF6LWdYbnFxWEhuOU9KUW13VE1ELV91bVRiR2VnVHpJU01OY2xqRzk2STU3TENSOVBQXzhHRk00OEV3R2dMQm9WblYxbHU3NEVUVmJCdy0xZVRkb3NVZXU3ZG51R1BjZlYza01ja1o0SE82aFJHZXU1V2M4UnZwai1aWU5xZlBEV3VPS3JMNndLMTVZcm9vUQ?oc=5",
+   "summary": "",
+   "publisher": "The Courier Mail",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-07T22:28:41+00:00",
+   "fetched": "2026-10-14T11:59:50.220124+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -27866,6 +28022,24 @@
    "score": 2.5
   },
   {
+   "id": "9dab14bc4529481a",
+   "title": "Parent and Grandparent Sponsorship in Canada: 2026 Guide - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LRTNyYzNLbXItNm9lZXFVcF9pdGVXYzZqczJ3NmM0NExRTGNVbnRQd2xHYzVHbFhzNkp5UngtbGx4VTdlR2E1OTBGRzh3ZTlQMkhmSWlUOVRScThwT0NsUkVteTZlcHpDWjZIZGR3?oc=5",
+   "summary": "",
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-09-24T07:00:00+00:00",
+   "fetched": "2026-10-14T11:59:50.220124+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "671ed9f03ca957ca",
    "title": "SOTEU 2026: What is European migration policy becoming? - Voxeurop",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VeVZ6bkREN1NDQnFEVEVNUGhMbUkxY3JXZUJzc1dMbXlka0Y0LTc0eDZVRGhVaE1MTXR1a18tZ1JidFZPVGU2cHdEN0ZzUlBDZnV3dHJLckI3YzdMTEpuQTR0OWdPeGRndVE?oc=5",
@@ -34835,6 +35009,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "99fcb6fa8cba859f",
+   "title": "September 15 Express Entry Draw Invites 2,000 CEC Candidates - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5aFpzYWxqQ3Y2ejZPMlQza0M3cHlaTzZLUnFpT1BYdjREMWhyenVjNmEtR0JOUDVtbTJjcjZ3ZDd6LThJVlBsV1B6THhtSmIwOFlrLXlJNVZZQ2J2M1lORlRnZS1XUUk?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-16T07:01:54+00:00",
+   "fetched": "2026-10-14T11:59:50.220124+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "d04bf61dc99b3b8e",
