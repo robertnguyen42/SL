@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T21:32:50.972079+00:00",
+ "updated": "2026-10-14T22:24:12.504596+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-gov",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-parent",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 0
+   "count": 39
   },
   {
    "id": "us-visa-bulletin",
@@ -346,7 +346,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-citizenship-investment",
@@ -447,6 +447,26 @@
  ],
  "items": [
   {
+   "id": "b5f03453500e1fde",
+   "title": "52 become new U.S. citizens in naturalization ceremony in Berks - Reading Eagle",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3FHVHptOTZ4bXZHVFJudnpNMGZnd1p2YTlxOGI0cHU4ZFVBa2ZGUGtQQm9YQ1FxMWM0MzVYM0p3ZDY4QkVST0Z4UEtPMC1mQUVyMS00SHdKblB5T3lKbmhPcGE1X29NdzZMejl0QTMyQXNPaWhCODFhalhxMmhLUS1sdXNMZmd3a2lvTDlfQk56NDFGQ0ZMWVFhZEhwcTdEbmtuTFN3?oc=5",
+   "summary": "",
+   "publisher": "Reading Eagle",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-14T22:00:54+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "372c6c7b6a2a64c5",
    "title": "Bangladesh student visa refusals hit 70% amid fraud fears - B2B News",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1FGY0dlQ1VlT1ozSTBRYVFHWXI4TXdEYno4ajFqTERxckFjSEdLenZYSWw5V0E3NGFDQzc4aHE0Qzc0V0U5SDBHZFJZeWUyZ3lBMzBMcFIzemVwNk5QeEtrOHpZNmN2OEZ1a0JRT3JYVFZ4NUVYZ2JXcXdYR0pEZGtoX3BEQUZ0MlZ6bm1NbFppNkNEMW1r?oc=5",
@@ -501,6 +521,24 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "e1dab2e01d7cb4bb",
+   "title": "British Columbia immigration selects workers in construction, health care, and child care - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzhxQTNfelFCTkV0NzlYTGk5REVGLUU2TlNMMXlNSU14TzM1dGRYVFFNdnRONm9sZE9Xd0w0VlJDRGFuVkJqazRaV3piSmFRb0o3OG9tTUxuUVdnaDdSd25vMlM1dHFCNW96VVhZN0x2MHBZRkF5MVM0ODRZdWJkbm53WExoaXl3bjlSRDVjX3J2TWJQQWRhSC1QSVdxd1J3UWJMMjFOZXJuYmJ2NGxyOG5IUjhNczIyM2FYNm51Q3VWQld3ZUFWc0FBS041V3lqenfSAdIBQVVfeXFMTkc4cUEzX3pRQk5FdDc5WExpOURFRi1FNk5TTDF5TUlNeE8zNXRkWFRRTXZ0TjZvbGRPV3dMNFZSQ0RhblZCams0Wld6YkphUW9KNzhvbU1MblFXZ2g3UndubzJTNXRxQjVvelVYWTdMdjBwWUZBeTFTNDg0WXViZG5ud1hMaGl5d245UkQ1Y19ydk1iUEFkYUgtUElXcXdSd1FiTDIxTmVybmJidjRscjhuSFI4TXMyMjNhWDZudUN1VkJXd2VBVnNBQUtONVd5anp3?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-14T19:46:02+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "86a6a99c97b36374",
@@ -593,6 +631,26 @@
    "published": "2026-10-14T18:49:08+00:00",
    "fetched": "2026-10-14T19:08:26.490682+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "22a010dabbf118e6",
+   "title": "New Zealand Names 8 Important Things Foreigners Must Declare When Applying For Citizenship - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1k0RXFMbW03SUxVQUdBREFwUkZvLTlKNkprQ3VLZVNZNEROdjRSUDBxeXBiaU5HQmUzdmZjSjVIOEw1Y0hMcW5iNjE2T3lnSncwcEpiZlVfSnZNR3plZVRNVzZMdHZScFRaSWJNdmgyQW1rWVVTUHNXVkJTTURWOTVERk8tODAwM3FlLXM5VG1mLVNOenFWQTM0UlRRa2NGTWVJRlE0VGlIQQ?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-14T18:37:56+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [
+    "residence"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -1581,6 +1639,24 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "38f0b97a05efd228",
+   "title": "Penfold welcomes Coalition’s Australia-First Migration Plan - Myall Coast News Of The Area",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNXRuaDZwdUJyQXliOE1vUTdRSGtnQkxZbi01SEtWbm14TFBhZlA0VTFPSFNOdjk3MGlJQ0RhUlo3V1BUNmZGXy1odEJUczlPRGk3ZjJGdU83aGc2MXVPV0x4WU5mb1Zrc0xuRFZjMzB2ckRDR1BuWFc0YUVXU0hqd1VxWnBfc1QzY2xVeFlZWUVLMWd5SjZpMFVvMWxnVUk?oc=5",
+   "summary": "",
+   "publisher": "Myall Coast News Of The Area",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-14T00:34:48+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b06cbfa281402a29",
@@ -2894,6 +2970,24 @@
    "score": 4.0
   },
   {
+   "id": "252a52bf647d550d",
+   "title": "AHA advert rejects coalition’s new immigration policy - News.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3Mtb3JaODYxS0pUdjFUdUhjQ25WWGtESXozdGlHV2YtdFdFbWVZdnp2cHFmNzNMeG9STGJqa2x0MTV3VkQ5Q1U1VGNrVG1ZRTdPUFRpNlpkU3A4U1B5SjFWU1U0NFc4SkFkOXdzSWxEQnNOakpNNy1LdEN3aWNMNGFqX1YzSDZyangxRlVrdGt0RE1OQWhLMW8wdDVWSl85WjdtNk04R19PTWZkZUM4SWdVZmV6R3dFU28wRmtHNXZLZw?oc=5",
+   "summary": "",
+   "publisher": "News.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-13T06:48:29+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "e65f83390e09d04b",
    "title": "What NZ’s political parties are promising on Immigration - Indianweekender",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeEY4T2ZGdGNUc0RsMUpJYngtQ1k5OWFlbXdra01yd1NJV3NtbUh3V1dwVk9HSm80MHA2OVlvaUFtMENxSXVWcGVLcTRORHlqdVJsZXdRa3d6Vks3ZkdjVTB4bmpjT1BSQ25fRFZzTVJjOGNTck9BTk5EM3JWQ25CNVhLMHQzNE9UZ0tGcUtYRGhVOElndk5uaGtidWRyNmhEUmFnektQZldUZ3o1RzNSbkEzbEhxTTFKWERHcQ?oc=5",
@@ -3620,6 +3714,24 @@
    "score": 0.0
   },
   {
+   "id": "fea9775b936dcc21",
+   "title": "Albanese government has let immigration numbers get ‘too high’ for Australia to maintain - News24",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOXlSS2ZUX010bzlUSGt0TjFIdEJ2Zk9uRGhxV3dhR19vaERTUzdyaHZUZ3gtaW1VMW5vRlhFV2l0Vm5aX2cwQWt4ME5ERlJidWdPdVl0U0JuM1RNQVhyOWluaEt5OFpuVTlNT2pOeWI1MU1YLV94bjQ1MTBNNXc2ckRSWXlOb1pfS0ZPd1hVb3JYUlZpVnlXUWdsZzFBSzFjV1BqdTd3QXNkNmR1Q05uLUIyalJCRHl4Wk1Ic2ZSYjVhaGtPQlZHdHRHeEZpcVRlbUNnZVVJMVR6M2NLbmEyRVBSSEtyOG1TVFdIUkZpWi1xa1BLLXQtNjJzdzRvXzVLbW5SdkVqZ1A1RDJq0gGSAkFVX3lxTE5HRU5lZ0FGM1NBeVYzbEEzbGpsTkVjOERjeGxfY0VfLWR5RjE0c0J0dXViak9Ia0pBOEhoZ214SGdqUFcxbGlFMFQtcm5vTldXM3g2Z3RTMjNnZlZiNzRUaUx2N0JKNUF0Y0hoM1h0ODV6cnRjRW5TNEMyS0dhN3QyYWtNWVU1b2p0eWkxcjdCRDUtV1hyLThrMTVsdTNDaE1lWG5WQl9VWUc5ZXViMHhwZlNwbk1QRXVORm9HeGdrVUkzRWdHWTUtOG9GVXRySkF5cVdmX1ZFbXFXYWlHTk9RN0RtRE9FT0J1Wk5GNXktcDdRTTJpdmJvN0pYQnpmTzZSRnYxdnp0SE5QQjFzSTR1bGc?oc=5",
+   "summary": "",
+   "publisher": "News24",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-12T12:12:47+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "01d029308a389b6b",
    "title": "Belarusian woman waited more than two years to apply for a Schengen visa, and then simply missed it - Наша Ніва",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42d3Q5cFRHM0UxTndVaWE1X2xqc01GSmxGVUpkU2FiTERlY0ZjZVBGU2FzYVNQa01LYUR4cFFJaURRVHdOMkHSAUtBVV95cUxPSEFPZkJ5ZEFPdEF4eTFNUmFWWlhZcFFpZlRYcmJib2tTUFNMV2JNQWg5T1lMYWtDQzE5SktrVG44MG9vdWZZMTBjZTA?oc=5",
@@ -3654,6 +3766,24 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "03f67d931f562b1c",
+   "title": "Australia assured strict visa process won’t curb opportunities for genuine Indian students: Vikram Misri - DD News",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZUhNSlBlYk1hQlVnX0ctN016VHJtcFFVLVNLZE93Uzc4bDZYbE5QemFWeVAtV0hhcWM1NEVKcXFoNDRuaV9WOFI5OEdOc09VRDRSSGNRaElpZlpjZ21HWkNkVGJHSlNBWlVXcnJidlpEbm9TTWNtNl9Ha3VQamZKQzJQWEI0aTFhWlhCMDVQeUw0TjVkY0lpNXpxWllMd3FudmFTQW4tY2QtWkxZY21hX3o3Q1V1dEstYllPSVJrcWtPR3ZKU0ZF?oc=5",
+   "summary": "",
+   "publisher": "DD News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-12T10:22:21+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
    "prio": false,
    "score": 2.5
   },
@@ -4531,6 +4661,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "79ddc88ad5fd7e28",
+   "title": "Tony Burke refuses to concede migration surge was ‘mistake’ - News24",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOYVdLdFNReDlEa3BrMl95ZlVqLTAyY3hyWDJnN0JuU0d0cVp4VmxPZi1ESm93bmJuYmZsNEhpM09XNm5MY2gzUl90dF9YQmpQR2d6RWVCVTlRMFJmUGs3Wk9XQjZfZWlnbGV1SXh6U1FCUnZZUzVaOGE2MzgwNWVrNWRLVXdwU3RBMnh0N2JZSTJVSlByNVJSbzlrejlMU0FjM2NxN2dhNndqT0JaTk9qUHVSQkg2dlAxREhMYlUwUEtLRWI2WGd1dzNSakRyOEhXWGlqMmpwLWdlWlhRTk9fNlNtVUFpeGpJaUFleXBOdzdPeVFhNmRnT01rYjZfQWx0VmR5RV9xNEljLXllNzBPS180TmdMZ1NrWDdyREF4UFdqTGhCM0F0M2RDcGhJNEEyaVhzOXRvOGVoX1VGSEF0UXJnVGZjY2lTTHNFTWs4X3rSAdYCQVVfeXFMT0R5NHJNZ1Y1aHNLR0otS0ZJbF90QlZLOWVYeWJacXBXQWdfNkc5UzM5VlJjVzNvd3ZjNTZPUWJjakwxQllaMEhUTWR1N3h2QlUyaFZJWmRXNURWa0Q0dmpzb0xZeUFQSHI1cHVWVGU4LWlxRkRlazVNUXNQTFJVS1lrZERyVXFQZU9od3FwNC1lVG1lVExsRG52NGowaGFvaENjNnZ5LUVrQkp1WmthS0tHZ1d3ZTBta2k0V0kxZm1iT200WHRqNEtpejNrMDdvQm16djI0ZGNFRlMxVHJ3aDNXamo5Y19lanFnb0duYnBwY0JFdHpRZmI1anBuUTA2YW9ZbWltVks2MlZRRWd1STYwaHl0Ym1LcjdEcXVVSVotVThOVmd2STFWRVJ2cUtaRjdlaU5GZU9PMGlpZGI4SnhYaEN2dU1VN2E2WEpFY09hZ0NBWENR?oc=5",
+   "summary": "",
+   "publisher": "News24",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-10T23:08:56+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5a5b6359ddc3d56a",
@@ -10089,6 +10237,60 @@
    "visas": [
     "work"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "195794e6a4ceaf4f",
+   "title": "Consultation on developing Horizon 2 of the 2023–2030 Australian Cyber Security Strategy - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ1hxQXRjYzZDRmxGcllSaUo0d2FHa1JUSWtJQlpwLVhMLUJYdVVTNkp3WHpGRTA3NzlpSnBHcWZhYnhmOWxsakF5RlpFOFpFMlAxYVhCN2N1cDFaNi1mcThWVXVPR2NmWnJqX2dfdDFab1FFdml4MWZkQkV6ZzZZNjN4UFluXzFURVU0SXdyVzRvNk9OU0tyWURBQnI4dGdxMHhKczdiV2NNYXBsWndkWDVGeDVYbEFNOERZRnloOFdraFVfWm5jOUhPTXk3Ml8yV3pOaUszUDYzY3ZfTE9uOTZyNA?oc=5",
+   "summary": "",
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "bac4f31e0e6b7aa0",
+   "title": "Telecommunications security reforms - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUtCZEc4dUJkQjEtNzdWbDFPRTRzSENVN21hU1VfMXBiOUpybGdhRFZQVXEtMHlPOEd2akJzUlBEM3Z1d051UUwxQW1XWWtIUjhFS1JFV3kxSHNxd25UQVlkY29Jb2I0SmRKblNHSUxxbzJaZ3N2N00xRF9vVlNUVTVoMDByNXZpdnRWYm5XUTcxQm8?oc=5",
+   "summary": "",
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "6a635074220f335a",
+   "title": "Australia's anti-money laundering and counter-terrorism financing (AML/CTF) regime - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWHRGLXpTallUTnphYks2X3N6QjRqbWhtTWZZbEI4LVRDVWxva3dzXzFpVllPTHllVURoOEo4R2JMSzM2aWhyTWVxVmk0ZkdPa3AyendUMnJvb0t3MEpRTW1xblRNT050M0dTUHlYSkpTVklEaUkwaVlfTkJXZ1E2UHhMMk1VVktTTXBlVVhpUXRTUkZkNlhZQ1dWZ2FhajhmMjYxY2NJTERENlVJejF2alNUckVaLVkxSmp6V2dPclBycWxuUUlDVklsblBRQXFpSHJSVW1ONnZlblRHUlF6T3IwRjdsQllZWFhBakNSWTg1QQ?oc=5",
+   "summary": "",
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -29047,6 +29249,26 @@
    "score": 0.0
   },
   {
+   "id": "e285ace667e8b6e2",
+   "title": "Cyprus to tighten golden visa programme before Schengen entry - UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa3BuLXY0WHRLT3Roa3ZqSGVqRTRnbmVoN20zLTREVjhhMlE1YjVDaklMWXpmNThrdFVDWGpPVTZqRW02SHVBeFZ2X0dLMmY1WHc3VFI0QlZUSmZjY0dfc0c1dlhEcWRXblptT19PcFVwT2I0bHVPT1pyc09iSzdHVzFqYWRYNG9LNUJSM2I0UXBqcmY4SDNHNWZoaUJEZw?oc=5",
+   "summary": "",
+   "publisher": "UA.NEWS",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-09-24T07:00:00+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "671ed9f03ca957ca",
    "title": "SOTEU 2026: What is European migration policy becoming? - Voxeurop",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VeVZ6bkREN1NDQnFEVEVNUGhMbUkxY3JXZUJzc1dMbXlka0Y0LTc0eDZVRGhVaE1MTXR1a18tZ1JidFZPVGU2cHdEN0ZzUlBDZnV3dHJLckI3YzdMTEpuQTR0OWdPeGRndVE?oc=5",
@@ -37382,6 +37604,27 @@
    "source": "ca-pnp",
    "published": "2026-09-15T07:46:35+00:00",
    "fetched": "2026-10-14T11:00:43.053984+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "7ab964ca111a03fa",
+   "title": "Express Entry PNP Draw #442 Invites 576 Candidates - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aVWNKVHBLZmxWbDcyYld5MWhzVTFIR0djQlNnNEtiazdHWld0d21UbHpYakNmbVBrRFUxcVRLZVZCVk9VNkw5bmpDT3p6WHptRHMtMVE1cWt5TFFXM09abQ?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-15T07:46:35+00:00",
+   "fetched": "2026-10-14T22:24:12.504596+00:00",
    "visas": [
     "express-entry",
     "pnp"
