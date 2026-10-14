@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T22:24:12.504596+00:00",
+ "updated": "2026-10-14T22:56:37.699176+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 7
   },
   {
    "id": "au-skilled",
@@ -226,13 +226,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -346,7 +346,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -1311,6 +1311,26 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "a8a9f72b523fcd01",
+   "title": "Can I apply for Australian PR from overseas? #australiavisa - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVUmhLcGpja204STJaRExFZ1VJcVdEOENpNF9zREw5N1dXa1FtX1dYN3A0eUo5SWVzekNxNWRMWFJSNjEzaUJKVEZJRC1aODVFRURJVlgxb2pORnYw?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "AU",
+   "type": "news",
+   "source": "au-employer",
+   "published": "2026-10-14T08:25:22+00:00",
+   "fetched": "2026-10-14T22:56:37.699176+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b73754162ea2c9ff",
@@ -2904,6 +2924,24 @@
    "source": "us-en",
    "published": "2026-10-13T07:56:04+00:00",
    "fetched": "2026-10-13T12:57:36.752467+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b85d095a80391a79",
+   "title": "Irregular migration to the EU: routes, facts and figures - Consilium.europa.eu",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjVkWktMZVRqVm05c1BlSmlobm9ST0Z0NnZ5UFBhaGczbTlFUGJwT0NhTWpycWw1bkJlVWFMUURYaVNhVUhXVU1zUFprYjJIOGZ3X1dMWDFZYTZGQ3BFelptMDR4VVdXOTVkZVdsVVJaS09oZXBrek9mRFFiSjZWTFQ3NDI3eEpjejFQQVdpbkEzOHdrVXY1UGVyUVlLU3FQ?oc=5",
+   "summary": "",
+   "publisher": "Consilium.europa.eu",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-13T07:30:15+00:00",
+   "fetched": "2026-10-14T22:56:37.699176+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
@@ -17121,6 +17159,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "e7fde63d9dbd779b",
+   "title": "US green card rules update: 6 key changes for applicants to take effect from October - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZU5FMENZR2xHbl9JcG1WQlRNeHAtQ1ZIX1JRdXNsbktqamZBRFh6SzR1YVBCYmliWFVSZE9LNmxlNGllS1czcVJ0UkJWNGQxNlV4ZnZOM3loaTdHSUd6WVkza1B6N3liMnBkdDY1THUxaDlhdXVXaXZvdEs0cmZuUHpBdV9VV2lBbXhWWFhZSWhjWnEzb0RuQ2dCR29rSkdVM05GQ3lyVXpBTnFQT1ItOXRockJVNGM1bzJmVDJqZWotN05rMUNDRlNUWGxiS3RhMnJj0gHaAUFVX3lxTE13eWkzM1ZhVDBHdHQzbjk3M085NWpPODY3YnF2dl82S2M3YnlTYWt6QVM1VGEzZ1lnMDBVRUZ1ZFZMd3N3R3F3Y0NnUWFiTE1BTnFyc3pkdW1NNHNWaVVaU2hiWml3ZS1MWUJndU44ZlFJaXlGakQ4cWtPOTV4dlE2eWRaeGRYRDV5d0VyMlNKTGt2RHR0aFNGUmhTV19NUTlkbzMxcmRpNVVETEM2dGkwdmUtRXZwOEFUdzFyaFBFNU9OZWVmRWFpcUdLQk1lcS1zTnhvdXJhbFRn?oc=5",
+   "summary": "",
+   "publisher": "The Financial Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-04T07:51:38+00:00",
+   "fetched": "2026-10-14T22:56:37.699176+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "7078814c209dde29",
