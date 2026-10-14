@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T19:08:26.490682+00:00",
+ "updated": "2026-10-14T20:01:25.108442+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -214,25 +214,25 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-work",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "nz-family",
@@ -446,6 +446,65 @@
   }
  ],
  "items": [
+  {
+   "id": "86a6a99c97b36374",
+   "title": "International migration: August 2026 - Stats NZ",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa1ZDek9ZSDA2Tk9HZGVBZ0traFpvNEhkckdfeFAyQjlmXzRDNmFJWWY3MUtvVEhWcjBldWsxeWNZZDFCWEFtWEMzaDl1YmlOa2xkMEE3LUhuNHJTWERtYjVvZ28zeTJXR0JQRWdvUFV5WnhvV214YlE2QVJfQ0ZwZ0NLR3pFTHdDLTZz?oc=5",
+   "summary": "",
+   "publisher": "Stats NZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-14T19:41:36+00:00",
+   "fetched": "2026-10-14T20:01:25.108442+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "511c82559f37d19f",
+   "title": "Golden visa billions: How NZ keeps the wealth | Herald NOW Business - NZ Herald",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSnZMOHFXWEVJc2wtSVk0aTFiOV84NFFqTGtVNWZGRlVrSUdJM1JEUWhpa3cwaDJjWHlSSzV3bTZuRDhiVENRcFdLbk1iWmRmUXhPSXc0S1JpUU9pQ0lkajA2OS03WlpTRkk3ajVXMHlhQzNxek9mNzJoZldmbUtfdzJselFXWEtaQ0R0TVJJS1BCcFlISDhhY3lCSHZJX3dOcjFuOTZXSVRNbHBlS1BLc3l0MGhTeE5JYnFYa0dUWERDY2NnMVVpX3Y5WVFZZldkSUpTN1ppUGdoakVZX2duVkIwZE1samhLMG1Mdg?oc=5",
+   "summary": "",
+   "publisher": "NZ Herald",
+   "country": "NZ",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-14T19:29:00+00:00",
+   "fetched": "2026-10-14T20:01:25.108442+00:00",
+   "visas": [
+    "investor"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "f3585810d67c4336",
+   "title": "Details Surface as US Approves Over 54,000 Green Cards for Family-Based Applicants - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVmUySl9MbnpvNmJpVmtfeG5JX2hvSFlrdEtzVl8xanc1V2x6dGpvY25tNVBJQ0tLQkdTUHNFOFI4UEtVUElFWnZ3Y0RYd2FCVGxxZVZDTnNLTFpUQThMRDl6a3U0QWJnSU9nc2lJMHUtbWpndHJ0M0huZ25oVU1IcEZTRl9HOE1pUzdQSl9yUFlZVThkUGF2QUJuM3Z2c2E4RndmWjRn?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-14T19:26:09+00:00",
+   "fetched": "2026-10-14T20:01:25.108442+00:00",
+   "visas": [
+    "family",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "6ec17178bae30574",
    "title": "Student visa refusals soar as fraud crackdown catches genuine students - NZ Herald",
@@ -541,6 +600,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "0e046955c1f4b797",
+   "title": "Germany opens online application route for student, EU Blue Card and other long-stay visas - National Daily Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMURNTFdMSi1JeDltVzBsSmg1RUdHUEVNTWs2SzlYbTYyNmdaUmdZbWNLUDZSVzQ4MVF4VEx2XzlmdFhqbjdvNG9WMHc0Ny1YTHNubmRRRU8zd0N2MGVaWGFXQUZyeGl6dHo5XzRIUFF6M0ZKbTlRejlialR5UDJhMkxCWVkzeW1DTG5QY01iNVE0VW9GWmozWWdZazVuOURJekJ2cUJhY1kyRUNMeUhMR1lZcDU4WHJrZ3fSAb8BQVVfeXFMTURPdWIxaF8xb29rMnJvRERFcXRfU2VLN2tKU01lVkpIYnk2SVYyeXJTTlhISUE0TU5CRWNoeWZfMll4eHprZVk4a0dLVUpEZ3BzQm9keG5ienJZN1E2cEw4M2E1MkF6NE9tckthUGRYY3h4eG4tV3loeko3cWs1UGIyS2JoY1RsT0hURFNvUFNtSGp5X2JBUnFwMzVodUwwUkpjU1lVMHIwSFRaVkN3UkgzVVplUEFfV1VncVdld1U?oc=5",
+   "summary": "",
+   "publisher": "National Daily Newspaper",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-blue-card",
+   "published": "2026-10-14T17:00:36+00:00",
+   "fetched": "2026-10-14T20:01:25.108442+00:00",
+   "visas": [
+    "blue-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "e967178945b1f8c5",
@@ -855,6 +934,26 @@
    "score": 0.0
   },
   {
+   "id": "9209ad8802d74325",
+   "title": "OPT/Israel: Solidarity with Palestinian Human Rights Organisations One Year After US Sanctions - Front Line Defenders",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM05uRWFab0IwNjVUMm5KaTZ3LTRLOElob2cyODZlazBKZ25rSUhxakEwSEFGamFKUFBkSGhFVnBEbkQ0N2xQRkY2VEY0QWw2QV9wd1ByeDRtVXc4SklLYlBUOXNQY3ZfdU9rNkxiSXllZDBuZEpWM3VVc08tSm9DZjQzNlM4bC12ZHJvdDdhS3NrMHp3b25xVVZNcThhM0ZlWTFJZ0RKTUJnZXFLX1lMejJ6bl9LT1pVelkycWp4QjF5X3ZnQm15ZWtTaFc?oc=5",
+   "summary": "",
+   "publisher": "Front Line Defenders",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-14T13:28:23+00:00",
+   "fetched": "2026-10-14T20:01:25.108442+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "3f4148e220a9a557",
    "title": "Check New IRCC Processing Times For October 2026 - INC News",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13RzZUakd0ZWxQeXVDaXJFSWpCYi01UGVFQVh3ZUwzVkJBTXdNTzVLR3ZNbUJiZGxtTVVEcENJdmFuR19GdzdCQVI0WkhQc3JzVWFCTFF0V2F5NDJqX2lTaklhQWV1NFlwVklJdFBjRV9VQVlFQkRteTg3VTI?oc=5",
@@ -1004,6 +1103,24 @@
    "direction": "siet",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "7ab877190b53249c",
+   "title": "Metro Atlanta voter registration nosedives at citizenship ceremonies - The Atlanta Journal-Constitution",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1liWFg4alpwUDdXa1dSMjBsQVpDSkVLVktBR1FzTHdTeENnNzNaZkFOS1A5eVpTLXlPaFNHT1RSOFZ2RnBlQkhzVDcxYUp5Z0lBWnE5Y0FWV2sxdDZJMGRRNXA2Q1Q1R3BCZHp2Q2lCNEtBd2FHcHNGczlZdjlwemx0ZlUzQmc?oc=5",
+   "summary": "",
+   "publisher": "The Atlanta Journal-Constitution",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-14T09:52:03+00:00",
+   "fetched": "2026-10-14T20:01:25.108442+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "1869c77688837703",
@@ -33952,6 +34069,26 @@
    "score": 0.0
   },
   {
+   "id": "8224e8990888e3c6",
+   "title": "US Green Card Rules Change Today: Here’s What USCIS’s New Public Charge Rule Means for Indians - LatestLY",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZWttLTl2QXpUNkMtaUJ6SDBWcGVqdEQySzg1czhvZmJHRmNWNTdMRXZGMjZ0ODBfNHM3b0E1VkJyRjhPV09vQlZjS2RaYmpodWQzV09GREpKY0JFcFVWWVRRcDZ5UmFtSWc2OThKbENYajYtUkl6RWcxSUZ0VGVSNENYY2JGX3FIdjQwOTJ0eV8wM0s2Z1k4TEZVay1OTGtHZ0VudHg5MEw0R0Z6TTMwWXRGOG54SURuNS1VLURFRGNZeVoyWmxRSWFRd2rSAdIBQVVfeXFMTWlVWE42eVNsUnNycUtYVVNrdUFUb082R2pncVlsbFljZzdpNEZOeThCRXhCSW8zWkt2UjJJd2tyd2lIWVExbnlXR0M4a2tYWDV1cDBpRncwZU45OGhkemJZRXRJdHZWWGtqTkhVZ3BZR0pCRFhCeHZmODAyd3ZQMFkwc3BQdUl0MmYxUVdBZG05M2VIM1lIbUNxa0MwaFVmOV8xWE5CdkwwbG8yUjdURGpNM2xEVVVoNWN4ajJ0OGFXOXJuNWx2a091X1RMdkt3VnVB?oc=5",
+   "summary": "",
+   "publisher": "LatestLY",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-14T20:01:25.108442+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "2a2363c327069fd8",
    "title": "PNP Diaspora Region Elects Inaugural Leadership, Expands Overseas Voice - South Florida Caribbean News",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGs2QUJoRHd3Rnd3Sko1Ym00bXd0ZDU0bmZJakVMTlZwRmktV3p6TmlRcmlVWE9LTVMzaU5uU3BLTFV0ZUhnMENBYlBLRS1tNGdmQjAtU1hDVWZtNG5MZFpXVUxHVm1ONUtUcno2OVNfVmFtdFRiejBaTkdieVN4TnRnb0xES2dpTlRHRmNiYk00LVnSAZgBQVVfeXFMTlpBcmJOU0ZENGtVMnNKRDRESkRNWWcyamhDWmNwck42b0c3OF9PWENsVUNYZTdZY0pHYklWS2hOb3JyZUYyREt1dC15RkFqRS1HVUx4X0VjOWVsMXJhc3phZUZzNzRmOXZMMWVmaEpMMmNvSzN2czY3S2IyV0lscGVyZTZzNjlEOFVYenRMcUFGc0dZNmRlRlc?oc=5",
@@ -34170,6 +34307,24 @@
    "source": "au-citizenship",
    "published": "2026-09-17T21:47:19+00:00",
    "fetched": "2026-10-02T08:06:24.137785+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "4b058bcd002cd8d7",
+   "title": "How Can You Give Feedback on the Yukon Nominee Program in 2026? - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdEVRbTQ0M2E2N0FQV1V3UG5aY3pxY1U0dktNOGJqZ3o3blVKTXZjekZoS1dWb1o4bVpDYWVSYzJNbzBJUjMtSTZ4LS10aUpHLWRPSmMzczZtXzlzOWtSMWVOUFcwR0FxVEtHejd3aGlnWTRNOTNzS2RmTjVSTTI5R2dtempvQQ?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-17T14:45:55+00:00",
+   "fetched": "2026-10-14T20:01:25.108442+00:00",
    "visas": [],
    "lang": "en",
    "policy": true,
