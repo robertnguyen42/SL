@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T14:28:52.431236+00:00",
+ "updated": "2026-10-14T15:04:58.752470+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-investor",
@@ -226,13 +226,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -5208,6 +5208,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d1320b82d4f5ed6b",
+   "title": "Canada Seeks Skilled Foreign Workers To Apply for Permanent Residence Through Express Entry - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1ZidFJWRHZFYnRUQ1RmandQYlpscGJPMDQ4d0RfZVBFSEk5QncyQmJLNEFTbEpfLXhiMklHdnR5VWdMeWVIVGVPM3RnOXFMRzZvemRLWERteDNQTlUzNjJrMVpCX2xWRnNFUElwelBPbDhGbTVaMUhRdy0tdk1MX3ByZUxUeXlLcDBGZDZuSkFRRzFKR3dxZ3JYV3k0U29DN2xrOVRLWDJOa0lVOEE?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-09T14:58:40+00:00",
+   "fetched": "2026-10-14T15:04:58.752470+00:00",
+   "visas": [
+    "express-entry",
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "c2deef7254801ea4",
@@ -13992,6 +14013,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d9115c89d964ca24",
+   "title": "Canada Waives Major Work Permit Rule for Citizens of 1 Country, Gives Conditions - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzdXZ1pBSUhBb0s2TnNsUVB3bjE0eFJiakh1UHB2UjVjOE1uOHlQaTVuMWVSTm1qLTJadFZpM2g4OUMxcmtBSG8wSjVtM2ZKY1JSTDhyMGgyTnVwZlNCQ3lJV3g5R2szNWpFem0yRHFSV0tHLThwX0pWbVFhLXdqVHA5akYxcnNuS0lhcmFUNllPcXloN1FoaXVYajJzQjJJdnR5eVRR?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-05T22:56:01+00:00",
+   "fetched": "2026-10-14T15:04:58.752470+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "11c7d320de69727a",
@@ -23961,6 +24002,26 @@
    "score": 0.0
   },
   {
+   "id": "28107ce595193067",
+   "title": "Canada lists 5 occupations that qualify skilled workers for no work permit - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcjVfMEI1MTJjME0za09CbzBrUDlxdnFRUTctckxyN1UxVTJyck1hMWVlcDJ2bnFaQTZ2cjBwbjlHbVFSdmFuQVZtQ3FDWGo1aE1WWXVlajRXZXhIVHRSZ3dRSms4aHFSaTJBTkI5NHJlY3NXSWgyZ3JmVWcwckFUOUh3VUt6ZzB2S3ZhaGxDc3hmX1gxWGc5TGdFaV81QXlRNjVUUA?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-29T07:00:00+00:00",
+   "fetched": "2026-10-14T15:04:58.752470+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "54196663e8d0fcef",
    "title": "New Zealand family visa application to move to enhanced online system from November 16 - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1ByWjh2bkdVbHBXekJISHRoaEQ2NllBRmlMREV3WWljNkx2OWc4TUtMZmRiNWk5N1hHMWZkaWtMWEtCelA5NmJMNW5BejQwajlVSDlnb3NRQUp2MlZNWjN1Y0dwOVVFNmVJczRWNUtUVG1ZckNOcnQ4eXFicjQ3SFdNRS1FNXVBQ2Q5ZjZ4UjFUckpUQldnRkNDWk5ULTkySVJ5eE5TQVo3UnFFbEd6cDRaS2RNVE1jVHE0V2RYZTNnWXEtYmpOYU1JMVNtcjlvTFcxU1dxUU56d3dDTGxpWDdFRnPSAeoBQVVfeXFMTzA1MjllcU5IX3JaR0R6WDNHX0h4UHlUdTZqemRUdy13MG93cG9BYUxHTHZlMTFFTDFiNW44MXRYZjI2RWRMbmltRjItTjl1OFJKSzhUUkxFOGY4aVp2czdkVU5IWUdvWmNVbjNvRzhXMzRYdFR4LTZfY0xCUkQxR2xzQ1p4YlNJYVJiV0oxX1NQNlR2YkZqWWtPRWZKV21HbFZQbTRLOGlKM25EdUx5bU9xa01HSjBWMmlEQXgzQlB0ZHFfQ1hrdHlpWUkwOVAxenU5OVVPWmdRcjVXaU9iMV9FYVNNYmdKWWJn?oc=5",
@@ -25872,6 +25933,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "461d53bd5595bbdc",
+   "title": "Update: Canada gives new info on work permit fee waiver for Kenyan eyeing jobs - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMVh5UF9TSk95QWJkc1gxRkdUYXZBQlZrdWU3TExDVkpYWm1meFYwSExIVXhIRmlMRU4zNW9BakwyaXo3UlFXbVNELTgyQThYQnFSUzZkUUsteTJNNGx0a3VLX2g1RnFXYjl4enBoOF9fUzM4UEtTQ1pfVENiX0VuRVdDNHJrdmtVbjI0WDZ2QU9jTHpacjhsR0luNUZmWGhsYUh1ZlBsUWRaSnNFNkFPS0VaY04?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-27T07:00:00+00:00",
+   "fetched": "2026-10-14T15:04:58.752470+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "030fe334c779eb91",
@@ -30852,6 +30933,26 @@
    "score": 2.5
   },
   {
+   "id": "d0fe5b94d0442bda",
+   "title": "New Canada LMIA Rules Now Clarify Who Can Hire Foreign Workers - INC News",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96eGl6R3ZaX1ppRDJaNkZQem9uSzV6bm1wTF9rWGI0aXR1a3BMZXJWdHU3Q2pKWjJRX1hVQlkzSk5lN0dXREtUMUhaTXZNSmg4dE9ZVUxWNTVja0hNRkxrS0E4YWhYVVdVTG01MUVVYmVfSnV4TkpHRDVB?oc=5",
+   "summary": "",
+   "publisher": "INC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-14T15:04:58.752470+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "0e934541d688a23c",
    "title": "New skilled visa priorities under Directions 121 and 122 - Absolute Immigration",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXd4RVByRmN3dXRGWTRqZWZES21zUDFhaDZJVWpaNHZnUml3VTVTMkU1MWxkcnRqZHhzV1ExYXdsZmNTRWo3UElkeVN5T0FFZE9PMkR5WjlZN3lYck84Nkx5Ukw3ZEZ3c2RuVk5fb0ZOb25tNXNtZy1sWFI1YWM3WG1CdFpTSWEtYjZvUHZfZ3AzTERERzVYVw?oc=5",
@@ -31280,6 +31381,26 @@
    "fetched": "2026-10-11T21:45:48.409512+00:00",
    "visas": [
     "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "120a5c90a18c2c6e",
+   "title": "Canada Announces 1,107 Eligible Courses That Can Lead to Post-Graduation Work Permit - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNF9vV3ByMHlUQ2RLSncxM0pmbDJ1MzZtNFMzTDJQV2N5ZXBzcF90cGlLOENYeWU4aG5BSWFERlg2Mkg1emVUMGpFQUI2ai1NcHlVeFhPZlhzenBDMTNxY2hLNTJTc29xT3REa0ZSRGt5SkNsSnptNUVhZjlodDBsWGY5NlZSSVctTHB0dkc4UF9sOEtRVGVGdkZyS2R1eWRjTVU1RXU4em5ITGNJ?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-20T07:00:00+00:00",
+   "fetched": "2026-10-14T15:04:58.752470+00:00",
+   "visas": [
+    "work"
    ],
    "lang": "en",
    "policy": true,
@@ -33367,6 +33488,24 @@
    "score": 0.0
   },
   {
+   "id": "354712e2b2b345c0",
+   "title": "Canada lists 3 things border officials check for on travelers at entry points - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjkzc1BseVpyRzF6WElYSkJONXE2eDN2Mi1VQXVLd3ZqRXBTc3NocVFlQWh2dUhKQ3hwNk8tbWV1Q21ScDg1eTRYWE13UHN4aEo2UnFiYWk0S2twQkxlbXE5cHdCYjluUDRIdWJ6MnRiRmRYZ0praUZyb3dwZnE2MV9VcEZtdUEwaXRBNWRJODJ3aEZNZ1JneTVvZVEzaTl1V3c?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-14T15:04:58.752470+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "2a2363c327069fd8",
    "title": "PNP Diaspora Region Elects Inaugural Leadership, Expands Overseas Voice - South Florida Caribbean News",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGs2QUJoRHd3Rnd3Sko1Ym00bXd0ZDU0bmZJakVMTlZwRmktV3p6TmlRcmlVWE9LTVMzaU5uU3BLTFV0ZUhnMENBYlBLRS1tNGdmQjAtU1hDVWZtNG5MZFpXVUxHVm1ONUtUcno2OVNfVmFtdFRiejBaTkdieVN4TnRnb0xES2dpTlRHRmNiYk00LVnSAZgBQVVfeXFMTlpBcmJOU0ZENGtVMnNKRDRESkRNWWcyamhDWmNwck42b0c3OF9PWENsVUNYZTdZY0pHYklWS2hOb3JyZUYyREt1dC15RkFqRS1HVUx4X0VjOWVsMXJhc3phZUZzNzRmOXZMMWVmaEpMMmNvSzN2czY3S2IyV0lscGVyZTZzNjlEOFVYenRMcUFGc0dZNmRlRlc?oc=5",
@@ -35013,6 +35152,26 @@
    "score": 0.0
   },
   {
+   "id": "4203a390c11ae7b2",
+   "title": "Canada Lists 67 Countries Whose Citizens Can Apply for Work Permit at Port of Entry - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSExhTUFlaEVEcm9PVzFZNjMzS3pwNHJkMTBiVDdqNTUycFJKV001REhRczBuaTBCckhncjZHN1IxT1NDZ3NHZGd2bG1zTmhBd3VfYmE3eklOSEFXS2UxcEZiVWdrb0tFZkk3cjFfQnBsNFJPaW45bWlBSnZFUXVNN19VRlQyVGh3bkNhNzIwVWJUZmE5SjR6Q255WmFzUQ?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-14T15:04:58.752470+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "5f30623419cf53e1",
    "title": "Australia tightens student, working holiday visa rules as migration debate intensifies - TRT World",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TYWtCNDJiSWg2Tm9ITklsbUJvalZLYkVpeEl3QU5IQnVINWNBeEhXZXhmZUFjYnRUNElVSDAtbGhZLXJaVTU3VXZPall2XzhLSTNPVXM4N1Q?oc=5",
@@ -35119,6 +35278,26 @@
    "direction": null,
    "prio": false,
    "score": 3.5
+  },
+  {
+   "id": "cde2630239d725e2",
+   "title": "Úc tính cấm sinh viên quốc tế đưa bạn đời và con cái sang cùng trong thời gian du học - TAMDA MEDIA",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnZJcHoyb2FIcTRPc2R6UmpZdFI4VkZtVm5BS2lwVUthbzdXLWtwZ21oWWtZa0VDYnlJc1pPVlpDdUdRSTVxaTM4elppSTZ6eTR2UGV6VkZnUTVrRi14TFhoa3FiT2FzaDlQNlJJU21QWUJ5MlhDYmF5VDBLbHRhNnB4RUxaYXA5Z3RTUko3QmRZc21sQ3RTUE9WQUEzelZpbkotVDlfeEUwdHM?oc=5",
+   "summary": "",
+   "publisher": "TAMDA MEDIA",
+   "country": "AU",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-09-16T15:45:00+00:00",
+   "fetched": "2026-10-14T15:04:58.752470+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "fa8caf7410a55829",
