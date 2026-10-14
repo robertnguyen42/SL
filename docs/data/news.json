@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T13:33:53.400433+00:00",
+ "updated": "2026-10-14T14:28:52.431236+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "18d2c05575f71ddb",
+   "title": "DHS Wrongly Claims An Immigration Policy Did Not Increase H-1B Denials - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUGxXNmpwckdBSGU3ZUNpTUxNYTFZQ1dnVHBJaml3MHhoRG1JUHJ1QzVnSDhVbTRQUndqQmxRWEZyMnJJbXRxdTY1U1daZllIUUtMY0V6TmlVaW9aVEFZSDM2YVNwa3R1SWtYaDd1TS03b1hVWkdWT2xHUF9nam80OU5sWWhKRHV6Ym9mZE1aQ1hPYTcyVVMyM2NKYXVSU1RxY1FKVEdyQ1RSTEQ1WGpxNzdzVlhBZ1NCTlZyMThUTmFZemd3?oc=5",
+   "summary": "",
+   "publisher": "Forbes",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-14T13:57:28+00:00",
+   "fetched": "2026-10-14T14:28:52.431236+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "7908b9ce00a1bf3f",
+   "title": "US Rejects over 12,000 American Citizenship Applications in 3 Months, Releases Details - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFc4b1Z5enpPRDg4ZmJINHFsZFVJZ2VOTEFNLWFKS1N0V29QQ3gweG5aNTZIaGlVU1QxVG5JcmNWQmlLVlRld3o5QWhLTW9ZX2hzRzFvUXZQZ19remJLS2poUE51V2RoM29IMEd5Wlc4MnV4aWlyRk5LcnZ6aGEtZXdGRndfMWt5ajVLckdwbjNEQTVPZGpPeV8wT2RyMkg3RFNZNmp0ZVB3bkx6cGd2RHBzcw?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-14T13:53:57+00:00",
+   "fetched": "2026-10-14T14:28:52.431236+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "3f4148e220a9a557",
    "title": "Check New IRCC Processing Times For October 2026 - INC News",
@@ -807,6 +845,24 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "a8f352298c6eb69a",
+   "title": "US ends 540-day automatic work permit extension for immigrants: What changes now - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTmJBaFhlQk12ZXIxWnhzVDlaUW9DX0h4TEFWNTZWUXVQdmVNbkh6WHE5cklrd3dVMUdwbUlsUXBFbU9Sa2J4aWxrR0Rnem1aNEJyZWFncVFBekZwby1qUld0ZjRPRVFyejlJWTFlT1hWRG11THBtSFBCbDc4TGpGQ25RamJHREUySHlsb2FjRDljeXJuVVEyRnZ1c1QzWEpFM1V4djRBOXp1enRuUkhZcjBmQU5seWx2dE80UHlmM1ZsUDVSa0lueVJyZTByV0tTU1p3RC1zd1kwUdIB3wFBVV95cUxNU3NPclljcmstRjZwRkFnTzhTcTZWNzQxSFVNOUx2TG5uUW1KMk9sX1VfTTRhYjkwdmVULWNSWDZvVGlhSm83bUpPajZURUZldkZ4VGZyMWdFT1h6M3BZM2xVN3laQ1RuZEV6a2tPZE52UlQybTFaX01iY092U1dRbHdhc3ZFTVh6RThEY2ZwVGdvYXBRTzBNZW8ydmpodmU2NHU4X25sODBVZG14UkEwZjVQOHlfbTlTUjlLVWgzZWNtLV9wRFQzdXdnZTAtMmVjOFFiVUxoNDlpNjZ6YWFJ?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-14T05:57:28+00:00",
+   "fetched": "2026-10-14T14:28:52.431236+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "206ac5f85acb15af",
@@ -37735,6 +37791,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "23b0ed77e42caf03",
+   "title": "Manitoba PNP Draw Invites 793 Candidates Through Health, Francophone and Manitoba Graduate Selections - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vc24tRzl3QllPQi1jdkU0NVMybi1JalJWcFhxZFNYSGVKLVM5TEZqa2hkOHhjeThzRnV0TjhaaHNLenVKRlg4THVmS1R2TVJzbE9ac2RVN3hDdTJibXdHVjRhYVhmcUozWUpMQlY0R29ld1E?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-14T14:28:52.431236+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "c9bbe165fb97e3ad",
