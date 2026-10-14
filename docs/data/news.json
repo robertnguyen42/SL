@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:01:28.522986+00:00",
+ "updated": "2026-10-14T19:08:26.490682+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -190,13 +190,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -214,19 +214,19 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-parent",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-pr-citizenship",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "6ec17178bae30574",
+   "title": "Student visa refusals soar as fraud crackdown catches genuine students - NZ Herald",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVDg0Ri14VmlsMy1pc2I1UjlGSl8yODZqcmFpRG5HYVpjZTMtYkYxcWlHTldlUlA0MUdqbEhuX1J4ekJIaFdkRm9XTVhHQjkxNTZOcGIybmJfeDdtNkRGbEFpWUllckVFQVN3TWZ0TG9vdG96alVHblg5NWhYdjVvU01vOFFhSVBWMndueFVOSzQwRzRvOEZBWWNnOU5DX3BndGJubm5OVV9vaWZia0hUSnNENzNodGJqVzFMcnVodXEyYmtEdi0zakMwT0M4Wmc?oc=5",
+   "summary": "",
+   "publisher": "NZ Herald",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-14T18:55:42+00:00",
+   "fetched": "2026-10-14T19:08:26.490682+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "18805d0cccc5bc3c",
+   "title": "Home Affairs detained Australian citizen for 945 days - The Mandarin",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2F2RHROSzBSWWY5dTBabXN5RXpQYWFMaGx0azhYWUhhSGZCWXhteWs1cXNnU2NxYXVOQVF6c1VpVXl4NDlHN1lvdDFjVzl5MHRfRHgyYWVTdTNIN2FfWkVnNV9ZWTRxbUlWVjJrVkdpX1M3WXhyc3ZHWW8zaXp5LVBxMnVKNnhLbTFUem5OZUtDcTJjcFhv?oc=5",
+   "summary": "",
+   "publisher": "The Mandarin",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-14T18:49:08+00:00",
+   "fetched": "2026-10-14T19:08:26.490682+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "929714795e68aa31",
    "title": "Spike in refused study visa applications - RNZ",
@@ -35706,6 +35744,24 @@
    "direction": null,
    "prio": false,
    "score": 3.5
+  },
+  {
+   "id": "2f42f4e0a29648a9",
+   "title": "New thematic paper examines European Court of Human Rights’ case law on migration - www.coe.int",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGxEU3pLdmN4MXRFMTVWakdWRWR6bjdnOExjMDFyNzJsM3JpMXBzYVNvNDVFalpobUZXdlh5NE1aUnEyRVRLM2FOSlRUNFlDUkZoRDhNcTVoeDV3cDFlYkUzelB0QkRhWm55aUJNMnJaazhmOEZDd0ZrS1JObkRpeF82VlZHUjdlejVmWTZndGJsdHQ2T0xGdFdOaWdKTk5LN1k2R3dkd2V5RzJjakZFYjFsNjVwM1Nza1NxZGliZ0dabVp2em1KZ2hmQzA?oc=5",
+   "summary": "",
+   "publisher": "www.coe.int",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-16T21:24:01+00:00",
+   "fetched": "2026-10-14T19:08:26.490682+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "cde2630239d725e2",
