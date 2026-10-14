@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T17:04:09.996008+00:00",
+ "updated": "2026-10-14T18:01:28.522986+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 34
+   "count": 38
   },
   {
    "id": "us-visa-bulletin",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -446,6 +446,64 @@
   }
  ],
  "items": [
+  {
+   "id": "929714795e68aa31",
+   "title": "Spike in refused study visa applications - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONzVVX0gxVy1BRlVZdDJEbjZjOHo0N0dDLUpZLWhocTlLbk9nWlg4c1g4X0hwUktIYUNWSTQzYlhRTG51eUJFOHRkcVpkRHFIbGs2QWhjV05sb0p3czF6LUJaaWZaY3Y2dUliTE5MV211WXpnMk52VmFIUUFPdmVIREFqNmxzMUY5aF82UnJR?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-14T17:43:40+00:00",
+   "fetched": "2026-10-14T18:01:28.522986+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "ac5c90bd3e7141d1",
+   "title": "“44% rejected”: US denies over 35,000 work permits for Green Card applicants - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbzRCVTBXQVhnUjNnQzc4eUNHQk9aRTRiNmlkWWZMcm15Ym5xV2FfTGJaM1dxRl9mcnA1Q2o0QlJISXlaMTI4SXU1S1lqbUVfMTltN0NneTRLWXhUc3FnbEo0M3FVaXVGVDNQSjQ3Y2loMk5IUTZiTFhNQVZXVkhrOEpLZFdpTW1abThfS1BkVGE0Z280VldLU3Q5ZEpQb2tfZ0FBVE5rN3UxQQ?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-14T17:41:53+00:00",
+   "fetched": "2026-10-14T18:01:28.522986+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "6313f76399053fbb",
+   "title": "F-1 visa rejected? Indian student fears missing Spring 2027 intake at US universities - The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUW9NdGxmemRXd19yYW1JOWtTb2g4TjlFcU8tbWxPSkVYRy1KTlpMWnJZWWpfRHZwOE5XYnBiSmpVQkppVVlZNk9vV3FaRGFicmp0QVdBbHhKYWhsYmVFZkhpYl9FalNCWW9Jc3JNb3ZZUDJYMW1fUXlLX2FhV3JMZ2lLRTFCTHRoNXdEeVNTeW9jOG03bUFPS0VRN1BLdzBYSUM0c2drNDBWVkJCRWREYUxEV3pTWHlJVGc?oc=5",
+   "summary": "",
+   "publisher": "The American Bazaar",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-14T17:10:06+00:00",
+   "fetched": "2026-10-14T18:01:28.522986+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "e967178945b1f8c5",
    "title": "USCIS ends 540-day work permit extension: Immigrants could face job disruptions - The American Bazaar",
@@ -4669,6 +4727,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "c4ba56727be5db78",
+   "title": "Trent University Student Housing Expands With $138M Ontario Investment - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSXNpalI1NkFfc0RnOTlNX0FuTV8wSDFseUdUTFE5eG1tUTljeHl2aW1WU3pjZU91VDFYM00zZWRFeV9nNGhFdGFlelpSNU5uNklfUTNyMm8yVUtBMGl2U25GM091TVp4ejJCcVM2M3h6dXktMzNycUZaY21CRmptajdDRXM0MUxkbWpqWDVKUGpydjQ5R2tFdUE0OGtQSzJsZTA4?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-10T07:00:00+00:00",
+   "fetched": "2026-10-14T18:01:28.522986+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "a18ae40e02c987e8",
@@ -26535,6 +26611,24 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "fa7848450636d0fe",
+   "title": "US Launches Visa Fraud Reporting Portal: Anonymous Tips Now Allowed - Trak.in",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUZkdzN4WWNHTVJvZzRUZzdJc3ctaldSNGlnSHQxUjc1QXhiXzlSTldjVVZBVERSem9vNzUxNjZFOHFwTDd6bWRIR0JmSEpSUzRfbHV0MlYxUEp4eGlfRThTczBmd2dObDA4WDE3Y0g3ZG9VZlBNaG00dldWSG5Zcy1mRHJjLVJCT2hBUW1saDBDYy0wakE?oc=5",
+   "summary": "",
+   "publisher": "Trak.in",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-09-26T04:16:55+00:00",
+   "fetched": "2026-10-14T18:01:28.522986+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
    "prio": false,
    "score": 2.5
   },
