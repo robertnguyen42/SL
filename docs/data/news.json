@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T15:04:58.752470+00:00",
+ "updated": "2026-10-14T16:07:18.123008+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 17
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-parent",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "us-student",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 28
+   "count": 30
   },
   {
    "id": "us-visa-bulletin",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "eu-student",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "nz-family",
@@ -446,6 +446,224 @@
   }
  ],
  "items": [
+  {
+   "id": "e89381ba54d9bb97",
+   "title": "Canada’s mass-immigration era is ending—but high immigration is not - Juno News",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYRnJ1cnE1cFBCMU1Wb28xR0J1WThzZlJjTzF3YmNoQUt4TGlvdDl2R241djMzdlNMeFdPSlZnZXBIbnhQZHUwejFnbDhfRTdmdDAwMUUxU0FDUWw0OHpaRlc0LTFGR1lRTk1sN2RCWlFSdw?oc=5",
+   "summary": "",
+   "publisher": "Juno News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-14T15:59:14+00:00",
+   "fetched": "2026-10-14T16:07:18.123008+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9672ec75df8ee414",
+   "title": "Canada Lists 2 Situations That Can Bar Permanent Residents From Getting Citizenship - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlZrdzJWZGJpVnpFbzd4bEpZbVhsRGZGUDFndU5EZjVoRVdiTnhXUW9TN0l3TU9JMHNnT3J1c29YUFVFMFJQLUxzb2taMXlMbC1LR0tUSHR4a0dBOWNveWRKTjlTcTAtbnFsY1NreVd2LWsyaWs3NUFsbm1VcElIdnRJdkJFc2JZSzIwM0R2X0RFOE9OaEdacVNwZEZzWTg?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-14T15:56:22+00:00",
+   "fetched": "2026-10-14T16:07:18.123008+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "fc2c093fd24474ef",
+   "title": "New Zealand tightens work visa rules: Some holders can no longer run businesses - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb180LTBROHNFOVl1cHVnTlVHZWFlRWRXS0VRbmpINmwyVnhFbTNqeThoVnRrMXA4WjZFMW1tUHoxdVk1RnlwVnhMQk9HTHh3T0ZVdFhHdXRZU0dsOWUzeGZ1SEdrUWdscGlaQWN2a2JXNlc2QlFHQ2h0Q01hMzc4TTEyYTY0SzNNb0RRWXVsTmJCWUo1aHk0bDJR?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-14T15:56:15+00:00",
+   "fetched": "2026-10-14T16:07:18.123008+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "872e4c9019ae0e82",
+   "title": "Canada Lists 2 New Ways Families Can Meet Super Visa Income Requirement - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkJQZjhNaFFONlo5bjBidFFjNkJuQU5CWkZ5cmh0RUtuT1BQZVlJTk1ndlJSOWVjR3l1UzV4Ni1uNHlxRDlVU2hqTEliSmJnblItQjVteDZhUFVvTThDMkV6WFJGc1Y3bF9sT0dSa1l2UVkxTDZ4NEJja3FoRXdLUFlzWExvYl9aY2ZodXpDZ0o0c2hDbDNzOElzeWx6eV9VM1E?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-14T15:53:20+00:00",
+   "fetched": "2026-10-14T16:07:18.123008+00:00",
+   "visas": [
+    "family"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5a0e2f5be9e88b27",
+   "title": "Canada Expands Low-Wage LMIA Restrictions To 30 Cities - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlVORkxLMlRrUTIyWnFkbEFucGtfdG9kUkE0b0tNa1hzbWkyclZEcllwSWZBeEVGQ0hCaC1ac3N4WV9iamgyNXRqUjhhV3ZxemxMeVYzWGN5aDJYdjZPY0NwMVBLTmxjZGNHVWFHQno2U2g4VHBtalhEdFJtbWlxTGdoLWU?oc=5",
+   "summary": "",
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-14T15:45:30+00:00",
+   "fetched": "2026-10-14T16:07:18.123008+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "4af1a95ccbbe1ec2",
+   "title": "Canada freezes work permit to 6 more regions, tightening access for foreign workers - Businessday NG",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2FxTTJoeGl0SUN4eWFuSVI2amdUZmhCcTB2ODBaTjkwbV9IcUVYb2RObFJXQVAxN0tYdHVzcGtkaG84YUo2YVdtYXlCRXlMWWQwREFtMFhxODBDRzRNdlQtTGpzT2pwX2hxZURXLXgzMWtDWE42Q3l2M3FVVE9QUjVwVndPd1dXbEFrSERUWVZ2ZUtMZm5hN2RDdVF2VnhTcElZUFltV0hHUERvZWI3WDNDV0V4azdfSEFtetIBwgFBVV95cUxPNkpmV0Vac3Z0NE9RUU80XzFCTWZUT0dDbFhCV01wYmlfa1lleXA4U3Fxc2tVSlVQVTV3RzBpMm9LZTlYQTc4d1YtN0JTeUNlTkZGOEJkZkpNU1JnRldNLS0waDNSZG1jZ3JBckRsR1UtVWpqaTZfcWhTZ3J3ZzB6RFc4ZkwySzhMeHFGRVBUTkp2dlJiaEtHNmoxSFhtXzBEV3JjeVhWMGlIVWdoWDN6MGU0UUcyNzVYeWpBV3NoeU45QQ?oc=5",
+   "summary": "",
+   "publisher": "Businessday NG",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-14T15:25:08+00:00",
+   "fetched": "2026-10-14T16:07:18.123008+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "1fad908d75b4d0ac",
+   "title": "US Denies over 12,000 Family-Based Green Card Applications as Immigration Restriction Tightens - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWFHVThaN3JINk1wUUJQMW4wNnYzd1d5WmdaQVp0bWgwWU8tRlBzM1NjQU01NDhLT3FndVhndEltMVF1NGlKZE9keEJRYmtQX2tqQWh4djdhQVNUa0dzUUsteDkxVnc3TXFFdnJDWFk3cm5tc1hZN3VVM0Fjek1RMXpoUm94ajhQUVNOeHhSZXpYVERXVEhITmpCdzBPM2xjbjNtR0RiZFcxZXVSdW5lN2pNb1AwMTVxU25Najc4bw?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-14T15:19:13+00:00",
+   "fetched": "2026-10-14T16:07:18.123008+00:00",
+   "visas": [
+    "family",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "1e14082aa137a458",
+   "title": "Weil Wins Summary Judgment for NYCRC Defeating All Remaining Claims in EB-5 Investor “Mass Action” - Weil",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVRjSU83Z3Vyb1Y5cUUxekpOY2hjVG5idTJldHptOG9rYktsMTlrX2VBM0tpMjlIdDdlTk9vZEZVc3p5Q2RuMjJlV05lT3otUGlpc2FHWkM1QVlHMTNFRHdJekZTLW5pVXh3UUtHc2FTem1GeUlTc01kdThNZ1FFTVRHTmRpUEJzMVh1U2dESHBPNVpWNDA4WlduX0ZyUk82VkZkM2VhS01qVzZ6R3BXLTRmLWhvcFhzLTdsMHpGZndObG8?oc=5",
+   "summary": "",
+   "publisher": "Weil",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-14T15:01:19+00:00",
+   "fetched": "2026-10-14T16:07:18.123008+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "5846dc81c466279d",
+   "title": "Canada Names 1 Alternative Visa for Parents, Grandparents After Pausing Sponsorship - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb196VHhCVzhyc2RWNENGMnhGUWtRZExtOUNGV1JjV0xDMlRERFBFbmxUTFJqeEU1TjRmQ1BiLW1kQ2h5ZDh1SkgxTjZPWTJOWnlBRVJXa211RXRNdG5NWXZQcXRlNEE5VXlIaC05S3lfdDVYNzh1UFA2UkZpOGM2Z25VT1ZHMkh2SThaT21pVDFleDJsZVRMa1o3VFIwcGdjV251ZlljVThwOWNBaXRkUnZiRGc?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-14T14:58:24+00:00",
+   "fetched": "2026-10-14T16:07:18.123008+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "bc2cf0e9c89a125d",
+   "title": "H-1B, L-1 visa extensions may face greater scrutiny as USCIS seeks to end deference to earlier approvals - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNekNRblREaTZVTjNKZWd3WHBoam8xbkFpOWRuVExFX0JDTjJWZ1g1M0x2MXhmc0lYWkRReV9zck9ncjYweWNIeVQ2b1hJVGN5YmFwblhzNDVTQzRYS21mOEtkOU85cUJTNmdZVUd0d2kwRzlIaE80Y1RTSGxXWkVHT3hSWlFRczg2QklpeFBmTl9FS2l3RVR6MUl3UFQ1RF9BNF9wMWk0bHhNSWt3dFlBSTNET0pVaXhGR2NOWDdHbXZWMWRTX0ZRazVJYldESnJUdzVtYjduMUFES2pWMVJvT2tDTzJPcTVnTVgtcm0ta1kyd9IB9wFBVV95cUxQQUhSUThOcFFOd2QyVFVoNHk4TzNZLUR6MWI3d2lNdlZpMElTamtteHpIOHJ2R0xmOG5ndnFKZWFQTUNXLThSTWFEM3lMNmN0TjVXaElIX1hZUkFCQ0U2aFgzeTdiNmpGdFZOLUh2MEdJVXo2d2lSSkcwQnVrMEVOZ0JSZnJ4M1Z3TG1SVGdSRGhCQzRuMDN3THBKWGhxeDAyazN5SEIxQXpWS0FRZmJseEQ0RTUxSHR5Mm1lRzk5RnBRTFVzMGdDUEtTUmh1SkNMUHowRXdOOEY0TFNhVFhFWXNfNUJYcVRWM29zYU5rU3VjNTRpSmhJ?oc=5",
+   "summary": "",
+   "publisher": "Livemint",
+   "country": "US",
+   "type": "news",
+   "source": "us-l1-e2",
+   "published": "2026-10-14T14:01:05+00:00",
+   "fetched": "2026-10-14T16:07:18.123008+00:00",
+   "visas": [
+    "h1b",
+    "l1-e2"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "7cf587f4449b6bd7",
+   "title": "Former Northeast Ohio medical doctor convicted of naturalization fraud - Mahoning Matters",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LN2l0MzVNbklzVUZCbTJhZTA3QlZWTHJsb1hjVTJJNjdtbExXalBDakJwYUFaQmZXSGFZVjNfYXVwbU14ajBXV3RXcW1DVkRiNk1sbmZwMVVnQ0dsaWt5YnNSaGlhVGUxS3c1UGc1RWtjdw?oc=5",
+   "summary": "",
+   "publisher": "Mahoning Matters",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-14T14:00:00+00:00",
+   "fetched": "2026-10-14T16:07:18.123008+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "18d2c05575f71ddb",
    "title": "DHS Wrongly Claims An Immigration Policy Did Not Increase H-1B Denials - Forbes",
