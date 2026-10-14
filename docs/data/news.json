@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T05:59:00.698315+00:00",
+ "updated": "2026-10-14T06:39:40.575134+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-partner",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 13
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -406,7 +406,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-investor",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,65 @@
   }
  ],
  "items": [
+  {
+   "id": "95b8d0b4ae16ba0f",
+   "title": "BC PNP Draw October 2026 Invited up to 288 Candidates - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Hd1JOT0VxWHY4Q0RvcllJVFJtYU9ZOFpST0ppMjFCazhmbTFRWFdSRkkyZmlDSzhLRjEwdGJBT21ZQml5dGJ2aUxjcEthT1VGTjA2aEFhWkVrUTAwN0E?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-14T06:04:02+00:00",
+   "fetched": "2026-10-14T06:39:40.575134+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "aa14806394cc26ae",
+   "title": "Student visa crackdown puts international students and families in limbo - Independent Australia",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeW1LaTdUaTFkNkluRjAtNHk1dmRPVDhqOGFaVUxxQmIwakFJTWk5VVZlaW1oS2U2WmpLeUpFWjZDWlhlSGd0bnBZTk14VUExMkN3SWZnMU9tV1NVQ2FrRERLdGZLT0s0X3I1LXhuY3dRMzAyZTR3ZXhQOG5LTkJOel95MVRUSHpsdGh6T0JiSDZSM1NwNmZFYUhWQW9waHlxYzNnc0FnbmYyTW85ZE9VemRBUldEV1dDOWwxTkNISFUyVzFfNFNCb0s1enprQ3Vnc21j?oc=5",
+   "summary": "",
+   "publisher": "Independent Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-14T06:00:00+00:00",
+   "fetched": "2026-10-14T06:39:40.575134+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "206ac5f85acb15af",
+   "title": "Business Immigration System Traps Start-Up Entrepreneurs - Asian Pacific Post",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFZDTHc2VUJrVmVTb2IyWUxyWXA1YndZbVVlRU5ielpndHdBaTJSUWxrUk01Y2QwamJFVVJfZmlnVk1BRUg5N01aR2t5QmlOSDFYVlBuZE13TVJUb01najk1VkRHMHU3Ui1uZjhXNVEtYkJkVDI2TE9xQmhTbDR4ZHZfbXBQMjl1ZzFaSFpPLVZYOFFrZGN2OUZIRnJPQmRuc2dv?oc=5",
+   "summary": "",
+   "publisher": "Asian Pacific Post",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-startup",
+   "published": "2026-10-14T05:39:19+00:00",
+   "fetched": "2026-10-14T06:39:40.575134+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "267729c1d63b4c24",
    "title": "How Long Does an LMIA Processing Times Take in 2026 for Each Stream? - ImmigCanada Immigration Consulting Services",
@@ -2230,6 +2289,24 @@
    "source": "au-skilled",
    "published": "2026-10-12T16:30:00+00:00",
    "fetched": "2026-10-12T17:16:03.084144+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a86b471df87b2594",
+   "title": "TrustEd framework and consistent visa process should enhance Ireland’s position - The PIE News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUthS01ndXB1aXJ6aU1FN2U5VkotTkVUOXJ1a1NOaEZGamhGb1J1Z1VRSjB1NjhCNWxSZnNfeEI1czRQaGVQWFV0N290MXQ0Z3lTeXI3V08waDdFckhsMFdWblc2NW5TREVuWG1wZFl5S1I3SmxsMFhGbFhsUGxMcW16Rmp0Zmh1UUhZMS1NdWc4T25PcnNrTlo0LWZxMWQzX1dmNw?oc=5",
+   "summary": "",
+   "publisher": "The PIE News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-12T15:39:25+00:00",
+   "fetched": "2026-10-14T06:39:40.575134+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
@@ -37743,6 +37820,26 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "608aacc5e1ff0782",
+   "title": "Federal judge delays four-year student visa cap in case brought by 8 plaintiffs, including GLO - Brown Daily Herald",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRFVuUVY5bTh6Sy1tdnNRc1Q5XzZNY0dnY0Q0bUo1RDkyc0FEX2NzdHZyZHZQZmhpbjlpTUlFei01NmxlcVRFX25oUEJpZ1ZKVkxKMXNqNkVfOXRZdndPRk5MbkU2REdLN0pacVFrYk83NFdQdXRFMEtzeTlnaGJDX0lpNDF1OUFzeDhDbTgtb29pTTlfbXFvLVRGdC1tMEM3OGs3RUFucDNSRmRLYmIwVFgyaUM4eUZiMVVXbHFHcWVqZjY2VkVrR2k1QnRjbzctN0hHWDdxQXhCZWs?oc=5",
+   "summary": "",
+   "publisher": "Brown Daily Herald",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-14T07:00:00+00:00",
+   "fetched": "2026-10-14T06:39:40.575134+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "eba521cba3efb57f",
