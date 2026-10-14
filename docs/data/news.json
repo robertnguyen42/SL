@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T23:26:15.483382+00:00",
+ "updated": "2026-10-14T23:52:42.478301+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 19
   },
   {
    "id": "eu-gov",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -226,13 +226,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "45c3bb8bf62991de",
+   "title": "H-1B alert: USCIS new proposal to make visa renewal riskier for workers - know how Indian professionals will be affected | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNeER4aHI5X196eF8zdWYyR29oR0tlYzQtdjNKRWF2cEQ0aEFkRXY1dzk0VXBhWVpoeDhuRWFuRWoxYUFHc0huQWtKRU5jTVd0Wmh2eFRuT3JUbTRPTUs0WFlUQVZIRC1ya0ItQ2dYeFpueHowN3RUaFV3S09kVGh4bXo3enFEdE1GeWtCTFhwR1A5dFNDaU9PZDVsR3l1Mk1ra1FuVE82SzNxOG56anNsWnd6RzlfX1VkU011bDRpM0tYMlBEX1k5T0Vhd2MtTWlNNGE0LXBnY3JSLXJKdFZoMXFSaEc1UDZUZTV0TUtkSmxHMTduYXpDMlJTd0UxbWdOLXRfcmZFOVAtd3Z2LTRDV01jd3Q4d9IBmwJBVV95cUxNM2p5QWd1MHQ1SjZNX3hYR21JbFJscVVVbnowT1c2OGxMcndCckgzTlBEc0IyeDdVV3RsdWtBbTV5ZkR1QXYxejhnMXE0NGJINUFVUDVreG0wdjVQOC1pYXFmamx2dmdiT2pYX3hWUDVHM2NEYnprR2FZY1FBMFlnZmI2dHR1YU5WcTFHMFpvTmlFOGM4VzZCZzlCWlBpWVRyWkh3dklKQWQ0U1ZFLVRMNWVXQk5XUE5MSEJvbVIyRkw4emlBYlg2TTQ1UWlQaE15NGE1Wm9SeW9nM0F6eFlkRVJnYV9uODBmVmdKVTE0SmZFSW03Rmp2MkZSZEstQUQ1eW5md2FDUmVZdVg2MmJ2ZF9lbmFuRGxSM1RF?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-14T23:28:21+00:00",
+   "fetched": "2026-10-14T23:52:42.478301+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "96e9c5e027807764",
    "title": "UAE Golden Visa nominations and Amazon incentives announced for Kris Fade, Noor Stars and other creators - Arabian Business",
@@ -3446,6 +3466,24 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "d607fbf694839777",
+   "title": "Mỹ tạm dừng phỏng vấn thị thực trên toàn cầu - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDlqM09EcEhJcGJzUUxZbUxYY3VMUXZ5ZExxZXNnRXJYZ0dDR1NWdHgtb1pzMHFHT2xFX3lFU1U2RUF0Uk5FNnZ6ZGJLU00wQ2dEcjBvdzNQVVdCeUJHc3R3ZF9XMDRTTWw0RnlVT19ZZjBpM0VtQlk1UWhadXVVRDJTSGJZUE5jOHZHcHpSajYxM2NN?oc=5",
+   "summary": "",
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-12T19:22:18+00:00",
+   "fetched": "2026-10-14T23:52:42.478301+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "9956c6d4a78d02ee",
@@ -25043,6 +25081,24 @@
    "score": 0.0
   },
   {
+   "id": "6839e52aeef49822",
+   "title": "Diversity Visas: U.S. Sets Final Cutoff for South America and the Caribbean at 4,750 Ahead of September 30th - inkl",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1ZYcVJLSXNzQmpaaTRocEJZRjEwX1JPY0VRd1JmZnFoZ2kwNUQ3M2pneDNjd2s0U3psQVNtLS03Vmg3bEJGcnh6dGR3Tlo0bUNJam1RTTZsbmlwbFk3MlRMUms3d0RVWlRUb01vSk5ibU1tRXpZOEVhZkp1MWxkMEZYcXhneXlZTE4tYmF1Z0RMMzEtN25mQl9UR2FhejFwTS0zbHNKc3RYUzZiNEt3M20xV1dHbjhzSFFQZmJrR3BxT1VLakhFOVZWRVo?oc=5",
+   "summary": "",
+   "publisher": "inkl",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-29T07:00:00+00:00",
+   "fetched": "2026-10-14T23:52:42.478301+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "54196663e8d0fcef",
    "title": "New Zealand family visa application to move to enhanced online system from November 16 - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1ByWjh2bkdVbHBXekJISHRoaEQ2NllBRmlMREV3WWljNkx2OWc4TUtMZmRiNWk5N1hHMWZkaWtMWEtCelA5NmJMNW5BejQwajlVSDlnb3NRQUp2MlZNWjN1Y0dwOVVFNmVJczRWNUtUVG1ZckNOcnQ4eXFicjQ3SFdNRS1FNXVBQ2Q5ZjZ4UjFUckpUQldnRkNDWk5ULTkySVJ5eE5TQVo3UnFFbEd6cDRaS2RNVE1jVHE0V2RYZTNnWXEtYmpOYU1JMVNtcjlvTFcxU1dxUU56d3dDTGxpWDdFRnPSAeoBQVVfeXFMTzA1MjllcU5IX3JaR0R6WDNHX0h4UHlUdTZqemRUdy13MG93cG9BYUxHTHZlMTFFTDFiNW44MXRYZjI2RWRMbmltRjItTjl1OFJKSzhUUkxFOGY4aVp2czdkVU5IWUdvWmNVbjNvRzhXMzRYdFR4LTZfY0xCUkQxR2xzQ1p4YlNJYVJiV0oxX1NQNlR2YkZqWWtPRWZKV21HbFZQbTRLOGlKM25EdUx5bU9xa01HSjBWMmlEQXgzQlB0ZHFfQ1hrdHlpWUkwOVAxenU5OVVPWmdRcjVXaU9iMV9FYVNNYmdKWWJn?oc=5",
@@ -36397,6 +36453,26 @@
    "fetched": "2026-10-14T21:32:50.972079+00:00",
    "visas": [
     "partner"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5043156fddbcc3a9",
+   "title": "Photos: Immigrants sworn in as U.S. citizens at naturalization ceremony - The Quad-City Times",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVjZPdUQ2QXVyOWdLWjQwUU5majh4aFNkYXdhWXRQM2U4bmFxTnhtUmRjNEZsbU1famhySTVYclFxek5RUkJOQW1ISXhKa1pHRU5VMWNWMTVZaGpjVk8tQ0VfYmloT0tBTUdHZWhlNEk3ZlJpdUY4MjVZSk1XVFRCMzgzNA?oc=5",
+   "summary": "",
+   "publisher": "The Quad-City Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-14T23:52:42.478301+00:00",
+   "visas": [
+    "citizenship"
    ],
    "lang": "en",
    "policy": false,
