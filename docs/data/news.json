@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T00:32:23.458161+00:00",
+ "updated": "2026-10-14T01:28:55.103422+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -111,14 +111,14 @@
   {
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-en",
    "name": "Google News – Australia Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-gov",
@@ -129,14 +129,14 @@
   {
    "id": "us-vi",
    "name": "Google News – Định cư Mỹ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-en",
    "name": "Google News – US Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-gov",
@@ -147,8 +147,8 @@
   {
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 13
   },
   {
    "id": "eu-gov",
@@ -165,287 +165,343 @@
   {
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-gov",
    "name": "Immigration New Zealand",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 30
   },
   {
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 5
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-student",
    "name": "Google News – Úc – 500 · Du học",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 9
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 11
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 13
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 12
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-eb-work",
    "name": "Google News – Mỹ – EB-1 / EB-2 / EB-3 · Định cư diện việc làm",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-h1b",
    "name": "Google News – Mỹ – H-1B · Lao động chuyên môn",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 6
   },
   {
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 29
   },
   {
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-green-card",
    "name": "Google News – Mỹ – Thẻ xanh – Điều chỉnh tình trạng",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-express-entry",
    "name": "Google News – Canada – Express Entry · Tay nghề liên bang",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-work",
    "name": "Google News – Canada – Work Permit · Lao động",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 22
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 12
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 19
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 12
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 12
   },
   {
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 3
   },
   {
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 27
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 11
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   }
  ],
  "items": [
+  {
+   "id": "5023ff6093aaa0c0",
+   "title": "US to increase EB-5 investor visa fees from November 30 - Caribbean National Weekly",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWdndTBFdEpjM3lQUXBGYnVsc3lFT1o5Mm56MzJFOWYtTjVkcEt1OXZKcENMYTVEc2V0TmV5WEdHT3IySTZ5YVBzNDdBb0tMRDlJeWdLLWRHUy1BaU1tTDZaX0pRM213cmJRX2VOQjlOVnJtMmFzZFFhNElMVVNSWEd5WDdDaXBGSjM1OW9uM2pNQTlHbFdZZ2RjWjROZnNqcFhV?oc=5",
+   "summary": "",
+   "publisher": "Caribbean National Weekly",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-14T00:35:15+00:00",
+   "fetched": "2026-10-14T01:28:55.103422+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "23a4ffab1db7c513",
+   "title": "USCIS to increase certain immigration fees from October 16 - Caribbean National Weekly",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHhLT0tfZVkzZWNFTVdWRl9zb0pCTGg2c0l3aTJOS3RYbVBOU2tIRkNnZE9HUTFfM013RnJyYUVTcGZMb2M2d2ozVnl0Vk50RHNJMjlHX2tMcDU0RWQ5Y3dXRVZXZjNvX1ZieHVYVHdHSTFTQ1dzWksyd2tqQVA2V2ZSd1BNY2x4SjJFcVZCeXFfQVRRWEtzLXdQWkJFMG9SZ3Jxd2QzZw?oc=5",
+   "summary": "",
+   "publisher": "Caribbean National Weekly",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-14T00:35:13+00:00",
+   "fetched": "2026-10-14T01:28:55.103422+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "b06cbfa281402a29",
+   "title": "Australia's Proposed Migration Reforms Could Create New Opportunities for Skilled Indian Professionals - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdGtLRmh5b2xLOGwwQjlrVHFDOTRWZEtMWjJBRk5SaF9SMi1qc2Z2aHJSZ29IckMzWnhJM1hEVGc2VDdnRXEtbUZlZFdDUGVTZkplWGwtLXlFcEhweGt2cGNJbHZ1dlBvbWdST2hlWnBvUHFaeFFkUHhSOXNranE2dEQ5MVhQb1lRVXA0aEMxTTdsWFR2M3J6UVp6UmRZNG9jZE1tVTBBLXo1eENpOXpweV9xUk1vZ3BnN2s5X2p0WmVrS0pjeW5JUnVSRHdaYXRDWS1lV3dvRTBjdV9y?oc=5",
+   "summary": "",
+   "publisher": "EIN News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-14T00:00:00+00:00",
+   "fetched": "2026-10-14T01:28:55.103422+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "85c503ce5f91bbd8",
    "title": "'A psychological nightmare': Why NZ declined transit visa for woman stranded in Cook Islands - RNZ",
@@ -614,6 +670,26 @@
    "published": "2026-10-13T19:23:02+00:00",
    "fetched": "2026-10-13T19:33:02.775524+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "9adfceb8be80827e",
+   "title": "JRS/USA Statement on New USCIS Interim Final Rule Relating to Refugee Status Termination - Jesuit Refugee Service USA",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUzlKYV9pc1hpMFo0RHc3UkZxempRTFJxS05jTjlwOXphM2Zla1RxYlR3aDY3OTF5RTVUbElsdHFvbzYxUDdPbzNQLXNEQklHTEtSZVFzeUZTY0dBZTZ2STZvSDlsMnlOQXlEQWhhMjM2R3lXZGMtbDZLdk4wMDNibWxsV2lLTnc5eTUwMHhldDB4WHoyZ0E0WEZrdHU?oc=5",
+   "summary": "",
+   "publisher": "Jesuit Refugee Service USA",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T19:15:26+00:00",
+   "fetched": "2026-10-14T01:28:55.103422+00:00",
+   "visas": [
+    "asylum"
+   ],
    "lang": "en",
    "policy": true,
    "direction": null,
@@ -32197,6 +32273,24 @@
    "score": 2.5
   },
   {
+   "id": "77bb0a0767c57462",
+   "title": "Industry associations hit out at migration reforms - The Shout",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkxzXzI2UTFJWmluVERsMlFWVEFPeWwxZXFSLTUxb0p0VWxvaU5YQVd1RWphbnpMRWZOZWExY3E1aF9CMFc0TjNmdUZiZkFVUER4VE1PZVQ4ZnltTlh0SjJaVUs2dmdwSmRMUENMOTNFRkZGajBNUUFBVFdGWmFrelB0NUd1dUFVVVd3czBjU1ZxMFZkUER5RzY1WQ?oc=5",
+   "summary": "",
+   "publisher": "The Shout",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-14T01:28:55.103422+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "2a2363c327069fd8",
    "title": "PNP Diaspora Region Elects Inaugural Leadership, Expands Overseas Voice - South Florida Caribbean News",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGs2QUJoRHd3Rnd3Sko1Ym00bXd0ZDU0bmZJakVMTlZwRmktV3p6TmlRcmlVWE9LTVMzaU5uU3BLTFV0ZUhnMENBYlBLRS1tNGdmQjAtU1hDVWZtNG5MZFpXVUxHVm1ONUtUcno2OVNfVmFtdFRiejBaTkdieVN4TnRnb0xES2dpTlRHRmNiYk00LVnSAZgBQVVfeXFMTlpBcmJOU0ZENGtVMnNKRDRESkRNWWcyamhDWmNwck42b0c3OF9PWENsVUNYZTdZY0pHYklWS2hOb3JyZUYyREt1dC15RkFqRS1HVUx4X0VjOWVsMXJhc3phZUZzNzRmOXZMMWVmaEpMMmNvSzN2czY3S2IyV0lscGVyZTZzNjlEOFVYenRMcUFGc0dZNmRlRlc?oc=5",
@@ -36502,6 +36596,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "8f27fbf364bd01c4",
+   "title": "Business Traveller: Six Months in, the EU’s Entry/Exit System Isn’t Working - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0dIY2tRX3oxSTNPZDdrOUxxcFFBMzVBSlZ0YTR1OFJMZl9qZU5rNy1OTDVCZ2F0Rm9nMmpyaEZzVnpkVFRiVnFsck5ibElHY3dROUdVV05BNHJtV0RIWnVpcWNQRFVqQ2JoM3BSdWZWTUdXbkYybkNSNi15dzg5d0xlWmN2cXkyRjdfS3ZqNkxjNzJPVXJabGp4bG5ydVpQcDBEZzZnb0VuTmgxNHc?oc=5",
+   "summary": "",
+   "publisher": "Fragomen",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-15T07:00:00+00:00",
+   "fetched": "2026-10-14T01:28:55.103422+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c9bbe165fb97e3ad",
