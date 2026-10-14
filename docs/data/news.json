@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T11:59:50.220124+00:00",
+ "updated": "2026-10-14T12:41:06.137774+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-investor",
@@ -226,13 +226,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-work",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,45 @@
   }
  ],
  "items": [
+  {
+   "id": "f7586716ed94169a",
+   "title": "\"More than 90 days\": Germany opens online route for long-stay visas - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmszQnNjYmlnRUxuZEpGTFpfMEswZkRQZHpVeUJTcHdQSVYzbkVYdVFpWDRJQmVuWkp0azRnNkdtNjJIbUVwSm44OEhoZi1VaFMtQW1OUS1GbXZKRVNjOXdiN1Y3dWI3WFg0NmJfb0VrNllFbFFjU1NRMHlSdWdCSk5ET0ZvVVhHazkxZ3Nka3V3SGtacTY3VldYdmJEVEJhWG1xZjZn?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-14T12:06:20+00:00",
+   "fetched": "2026-10-14T12:41:06.137774+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b4da1e4eef0a21b9",
+   "title": "LCR Capital Partners Announces First Conditional Green Card Approval for All Points North EB-5 Investor - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSUQtUDdXMjF1SFZrMWZjdWJSVDRYWENBeWlVTDFrUXUzZUxqTXJiaTN5QS0xek1UdXBqRUpXak5IVGtudW1JWjBSZGRybnNSSjUzYmlzWkNOVkwtNUxzUXAyX2FrZXZwU0hHV3VtdVdpME5sQVQ5UzBVNE9VOVpCWm5lSFotaDZOV2Q0X2xlei1iTVc1WjR2QkJ0WXdrc0JUWTMwVmJ3VkFmVC1KcklIZjhoYmd0aURhNXhDbl93dFRTYkxqN2JMOU1FWWxiOFR1eUNhYzYwWlhfRVl6OXc?oc=5",
+   "summary": "",
+   "publisher": "EIN News",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-14T12:00:00+00:00",
+   "fetched": "2026-10-14T12:41:06.137774+00:00",
+   "visas": [
+    "eb5",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "18f319181e7a049c",
    "title": "Five Gulf States Are “Very Close” to Starting the Schengen Visa Waiver Process, GCC Chief Says - IMI Daily",
@@ -485,6 +524,24 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "c199b432957faeb2",
+   "title": "Canada trục xuất cựu binh Trung Quốc bị cáo buộc phạm tội ác chiến tranh tại Việt Nam - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aakRnVllWQnh4MmRIU21IaEJrZTVXU09iQU9DZ2l0U2RfelN3TTJQa1JTT2FtUEJaUE1rbEhMeWl1OEMzbFNCQW5kcUhoeEhTNDR2ZjVmTURQT3ZZNDdxa1BmOUloUHNL0gFoQVVfeXFMTVpqRGdWWVZCeHgyZEhTbUhoQmtlNVdTT2JBT0NnaXRTZF96U3dNMlBrUlNPYW1QQlpQTWtsSEx5aXU4QzNsU0JBbmRxSGh4SFM0NHZmNWZNRFBPdlk0N3FrUGY5SWhQc0s?oc=5",
+   "summary": "",
+   "publisher": "BBC",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-14T10:47:51+00:00",
+   "fetched": "2026-10-14T12:41:06.137774+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "1869c77688837703",
@@ -812,6 +869,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "8a905f701b773798",
+   "title": "IRCC Invites 752 Candidates in Latest PNP Based Express Entry Draw - cic times",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUt4dVRVUkd1YTdZWGFLYldiVFBxaEVNUzl0Z05ENjBzUlpiNElvYzBBUVEtVXd6b2c0WVJPV05qTy01b3dCZWRzX01ydlFuVmYyMWZFaFJmektnUmhjVW5ISVo0Q2ZhQWRiSnNZam91TW1XWndKT0FtTnNjOWdzZ0JNc204amtfU015bG5aV0htN2g1dFE?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-14T01:49:00+00:00",
+   "fetched": "2026-10-14T12:41:06.137774+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "5023ff6093aaa0c0",
@@ -37643,6 +37721,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "be5bbbc9a22591f5",
+   "title": "EU Blue Card: Germany opens jobs - Pakistan Connect",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Vb3htUU9SVzVEWDAwYXBCQktsb0RCY0hWc1VXWFZqX0xTbXJnOGkwTnZ2anJBVFp4M3VDbFJOQ0JxLWNHTUhyZEtDUUZGRV8wdW5Ta3FxU3lUdThCZzE5SW1nNUxudjJYR3RV?oc=5",
+   "summary": "",
+   "publisher": "Pakistan Connect",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-blue-card",
+   "published": "2026-09-14T13:18:40+00:00",
+   "fetched": "2026-10-14T12:41:06.137774+00:00",
+   "visas": [
+    "blue-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "3b6595c0fcaa700c",
