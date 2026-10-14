@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T20:01:25.108442+00:00",
+ "updated": "2026-10-14T20:59:48.913623+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 17
+   "count": 19
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-en",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-visa-bulletin",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "eu-student",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 25
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -446,6 +446,62 @@
   }
  ],
  "items": [
+  {
+   "id": "372c6c7b6a2a64c5",
+   "title": "Bangladesh student visa refusals hit 70% amid fraud fears - B2B News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1FGY0dlQ1VlT1ozSTBRYVFHWXI4TXdEYno4ajFqTERxckFjSEdLenZYSWw5V0E3NGFDQzc4aHE0Qzc0V0U5SDBHZFJZeWUyZ3lBMzBMcFIzemVwNk5QeEtrOHpZNmN2OEZ1a0JRT3JYVFZ4NUVYZ2JXcXdYR0pEZGtoX3BEQUZ0MlZ6bm1NbFppNkNEMW1r?oc=5",
+   "summary": "",
+   "publisher": "B2B News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-14T20:39:51+00:00",
+   "fetched": "2026-10-14T20:59:48.913623+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5f2d41e91408ea14",
+   "title": "New Zealand Simplifies RSE Accommodation Standards - Erickson Immigration Group",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lOWhqeGg2T3FiclRFRnE5M29MRDZOT2JXLXN3X0lLZFU1a1VJbm9oVUxUUmgtS3R6LW1XMF9XMTdjV3BSd3pZOGtmbnZIS1lMTnZKdGpXcUdPLVNkeU9UMmhoMUw1RDd0ZjB3MHhpZU50a2NtNThMMzh3?oc=5",
+   "summary": "",
+   "publisher": "Erickson Immigration Group",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-14T20:21:34+00:00",
+   "fetched": "2026-10-14T20:59:48.913623+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "1204883ca22d6f51",
+   "title": "Joni Mitchell, từng chửi Trump, nhập quốc tịch sau hơn 60 năm ở Mỹ - Nguoi Viet Online",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWW44NHZpTTNRSlZ5NGZESnB0OW4zQnpHaTN3ZTVha3dBVEtQeElfaWV3YWtWc2tNV205WGRxWnVfNmVJSDdOVnpNUTBmWG5qcFFqc2RKYU9oc1pKdl91NzdMNWJubHBnZENrdktHcTVmaERva0Rsc21SZEdWWnVEc2lRVW52b3NjcW95c1FPSUhSWENqMFp0M0ZoVkktUGNrUjlj?oc=5",
+   "summary": "",
+   "publisher": "Nguoi Viet Online",
+   "country": "US",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-14T19:54:00+00:00",
+   "fetched": "2026-10-14T20:59:48.913623+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
   {
    "id": "86a6a99c97b36374",
    "title": "International migration: August 2026 - Stats NZ",
@@ -21234,6 +21290,26 @@
    "score": 0.0
   },
   {
+   "id": "721c0bb179aeb0d0",
+   "title": "US Revokes More Than 250,000 Visas Under Trump; EB-2 for Indians Resumes With 2013 Cutoff - Dainik Jagran MP CG",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzI3LV9xd1IzeFBhaVBiTjdmUEg0bXdCWENDSTBsckhDQzJFOFRiWHRVTXpUQllacF9xdjlmeXJjWXU2NlV1MWs5QUpxUHR2THVTQlNoUUxLc2tqYk5wYnpsd2k1WjllVHdhTDY2ZFYzbmgyYVV6TU1aQklnR1NWVXBfMzgxd2tQYzF3aWJ6SGtlNmFweURzMTQ4SkFHVm1RN01rc2syemVuNFJueXFhX2VCTkVmR1p5TVcw?oc=5",
+   "summary": "",
+   "publisher": "Dainik Jagran MP CG",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-01T06:53:10+00:00",
+   "fetched": "2026-10-14T20:59:48.913623+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "1fccfb2ef11b7b74",
    "title": "US Visa Bulletin October 2026: Some Indians get green card relief as new US fiscal year begins, but many r - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaFp3QTJSTEF5X3VIVy1hWW5uRDVLVXZ6UnE4MGNZdnVwNTJmUG0yYWlGSkxGNjRaaXNObkZfbjMyb3U3OFBQcWZMdkEtbGh3VzlqUzdPU2lPREhBSEFpaHpkMUpmSW5hdnZjNjhHYUlSYVVDd3JTV3A5S2pWYW55bVZ4ODc2WVlHZEJxRk1DWEJXUXdhSFFJSXprMG1ZdE9iMTcyaHJaYlJmRVJsQjZpMzlYYXNNOVBzZXVOdVVoWk12RHIyUG43R2JJYldvMDZZZk9MOG9jZEdsYWxSaXNPM0o0Z0FIZjRlMXF1Z0NHUDNFbHhnTGZZSkRJVzQwZTMyWkVydjB5WFY2SVlGeWfSAZMCQVVfeXFMTkFqZVRiaU8wN1RKSHZmWkJkNzFRX3dydm9qZXJjNkdYYi1YNEhDMU9CQ2RFaTV6a0FmaldkTXdjQkZremJJS05iX1NFRVRLM0hZM0M4S1ZEbENjS1hrZFAzOEVlWUJoOHIweWhEcmtxeHp2bTYzb3NrVDZiUXRfVm03QVlQNDBQNExYX3dsRUJiM2xiNEpuN09YS3hEZTZsR1lTWm1KWU9Oc0JaU25oZUF6ZEZ2OHprZU1CTlhHM3VaZ0xjMDhyTUFCOUlIYnFSNlpNSENtb05ucmlxb0F6Qk4yaHFVTGNqVGR3THdoel9Ya0tudjc0WkpBSzNQN1RTbDVDb0VuOGRTOGxRNFVsdTZmbnc?oc=5",
@@ -31514,6 +31590,24 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "8da2df80fcddec96",
+   "title": "Alberto Núñez Feijóo returns to Ceuta amidst reports of another attempt at massive entry of immigrants - Diari ARA",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU1FDblFzUlhaZU02aDdCVl8wWHFtUlFGVjFxWTBmM2ltZ2tRa3NxSGUxWTNoU2d3OHRaN1llZWhyN1REeTRjRlJsUnpGNXQwSDQ1LUJiNUhmakRycExia1hMT2RGNEg3QVJidEpPNE9QZy1iVUlSWm9McVd4SkdMMDhJWjdrUDdVN3RLSWpVcFRZYTdNR0MxSjFfUUVrVGl3YzQ1SEhKamJISFZnMS1SRm95YV8yalZPckViRg?oc=5",
+   "summary": "",
+   "publisher": "Diari ARA",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-14T20:59:48.913623+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "0e934541d688a23c",
