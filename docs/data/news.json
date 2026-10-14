@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T01:28:55.103422+00:00",
+ "updated": "2026-10-14T02:01:39.558141+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -430,13 +430,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -789,6 +789,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "b098d51e37dedafc",
+   "title": "DHS Finalizes End of Automatic EAD Extensions for Renewal Applicants - Erickson Immigration Group",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0puNFlLaHBEeWhaUmFEWUI1NE5MTFM5RGhZTzdBTnc3eWloY1RnUEpYZTdnZkItUi1yUVE1bElOWjZpR0RuVi0zcXB3TmNiTUZJUjFNS3VvcUZiQmRjYnBidmEyeXMxMjB0a3BNUjk5TFlZRDh3X05CQUFxNE5VZTUzNFFZSVNuSVUwb0ZhUjF2QQ?oc=5",
+   "summary": "",
+   "publisher": "Erickson Immigration Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T17:25:53+00:00",
+   "fetched": "2026-10-14T02:01:39.558141+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "f14614b121c2fc9b",
