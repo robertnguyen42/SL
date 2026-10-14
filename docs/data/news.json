@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T05:02:31.578526+00:00",
+ "updated": "2026-10-14T05:59:00.698315+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 13
   },
   {
    "id": "ca-pr-citizenship",
@@ -2394,6 +2394,24 @@
    "score": 0.0
   },
   {
+   "id": "a416a5c497cf0173",
+   "title": "Nigel Farage is shrewd to keep the focus on illegal migration - The Spectator",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORW94dGhHa0luaWttY3ZIYWlfYzlMS2hmbVA3NGxETXVZWHZ1TnpIMGtxUDR0dDU4N2VibmhVS1l3TU84SXdaaTBrSTRrOHhSVXVOUHhxMVpDYWhiS3Rjd1NGY0o2N2hrcEsyME1qc3ZoVk45X1NhNG5uZ1Z6VFNzMl8tSkpRR250UWJjOHE3STNBaHNJS3Y4?oc=5",
+   "summary": "",
+   "publisher": "The Spectator",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-12T12:30:01+00:00",
+   "fetched": "2026-10-14T05:59:00.698315+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "06fd4ddc9b790569",
    "title": "3 men arrested after immigration officers raid Bradford businesses - Yahoo News UK",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWtjVlR6TGpCTmNBRXBXZE1uNVZjeFdoR3lTRkdNNVdyR2Z5Mk93NE1sRVdGNk51OHNCWEFTUUQ0dlVycUZYQ2VzbzZIZ3dHejV3d0ljdVRGRHcwVHA2cFJ5TTRrN3IzOGkwbVBmUkdxVXlZUVFnTHlhODB1ZnNEdnJzalI?oc=5",
@@ -2442,6 +2460,24 @@
    "source": "au-citizenship",
    "published": "2026-10-12T10:34:53+00:00",
    "fetched": "2026-10-12T10:49:13.854370+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "caa3e31bc3aece5f",
+   "title": "Migrants exploiting human rights laws targeted in fresh reforms - GOV.UK",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVjI2Y1EwYXo2bHQybmd1V0NSa0gyOERRem1sRGZsUkRZYjlfVmttcWhDRXNsQ2tKR3U0ZVd1RE1BUVJnT2NtYmEtd3o0c3RvOWZzVVRadFRHamRmbnlvMlktVG5GZWNyNm1TbjFudW9CUzgwbjZDZ05CMlVRNE5XY0lwbXRyNC1PU0wxakVmRDBFcG9salJFU09WWkN1ZzQ?oc=5",
+   "summary": "",
+   "publisher": "GOV.UK",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-12T09:20:00+00:00",
+   "fetched": "2026-10-14T05:59:00.698315+00:00",
    "visas": [],
    "lang": "en",
    "policy": true,
