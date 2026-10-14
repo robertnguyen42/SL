@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T07:36:41.104254+00:00",
+ "updated": "2026-10-14T08:29:02.376645+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-citizenship",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "ca-pr-citizenship",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-family",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-aewv",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "b73754162ea2c9ff",
+   "title": "Immigration Update - October 15, 2026 - Lexology",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmVudjdKSF9OYUhUWjllY2E5QzdvQXROV2pNcUdzUVI0NXZsOVp4OHVpS21iWlctZFJrRDRJRVQ4Z1Bmd2MyTjVkVGR0ODdwZWR6RzA0dDE4b2IwdTVvRU1GczF4bXNpOEVZMEdxUkx1RjRzR3JnSXZrSGtRUkN6TGxwdnJ1RVFmT3g4?oc=5",
+   "summary": "",
+   "publisher": "Lexology",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-14T07:40:58+00:00",
+   "fetched": "2026-10-14T08:29:02.376645+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "d69e76fbe04f080a",
    "title": "US Work Permit Rejections Surge as over 35,000 of Green Card Applicants Are Denied - Legit.ng",
@@ -816,6 +834,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "7d77693e60ad755b",
+   "title": "UK sets rules for live facial recognition in immigration enforcement - Biometric Update",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWlual9vX2kwX0ZEREdiWk5SaGRtbWU3X2x5cm1aVHktbGJRbzhDOFRvb2MweV85eUZuektQMFJsQTh2Vm5sM05GVWRpNkFHTk12WXkyWUZ2eEd0Mm9EV2I0cHZmSkwyNnVCRXFJOUNOd1FVZWt4ak45cjhNMWJadTllT2htQXNzTldGX2ZoZWdxY0t5dmhfWWZ1d21ZVi14Tm9BMmpYMFI2bHM?oc=5",
+   "summary": "",
+   "publisher": "Biometric Update",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-13T20:02:00+00:00",
+   "fetched": "2026-10-14T08:29:02.376645+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "4ae80f81dcb83302",
@@ -35673,6 +35709,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "59826b97c8ecb9b0",
+   "title": "Weaponising family reunion waiting times in Sweden - Malmö universitet",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mcl81UGZJeUpkLUFnaGJtWm5JMElNdTZER0Nidjc3TmkxRWUxMnpBMS1Yb2xKWXVZeUx5Z2ZQMm5YUjNIdHhMZGZxZUhrYVI2WjJlTE9qWkpPaHR2SmE5cjlYMGMwOC1zQWF1LUlKSXg2UQ?oc=5",
+   "summary": "",
+   "publisher": "Malmö universitet",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-15T09:38:09+00:00",
+   "fetched": "2026-10-14T08:29:02.376645+00:00",
+   "visas": [
+    "family"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "50a604d424459798",
