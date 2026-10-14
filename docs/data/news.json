@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T08:29:02.376645+00:00",
+ "updated": "2026-10-14T09:07:08.657018+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-investor",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-business",
@@ -447,6 +447,24 @@
  ],
  "items": [
   {
+   "id": "76e6c4a86786197b",
+   "title": "Argentina launches South America's first citizenship-by-investment program — an Argentine passport starts at $350,000 - MoneyWise.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSDhsUHRtR1FwT1VaZU4wRy05THBvM2l6YzMzd3Q1d2NwU0djX1lpWXVzbkUxSHBIcDA2QW1sMEdEVkdpcXRMSWxKUDRWZjQzaWFraUhHekVwYkJHc04yYXpNcEN0NzZlYU5JN29aMV9KYlRPTEhYQ3BtZEVoZDEzWWJPeUl2cTdpdWhqT3lEaUE?oc=5",
+   "summary": "",
+   "publisher": "MoneyWise.com",
+   "country": "US",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-14T08:30:47+00:00",
+   "fetched": "2026-10-14T09:07:08.657018+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "b73754162ea2c9ff",
    "title": "Immigration Update - October 15, 2026 - Lexology",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmVudjdKSF9OYUhUWjllY2E5QzdvQXROV2pNcUdzUVI0NXZsOVp4OHVpS21iWlctZFJrRDRJRVQ4Z1Bmd2MyTjVkVGR0ODdwZWR6RzA0dDE4b2IwdTVvRU1GczF4bXNpOEVZMEdxUkx1RjRzR3JnSXZrSGtRUkN6TGxwdnJ1RVFmT3g4?oc=5",
@@ -457,6 +475,24 @@
    "source": "us-visa-bulletin",
    "published": "2026-10-14T07:40:58+00:00",
    "fetched": "2026-10-14T08:29:02.376645+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "504d330c17bc9d9b",
+   "title": "Immigration blame game stops us confronting real issues - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHRFRGZJVms1aC1zSF9yODg4YW5qcDVvWG5aQmpRWGhiVWhIdXdQeVZnYnFERldZQmYwd19mWE5nSHhQYWVoZS1MSU12MUZEZmJhemxoS19JX3QzMUFCc3pwOXJkUVV0THVtTklfQlFRNkNhdjR0bkJXdDFVTHVDSXpsa3BEbmZUbHBlaHFaUHp0VmpJN0hFcURxOFZ1S3FiZlZraVNieTJWQldQUTI3ckZ3?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-14T07:30:00+00:00",
+   "fetched": "2026-10-14T09:07:08.657018+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
@@ -28671,6 +28707,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "058f0774faef4442",
+   "title": "Introduction of ETIAS in 2027 upcoming changes to Travel Requirements for the Schengen Area and Cyprus - Gov.pl",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yXzhLNTM0ZWlwU3RocGRWN0tBUDMwVmM1T3pldjYzQ3M1NVFyeWV0bWFNcVFGaGtscDNuQk5rMHZWdGJOa0s5ZEVxMWdyYk1SaUd5OTNMYnZ4VmZPVEFobg?oc=5",
+   "summary": "",
+   "publisher": "Gov.pl",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-14T09:07:08.657018+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b436ab5a5a925ab9",
