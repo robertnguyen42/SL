@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T03:30:44.717148+00:00",
+ "updated": "2026-10-14T04:27:31.630231+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-family",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "3f6b16ad1ed45cef",
+   "title": "Latest Express Entry Draw #448 Invited 752 Candidates with a CRS Cut-off of 772 - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uOG1jbG5leWFPYTZfRFNGcEpzWkNyOHp3VTZIWmtmYTNaM1B6c29OOG1DVHZEZ2hCdGJWVnFsNk55djd6QjhLYlZXLXBkOWhmYlg0cGJkWUgxcFEzdjRtY1BkMDc?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-14T04:22:18+00:00",
+   "fetched": "2026-10-14T04:27:31.630231+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "5023ff6093aaa0c0",
    "title": "US to increase EB-5 investor visa fees from November 30 - Caribbean National Weekly",
@@ -651,6 +671,24 @@
    "source": "us-en",
    "published": "2026-10-13T19:47:41+00:00",
    "fetched": "2026-10-13T20:26:39.293780+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "795553ef7ef43f66",
+   "title": "Trump Administration Again Proposes Elimination of Deference to Prior Approvals of Immigration Petitions - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYW1fdjdCN3pGNG5CdzVtMlhGbEg4U29lUHV2RHlmUUpLMzhqdjduTEJxcjdwRE5HbzVIeERqZFZ3aFZiQm5jMi1ER3FXZHBLYmtBUW1GTHE4S2hNMzdJTDZ2a1VlOU1wQW9hMWROaE9Bb1R0dTlPSHpNeXRYUzNKc0pnYTBzRjdsNEFWTGF0WUcyT2hLZUJqYXhGbUtDOVg5M080bG14aTNOZzRiRzFXLVRNS2tFMUV3blhOQWNSbGZwaDk0bHpxeXRSWkY5dG4zTFJtLWpyTlFlZUZ3SVd6RmhYVDVDajdQUjdhc3JR?oc=5",
+   "summary": "",
+   "publisher": "Fragomen",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-13T19:26:26+00:00",
+   "fetched": "2026-10-14T04:27:31.630231+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
@@ -1350,6 +1388,24 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "f126ead84dc81ba9",
+   "title": "Australian campaign imagines life without migrant workers - Famous Campaigns",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObmhXems1akVhQ1FmZ0RzTm5OdHBTUEtsczRnblNVeXlza2xHZk9UV2RXN0Q3S3V0SjFHQTgyVHdlRW9XcVpoQnRqd3dwck1lWWhsSEtVdzBIRkQ5SUdrOERLNC1Bcl80UEVmR29nRVpRUDd4OGpGUGlZY0ktNmpZZF9uMEZGbTZ6bTA2SGdMaVhlT3hVM3ZhX3p0d2YyQW8?oc=5",
+   "summary": "",
+   "publisher": "Famous Campaigns",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-13T12:33:13+00:00",
+   "fetched": "2026-10-14T04:27:31.630231+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e6e76aff20360b24",
@@ -4983,6 +5039,24 @@
    "source": "eu-citizenship-investment",
    "published": "2026-10-09T10:05:05+00:00",
    "fetched": "2026-10-09T12:52:05.284912+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "a3edfae11bd8e416",
+   "title": "US lists 6 parental statuses that grant citizenship at birth under new law - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTNwakowNXpuUnJrLTlXMmotbG1XRkVpZHNSamRUQkZlam0xOVdDVmVmZVY5QkJ4dHBVYXlXNXozS203SUphM3ljbWcwTnVJajM1Sy1xOTJNVG9ZQnBFTUtjQy1DVnhLbUVHdnNVNFBUYVZzVmpRbUxsRGFvcTZJT3ltSE5OakVQNnB0UXNzTUQ?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-09T10:00:43+00:00",
+   "fetched": "2026-10-14T04:27:31.630231+00:00",
    "visas": [],
    "lang": "en",
    "policy": true,
