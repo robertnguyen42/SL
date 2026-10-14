@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T02:01:39.558141+00:00",
+ "updated": "2026-10-14T02:58:27.593710+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -244,7 +244,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "us-eb-work",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "us-student",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 35
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -885,6 +885,24 @@
    "score": 0.0
   },
   {
+   "id": "88aaa9f7d5bbd6f9",
+   "title": "New Zealand mentions 5 requirements for foreigners seeking retirement visa - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXJWVFprUWRybG9QRG83R19MaVdVVEpCMERfSk9ldHhEdkJaazhwcnJBX1VCNVpJNWVLNzI0WG1XaGFrM2ZYWmdxZ0s3LXJrWDlhSDVwMFN1YU4wR081X0Vvc3p2aUhUeHRrZXF3UGxyT0xmUFBESVdldjRkNWE5ekdzeUdzWGlNQzhmVXJiWU9iaHJnZmR3N2FTM3RNUQ?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-13T16:52:05+00:00",
+   "fetched": "2026-10-14T02:58:27.593710+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "d869e02d72fc287d",
    "title": "LMIA processing times trend downward - CIC News",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMWsxbzV1d2N2N2xLeFhvS3pXbnBLTGdvREw2WlNGWFJ2Q24tTnF4Vk85QTNZRFZ3b2pabWs4YkhBZUhVb3l6Y25iZDNVVDVIaGI5dkN2SGZqMUIxdU5ERmc4c29pYmhRb2ZNaWRfMXdHRV9MaHU5ZmM5OXNveUN3cnRkdHZpUEU5Z29DZW1R0gGOAUFVX3lxTE4xazFvNXV3Y3Y3bEt4WG9LelducEtMZ29ETDZaU0ZYUnZDbi1OcXhWTzlBM1lEVndvalptazhiSEFlSFVveXpjbmJkM1VUNUhoYjl2Q3ZIZmoxQjF1TkRGZzhzb2liaFFvZk1pZF8xd0dFX0xodTlmYzk5c295Q3dydGR0dmlQRTlnb0NlbVE?oc=5",
@@ -1195,6 +1213,24 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "a19d698659d4c6e5",
+   "title": "New Zealand Announces Age Limit Foreigners Must Meet to Qualify for Retirement Visa - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcTJhb09wU0haNXdaUDZNMnNQMlJrOVpWVGpOSHRJaTFHSkkySmhvaGZJTjRfVllYVml6LV9oUVYyazRoeHFwZEk3OFM2TVdMQlk4dTJhVEFqM1ZOZ1FSeDU2SDNzYUVJazRuVEU1YmNlN0gzZW15MXkzYkwyZzdyYzJRYXFtWTdrdDd2TnJPOEZ5LUFOc0kyckloSjUtMlBTVHc?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-13T14:18:25+00:00",
+   "fetched": "2026-10-14T02:58:27.593710+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "852088ed04e7c30f",
@@ -17951,6 +17987,44 @@
    "score": 0.0
   },
   {
+   "id": "7b26856fd51d8a64",
+   "title": "New SBS podcast 'How Australia Works' helps migrants to navigate Australia’s democracy - Mediaweek",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNElDeG9idFVubzFUSEJ6X0wwQzVmVVMwRDNWUm1DQ0ZGQkpZSzFiMHh5WUJXTkdGREhsOGJEblhqdmVCSXdZbkpHUnR5Q1hVeG5ZbXZldTBtNFRMcTJfU096dkhPVFdnMGszTEoxMk9KdXhYRng4MnpvQXZ5aUdxOVNfdlVvSFpFT3BwUUQ0N1EyOUQyejJiamcweHpSZ29QSk02bTlUYmE4akZqVl9VMzVWSQ?oc=5",
+   "summary": "",
+   "publisher": "Mediaweek",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-02T07:00:00+00:00",
+   "fetched": "2026-10-14T02:58:27.593710+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "705987bad02cbdeb",
+   "title": "US immigration changes in October: What Indian Green Card applicants should know as new fiscal year begins | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNVdsak1vejZicUFUNFlaSlNNWkc0Z1ozZmxheWNGN3RhZEowM3dqMi1ILWFIS3l5ckUteVZ6UUJUYkRCYWNIMlk3bm5vY1RLVXRRSndVUktIV1VmX1lvT0RyeHFXcXhYMTJjNTlKWFFnb1BRZGhIVzZoSFNfNDhQbWFlQ3Q0QjFZSks2OXB2Ul9JUWVhbEtNMjI5bzRXZFIwdi1DZGE2Mzlqa3pwUmNzTWFMRVF4eWVweFZDbDB3ZmthN29yWlBxRS1aLWdrZm1keEpfWWRBeE50ZkhPdEFUY2x0U2Z3ZC10VUJIcTR5b19TNjTSAfgBQVVfeXFMTURYakEtdzVlUS1FY2tQQUFsb1B1d0VfWkR1aHk4aklpRXlBVGVBMGVfdTlGUW5aUy1jdHhCOWE5ZUc2M2pDNEFQNC1scWh0ZHk1dlE3dFBYZ01jb3RlUVhHNzF1ODF0MGx4akx6WEpCYUlPcUlTQmdvYVBMUjF1b2h2MXRvbG9tZHNFVWgtRGdHRmR4M3RXc0lsM2p0blVyQ2gyS21OQ0Q4d1hrNjdJOWRIbzBNNzNFREVXLXdmZXNZZDFNVjVVZUhZMG1INEFyMTFpbkpFT2hkekdrM0dJcHZ5Qmd1b05HOTNQTTlzYm5mYXRzTUhONGg?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-02T07:00:00+00:00",
+   "fetched": "2026-10-14T02:58:27.593710+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "12fec60a071c0c81",
    "title": "New Zealand Revises Age Rules for Partner Visas, Lists 9 Affected Categories - GistReel",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREpSNW1lWG1vQm9sUG5yUjFPUGt3Tkx2VHhFUW05SU0xejZiRUJiWlpBWHllX2IyYllhanpKOHh2YlA5MlRybk1WZ2tLdm5TcVNDRUhwLWtwZjlyeThRaWx1dDV2WDF6dXNuT3M2Z1pqVUxDaDUtYjlLSEhUajZxR0RIQWhTemp2SE1TYjZsQlEtMjNvc2lMX1k3dmFCUmh5ckRZ?oc=5",
@@ -22182,6 +22256,26 @@
    "score": 4.0
   },
   {
+   "id": "632d4442a3fa8725",
+   "title": "USCIS raises EB-5 program fees to fund processing and anti-fraud oversight - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFozVzdQOVhlc3UwWFVoX2VnZGZEakY3WWtSSlhTeHd0d3ZIazhaWmxELWwtdFEzemdGVmF2dDF4RjE4UGtfSVkzUm1sQ1J0QWxzelpGNmtHNXRyN25yX3pMbjJTNmVkTDhxMU9YQmpkZFFTZkJldzJQbjBvNWliSDlIa29BNlZnTE9ESnRkSQ?oc=5",
+   "summary": "",
+   "publisher": "Traders Union",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-09-29T16:19:32+00:00",
+   "fetched": "2026-10-14T02:58:27.593710+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "6ac1fc068c7a1ba9",
    "title": "Green Card Update: Application Fees More Than Double for Investors - Newsweek",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTlTYWpOekIzYlpnWG5ZSnFyOW9sYm9sLUlOMUxjNmVUOWtGWElFWlkyX0c4LU8xaHd1MF9MajhZM2tCQWliZnhXUmhoUk53dnpublpuWUNDNnR3QmxqelhpcFBKb21sUkFQcl8zNnpiV0kwSmpfRkxlQ3c4aWtiTlFveXc1VENmVDZfeDlpcDJCNG41NWxKTXJ0Ymp2V04t?oc=5",
@@ -26258,6 +26352,24 @@
    "visas": [
     "residence"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "88d164033cddbbd9",
+   "title": "US urges public to report immigration fraud: What NRIs should know about new ‘Protect America Together’ push | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ3JoWmdrT3ctWWlEU0ZRcFBWcnczal9pZkZiU1VVQ1gxOUZydFRCYU9EeF9LYXBLTVBrd0RvMTdsLVpyTGNzaUJ4ak04Z3JqM2tKLTRSS3NTYnFyY2dUSFFUeGlKVW5Dd3FTQlhvV05PSGZTdjdpUW9LczdBN1diaU1fMUI5VzFTYlBaclVOUl9Id2JMejRjTDBlQjVoaXJWWkNNTm5iWkdHX2R1WWFqRXJMNklzR192NDFCZElSdDJ2VXdPell4aExiMFgxRUU5ejc2Tm9makNNeDkzMTRtb3djbUVpamZhSm9KNlZ1VDVURGJGYUlxc0tJWjBIRW_SAYQCQVVfeXFMTTJoSXFLMUhRcTZELTd3cmlIRjdlbHR6a2R6NC16Zkk2MzdoU1NJRlNMcDB3Vm5KYlk4RkZrUm1JWFZYd09GVjdhRkRzc0RROWY0X0xMRW5mY01qUVhzc0V2bkc0b1phdWk0YVRVYUJSOXEzTmlfY0NYcHV1Q1ZOS0IycFBaRFk2M1BqRW9lYUtpTWFlMS02MjQ4RWFnSWFJaXAtRTVVMmlqVUQ4ZVN3TldNbFJoeGNZREZ5VGkxNnZSanA3REpTdFJzellQRElXc3pCX1lzM1hUcWl1d2l1YUdZUUJFQlViM19DQl9mSU1SWG1iMy12ZmZ3MU1uMmRJeXRnMkk?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-09-25T07:00:00+00:00",
+   "fetched": "2026-10-14T02:58:27.593710+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -34056,6 +34168,26 @@
    "published": "2026-09-16T13:08:08+00:00",
    "fetched": "2026-10-10T05:14:05.376661+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "57222ab7714472f8",
+   "title": "Global Immigration Partners Forecasts Key E-2 Visa Trends for 2027 - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY1hYSHJlQVRsTDFfNjRSUDFVTng0eU0wNmNxTy1wdzkxcDBzMjhBNXZrVElzWW44WTVwNWFCRVdLMl9Hclctc05Zd3lneVJFYnk2TGRKYWVJLTB2SmhvbWplaGtab1htWDdoX19ya0VqbnVZeWVtTVhUZUZsUkRMU1VFS2pHbEF3dmkxc3Bfbm1Cb203bXVTaGxXcXh6N2V1YWUxMg?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-l1-e2",
+   "published": "2026-09-16T12:48:12+00:00",
+   "fetched": "2026-10-14T02:58:27.593710+00:00",
+   "visas": [
+    "l1-e2"
+   ],
    "lang": "en",
    "policy": true,
    "direction": null,
