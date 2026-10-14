@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T20:59:48.913623+00:00",
+ "updated": "2026-10-14T21:32:50.972079+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "id": "au-parent",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 39
+   "count": 0
   },
   {
    "id": "us-visa-bulletin",
@@ -2542,6 +2542,26 @@
    "score": 0.0
   },
   {
+   "id": "31b87c32e99b7297",
+   "title": "USCIS changes visa and green card deadlines starting October 23 - NewsBytes",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTENjU0k3OWJKYm5ONU9CZEFLdk1rdVp6bzJmb2FRUWFhVUpwOGkyUUN2RzBkaGhNUlNiV2JNdlVkT1VZeVhha2lBOG1fQzJiS0Uyc1dqWXNLemVieE1NY2V2V2F0ZDFNR19ZdDFXNVpuUDlTTWQ0U2pHcl96NjktU29UUzJYd05NWWFBeFpiX1hseW43T3E4RmNDMW1BWTNCbV8xbGpaem1BYnFo?oc=5",
+   "summary": "",
+   "publisher": "NewsBytes",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-13T12:24:31+00:00",
+   "fetched": "2026-10-14T21:32:50.972079+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "e6e76aff20360b24",
    "title": "US visa, green card applicants face new USCIS filing deadline rules from October 23 - Moneycontrol.com",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR2lxSUtOUUpRVERDaDgta2hsd0U4QzZGNFlhM21iaENwOEI0a3FrdVlUaFZ0RVRaMVQxQjFfODJjWjkyX3VIdkt0VTFHT2ZsLWZ4NDBUeWpRbU01bHlQejNzWDRLWXlwSVMzZXBjMmlFbzNuWW5jZXVwd2NXV29Id1VkNjhfNHNHT2JpQUZjb0F6b0dqbTluY1g2Q0RTWGFVeFZJektmanlZMkxQYzJwQnFxZ1lGazYtbHAtTnliZ0ZELUt0OWtlTTJRWjFCcmRhSEI4UHVWREhxa0nSAdsBQVVfeXFMTkdpcUlLTlFKUVREQ2g4LWtobHdFOEM2RjRZYTNtYmhDcDhCNGtxa3VZVGhWdEVUWjFUMUIxXzgyY1o5Ml91SHZLdFUxR09mbC1meDQwVHlqUW1NNWx5UHozc1g0S1l5cElTM2VwYzJpRW8zblluY2V1cHdjV1dvSHdVZDY4XzRzR09iaUFGY29Bem9Ham05bmNYNkNEU1hhVXhWSXpLZmp5WTJMUGMycEJxcWdZRms2LWxwLU55YmdGRC1LdDlrZU0yUVoxQnJkYUhCOFB1VkRIcWtJ?oc=5",
@@ -2680,6 +2700,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "529681c9052cd08b",
+   "title": "Backpacker visa program ‘works for our country’, Matt Canavan says - News24",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQ2NZcUF6ZmYwTG9nRF9hVnJ5RFozdWpUcU9BanBSTmhKb05GRml3UUZUZHpJQWoxT0hJUDdnb0h5cHFaMkdkZVZJM0s4WjJJUTlKWDJpVG5tMTRzMTMwSHduUjctc203UnlsY0tYd18tT2hnTTUwQWpXQXRIZTBEbHVwcXRud3EwWk43bVJNaWtVSUdVcFBBd2lsNkdwZ3hXYTJidkhxYTNqYk1GOTBVQmZTNEZwdXRQazFPblBtSWRfZVQyc0paMUJVbGNWek0yTDNYUlYzcVhSaWNFUzlpVnczSUdicGhZUk40UlRxTzdkVGtWV1p1ajJDd3dYeEx6NEVwVkdsWW1pMzR2MEhpd21VWEFub0VsT0pvUG01X2xwMjJIN01ZQkRjMl9ZSm1j0gG2AkFVX3lxTE4tVVlaaHF3b3Y4aW5VLWtDQlppM2VsQmZvRXdCRzZQZEtPaXUwenZxX3dRNXZPTDNleUExSmU1YzEzaEtiWjdxSmhtR1VuVF91LThpb3VSSzVnWWFQZlExTWpjajFjVXUzOG51NUU1WklnT3c0QzV2dTJkUGFtcTVQaU9qb3o0M2xjWXRDQ0VRWWN0TkpMZnBLRDNvckl6bkw5TzdGTjFuZFVwdjVlU25KeTQtazBqT1lFdl9EcFhqeUg5YlI0VzNobGVHZ2tlRGZSRV9nWXZwNXlsNEItR0ctTEd0TzU5Z3NWbEhWNUVTSWY1M1lDdGdEeldpellXcTZxU1RIUDEyTXpqd2taNDhtcWFiYWRqRm9VWUthZlZlcTRwV1RoYVFHYld1ZENEc201bldiUEE?oc=5",
+   "summary": "",
+   "publisher": "News24",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-13T10:26:16+00:00",
+   "fetched": "2026-10-14T21:32:50.972079+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "0fd215ce1fc3bcd0",
@@ -3276,6 +3314,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "05a96542e35a7a6e",
+   "title": "Anupam Mittal recalls surrendering his US green card as American immigration uncertainty grows - The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORGZ0UjRXYWRJX0JpU3BLb3c5VTQ4Y21xVllZT0dUOElqaDVyakVnUkVmMDgyV1VaOVg0STlhSTg2bmpIbWdwdGVkYk1sQjFSZG15RllpNDRkS2J5aDFrTWdQSEVjT1huNllkWTdwNE4xWXZJeUlocGpZNXhRZFExaDdwY0d0QlQwUDQ5TlhSWFQ5X2R2QklJemxLNkdGUFNKcnhsVEhCZw?oc=5",
+   "summary": "",
+   "publisher": "The American Bazaar",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-12T17:37:56+00:00",
+   "fetched": "2026-10-14T21:32:50.972079+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "08e845ea7c4b68a1",
@@ -5633,6 +5691,26 @@
    "score": 2.5
   },
   {
+   "id": "d14dff4ba82d6c55",
+   "title": "Green Card Update: Map Shows Nations Most Exposed to Trump Admin Visa Block - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR28xN1lsYVVGbUZGZmwxUGpKMHh1ekU1alFMZHNuaklGQXpzRHd6NWx6OXJ4Rm9fNWFFTUhJUTRPZDV2R2NKNmg5ZFYwS2NzWGwyeGJ5NXNTTHZVdGN0MDN3NXZYR1oydnBJSTZ4Z0RBQTRyV0wyWHlmV3ROYlJVN19CUjdqYmw3dGppbHNQbEwyRlpkR2tYUFUtUGlVSXFzMFlmTQ?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-09T16:29:00+00:00",
+   "fetched": "2026-10-14T21:32:50.972079+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "558fa681cd91df97",
    "title": "Minister Metlege Diab highlights new Productivity Mega Deduction to help businesses invest, grow, and create jobs in Canada",
    "link": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/minister-metlege-diab-highlights-new-productivity-mega-deduction-to-help-businesses-invest-grow-and-create-jobs-in-canada.html",
@@ -6194,6 +6272,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "ce82c9f14ed9de97",
+   "title": "US Lists 6 Conditions Immigrant Children Must Meet for Special Green Card Route - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRzVoREdiRXpBYmh4akZvMjJLel81bFh0d1ZXRXBTN3VxQ3BDWVM3X0xCaHl3Ymgtb2dzUjNvOFhEcHJva003RHA2eEl5cF8yd2RlN1ZMdm5fM1JlVzA2TFozYzVReV9FWGVQSEpKNzRORE5kZXluMWoxXzJCYzRYZlBUYlNPTEROSlpzWFlXdmVlWXRoV21NNEZ3YlBhdlZqZ05ndnR4Y2M?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-09T11:10:03+00:00",
+   "fetched": "2026-10-14T21:32:50.972079+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "a986917d709ba2fd",
@@ -7281,6 +7379,27 @@
    "published": "2026-10-09T02:51:00+00:00",
    "fetched": "2026-10-09T09:17:09.022984+00:00",
    "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "1cea50c9f6532419",
+   "title": "US green card suspension: What it means for Indian IT workers on H-1B visas - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ1pEcFFPZEtPSnR5NFpyVzktUjlGajVIYTFfdGFhWmpCc3NlSHNOR2hUWGhSUll2LUJjZUdScUlfUHVRaVpkZG5ienFvVDhKc1J2RU00bHIyZTVwVmFBbHdGdDdmM2pxNXFVcDBid2JCeHB4Sl96dzM4SDBPRXFtXzgxQ3NkX3R3UUFFNzJiSU1Id29XWG1DYVBKN2lnZDV3Y0hWWnB6a0VKS3FrWmtFbjM0SVBrOXpwLUxqSnlTNkhyQ0JvdktIZFY5QnZReDFSR1FyZHQyNNIB3AFBVV95cUxOTnRUY2lIM1dwT0doVERhUEp6XzU0MlEtNzVVbm5Oek9GR216cFVFSG9ubTVPeUxuZ0lfaGdNWHNFMEpwWVFrVVJGYVlSZThTbUQ2Wmg2Si1GTXJCcVRaQjNHekVDNThzUzRQLWlNNXQzWVgwUk1qM08zU0xNckt0cWRMbXdfVlhhX0owUERDY3R3R0tmQ1ZpR1M2eVdMM0RSdE9PdlZfdVoyRUJmR1RMRWpvdnMydWlQbU1DOEp3ZWZxTTZlVjJCRkp6Y01yUEFzN2t0dGs5WjI3UFZh?oc=5",
+   "summary": "",
+   "publisher": "Business Standard",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-09T02:37:40+00:00",
+   "fetched": "2026-10-14T21:32:50.972079+00:00",
+   "visas": [
+    "h1b",
     "green-card"
    ],
    "lang": "en",
@@ -28908,6 +29027,26 @@
    "score": 0.0
   },
   {
+   "id": "1f2551cecf98e0fa",
+   "title": "Ambassador Hellao: US Visa Bond Curbs Namibia Economic Diplomacy - Wansom AI",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORjNqelhPZnoyOGtSQ3NOdnNDNTNsUVNrcmtlR1phb05TMFV6RTZySHhSTy1YRnMxRndHVDFmMjFqWWVCZHhuYzlBS0RCLXlvdGM0cWczMEhPZzVScGZoYmZ3aXRtMFE1UnZmeFA1Vm1pcUpIVWxrR2tYS0duUzFpejVZOXc0NF9jcjhfVTVzOVVVMGF3UkVxRTlfa2MtSGZoZ0NpNDBvQlNQeENuU3phcVBOd1c5b1FmUTcw?oc=5",
+   "summary": "",
+   "publisher": "Wansom AI",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-09-24T07:00:00+00:00",
+   "fetched": "2026-10-14T21:32:50.972079+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "671ed9f03ca957ca",
    "title": "SOTEU 2026: What is European migration policy becoming? - Voxeurop",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VeVZ6bkREN1NDQnFEVEVNUGhMbUkxY3JXZUJzc1dMbXlka0Y0LTc0eDZVRGhVaE1MTXR1a18tZ1JidFZPVGU2cHdEN0ZzUlBDZnV3dHJLckI3YzdMTEpuQTR0OWdPeGRndVE?oc=5",
@@ -35885,6 +36024,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "9402e04a5c6f73c7",
+   "title": "Today’s News Headlines: Government slashes backpacker and student partner visa numbers - News24",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNekgxcC10aTZQLWd6eUFqYzRvV0o2eXFUUXFfWndrZTk2Vk9sblFmbEFZeTZyRUVDU3lGWHJieTBPVm96Vm52UFgwcHhsc3dlay12bHFOLUNlNGc3S2lhS1dKdzdXbjkzX0pfd0FiUmM4aWJmLS1pMXJ5NU83YzdpdXB1OTFCY0cycXNCdWxwN1FBUEhDandfcjdPMDhqNFhtMGZwbmR3MWxLSkg1MC12TkpxUzNqanlweC1QMlRqby1XR0hQN0hEV0gtbUtRWVY5SzNQYlR1UjMtTUlaZFZJSjVhTDhDMXBIWkHSAe8BQVVfeXFMUFhSRHJaTlVfRU9SNzhwVS12aUlmZ2haQWpVRUp6aGd1T29IUWcwemlITVAzRFNSOU1IQ0hNaWpOYnJtdURSc3VYb0JDamVqNERyUklsY3lkaElXT1VYVjluUGVnZ0JHYzRSb2JNSVZFc0psS1JIT01kTTgtM29zZWc4MHhDNjRteXptS2Z2QktfMkkxT0hDX096b2dKQU12OVFuZFZGNTB1d0FXZ1RzSDF0b1hDdzR5Y0d6ZW11ZDRoVWU1V0lkWUpCZXU1ZEVSOEZFemVnT2VQZ0RsR2JJTmduSjQ4ZG13cXBhNmFFNEU?oc=5",
+   "summary": "",
+   "publisher": "News24",
+   "country": "AU",
+   "type": "news",
+   "source": "au-partner",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-14T21:32:50.972079+00:00",
+   "visas": [
+    "partner"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5f30623419cf53e1",
