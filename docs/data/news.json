@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T16:03:24.157828+00:00",
+ "updated": "2026-10-15T17:05:11.626717+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -184,13 +184,13 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-blue-card",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,62 @@
   }
  ],
  "items": [
+  {
+   "id": "e9bceeddeb074d2c",
+   "title": "USCIS seeks contractors to build criminal intelligence unit and informant records system - Project Salt Box",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YaE9kdTlwc2VMMVg5OXVLY1U3M3V0ZHN1ZkhSU0JNOEdJN3A1TDdPWi1HVFh1bzdMSUlCM0VqWFdBZjZ4MDlkbGQ3TDZqN3dkLTVreVlnWjhuRWtXbmI3T3lPWDlUeUtYalRRZzFUQ1dTbGs?oc=5",
+   "summary": "",
+   "publisher": "Project Salt Box",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-15T16:37:38+00:00",
+   "fetched": "2026-10-15T17:05:11.626717+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "978d834119be2fe2",
+   "title": "Migrant advocacy group says NZ First has adopted its policy - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1AzYm5ucEsxdzdxYlc0aFh2a0VCWG5yNnRST2trbUREWUZRQXl2Ulp6X05TMS1YRV9RN0ZGR0JJc2xnTlFpWklHQ3FmYVQ0UEI0OXB2XzBldUo0ZlluVGpxdmZNTXozc0xnM1VzVnljOFBTVE1aNEJHVUdPdERVUUFBMUlUczZzcmNFeWxlZmRpQ0dlS21MOG50bV96eGVad25rRnpORXhlR3BQUVNBRWgwWEZMOUto?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-15T16:22:54+00:00",
+   "fetched": "2026-10-15T17:05:11.626717+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "3151b2c7fb5ac669",
+   "title": "DHS Proposes to End Deference to Prior Approvals for H-1B, L-1 and Other Form I‑129 Extensions - Duane Morris LLP",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR2RJUmoxRnRpTmp1d2QwWmNnRUxjZVhaUVVVVUJ0Qm4yakdJOGVCc29tXy05RUlPQzd5eDFmZnZCa1owRjJUZUx4ako5TjFSclYyZldJVFBmbWRsamFMOTYwQzMtM1FHWndVLW5RcHdlR3VxWS1fUnpmQnVKN3pjRUJBRDhjSjNoTW9tQ2tTakZqQ1BQQXk4TzVpWmxqTFJPUTI2SWxPaUlSZEVCTE9Wa2FWamZ3ZElaajhaVzV3?oc=5",
+   "summary": "",
+   "publisher": "Duane Morris LLP",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-15T16:20:54+00:00",
+   "fetched": "2026-10-15T17:05:11.626717+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "b6b96903a0048a2e",
    "title": "Canada invites 2,500 CEC candidates to apply for permanent residence - CIC News",
