@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:58:58.758637+00:00",
+ "updated": "2026-10-15T22:30:27.159576+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 27
   },
   {
    "id": "eu-gov",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-partner",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "us-green-card",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-pr-citizenship",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-blue-card",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "eu-family",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "e3b6292478ba8f6b",
+   "title": "The conflict at the heart of our migration bargain - The Centre for Independent Studies",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlB1VnhMUm04WEo3dDhFc2pjdktqVTNGakQxN3RZUTdTb1E2cTlxQTVXWXVMTmxCWURqQkJvUjZoc0x6eW1BanNSR3BrYkFTdDRXcHgtdjRISjFUdGF4R1czMTNvblJ4NERhYmptc3RYMXFZNmJyQ3BubnRTcUFEYlc2cmJQUER1NzJsVWk3QXNkMk0zNktWeA?oc=5",
+   "summary": "",
+   "publisher": "The Centre for Independent Studies",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-15T22:28:22+00:00",
+   "fetched": "2026-10-15T22:30:27.159576+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "efe86708b4571f7b",
    "title": "US Explains How to Confirm If Visa Is Available Before Applying as Immigrant - Legit.ng",
@@ -10403,6 +10421,26 @@
    "source": "us-student",
    "published": "2026-10-08T16:08:50+00:00",
    "fetched": "2026-10-08T17:46:25.679914+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b5494ac355b58514",
+   "title": "US to probe J-1 student visa fraud in 9 top universities; Harvard Yale, MIT on the list - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTGxyLTR5cF9NY0ZnLUxvem1OTTRsQ0RwUWI5cmZmNjBvR21TRC1lWTNLVEZkZjFRdGs1YVhoZEZmZzlCdGdmVmZydmpwTl9ZdFo3WElNWFY0MWFacGpfX0JkM0JqQkVVZlVTLXBzWXhuZlZhNFhUaVhtcnhKVkdKN2lKMDZRSk8tc1JJRHF0UGxTajREV3JBTVBnOHYxMUU4SFd5M0x3azhCYXVPdGtJUUxvTG1RNkt6VVl4TlhrblotYmlTR1BYZTh1OW5LVWV4ZUh2N3FUb04yLTBEanNRdnBRRjRuNkk4WTlLeA?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T16:08:50+00:00",
+   "fetched": "2026-10-15T22:30:27.159576+00:00",
    "visas": [
     "student"
    ],
