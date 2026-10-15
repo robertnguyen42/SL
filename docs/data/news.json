@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T20:31:00.447185+00:00",
+ "updated": "2026-10-15T21:27:23.775559+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 29
   },
   {
    "id": "eu-gov",
@@ -184,7 +184,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -220,19 +220,19 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 14
   },
   {
    "id": "ca-pr-citizenship",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-blue-card",
@@ -406,13 +406,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "1d9d9402c87872c4",
+   "title": "Expenses for EB-5 mop up total $14 million as judge OKs $1 million more in fees - VTDigger",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdm93Q1I1QUJ0aks2SEtZZ0U3UExwZ0xhM2JUZ2VLNXY0dDJxOTZ6MFlpekkxa2pKcDRfSzBzQk5QVkhNaFRqd25uczVRWUI1eERLdlh2ZUZlMndjMGxZTlpfUGh0MV9tX1J5dUV1d0U3MzRrb2kyMDhJbU1FczBUSTMtbHVxUUR0WXUxdk94dHZkQTgtQzJZSHNuYnp2aEh5a3Joc1QtdzlLSmZ3ZHln?oc=5",
+   "summary": "",
+   "publisher": "VTDigger",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-15T20:54:51+00:00",
+   "fetched": "2026-10-15T21:27:23.775559+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "de1821d60550722c",
+   "title": "Traveling to Europe? Don’t fall for this visa scam - The Points Guy",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05STBLakFSa1ByZjMtT19FenZDNTRhZEhjeUxmdGV6MTg5WG90dUFtejVsb0tRdHRRRkRibjg4YnV6M3k0eV95dU1KNkROYW9BWm96Um5xY2pLYXkyOHB3STA2RQ?oc=5",
+   "summary": "",
+   "publisher": "The Points Guy",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-15T20:48:45+00:00",
+   "fetched": "2026-10-15T21:27:23.775559+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "ba48dbd244856eb6",
    "title": "What Does the Latest British Columbia PNP Skills Immigration Draw Mean for You? - ImmigCanada Immigration Consulting Services",
@@ -507,6 +545,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "464abb8c0467060a",
+   "title": "Wait times plateau for permanent residence and citizenship applicants - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEZwZnlNcVhNVTNLODBhSjVidEwwa3owZWU4Y3hTZ0xJRjZiMzllQ0VNM1poU3dEelVLWENheVY2em9SclZyb1E5TmpBTnBkM09iMHhpQnhscWx6RzRJWlNaRU9OVjliZldtdWNZZ2pWM0V4emdMSUJwWDdQTVNCWGNGcHNkaEY4aTJHVFpwSzBwSjB0aXdzUTJ4eDBKU0NNYkI0VkZwQmhkWFNqS3JOV3N5Y3BGYl83d1HSAboBQVVfeXFMTXBGcGZ5TXFYTVUzSzgwYUo1YnRMMGt6MGVlOGN4U2dMSUY2YjM5ZUNFTTNaaFN3RHpVS1hDYXlWNnpvUnJWcm9ROU5qQU5wZDNPYjB4aUJ4bHFsekc0SVpTWkVPTlY5YmZXbXVjWWdqVjNFeHpnTElCcFg3UE1TQlhjRnBzZGhGOGkyR1RacEswcEowdGl3c1EyeHgwSlNDTWJCNFZGcEJoZFhTaktyTldzeWNwRmJfN3dR?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-15T19:08:36+00:00",
+   "fetched": "2026-10-15T21:27:23.775559+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "35ec894850bf4580",
