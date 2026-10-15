@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T03:32:10.759041+00:00",
+ "updated": "2026-10-15T04:26:09.567244+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -124,7 +124,7 @@
    "id": "us-gov",
    "name": "Federal Register – USCIS",
    "ok": true,
-   "count": 40
+   "count": 8
   },
   {
    "id": "us-vi",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 24
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "nz-en",
@@ -226,13 +226,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-citizenship",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "98a56bf960e720fc",
+   "title": "Albanese tells Hanson to go to Specsavers in passionate defence of migrants - Nine.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkFMOVB4RXpqVXVyWUw1N2xQclp3ZEJXN1M5eTFTNVRJUG5wUzVMYTE2ZEZreWVxVDVuOHhwdFFhZ1hNRjZuWlJ2OG0xd19rSGNaVlpXMDVUZmRmampCSGM0SjF0ZnVtMnBMTE9GVzZ4aUJOa2VjUGdtdWdPVjladHlxRUNrWENIVUVYQlluWVVBazQtN0s4SHEzZEU0eWZDWF9mNDZOeEtwTFE?oc=5",
+   "summary": "",
+   "publisher": "Nine.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-15T03:54:06+00:00",
+   "fetched": "2026-10-15T04:26:09.567244+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d504d5ec34a10426",
+   "title": "Du học sinh Việt nỗ lực học hỏi, thể hiện trách nhiệm và tình yêu đất nước - Báo Tiền Phong",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTZMQ0VQUkVTck5KdlVVQndQbklGajI4dXhNNENwOV9zclluT0lqOWlBT1N4SkFnUHhka291aklVRFN3MTE3Ml96dHMyZkk1UWdPR0MwSHE5VXZZdWpPX3RNQW9GbWpTWFFnRk13UjBkZjlxOWhSQTdUeTBSdTg1WTB5RHNyT2ZVbUZncEpnRW16aUVucUhOaWRJQW1iNGNiV09uQjVtZUR1ek00ZUhOZ2tCem9pQQ?oc=5",
+   "summary": "",
+   "publisher": "Báo Tiền Phong",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-vi",
+   "published": "2026-10-15T03:31:37+00:00",
+   "fetched": "2026-10-15T04:26:09.567244+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
   {
    "id": "c8b13b0b7fc717cc",
    "title": "What is behind a recent spike in refused study visa applications? - 1News",
@@ -32425,6 +32463,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "65a7cdf56d7a02bc",
+   "title": "Please ensure your route ('/nzeta.immigration.govt.nz') is in the correct case and correctly configured. - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oUUVhLVN5UnlkMlpDVXhjdzdlMk1pY2J5SE5nV2RPSGdBX2duZmJaOVhVVVNmMndNWHNrTDNTemRGeXg5U0hKN2dmeWJybVN6Yk1vejQwbngyX2hmdE9yNW9fZW13SmV2bmNj?oc=5",
+   "summary": "Please ensure your route ('/nzeta.immigration.govt.nz') is in the correct case and correctly configured. Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-09-21T00:00:27+00:00",
+   "fetched": "2026-10-15T04:26:09.567244+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
   },
   {
    "id": "f370534d3c11a539",
