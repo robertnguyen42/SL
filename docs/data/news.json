@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T01:28:31.770323+00:00",
+ "updated": "2026-10-15T02:03:09.374003+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-skilled",
@@ -220,19 +220,19 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 13
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "nz-business",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "7cd435dd7a1f9307",
+   "title": "The Indian passport holder’s guide to getting a Schengen visa in 2026 - Condé Nast Traveller India",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWi0yWmpYMTN3Wjd3M0Vfd3pMTUs3dzk2Mng2dlp3bzBhb3puV2pKZmNGUV9raVRaYml1YXhySmkzZGc2bnBTSkRmcG1IVXRUYlBkTldLTDFNcVd5QkhFRXRNTWg2MWZCampTNUlNRkNCZncydXdVR0pacWUzdWZMa1lR?oc=5",
+   "summary": "",
+   "publisher": "Condé Nast Traveller India",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-15T01:30:00+00:00",
+   "fetched": "2026-10-15T02:03:09.374003+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "70908f37b7ecdea5",
    "title": "Case of woman stuck in Cook Islands may be hot to handle, immigration lawyer says - RNZ",
@@ -868,6 +888,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "dd33fc26b8468db5",
+   "title": "Can Trump Strip Ilhan Omar of Her Citizenship? Here's How the Process Works - Time Magazine",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlBPY2Q0Sk04TlYzdGlKRFFucUR3cEh4Smo0c2RleWJ5VUw3am1XR1JJUW0xelUzZjgzRXpyVm16NmZXcmZVR2lfU2cwRWdBaENzckh3VWFHTVdqNm5rZFdCekIyQTNtMmFWNkpEWHZfVU1jRm42RTVYbzlkWVU3SkY5VlpMMFlqUUY2VUM1M2dFYmE2TktSS0x3?oc=5",
+   "summary": "",
+   "publisher": "Time Magazine",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-14T16:57:47+00:00",
+   "fetched": "2026-10-15T02:03:09.374003+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e967178945b1f8c5",
@@ -34905,6 +34943,26 @@
    "score": 2.5
   },
   {
+   "id": "a6b38fa80dda20a0",
+   "title": "Life just got tougher for international students in Australia. Why is this group being targeted? - https://awaaz.co.nz/",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWUhOdmpTb1ZTbTBOWFBGTC1ZUlhfWGUxaG03M0hfRDdzTVV3X1ltQmw3TjBfRFdNaHduVVlEYlMyLUN1ODVkNHU4ME90aUFVYnViSV9vM3lsLUpXc2FfSnpZUFlocERXVmNWTTFLTF90dlg0OGJ6aVJsT0wxMmZLeUdtZTNZUDMyNks1bUZzbTFFZ1hvRTliVDNSZlBRRWtjbHJzdkw4akxTejdzOGtlOHF3TUVPMXhTYy1DUHFybHpPQlZtZlJOSWhKYw?oc=5",
+   "summary": "",
+   "publisher": "https://awaaz.co.nz/",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-15T02:03:09.374003+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "2a2363c327069fd8",
    "title": "PNP Diaspora Region Elects Inaugural Leadership, Expands Overseas Voice - South Florida Caribbean News",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGs2QUJoRHd3Rnd3Sko1Ym00bXd0ZDU0bmZJakVMTlZwRmktV3p6TmlRcmlVWE9LTVMzaU5uU3BLTFV0ZUhnMENBYlBLRS1tNGdmQjAtU1hDVWZtNG5MZFpXVUxHVm1ONUtUcno2OVNfVmFtdFRiejBaTkdieVN4TnRnb0xES2dpTlRHRmNiYk00LVnSAZgBQVVfeXFMTlpBcmJOU0ZENGtVMnNKRDRESkRNWWcyamhDWmNwck42b0c3OF9PWENsVUNYZTdZY0pHYklWS2hOb3JyZUYyREt1dC15RkFqRS1HVUx4X0VjOWVsMXJhc3phZUZzNzRmOXZMMWVmaEpMMmNvSzN2czY3S2IyV0lscGVyZTZzNjlEOFVYenRMcUFGc0dZNmRlRlc?oc=5",
@@ -36639,6 +36697,44 @@
    "source": "us-citizenship",
    "published": "2026-09-17T07:00:00+00:00",
    "fetched": "2026-10-14T23:52:42.478301+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "dbc822b53056c8cc",
+   "title": "Migration changes to hit students’ families and working holiday makers - The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd09oNTNFUnZkazZRNXVEYVdHd3ZIWUk2ejV3SUlnRnNhQ2NBVzlPeVlZNVN1RmJGc2Z5X2dZWXRrbndkYjRUaWhBZGhyX1hfNFlXQTRNNVBrTEFoWklqY0FOTlBHakdfbHBQMGpGYngxVmtUWDBrR0NkaTdwa1pDSVhMeWg4VmRSWXBVZ01WU05QanlWYUsyVktSazM1cXBlZklBd2lJMA?oc=5",
+   "summary": "",
+   "publisher": "The Conversation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-15T02:03:09.374003+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b26eeb6e0c9c7c6f",
+   "title": "Ulster County legislators push feds to reinstate naturalization ceremony - Daily Freeman",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0tNWUdCTmx0QlJLRFZlbExDcEYwM0FiOG8zQU5KVFpIeG4yNVRBWkM0ZVp5U0w0ODRXUU1QZDY1OU5nRXA1aHNRajRpYXI0V3Blbno0ZjF6V2V6WFB6R1ZEdzB5RWxGNFd4ZmZxMkF2V3IyQ2d0RnhJSnBaVV9yU0NaaHZxWEZaMEhzak82YlA2em5FcW1hVUdLY0NwVVlyMHQ4cktLQTFNWXJmYVVWUWQ4Zw?oc=5",
+   "summary": "",
+   "publisher": "Daily Freeman",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-15T02:03:09.374003+00:00",
    "visas": [
     "citizenship"
    ],
