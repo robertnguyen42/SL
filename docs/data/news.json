@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:27:23.775559+00:00",
+ "updated": "2026-10-15T21:58:58.758637+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 29
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -220,19 +220,19 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "us-green-card",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 14
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-blue-card",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "efe86708b4571f7b",
+   "title": "US Explains How to Confirm If Visa Is Available Before Applying as Immigrant - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYkxod2lfQ1EyeU8zRUpVRnRjdEFpWFRsSUhYN1VOd1RvbGNTTUpuN2IteEJfWjRPdExhSW1SLUNrcExsaUpGMGRFSHlQdm5LcXBGdTktMThsVW5IYjVyOGFLbGlPV1J3V0RrOGxpM1V5QjZOTWJuMmhCSF92Mm5EQ28yYm0wUUpHZC1IWnhyYnpqOUJhWVRhajB3?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-15T21:40:35+00:00",
+   "fetched": "2026-10-15T21:58:58.758637+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "1d9d9402c87872c4",
    "title": "Expenses for EB-5 mop up total $14 million as judge OKs $1 million more in fees - VTDigger",
@@ -1170,6 +1188,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "1c38a55496ee1f14",
+   "title": "Three Aussies deported from Bali in fresh crackdown - PerthNow",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORlgyaVhFdHgwbjhZQmJ1VHVuNzc5NGt6NWVROHpnQURKSmJYRVQxQUNMbTlobFBUNHBNWlVNTW4ySWdMampvMG5iaHZvQXJJSzJHRDVFMlVKVl80TVQxREhIb1NnOWZuVDlZelJ4RUtQb2VvYTdUcVY1OVdSczl2aV9YUmQzdUg3X3NXcEJHbG1IYVphMEVlaVhNRkw0OTJ4U0M5bTZ4VnlYV0x4d01IeTNiUHh2ZWJZN19FQS1YUm9lVHpqRFpWWjkweDZkQ3RFWmlTdkI5MVBfbGhYbWgxcQ?oc=5",
+   "summary": "",
+   "publisher": "PerthNow",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-15T03:32:00+00:00",
+   "fetched": "2026-10-15T21:58:58.758637+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "d504d5ec34a10426",
