@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T11:01:18.939257+00:00",
+ "updated": "2026-10-15T11:59:44.527813+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 21
+   "count": 25
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-skilled",
@@ -226,13 +226,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "us-student",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "nz-family",
@@ -446,6 +446,42 @@
   }
  ],
  "items": [
+  {
+   "id": "bed1aaa6a6a1677a",
+   "title": "New Zealand lists visa requirements for citizens of 4 countries to join the army - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEJZMV9Oc0JmRlVKYTE2VXVaOS1nR0hYVzZvOVc4V3lBLTJVQVBQZ3NWN2RrR2FsUFlsNV9aeHd2U1A0UUFVOTJmT1FDazlGLVJGQXR5T0ZWbWFVRm9uSG5DLUxYWU5GdFRCeUdwWDlSTTVqRUZJdlhybW94TjJYRFJhN1pzTE5HVVFfckQzejkzamsxaERfNUtvTUoxcWVRQm52dFR1YkUtZS1jb3FtT2dR?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-10-15T11:51:26+00:00",
+   "fetched": "2026-10-15T11:59:44.527813+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "cb401c69a77a7992",
+   "title": "New Zealand Announces Visa Requirements for Citizens of 4 Countries to Join the Military - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORUNrMGVYMjhoU2E3aHVfRkdLZzNhZ0ZRNHdGRUhMYlJFc2FXRDlmSk5xamVqNHZvQ2pXNnlfYnhiU3J5b3R5MjVBRDRXQ0FiMnlZU3BuRk13NEFobHdXeEcwc3VaaFhHcXpfTTdBVHhGSTl3NjNVSE9RWkw2TjB5djI0UWRqODRnNmR5bHB6cUpyQXJqMFBHM2JTTm9UNV9Md19yUWQtaWgyR2RMVHpYVQ?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-10-15T11:24:50+00:00",
+   "fetched": "2026-10-15T11:59:44.527813+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "f69226a9b5459014",
    "title": "US Rejects Over 35,000 Green Card Applicants’ Work Permits As Denial Rate Jumps To 44 Per Cent - Free Press Journal",
@@ -2309,6 +2345,24 @@
    "score": 0.0
   },
   {
+   "id": "346944f7581843e3",
+   "title": "Tom Elliott’s big question about the immigration debate - 3AW",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3dlaVN6SmR3LWtBenZxUXJXSm5kT2IwVGI3dGs0dUlOVzhyNTJsMEpHbHZZSnJzekhTMVI4eEVmMnl4R1RSaDlFaXZPVHU5N2tRUUVCRnhGWlAxczkxRWlBZkFsSkZBNXkxeVVONVhVZ2czbl9wWkRESm5rODU5X0E1RXo?oc=5",
+   "summary": "",
+   "publisher": "3AW",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-13T22:50:27+00:00",
+   "fetched": "2026-10-15T11:59:44.527813+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "85c503ce5f91bbd8",
    "title": "'A psychological nightmare': Why NZ declined transit visa for woman stranded in Cook Islands - RNZ",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ3pLS0FhLURydE9VY3p1d2t5VnBucE9UTWZidFI5Um5uY0tlVTlSMnNpUlNscU9FdVl3VS1aSTJKZ0pycnlWNnNLU1hxR0FEU0cwTnhwdGt6MjZFSDRGSC0yd1A0aGpHOFFqQ2lRVVlrUHM2TERPcDd6TmpCSVRBYzJBOEFlVGp5QnB4Q094UTZKTjVOaV9xX0F0SXBJX2swTXdIaWctbUU0MlBmVDh1VEZWWl9WOVFzaW1BNW1VYnlSSkRDVmJQZzlSSmI?oc=5",
@@ -3669,6 +3723,24 @@
    "source": "au-en",
    "published": "2026-10-13T06:48:29+00:00",
    "fetched": "2026-10-14T22:24:12.504596+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "36c9931642e85c1b",
+   "title": "AHA advert rejects new government immigration policies - The Daily Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemhKdVBJbW1tM1VjMkhpWlNRcVdkWjd3Y3l5T2JzX1h4SnpYRjlBY2NvM29ULTJ1QkMzWXRWbE0yVjhTTF9LVmtEWlpYWENwQmZxVkRBZDFpUnoxTFE0cTdnS3NHS3VoOUtSVi1VZEZ3Tno4Qi1mekJodDhUS0NDZm9MQVh5R1l2c0F5V0FBYmROZEdwRnQ2YXdrcGRzal9rUTJQU3d3SnBsdmp3LUtpRkh6RDlXaGN4QzN2YlBNY1FDMFVxVWk3UTJiTkwwS1FJbDNZdWN3?oc=5",
+   "summary": "",
+   "publisher": "The Daily Telegraph",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-13T06:48:29+00:00",
+   "fetched": "2026-10-15T11:59:44.527813+00:00",
    "visas": [],
    "lang": "en",
    "policy": true,
