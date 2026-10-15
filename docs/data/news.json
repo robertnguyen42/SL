@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:20:12.516111+00:00",
+ "updated": "2026-10-15T23:52:01.236442+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "id": "eu-gov",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-skilled",
@@ -220,19 +220,19 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 13
   },
   {
    "id": "eu-blue-card",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -675,6 +675,27 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "6fb755f9768c31b3",
+   "title": "Green Card Update: Microsoft President Says Vance ‘Off Base’ on H-1B Visa - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGJsQjUzSVBtWG9NVWZrbk5od2JhRllyOVpXV0JHd0ptMjlqY25qUXh6d2tXMWZpQU8tRzYwVDJDeDF5ejcyd2J3Z2VPSEx2UnFlZ2lGbTJxbjRnMnlXSlY5RUFTTnQ3TzlQWWpkRHlIVzRXTk0tWThLMXFnUmcwaWRickhMbmM3a1hVcGVVOTduX1AyMG9DblgwLWoxX2E5MEJYcXhzZw?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-15T17:30:00+00:00",
+   "fetched": "2026-10-15T23:52:01.236442+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "4e7aa4ff29666cdd",
@@ -2689,6 +2710,24 @@
    "source": "us-en",
    "published": "2026-10-14T05:57:28+00:00",
    "fetched": "2026-10-14T14:28:52.431236+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "04b96dc32840cec9",
+   "title": "Coverage of Parnell Palme McGuinness paper on immigration, and more - The Centre for Independent Studies",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3BBc2FFeXA0S0xOVXhua3VtZm1ESjhGcGlDTHlaVHUxaldPZC1KdDVaOHQ4aG5sVGxOdTNJZk14Q3UxaXp5bFhZOHdXdXFBb2U0TUowUG9TTDhNbE1ldlNjWEFBdHBmQ3ZhZmNiOHpvZEhkR2o5YU1DTVdTdkliREg3T3hYeHdKck43dWpuT3hCanVrekpHTDFENA?oc=5",
+   "summary": "",
+   "publisher": "The Centre for Independent Studies",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-14T05:43:42+00:00",
+   "fetched": "2026-10-15T23:52:01.236442+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
@@ -9647,6 +9686,26 @@
    "fetched": "2026-10-08T21:46:53.921013+00:00",
    "visas": [
     "eb-work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "ba9f6e1e9ae01f94",
+   "title": "US suspends Microsoft, Adobe from filing for green cards - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFdhMUdkMERWWW1CclJRT3ItWWE0SVhnNFdCVFdTS29WS0Y1anQ3NGxNaG15RkJRRDFRcW5EemluNjU1clZnalVfZEt0b2U2enpQay1Ka2ExRE5RZl9XbXo5ZlEtc25lYkZKRjc3d09GaGdkaTBVbmRRM0FjbmExZTU5bTB5OFBlcnczOGRpOTNQQdIBkgFBVV95cUxQdEEtYzZTclMybnZ5dXJlcUoxRXBNMlBqS0ppTEh4a1NhcGdnMHFQVTdZMUFTRUpwVFVLT3JZLWRraU5TbDlkUmppV2xfM2NQd05qYy0zV2VJRnV6UHdqMmQxeTItNFV3a1JKTjRiTFJXOUVoeTdaUUc2X0NHd0VJMlp4WHI1cEdLT2xtZUhwaVNHUQ?oc=5",
+   "summary": "",
+   "publisher": "DW.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T20:10:31+00:00",
+   "fetched": "2026-10-15T23:52:01.236442+00:00",
+   "visas": [
+    "green-card"
    ],
    "lang": "en",
    "policy": true,
