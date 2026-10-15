@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T09:06:47.002418+00:00",
+ "updated": "2026-10-15T10:02:57.561960+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-parent",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-pr-citizenship",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-blue-card",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 22
+   "count": 19
   },
   {
    "id": "nz-family",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "143870d5abfbe580",
+   "title": "US sets minimum age for foreign spouses applying for citizenship - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNG9sMkktcHBtRURwS181SXhiZVhIM2xCY0F1c3lCY0hQekhSYTlVUEFmZFRHRkVXQTBCMEpJaHNfTmhmOU14QzRuRzlPNzgtSlY3MTBaaVBWQjVMbjVPa1VMZzJObjdKSnVvZUhIaWVnRS1ESjJiZ2FoNE5qM1FiWGNMdzZFSjg1QmNCbXFPSVN6U2U5ZjVF?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-15T09:06:42+00:00",
+   "fetched": "2026-10-15T10:02:57.561960+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "fadd4a0965df5cae",
+   "title": "New Zealand joins the UK in tightening student visas for Nigerians, Indians, Bangladeshis and Chinese over document and financial fraud - Business Insider Africa",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0NSX1RhNmc3TDBMUV9BNWRwRGZkMnlaSzFFNEF1RVg2RkV0NHJTcmZHS01sQlVKNGt1ZDNHTVN0OUpTSENzaFZ1MWtaMG41U1BOMTJSQ3BzVFJZaERxSjQwNjNNbkVWRURKR2FtN3ludlFvYmNUR2hoVWZsODc2Rkt0OS02dDF5bHpNNkZ2SWkyenh5RmhiV2hMMjJVbFZpdTlsMTZsMTMtb0djM0RBb3p0N2FiTVBQRmdlMDdleC15aTc5U01ON21zNA?oc=5",
+   "summary": "",
+   "publisher": "Business Insider Africa",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-15T09:04:18+00:00",
+   "fetched": "2026-10-15T10:02:57.561960+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "1341d8dab8818f0a",
    "title": "Canada Announces 3 Occupations That Allow Foreign Workers to Learn Without Study Permit - Tuko News",
@@ -465,6 +503,46 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "a2b26419f46115e8",
+   "title": "Coming to France? ETIAS applications are not open yet - Ouest-France",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjZaYVAwdTdKVG9vR2lIQlFIVHNVN1lmZTY3U3d5S0s4S2E1Z1FHVktPRDFVM2cxaXpzY3NKWnI3UlIzNUpVZUEyNjY5cWxjX3FuVFFZN1RXR1Awek1lRVJGS1ZjNVBEbFRUQXpoTGpLTWxhN3MwZzNfeDNmWUZjYmxDRF8?oc=5",
+   "summary": "",
+   "publisher": "Ouest-France",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-15T08:00:00+00:00",
+   "fetched": "2026-10-15T10:02:57.561960+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "e1b93f4576d8f18c",
+   "title": "Schengen Visa Waiver for GCC Citizens: What the 24 October EU-Gulf Summit Could Change - Wego Travel Blog",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbmpUdHN0bGFiRzlRR19EckpMNVhib2NPNjBkN2x6ei1fd3pCUEE5MDZDbXRENHhqZ244bjJESWdJeXRkX0w0ck1ZR0RLV09fNW94M1l4VGFzYjYwV1hIa2E1WHkwNF83Q01QcQ?oc=5",
+   "summary": "",
+   "publisher": "Wego Travel Blog",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-15T07:22:41+00:00",
+   "fetched": "2026-10-15T10:02:57.561960+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "356c968735670247",
@@ -793,6 +871,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "b481f8543758effe",
+   "title": "Ottawa's international student cap hurting Atlantic universities: association - BNN Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdkpMOXByOTVNT1RaVURJYU13cnVSVjVRbmM0OWt1MGVGM2RzbGxfMS14d3Fjcm1RejBxd0tDRThaSFNUMW1zN0F1MFZGSVdXR2FNdDg5am5SNGZ1RWsxZUtfLUkzUVk3TENWWjl1ZThCbktjNW82d1N0UlQ0QWFRa0pxYzNtYUpwQWh0cWJrRkVlN0pFSkJuVTFNZjVHUlNieEhiZlVfUl9BWGhpb1cxbkNoSEFCRFJPTWRseUdiREJQLVZKX1ZzMGdZVDhuQQ?oc=5",
+   "summary": "",
+   "publisher": "BNN Bloomberg",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-14T20:37:48+00:00",
+   "fetched": "2026-10-15T10:02:57.561960+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "5f2d41e91408ea14",
