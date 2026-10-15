@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T08:29:17.720624+00:00",
+ "updated": "2026-10-15T09:06:47.002418+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "eu-student",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "1341d8dab8818f0a",
+   "title": "Canada Announces 3 Occupations That Allow Foreign Workers to Learn Without Study Permit - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUdrYVFlYWpVa1piOTJPTlBTUTZLWGc5TEEyOVdxZEM2VGRwRjhUQjZkdXRNNl90X3RIc2M2SW1DclgzcHBtWUtpY1RNU2Z6ZnNfSXIzSlp0cHpfNVpLakpNblZ6TmVNUWRCMmwzQ0FjX2hCMjFOa09qX3RDblE0bUQ5QTNQZkRfaHIzSmxjQ2lzQ1JaUTJBekFITWZ2MUtYcVo1SQ?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-15T08:36:38+00:00",
+   "fetched": "2026-10-15T09:06:47.002418+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "356c968735670247",
    "title": "USCIS Proposes Ending Prior Approval Deference for H-1B Visa Extensions: What Changes for Applicants? - Jagran Josh",
@@ -479,6 +499,26 @@
    "fetched": "2026-10-15T07:37:26.222988+00:00",
    "visas": [
     "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a06a1234c5989466",
+   "title": "UK visa curbs hit university offers: What prospective students must know - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVkdTTzZ6ZmdQWDh0V19mbVhUeTNuMWNmXzJCMmtRMXpwNlRqU0JyNnpoVTlaOXE0UUFjdklqeEhDZkdCUGhNcDZoTS13QWduakFVT1Z4SVNPQkxHVjhxdENMd2JISzBhT3J0V1I4QTF3NU82Z01mLXRHUmp5S3RpYS0zTm5KM3FRRjRfYTVCYUhObDVFNnVudDdwN28zTUdnb2xWRkZXbjM1aVpBVDdlcDZVUlZRRHFtUnBZUjNWUXNRUkc4aTgtemlFMi1VYzVHSnpLblh4RUnSAdgBQVVfeXFMT1ZHU082emZnUFg4dFdfZm1YVHkzbjFjZl8yQjJrUTF6cDZUalNCcjZ6aFU5WjlxNFFBY3ZJanhIQ2ZHQlBoTXA2aE0td0FnbmpBVU9WeElTT0JMR1Y4cXRDTHdiSEswYU9ydFdSOEExdzVPNmdNZi10R1JqeUt0aWEtM05uSjNxUUY0X2E1QmFITmw1RTZ1bnQ3cDdvM01HZ29sVkZGV24zNWlaQVQ3ZXA2VVJWUURxbVJwWVIzVlFzUVJHOGk4LXppRTItVWM1R0p6S25YeEVJ?oc=5",
+   "summary": "",
+   "publisher": "Business Standard",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-15T06:07:13+00:00",
+   "fetched": "2026-10-15T09:06:47.002418+00:00",
+   "visas": [
+    "uk"
    ],
    "lang": "en",
    "policy": false,
@@ -3441,6 +3481,24 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "6dc373f90f32bec9",
+   "title": "Australia: Workers, incl. migrant visa holders, allegedly subjected to wage theft & minimum wage violations in Sydney Nara Lounge restaurants - Business and Human Rights Centre",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbW1FUDVUUDk1bk5ITzRKbG5qeEsteEEzQktQNTg3V0lfVG5OTEpnYTJNUW5GUVBjZXlnczdCUjhYSzhaY0JTemlIRU5fYzdYT3JyQlZXb2lpOWJ4NFB5d1NxYlRacl9aVVk3WmJrTWZWNDlVSExPTFJ4bnc3ck80R2hXakNQWGd6VFF2QVNMYy1LS2VzYWR2UF9sZlhwTEQ1dDZzZ1dldXJHdGtuUGY1S3QtR0lXSWZZRDZMaFE1aDdRS3dIMTFDalN4blpNTmRjbUx5eExaMkNxby1PVkNyRVk3b0xQelhaNktRMEhheENJYnNBSHBoYkp6djJHRjBQRTBNc2VtbDB2cE1KaktIQ0VtSGpEQjA?oc=5",
+   "summary": "",
+   "publisher": "Business and Human Rights Centre",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-13T07:00:00+00:00",
+   "fetched": "2026-10-15T09:06:47.002418+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "252a52bf647d550d",
