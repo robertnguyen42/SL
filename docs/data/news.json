@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T13:38:50.683958+00:00",
+ "updated": "2026-10-15T14:29:59.468411+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 26
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -310,7 +310,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "ca-startup",
@@ -447,6 +447,26 @@
  ],
  "items": [
   {
+   "id": "934de1bd2e0dba99",
+   "title": "Brevet Capital’s Affiliated Regional Center Files I-956F for Wharton Piers EB-5 Project - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTkEtRGRrcVhmWElhVkdQdkxjX2pSTGJDcXN2Mi1WQWx1bjZiRDM4YVhvcWU0OWZBRzFpbUdJXzVoejVUYXRITnZJdk9FZXp2dlBXMWJsbVA4TUI0bDJHc2dwSTJBYkItNGhrTHYzZjdGMHZ4UGsyNFpVeTNVeE5GR05yLUMtdGZrdG1uRXItRjUzZGpkelhkZTBJSjJWbEk0RWJxUld3?oc=5",
+   "summary": "",
+   "publisher": "Yahoo Finance",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-15T13:00:00+00:00",
+   "fetched": "2026-10-15T14:29:59.468411+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "628d8a4fa974895a",
    "title": "US visa, green card applicants face new USCIS deadline rules from October 23 - Connected to India",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSm9xRDNzZzBOcUVvSUxyMEJEOGc4NGVlbXVZVUNIemg4bndQdnBrbENVdi1SbzFKQ01WU2tKQkRZcGUteU5fd3Z3aG83Yy1xaHNJZkVRWmkzRm4ycFdBd0Ztb1JvaTQ2LUxNRldUTTBBUFMtMTU3aWtscjNHUk9CM0ZPQS1HaEs4QlJTdEtpRzVpRjRVY1ZWV3NpdkQ0YkxUek5aX1RNeGNRSTgxUUE?oc=5",
@@ -465,6 +485,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "4c45b0fd43acd2ba",
+   "title": "League of Women Voters, Campaign Legal Center Secure Permanent Victory Restoring Voter Registration at Naturalization Ceremonies - League of Women Voters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHU2V2FBa3lONjUtY3ZPblY4RTZzWW94Y0ZwT3A5TDVNb25DWFFKbDFzdDlyY1RKSlZRWVlnalF6M2R4cUZrVDdUUXJ4X0xzQVQtQ0tfQVF5WmNObk1ydUpJVUQ0UHlCcVpKWXJoWWlUcFFwQk9jbm0zdk5zN2tFNGtRQ0VPal9ZQTJNMGxRMThkT2pQUE1yVEVWWlZ4Q3FYWHpUbGhqMjJkWHh5cE5z?oc=5",
+   "summary": "",
+   "publisher": "League of Women Voters",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-15T12:00:00+00:00",
+   "fetched": "2026-10-15T14:29:59.468411+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "bed1aaa6a6a1677a",
@@ -33043,6 +33083,44 @@
    "score": 0.0
   },
   {
+   "id": "91ef4b1e58626066",
+   "title": "Monthly column: Fighting for Mid Beds as Shadow Home Office Minister - Bedford Independent",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzNUZ2o0M0tyZnE5Ym4tNHRWTVY2MnRWc1V2YkdXU1ZONWQ4elUxUVJEVmxMYnVJd1NzcmxyU3lXcXJncUQ4dzRvSnFJdjNBMTEzM09ndmtzbEFwdlNUQlpTaGZHR2NtTU10U1pWZmhxRWozOFF4WktRNFpnZGR4ZXpGWmdFYU42MGVPNjRyWTYtOGtRMGVTSUhhR0w4S0FiZ1ljZk0xdTU?oc=5",
+   "summary": "",
+   "publisher": "Bedford Independent",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-15T14:29:59.468411+00:00",
+   "visas": [
+    "uk"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9ee53f4398a34b3c",
+   "title": "2026 Immigration Changes: What New Zealand Employers Need To Know | LegalVision - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUzI4T0kwUGpXeVJ3TGthZDJERllqRG5BNTFqdHZ6ZGtMSGlybnZNd18zWjQ2SmxoWWhXNVJSR0s5MVF4UXROVTcxZDJWLURGeWp6QldGUGFoTTRH?oc=5",
+   "summary": "",
+   "publisher": "YouTube",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-aewv",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-15T14:29:59.468411+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "0e934541d688a23c",
    "title": "New skilled visa priorities under Directions 121 and 122 - Absolute Immigration",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXd4RVByRmN3dXRGWTRqZWZES21zUDFhaDZJVWpaNHZnUml3VTVTMkU1MWxkcnRqZHhzV1ExYXdsZmNTRWo3UElkeVN5T0FFZE9PMkR5WjlZN3lYck84Nkx5Ukw3ZEZ3c2RuVk5fb0ZOb25tNXNtZy1sWFI1YWM3WG1CdFpTSWEtYjZvUHZfZ3AzTERERzVYVw?oc=5",
@@ -34245,6 +34323,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "605eb7cd8f139f97",
+   "title": "This Undiscovered Eurasian Country With A $1,000-A-Month Cost Of Living Is Launching A Digital Nomad Visa In 2027 - Travel Off Path",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd2ZyekZHZ3RzcTF0SEZhdWpVVEZ4Tkx2YlBQV3lxM3Noa25EZTR6eVdJaG9PLUV0TG9mSVVyZDZVSVdjYjdvamR6OEZneGNNaHdDVmc0c0oxT0pCc3JkSks1WHU3bml5azJ3WHVzVXlLNV9jVWxYSWlaMjZYN2ZPXzNyWHJOeV83a1JJbFYzc2wtUWE2T3dWRGZvOHZLSTJ2NW9QNjdtR1JRNTVzYlhrald4NkNrZVkzcFlad2daU2FJUUp2cXI0V1F1WDg3aDNPb2xZekRfU0J4dw?oc=5",
+   "summary": "",
+   "publisher": "Travel Off Path",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-09-19T07:00:00+00:00",
+   "fetched": "2026-10-15T14:29:59.468411+00:00",
+   "visas": [
+    "digital-nomad"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "ad430f6383a42287",
