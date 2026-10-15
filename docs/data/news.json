@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T04:26:09.567244+00:00",
+ "updated": "2026-10-15T05:00:07.228918+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -190,13 +190,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-citizenship",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "eu-student",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "nz-business",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "c60303d321183df2",
+   "title": "Police make immigration arrests after Home Office warrant at Fiddler’s Ferry - Warrington Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2ZKaGdwWHFHSXM3c0Zyd0pPZWstV1ZObGpndjFkTjViN1Y1bFFNQjRNUHlOQklnMW0tUHZadm1OcnA3c3BIU1Y2OEkybklTQ0VKeER3cGIwMjNfMzYtM1htekRQUmF3VVdVNFhYbWxtYlR1RGlzSFdFeFZmSUZKMXpWSkYyVW1nSy0tb2pIaVd5dkMtcjVWZGRUYXE5Q3VTNHNQMHpJNFZIdw?oc=5",
+   "summary": "",
+   "publisher": "Warrington Guardian",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-15T04:00:00+00:00",
+   "fetched": "2026-10-15T05:00:07.228918+00:00",
+   "visas": [
+    "uk"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "98a56bf960e720fc",
    "title": "Albanese tells Hanson to go to Specsavers in passionate defence of migrants - Nine.com.au",
@@ -788,6 +808,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "5f673eee5e9d37a0",
+   "title": "Australia has 3 competing migration policies. The problem? None are based in evidence - The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUXc3aTcxTkhsQXZRcmJkM0wxZUpPaHhWTm1lWE1mSUpCVEE3SHlyNElmMDQ3WEt4clVHQjZ2SE9pSlB3UlpPbkRoV0pZTVJjTVUyN3VjUGhzRkUwVFpQMGdDZWlzbHVtZFd3Uk1mMDhlYnQzTV9hc1JYVmdJVzd0a0RyX0t2RVZxTWJxdGFrbHFJMjUzMkdka012VHdRLUNqTnRVNzZjLWk2eUJScy11SVY3NXpmVHVOWHc?oc=5",
+   "summary": "",
+   "publisher": "The Conversation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-14T18:56:37+00:00",
+   "fetched": "2026-10-15T05:00:07.228918+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "6ec17178bae30574",
@@ -1207,6 +1245,24 @@
    "source": "ca-pnp",
    "published": "2026-10-14T14:36:47+00:00",
    "fetched": "2026-10-14T17:04:09.996008+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b7ca96e1398dbd36",
+   "title": "USCIS Puts Officers who Fail Security Clearance in “Special-Sensitive and Critical-Sensitive” Jobs - Judicial Watch",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLXBVQ2JDN1lhNnhuYTc1UFRmdmdHM1VXTnJOWjZnWmVwZVdQSDdudlUwU3ZxX3J5TnlFQ20wSmlJV0U5NVZMYWlmMjNxbURBWlFHdHNBd3dvMFF1dEk4MDdHRk1NdFdUNzJEc2ctUDU2X2JnbFgycW1zbnlqUTZQMTZJeVIxVnNVdUVSRHZIUmxDTGc2b19UOXktUUM5MDdNalY2NHF2azVybmRVRFo2WDhFLURieUd5Yl93S3Z2WmlhWXAybnc?oc=5",
+   "summary": "",
+   "publisher": "Judicial Watch",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-14T14:34:47+00:00",
+   "fetched": "2026-10-15T05:00:07.228918+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
@@ -5521,6 +5577,27 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "dcdecbda7a092cdd",
+   "title": "H-1B Visa: Green card freeze by Trump administration raises concerns in Bay Area, could impact thousands of tech workers, students - ABC7 Bay Area",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVkZWR3ZuUmFEZTdnSm1lWXR5MHAxUFp5aXEzY3NrcWRSVzdXMDd1Ym8tbzB5NG9tMkJLWFc3RHNnT0NScWtXYjlNcnpZZV9EUW4yTzlTcnpuOVZGQ3B6RExjYmhFVkM0QmxtV3RhTzIyQUU1X1VxUFJXbjNjTXduNkY2bHZfUmxFbEc0V0FoNGdxMWd3MlRqY3VpeGVHYjZCSDBpc0hZR3JkS1k2V2NVUGlIQWZBZ1N1S3pNRmhSSjg5VDBNdzJTVUdEc05qRnBzUzRXdHc0bUtXbjUzS0FKcHhjOWRPdHfSAewBQVVfeXFMT2VHVy1rMUZ6WkhHb3JwMWFETFlFbjZTQVZPV2RVYlgyS0JRUHgzejBxdHlhMVNoV0RDSUN0Wi00TGx2X2RGRzNKajhxQkJTR0N0TzBOd0tHYmdNYWszUDBjeEZfbWdIbWEyaWFvVEk4Ql9wT1U5NGY0VHJORXpQLTlCLUpHdUdLdmZzM2Z4WVRMV05QUzh3NzF2MkRvZ3JzbGU3Tzd3ekcxcVViOWlRZ3hDTWx2RU8yZnlTTUYzVTBCa0F1OHJFLWViUjJ0c2xQOWFqXzBCSlZucGFGTmhUUFFDQng1Y2FUUkpzYzA?oc=5",
+   "summary": "",
+   "publisher": "ABC7 Bay Area",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-10T07:00:00+00:00",
+   "fetched": "2026-10-15T05:00:07.228918+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "a18ae40e02c987e8",
