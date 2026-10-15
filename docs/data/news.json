@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T15:08:12.187258+00:00",
+ "updated": "2026-10-15T16:03:24.157828+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 25
   },
   {
    "id": "eu-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -202,7 +202,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 40
+   "count": 18
   },
   {
    "id": "au-student",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 12
   },
   {
    "id": "au-partner",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 10
+   "count": 16
   },
   {
    "id": "eu-student",
@@ -447,6 +447,45 @@
  ],
  "items": [
   {
+   "id": "b6b96903a0048a2e",
+   "title": "Canada invites 2,500 CEC candidates to apply for permanent residence - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0ZyR3ZWbUVld3RwTGtOQkFLRllIVm45dDdFV3daeUVwN1pEMGtsUkVWMHNIYVJFTFQ5NWdVUHljN3dKZ2Q4RC11MDh2ODZlNnJMZHRmQWVJZDJnOFQxMWRiV2dwclpGajFuYlZlOTR2QnpGajRkWDU2MmI0dnJIcFJIMExtYndJdUtiQVpIeWlkcHJjSy0tNGQydDJaRU1zUjNWUjdGZGktd3M3UXo4cHBB0gG3AUFVX3lxTE5Yck5xbTVmQ0NyZWJEWHZmN1hiTmt1RmhsU2JLNUl4WFRIRnEtUjJMeEFwWDZZSDZnX2c3aXpfRmVvbkI0b2tNV0lYbXhmV0JSWjI2czFrX3JiMVZnQXJwX2piODAxVlVUY2ZvSzRIb1o3VVkyb1E3MHAzR0lkd0pVSmVNck5xMl80TkplT0RveGFXeGRGcnlMb2RuaGFseWRpY3dpSHBUanU3eFVMak5QaFFpdzh2RQ?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-15T15:11:10+00:00",
+   "fetched": "2026-10-15T16:03:24.157828+00:00",
+   "visas": [
+    "express-entry",
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "1b1ea97e9300f807",
+   "title": "USCIS raises immigration fees in October: Which applicants will pay more? - El Cronista",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWQxWlVtdllQc1dabVc2aEVZRUF2UEE5RTF2NGRiYk1xT2ZWREt2MkR2ZFViRlFhR1d2SXJzbXEtYmJmbkNGZWszemVGVktta3ZBSWpqbnJsWENTbl9Va2p3aHNXblA4R29HRHBBa3YwbElNYmdLNWFMU1AxMUQwZnNWSmxLbTllVUFSRVphbnRyQXdvUFpGUGtRbW85UndReVFxOWFZaDlpQUU1b2ZUYUR3?oc=5",
+   "summary": "",
+   "publisher": "El Cronista",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-15T15:10:13+00:00",
+   "fetched": "2026-10-15T16:03:24.157828+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "8dbe09b8a195fb18",
    "title": "EU Weighs Schengen Visa Restrictions for Russians Amid Sabotage Fears - The Moscow Times",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemcxQ0RPTENZZWFyMTJ5TTRkdGI4WWpwZVN5aFBDS3p4U0x0ZEgtM1otN3pvcWp5cjRxaC1SSGNxcVJEbmR5NVg0ck04RDRiZ2JiT29tQVdMX0kxYWFKcWxqT0NaLURsWndmemx6bTJhYW13Ukh4YS1ZYkRPZlJkUG5FbUpKTG1jQ1ZuMFczWkJULVgzR05ueFRxYUk2a0tKUHBzWEswajNzVWlRU1M1WEhkTUJqODRsSFE?oc=5",
@@ -465,6 +504,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "fffabb5efde50ddf",
+   "title": "Trump Administration 'Building A Case' To Strip Ilhan Omar Of U.S. Citizenship: WSJ - Yahoo News New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa29YbkdZQ3RwZVhKQ01rZnV6cm8tRjlFMUdjR0h0S21XVXlISmRwT1ZqSkZYMTNESlNUdjJNYkxuMzVtZlduZmR5ZFR5Q1ItZlh2SV9sbV85eFd4MFhJSWlNanp6MUdyZFN4MkZOV2lqel9pYjRFVDdJYnhxSFVSU3Jjdll6MVpV?oc=5",
+   "summary": "",
+   "publisher": "Yahoo News New Zealand",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-15T14:43:09+00:00",
+   "fetched": "2026-10-15T16:03:24.157828+00:00",
+   "visas": [
+    "residence"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "934de1bd2e0dba99",
@@ -1372,6 +1431,26 @@
    "score": 0.0
   },
   {
+   "id": "e00cb6255b8a79d8",
+   "title": "Canada Updates Work Permit Rules, Removes 2 Regions From Freeze List - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVpIeFRBYTJYSHZyS0poZDJGSktBMVpzUzFBay1wOUVxVTcxMWRocm41YW1pM19WekMxeWRBb3loRGwyekpfWVBBZEhHaVJkWldjamp3c3BxeDQ3WjVHYmw1TldpMGRONFh4X3laQndFdDBZRnI2WlBwZlI0WjNXcVptdWg1UFVLUlcyS196MjFoVDlmaXRtXzBTLWdESktaSUc2bHh3V182cDRYOEN4ekRub3cwQ2J6eDBSdw?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-14T17:02:20+00:00",
+   "fetched": "2026-10-15T16:03:24.157828+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "0e046955c1f4b797",
    "title": "Germany opens online application route for student, EU Blue Card and other long-stay visas - National Daily Newspaper",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMURNTFdMSi1JeDltVzBsSmg1RUdHUEVNTWs2SzlYbTYyNmdaUmdZbWNLUDZSVzQ4MVF4VEx2XzlmdFhqbjdvNG9WMHc0Ny1YTHNubmRRRU8zd0N2MGVaWGFXQUZyeGl6dHo5XzRIUFF6M0ZKbTlRejlialR5UDJhMkxCWVkzeW1DTG5QY01iNVE0VW9GWmozWWdZazVuOURJekJ2cUJhY1kyRUNMeUhMR1lZcDU4WHJrZ3fSAb8BQVVfeXFMTURPdWIxaF8xb29rMnJvRERFcXRfU2VLN2tKU01lVkpIYnk2SVYyeXJTTlhISUE0TU5CRWNoeWZfMll4eHprZVk4a0dLVUpEZ3BzQm9keG5ienJZN1E2cEw4M2E1MkF6NE9tckthUGRYY3h4eG4tV3loeko3cWs1UGIyS2JoY1RsT0hURFNvUFNtSGp5X2JBUnFwMzVodUwwUkpjU1lVMHIwSFRaVkN3UkgzVVplUEFfV1VncVdld1U?oc=5",
@@ -2117,6 +2196,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "5106c81226202a42",
+   "title": "USCIS Proposes Ending Deference to Prior Visa Approvals - SHRM",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjhkQnZmTlphTmQxTWR6Z0FGSkdWNm9OZVdobmxudXB2d0U3Z3lOOXdlYTNKV1laZkx0bG9xcENNRWxKSTd2aGtXN2U1RVFTZnFqVnNMMG1jZ0dnNlpnR2pDcUZ1MEd5M0VNQWh6SzgzVUpuT3pLeEFuSG8wQS1jMXNBWWNCTjBrMkM0LS1SWS00SlZiY1h1bUtR?oc=5",
+   "summary": "",
+   "publisher": "SHRM",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-14T07:00:00+00:00",
+   "fetched": "2026-10-15T16:03:24.157828+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "f7d524cf64063f5a",
@@ -2953,6 +3050,24 @@
    "lang": "en",
    "policy": true,
    "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "cbf404db9ae497e7",
+   "title": "Australia raises skilled visa salary threshold to R915,000 - Briefly News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd3lYanExOUl5X3h2NFBwOTdRV2RobmF3TENzVXdzQ1BfaXVTT18zcmluVGN4a0FoanJpSGNIZHNBR1BRYURPYVhVU3FTUWREUDRLM19rcWhmeFZJRURES1YySnN2ZExGZlZVWHpTclk5a2ZVNmlPVml1Wi1iWG9ZR0VaOXFMWm9xdDQ2TDFoUUpETVBPRWRCaC03cmI5SjM2YlliaUtOWVZNTC16TzdFUzNUbmQ?oc=5",
+   "summary": "",
+   "publisher": "Briefly News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-13T15:49:39+00:00",
+   "fetched": "2026-10-15T16:03:24.157828+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": false,
    "score": 2.5
   },
@@ -20848,6 +20963,26 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "1d22077a18574c44",
+   "title": "Canada Announces 11 Categories of People Exempt From Open Work Permit Processing Fee - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUxXd1VxN3hVcnVPV2Myd3RWcUhsQ2hNTFljWkFPUWY2SlZvWThlQWxTWmQ3YmFYY3JER0lGbkFpYWhJTVdyRWRXeEZvQnRfdmtIc0U5RWRPX0VLNVVDMnZsa3JRbnltU0R2TldWdktfWmlubDNUNHBqLWxHQjk4RGI5SnM1YW15TmJFS01pcFFWd0VKbzlYTmFrbTRLcllvLXJZSVVMRE5sWHBwSE8wTC1n?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-02T07:00:00+00:00",
+   "fetched": "2026-10-15T16:03:24.157828+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "12fec60a071c0c81",
