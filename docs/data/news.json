@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T00:31:52.542088+00:00",
+ "updated": "2026-10-15T01:28:31.770323+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "nz-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -220,19 +220,19 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 9
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 12
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "eu-student",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "70908f37b7ecdea5",
+   "title": "Case of woman stuck in Cook Islands may be hot to handle, immigration lawyer says - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRkt3Sm84eHZCcDBzNFcwMUEydEZzaUxIeXVOTlI0dGNuZ2xFUG56WndjVno0Yk4wcC1MZFZWS3hsdWtUY1ZJZzRSb2Znal9KZ1ZISDE3cFJkNU5DcFBRV0xsN2pYWUFFSzhSVFlKRTMwOE5pY3RpcUdtYkZFbzh4ektCdGV3WC1iaWFiUFpqZUFZREk3bWVSTU0tTlRaVmlnUWI1eG1WR09Qc3N4WmJQdEtlYm10UGdGbHMwM3MyLTFUc2s?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-15T01:04:07+00:00",
+   "fetched": "2026-10-15T01:28:31.770323+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "45c3bb8bf62991de",
    "title": "H-1B alert: USCIS new proposal to make visa renewal riskier for workers - know how Indian professionals will be affected | Hindustan Times - Hindustan Times",
@@ -696,6 +714,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "8db0c86086de7665",
+   "title": "Photos: 20 become U.S. citizens during naturalization ceremony in Tulsa - Tulsa World",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzhERTNYajN0ZUdNMFBadFZNT18zZy1zZVRSaGdRQnh0dlR6aGR4Q3dIanV6WEJqb21yazBMMjlZV1VvR0V0VUx5NkE1WXNiRVdyOV84dHc3V1g3WTVRcjktVTctbl85SGR2MXduZmpUNGF4UlZKQUgwY3RlQVdTdA?oc=5",
+   "summary": "",
+   "publisher": "Tulsa World",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-14T18:53:01+00:00",
+   "fetched": "2026-10-15T01:28:31.770323+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "18805d0cccc5bc3c",
@@ -1631,6 +1669,24 @@
    "visas": [
     "uk"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "391c457f9231c4f1",
+   "title": "US Department of Homeland Security removes 540-day grace period for immigrants after their work authorisa - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVkpOUHVxaGtyVl8yeTQwSlRMTVUxbGhMMmU4V1JkT2EwaWh4RFYtWnl0cjc4ZE51Q2VkUks1aURLOGE3Ym1Tbnl3emgwTTluTWZIdXI4eU5yNk9CaVJqb18taHpMc0lyUDBNcWJiVTNLaVRncE94YWZZcGJwT1NUY2xJRmJGaUFxcV9zNUQ0Qzk2aGtuSm1NSlNCdEh3a2Jic0d4bXI1eDZhd1RZcVVoVkVCdEJNaV8yRWZIVmlpcFVCUXpmMFdyOTduRVFiWVJGdldOSWN2ZVBHVEpUbUVEOG9zYlFJc2N4LXp5RTk2S09yaU1fV2RXbDkzeDJZbTFkWFBoeElJR2FVS3FKdXZqSlNoMEVBRlJNdGpwaF9vQ1l5TWtoWDQ5SzdMeEZncDJxNDhTNTNJMXpIaGRNRDhfWHN2aUVpTV9LYUhMM3p30gHTAkFVX3lxTE5SVmZIT3R1cE5CWXlPNl9XZ0l4RGdoT3BBNXE5LWRJUjZzMnVobTFZdnpIQzJ1emFKZHlVZGlrRGllaDF6eUZhX2FnYVZMV1VwdDJwbWRZeG1PNWtmZHhyRVdCaTBfQks2NHZ0anBabzliSExZRGJiSV8xZ1Q3TW90TUhObUFRNVRSZkhIVnhSWjgtMzNsSUM4R1hnRGNSRTljeWhXeFFCVHV6OFNwSVNKbG1TNGlGREVTMWVwYnhwN3dITlFqWUI5ZXhMb1RTdE1IRHF1WHZUSVdkcTJMMDNtSmdKQzc2ckdnbXcwRG5PWWVjWVpYTk1fOWxCLXFVVTNiRUgybVhVUXlrWUZ2eURjdHZ3cWUxTGJFOGxMVWFuS3djLVVkYlVXRFFpU2pBeU5MU0VtaHBuM05EX0tOaEd0RFk3M2hGTVBROWlXT0o5dFM5TQ?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-14T05:01:00+00:00",
+   "fetched": "2026-10-15T01:28:31.770323+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -10502,6 +10558,24 @@
    "visas": [
     "work"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "20e511feef397be4",
+   "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
+   "summary": "",
+   "publisher": "Inquirer.net",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-08T06:59:00+00:00",
+   "fetched": "2026-10-15T01:28:31.770323+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -29516,6 +29590,26 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "9b4ba68b58bf7cbd",
+   "title": "UPDATED: What's in Sweden's new law on family reunification? - The Local Sweden",
+   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNQVc2cU03UWVJdVZNNE1wTF81cU1EQjlEVU1zOWpsV0s0ZExqekExSzAxWmZYWVp2UGIwaXdQd2d4WnQ2WmRxd0JaMTZXak8xWFBXTGwwcEhQd2pBd3pqRTVXQmVXTkVCbnp5cGVtUXdVNC1FOEVLVHBGMnJKcjJhR0xsTUpxZ1pGem9GSk5CbmFFaTh5ZnI2OHJKZ1dSLVZ4UHdFSW9QeHBQQ2xHdUVlTXE1NGJ2bU8xdEFmbEdkS1NuNk9HZzRTZVZQUVZwNHJycF9tbDR4dUFHcE1NNDhnUnMtTHlReFlYeFVvVTRCUERXQ1ozRWMzRlI0UzNPSkk1cjhNNXFzQXJ3ZzFoakI2V0tHUm1oeUpWdTg1X2lQS3FYZldBVkhOd0pHdkhrRTlORTZkdjN1YmNNM2F4TmRGOHB5a0s0R1dkX3ByX2dWX05KVkszUkItb2I4d0FSd1hyRDFSNzNKSWJWTUlVMUVqZ1MwREU0Y1ZjNUdoLXZPNXFnNmdUeW9UczN1QlI4Zw?oc=5",
+   "summary": "",
+   "publisher": "The Local Sweden",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-24T07:00:00+00:00",
+   "fetched": "2026-10-15T01:28:31.770323+00:00",
+   "visas": [
+    "family"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "671ed9f03ca957ca",
