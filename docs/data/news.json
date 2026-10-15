@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T19:59:55.430868+00:00",
+ "updated": "2026-10-15T20:31:00.447185+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 28
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -184,7 +184,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 21
   },
   {
    "id": "au-skills-in-demand",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-skilled",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-green-card",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-blue-card",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-aewv",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-business",
@@ -447,6 +447,68 @@
  ],
  "items": [
   {
+   "id": "ba48dbd244856eb6",
+   "title": "What Does the Latest British Columbia PNP Skills Immigration Draw Mean for You? - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb2hvQXdjT3dzWE1tWmg3eWFmR19BdnJudU5NUU9iVzJHS1F1dkRFQjdJZFdacWJMQ0VZb3gzZU1jQVQ4V3R4UU12WHpCaUlvTG9oVlVobVNIazFHV1lJWERzcGJkS1IzNVFXTjVidUJlX2E0QlRQUnRsb2d2dk92Z01va1VaOHZSU0Z5djRwS0V1OEVvNFo3TGhSWnVjNUJKSzZXaEtB?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-15T20:29:46+00:00",
+   "fetched": "2026-10-15T20:31:00.447185+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "bb0e1f3d3ad7bfdd",
+   "title": "Green Card Processing Backlogs for Refugees and Asylees Could Have Implications for Health Coverage and Care - KFF",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVzYxXzJjLV9pc0x6ZVFoM3hGd1hIRWdvdlM5dFhOTHptdzVrY2JqeVN0aWVndkJxek9Rd0M0NGVBa2p2bHFoMU1QYV9EOHRzbEh2SjdvX3NYYmM5d2VrWHVnTThfZWVlWWVZc0pMWjBxQXU2QkNHWjExR0xfOGN5QkNkREFnMmgzdTlId1kyN3ZSdEpLbGF5RE1yWHVTQnE3X0M4SWx6QnphSElhQzFUdzJuQWRuMXR3X0N1UW85QkxERlJaU2gwQUVEaVdFanRnQy1pM1FFd3k4RjZqdXFr?oc=5",
+   "summary": "",
+   "publisher": "KFF",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-15T20:08:06+00:00",
+   "fetched": "2026-10-15T20:31:00.447185+00:00",
+   "visas": [
+    "green-card",
+    "asylum"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "b8209214ed9afcc3",
+   "title": "Getting a Schengen visa is already hard for Russians. Germany reportedly wants to limit where they can go on one. - Meduza",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkxaaEh5TTJESURTOHd0ODZlR083LURpMDNCUGc1ZDNlTVlPUkhrVENOamNYVThpaXpsc01nR1ZkZGNlS1MydTFKRnpMejlFWS1jckZFOHlzT2JNQllrcjFfTndVdG1tV0J4RHNiemt5QWNkSUUxMW4wMFRQZnQxTld3N21aRmI3X2RkNFZVb1p5NHpIMkVZWnlfa05jSjl1MUdUZG9STzlvS3RDaUtlaUJGQTRGQlZ0TE9MaDZhUzNIUm9vOWNxS3ZBTXd4MnVmM2NzOdIB2gFBVV95cUxOOXJoMnJzOExJZENIZ09EdUJZaDZQVFVEZHVCQmI5VjM0Si0zWkM4RnZIaUpCWDh0eGo4QUJ3Slllb2pxTk4teXlCTlFxdW4tNFh5M1VjVndLc2ExaUJYSjBUQWdVYVB1MmI4MUt5VHFXUFJ6OEwyYmZlNU5Uem1raFZfeWJBZjVib20zVEdiQXdiX29wemZJMm52d0UzdFM1OHkzR3ZNb2FpdXc5akdxUGFLYUxteVRGUkM1bU9ZTHBXdzhmSFlwMzY2X2NWcTZOWU1uZDRyU3pMZw?oc=5",
+   "summary": "",
+   "publisher": "Meduza",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-15T19:40:00+00:00",
+   "fetched": "2026-10-15T20:31:00.447185+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "35ec894850bf4580",
    "title": "Australians want less immigration. Universities can’t keep ignoring it - The Australian",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMjJjYk85amJGem9qVWw0SzhhZzdCcFMzdmROZ3dGbnhLbWJJMG0zeV9yaWJOVjQ0XzBzenMtWkEyV25MbDFzeUJ5YS1FaGxBUDhwZ2x6OG94VXE0dF9sVklKc3NzNk5NT09iMFJaRUU4YWNGcGoxdkJ6ZjdKQ0VxWXAzRWJYOG9SU1B5MXFJTTdkd3BUOXF5aVExTHpTaW1reFk0ZEVZRDM1VWlZM2F6WnZaRjVWaEx0VE1sNXAyU0QydTI2T19rNHRZZVExSDZRTmh5X0hkVQ?oc=5",
@@ -463,6 +525,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "1a5290f4d23e75c8",
+   "title": "2,500 CEC invitations in Express Entry draw #449 on October 15 - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM05JcjB0LXM0UDVrV1dCSHlZenRoVVVRS3Nkb2ZNc0tvYTBIRFF4aHd2aGhMZzJwRHlBajlXQjZUOEdTN3NlQmhhWmJSdTFlbjlTYXByMi04bXlmdmdUX2JCSjU0RHFFYlhaVmoyMm1uMmRLRndfaGJoMlA3US1Xb1puRDkxMVJT?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-15T17:35:08+00:00",
+   "fetched": "2026-10-15T20:31:00.447185+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "4e7aa4ff29666cdd",
