@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T06:32:38.205988+00:00",
+ "updated": "2026-10-15T07:37:26.222988+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -220,19 +220,19 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-pr-citizenship",
@@ -352,19 +352,19 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "eu-student",
@@ -400,19 +400,19 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "nz-business",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 22
   },
   {
    "id": "nz-family",
@@ -446,6 +446,46 @@
   }
  ],
  "items": [
+  {
+   "id": "356c968735670247",
+   "title": "USCIS Proposes Ending Prior Approval Deference for H-1B Visa Extensions: What Changes for Applicants? - Jagran Josh",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzlGclMxMUV3VWUtcmZXYkw0XzJUNFNSSVhOVmVoaW1vbnhrallxXzhrbGIxaTFXVDBHNDRyUmlWU0VEdUFhX0QxTGlqMDBQbUFFUWotdERPOWt5NGpsU0dubGQ3ZDVBVVVYTnFwa3AyQS1nV25BUTZERTJWVHZQNW9QaHdmdExDRU5SM3hHSmdjMkRpMmpjLWFNWjVldF9RZ1N0UGxRTjZGbTdVc013c2s5VUdpUVB6RXU40gHCAUFVX3lxTFBPYTN3UWU0OHZuZ29LazVfeElVUDl0bWFMeFIwenVwbmdrODhwdzJQbXFHMFBEUWFfSzgyY3Nsc2k4RHdtUHBXVUE4QUFHVE1tZzJmUEZiMVRSRTU4SGVLaU1pVE92SlA5OTc4N1k2dFVwanRXNXlvcV9kMkN4Q21ucjFRZXRSUUhhMjU0SEhZc3l5WldFVEJpSEtmdi1ldnVfZzd6NkQyVEJ1eDMyZ1NEYjFZTmRLaVhRWG1YYTZnbFRB?oc=5",
+   "summary": "",
+   "publisher": "Jagran Josh",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-15T07:05:34+00:00",
+   "fetched": "2026-10-15T07:37:26.222988+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "587a6913ffc5294d",
+   "title": "Pakistani creator questions 6-day Schengen Visa despite ‘strong’ profile: ‘Last time I am applying’ - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWHUwTFBjMV9VOGFTUDU4MHZ6Q0NJVmlJN3hZdzkzOEhjQ1RNNEtyRG56aHF0bGxBVXo1ZDZUUmN1RHAyUnZ0cTdDbEE2ekRUR3NFdXUyajJGS3JuTUtWclRRT2NfckZIck4xOGZxS3lpNy1xZlJjaTVMTUtvYnJKNVFENVpndVR4VWtUdEl0VEpSNGpMMGo0bm41ZUNXV2Q2bmxTSHFUeTA2aGVIeXZWVzc5MkFCdVNwQ24w0gHCAUFVX3lxTFBRVTBXaUNPeUd2SGxIS0Y3UGZrd2JDbXpZQjFmVXQ1S1FsT2szNmhDeXhYR1gyWWdiWE1OT1hjOXR0MGlCTkdlUjkyZGVFb1FkSHlGYW1FZUI1WldKdXA2OEMzVkxWcFBHRkZzTVJOaV93MGFiNmJvSUV6TjdVTG5tMDZvOXVNWVA1ZWl3WWh5OVl2RlFOLWNOVkh6ZjdWaTkyQlVPbGFtbWFBNG5BMW5aeTQycUhyUVRUaWUyNjNITU5B?oc=5",
+   "summary": "",
+   "publisher": "The Indian Express",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-15T07:00:28+00:00",
+   "fetched": "2026-10-15T07:37:26.222988+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "966975f9a431e304",
    "title": "Home Affairs 'unlawfully' jailed Australian citizen for 945 days, Ombudsman reports - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -729,6 +769,24 @@
    "lang": "en",
    "policy": true,
    "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "719c5f1cc8639a8b",
+   "title": "United States | DHS finalizes EAD auto-extension rule, proposes end to USCIS deference to previous approvals - BAL Immigration Law",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2xFcjA5eGpmUVFTSEVCdU53ODU0Rkppc3diS1VhMWs0OExhbW5pM0hfSTRuSFBXekZjTEZIWmp2Q1E1NnAtMm5RcVNjZV9PSEhCQ0pWNmthTkdHUGlhMDBQTmpaLW5aWEVGUDg3MjR1NTVyUXl6REQtY2NqcUs4UnhmX0c0YTgtTUR1bmhETWljTHRILVNhaUhtUXVSZm9GR0E1QWtLWWthWVR5b0pYNzNqSlJnM3hWT0JpcnlJV2pVNUpsejVVV0p4dFI0X3p0RWZ2b1ZtNDFUcGs?oc=5",
+   "summary": "",
+   "publisher": "BAL Immigration Law",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-14T20:06:35+00:00",
+   "fetched": "2026-10-15T07:37:26.222988+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
    "prio": false,
    "score": 2.5
   },
@@ -7532,6 +7590,24 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "9fb10f1c34229d30",
+   "title": "Migrant workers vital to local economy as hospitality shortage grows - The Bugle app",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUl0Z1JYX2kxZjEyT1NwR2VYV2ZkdHptano4UkJXcXJieEEzU1lxWjRSM2NqbmpFYldISHgzcmpMeTNZQUU4a3hJNjRYbHFMS1JwU2RIb1h1TXBTRTBtOGIzb3NzSTByenRKWmtpeVFoazhDWm1nbEMtUkhwcWlsZ0stRjZPZkRYWVNIdkZBam5oRGY2ZTRSdzdJTzBhWnI1bEdIbXBDdTU4elN6eGh0QU1yVU1hdzNBWk5GQ09jbzVaVkY5TEp5Q3RLWQ?oc=5",
+   "summary": "",
+   "publisher": "The Bugle app",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-09T06:40:00+00:00",
+   "fetched": "2026-10-15T07:37:26.222988+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "318ce44452d61c10",
@@ -31654,6 +31730,26 @@
    "score": 0.0
   },
   {
+   "id": "42d1951a57b93a46",
+   "title": "Want To Study In Germany? Check Application Process, Student Visa, Expenses - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQm9ESzlLZ2VaM3MxdWducTg4SWJkbnZENEh3eFRnZVBXQ3o5Z1BFd2kyeFZBZkJvc2o5VXZ1YVQ5SndPRjJYbVpaMVZLZDNpaEl5ajZ4NGstZ3FONS1wTURIXzdCdVN2ZzhBS09qbkZjdW01dmlvSVdvTXpDSVYtam1NNk9xQXVUT1k2MEJlMC1aMUdpTzJzU3ltQ19CZkQ1VmM0RFNBY0k5Tld1dy1xVTBB0gG6AUFVX3lxTE1pTHFyNm1KdVNoYXlHTkVPZGlRSV8yZDZyRkF6NERnV2dIQzc4d2xEZjFLU2JTRE1jeGNWWlRpVHZOYUJxRjQtVnQzbjhndGk1WWpLSXd5cVFObUN3endBNlNrMHY2cDIyRTJhdENGdEIycHZuczFjY3ZaaFZMOVp4cDZFcU9ZcElRcEhPZVdkZDRCdk5hRk04RjVTTHlPQjdsSVU4Si1UeThTLXBlcDREUHJJUzR4Qy1Rdw?oc=5",
+   "summary": "",
+   "publisher": "NDTV",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-15T07:37:26.222988+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "15deb630b6ae09dc",
    "title": "Úc cần thêm “baby bonus” hay nhiều người nhập cư hơn để giải quyết bài toán dân số già? - SBS",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc3ZkMUluUThLamUzRVdXbHAyZkVHMlNFZzlpUmhLSTlGYkVyaHhuT0RTcFc0N2l0V0wyaFJ4c2xucHd4bzhob21GVW0xWnU2dEZmVVNkVl8zN0F3YWZ6M1ZGRGo2THdpemlyWVljVVpwM1BGaDlVdzgzZURhVTBHUy1HcUpoN09pQjBkS2tIcXVfZ0FpNTJLdGtCd3ZLcTc2LWhaQTZvVkpNTFdvMGNhRXp2NlFUSDd1Tk5DTWhXWFZSMEdzRWJFaDBfNlFMRHItUlZxTWk0dzl2RkFISm91YWJOa0EwNFdoalp3SQ?oc=5",
@@ -38229,6 +38325,27 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "f98cded7b6044457",
+   "title": "A path to permanent residency: Australia opens visa for global talent - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzNGeXdGR1hIaURYRUpZZ2VFMUlzdmU5bXQ1b3o4Ym5jUFpxdVdjYlNWaWZ4UXRRMG5zeWJEdW9LNTliUkUtSENRSXJ6bEI5WkVpNHE3QUFEVG5VM0FiaHdtZTd0RG42ZnN3X2Vfd0cyQlhUZS1OdUJxbGtmcDRyLTRubUprVGRCem8tUkNyS2MwekNDTmliel9OYlFQTjRwTDRsSDFmYVZjUm9WVTVxZQ?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-investor",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-15T07:37:26.222988+00:00",
+   "visas": [
+    "investor",
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "a4e46b01953f32af",
