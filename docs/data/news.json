@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T10:02:57.561960+00:00",
+ "updated": "2026-10-15T11:01:18.939257+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-parent",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 19
+   "count": 23
   },
   {
    "id": "nz-family",
@@ -446,6 +446,46 @@
   }
  ],
  "items": [
+  {
+   "id": "f69226a9b5459014",
+   "title": "US Rejects Over 35,000 Green Card Applicants’ Work Permits As Denial Rate Jumps To 44 Per Cent - Free Press Journal",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlZqdkFoWE5sUHpJNDcwSXRGMnQ0aHNfN2x2MFhOZzhOVkwxeHBIWmZrYUJRQS1BOW1qcTIydkU4U2ptdE0yQjhremgybVVQb0wtR2VaYTdJQ3NJdTdBdEhydS1aY0trQmZoOHREal9ZcWEzd1lLVGM2SjdRSjh6eERhT2hLaHJ5Z21udXdjLVZyWm9jWjNkMXlYeVVGRng2eWRJemJpTnRiVDhnSTNYRXgzQ3Y5REZ2TUZGWnJpcThCYWFGZ0I0Tk530gHPAUFVX3lxTE9WblpzakhpSWhRQjVfRWlUUXZLdnVWWGFxcXRoYkQ1Z3FySUNzX1l6dnBzWktnMWpGWGhTMXh1SU5jcU9Qd3R3UDh2cVU1UkIxMWMzVzZ6c2xrOEZhVEJCai1tdzBkWDVxYWRPa0pMbGNKYlBfUWZqOXUwVlB4ZmJiUTFVOXl5UlVaaEJ0a0t6ZlVTN1VyT19kTzRIZWJiVkFuVHFmcWllLWw0QlRWdEpEaWNNR2VlTkI3V2tGSmo4dmh1RUlEOFlVZjh2NnU2aw?oc=5",
+   "summary": "",
+   "publisher": "Free Press Journal",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-15T10:53:49+00:00",
+   "fetched": "2026-10-15T11:01:18.939257+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "64f087e5680ce3ff",
+   "title": "Drop in international students leads to job, program cuts at Providence University College - CBC",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGNDeFVJemJXdDBDQkdqUXItYWFTV2E5RnNSb0V0QnRudzQ5b0N3ODNCS2ctRzI1eG0xbTlkdmdvLUpha0wyT3NOTzF2UTZULXRmYm05UERyeTVqYmx1eWY3NXdtU0pTaUtzbTNxX0NkRGstNWhEaGRMSmRRMVlGWVJVWF9wcWttZkloYUs1VnFMUW5uUGk2Rg?oc=5",
+   "summary": "",
+   "publisher": "CBC",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-15T10:00:00+00:00",
+   "fetched": "2026-10-15T11:01:18.939257+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "143870d5abfbe580",
    "title": "US sets minimum age for foreign spouses applying for citizenship - Yen News",
@@ -475,6 +515,26 @@
    "source": "nz-en",
    "published": "2026-10-15T09:04:18+00:00",
    "fetched": "2026-10-15T10:02:57.561960+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "c3157333aa5469e6",
+   "title": "Another country joins the UK in tightening student visas for applicants from Nigeria, India, Bangladesh and China over document and financial fraud - Business Insider Africa",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNllMOTNaZFY5Q1VTdHBXNGg4V1dJMWM1ZUZaci1XWmtNYV9kdmU4QlVHaGk1X0pQa1did1FNbk5SeU5IdHlMMVF4bG5wMjQyTzlvdFRCUjNIY1g1NS1wTWFfeXNNdlFJbTJZa0RTYTA2OWgzMmRiVDJSclJRZVRCRm9iSDRWSDJxb2N3ODVuMWJVTVFsaU54MDJEUmxoWU56M25iYnloOWI2Y3AtYlJQSGMzQnNjSE0xZVRLRGtwa3hGaW9IMXdjbmtMY2hUOEYxNndjLVUwOTQ?oc=5",
+   "summary": "",
+   "publisher": "Business Insider Africa",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-15T09:04:18+00:00",
+   "fetched": "2026-10-15T11:01:18.939257+00:00",
    "visas": [
     "student"
    ],
@@ -9480,6 +9540,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "2897fd1782a87b56",
+   "title": "DHS Proposes New OPT Fees: What It Means for F-1 Students, Schools, Employers - Immigration Blog",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVJ6NGZDaU92amtxYXNwSHFPdEN3a2R0TUluMmF3QmlCU1R6MlV5MUk2OFVNQnVUNHJYZHBnbHVfMlgyc1RKOHRrUXYzc1hGWGNyLXNZQ29TLWhfRF9MWEttOGoyQmpIcWVRbDB4VjQ5TDRhRkxKa1p6Mzg2VWJWeTl5dUJUOEdsVEs1R2lhSUJQWTBCaEZvMmJ2b2hrWFM5T2lpLUZUM0JHN05MaC1tSjZ6dHpLS2NqSnNMU3pn?oc=5",
+   "summary": "",
+   "publisher": "Immigration Blog",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-08T16:47:38+00:00",
+   "fetched": "2026-10-15T11:01:18.939257+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "780c4a08f18dc1bd",
@@ -35648,6 +35728,26 @@
    "score": 2.5
   },
   {
+   "id": "b0c5a4532df511a4",
+   "title": "More than 5,600 people receiving Irish citizenship in Dublin ceremonies this week - IrishCentral",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdFNkUHFJRWRlZFk0dXF6RzBGTHJMNW9XakJXVV8wSjJHQ0xhVWkxUy1GU0VxaVVYM1B5YVFXZjlqdmVmYWpESkR1bm40N1FJTTJMbUloeWF4TDBSeVRsM0ZVSGtTYkF5UGZnWmZibGpzcmw3SlV5atIBfkFVX3lxTE0ySFljc3REMWFwTmFYei1nV2ZqTDgyV040N2Q2NFNIeUo0QjF1NDNScDNSLVh6U1NObGYwdWI4d3NJTDFtM0I2eFl0ZFVJNlpwVXdiRlBFUGp6THNDUHN6QmlWa0dLNjlnVmJya050QWRhM1ZKRnNrUjAtZ3BSZw?oc=5",
+   "summary": "",
+   "publisher": "IrishCentral",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-17T16:31:02+00:00",
+   "fetched": "2026-10-15T11:01:18.939257+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "4b058bcd002cd8d7",
    "title": "How Can You Give Feedback on the Yukon Nominee Program in 2026? - ImmigCanada Immigration Consulting Services",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdEVRbTQ0M2E2N0FQV1V3UG5aY3pxY1U0dktNOGJqZ3o3blVKTXZjekZoS1dWb1o4bVpDYWVSYzJNbzBJUjMtSTZ4LS10aUpHLWRPSmMzczZtXzlzOWtSMWVOUFcwR0FxVEtHejd3aGlnWTRNOTNzS2RmTjVSTTI5R2dtempvQQ?oc=5",
@@ -37222,6 +37322,24 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "92325358418aa908",
+   "title": "Britain's far right keeps up pressure over small boats despite falling immigration - Le Monde.fr",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVnlnUm1xMFk5VU1DZHFBUkpvY3NjMV9IRUtWYlRLTnVhenhZWjZuc1VFTkIwTi0wczIzOEdqdktYOWU1N3BNaGhGSl9td2Q5M3h1MUFmaFZibHpKQjc4VnctdklDT2hSOEk3NmVnUXF4NUtSSEpfR2dwQmVRU05WdTdFOUxMLWpsOENqRjFqYTlZVHNOMDYtZGRIMmlKU3VEZEhxUXVGVDg4VmdVVnRwa0VBQWlrQkVBbmRZb1dyRzZ3VDJqOFB3WWVmWHlvdGlNQjZLb0dzUi1HaG81NHhuX3JZRWNyTmZsZWxtVA?oc=5",
+   "summary": "",
+   "publisher": "Le Monde.fr",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-15T11:01:18.939257+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5f30623419cf53e1",
