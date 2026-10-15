@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T12:41:50.771349+00:00",
+ "updated": "2026-10-15T13:38:50.683958+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "eu-gov",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 15
   },
   {
    "id": "au-parent",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "us-student",
@@ -274,7 +274,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 17
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
@@ -310,13 +310,13 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -346,13 +346,13 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-blue-card",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "628d8a4fa974895a",
+   "title": "US visa, green card applicants face new USCIS deadline rules from October 23 - Connected to India",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSm9xRDNzZzBOcUVvSUxyMEJEOGc4NGVlbXVZVUNIemg4bndQdnBrbENVdi1SbzFKQ01WU2tKQkRZcGUteU5fd3Z3aG83Yy1xaHNJZkVRWmkzRm4ycFdBd0Ztb1JvaTQ2LUxNRldUTTBBUFMtMTU3aWtscjNHUk9CM0ZPQS1HaEs4QlJTdEtpRzVpRjRVY1ZWV3NpdkQ0YkxUek5aX1RNeGNRSTgxUUE?oc=5",
+   "summary": "",
+   "publisher": "Connected to India",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-15T12:34:09+00:00",
+   "fetched": "2026-10-15T13:38:50.683958+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "bed1aaa6a6a1677a",
    "title": "New Zealand lists visa requirements for citizens of 4 countries to join the army - Yen News",
@@ -6120,6 +6140,27 @@
    "score": 2.5
   },
   {
+   "id": "9a8bbb76cbe0285a",
+   "title": "Latest Manitoba PNP Draw Issued 340 ITAs to Skilled Workers - cic times",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVHl3eS1LVnpJN210cXptQjhzMzVGQ1l4X0o4Rks3T3FvN3ZlZEFpUjVDdmJSOTlacXFYdTF6SmV1NU5NOEtfY1E5NHZ1d2dzOEw4VzZaX0J5RE9mM2J4cDJoLXI1M3ZydW9TS3c0SzlkcEM2RWhnOUFmTFRKbXI1U0NPVldJb3h5N2o3Tw?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-10T01:08:00+00:00",
+   "fetched": "2026-10-15T13:38:50.683958+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "1f00b39175a1b657",
    "title": "Canada Announces Date of October Express Entry Draw: Requirements - Heraldo USA",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2ZEa1JmaER2bHNnOVJfVElWbEpwS2ROMGdUOFJQeDM3V3R0UVpxN3RMY01WazlyQTExRG9ZZ1RDOWoxNVF0YzJheXRkbEgyZVFfRERxZXNrQmw5Wng2RGo3b1VsYkJUa1p0M0xIVTFmVlEzS19YRWdpNVE4cWZaT3dCYUJNV2Rhb190U19IV2RkbXpqZlVJYXJHbzVFSFNDeEJGTzBRanpKaEJ3Z3R6MWpqWlF6UXNQUDhPYXNFZnhJRkk?oc=5",
@@ -7146,6 +7187,26 @@
    "score": 4.0
   },
   {
+   "id": "88510c3492b9bc85",
+   "title": "British Columbia PNP Invited Over 280 Skilled Immigrants For Provincial Nomination - cic times",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGptUXd3dHd4cHFjNnVzWkIwOGF3X3lLOFBLRjBtWU53Q3JyZWVpd2I4TnREOTlWYUVUMlVGSGs0MTJnUnVJcjBrS3psNXVSb016YnRZMm1DQW1GTy1tUGUyTHNRMGN0bjNlaWVWWGtrVVF4enZMSEZ2Q0kxQkptUENiTFVvTUhUeXNUWFgwZ3JxMTVzR1VacHJmOW40X3Uzak40VW5PNXFjOWc?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-09T12:18:00+00:00",
+   "fetched": "2026-10-15T13:38:50.683958+00:00",
+   "visas": [
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "e448facf73052b94",
    "title": "Comment on USCIS Mandatory Electronic Filing Rule - Fragomen",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGE1b3N4aGdqN05rMnA3Y0RkamVKeFpUbFJoZlM3WmM4TFJaRmlNN3J2Wlp2bFBaRU5fRnNpN0tsaUE1UjB3TzNRenk4dEZzNTloOVFtWmVpX25OYmZaLTZxcFJ4cDZwWG5ncW5sYzQwcGhsdGwyWi1PVkdMd3RMc0dHYzVDOEI3amZVUGhvY0o5dw?oc=5",
@@ -7564,6 +7625,24 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "8d842e42e58fa736",
+   "title": "Mission to Finland addresses migrant integration and international protection - www.coe.int",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaXpaWGoxc0RmYTZ2dHc3VV9YZ2w5NFUwR015Ulg1SGhPcEtySVFaaUlkNFRZcXB6cTE3WEhFTHBUN1N5OHRNOFA4QTVrZWl2cGNTaEoxdldHbTRMbnlYUXkzZE1RUzN4SFI4ZEVyQXNNVnByRjlKRFI5UjFvSkF2aXFpUGFfWmJFUjhvWGN0RDBCLVl2TXBUMjJoRjVndklPNTZHbldmcjEwOXNpTnd6bTdYa2ltQ25CUHdtQWs5R2kxME15V0JURQ?oc=5",
+   "summary": "",
+   "publisher": "www.coe.int",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-09T07:52:41+00:00",
+   "fetched": "2026-10-15T13:38:50.683958+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "77d2e905d8944892",
@@ -27387,6 +27466,27 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "33e5a24236a2ce11",
+   "title": "BC PNP Issues New Invitations to Apply for Canadian Permanent Residence - cic times",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbVpKTjdsM3JsVUxkN05BYld2bkRfdEtUTGtndFRfSklRSW5MMW9kRDRkcENMalZxLV9iSEdfWGxGa2Fqa09ZMVo3Uk5ITEhQSk9jb1VpWTBmTGZPcG9ENUJ3SVUtMWZsNGMyNTNmM3B6cDV3QmdhRm41emplMzhvWjcxa202WUFoRmFrSnVWcFY3MHd1ZFUxWHlVckM?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-28T00:32:00+00:00",
+   "fetched": "2026-10-15T13:38:50.683958+00:00",
+   "visas": [
+    "pnp",
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "970e08040591b1df",
