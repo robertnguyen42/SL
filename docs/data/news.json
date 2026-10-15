@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T02:59:29.372409+00:00",
+ "updated": "2026-10-15T03:32:10.759041+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 24
+   "count": 19
   },
   {
    "id": "eu-gov",
@@ -190,13 +190,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-skilled",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-parent",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "nz-aewv",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "c8b13b0b7fc717cc",
+   "title": "What is behind a recent spike in refused study visa applications? - 1News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWRHSm80SHdCOHREeGkzSEs2X1UtY2JmRl9uU1Q3NG9YakhYS2dIdkNXbnFhNC0wZDBXLUk4M3FnbWk2TWN2eWc5ZXJidDdxUFRNR0VlYVpEdS1mM19NMm1YT3ZVWXl4MTNBRXRXLU5uNWRJVGNVUWxza3M0eE5RS2JONHRqY25faEpXcUJlVUlVNUJ3UEJKX3lKWVhmcmRqM0E?oc=5",
+   "summary": "",
+   "publisher": "1News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-15T02:59:29+00:00",
+   "fetched": "2026-10-15T03:32:10.759041+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "2a4cbb38b0c9b171",
    "title": "Baby born in Sri Lanka to New Zealand residents caught in limbo after Down syndrome diagnosis - https://awaaz.co.nz/",
@@ -36763,6 +36781,26 @@
    "score": 0.0
   },
   {
+   "id": "2da282638e059f83",
+   "title": "Citizenship ceremonies mostly vanish in Cleveland as naturalizations slow under Trump policies - Ideastream",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS3lsLW9KTmlhSHVYdE5NUmVvUzFvenl1Q3pJbmhwMHdtYWR0eHdWWVlMWHduLUZsU3J2VHozUUJHYzNQbjh5LTRrOUJUd090WnpJTjd0eHNNU2hRaGFkMFRJdV9LX193MVh2WHE3RHIzeUNoNTlZbG16X3oxZTJKcEdaakVkdFp6QUlfNzBYenZBUmZjaXRnUjRVQkRXcVlBdG9oOGx5MHROVG45blJMWHBpbi00U0U0UG1GOEJaakphNVo4alZNYkRhdmY3OG1LUXQ0UV9DWW5BV1N6bzh5eTdCYUZGdGM?oc=5",
+   "summary": "",
+   "publisher": "Ideastream",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-15T03:32:10.759041+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "5f30623419cf53e1",
    "title": "Australia tightens student, working holiday visa rules as migration debate intensifies - TRT World",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TYWtCNDJiSWg2Tm9ITklsbUJvalZLYkVpeEl3QU5IQnVINWNBeEhXZXhmZUFjYnRUNElVSDAtbGhZLXJaVTU3VXZPall2XzhLSTNPVXM4N1Q?oc=5",
@@ -37979,6 +38017,24 @@
    "visas": [
     "student"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "50a95d2037ef8f84",
+   "title": "How Does Alberta’s France Partnership Help French-Speaking Immigrants in 2026? - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0RfNkdHQXBNNFVUenRBZUkwSVNpZGZwNS1aNVFTVHFBWjNkTnhLR0Rab2Vlc090LWltQnNOcWphVXZXVnlBRzExSjBLZ3pYQ0VNZVQwUzBTYWhqaXlkWjNjZ3ItQ1pFM3hJLWhDZEJmUkYzbWhwTUpEbS1WUk1NVURkMWJiM1Z4QXdtbg?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-16T07:00:00+00:00",
+   "fetched": "2026-10-15T03:32:10.759041+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
