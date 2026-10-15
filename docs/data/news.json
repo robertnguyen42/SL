@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T14:29:59.468411+00:00",
+ "updated": "2026-10-15T15:08:12.187258+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 9
   },
   {
    "id": "au-partner",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-green-card",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-blue-card",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 16
+   "count": 10
   },
   {
    "id": "eu-student",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "8dbe09b8a195fb18",
+   "title": "EU Weighs Schengen Visa Restrictions for Russians Amid Sabotage Fears - The Moscow Times",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemcxQ0RPTENZZWFyMTJ5TTRkdGI4WWpwZVN5aFBDS3p4U0x0ZEgtM1otN3pvcWp5cjRxaC1SSGNxcVJEbmR5NVg0ck04RDRiZ2JiT29tQVdMX0kxYWFKcWxqT0NaLURsWndmemx6bTJhYW13Ukh4YS1ZYkRPZlJkUG5FbUpKTG1jQ1ZuMFczWkJULVgzR05ueFRxYUk2a0tKUHBzWEswajNzVWlRU1M1WEhkTUJqODRsSFE?oc=5",
+   "summary": "",
+   "publisher": "The Moscow Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-15T15:06:43+00:00",
+   "fetched": "2026-10-15T15:08:12.187258+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "934de1bd2e0dba99",
    "title": "Brevet Capital’s Affiliated Regional Center Files I-956F for Wharton Piers EB-5 Project - Yahoo Finance",
@@ -3765,6 +3785,24 @@
    "source": "au-en",
    "published": "2026-10-13T07:00:00+00:00",
    "fetched": "2026-10-15T09:06:47.002418+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "33b2ca7f8881f977",
+   "title": "Citizenship and naturalisation for migrants in the UK - Migration Observatory",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWlBwWjl0VFN3WDJ6cVhXTGhtdXFtbmFEb3lYZmhhV3lFazV6Ui1fcUpCVDdQTnh4dWVPMU1fLVZsX2I3RXBrOWRLUHFZOUJ2OUJjRFhDVXhDc3ZuUm5zZXlhbHpaRG9idC1uNWJPRElmV2VhQThrVF8zS1RzNDBaYndhX0pFNk5zcW5SMU1rd090dTVySmdpT2xxd05hWE5HT2ltTy1IMGNLazVMV1V5M1ZR?oc=5",
+   "summary": "",
+   "publisher": "Migration Observatory",
+   "country": "EU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-13T07:00:00+00:00",
+   "fetched": "2026-10-15T15:08:12.187258+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
