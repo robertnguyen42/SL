@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T17:58:13.156028+00:00",
+ "updated": "2026-10-15T18:35:14.955163+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 27
+   "count": 25
   },
   {
    "id": "eu-gov",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-family",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "35ec894850bf4580",
+   "title": "Australians want less immigration. Universities can’t keep ignoring it - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMjJjYk85amJGem9qVWw0SzhhZzdCcFMzdmROZ3dGbnhLbWJJMG0zeV9yaWJOVjQ0XzBzenMtWkEyV25MbDFzeUJ5YS1FaGxBUDhwZ2x6OG94VXE0dF9sVklKc3NzNk5NT09iMFJaRUU4YWNGcGoxdkJ6ZjdKQ0VxWXAzRWJYOG9SU1B5MXFJTTdkd3BUOXF5aVExTHpTaW1reFk0ZEVZRDM1VWlZM2F6WnZaRjVWaEx0VE1sNXAyU0QydTI2T19rNHRZZVExSDZRTmh5X0hkVQ?oc=5",
+   "summary": "",
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-15T18:03:08+00:00",
+   "fetched": "2026-10-15T18:35:14.955163+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "e9bceeddeb074d2c",
    "title": "USCIS seeks contractors to build criminal intelligence unit and informant records system - Project Salt Box",
@@ -37917,6 +37935,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "ba847d19ba1dfd52",
+   "title": "EES vs. ETIAS: Europe’s New Entry Rules Are Confusing Travellers - TravelPulse Canada",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOU5zUXhxNVpEX0RqaGdWb2xhTUU5MzhqMkNtSG5SUnNjVW16MHFycVJ4MzhBQXlDd2dqLV96M2NPS3ZGdmNLd0FiVUZwTENuT0U1Y0hkNEtGdmhCb0tsTzdBVnBid2x0WWg5MVpuTko3aUU0Z29fRmZCQzNSbldjb1VNSjlQdjBpS01LbWRycjhqZktGWEc5UGFSUUFnOEhnQWlPN3FKelozYVFBTGQ1TA?oc=5",
+   "summary": "",
+   "publisher": "TravelPulse Canada",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-15T18:35:14.955163+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "5f30623419cf53e1",
