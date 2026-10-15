@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T23:52:42.478301+00:00",
+ "updated": "2026-10-15T00:31:52.542088+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 30
+   "count": 32
   },
   {
    "id": "nz-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-parent",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "eu-family",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -485,6 +485,24 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "e134cf51acc5a572",
+   "title": "Planning summer travel? Submit your investment documents early - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUE9ObUxfeFFZTWg0WlZjWDUzQTk4S1A1OFduNDl5cmxlOEE2Qk9aQUNOcHB5aElJR2dmUUQ4MUJ2RjdzaHJwQjd6X0F2SmEweXNFZFdmNzhHRkE0ZnUtNmNpWmkzUzJVdm1Bc2FaeXhlZ3FRYWFlWFdMVERITW9renFVM2RheEE4OXFFek1ld1ZYRVV4REctcUhKNk1yd0RiTi13WVZac0k5V3padFdrdnQ2MzF2Zw?oc=5",
+   "summary": "Planning summer travel? Submit your investment documents early Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-14T22:16:59+00:00",
+   "fetched": "2026-10-15T00:31:52.542088+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
   },
   {
    "id": "b5f03453500e1fde",
@@ -716,6 +734,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d84891515525359e",
+   "title": "DHS Finalizes Rule Ending Automatic Work Permit Extensions for Immigrants - Law Commentary",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDhZRmtHQ05GSENtRjc5dTJ2RVNMRGRvOV9JOWEzd3Qyb3BGODRKWllMS3pLZHFELVpLaG9hZU1HOWJMNjBPVVVJeVJ6OV9MbVdiSHZDNHRDVGNndUJEQnJxRHNydVVKS1pxaE9WT2ZianphNHhoamZEbUQ1QmpCSk4wdmVzNEU?oc=5",
+   "summary": "",
+   "publisher": "Law Commentary",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-14T18:11:41+00:00",
+   "fetched": "2026-10-15T00:31:52.542088+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "929714795e68aa31",
@@ -1277,6 +1313,24 @@
    "direction": "siet",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "fa37272629bddfc5",
+   "title": "Aussie hotel association makes pro-migration move with new advertisement - 7NEWS",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHllS1Y1dUVFdVJKRk1MN05HSVJvVm1ycUV5OGxwNkNlVFhGMFFnTVU1dnRtV3g2akRSeTlzVFZRWkNsRXRUMm9oSU5jb20zSm5aaXZSVlJCeW10d2laTVdKTnNQVEJtZTZWMEdDNWkweFpPYXRpelJPdkt6UFhlbkZWME1vZU5QdkZIV09wN3hRa3B4Y2F3bHFMQUxrYkc3Zm9HQktWakZrcGRY0gGyAUFVX3lxTFBLeXpwbnpzaWxEODRZbFR4TnQ3NnkyVG11X0oxOGthYnR4TnlkQUxQdWNzYXUzUVpVdmo5WFBoNkRHNnAxbF9nUGhPVVI4ZmM2alhSYkl2anZDUTdiLTAtNnp6elpCMi0xWXZwN2JUU1VsaTQ2YnhrZFNfekdrUHZqQU5ia3p5MmNyR2FERFJyek9SWnNfV1pPWjdtYjFtVlhxYU5CeTNubWl1Nnowd0RaZWc?oc=5",
+   "summary": "",
+   "publisher": "7NEWS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-14T10:14:00+00:00",
+   "fetched": "2026-10-15T00:31:52.542088+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "7ab877190b53249c",
@@ -10428,6 +10482,26 @@
    "published": "2026-10-08T07:00:00+00:00",
    "fetched": "2026-10-14T22:24:12.504596+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "31f750ce5f579335",
+   "title": "Spain Work Visa and Work Permit – Types, Eligibility & Application Process - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12Qnk3ckQ5T0xDVFNTLWNCakYxUEVUZklfTEprYU1oTVdXdzl6ckFrM0dqa1VPZlBOQTBUTDNMVjgtODFvZkZiajUtck1oeTJO?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-15T00:31:52.542088+00:00",
+   "visas": [
+    "work"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
