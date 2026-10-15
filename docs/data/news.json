@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T19:28:04.000200+00:00",
+ "updated": "2026-10-15T19:59:55.430868+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-gov",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-student",
@@ -8336,6 +8336,24 @@
    "source": "au-skilled",
    "published": "2026-10-09T06:40:00+00:00",
    "fetched": "2026-10-15T07:37:26.222988+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d3a625186d3258fd",
+   "title": "A Liberal view of immigration - J-Wire",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90T0NDX2ZXeGgwakt2Z3JVSnFqbnNDQXVUX040NjdpcEZHaXNWVkFCQ3B3Z09CMHBqNGQ1Q2thQjdkejNMdGlUTk1sM2NDdE5KWW8zS1piWFJOamU5d3NGTjFvNXV3UQ?oc=5",
+   "summary": "",
+   "publisher": "J-Wire",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-09T06:28:00+00:00",
+   "fetched": "2026-10-15T19:59:55.430868+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
