@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:35:14.955163+00:00",
+ "updated": "2026-10-15T19:28:04.000200+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 25
+   "count": 27
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-skilled",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-family",
@@ -458,6 +458,28 @@
    "published": "2026-10-15T18:03:08+00:00",
    "fetched": "2026-10-15T18:35:14.955163+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "4e7aa4ff29666cdd",
+   "title": "IRCC relaunches Application Status Tracker for work permit, study permit, and permanent residence applicants - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdFk3RHZ6MHRnYlJKQk10ZFlZZUZFbXVwTkZxY3dVV084UVV4SFNhbjJRY0RrUzZweXNiSlg1a054NDJDUnNERTFIUTFsWTBhUUh0ejNNX196UEJLdnBCNnM5QnljX3pkZU5QOW5IQ0trSUJxX2IzdjNZZTdqZ2h4WkozUnpyWHhmbko4QjBDY3l3djFCV2pVOHFYVmJualQ2QjRqXzhsWFlLSmJvLWVFd1h5ZTlJeFpEdmRRM19rQnkzcXNrdEJqZVJXbWFFZmVEQS1JbmRyX3BYYnY5WXFhYl81WDNUWjEzZktZ0gHrAUFVX3lxTE50WTdEdnowdGdiUkpCTXRkWVllRkVtdXBORnFjd1VXTzhRVXhIU2FuMlFjRGtTNnB5c2JKWDVrTng0MkNSc0RFMUhRMWxZMGFRSHR6M01fX3pQQkt2cEI2czlCeWNfemRlTlA5bkhDS2tJQnFfYjN2M1llN2pnaHhaSjNSenJYeGZuSjhCMENjeXd2MUJXalU4cVhWYm5qVDZCNGpfOGxYWUtKYm8tZUV3WHllOUl4WkR2ZFEzX2tCeTNxc2t0QmplUldtYUVmZURBLUluZHJfcFhidjlZcWFiXzVYM1RaMTNmS1k?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-15T17:01:04+00:00",
+   "fetched": "2026-10-15T19:28:04.000200+00:00",
+   "visas": [
+    "student",
+    "work",
+    "pr-citizenship"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -2064,6 +2086,24 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "fcda119c26e001a9",
+   "title": "Australia Announces New Visa Fees and Income Requirements for Skilled Worker Immigrants - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUFCQ3lnWFowZndPS1ZYdHFWa2MwM1QxZ21kRkstZTdpMk8xdmxKMnpVcFBEMWhyampnMVdPeVlDWmpMTUdlVW1CZzZMV2NCenBaS2VOckNmMHhGclJmVk0ydkpaX25jQXNBVXZLd0tKa3lsY1FNV25TekROMS1IcFBZbkhIc0Q0WUFNMjZGR3d0RXZhOTZEM2FMSXZFV0N5dnVUcHNUNDk5ZnQ3VXc?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-14T11:12:00+00:00",
+   "fetched": "2026-10-15T19:28:04.000200+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "18f319181e7a049c",
