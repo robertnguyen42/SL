@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T17:05:11.626717+00:00",
+ "updated": "2026-10-15T17:58:13.156028+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 27
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -184,7 +184,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -196,13 +196,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 18
+   "count": 40
   },
   {
    "id": "au-student",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-blue-card",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -582,6 +582,26 @@
    "score": 0.0
   },
   {
+   "id": "40b59cb7d8e61fd2",
+   "title": "After UK, Another Country Rejects Student Visa Applications Massively From Nigerians, Others - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0JPaXk2ZHJvaTZnbXBUYk1feXc0NEFtQTVnTVJhcDZZMHdXbXdhZGd2MnRIVm1WV0N2QUZuM01uLVJ6bDY1NE1PWlRicVE0b0xsWnh4LWRxZ1o1ZXN5MGtvcW5MRGktV1RRanNXb3R5OS04c0NvdHhqZ1dpZEhPMk5QcnVZdmtSOUhrMFM3UlF6OTBBSE9kZ1NKUVc3SExjWjlN?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-15T14:09:13+00:00",
+   "fetched": "2026-10-15T17:58:13.156028+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "934de1bd2e0dba99",
    "title": "Brevet Capital’s Affiliated Regional Center Files I-956F for Wharton Piers EB-5 Project - Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTkEtRGRrcVhmWElhVkdQdkxjX2pSTGJDcXN2Mi1WQWx1bjZiRDM4YVhvcWU0OWZBRzFpbUdJXzVoejVUYXRITnZJdk9FZXp2dlBXMWJsbVA4TUI0bDJHc2dwSTJBYkItNGhrTHYzZjdGMHZ4UGsyNFpVeTNVeE5GR05yLUMtdGZrdG1uRXItRjUzZGpkelhkZTBJSjJWbEk0RWJxUld3?oc=5",
@@ -716,6 +736,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "ca553a85f3807808",
+   "title": "US denies over 35,000 Green Card applicants’ work permits, rejection rate soars to 44% | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNak5tNTdzTzNONm0wdjJCM25aS0FtTWtuQzJvZFhXMXpIdFg3ZE03enkwRTJFZEp2dDZqOTRHZEtlX0xWTFJGTWN0c2NjZmN3SEZScHpkdExIdlFTWjhvZjZsS1VqdmplWVBWNTlsNjdoMGlrSjdyYUgxd2pvLVg4WEtjTUFFRTVpUUpBYW5WRHN1V21IN0o4U1psOGVwN0pVM1RSdzNMdlphU0o2XzJaVUxxMElGUU5qbXVQcW9aZ3MybHR6UjRBdmg2ODNxOHpRVUNlSkJZWHhhVGR4WW5FT1pseXRMNEVyNnR3aXh6NNIB7wFBVV95cUxNak5tNTdzTzNONm0wdjJCM25aS0FtTWtuQzJvZFhXMXpIdFg3ZE03enkwRTJFZEp2dDZqOTRHZEtlX0xWTFJGTWN0c2NjZmN3SEZScHpkdExIdlFTWjhvZjZsS1VqdmplWVBWNTlsNjdoMGlrSjdyYUgxd2pvLVg4WEtjTUFFRTVpUUpBYW5WRHN1V21IN0o4U1psOGVwN0pVM1RSdzNMdlphU0o2XzJaVUxxMElGUU5qbXVQcW9aZ3MybHR6UjRBdmg2ODNxOHpRVUNlSkJZWHhhVGR4WW5FT1pseXRMNEVyNnR3aXh6NA?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-15T09:09:20+00:00",
+   "fetched": "2026-10-15T17:58:13.156028+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "143870d5abfbe580",
@@ -1058,6 +1098,26 @@
    "fetched": "2026-10-14T23:52:42.478301+00:00",
    "visas": [
     "h1b"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "8bde76497481f239",
+   "title": "All the countries offering digital nomad visas in 2027, from Italy to Thailand - Time Out Worldwide",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXlSV2wtYVl4ZUJZbllOaEJ3WURTVWlZQV9pMTBBZzhWUmdDS2NpRjR4dlh1VUluUVBlWHJnUl9pcmZkQTFBbGFvWjJEQ3BfcTJSWkEtb0xqczhRUnFXRmkxcW9mZkczVFFnUWtzd3VFNUkzYlhmeGpkUEtMXzVTYlZRX01KM0dnYk51ck04bk4?oc=5",
+   "summary": "",
+   "publisher": "Time Out Worldwide",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-10-14T23:00:00+00:00",
+   "fetched": "2026-10-15T17:58:13.156028+00:00",
+   "visas": [
+    "digital-nomad"
    ],
    "lang": "en",
    "policy": false,
@@ -31585,6 +31645,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "b9bb4346bdc336b3",
+   "title": "What Does Manitoba Francophone Funding Mean For New Immigrants? - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT0JuMHM4ZnZ0SnUzR01KaGJCeVFOcGktTllyUTI1c3VXSS1Vam9jcklKS1dVcE80MHRRQ01RQk4tcmZfOVVWRVR5ZlhST3A0U1dSZDRSX0psU3c1T0lIaUMtVTFjYS00S25KbXBmQmpJX3hLZG51Y1RHYkFLWVJqR2tscFgtSzQ0ZmFJeU83a3Q?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-15T17:58:13.156028+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b436ab5a5a925ab9",
