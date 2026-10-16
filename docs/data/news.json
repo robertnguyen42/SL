@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T15:04:41.450613+00:00",
+ "updated": "2026-10-16T16:01:24.660557+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -184,7 +184,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 22
   },
   {
    "id": "au-skills-in-demand",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "nz-aewv",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 13
+   "count": 10
   },
   {
    "id": "nz-business",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-family",
@@ -446,6 +446,64 @@
   }
  ],
  "items": [
+  {
+   "id": "17923d47c4699fdd",
+   "title": "USCIS Final Rule Ends 540-Day Automatic EAD Extension for Key Categories | Mintz - Immigration Viewpoints - JD Supra",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYU0wWTlnNU1VU2Z5YXhCdHBINE1nYm9IYVdpQThHMWlDWk9DMVpGLUFmQXNpTzA4SEN5RTRWa3Rtbkp5UTl4V0dkcm1oS0JSdEp1VFI4Vmk3OURtX0VCb29vdzRqTEJ4QUhJVklSdldPNy03X1FZRm56bVJfSDd5eEp1WXIyZnpoOVE?oc=5",
+   "summary": "",
+   "publisher": "JD Supra",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-16T15:31:44+00:00",
+   "fetched": "2026-10-16T16:01:24.660557+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "5d522916c377f84a",
+   "title": "More than 150 fake ETIAS websites prompt traveller warning - Travelweek",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMkNsczg1YWJCVXlsYUVPbEY4aE1pTWlMUVdaZXhaZWNkZXA4U2VncmpIM2pvelpzOFE3c2ZuYVlQUHBnMUw5XzhrU2FwdGZpTkd6ZHJ0dklOSmszaGhRdURGTDRBU0JNY0tIWWxGM20zcHUzdy1VQVZJRkROWDlpVmRyTThnSUhRTEJFZC1uQmUxbFRkVmkyY1FSZ1N1T1A5T2JmSkdLLUNMc3J2MGZId2x4UGFwRGVw?oc=5",
+   "summary": "",
+   "publisher": "Travelweek",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-16T15:26:59+00:00",
+   "fetched": "2026-10-16T16:01:24.660557+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "f1ff7900dc914f4f",
+   "title": "Canada refocusing Express Entry on top talent that drives economic growth",
+   "link": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/canada-refocusing-express-entry-on-top-talent-that-drives-economic-growth.html",
+   "summary": "October 16, 2026—Kitchener, Ontario—Building a stronger Canada means restoring confidence in a well-managed immigration system that meets our economic needs. This includes attracting and retaining skilled talent to complement the Canadian workforce and drive economic growth.",
+   "publisher": "IRCC – News releases",
+   "country": "CA",
+   "type": "official",
+   "source": "ca-gov",
+   "published": "2026-10-16T15:02:27+00:00",
+   "fetched": "2026-10-16T16:01:24.660557+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 5.0
+  },
   {
    "id": "3f170e82fe4121d1",
    "title": "BENELUX: Coalition dispute in Belgium prolongs ordeal for Palestinian scholarship students ― Draft law allowing ‘home visits’ moves forward in Belgian parliament ― Council of Europe publishes report on anti-trafficking measures in Belgium ― EU Court ruli - European Council on Refugees and Exiles (ECRE) |",
@@ -525,6 +583,26 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "6080e3655238bf44",
+   "title": "Canada invites 5,000 French-speaking workers to apply for permanent residence - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXc4a2hNZ3VOdTdYb21XQnFmaTZpV2FFbzEwTlZLUXF6cEZiZXMxRnhKTUtjQWlDSEo1VVVycnBtV1JBZEpZTnYwNEh3SW5NNDFpZk1tVkZMY3pRa0lRUXlpX1EtaXQyaWxlRTlhTGhLZjA1dDF2VFUtVjVaX3JkaU9fanEwd2RDb0hoZ2xtMXZKT0FPWWlMNi1BdnZCQ0dmMXQxZmpDelpYT0UyOUpOSkhPa2QxclFKY1RVS3NR0gHDAUFVX3lxTE5NM0N6S2VZLS1RSm1hVVFSQzVtQWRPUU9Cb0Y5T1U0NjVoeE4tZUszV1NxY0ktc0lBeEpjU2VZSU1iSDNDYmJ2dDI2X3l5NDdUSnF1dnhSOTExUUNmODhFdHNpbGhxNWpPUVZWS0t1QzBiQ2I0T21rTkViQnVBSkNFNTZJQ1FaMFpPOTAycnRVVUdhR0FUckNpNF9SZTR5ZVNuM3l1ZXBTUVJrajBfLTJTcl9tN1VTNWdLMXZKcDVIakNUYw?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T13:54:38+00:00",
+   "fetched": "2026-10-16T16:01:24.660557+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "59ab1f9421d40bee",
@@ -745,6 +823,24 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "8a96627dd023afbe",
+   "title": "British travellers warned to avoid scam websites offering Etias visa waiver - The Local Europe",
+   "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNak1KeTNMazVTQ29XRnFhbVppNkN0Y1RWMWdyX3Zvend4SFpTc3lUTlByVUNwc2VhSG56YUtsQnZmWlFFVE5McG02eWRmQUs0ZUJZLThEODN2QVFOeklVWGROcDkyNDRhQldFVkJhbDRMMnNxeWpwNnBwbzRWb2JxQmxVYmV2bGNmb3V2NWRfbFZWQ3NYMTF1SDd6V1JZcWVOTkVxQ3NCenFTRmVXM3JMU05CZ3YxUmpUaEh3RXA5UVVieEd0anBGTWZ2Z0Jram1Yb2ViY0k1dzdXbHE2OWlMZWg0UmZuWGoxb2pBZ1BzOTBnQzBBbWJWU081S0JiQmR6aEFpM1BlY0NTZFc3OUZxNUw3RHkwcWZRZ0tLalAwS1RDekRyOTVvUlpqaTlaZzA2MnpTWEU5TE9idG1NbUFqcGJqT3JZRFk5RThPRUZQVW1lc0FMV2tGV3dBdkVjWmdpMHhGU2hZZVpralVjM2xvUnZKX1BJVk5HOUc4a0VwLXl3RGw0Q05JU3ZWbXJIOXlhUnFFYTdXODREUE9sb1A5eXFKcGJXdmIwWW4tTlpTVk43UW8?oc=5",
+   "summary": "",
+   "publisher": "The Local Europe",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-16T10:05:00+00:00",
+   "fetched": "2026-10-16T16:01:24.660557+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b8c305965e090dc6",
@@ -1183,6 +1279,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "ef4c7774e5016112",
+   "title": "Canada Express Entry CEC Draw Invites 2,500 Candidates for Permanent Residence - cic times",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMjVndU9GQ3k0OW1YcmtJNVpuNl80M2V6cFc5U3VyTUxPQkd0LXNidFRRaDZ0ZTAwcEFldFVqUGpTaTh2WHZINFF4MUNaR2FvRndWSktJM3JhQlJMMGFMQXFEbUZMenBzckN5bUxvZzVzeHZ1LVA1RzFCNUVobTh5bFZhR1o3SE9ZOEFaamh2MHZGbTFEQlA2WTIzRG9lSnVxVE54Sw?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T01:18:00+00:00",
+   "fetched": "2026-10-16T16:01:24.660557+00:00",
+   "visas": [
+    "express-entry",
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "c311c0996457c171",
@@ -3534,6 +3651,24 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "e0ff52118bd499c2",
+   "title": "Con trai Lê Giang về nước sống với mẹ sau ba năm định cư Australia - VnExpress",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU2F0SWR6cWI1RS1DY0JndGVQSzcydlhuWFcxSV9YQ1dVT2NrZlByeEltMU01N1plOWhMR1g5WDdVb0trMmlvaDRVdFJCVmNUbmZRekdtRy1vTDBjT29HRnB0Sm5KblJxUTRoaF9HZi1UYlNLWFF0WkJhNTYtazVsVUtxTk50dmJPUERweEVTYTZ2SjhVNTJvTFVrb1N1U3V3cVZTY1UzaTJuQ3dISnc?oc=5",
+   "summary": "",
+   "publisher": "VnExpress",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-14T08:49:33+00:00",
+   "fetched": "2026-10-16T16:01:24.660557+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "76e6c4a86786197b",
@@ -31553,6 +31688,26 @@
    "score": 3.5
   },
   {
+   "id": "a52a04fb41cb430b",
+   "title": "Mount Snow Turns to EB-5 Program for Expansion - SAM Magazine",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcENua1prYXJlcHlLRVBKTnAwcmNrWUxoVzRBMkVOMERCQkY1WE9uQktjby1ZNnMxNUs5b2gxVGJOTUJCMVc2ckxFVEF3dk5pRXFxVkhLSlBQNE50S1UwYnFoMy15VFdWZDJlcjN5ODBMVWNMWFZFV1pueWVyb0xiaFczM1Rpdms?oc=5",
+   "summary": "",
+   "publisher": "SAM Magazine",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-09-24T22:38:10+00:00",
+   "fetched": "2026-10-16T16:01:24.660557+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "48d9260af3e0e311",
    "title": "Exploitation behind showroom doors: Company sentenced and ordered to pay $170,000 for migrant worker exploitation - Immigration New Zealand",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUWlZd1hxbU4wd3Y5OC1QaXRwbmliU1FYOFpqUTZER29jbzFzZnF1bnE2V1Ryd3hNck5LOGdodjRHY0NwSFJRQUhsbXlWOHZ1ZG1uWmtYMWo2dklwT1pPdlpGSzd0YlM4eV9HRXpoTTZCRV9nY3JjTFlnQkJ3TkVQY0RIWTNVLXVPcDlJU2xYWVh3OHJFa0VRcUFaQy1abmtrVU83ZWxMUTVsQjk3cS05M01kaGJXRjJfYjYzMXhpRTJrWXYzdXNGdWpFbTNDaGJZU1B0Q2pGaTAzR3p3dGpKVnZYa3RQUTNjTGstRDBQSER0LTNuNWxr?oc=5",
@@ -35772,6 +35927,26 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "d77a32373391e63a",
+   "title": "Australia Tightens Student Visas, Dependants Hit - StratNews Global",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSXhpbWkwSU5wUzZuTG1SUVhJa2ZyMEVraGFRNG5kTGZqWTJlTDcxSTZsRl8zVEdteGVVTURnR0dHcXRXeTJraWliMzl6N20xWE1tcHNTX3RGVEl3Snc2eXI4VGJFbmEwSkNWLTdDd25tWUFFUy15UGExNzFZUk5mb3VXVWtVNjFvSUNlYnZsNA?oc=5",
+   "summary": "",
+   "publisher": "StratNews Global",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-20T07:00:00+00:00",
+   "fetched": "2026-10-16T16:01:24.660557+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
    "prio": false,
    "score": 2.5
   },
