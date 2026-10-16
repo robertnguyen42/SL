@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T04:26:21.893724+00:00",
+ "updated": "2026-10-16T05:02:41.233252+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 19
+   "count": 12
   },
   {
    "id": "nz-aewv",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-business",
@@ -34842,6 +34842,24 @@
    "visas": [
     "citizenship"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a4f191ba9282a962",
+   "title": "Effective communication on migration and the European Convention on Human Rights - roundtable highlights challenges and ways forward - www.coe.int",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYXd1enVuTnlZUWxRazdlcU5qTUczRllrdU15djJZeGVqWGxHeTZpa3RFZnRMSmtEZjk5bVlRY0hCLUFDcHZLZ1h1d2k0bnAwOVE0bUNWMXhVM1NBYzEzLTZIWDM2UmpBX3Y0UEt2NFlQVkZsNWNqeW1Fa0tlN1g5VlI3Y28yWE54dmZxOGJBSW1MNjhkSGk3VmI5YmtqM3F1VC0xVDZ4SW9vQnhZZVJJMmdxZTMzcDM1bTUzMnRhcllQRGZNX1RSa3RNcHdtWFRVak9GT2t4My0yaTNlNFhNNmpVeFNXZzlWdjhQdEFteUY1MGNMTXNuMUpFMHlGQjVWbko3ajhUVXRfZ1Y5R0xZ?oc=5",
+   "summary": "",
+   "publisher": "www.coe.int",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-19T08:01:51+00:00",
+   "fetched": "2026-10-16T05:02:41.233252+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
