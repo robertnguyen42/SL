@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:30:19.061187+00:00",
+ "updated": "2026-10-16T01:28:05.409350+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 26
+   "count": 35
   },
   {
    "id": "eu-gov",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-skilled",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-parent",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -310,7 +310,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "ca-startup",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "c311c0996457c171",
+   "title": "International Students: Are We Better Off Without Them? - Muslim Network TV",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaDBfWFdHeDEtbld0S1RUSkR6SllYc2o2WUlZUE02SXNCOS1RYURVUHRqaVVLNDQybTJzbkJENGV3RmdxU0JSSGNVcWV2V1BKdHZRY2F6RG1ILUNWSkdHQW9YNm1CaXhQLUotYnR4QkEwcHBkU01WTzZ3U1dFbnZObjd5MXVGZld1NUtZ?oc=5",
+   "summary": "",
+   "publisher": "Muslim Network TV",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-16T01:01:25+00:00",
+   "fetched": "2026-10-16T01:28:05.409350+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "56f6cffee0e4ca52",
+   "title": "Missed births, empty rooms: these are the lives torn apart by the migration crackdown - The Canberra Times",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTdMOVFQWEhMa2dxdzdyX3ZUaGZrZlgwWEhhRTBWVVlrN044UVdZSUtfblhLVkVpeW9fNUYxUTZFVm1xVjdKeGJmQjNFdzlRaW1oSldNcjFFRDk5VWROMkVMZUtsS2tUTmdEQldJMER3X0dxbzNPaG5QeWRmWnZBOXctOF9lN19DdlByYkNuUmJVM1RhRGE5Qkl2S0haeER3N2JoeDUzbkZlVWxsYWwwS2kxRnAzeFNMRUE?oc=5",
+   "summary": "",
+   "publisher": "The Canberra Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-16T00:30:37+00:00",
+   "fetched": "2026-10-16T01:28:05.409350+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "90e4c44d21c2636f",
    "title": "US Reveals 1 Key Condition Immigrants Must Fulfil to Obtain Permanent Residency - GistReel",
@@ -4367,6 +4405,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "dc0bdf392d34fd4e",
+   "title": "Singapore work permit visa eligibility requirements, fees for Indians - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82TjY3bG45NnpHMlNzanZ2TlZUQW41eTRWTmpmMXBtVmg0M2JtOTFfSGR6bGIxN1FNU3F1cV9XdXl1MHg2R1hGVFlPOXVBRHdjTFRhSU5n?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-13T07:00:00+00:00",
+   "fetched": "2026-10-16T01:28:05.409350+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "252a52bf647d550d",
