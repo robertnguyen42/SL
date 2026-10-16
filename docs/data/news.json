@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T20:23:05.716455+00:00",
+ "updated": "2026-10-16T20:58:51.022017+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "nz-en",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-blue-card",
@@ -465,6 +465,46 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "aa0f63cb24c18ff7",
+   "title": "5,000 French-speaking candidates invited in October 16 Express Entry draw at CRS 435 - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUFqTG0zM2JzR0FLbjNBblBMdS12UlNTN1RJR1gzSHRtZWd2UGs3SHV5Wm9VS0IxZ1ZuLWQwa3VfZDVQSzJJNW5LMEtUa2R1NXJldWVYRjU5cVZjWlFadGVaMU9ZYWNGeGhJcVlnQkZQSWhOU2hfT3FnUHpFQWpFUzV0TDEyOUlhZ0E?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T19:30:00+00:00",
+   "fetched": "2026-10-16T20:58:51.022017+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "970ed94d1d454a9d",
+   "title": "Express Entry overhaul: points for high-wage work experience and job offers start November 3 - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0R2ZzNia1hHWkI4U0NzYkxCU0JXRUFuUkFvOEQ1NE9PQ1dTaTBNSlBxckNfckRMN2VONjVUalFLWW45NWJSOHZUVEpoVnlWbW8yUjBJSVhhY19ZajNyVlB6ZG5zZlJtcE1UZndJcTZUUjNscEZmWVRzcEtmdVZrTQ?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T18:40:00+00:00",
+   "fetched": "2026-10-16T20:58:51.022017+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "fa672b6c6cc242e1",
@@ -603,6 +643,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "27ac7367710144fd",
+   "title": "USCIS Is Using Artificial Intelligence: Even Small Immigration Discrepancies Could Create Big Problems - Reddy Neumann Brown PC",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnNEVTUxRkJsaWhlRUF3UDZONFJTSFNjaGIxZ2s3RE00YS1raHZMenhma0YzTk9QbklGQ1AxaTJJYVA1RTljektqaGpTSHpqcXdwcDUtWjlQd0xITlI0M2pSRUcxeS1xek9oN29hX2I4LS1velpzSF9mTTZOMFlQdUhrSWdGWEVtdmQzUDRSYWsxb2FOZ1ZQdk1JaVJXOHBzVV93bTltU3dQYXJmYVlld3ZfRnF5T0ZfYkl0dFduZ05JSTRIeGxHLQ?oc=5",
+   "summary": "",
+   "publisher": "Reddy Neumann Brown PC",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-16T16:08:34+00:00",
+   "fetched": "2026-10-16T20:58:51.022017+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "440734cc265ea4fe",
@@ -5339,6 +5397,26 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "9d9076d2c4346872",
+   "title": "Canada Announces Foreigners Who Can Join its Police Force Without Citizenship - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTVSYmZQUnVjdlpwXzhRaUdRLU1OTG9TbF8xY0ZCdGZDRnJ1bkUzQmUzSlB5S3B5ZVhfNVhRd1liVmZlMHBMMzVTdTFGYzZNOUItc3dRVE82anNXbV9DMFk5Q29PWWVLRnFsWll0N2M0dmtpWWVISnA4eU1YdXZlTHJJSTFfTE4tYUlEWHBpZklQMW4zUWl0T1ln?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-13T14:04:04+00:00",
+   "fetched": "2026-10-16T20:58:51.022017+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "35f82b8e7d0cbdb6",
