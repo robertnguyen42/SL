@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T09:05:19.184599+00:00",
+ "updated": "2026-10-16T10:02:01.196396+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 36
+   "count": 33
   },
   {
    "id": "eu-gov",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-blue-card",
@@ -446,6 +446,46 @@
   }
  ],
  "items": [
+  {
+   "id": "049fb3041c6d17c8",
+   "title": "Watch out: Fake ETIAS websites are targeting travellers to the Netherlands - DutchReview",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEN1aXJtbzY2NE9yY1JlSy1IWGZZbzkwRy1yUHZCNUp3S3oyZzBfX2RLcHdwZGRSS2g0VG5kZVR6d000NGtWOXQ4bVVvMUdsWm5ZQklwYkVxUThTcWpBMl9hTDN5S3Izc3QwVTBKVFhpaFJVQW8xdWFaTk1oR25iWXV1eC1CeDNhUk1qVmhsYVhwbGRKaUF3bExn?oc=5",
+   "summary": "",
+   "publisher": "DutchReview",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-16T09:45:15+00:00",
+   "fetched": "2026-10-16T10:02:01.196396+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "4fab646cef27bebe",
+   "title": "Canada Express Entry CEC Draw: 2,500 Candidates Invited at CRS 519 - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdUtLdE9NMHBtRkRFNjlRMmExT0FRNkFRMXlwaUVibVNxNHJjaXp2M0FoYXM2YmhDMVBtUDlMYjFIbGVaMGhvdkF6X0dmSGxuN2dkTmZvOFpyWGYyYU5LaEFVcTlyN3FfTzhKYXZwQ0xqYVJXX3JFNVZlTTJZS2ZVYlJEOA?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T09:36:18+00:00",
+   "fetched": "2026-10-16T10:02:01.196396+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "dcdb76c937573313",
    "title": "New Zealand Raises Visa Fraud Concerns Over Applicants From 5 Countries - Yen News",
@@ -557,6 +597,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "aee64425ce53c6fc",
+   "title": "Atlantic universities' enrolment down 48% since 2024 - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnBnUk9yWU9pdnVyUXFXbkVvWENLemY2NlA1MXNuR0FkZTF0YTZPcWUzR3k2Z1NEdWdTd0hOUlFQLUlyOW53aUcwQ0FjUVpMWmlITWlqZDMxNlNxVEljaXF4Q09TRnpiTHBhX0RjaHkxaHBRbUluX2s1ZkRlSHF5YzBTWVlBdHAtYWY4?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-16T07:19:42+00:00",
+   "fetched": "2026-10-16T10:02:01.196396+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5e225898fc68aa76",
@@ -1001,6 +1059,24 @@
    "score": 0.0
   },
   {
+   "id": "1f5f4eeceee2ae53",
+   "title": "The growing issue that could make migrating to Australia less attractive - SBS",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUpYcGVYZEZUa1Y4LUlhY3pNR1dyZFNHdnkxb091NmlZTXc1OFI4OWNQVjFsVzZYRVoyWDNnRTh6RTlOY3dvQW5qX1lieUtSdFpEU1RNYnltUEluNlhVanZWSVBFUzBscFpXSEMyTEZ3WnZYcENDWGp5NjEtNjlVaFNDa1NnUHp6QWxuMlpnWk9qeXZwRFRHREloRVY5RXpBT3Z5WUZkUXBPNmdLcEg5NnA2MkU1Wmdtcmc?oc=5",
+   "summary": "",
+   "publisher": "SBS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-15T18:43:50+00:00",
+   "fetched": "2026-10-16T10:02:01.196396+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "5804c2c29a17fa56",
    "title": "NZ rejects 70pc of Bangladeshi student visa - The New Nation",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12WFVuVEpMamlOMUo0cTZ5UUdvUXVodXJPeHVvZkdLNkFLX3R6bU9qbHNWV0V6Y2F1RTVGankybzVNYTJUTWZXbXEwTV9Dc0U?oc=5",
@@ -1174,6 +1250,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "c0204e8dce8917df",
+   "title": "Latest Express Entry Draw On October 15 Sent 2,500 Invitations For PR - INC News",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51Z25rbFFIa1B2clNLRWFrdUlvX1E0eTBqWUpMYk1FcjNWTFFJOVY1aDVjX0EyakEzQ2FzUFQtSVpXQUlBU2lGaTEtQTdpNk81TmdrOEdGZTFZdlRxT0FVUTIxVVJOUWQxbGNzS2c4LU42a2dnMmczWXlHUWs?oc=5",
+   "summary": "",
+   "publisher": "INC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-15T16:22:16+00:00",
+   "fetched": "2026-10-16T10:02:01.196396+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "3151b2c7fb5ac669",
@@ -2135,6 +2231,26 @@
    "fetched": "2026-10-14T20:01:25.108442+00:00",
    "visas": [
     "family",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "dad7dae14998d9f1",
+   "title": "US Approves Over 99,000 Green Cards for 3 Categories of Applicants - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlZ0WTZFVTVjdEtKZmtYOW1RbHVvT29aNGFaMDV3eExjTzlpYXpGaXRLaElsc2Z0cV9HNk44MnRsQnBtekZnZWNGWWwyRGNVaHVTMDlWUkJPcGRZRFFwZjAxNXBMMmxlc0dxclFJdlo1T3lQQ3RweWctY2J4YzdabFhBRUlvSUx4ME90WmE4V1d6LWdI?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-14T19:12:28+00:00",
+   "fetched": "2026-10-16T10:02:01.196396+00:00",
+   "visas": [
     "green-card"
    ],
    "lang": "en",
@@ -39202,6 +39318,24 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "8cb7a3e66da479ec",
+   "title": "Australia moves to reduce net migration with new restrictions on student family members and “visa hopping” - ICEF Monitor",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa1NPRjd0Q1BaMFYxMHdEcUI5c3llbm1qT2JQZlZEdi1FcTVlVmoybHJkTVpKU2VoMDF3SGUzMkxKWEZHRHNTejNCakxQWUVJUUpYeG05enVudVd0Z3JxWU1jRkdRRFdnOHdEb1Q4T0htZS1vVE00SDVxZVlvMkdOTU1pUEIwdm9GOUszVVBsbEtvLWE2RENGeWZLcVV3SEt4Qm8wV0FVRm5YUXM3RV9COFdMMDRKNkk3Tmd5RTU5NGNRN2pEeXp4REZCLWVyaHp2Q0R2LQ?oc=5",
+   "summary": "",
+   "publisher": "ICEF Monitor",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-16T10:02:01.196396+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
    "prio": false,
    "score": 2.5
   },
