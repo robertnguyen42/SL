@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T01:28:05.409350+00:00",
+ "updated": "2026-10-16T02:02:26.547154+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 35
+   "count": 31
   },
   {
    "id": "eu-gov",
@@ -172,13 +172,13 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "nz-vi",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-parent",
@@ -310,7 +310,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "ca-startup",
@@ -669,6 +669,26 @@
    "fetched": "2026-10-15T21:27:23.775559+00:00",
    "visas": [
     "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5804c2c29a17fa56",
+   "title": "NZ rejects 70pc of Bangladeshi student visa - The New Nation",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12WFVuVEpMamlOMUo0cTZ5UUdvUXVodXJPeHVvZkdLNkFLX3R6bU9qbHNWV0V6Y2F1RTVGankybzVNYTJUTWZXbXEwTV9Dc0U?oc=5",
+   "summary": "",
+   "publisher": "The New Nation",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-15T18:08:49+00:00",
+   "fetched": "2026-10-16T02:02:26.547154+00:00",
+   "visas": [
+    "student"
    ],
    "lang": "en",
    "policy": false,
@@ -2302,6 +2322,24 @@
    "score": 0.0
   },
   {
+   "id": "43b331d6dc397b0c",
+   "title": "Thailand Opens Working Holiday Visa to Citizens of 1 Country, Lists Requirements - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTE4cnJEWUFlUXN4VFlKOVFDT3ROYkhiUDVJNXBBc01CeEFuNC1lSVE5RG42S09iTjc5R1ZLXzFORDRQNmZiSk1TX1NDYnNTZGRiUXdCeVdTeGVSVFZ0S045UlBLN1dTMWxrWVI1Y3J0Unk2UWhONnF2SDBWWnV5ZlRLRl9SQmRXQmpTc0lkNlZBQlNZZWlTNk5CUVB1blJ3TkZ6OVRB?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-14T13:07:03+00:00",
+   "fetched": "2026-10-16T02:02:26.547154+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "d049faa5556c7e02",
    "title": "New Zealand Names Visa Holders Allowed to Run Businesses and Those Who Must Be Employees - Legit.ng",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUFHelZ3ci1xdWRxTVEtaHl1bDRibWZiRjZiZThRMnJJU1VKRTJSeUJNQ25uVkFzMmZqX2RiMTFaWEhjRlZCUlpGaG1COEdkakF3YVpGWFJyamhWb1A1WDZVQ2Jhc05XM1ZWTWRQWDd6TjB5SDQ5c2FRQ055UG1VcXczN3FBdEZJWHdUNmhWd3FlMUZvbVZkQkhTa2MyXzZySVE?oc=5",
@@ -2677,6 +2715,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d662c6c1246a6cda",
+   "title": "Briefing: Immigration and the radical changes to asylum policy in the UK - Law Society of Scotland",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1ZQbUdYZVBLQWVlY0FaVTJ0SmxMU0Vfdl9yNTBpNFEzc1NkNDFobnRNelF5SjNpYnJlNXFnNkljbWZSdjBNdm9IQVZKSkx4QXp1SnV5Ulh6LUZIWEFjSWVQdWVzWEFSN1Rsa3A1S3hoVV90Ql90QUZQc3RXZnRISUNybkZ0VDM1X0ZLakJQUFIzV3poNTVLM2x5dHBNM3hoMThoT29QZTN5U0pnMFFWZk5UcU14VWhGSVk5MmNENWctU29zQW5F?oc=5",
+   "summary": "",
+   "publisher": "Law Society of Scotland",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-14T07:00:00+00:00",
+   "fetched": "2026-10-16T02:02:26.547154+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "f7d524cf64063f5a",
@@ -4730,6 +4788,24 @@
    "score": 0.0
   },
   {
+   "id": "3115e2c2eec7687d",
+   "title": "Australia clarifies when free visa ceases for foreign citizens of 1 country - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjlkU2cwZzdUYWFzMHJXcTRoY3BHcFJ1VmFSTExpQVFmRW1vakpITTJ4Nl85QkVJdjdXZ19JQ0xodGsxOW14YUlURDU1X3pQYlBnQWNoU2hZV0MxSlFLcjhlaGU1TVpCM3VCM0tsX3hVcWhtUmpPUVJtOVNqSGI3TEl3MWZFWnRqczVMRFpueExmMElXZWtWV2FuTVIxYWRLSkg3MGwxOA?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-12T23:12:21+00:00",
+   "fetched": "2026-10-16T02:02:26.547154+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "39a3d6f95bae164c",
    "title": "Labor’s new migration rhetoric doesn’t bode well for sensible policymaking - Crikey",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTG8xZk1KZE92Z1AzcjJvVFl4YU84Q0FEU2U5dW1GbFhZOGp6U0IzQzJ6bFdEMEhVX2hXNjdNYlNBZm5lSnBrLWRSREdodUhoU2QxZUduWnVDeTVsSVZqLUh4OGZ1YWQ0UTA4bXlvc3NoYlowUDFuTlVtTDRRWkNHbWVXcDVpeWs2REtaeDVPbHcxQzg?oc=5",
@@ -4746,6 +4822,24 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "0817816f7998bb3a",
+   "title": "Australia Lists 4 Conditions Under Which Free Visa Ceases For Foreign Citizens Of 1 Country - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLWhHVFBIWl9ZWXp5OFVvZk81dVh5ODA1dWJ3Ni1Kd1QzaUVHNXpsclIydUZ1VFdfaW1mek45LU12M3JDZEVFYkhRU3BldDFDd3c4d2Rxbzd1dklxNl9JTzJpRnBqLU5WMF8wclZ5VXNBODVLZktwaTIzWWVINXk2TU8tSEtwOUw3RkRTNTJKOC05d2FyTlhwdTJBVjRpRlhaTDZGajJNa3ZCUXhzYUE?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-12T22:24:46+00:00",
+   "fetched": "2026-10-16T02:02:26.547154+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c7dfbe6c21416a1b",
@@ -5751,6 +5845,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "5311b90119cc0887",
+   "title": "What Could Microsoft (MSFT) Green Card Suspension Mean For Hiring And Compliance? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelZWN1FLZ1ZqYUlETVFRanpUTHlNbWpWcnZiSlg2clYxRjc4akNjZl9xOFJsUkp3cnh1YnFjMGUyRjJKREJlQnJQRHZZTmZMTzExcFpCN0tRaHFmRkgtV05mR3dvc2ZrckRmNS1zMHpsc01qdEo3R2NFUXAtaEI0SW40T0ZvTmpCRXZXLVUxTkkwS1ZrNklJ?oc=5",
+   "summary": "",
+   "publisher": "Yahoo Finance",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-11T16:08:36+00:00",
+   "fetched": "2026-10-16T02:02:26.547154+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "7f096c6046c4b07f",
