@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T05:02:41.233252+00:00",
+ "updated": "2026-10-16T05:58:44.221422+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-skilled",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-parent",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-green-card",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-blue-card",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 12
+   "count": 19
   },
   {
    "id": "nz-aewv",
@@ -498,6 +498,26 @@
    "published": "2026-10-16T02:18:27+00:00",
    "fetched": "2026-10-16T04:26:21.893724+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d565c00c97ad9cd1",
+   "title": "ICE investigation reportedly aims to strip Ilhan Omar's US citizenship - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2lFOGl4V3lpWXZtbUNVcW01b1F1UTdvYTUxdVZGSncxWG1weGs1eWRKQ0sxeE9sdjRoX2gzYzVpNzNtenRLMEw5S1pXT3ZCVHhhTkYyZnVIYWY5SFg3OGhhTVA4MUZUYWlVbUQyUWRzWTRVYVhHWFRkUFB2SV9iei1weEVHd2Rud3N0NHo1S0M?oc=5",
+   "summary": "",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-16T02:14:34+00:00",
+   "fetched": "2026-10-16T05:58:44.221422+00:00",
+   "visas": [
+    "citizenship"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -868,6 +888,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "c4d7c535d14ed28b",
+   "title": "New Zealand visitor arrivals reach 99% of pre-pandemic levels as visa applications move online - Travel Daily News Asia-Pacific",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEVMR2RfNmhoZHRLQnFFalJPQkdrejF1UEEyUXpDcnVSX0czNEFaaGtGSXU4a3JMR3Fkb0pPZW9TZVNCQ2Y2T2FlVmo5anZUcFNGVVNKMHlqSW5iSlZZR3NHQmhaY1Brb1NZU2JuZmRtbFFqakZrallmUjNSMmFQU3I3a0UxWmxHSVdtdFFfbDVEX3lzWVhTTHpMYW9ZcFRvYmxycQ?oc=5",
+   "summary": "",
+   "publisher": "Travel Daily News Asia-Pacific",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-15T17:14:33+00:00",
+   "fetched": "2026-10-16T05:58:44.221422+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "4e7aa4ff29666cdd",
@@ -6962,6 +7000,24 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "b321186c8cafa1b8",
+   "title": "Daniel Wild At CPAC 2026 - CPAC Is Mainstream: Immigration, Australia Day & the Fight for Australia’s Future - 10 October 2026 - The Institute Of Public Affairs - IPA",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX09RejVXMVVhcHZtVzl5VkdVa1E1dXR6ck83SXA4T05WU1plRm90UEtwVmtsLXBJcTcyMjkxa2g4TmE1bnBNNnc1QWozM1p4OEU5T0pFeHRQTHhtVU1nRXRHRnBYY0k2a1lCc19XaG1lU09jQ0djR0FWeGxBX1JGQkEtazZpSFoyMnNOSFpqS1RaYWx2V1RheWxjelFWbFlFbURoMWFRRzl0TTBnV0JNdGFjUzhIdzFuN0RjUEk4d1ZEMl82Uks2dU9kQjB5cTE2OHd4ZXA4WC0xZWFqRE1oZGRR?oc=5",
+   "summary": "",
+   "publisher": "The Institute Of Public Affairs - IPA",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-10T07:00:00+00:00",
+   "fetched": "2026-10-16T05:58:44.221422+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "a18ae40e02c987e8",
