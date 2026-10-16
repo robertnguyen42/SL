@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T07:34:24.326409+00:00",
+ "updated": "2026-10-16T08:27:58.924088+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "eu-gov",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "us-green-card",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "88eb8535a86a2a8b",
+   "title": "New Zealand Announces 9 Visa Categories Affected by New Partner Age Rules - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmNjVGhfZjZwZ0JlSTk3bG90MDlZeTZBSkJMel9BLTEyeGNIQWVFVVhaV0RYWkZGSkp6ZzhPT2VTc010T2dqbWM2SDlDa2p5eGg0bmdCak1rYVI3Uk4ycTdCWGFwMm5PcWNpQ3VUME1aelRiRHdCUS1scUxkNjQyN1JaTmhwS3F0QTdqeFR6Sy1TdWNOVmJoMktGNkljZHhyUzdrWg?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-16T08:12:48+00:00",
+   "fetched": "2026-10-16T08:27:58.924088+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "7a63ba6e4e4e6343",
    "title": "New Zealand Flags Visa Fraud in Applications From Nigeria, India and 3 Other Countries - Legit.ng",
@@ -1017,6 +1035,26 @@
    "published": "2026-10-15T16:37:38+00:00",
    "fetched": "2026-10-15T17:05:11.626717+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "fef9dc998f204a5e",
+   "title": "In defeat for Trump, court allows nonprofits to register voters at naturalization ceremonies - Democracy Docket",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOUhhblBFdTQzazlrUF9FaXBVLXVVSnhVdHUwcm1BNFBxUkp4RGhZT0dFWElMcy00ZTF1TURSa3MyOFU3V0Y4NUhac3NYeWwxUENJYW9tUlVEMVBYcnRZTTFEVk5DOVYyZlpCM3I3U0JSRXR4bmR3bUxQWkFPOUJ5Y01JUWgxSE5pQ2k5eWFBQ0pycDZSMG1qeFpmd1BpeU9fS2l3dFVnc2t4ZkgtWkJqNVpMVkRXdl94cVMwZndycDNET2dtMTVCc1owWldZQktwVlE?oc=5",
+   "summary": "",
+   "publisher": "Democracy Docket",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-15T16:35:23+00:00",
+   "fetched": "2026-10-16T08:27:58.924088+00:00",
+   "visas": [
+    "citizenship"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -7300,6 +7338,26 @@
    "fetched": "2026-10-10T04:47:43.594364+00:00",
    "visas": [
     "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "544b081707ed2d69",
+   "title": "‘Midterm election theater’: Gee and Ursula rip Trump administration’s Microsoft H-1B crackdown - MyNorthwest.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WNkRZM2lvOTFzVTJmdXVMV0FUTVZUMk5lMW11Q2Itbm5Kb3pTdVBQYkpEMDdLWGd0bXBIOFVzOUI2LWtoTW9lM3c0bVF2TVlwS2FXREx0aUpyc3p1RE1jWDlNaldYcG5XTVhPb251S0hRaDFZSU1FZw?oc=5",
+   "summary": "",
+   "publisher": "MyNorthwest.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-10T01:49:04+00:00",
+   "fetched": "2026-10-16T08:27:58.924088+00:00",
+   "visas": [
+    "h1b"
    ],
    "lang": "en",
    "policy": true,
@@ -35721,6 +35779,26 @@
    "lang": "en",
    "policy": true,
    "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "26b4ceb36a99d10f",
+   "title": "Executive Order Calls for Interagency Review of Employer Layoffs in H-1B Filing Process - Ogletree",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb3RBcGlaYm95SkY1c3d4THlLNVNVUnNaSHc1NnZ2Ynh3M2NZUGpHcHJOa2tRSGZhM0xiQkRDNVdiZU93TTltVkdRTjdZNlRmSkU3REpKUnFwbGJydVBsR25yNGxDOUcwTXB6UER6eGRjcVVUSUxZcFBQbG01aS1jaERCdFZwU3lOZjJqbGV5UERFZ0Via2lBeWxVb0l1S00tVzRIMmlRVk4yTkxpTHQ5MHdtbjJTSVp2MEJndGhySTRVdEwxcDBuVU04dFRISWtmYmd4VWxR?oc=5",
+   "summary": "",
+   "publisher": "Ogletree",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-19T07:00:00+00:00",
+   "fetched": "2026-10-16T08:27:58.924088+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": false,
    "score": 2.5
   },
