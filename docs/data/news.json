@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T05:58:44.221422+00:00",
+ "updated": "2026-10-16T06:37:59.308340+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "nz-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-skilled",
@@ -226,13 +226,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-student",
@@ -352,13 +352,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-work",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "94296d9c7affc45a",
+   "title": "The Schengen Visa process must be challenged - Guyana Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEtGLUZ0U0FxUlJkZEhDUlpSSEJ2ZzRmN0pGWlc4NVNaUXRObjdyYkdqQWVwb19XZHA1enh1bVpJUTdsQ1VJcGRtcjgwM0s5aE5EU3dTa29TdU5uNlAza2lNMkF5NFVpTW5WdU1ROHpmQmZ6dHhzVzA5WUtwdEZrSUNMS2pjZFNDbkNuWQ?oc=5",
+   "summary": "",
+   "publisher": "Guyana Chronicle",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-16T06:30:03+00:00",
+   "fetched": "2026-10-16T06:37:59.308340+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "8e1f8071014f579a",
+   "title": "‘It’s just madness’: the pro-immigration campaign going viral over jobs - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNemJZWjBkc1lKdjdBbFpIWDd1UjlSTVpHR2NCaWxZQ3QyX010djRpdmc4ck00M0g1X0FkUmdKOVBNdXNnNzRfZUpJVWs2OHJodXFjWm0tcmJIOXp4V3RaNHZLN3RLYnppXzhRWVk0SzlXZnJMa002S1N6LXlyam5LZ0ltQ1JWWkVvb2I2WXlzdThKa19CQU5teTFxRkpmY0xpMjk1M2FNRENDMVlqUEVYVHRnNWlHOXF1OEpCX0l6YWxDQQ?oc=5",
+   "summary": "",
+   "publisher": "AFR",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-16T05:00:00+00:00",
+   "fetched": "2026-10-16T06:37:59.308340+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "429ef8094b6adf38",
    "title": "171,000 Unemployed and 13.8% Underutilisation as New Zealand First Pushes Work Visa Overhaul - Aviation A2Z",
@@ -5993,6 +6031,24 @@
    "source": "au-en",
    "published": "2026-10-11T18:42:57+00:00",
    "fetched": "2026-10-11T18:49:19.460272+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d13e937d4047730c",
+   "title": "Trump's immigration strategy is being tested. Australia is watching - SBS",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzVzdl9UeE1haV9wNTNUV0tOX19VdUw1UmVKZU9jczRxUnRDSTRmZ3JwSFlPcmhBbzZVXzg2YjRPZzlSVjFWMTNsZHZPX0V6SkFPbGZXd2lRVTZmMk1TNzJ2Z0ZIaVdjWmxqMWZnNFFPZUU3T0VxRzBILTl0bS1Mc01ZOFdiN1JUVzJLQ0lNelJKZXNVbWJfY25XQmw1Mzk1NEZjTG9Bb2tabEs2dDZzcA?oc=5",
+   "summary": "",
+   "publisher": "SBS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-11T18:42:57+00:00",
+   "fetched": "2026-10-16T06:37:59.308340+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
