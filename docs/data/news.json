@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T17:57:59.735123+00:00",
+ "updated": "2026-10-16T18:32:51.035842+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -111,14 +111,14 @@
   {
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-en",
    "name": "Google News – Australia Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-gov",
@@ -129,14 +129,14 @@
   {
    "id": "us-vi",
    "name": "Google News – Định cư Mỹ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-en",
    "name": "Google News – US Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-gov",
@@ -147,8 +147,8 @@
   {
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 33
   },
   {
    "id": "eu-gov",
@@ -165,287 +165,406 @@
   {
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-gov",
    "name": "Immigration New Zealand",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 36
   },
   {
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 7
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-student",
    "name": "Google News – Úc – 500 · Du học",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 6
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 12
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 12
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-eb-work",
    "name": "Google News – Mỹ – EB-1 / EB-2 / EB-3 · Định cư diện việc làm",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-h1b",
    "name": "Google News – Mỹ – H-1B · Lao động chuyên môn",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 8
   },
   {
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-green-card",
    "name": "Google News – Mỹ – Thẻ xanh – Điều chỉnh tình trạng",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-express-entry",
    "name": "Google News – Canada – Express Entry · Tay nghề liên bang",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 8
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-work",
    "name": "Google News – Canada – Work Permit · Lao động",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 38
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 22
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 16
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 11
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 18
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 11
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 12
   },
   {
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 4
   },
   {
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 17
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   }
  ],
  "items": [
+  {
+   "id": "7435c7217ef9e0f0",
+   "title": "Canada changes Express Entry rules for high-paying jobs and removes LMIA requirement - The News International",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUhHVzgybXliSFBKdm1KYW9saGExVDBvTVBteGk0c0VRcGtoQko0NWFySGpoN01UZTNfakZxb2VHSk5odFlLRm1nWGxqNGdsQVNha3BkU09OMzlqSkNaZjMwY2RhTFlPZFU0elozQVJ1T2VrVzk4T1hBTHlLTUotNFc5cjcxV2pCYUt6YU05Um9kVzNGYlhPR0FDS184UFJxeWQ3cjZjMXJ0dWhnWnNsR1FRZ2YxZzI1ZU80cmdESUdHczky0gHAAUFVX3lxTE9XU0J2U0RTNGN5X0w2TEloR2p4cnFZMFloSmdVeDFaZklTSkVrYjhMVGRVVVhJdmtEbnIxNGhwZjVGcXB6UEctN0lhVWUxdGlCV21LUU4wZmFPUmREVEtSejVGU2RHM0ttRVJMdHktMDBTV3pTS2pZQnoyUEtBRDNJVzJTa0ZNOW84bmotOEFFVGM3TnlHVERnZlJQZUhrX00zT05nTmtRTGNIWlpYNzNoNmhNdTN1eVZQandlZzFfUA?oc=5",
+   "summary": "",
+   "publisher": "The News International",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-16T17:52:21+00:00",
+   "fetched": "2026-10-16T18:32:51.035842+00:00",
+   "visas": [
+    "express-entry",
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "78ea8a0211d199b7",
+   "title": "From Cristiano Ronaldo to Ronaldinho: how these 10 football stars earned UAE Golden Visas and made Emirat - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPWXNJWjRyTE14QWZwbWpuTDFVZzROUnVFTXJMZXlHbE9QaDMyN1lDdHNidmpnTWJTNEF5c2VlM0h4ZDNaUmxPX3VlalZrUmdpR0dZbkg3NllUSW04bGpQWXdpMU5pN1JTZU4wbFFVS1ExU3Y5c281a3MydndmSlgtUjFtZGVwYjJKQ0c2OUM1UjZmQno5OHMtel9RR1ZBMVJvb2dVOGhMUDN3NnFvRXF2LTRLLTZ5aDdhaG8xa3otUnp0Q25zOGwycTl1dHBHVXpvN2NGbGFmOWJ5bnB0VkRDR3VCWHdjNmFmV2tnZkdTNFBxdkdLUzZjeVdwM3VWcER6X05ONm1fMFdtTUVtT0FwUnZxLWdNRHhaZWZwUUpwVGU0aEtESFR2R2tsOWVPSFNBRzR6SGM5Slo0RTRfV1ctWkpJMU9ZYzZEbXJKUkpVN3lHZ9IB1wJBVV95cUxPa292ZXhHUmNxeWIxZmtxNkFQekpLY210ZDZCcmk5SVRMVzNPRVdUSHVJRFZQbExycU9hRjJnbWgtaHVyeVhkNk12akRQS3l5alRsa3JQZXU0cE80ZmF6QTJLd29LMDhSUWg2aDhqY083MU5LWUhnME5ZMHJGazNvMS1NMFNJRHdZZzhUSDZPak9JUXNXWHNmXzhEN1dFdzJuR0JyT1RRRDkxcjZWX05mZ3ppOUNSVkZzM01JNWtEZmJtYWN3andtUENSdUV5UWluTW8tZGlCUFRmTVYydFhjR2dJaDdySkRjMHJOclJvMVAtbWRYRVo2aUdJcExLZTV5ZFZablNYdVVSVHlQWmdUOHEyNUQyUXhzY0JocU1WeGJCbUo1U3lxQVJod01mTWtPU1AwYXNtUmxpSEhZdDE5ZzZmcVdWRmFEMXVob2thTjI3eHRvOWk4?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-16T17:52:00+00:00",
+   "fetched": "2026-10-16T18:32:51.035842+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "d6eb1c21efdb0b66",
+   "title": "US tightens immigration rules, Indians likely to be hit - Rediff",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWXU5UktjamdWcTBPdlA3Smg5SnRUSWI0TzdoWGhkOS16VUlLMkNyekJPMUpkeDZXaUpqTHdPMC04a1EtZzA2REJTS3F1c2EwTHJmdG03dDFDUHZsbjhndDBTZGh6VWx5WWhjd2FwSmRVX1ozazRUZFY3U1hLNFQzM1I5cElpc0JHYkFuZDB6el9GM0taVmhGeTE4eWxqa3FNYWV4ZlhxbUp5bzAxWkNKYlVWT2VhaHdOOEk3N004Q3RPYldZcTJUdlNuNW5KT0U0TmMzMdIB1wFBVV95cUxNZ2dTQW52bmRTUGRhNWVCNC1qWVpnMnA3cUN4NExZY25wVGFWYnltcGluY2xxWkRJdTg4TFo0aVBkV0RITEpsYlAwaVd6LVo1YmNQSGloN3oxNTVWTWdnbS10M3UtekNGbHlGa0QtMTNGd0lFeDl3YVo5d3Q5ai05UzFrY1l1SGRjZXRCS2xVenRaRWRLRnZpWmZYeDQzTmFPQmZDRi1EODZxb0xvdUtBS2JvNmMwUndBM2RKWVQ5Q3ZIMlpmcFc5aDVONjBrZi11UjV0aUFoWQ?oc=5",
+   "summary": "",
+   "publisher": "Rediff",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-16T17:41:44+00:00",
+   "fetched": "2026-10-16T18:32:51.035842+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "cbb59bf7d868a73f",
+   "title": "Finland's National Coalition Party proposes tougher immigration rules, drawing widespread criticism - Helsinki Times",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSUlPSUJ5MzdpSFZjZ1BVNTdQVEZpeFpzeEc2UDNjaWtWOFNnQzFFV2xEYi1vbFQ4VVVGNFZXbXBqVzBlZVQzNkJ1NUJTclROcUZDZng2Z21ZUmVPc2VxZEVIWnkwSjVrV3dhbnFmV2NxTTBNbjNoemhmV2J5ejlILWNhMU80YkRWckJMbURWUUFMc2NsQnBFVmozY3lpdEw1dXJwREIxVGlxSHNsS0c2NHJMZWR0Ui1BS2pzV0xqOFVsbmpoY1ROd251bGFsX2x5ajhNaE9lN0RqOUd3VUNSdkhXNTRfRk92c3IybjlyRGM0Z2xDSk03X3NyUUU?oc=5",
+   "summary": "",
+   "publisher": "Helsinki Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-16T17:35:27+00:00",
+   "fetched": "2026-10-16T18:32:51.035842+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "886e18881d238178",
+   "title": "Express Entry Changes Effective November 3, 2026: New Points and No LMIA Requirement for Qualifying Job Offers - Newland Chase",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZkhZMG4tbjJSWkRmTU9WWkI3VzJXazZxVnN0Y2xwMGpLamRsb2U4XzhYMlFDVXRYRldQMF9lYU95WHdMcW04N2lnNWU1VXVmb0t0MVA3SWlpX3ppMXlaUzUzWlR3WUlVVmFEbHFDTUU2ZTNwZGYwZmpYdmsxRllIUWtBT25rSlY4SUNLWUdwbFVjNUFpUFZwXzVWN1YxRHJKWnRiTFB2X3pTdlJ3blVRVkV5YnVjQ1hpcDBONFJ2aHlSTDNueGdoLXhPYkh0bHc?oc=5",
+   "summary": "",
+   "publisher": "Newland Chase",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T16:11:09+00:00",
+   "fetched": "2026-10-16T18:32:51.035842+00:00",
+   "visas": [
+    "express-entry",
+    "work"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "440734cc265ea4fe",
+   "title": "BREAKING: Canada boosts CRS points for Express Entry candidates with high-wage job offers, drops LMIA requirement - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JVFhDdXlPVkpLYTFTZWR2ZjA3VlVvcUh2VFFfT3JzV29NMC1vaVpVY2FGUUdrTnFhakYweG9EYXIyQ0xoNDVYdGZLRzJyZ1kzeHRkcHh3MENHcm5Pdng4WEdneHlHeS1vQjkybUlMRHFmVlNET01mcFUxMNIBgAFBVV95cUxQREQ1eDhpeEVSLVdaa2VCa0E3UHEySHppX08yc3lxbnk3aTJ5LW44UVAzRFNwdkxhUDlSWnVVZFZnOGQyYWZCZ05odFhUZ2lLeElUTlY1Mmt5SVo4MC1RbmczY1hOeGpEdHdQOFF3OUpqekdUaGVJS01XUzVVOWJpeg?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-16T16:00:01+00:00",
+   "fetched": "2026-10-16T18:32:51.035842+00:00",
+   "visas": [
+    "express-entry",
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "17923d47c4699fdd",
    "title": "USCIS Final Rule Ends 540-Day Automatic EAD Extension for Key Categories | Mintz - Immigration Viewpoints - JD Supra",
@@ -2316,6 +2435,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "f3d9cd8b8deb1237",
+   "title": "Con trai Lê Giang về nước sống cùng mẹ sau 3 năm định cư Úc - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUEh4OGxCNnJIY1MzRVNrUDhYTVA2UVRaRkhMbmxLeG45V0Z2aU5Vei1TbWl2QkhWNUd2cEFnVVZjclAyQThLSkxEUFN0SGhPNGZudWN0emZ0R2NJUGFQSTJZcjJkUFhNRVFoR3FtUnNLa2pudy12ZTE5eGtGaXRKaC1R?oc=5",
+   "summary": "",
+   "publisher": "tin.skydoor.net",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-16T18:32:51.035842+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "a06a1234c5989466",
@@ -36791,6 +36928,24 @@
    "visas": [
     "h1b"
    ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "9be7ebc318927670",
+   "title": "Want to stay longer in Australia? Check new visa rules - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOEpyWXd3andyeGRWUXUyb21IcG1QM2RxeDdpMFloRndxSlNyMkZUMG9iX0Ywb24tUEpfYWstSjB0NnJOb1hUWkVMbnA2MVByOEpWTHY0OGhVT2tJMlM0NHo5QjlKZmhRRTJZaGFzY0d6dXlDZkttNG1YZzNYMmpDQlBxLXc4T3haRkF4X1JId2ZmZjZ2S000emF6cjIzb3FabUQ5NklOSDNGeGwyYmpSOGFPQ19KRk9SZHFkc1Z2Vmw1T0hpTUxLRA?oc=5",
+   "summary": "",
+   "publisher": "Gulf News",
+   "country": "AU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-19T07:00:00+00:00",
+   "fetched": "2026-10-16T18:32:51.035842+00:00",
+   "visas": [],
    "lang": "en",
    "policy": true,
    "direction": null,
