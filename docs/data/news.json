@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:28:53.029084+00:00",
+ "updated": "2026-10-16T22:00:22.568356+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "nz-en",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-blue-card",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "eu-student",
@@ -406,7 +406,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -1156,6 +1156,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "79cff73da060d69a",
+   "title": "H-1B Visa Salary Threshold Could Hit $140,000 Under New Bill - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGY2TVd5RFM1MlBBYVdEWW44Qk5lQWZtN1laMUZ0Z2VNa2Z4eFhiMWI3c0FnbzBCWm0ySHhXYmt5VmlpQUh5b2s1dUxudzQ0Z1F4ME1wNE9yb1ZrS3NLNmt2UExWR01qUzJnVmhIZkEyT0FBTzVScGd2X2IwLS1EQzRzN0lPX2NMU1RZUkFpZU8zYkxPOGc?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-16T09:58:00+00:00",
+   "fetched": "2026-10-16T22:00:22.568356+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "049fb3041c6d17c8",
@@ -10024,6 +10044,24 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "5b78a3457ba44b4b",
+   "title": "An open letter to fellow migrants in Australia - Croakey Health Media",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UZ3ZSZHNZLUhQc0FpRjVtTnZ1M0hQQTZhNl9yR1NfaFUwTDh2WEJJUjZuRW9sTk1GZDJyeHBuZzhwRUpBSEd6bS1jbzhhWm1vZXlPbEJ5azRoUTFfeXFlNFpjTHZaNWN4a3NJY1psSEhHb2ZtQ3pRenFqWQ?oc=5",
+   "summary": "",
+   "publisher": "Croakey Health Media",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-09T08:22:38+00:00",
+   "fetched": "2026-10-16T22:00:22.568356+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "de980318d679cae9",
@@ -40549,6 +40587,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "e41668519186211c",
+   "title": "Australia sắp siết thị thực với người thân đi cùng du học sinh - Báo Nông nghiệp và Môi trường",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMjN4MV9RUVdyNURrMUtMVnlHMnZ0Z3hYb25vcDI4a0JoWExpakx2d1lvVTE0VFRzdzdud0YwMFg5M09QVjAxT09SczQzWWdwd19MeG4xazVVWlVqVE9zUFM5N0t0UjJ6akRua1l0MjRRVlNydWFNTjQ5SjE5c1pycXprRkZxZk1EUm14QzNSYUlEUDNvNC1DZ3dIaU5xeUZjWWpOcjhoMThyQQ?oc=5",
+   "summary": "",
+   "publisher": "Báo Nông nghiệp và Môi trường",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-vi",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-16T22:00:22.568356+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "5f30623419cf53e1",
