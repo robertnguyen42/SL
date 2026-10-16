@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T19:25:31.436799+00:00",
+ "updated": "2026-10-16T19:55:15.439268+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -166,7 +166,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "ab9d40c5401ecefb",
+   "title": "18% decline in international students for Canada's Atlantic universities in 2026/27 - StudyTravel Network",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MQUdSSVViMkRUMk5rYVBsV3MtZDFMRE1YN3h0cVBmSGN0U3JzbFB3WHpzVW1FSjJjSG1ITlRUSGcxV0lFaWFNZFNidEZjeDF3TGdnRGZnTG5ldnRrSEE?oc=5",
+   "summary": "",
+   "publisher": "StudyTravel Network",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-16T19:40:15+00:00",
+   "fetched": "2026-10-16T19:55:15.439268+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "fa672b6c6cc242e1",
    "title": "Policy Watch: DHS proposes significant new fees for international students - Chemical & Engineering News",
