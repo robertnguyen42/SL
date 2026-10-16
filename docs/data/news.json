@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T16:01:24.660557+00:00",
+ "updated": "2026-10-16T17:01:10.602202+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -184,7 +184,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-partner",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 13
   },
   {
    "id": "nz-business",
@@ -503,6 +503,26 @@
    "direction": null,
    "prio": true,
    "score": 5.0
+  },
+  {
+   "id": "62d408ac74ee2f9d",
+   "title": "Comprehensive guide to corporate immigration pathways: Provincial Nominee Programs - Law360 Canada",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZUFMZjNnUGFEeGNxMU5STFRfUjJvSFhQbmxtRUhjUk5qOUNZZTVCLW5teDBaVUJZVF9fQnFNS0twZ0pyT2cwMnNpWk82SzdodWtaN2pGT2NKckJwR3hrQmtqb3hraFp6ZFBoRzFrOURvUzdiV25BbkFWSW5Oc0UyWk5RVFl5WEhrd0hScXNhVTh0UnVWTnV5M0FTQ2Vld1hFTWJkOFBQU1VZUjlJUWMwMGRSdHlvMzFKeXJJZEtVZkhzMEFjaE1Yd3ctLWrSAVhBVV95cUxNa0R1OFFPWG55UkZINXhoTFdWRzRFUGFqYU1mX0NIQ3NvZVdLRnRCVkpsVXZsalpDWmxVM3N1WGFnRzItRWpyUTJCeWRGTmVrUG1fM2ZfaGI3?oc=5",
+   "summary": "",
+   "publisher": "Law360 Canada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-16T14:50:37+00:00",
+   "fetched": "2026-10-16T17:01:10.602202+00:00",
+   "visas": [
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "3f170e82fe4121d1",
@@ -1087,6 +1107,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "1111cf29d8cfa3b1",
+   "title": "DOL Announces Enforcement Actions Against Employers in H-1B and PERM Fraud Probe - Mayer Brown",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeDYwU0VxSFFWd3ZWaEd3QXJ6ZWl2cTBkQW5iRlViZEVaT3czZjJGdG9wTXdLVGdGaW4tQ1Q5SzlGbXUybHN2cnR0SGJIck1FQUVpSEVha1FScWZCNlAwanNlZEdFazlFTzFwY0pJSUhpLWVGclE4SlhOX0xCRnUxemxtWkQyUWFDejRYRzJ4LVdEV3U0ZHo0RTNQejB0T1p1TXphRkszb3ZIdDd6VHpabDJHWUQtemJSR080QUN4bUFXUU9tZFhGQzBJb1A1d3Q2N3BMWVVMVQ?oc=5",
+   "summary": "",
+   "publisher": "Mayer Brown",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-16T06:47:43+00:00",
+   "fetched": "2026-10-16T17:01:10.602202+00:00",
+   "visas": [
+    "eb-work",
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "5e225898fc68aa76",
@@ -29504,6 +29545,26 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "dedc59446c812d77",
+   "title": "Federal judge blocks ruling limiting F-1 visa international students to 4 years - The UCSD Guardian",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWp2R2JvT1JUWFhTVy0tTWZONEtTcDducTZMMURmNjhWN1duYUdYWTJINE5BRnBoU19KU1VzZUJ5NmIxRUlVeFA5Y2pCX3lSRDRUdlo4THZxaEVvdlplY3dsX2JadUVwN0ptN2tJVVhnUlFRSldfUXlRRWtzdERGR05QTDRzYWg3dUJKSm01cjczakdpUXVSdGdjMU1Ta2NUNW5wd0ZlMlE5N0c1VjJXNlVYS1ZVUVk?oc=5",
+   "summary": "",
+   "publisher": "The UCSD Guardian",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-16T17:01:10.602202+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "0d330a644266d953",
