@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T11:59:07.718803+00:00",
+ "updated": "2026-10-16T12:39:47.718769+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "eu-gov",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "us-student",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-blue-card",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "nz-aewv",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-family",
@@ -1645,6 +1645,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "6426eaca678188cd",
+   "title": "Green Card Processing Delays Could Leave Refugees Waiting Indefinitely to Become Eligible for Medicaid - Urban Institute",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDVGSHdMSkJDcGtuTDh4NTdmb1ZUQlZ1bll3eVZNSXBETkdjTTFVNGdxNUk2TWRfdVJmTmJMRTBwUG5VMXhCd0VkLVBDa3VlVmJPZ3pYUTdHNDY0R3V4UXgxVzBpNVZicVhrNGxlajg5Ni1vZGRlSzktMW0tdEViQUEzUkZkWVdqMmZQVlJoeWRncVhiVjU0cEN3QzhLbkh1b1I3bG8xdjBVb0E5MFJyZmNMZzk4enpOaFJN?oc=5",
+   "summary": "",
+   "publisher": "Urban Institute",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-15T12:00:00+00:00",
+   "fetched": "2026-10-16T12:39:47.718769+00:00",
+   "visas": [
+    "green-card",
+    "asylum"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "bed1aaa6a6a1677a",
@@ -5017,6 +5038,24 @@
    "visas": [
     "schengen"
    ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "4b5542e175960658",
+   "title": "Trump immigration policies could turn away much-needed foreign doctors, critics say - Stateline",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOck51UjR5OFhnMW8tUzVFNHVBejdjWXlsVDVPQmdZbHZyU3pKNGhxQ0ZHdXJYdXRGcnhBWFMwSWZYbVA0WEowd043NFV3ZlhLdFJYd0dhelpSRmFGampGNy1XWEpINmZRZXVYZWJ1aWxJWTlSazJQOHRMRk9USGpodThRSjgzbEdfSHQydkh5R1VUaXV6RVBLUGttdVFjcll5cm54ZEI2Wk9PU3V0bUdJbFdreTItR0U?oc=5",
+   "summary": "",
+   "publisher": "Stateline",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-13T09:02:24+00:00",
+   "fetched": "2026-10-16T12:39:47.718769+00:00",
+   "visas": [],
    "lang": "en",
    "policy": true,
    "direction": null,
@@ -34034,6 +34073,24 @@
    "source": "nz-student",
    "published": "2026-09-22T07:00:00+00:00",
    "fetched": "2026-10-16T11:00:24.504298+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "0029085ec250ec40",
+   "title": "Australia Changes Processing Priority For Skilled Visa Applications - UrduPoint",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkxqaHUwaERkejFQRkJncHZyZWlsYktKZlFjMlc2el9JRUttbktDd0xxWHhtQTdueHJYZE5BZGpoUUhjZmRSeFZGNFF5RnB3a0M5V1k5NHdxVmRaLVJlY0ROVks3VlFIZnJpbmFINkZPTWRrRkJ0Q2JzQThuUWZERG16WWJVMHRLdGsxd0xvMWIyNEU0LWRaTWlFbi1meTUwVHdsODBR?oc=5",
+   "summary": "",
+   "publisher": "UrduPoint",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skills-in-demand",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-16T12:39:47.718769+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
