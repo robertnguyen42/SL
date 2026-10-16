@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T20:58:51.022017+00:00",
+ "updated": "2026-10-16T21:28:53.029084+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "eu-gov",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-student",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "f245becb50a72f7a",
+   "title": "Proposed $103,265 H-1B Fee Is Changing Talent Acquisition Strategy - SHRM Online - Buchanan Ingersoll & Rooney PC",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDRCYjUzenlLUkpGYnRyd3plNjFDZ3UyOWY0NFdTRWlHYnd1blp6aVU2V21ab2twVGZqXzJxeGw0Y0tyOTBWX0VBdDFPZ1psa0Jkc0lodktZU3pSa2o5STVJN2dTdTFNRDY2WGQtLXNldnJ3QmlSTDBMTHRHaUhfQ0tzSURWLVFSckU0UTVvb1Q0TS1PTVdQYjVVdm81SXhF?oc=5",
+   "summary": "",
+   "publisher": "Buchanan Ingersoll & Rooney PC",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-16T20:59:54+00:00",
+   "fetched": "2026-10-16T21:28:53.029084+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "ab9d40c5401ecefb",
    "title": "18% decline in international students for Canada's Atlantic universities in 2026/27 - StudyTravel Network",
@@ -5828,6 +5848,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "2ff1e3b7c2dc7708",
+   "title": "Canada explains what foreigners cannot do with an eTA or visitor visa - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmNIaThPbWRrcUdaUXMxY2RuQktzSzhlS3ZVMFpMZ2pQZEszcXNxbnNZTHdXYktMNkZQTXNIeC1MZk5ESEFkYVJMbElZSmFScmxVTzJvTmdTNlR4RlVRemhtbGd5RVZ2SXNPbTVHQUowMXB5Qk0wVXJXRE9DOEhsdlBzX21YS1VraUFtQkxrbw?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-13T08:09:45+00:00",
+   "fetched": "2026-10-16T21:28:53.029084+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "3a3e03bbcedde426",
@@ -19893,6 +19933,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "69e94fe247066675",
+   "title": "Australia restricts student visa applications from within country - VnExpress International",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0RqLXpma0dESFVyd213MXBKdjdidWFfXzVqY2pQMnFoOUR3WHdaUE43NHlsVGdtT3FOamhMTEtUWG1xbG94OTBRZm5uV1RDM1lEa1lXTFltU3VKbllXSk9BeHRjQWUzMnJZejI5bEVDRDg5cmlOeTEwdGdaOVQ5Y1IxTUs2RnM0T0VGNUxyNzNBcnJoUHBZQzFMWHNMZVFRVlRDRmNnMENwbXpoRWM4SUR1eUFpbTNPZTk3LUlCNA?oc=5",
+   "summary": "",
+   "publisher": "VnExpress International",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-16T21:28:53.029084+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "9c24db098c37e744",
