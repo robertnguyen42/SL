@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T18:32:51.035842+00:00",
+ "updated": "2026-10-16T19:25:31.436799+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "eu-gov",
@@ -166,7 +166,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "nz-gov",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-student",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-family",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "fa672b6c6cc242e1",
+   "title": "Policy Watch: DHS proposes significant new fees for international students - Chemical & Engineering News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTFBkZDZtTHV0N2Q2VjhISDNIN0t4NzBxS1ppd1hqWUpYNU9pRXlfdFlBWk1GcHlZS0lSY3RWS2lwVE5tS1dRVWJJbmVEbUlZdnZOd1VCVGNBZHZ2RHlLM2M1Wnd1dXNCaWlBeVY1ZUFwT2dYWmFuVjV0REdDVmlLZ3ZFTXF6RHBxLTlPSE5ESQ?oc=5",
+   "summary": "",
+   "publisher": "Chemical & Engineering News",
+   "country": "US",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-16T18:37:53+00:00",
+   "fetched": "2026-10-16T19:25:31.436799+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "7435c7217ef9e0f0",
    "title": "Canada changes Express Entry rules for high-paying jobs and removes LMIA requirement - The News International",
@@ -522,6 +542,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "de5be8eb4689f29c",
+   "title": "Business Insider: The Winners and Losers of the New H-1B Era - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdXQzWHczZEYxSEZ6RUppZVVldjNBZmRtR1ZWdTdNZGRRQjBFMGM2M3J6Q1RzT3dqaDlLMEtlSkZzUDNVY05LRUplRURUcEZHVnltNHA1bGRTUXdCNnRxdHRPdWVZaUlpTVNCeS1HaFVkRkExS3BOZEFoMzFhWmYyYk1vWThNcml4WTlLSFRGckNhd20yNFJieTVnU3NhT28?oc=5",
+   "summary": "",
+   "publisher": "Fragomen",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-16T16:17:38+00:00",
+   "fetched": "2026-10-16T19:25:31.436799+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "886e18881d238178",
@@ -23150,6 +23190,26 @@
    "score": 0.0
   },
   {
+   "id": "a04d07e0e57f2b3b",
+   "title": "Federal judge freezes Trump administration’s international student visa rule - Case Western Reserve University",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHlKMlNzV1U4azYxd1M4LWE5dkxYemhxNkZ2T1NfUXYtcGgxdm1yTVNMM0M5VVNhSzRqVVRVQXdkejhEUi1zWENWckJNLWQxeXNVVVl4TmRIb1JpSUFNU0U5REN4T2VyUGNEZGdZTElWcnVUaUFPRktwYTIwYWsyUG8xY0otLVY1RjQ3ZldCOENYamJtby1PNU5oRmRfcDE3SmJWNw?oc=5",
+   "summary": "",
+   "publisher": "Case Western Reserve University",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-02T07:00:00+00:00",
+   "fetched": "2026-10-16T19:25:31.436799+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "12fec60a071c0c81",
    "title": "New Zealand Revises Age Rules for Partner Visas, Lists 9 Affected Categories - GistReel",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREpSNW1lWG1vQm9sUG5yUjFPUGt3Tkx2VHhFUW05SU0xejZiRUJiWlpBWHllX2IyYllhanpKOHh2YlA5MlRybk1WZ2tLdm5TcVNDRUhwLWtwZjlyeThRaWx1dDV2WDF6dXNuT3M2Z1pqVUxDaDUtYjlLSEhUajZxR0RIQWhTemp2SE1TYjZsQlEtMjNvc2lMX1k3dmFCUmh5ckRZ?oc=5",
@@ -33814,6 +33874,24 @@
    "score": 0.0
   },
   {
+   "id": "24b5b52f3edc34fc",
+   "title": "Canada's Job Vacancies Held Steady At 510,200 In Second Quarter 2026 - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVll2eDREVkpMejdadUFTV3J3R0Z1NEl5SGhMRzhhVXNvMnhZV2RwbkIzSElkMXo1ZTBJNWRxeTVzUFZKSElFbnAyQlhPVUZiZEpXZHRMZ0xSTmlRVDI0cHVWTGZ6M3QxU2xzdTAyd08zaG84V3oyUFZobGdxM1FxSmdSb2JjUkJBNTRnSHkxZngtVTl0WkE?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-16T19:25:31.436799+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "b436ab5a5a925ab9",
    "title": "ILAC declares bankruptcy, displacing thousands of international students - CityNews Vancouver",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjl0TWl6QVhoUjladGdHLVFrSlF4cjM5andCdUJkTGloRndGOTBwdE0yMkwxNTdtNzhUaXZJZVFnRWxjOFdLLXlaWUZsSjlydk9iWDhoX2JhRGYyb1Q5MDgxNm5OUkp6MUNWN0NTU3gxckVXQUhSUkZBUk02a21ibmYyMkYzN21LTVA5QUE5dC1YR3pfTm9Tcm1FNnEtYldkZjN4ZU9OcGFTMUU0Z1FyZ3FlWGo5UTFmYWN3?oc=5",
@@ -40254,6 +40332,24 @@
    "lang": "en",
    "policy": true,
    "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "6aa6b0aca3f4b915",
+   "title": "Breaking News: Australia Announces Major Migration Changes - Insider Guides",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXp5N3RQVWdjWFFFdmExMWxyVGNBY3NmLW5yd0p2d050S085TlBvS0RiYnNscTltenRDOEY5QTVlMXNoMWNGNTFLQW1HMzhnc2p2STdRdjhEcmFqTUh5VnlMWG84ejFJQmVYdWZ5Wm9RYkUzY2NTb1d4UVk1eGRpNXlZSTg3eFpqU2dNVjdUSTk?oc=5",
+   "summary": "",
+   "publisher": "Insider Guides",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-10-16T19:25:31.436799+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": false,
    "score": 2.5
   },
