@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T19:55:15.439268+00:00",
+ "updated": "2026-10-16T20:23:05.716455+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "nz-en",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "us-student",
@@ -2393,6 +2393,24 @@
    "lang": "en",
    "policy": true,
    "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "817019788adbd174",
+   "title": "Citizenship Approvals Plummet a Year Into Trump’s Second Term - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVA1TGMzcm5kQTZxWU5vY21Nbm8wQ0k3Rm9YR3BMZnVSNUFSc1RURFJwRUp6c0p1LUFnYTlLN3BWSkd6U2JIWHZ0NHdxVmxIdzRGTjcxc0d5YXVUZGYySHdxTmgtdkRsYUhVWEE0OG9JaGIwQnNyeXdURnNSazhhak9CNjV2T2hKSzBHUGpkdElpRU1LZVFpektaTzFLR1RpbUhRNg?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-15T09:00:00+00:00",
+   "fetched": "2026-10-16T20:23:05.716455+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": false,
    "score": 2.5
   },
@@ -6527,6 +6545,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "c177e2b57d6fa25e",
+   "title": "Skilled Migrant Category Resident Visa: Submit an EOI - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTZFMzdRWGdRd2NaZFpnWDNCY2p5aEdybjBsOEVsZEoxMnN6MTN2aGNtRkFrYnFvUWRFV2NRRzVMWngyNEREa2ZRYzVsTlBadWRBWDZYSkpFQnNIWWtvazl5bFlFd1hpVnVoYkFTMW1MZEpNLWtPLWhybGNMN25UT1ktdzVHOVl4UXk1RU1ueTYtc2JLNEV1MzFNcDFadHdBRFdoWDNNeXR1NUlXZG5Db29fUXJGZzNuNGFjYl9vQng?oc=5",
+   "summary": "Skilled Migrant Category Resident Visa: Submit an EOI Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-12T15:35:27+00:00",
+   "fetched": "2026-10-16T20:23:05.716455+00:00",
+   "visas": [
+    "smc",
+    "residence"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 5.0
   },
   {
    "id": "54f0c55bda51595a",
