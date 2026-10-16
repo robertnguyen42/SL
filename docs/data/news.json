@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T10:02:01.196396+00:00",
+ "updated": "2026-10-16T11:00:24.504298+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "eu-gov",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-green-card",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-business",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,105 @@
   }
  ],
  "items": [
+  {
+   "id": "723b117c2e1849b7",
+   "title": "Finland’s NCP parliamentary group proposes processing asylum applications outside the EU — YLE News - UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOak0wSmFGY19PY2ZqVVNPT1lYcFBhOVdyTmpkVXNxTjNPYVdLdVh1b2U4Y1hWMkxaTVlFMGozVGVrZ2M3bGZqSTdNaGF2cUx6eXQ5Mkk1UTVTdU04RndUb2JZSjJuRENtV1FqMmtFRnI3cndNY2RiVGhzSU4tWVlGUFFIMmxsNWtZR0FxbTN2WVNuU3FJcjNwbEl4cU0yTWpGRDktSXpSR3NjQQ?oc=5",
+   "summary": "",
+   "publisher": "UA.NEWS",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-16T10:39:47+00:00",
+   "fetched": "2026-10-16T11:00:24.504298+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "e21b4814677e9ded",
+   "title": "NCP parliamentary group proposes tightening Finland's asylum rules - Yle",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93RXJURC1oUzR1UEFvTFNYNzZCYktiaTNiSW1JVnU3QzJpSjl1dEl4aXN6el9hRWZ0a3Vqenk3WmpBUQ?oc=5",
+   "summary": "",
+   "publisher": "Yle",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-16T10:27:07+00:00",
+   "fetched": "2026-10-16T11:00:24.504298+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "3425f673b57a2a95",
+   "title": "US Government Approves Over 54,000 Green Cards for Family-Based Applicants - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcHg0emlUdUlHcnQyTkZMNXdQcHhFMVNtel81RHFZNkZKUy1QbDJiTzhMUkp1YzdqV3JkLUpObzZDcktFQ1lYbUtBbWxNQkt1ckhfS2xkTkEzUXdEV3pTRERDbDU5X3RoU2hQNnEtQTdya1JMdmxyenViVVM4dktNbkxNeU5FOGVHS0FhRlhoa0VZVFUzeVpWMTN3Q1U4MThQelRMXzN2OU92T3hnLTZ6MlBsMGFjX1hEbjZN?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-16T10:10:02+00:00",
+   "fetched": "2026-10-16T11:00:24.504298+00:00",
+   "visas": [
+    "family",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "ba7fc32b1320e519",
+   "title": "The Home Office Mastek Settlement That Scrapped a £138 Million Deal — And Left More Questions Than Answers - https://www.lawnews.co.uk/",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVm1JUEhkY1dUaEhPVGpUcUdNWWRwVjlpLVd2NXd5UEdlQmxxdWw5TUxpYzRBdmdfR2NBZ1hpLUYzX25ZdWxiZUR0YjJJNndNRnhiVTl2aFJ2Ri1PSDNXRlZMbWE3dmJEOEZPWlFwbjhsMjE4bkE1YmZFaXg4YWZOZFZBa3VONHZZY0pjalBKNkU3ZFhTMl83VjF5MUpSQXJxYmE5UDltMERZNWQtRHJYQ0lGeE9IMkY2Y090SGhaai1WNHBKSEpKb2hIb0pjTHREZTM5bXZB?oc=5",
+   "summary": "",
+   "publisher": "https://www.lawnews.co.uk/",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-16T10:08:11+00:00",
+   "fetched": "2026-10-16T11:00:24.504298+00:00",
+   "visas": [
+    "uk"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "9c68dabaca82e4b7",
+   "title": "The DNA That Shattered A Father’s World: The Hidden Dangers Of Immigration Fraud - Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFQ0b2JpMjZxc3JqYS1TV0VzUVY5MzF2S21rcHJKbC1ObV9fcE1QWlk3YnRiSEIyUXFyNmtZdW9tbUtJaXA2WHhOeVd6ZFB0NUNQTlMtTkgzMTNNMUZjSmd5LWllOHN3ajZHdE1LZjFNX0JHem9BVDA4eUhORVp5RnU3eWNkYlp5Q3h1Q09nLUxkSFFBSFdyVHhR0gGYAUFVX3lxTE9TTDhlTTEtM0JWVUFVNWtsVGR1bzBISEpfOGhDYUVSdFlLZ1pQQ3l5TjRJNmViVDlwTDh5Wm54SGtmYXBLR2dUWDNHQy1QalZZOEtvbUhoMnBqN3VZdlplazVlUWwtR3dIMVZBek8tN1lFOEJNaE84d3FueEJGcEJLdExPRVdTdklOQTRLek5wN1ctQ3dyclg1?oc=5",
+   "summary": "",
+   "publisher": "Modern Ghana",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-16T10:03:30+00:00",
+   "fetched": "2026-10-16T11:00:24.504298+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "049fb3041c6d17c8",
    "title": "Watch out: Fake ETIAS websites are targeting travellers to the Netherlands - DutchReview",
@@ -650,6 +749,24 @@
    "visas": [
     "schengen"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "c2d1dbe3c3639c5e",
+   "title": "New residents in New Zealand: Are you eligible to vote in the 2026 election? - Indianweekender",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYnA0STFYSXk3MlFYeHFVY0JvZU9NWS1GbXE3NFpxb2lvemY5ZjNqU3UxMk9TVVgxX184UE1sWWFmYV9GT0M1ZXdBcjlrZGxjbzZnMjBOSWl3TE93TkUybVRqREVHY2pVS3NNUE1WRHRsaVVRN1NWUXhBZlNSN3V2TkpRcVNBTTloMTU3TEM5ZDdjSUJhTzZsRUY4dTNJRThvMmlRNDBxMFQ4WVBhZXFKV2dKTQ?oc=5",
+   "summary": "",
+   "publisher": "Indianweekender",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-16T05:17:16+00:00",
+   "fetched": "2026-10-16T11:00:24.504298+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -22346,6 +22463,24 @@
    "score": 2.5
   },
   {
+   "id": "10f02eabfed595d6",
+   "title": "New Zealand Lists 6 Requirements Foreigners Must Meet to Get Religious Worker Visa - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFJaS2dwelZfNUEzOHcyTUhGWXVjRXh0YzB0aG1zZlVrSWZmejhLUm1mRF9SOGw3Q0V2LUV1X0VjRjdLV3FqdnBSUlFNOS11ekJ2WWl0OFVubWVtZmVTTS1KdGVDQlF0TFhSb1ZoRzdGa0dHNFdQQzl6bVFSYk9IWERMc3MxSjZYLURLdUFTeFY5MTBoX1BxVjRKcTVWaTViU2tNQXJuMHpGb1E?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-02T07:00:00+00:00",
+   "fetched": "2026-10-16T11:00:24.504298+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "12fec60a071c0c81",
    "title": "New Zealand Revises Age Rules for Partner Visas, Lists 9 Affected Categories - GistReel",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREpSNW1lWG1vQm9sUG5yUjFPUGt3Tkx2VHhFUW05SU0xejZiRUJiWlpBWHllX2IyYllhanpKOHh2YlA5MlRybk1WZ2tLdm5TcVNDRUhwLWtwZjlyeThRaWx1dDV2WDF6dXNuT3M2Z1pqVUxDaDUtYjlLSEhUajZxR0RIQWhTemp2SE1TYjZsQlEtMjNvc2lMX1k3dmFCUmh5ckRZ?oc=5",
@@ -33803,6 +33938,24 @@
    "visas": [
     "student"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "28f568a1ff484fd0",
+   "title": "Germany Names 19 Countries Whose Citizens Can Enter Without Applying for an Entry Visa To Study - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVE9xTWQybUFOUGpoakprZmVGMVJBSDVyQkpxZmUwV0xMNFdVV3B6UFBjMXlDZzVyLW00RjhhQ2FHQ3lDU2lBaU84bTR2UENTMUE0cFBfUEF6RkFyZUtsVFBycEdTRmlQT2pPSjFXSFRjTmt5c2dYUGN2Z3RHa1JmVDZ1b0JOd1h5VFo5WHJKaVFHeXJBc09nUFFSMFJlSmwyckJwag?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-16T11:00:24.504298+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
