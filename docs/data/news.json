@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T02:02:26.547154+00:00",
+ "updated": "2026-10-16T02:59:22.541501+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 31
+   "count": 29
   },
   {
    "id": "eu-gov",
@@ -172,13 +172,13 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "nz-vi",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-skilled",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-parent",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-green-card",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "998a343707f9dac1",
+   "title": "New Zealand International Migration By Age - Scoop - New Zealand News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlA3cmNpcmcwZGlkOHJmTW9tSGpyRG5LTU5SeEJfMDZVTXZGbTRzV1UtbFQ0SkpRZ3ZvQ0tsY1NOem5pQUdrT3NUUE45QktqRmlkdTQ4QkM0LXZuQVBJX1pmcUp5Y0lHNDAzXzcydjZ0S2tzTTAzNUhkT2Z5M1BESWQybFVVbktZQklTWUhMREgzajRYOWww?oc=5",
+   "summary": "",
+   "publisher": "Scoop - New Zealand News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-16T01:57:00+00:00",
+   "fetched": "2026-10-16T02:59:22.541501+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "c311c0996457c171",
    "title": "International Students: Are We Better Off Without Them? - Muslim Network TV",
@@ -465,6 +483,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "a282999135c54e06",
+   "title": "20 năm phát triển mạng lưới tư vấn đầu tư định cư của AIMS - VnExpress",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlBZc2xYU0E1NFFOMWhuX3RPeHU3TGdPZUU4RFV5T2dzOXNJVnozanFlOXg5bWVDT19HWTI0Ri14VDNBY0Z6bFRVd0JaWHNmZDdrckdXck5nVlF4dmFwMXFneFZFT0c3ZWwzZExPeERBaU9vcHNqblllcEc1WUNQWW1LeEwzSkhqdnVFeDNoQldmQldGUUM1eQ?oc=5",
+   "summary": "",
+   "publisher": "VnExpress",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-16T01:00:00+00:00",
+   "fetched": "2026-10-16T02:59:22.541501+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "56f6cffee0e4ca52",
@@ -1415,6 +1451,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "5a32dc7acc19d0e7",
+   "title": "Lý do Mỹ muốn mở đợt thu hồi thị thực lớn nhất lịch sử - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0FiZnVRTG1aUWJrNmhLeXQ4YzVYZWs4Q2lSbWJuMlk2VDZKTU5HbTd2TUFDcEZxbDFhUjFyS2dzRnlrSktpZDJGVmRPMjctY1QzTi1MbXNoajQ0ajM1OXltV2hRbmNERGliYWsxcnp4TjBXM1VnRU5scUN2VXBld2pIQjEybkgxOWRaajhsbjNOVnZaT1NJdlpFZFc1b0hmYVE?oc=5",
+   "summary": "",
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-15T01:14:38+00:00",
+   "fetched": "2026-10-16T02:59:22.541501+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "70908f37b7ecdea5",
@@ -3495,6 +3549,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "509521d7d2ec637c",
+   "title": "How may refugee status end through integration, naturalisation or voluntary repatriation? Webinar’s registration open - www.coe.int",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTkJTTENPX2luN3VXcGU2WnN4aXJQQTJudGF1T1NFWHo1TVkxWHBOM0FOQXhLVTNpQUZmOXVuVC1QUkU0d0pSZzVVN0xQNlozSUF4OW4yUzBESzVvZzdJNE1lRlpjN09UUFZEOFA2VUltS3dEeW4tSnZVWktlcHY5a19EQjl5Qk84Z2xlM1JYaE5jYmpiSjZoV3pvemc5UklKR1hVc3c3LW9KckFnbUNaTVlBb3Rua0JBT3lWNlZHYm02TTc4SVlmcUVMa2xyRmtZMS1pc2RFYlR1UGU0MHN4cUNBWF9pak8wX251dl8xZVk1TVF3NUx0U3U0Yw?oc=5",
+   "summary": "",
+   "publisher": "www.coe.int",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-13T16:53:10+00:00",
+   "fetched": "2026-10-16T02:59:22.541501+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "88aaa9f7d5bbd6f9",
