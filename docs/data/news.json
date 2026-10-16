@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:56:16.319092+00:00",
+ "updated": "2026-10-16T23:23:15.021044+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 27
+   "count": 29
   },
   {
    "id": "eu-gov",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-blue-card",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "eu-student",
@@ -406,7 +406,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-investor",
@@ -1081,6 +1081,26 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "ca18f183ac659e2a",
+   "title": "Did The Brewers Just Put The Cubs AWAY? | Jeff Levering Visa Bulletin (Wogddmezsy) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Oa0Y4bVVPZnR6N3JzQ2NzbHhBZ2VQNHE3ZjVTSjByNHdSRTdxMzM5Nk9CcHNiaXJSeWFTTS1HbXBmUW16TDlzS216MzVvTGk0SXlySTRRWWE1Y2xkYy05ZzI4WVdxZw?oc=5",
+   "summary": "",
+   "publisher": "Unisba Media",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-16T10:39:54+00:00",
+   "fetched": "2026-10-16T23:23:15.021044+00:00",
+   "visas": [
+    "visa-bulletin"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "723b117c2e1849b7",
@@ -2686,6 +2706,26 @@
    "published": "2026-10-15T07:00:00+00:00",
    "fetched": "2026-10-16T18:32:51.035842+00:00",
    "visas": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
+  {
+   "id": "967a4b87637b431d",
+   "title": "Nhiều đại học tại Úc đối mặt tình trạng sụt giảm nguồn thu do thiếu hụt du học sinh - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnlJYzhQZXozNUFNalIzUVVHZzNxUkliWUZhamxDUWtsOWdlTGZEZnNZMmJERnlDOFByU0Vhczl4UUIwc0tDYkh2bnJRNVY3bWk0bTFBUHlaOHBSMXNNX1Y0c0FEYzkwcW1heE9lWUN2SzhTOU8ya2RfNlhOTjVUY25wSldvWmFvR2w4?oc=5",
+   "summary": "",
+   "publisher": "tin.skydoor.net",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-16T23:23:15.021044+00:00",
+   "visas": [
+    "student"
+   ],
    "lang": "vi",
    "policy": false,
    "direction": null,
