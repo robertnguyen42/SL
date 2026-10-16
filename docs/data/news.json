@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T12:39:47.718769+00:00",
+ "updated": "2026-10-16T13:36:17.346949+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 33
+   "count": 36
   },
   {
    "id": "eu-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "eu-blue-card",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-family",
@@ -446,6 +446,46 @@
   }
  ],
  "items": [
+  {
+   "id": "59ab1f9421d40bee",
+   "title": "Bill Shorten’s warning on student visas - The Saturday Paper",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUlsYlRGRnloSUdDZVNyekpOTWo1cU4zcmtBN2VNb1JYV1JHZzhsVml2RDV0OHl2UC1TdTBER1NRNGwwUDdQeWpCa3JjcU1xdDVzb1Vsd3FLdUVjUlVGUDVGTkd5ZEEyNTdSeFNUT0pSOVRHcmhhNFFmYTk3ZDA0MEU4N3Y3dzhXSHlxODMzNThkVUdNYnBWSTdnNno2bDVI?oc=5",
+   "summary": "",
+   "publisher": "The Saturday Paper",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-16T13:00:00+00:00",
+   "fetched": "2026-10-16T13:36:17.346949+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "0f4523bf46eeaafc",
+   "title": "Indian Student Claims US F-1 Visa Approval After 13 Rejections - IndianEagle",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0pRRGdrUF9Cc3lVRHM4eFd3RlFLendDZnpQVjgzOElhZzFBMTZ1Z0M5bUpuUlBaX2FiLU5qekJXQjkxWDZ0c1JMN0dWcFlMVUVFeEdiRWlOemZDV3ZFT1hYRmx4RVB4QmpVQVVENWxkQTRwVjMxQm5fLVd1dFVVQU1PZXRVbUYzNGJ0dUpR?oc=5",
+   "summary": "",
+   "publisher": "IndianEagle",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-16T11:49:05+00:00",
+   "fetched": "2026-10-16T13:36:17.346949+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "bb91eeb3d5527ab5",
    "title": "USCIS fee hike starts today — file wrong and get rejected - Latin Times",
@@ -3482,6 +3522,26 @@
    "fetched": "2026-10-16T11:59:07.718803+00:00",
    "visas": [
     "work"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "34fc21bf757e0d0b",
+   "title": "H-1B Executive Actions in 2026 - Every CRS Report",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43dVZhY0Z2MlhRc3VkTmpGYjM2Tmo2N2VTNVpORVVBeG13SkhjazYzNTIzN3B1YnoyZi0wMFVzX2VkX29vSl81Q0Y3NUhXVE1pdUxhd1VOblozUHRNUUk3OA?oc=5",
+   "summary": "",
+   "publisher": "Every CRS Report",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-14T07:00:00+00:00",
+   "fetched": "2026-10-16T13:36:17.346949+00:00",
+   "visas": [
+    "h1b"
    ],
    "lang": "en",
    "policy": false,
