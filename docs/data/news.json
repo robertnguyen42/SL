@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T02:59:22.541501+00:00",
+ "updated": "2026-10-16T03:31:50.900978+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 29
+   "count": 31
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-en",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -10232,6 +10232,26 @@
    "lang": "en",
    "policy": true,
    "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "f8836725665c738e",
+   "title": "Lawsuit Challenges U.S. Policies Threatening Green Card Applicants with Family Separation - Mwakilishi.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWdDTHFWaDNpcVVjZ0tsV3duWjJYemZ6YTdyS0I5amJLeWxSWlJLRkFXMVZFODBwYXZmQUIxTklVcGdEelpGMXRhVGM4R0FDV0VFOERMQWNnQlZVbUsxZ3NJLTVFcjNXaEhwSDFSYkF5Q3ZveEcxaVd3SjZxWXhlZ0tueEtyY3pBYlgzSFA3akkzb2VNc2dGcm5ONjJENWJhVzdtdzhCMlRZUjVSZDNIUldDSVk3UQ?oc=5",
+   "summary": "",
+   "publisher": "Mwakilishi.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-08T18:08:34+00:00",
+   "fetched": "2026-10-16T03:31:50.900978+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": true,
    "score": 4.0
   },
@@ -26906,6 +26926,26 @@
    "published": "2026-09-29T07:00:00+00:00",
    "fetched": "2026-10-14T23:52:42.478301+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b33ed774b569dbd1",
+   "title": "Canada, UK and Australia Update Student Visa Requirements for 2027 Intakes. Check Your Eligibility! - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcEhXOVk1Rmtmb1lXVlo1cDhZMjdhZVpUREozWEVCTWotb0xwYVc0a0dYOVYxYjFOTVlqemthQ09QbUg5dTJhVU5BUkZERy1LYkNOdEdmdEdsVHd4OE1fM1hlWkt0MjkwamJiZUdpc3QxRHgtNS05bWRiOUdla3YxZk1VckxWbVp3cldoSmJ5S1dUOHQyclo0eGpNeGZRbVE5OHExd2VDbE5lbVJpbmVrVmgxaEdJTldxcEQxd3hjNlg4WVE?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-29T07:00:00+00:00",
+   "fetched": "2026-10-16T03:31:50.900978+00:00",
+   "visas": [
+    "student"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
