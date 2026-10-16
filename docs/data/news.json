@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T11:00:24.504298+00:00",
+ "updated": "2026-10-16T11:59:07.718803+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-student",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "eu-student",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-family",
@@ -446,6 +446,65 @@
   }
  ],
  "items": [
+  {
+   "id": "bb91eeb3d5527ab5",
+   "title": "USCIS fee hike starts today — file wrong and get rejected - Latin Times",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWjdXMDZrWHItSGhEWXVuVEcyZTFqR2IyRWtlQTJ0Ym4yb1ZHMzFwOHpfM19FVmhoejBBbHQ3N29reEVFQmlUZmsyRUwyTmJ1anpUNkk5ZFBuZThHOVoxT2VyU0ttTi1DY3JHeElMX2xqNVlzVHdyeFFvdDRIOW5qcERYQUNTSzZGNGJVLXVMNVJXZjdTY2paRThSZE91ajIzcjRyeFdoTzBWaFU1WnF1MA?oc=5",
+   "summary": "",
+   "publisher": "Latin Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-16T11:42:09+00:00",
+   "fetched": "2026-10-16T11:59:07.718803+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "c45e3e53ae63a58e",
+   "title": "ETIAS scams: don’t pay for Europe’s travel permit yet - The Travel Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFN4U0FPd3pKRmc5Wk4tWHdJeWFlTTRHdS1sS1Vma0xWX3JzTHRHUXdFWDEyYTliMVAzblhRRlJVb1p3dzktNE9QVnV5S2ljbHdfWThoLUE1bHFuQTd4eUtUbV96d1NpMjBSTWszaVJURm0zN2VkaFYtaGFJWHc0UzhPVkxWZ1Vm?oc=5",
+   "summary": "",
+   "publisher": "The Travel Magazine",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-16T11:13:16+00:00",
+   "fetched": "2026-10-16T11:59:07.718803+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "c702f0027dec0f17",
+   "title": "Canada issues 2,500 invitations for permanent residence through Express Entry - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHp4WmthRF9LN0NuaHNMYkJ2TkRoWlY4Q0ZIM0NaSS05aGg1ZFBIZFFTeG1kbXA5WWgyVV9wRFdXbEJnRW1OMFVYZmdNaXhZQkRLaHA0OWNLUWxOTWNwcjYyVzkzeWdqNmZIZzkzN2FfcUFVNGNrOVJBbXhMelFhR21XblVfNVAwN3JtUUtxZ2hHVlU4TkxlS093YXBCXzBaNEkwNHQxWmFFS1pxSlFTVVJR?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T11:07:15+00:00",
+   "fetched": "2026-10-16T11:59:07.718803+00:00",
+   "visas": [
+    "express-entry",
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "723b117c2e1849b7",
    "title": "Finland’s NCP parliamentary group proposes processing asylum applications outside the EU — YLE News - UA.NEWS",
@@ -3388,6 +3447,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "9fef1af8bd3ed357",
+   "title": "Work visas and migrant workers in the UK - Migration Observatory",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRncxUWtHLU9kbjdIaEp0UTZtZFF0b2VBX2xsYkNCZFZrMldZaV9TOXZ3Q2ZNbDV2OXZFODdmbERkWVZpTmNvdXpXSlpDRlN4a2ZaWWJfSXdNSlRkQmtBMENSTVh1QXE2V25GdXZmZ25USUJlam1TYV9CdjBqM09RX2FpM2haWWdKTFlvTHh5ZFBMTEtxTVNjTTI3bWc2T1Bq?oc=5",
+   "summary": "",
+   "publisher": "Migration Observatory",
+   "country": "EU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-14T07:00:00+00:00",
+   "fetched": "2026-10-16T11:59:07.718803+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "f7d524cf64063f5a",
