@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:00:22.568356+00:00",
+ "updated": "2026-10-16T22:56:16.319092+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 30
+   "count": 27
   },
   {
    "id": "eu-gov",
@@ -352,19 +352,19 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-student",
@@ -446,6 +446,68 @@
   }
  ],
  "items": [
+  {
+   "id": "0cdce445b6323327",
+   "title": "Canada boosts CRS points for Express Entry candidates with high-wage job offers, drops LMIA requirement - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JVFhDdXlPVkpLYTFTZWR2ZjA3VlVvcUh2VFFfT3JzV29NMC1vaVpVY2FGUUdrTnFhakYweG9EYXIyQ0xoNDVYdGZLRzJyZ1kzeHRkcHh3MENHcm5Pdng4WEdneHlHeS1vQjkybUlMRHFmVlNET01mcFUxMNIB4AFBVV95cUxOdU9vSjVfd1YzODdIM0hrc3hiczYxR1JJc01hb1JjWkx3TlMyQk5LZEN6alJ1Sjh5NUhrMTZQTWxxQWg4R3NHbE4xQUdSa1JOd0lJUnpBVG40U1dSZGhwVW45VkNidjBMc25PVkVPd0N2T3JNU3JmSTlSRUpBbkhXcVRhQ1ZUOXFfVmxkeWI1QW80Y0FmVG15NGJSVnl6cmhGR0pjVUM0WEliREJ5ZkpfODhkcjg0ZnVMQWs0b2JibVJlQ1FrYXZtckl5RkVqWXhSaFJNRGhORmdLcEs5c2lSMg?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-16T21:48:12+00:00",
+   "fetched": "2026-10-16T22:56:16.319092+00:00",
+   "visas": [
+    "express-entry",
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "05edd62571cf2a73",
+   "title": "Canada’s Express Entry Changes Explained: Eligible Jobs, New CRS Points and LMIA Rules - To Do Canada",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXYyeHlnY2I2WUFUc1dPb09NWmZKSjM3aVdWZHRla19WRVlfSWpPRHE0dUJINUNONUtiRUVGMGFJb1VNcTFheml1cGJndkRVSlk5Y2RWb2ZzTDlRLVRHUDkwbVlSZnFRRlRsOUhkOFJ1YmZKUUtfWndpT2M2bzI2c3BJTE9MbGJrQ2c2X2FBUkF6Q3pabnVaX0VtcWkxbFg2ajhsTURvcnc0TnJqeWZHNGozTlnSAbQBQVVfeXFMUFV2Mnh5Z2NiNllBVHNXT29PTVpmSkozN2lXVmR0ZWtfVkVZX0lqT0RxNHVCSDVDTjVLYkVFRjBhSW9VTXExYXppdXBiZ3ZEVUpZOWNkVm9mc0w5US1UR1A5MG1ZUmZxUUZUbDlIZDhSdWJmSlFLX1p3aU9jNm8yNnNwSUxPTGxia0NnNl9hQVJBekN6Wm51Wl9FbXFpMWxYNmo4bE1Eb3J3NE5yanlmRzRqM05Z?oc=5",
+   "summary": "",
+   "publisher": "To Do Canada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-16T21:38:58+00:00",
+   "fetched": "2026-10-16T22:56:16.319092+00:00",
+   "visas": [
+    "express-entry",
+    "work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "378b7268c3e6a4e1",
+   "title": "Canada releases updated breakdown of Express Entry candidate scores - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1F5SkN3S3NUS0pIcGo4R0c0aDQzNE9LcjREV3kxc28xc284YVhlMkFuZnJ2T1VxVVpRVGhMaGVZTnBwZGpYdUF2dkd4Q1lacFVzTmRpU05TWWRfSU13cXFJVGtjOFN3bmlxYUFkY2dxU0RRcER2Y18xeEhqb3U0XzBlZXpRWDBhS3NZYng4LURrYUN4V3d5bUx4NzhMbVFWMlUtQzVSb0tfUVByd1VVQkRmcldLTUHSAbcBQVVfeXFMTk9ReUpDd0tzVEtKSHBqOEdHNGg0MzRPS3I0RFd5MXNvMXNvOGFYZTJBbmZydk9VcVVaUVRoTGhlWU5wcGRqWHVBdnZHeENZWnBVc05kaVNOU1lkX0lNd3FxSVRrYzhTd25pcWFBZGNncVNEUXBEdmNfMXhIam91NF8wZWV6UVgwYUtzWWJ4OC1Ea2FDeFd3eW1MeDc4TG1RVjJVLUM1Um9LX1FQcndVVUJEZnJXS01B?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T21:08:32+00:00",
+   "fetched": "2026-10-16T22:56:16.319092+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "f245becb50a72f7a",
    "title": "Proposed $103,265 H-1B Fee Is Changing Talent Acquisition Strategy - SHRM Online - Buchanan Ingersoll & Rooney PC",
@@ -32063,6 +32125,27 @@
    "fetched": "2026-10-16T07:34:24.326409+00:00",
    "visas": [
     "smc"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "8b8735dcc900e83d",
+   "title": "PEI PNP Draw: 195 Invitations Issued in September 2026 - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdG9DeHNSR0hTdmJTUlFZbXlQVEdhQ2ZFVWtBaHpsRW5NZ3B5clBhbTJTVUhMRnBiRnIwNExZTWU2UTFjWFZtVjVTdV9XTU96c2xPUUJINEVrYmlIVndiTHNQdGFpZTRnMjBXUVJfeFJqN0NRVjlDV0dpaGVRR1pnR2xGWjY?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-25T06:23:30+00:00",
+   "fetched": "2026-10-16T22:56:16.319092+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
    ],
    "lang": "en",
    "policy": true,
