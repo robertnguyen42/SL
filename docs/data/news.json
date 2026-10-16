@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T03:31:50.900978+00:00",
+ "updated": "2026-10-16T04:26:21.893724+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 31
+   "count": 33
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-en",
@@ -190,13 +190,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-skilled",
@@ -226,13 +226,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -406,7 +406,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-investor",
@@ -418,7 +418,7 @@
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "nz-student",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "nz-family",
@@ -446,6 +446,64 @@
   }
  ],
  "items": [
+  {
+   "id": "429ef8094b6adf38",
+   "title": "171,000 Unemployed and 13.8% Underutilisation as New Zealand First Pushes Work Visa Overhaul - Aviation A2Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaW9QUWwxWVFIT0JoYWF1T2tGWndHRVNWTWhGc3ExcVJ3TlE1NjRJWUZpU3Zod05mS3ZSTGVVV2NJRHNQckZIRHk2V3N5T0RDWFFrc2ExM093Z01ES2RGOV9GX2R0TS1jeUUzVHZFNm1BUkRjbXR2QlNGelFVNWpCamFiMWxKb25iaEpadTJGLVU3T05hY3VyZGtUSjI5amg5TnlldTJVeHVZdmxreER3?oc=5",
+   "summary": "",
+   "publisher": "Aviation A2Z",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-16T03:39:00+00:00",
+   "fetched": "2026-10-16T04:26:21.893724+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "aebf77b1f02702d9",
+   "title": "Ottawa rejects country-based study permit caps - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkRDYTVncTdlNlhvcm44RXJzOUJnZ0xvTC1ycEF4RXJvZ0tZR1pJN191V2sweDJ1cVNWbWtWMU9seGg3MnZzNWplcFJ3cGx0N0lqYUtkLXFybmg4b3E2Q3VmdE1WMGR1X01QdzhRc1ZBSF9jREFSUGtLbU5PZHBadWZ5dllkbDI4bk82MkR1OUZpbmlqWEs1YjRGY0k2aTlFWVE?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-16T02:20:10+00:00",
+   "fetched": "2026-10-16T04:26:21.893724+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "8639355dff8a3505",
+   "title": "IRCC relaunches Application Status Tracker tool - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzE4Z3R5LUZiQVJzeEd1V3hRSFFWQm52ZFhSZGFyM0I5QlpnS3JzX29UdzFYblAyWkJkakhQRXNOeHhiXzIxT19nY0FrMWRTSkNNcVdWeVRHMkdxS3A0c21UTHQ5ZE1iUEJXX0pZNkNkMFZMWXVzTmZIRk45UkFSLXoxRFg3ZEg0Y3V1UnllWmZwa3F0aUVwWW1KdGJrQQ?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T02:18:27+00:00",
+   "fetched": "2026-10-16T04:26:21.893724+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "998a343707f9dac1",
    "title": "New Zealand International Migration By Age - Scoop - New Zealand News",
@@ -591,6 +649,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "e80c77fa30bb02fa",
+   "title": "Federal visa rule prompts concerns among Mizzou international students - Columbia Missourian",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNG4tZVFaSFBzWnFLWUtCZ2hNNnJISExNa21oalo3UnFrVTlHZVlOZ2F5RGFkdzRVV0RPcjNnWGFDYU4wN0JKWGtQdzMwYldlMkpBZlZNeF9GTmZReFpkS0JDS0hLZUdtZVQ3YVdkY3lQTU1UUXNPMUNkcjV2LUVuR295bXE1ZjZyOGdESkxrLWFLSFk5RWdOMEg1VG11bmx2bzFmX1lDT0t0bFg1bUM4TThLbnBDVE5ldzRJNFJIbVBfWjZYVDBFWjBSZWh3TWVGU1BOM01OV0YzZERoRnU4Wlk1WmJETHI0VFZiSXhzWU1KUlFRNHRZRkNScGJ0YUhfNmlYZEJiQ2s?oc=5",
+   "summary": "",
+   "publisher": "Columbia Missourian",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-15T21:35:00+00:00",
+   "fetched": "2026-10-16T04:26:21.893724+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "1d9d9402c87872c4",
@@ -1141,6 +1219,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "61353198864752c1",
+   "title": "Employers Avoid Knee-Jerk Reactions to Green Card Sponsor Bans - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEtNdjgyQktjWVk1SUE1TlFlZ01QQWdvSGY3NGN3dXhNMlRISFAwLXlPNnJXenZoanJSc0U0V0dHMWNyTzhYMW5uLXp4akJoc1VJdnJXWktkUG5TdHhDR2d3bHRrOG5aTm1kZndDTE8za2M3ZTFqa19mWnlfNjNPS25qWHZLbUJmYTFDS3RKM1UwSHc2ejNaNFVNTUJ3NzV4ZGI5R1NRb3NBUnNjMFM5cQ?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-15T09:05:00+00:00",
+   "fetched": "2026-10-16T04:26:21.893724+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "fadd4a0965df5cae",
@@ -28282,6 +28380,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "89cd3471de1a950a",
+   "title": "New Zealand Offers Various Work Visa Routes For Skilled Foreign Workers - UrduPoint",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2Nwc0I5QWRreEh3NkdxeWZXdk8wTHZOY1psRE04dUNBMUx2cDQ1enhnTU5tNnZNYjljZVhOM29GWWxqaWI5dFVMTWt4NUxYdEd4ZERraUw2RGpqWEFzSkhoTFVEUU9SQzcxVXVTM3hqODJlU1h1dXVVZlJ6QXl3d29KSTRrZTJidVl6bTJYNElhaUQtSEFnUzl0VzhBdU40STdEMQ?oc=5",
+   "summary": "",
+   "publisher": "UrduPoint",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-business",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-16T04:26:21.893724+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "0d330a644266d953",
