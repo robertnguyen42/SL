@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:52:01.236442+00:00",
+ "updated": "2026-10-16T00:30:19.061187+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 32
+   "count": 26
   },
   {
    "id": "eu-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-partner",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 13
+   "count": 39
   },
   {
    "id": "eu-blue-card",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "eu-student",
@@ -8555,6 +8555,24 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "03c4dc15edf24b84",
+   "title": "EMAIL HOME AFFAIRS MINISTER: STAND WITH THE PEOPLE OF AFGHANISTAN - Amnesty International Australia",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVZTUEdDWDRNdWZOWGtYQk5aWTR0ekdXTW1vcGtvbDc5ejQwcHYxdGpkR0xseVJSUjg2UHA0QTItZTduNkNZcWxxM04tMzRyUmo5eFE4dktBYmhQVUdxckxrSVkySXNMX1gxOTAxRWExSENKYlhoUk1rOXZ1bkZSb18wZzVaSE1aS3J1NzFDbEVhNUU5TVFUZWs0d2NwM1FYTEE?oc=5",
+   "summary": "",
+   "publisher": "Amnesty International Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-16T00:30:19.061187+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "f6cc906fe6524f7c",
@@ -33811,6 +33829,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "dd76e1923a7a701b",
+   "title": "Global Immigration Partners Forecasts Major EB-5 Changes and Legislative Uncertainty in 2027 - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVGJPWl80bDE1aUJhWGhiTUU5UVlqeDBWTmFleGR4RWM1dlZnS2ZjS1JBVnpsMlpJNnNSbDZmODVqQmJxeHk1UjhuajFYUGxsOFJRLU5OTDVGRkVnTlJiNnJlNTlPRERhQ0hoRlNzUFBxWk5EekxYLVdNak95clNMbGxCWXV2c0ItN2RkbE9SLXptcGJUTXZHVElLU1pwZVQzR1BBNFNsajBCQUpETjR2TnVTeDZ0MGdWOXQzMkxwTy1udlhNWjV5RHNoX0xodmk4MTBzZFF3?oc=5",
+   "summary": "",
+   "publisher": "EIN Presswire",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-16T00:30:19.061187+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "0e934541d688a23c",
