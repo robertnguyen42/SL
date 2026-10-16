@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T08:27:58.924088+00:00",
+ "updated": "2026-10-16T09:05:19.184599+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "nz-en",
@@ -352,7 +352,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-blue-card",
@@ -447,6 +447,62 @@
  ],
  "items": [
   {
+   "id": "dcdb76c937573313",
+   "title": "New Zealand Raises Visa Fraud Concerns Over Applicants From 5 Countries - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0lzZUdJRzFLVEk0MUJvMHFmT25IcU9BWFAyWW5mZWI3MFpkUVd6QUxfVmtYa0txWWpIbDV6a0o3cUNjTFQyeHFzemFjMXlLR1d1ZVhqZEtObnkxTmZ1eHdVMHpfbC1mZ0Y0WW1uY19EX0hTem5QUXNXNEVwTGlNZHM2UnFPNnlPMVlscjlhSmx2cFpxMkgyWVN3?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-16T08:38:33+00:00",
+   "fetched": "2026-10-16T09:05:19.184599+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "38d27b09f6b6656c",
+   "title": "USCIS Explains How to Check If an Immigrant Visa Is Available Before Applying - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWVU4alJOYzRORXU4NUlxNndCOHVpX0x5c1ZNU0phT1BmLXBaemNyWThQTl9uN1U1ZHpEUkZYZFpUZVItdkpaYUZ6OHk4RUlmYmJKZ3lCNXBMTVpGRHd5TGFjSFU4MGgzckVkSS1VU19YRnBMcDlRQUtxVmJKNXYtbTFsSHlrMXVidnJkQzRaUFhBWEI1dXRN?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-16T08:35:08+00:00",
+   "fetched": "2026-10-16T09:05:19.184599+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "efd858e5cd2f6c71",
+   "title": "New Zealand Names Parents Eligible Under Its New Residence Visa Selection System - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYU9pWE5tZERISDdDYmxCRVliZXVOZ2dBaVJxWkVhbE9UelF3QTU2emNBUDBVRzltcjIxUGY0UWpqbEMtSkJtX1FhQlJ5UU9XZWVUQks4NHllbFNJTFU0bF8zVWJCYVdSZ3E1cmRDWHowdmQ2U1JQMkdBd2loNjRBRHZRM29SV1g3TEpfRGN2YmttdW1BdG95TUhDd3pDbUFQaFRaOVFR?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-16T08:33:28+00:00",
+   "fetched": "2026-10-16T09:05:19.184599+00:00",
+   "visas": [
+    "residence"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "88eb8535a86a2a8b",
    "title": "New Zealand Announces 9 Visa Categories Affected by New Partner Age Rules - Legit.ng",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmNjVGhfZjZwZ0JlSTk3bG90MDlZeTZBSkJMel9BLTEyeGNIQWVFVVhaV0RYWkZGSkp6ZzhPT2VTc010T2dqbWM2SDlDa2p5eGg0bmdCak1rYVI3Uk4ycTdCWGFwMm5PcWNpQ3VUME1aelRiRHdCUS1scUxkNjQyN1JaTmhwS3F0QTdqeFR6Sy1TdWNOVmJoMktGNkljZHhyUzdrWg?oc=5",
@@ -481,6 +537,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "ce23a25e03d3c48c",
+   "title": "Express Entry immigrants lead on jobs and earnings - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblQ2LXNzb2lNYUpYTXFwMFAzM0ROZ1lQMVljTlQtaG90cVZ0M1FsUHQ0QktPYjlSVnZoRlNhX290X2RzaE1mYTY2LVYzLU1VSGdBUEpraVFmaTR4c0NxQlB4SldQVzR1ekp5TENsNU42WDkzenFRTWlheVAtY0VRNnk3QWJ3VmY5ZUpB?oc=5",
+   "summary": "",
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T07:19:48+00:00",
+   "fetched": "2026-10-16T09:05:19.184599+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "5e225898fc68aa76",
@@ -534,6 +610,26 @@
    "published": "2026-10-16T05:00:00+00:00",
    "fetched": "2026-10-16T06:37:59.308340+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "f88933cf797ab6da",
+   "title": "Trump's week in review: $490M in tax fraud uncovered; USCIS to speed up termination of refugee status - Christian Post",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOXzNTbHdnX0k4c1p3WThDSmZjNE9wMGlWcThsUG9UNjVMT1RIeHFVUzdVLVlLVEZsVkxSc0lZVEV0Qmh6dmdDd0ZkcTFyV3QzQ0F4ZzBwYjA4VTkxTGt6dTJ2NnFETHctSW9CaUNCbFNfMlAwOThwZVpYTThKcXBxbGN4RmxhdXdmYjR3MXVjYVhZNEE?oc=5",
+   "summary": "",
+   "publisher": "Christian Post",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-16T04:03:36+00:00",
+   "fetched": "2026-10-16T09:05:19.184599+00:00",
+   "visas": [
+    "asylum"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -14521,6 +14617,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "1c4b0edf03218e05",
+   "title": "International students face Australia’s migration churn - The Jakarta Post",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3EwLTRNZFJOdHFlZDlnVjh0bi1Vc2hWdFJXRElPbTZqelg5WTZLYUQzMEpUOEg1QVhZT2dxLU5WeWJHb3VjTGl3bUJ4VmNzYkVGb0JLem5RQl9SQVU3SmgteEVJM0k2TXd2QjJsMjZ3WExjZldQY1N3Sk80TzN6TWZaOGx5U3FaTFNWY1dZaXZzTGUyM2drZGg3V0c4LWdCXy1BN1l5QQ?oc=5",
+   "summary": "",
+   "publisher": "The Jakarta Post",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-16T09:05:19.184599+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "8850e4cd78a0d076",
