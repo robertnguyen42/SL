@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T02:01:16.539125+00:00",
+ "updated": "2026-10-17T02:58:12.393192+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 33
+   "count": 35
   },
   {
    "id": "eu-gov",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "us-student",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 12
+   "count": 18
   },
   {
    "id": "nz-aewv",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-family",
@@ -6174,6 +6174,24 @@
    "source": "eu-family",
    "published": "2026-10-13T07:30:15+00:00",
    "fetched": "2026-10-14T22:56:37.699176+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "083176642b2ed31a",
+   "title": "Hanson’s migrant sales pitch to business - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZmh3OElTb05pelludWQ4OUVUNVU0b0FQUUhkbmNOQzh1c0pWVU1UVWxSWXJERXVCdXllQmF3UV92TmszbDBnYVhiaWxfNTAzam95S3lJblo1enc1bndIUWVTUGhrTmNCNGhfY194MV9TOS05cVZDei0wUklrWl9DcFhtc204MnpJa0NtUXY2QWZUT3dScG1aUlBsVEJHMjhlY3hIblBWeTl5RTZiY2owZkJfdHp4dW1LeVQ3WHBjTnFXSGNyZDBCRHBkOUFqMkNKQ0VpdklTTEpZU1o4NzhVUmtBajQwdWtfdGJiYmVHdVg0bjdrTzNZSURUQTJGWmxlRllna3U2c3hUcnNIeU9vb2ZfZThfZDl6dVE?oc=5",
+   "summary": "",
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-13T07:24:00+00:00",
+   "fetched": "2026-10-17T02:58:12.393192+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
