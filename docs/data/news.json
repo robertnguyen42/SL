@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T22:51:38.750785+00:00",
+ "updated": "2026-10-17T23:16:45.587308+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-family",
@@ -406,7 +406,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-investor",
@@ -1065,6 +1065,26 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "f41a4c28af7c08fa",
+   "title": "Tech Firm Cloudera Barred from Green Card Filings for Two Years - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmwtS1hlUVRGSmNFWFo3bE5tMW9LVUpxQV9KRjgxUkFNVkJ1bGhKOGEzVGt6ZS1UZHpaV1I1REFJWFJEeUx2eDA0VWtGeUs5WEdYNndBZ0tHcXQwNFduckJkalNZeS1wTHJYVG53bkpOWl95OHgxNWdkR2poLVhxcHFhaHV1RjVPbFloTGRNMnloZS1zUmljWmI3Q09WUV9pMnlwYnA3emdNVTg0dkZnNlVB?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-16T20:11:00+00:00",
+   "fetched": "2026-10-17T23:16:45.587308+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "02ce768e3e6f3375",
