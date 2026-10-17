@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:57:05.687445+00:00",
+ "updated": "2026-10-17T19:23:09.681564+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "fe0da76081a2b5db",
+   "title": "Labor and the Coalition need the Indian diaspora vote, but the immigration debate has many feeling bruised - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjEzV05OQkVESTVKcEtWM2hTVlpnQUNsMDNwdjZEWEhEMFEzWHRuRlVPdk9rS0J2TWhIWFV0N3RVcXZGdUdBSVBnY1lTcEYzRFdaWjhJa1MzbW5hTzd5RVlXQjhrZjVEWmU4LU51STRaSWNFVVUwbUpCZWt1NzhIZ1RSUHI2dWVtdXdHdGw0NWFlMFJwT3lLcW9xSWJDUUVQWG1qemdZOTB2cEt6ZzBDaGhKOFg3aGNlRU56MFRUdTh2M0dnN040QQ?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-17T19:02:00+00:00",
+   "fetched": "2026-10-17T19:23:09.681564+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "f1004cfe957622ee",
    "title": "Immigration: Why no number of new migrants will ever satisfy Australian-born citizens - SMH.com.au",
@@ -481,6 +499,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "7d42178b9cd5bf7f",
+   "title": "5,000 French-language candidates invited in Express Entry draw #450 - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0tQVUl6Z3g5XzZNS3RVRV9KOXIyVkRvYkZFSk9pSVBYbnIxV3p1QzdFX0wwbEtkWFFpSGk1QV9VRGFUX09lYUUwSmlXWENpUzhwYm5iQllhMGlRRXg0R181NXJHNmU3UVRiZHNuaThMRGMwTm4tZS1Nc0Q2RXZHaWJsdEJzVTdCWWstT2c2V2dBNjM3Zk9fQQ?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-17T17:16:26+00:00",
+   "fetched": "2026-10-17T19:23:09.681564+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "9a8f1a3f3b420678",
@@ -16876,6 +16914,26 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "801d026dd53012fb",
+   "title": "UK student visa refusals rise: What tougher rules mean for Indian students - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV2FQSFNfSTlxNENteE80cEE3eWloRlNuUW1QX2pwT3I4V09TdmloR3ZYTi1mVTQxbWNLWGZRSTdNWGRXQzhObHdRRWZ1UUM0cjRpYjVqQm1sVzRYU0tPS0dqYUFpcHFvLXhxZkNLU3VreWtxQ1V5NUpPb01iQnVCVWFTQ3R2WHd0ajB0V2FlcDM0NHpGWEJ0dUtfNHh1bXF0UEIta25hWm5jVl9XUVo4UWxrdFhuQkVidnpVblR2a0c3NGdiMEdQOGN3bWx2R2c2bFhWX2V5WXdVUDRnVERR0gHkAUFVX3lxTE1RSkIzTFE3OHh6c29WQ0lUVHBlcGp4eXhaeTFPYTQ4LUlvMzU2bDJHM3cydmJ6Q1YyWF9QMXdZaXNRU3lRWThEc2Z5SGVBYnZZaVgwNTZWMktBeXdTZWhobVFuQWdjMTFOR2tiMjVtQzV2aHZyT3p5QWF5Z3FpaU9hSktUS05QcENjQWJ5SGFFM2VhTmktai0xQ2pxNWRYT1pQNzVETFRRRWpNMTNZMFFOTnIzQ2pjV3FzV1NIQXdJcjQ5dWZtMjhud3hHQkJfMjlfQnc2NE9QaHFqaHU1aUhYUWdIMg?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-17T19:23:09.681564+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
    "prio": false,
    "score": 2.5
   },
@@ -37931,6 +37989,24 @@
    "lang": "en",
    "policy": true,
    "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "ebb0fe960206b36d",
+   "title": "What Indian students need to know about the new American visa rules - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjcyVlFYckdpT3c3cHNZYzNGOFJtaXFHNXpneURBZHdHajg5ZnA2UTFSbVItVjlUQjhMY1dzdzRCWHJtY0dObkVOT1ktcDdHUHIxU2F2UnpfT2NNODRCcXFFZFBTZ3dIeC0xSzRxRXRGaFJEQWFPN1hWbklVRVBCN1ZlNzNFcjZvV2tJMzYxcUlLMmo3cGN1V1Fia19tSVQwVERLMkpVTHhHQmQwLWpuc19TcjhhMkk0akFzamJKb9IBxgFBVV95cUxPVWg1M1l5LUdHeWRMdzZtVWJWbUtEYUJBTnVjYlNJZmh1bTktWl9kWjd1TXFkWHZoWXgzS2F1TmxRMFRBaXBKVVJ0N0x0UnlrakFmR1lBRm90bTQ5SWE0TFZTLWYzZ29wMTRsMFpNb1c4MkJhaDJNYzQ5R0tVUU9pMXBFOURqTk1YQllTbGZQbUY0WDVkZ1h3amZaR05UdTdhRVpPWnF6NEdvbTZrMFlseWxiWU9SOHBBNHdhaXREMmpWUERqSlE?oc=5",
+   "summary": "",
+   "publisher": "The Hindu",
+   "country": "US",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-09-20T07:00:00+00:00",
+   "fetched": "2026-10-17T19:23:09.681564+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": false,
    "score": 2.5
   },
