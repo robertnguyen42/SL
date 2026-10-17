@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:21:18.733756+00:00",
+ "updated": "2026-10-17T15:54:29.085763+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-family",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "9a8f1a3f3b420678",
+   "title": "Ilhan Omar home search: Can Donald Trump revoke her US citizenship and deport her over immigration fraud? - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQc1dEMGZfQ2pKSldIM09xYzR5ZlRFUVAwd1RoVTJ5VDRsSmhBWGY4eFo2YkE4VnVROEZpUldQYnB0WWthTmk3eXUyN2ZyVm1aa1E1VktBNl92OVZhNl9OOXNaN3dEVFVMMVdZVzg4eV9OVEpOT3d1WXZhLU5rbjNpaVkxak1vQ1ppcUZkR3V2aGMwWUNaNEswZDFXNWdNOGk3V09KTXhvQmxwYTNsdXRNYk5SSy1ycG41blN4bDFpX0dpZHNZY1cxaHl3RUhSNkNkcFNRWXJxUmMzNUNZNDZ4aUlRWjB2WjFRdVhjN0ZGaFczanBtRFN3TW5SZHdxei1uVl8wdTVueXRJTmlKc0xDZTJYSG5UZ9IBmwJBVV95cUxQdGFQSEZoR2M2bWc1ZWdJTGdENWNiMnQ4OHptelpHY0lDREhsNjZNOEFrQ2hrT0dQbDZOa21QUjV4dW95eUN3QWFZZ0Q0aWVGdTNFcVQyWlBEUjRXNXRuN2V4QzAwU2MydjNLeUVrd2FxdGFldTdZM2ZnZ293dU5lT2kxUk9UZDdZT0dsSUZvdW9UZ1Y2ZmdncGVNc2pBZEZ2bHRaSjNGTXRmUFZkc05UUEJYazBwbDdYMXZzWWV1VlM3N1RhdXh6T2xXeVJqeFN2d3ZTQTE1R19TQ1MySUItcFUzeks5LWdUS0JRdXdsdDhvMnE4blljSldGSG0yU0VHRmJhMm5UckJENlJ3RXduVHQ5V0kwUmNuTnZR?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-17T15:19:51+00:00",
+   "fetched": "2026-10-17T15:54:29.085763+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "73c5788496f23ff3",
    "title": "Afghan Migration To and Through Italy: No place to call home - Afghanistan Analysts Network",
@@ -18512,6 +18532,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "dd1479eff999b8f6",
+   "title": "Changes to the Golden Visa Program in Greece - נמרוד ירון ושות",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OV3ctdFI0ZTVmVnJhUTVVM1c5OTZyRVhHT3ljbGJPWXZGSThQZ1NLTk1xTV9mWXByUHhMNUpVdm5yem1nZWplUXRQcGRkNFJsVjV5NVQ3S0FzVW5idUFFX3M3YzJKdUdiMjhjYlRNS092UQ?oc=5",
+   "summary": "",
+   "publisher": "נמרוד ירון ושות",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-06T07:00:00+00:00",
+   "fetched": "2026-10-17T15:54:29.085763+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "360c812d4bf88df3",
