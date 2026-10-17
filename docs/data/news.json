@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T04:56:49.092259+00:00",
+ "updated": "2026-10-17T05:25:24.621017+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "nz-en",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-partner",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -370,13 +370,13 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-family",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-family",
@@ -501,6 +501,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "9ca3e52346da04aa",
+   "title": "IRCC posts fresh Express Entry pool breakdown - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUW41UzBtM0hQMmU0RXRkQ2o5NktKZ2dTblFzNDVpSTdkS0ppaGY5cU1YSS1la1JYQVBGckpmOXdnOU94TEkwOGZnTjQ3U0pza1FmM05fNTVWSDlIdHFXMkFoMUFuQlVjVjhxYlZucC1LSlBhemRoWlkwdnBKWExWN01PYUZMVkhQTW9LSkZIOWI3cGs?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-17T02:17:55+00:00",
+   "fetched": "2026-10-17T05:25:24.621017+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "27666fec7ca1112e",
@@ -619,6 +639,24 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "86d23021b61022a6",
+   "title": "Canada to boost immigration points for high-wage earners in bid to drive economic growth - Financial Post",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTZQZEs4bmpjRERPbFpLRnYzTFp0RUpHZXdUeTFnOERqZnI4cHRuSk1mSXZNWWM4bFotOUc5ZzlMalVSV3dCb1NMMEE5M0p2aTFMdndnT2ZnSnV4LXFNOXFyV2pqUElFb0t4UlJKZFZ1QmZ0ZjJ6VEE1V1NGZlNlMHpKcjRhb2pGSlZ4elNtaWl5dw?oc=5",
+   "summary": "",
+   "publisher": "Financial Post",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-16T20:38:45+00:00",
+   "fetched": "2026-10-17T05:25:24.621017+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
    "prio": false,
    "score": 2.5
   },
@@ -30508,6 +30546,26 @@
    "score": 2.5
   },
   {
+   "id": "4f3ec7ffd2ef184f",
+   "title": "Cyprus to Tighten Golden Visa Before Schengen Entry, Reviews 12,000 Permits - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEtVRWFlWW1qdW5TTHlfaERhQUJkX2RGVEp0SnNIRkZLUUJvNEs1YUd1cFZmaWNuTmxTcmwtWVdCMGZPYVMxZ3FxVmwyZWRUTmxpb0F1VlZmRno0aEt3RHFfV1lBU0dwVEg1NE9qMTA3Q1RtSGZxc2NHY19qQ2JFXzQtd2lheDZUMmtCMHVYT05MR1FYU1h3TFFrdTJsc2xGb0kwajBlVXo2UQ?oc=5",
+   "summary": "",
+   "publisher": "IMI Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-17T05:25:24.621017+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "0d330a644266d953",
    "title": "New Brunswick Issues 610 Immigration Invitations in September 2026 - ImmigCanada",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aTk4xM1NHdW1Ya2cyeWlYckowOVNrRjNCbER5TTZLclN4TTF6UTBqcldFLTh6aTdseTJpd1R1U2lDRldsb1NIRU1sUThDbUJjNFR2eVVoSUVHVS12M0NsNEotYzBKZURUUFZzbXRKYl9JcFJseE9CT0Z4cmo3Zw?oc=5",
@@ -34731,6 +34789,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "f5b61c4dbe167a19",
+   "title": "British Columbia PNP Draw Issued 33 ITAs through Health Support Initiative - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wV1dZZFI2bk1XVThFblBhdFlCZDlsZk1GNExkZ1ZwaTZ0LVNFQndkeWdYamhnQ1dra0gzMEtFSDVFSVJwV2NKMjF5WXFreGwzMm5Sa1BoQjBwdkhFZDdKYzlaWmhObTd6QUNXSHJFaHpMejg?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-22T18:12:06+00:00",
+   "fetched": "2026-10-17T05:25:24.621017+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "4460a85085bbe2c8",
