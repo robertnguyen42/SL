@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T21:20:50.912317+00:00",
+ "updated": "2026-10-17T21:52:57.570671+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -112,7 +112,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "au-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -244,7 +244,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "us-eb-work",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-student",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "eu-student",
@@ -26712,6 +26712,26 @@
    "score": 2.5
   },
   {
+   "id": "365a497127400a79",
+   "title": "75-country Green Card Ban Illegal: Judge Rules 75-country Pause Is Unlawful | Immigration News Tommy Paul (l8NlksRiii) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zd3RNTlJ2YzFVVjJUSjRBWTRmX1FIaEY0UVVOczNtV1JIX0k0Z2R6cVpZNDNSNjd5STlYRDBfYTU2QlB0QXBnRXcxLURiUWh0R3FHblpVUGtMTUNVZExra3hHakp5dw?oc=5",
+   "summary": "",
+   "publisher": "Unisba Media",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-01T04:10:09+00:00",
+   "fetched": "2026-10-17T21:52:57.570671+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "a2dbd491abd88e27",
    "title": "Moyne Shire welcomes priority visa restoration for farm workers - Inside Local Government",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZTVKMTlrUFRiU0xSRlg0anE5X3hId3NSS0J6ekIwUWJJWi1Cc2xUa2RWUEliOUVLcV9yalB6MVJNM3h5ZGpvZUF5ZHdTZFFEcHh2b0l2Y05yR1BEWDZkelBwcTBydGVLdXNuWE42eTc5YjVtSWFleWVwYUVwd0pTXzQwbXhMb3JBdE0wR0owbUVYNkRqX3g2dGlORjk4NjY5blFJ?oc=5",
@@ -28411,6 +28431,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "7ba454fa3eacc308",
+   "title": "Is Express Entry Ending? IRCC New Changes Explained (2026 Update) Lidl Plus Loyalty Scheme Update (I1q0sKRlzd) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOGxQamRMUVNmYlRObE44WTVjWUtVRkozbHFBczNxQXV2bmVaeWdCYXlmQUhIT3ZOS1FsNWZUS1hJNmxSanM1QmZyV2pYX1FJaHFpTVNHdmpXQnFjM0pGdFFyNE5XVzJkSU51RVRMV1ZfOFpMMEl1UnRlejF6MzdPZlFyT2Vsdw?oc=5",
+   "summary": "",
+   "publisher": "Unisba Media",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-30T03:59:12+00:00",
+   "fetched": "2026-10-17T21:52:57.570671+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "525928bf84d1c8ff",
