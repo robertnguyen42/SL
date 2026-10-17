@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:31:11.874215+00:00",
+ "updated": "2026-10-17T01:27:48.170838+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 31
+   "count": 33
   },
   {
    "id": "eu-gov",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-green-card",
@@ -292,7 +292,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "us-visitor",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-student",
@@ -447,6 +447,24 @@
  ],
  "items": [
   {
+   "id": "27666fec7ca1112e",
+   "title": "Nữ nhà báo Mỹ bị người định cư Israel tấn công tại Bờ Tây - Báo Công Luận",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdDBVSTBfZ2hRVXczNjJaMUYyWC03Wm0tNFQ1Mm15RW02VjFnNXFGTmtuV0tiMnlzR3FOaUkwWENIWTY3d0tLbGtXaDBkbkFBbjh1QUVyVmlxcm5rVmZPVGNxd0laMWZSWk92LXBoWWxKeW5TV2cxQXhZR2VybU9sY2NFVkh3dEZNbTNvSlhPUTcway1zbERjVQ?oc=5",
+   "summary": "",
+   "publisher": "Báo Công Luận",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-17T01:01:12+00:00",
+   "fetched": "2026-10-17T01:27:48.170838+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
+  {
    "id": "0cdce445b6323327",
    "title": "Canada boosts CRS points for Express Entry candidates with high-wage job offers, drops LMIA requirement - CIC News",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JVFhDdXlPVkpLYTFTZWR2ZjA3VlVvcUh2VFFfT3JzV29NMC1vaVpVY2FGUUdrTnFhakYweG9EYXIyQ0xoNDVYdGZLRzJyZ1kzeHRkcHh3MENHcm5Pdng4WEdneHlHeS1vQjkybUlMRHFmVlNET01mcFUxMNIB4AFBVV95cUxOdU9vSjVfd1YzODdIM0hrc3hiczYxR1JJc01hb1JjWkx3TlMyQk5LZEN6alJ1Sjh5NUhrMTZQTWxxQWg4R3NHbE4xQUdSa1JOd0lJUnpBVG40U1dSZGhwVW45VkNidjBMc25PVkVPd0N2T3JNU3JmSTlSRUpBbkhXcVRhQ1ZUOXFfVmxkeWI1QW80Y0FmVG15NGJSVnl6cmhGR0pjVUM0WEliREJ5ZkpfODhkcjg0ZnVMQWs0b2JibVJlQ1FrYXZtckl5RkVqWXhSaFJNRGhORmdLcEs5c2lSMg?oc=5",
@@ -487,6 +505,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "34fdf77e3bfad6c8",
+   "title": "St. Charles Community College hosts a naturalization ceremony where 20 people became U.S. citizens - KSDK",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdzlnVUctRXJ4QlVwSlBBd2loRmFWOFZFcHNTS0d3SHVrd1hPenc3SzE5QXVna04zdk1NdEU4ZlR0aTJfMUJ1SDl1bGlqcHFra0g0YVA2V0Z3OTBfMzRzUkd4cTIyZWMtNW15Z1hKTVY5WklFN09mS3JFcWMwR2xUcHk3bkxSd1Y2bVI5Tk9EVEZEelJ5MnUyZUVrYkVDWlJTNFVRTEV6WUpPMi1XdENRTXhIMkxicXlsYTQ5czFlUnBWeHB6UzdiNWR3VXBVZG9YSlcwTHh1bmZ2RlBUUXFFS2tBZGhwNlVaNUVWZEZ3ako0S2xKdmJuUl9hY294YXdmTU5J?oc=5",
+   "summary": "",
+   "publisher": "KSDK",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-16T21:23:00+00:00",
+   "fetched": "2026-10-17T01:27:48.170838+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "378b7268c3e6a4e1",
@@ -1970,6 +2008,24 @@
    "score": 2.5
   },
   {
+   "id": "4b300934eb27c65a",
+   "title": "Catholic Charities of Eastern OK Immigration Office Manager becomes U.S. Citizen - KOKI FOX 23",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMDNsYmZHdUlONzBMVzBjNURXektrMG9KMG1ob00yN3VhcHRoRjFaNmxaLVNDZExTYm5xaE81WkNqZ3ExdDNPSFhHdkxfcXhtZVlMRmNmdjhvZnFSTFo5ak8zZVNTQ0x5RFVWUmFXSVlGRmxvQWhIODlfSXNBaTVNVmxFUWNTWXM4WE1pVVNlbVB4V2RNcmRCSA?oc=5",
+   "summary": "",
+   "publisher": "KOKI FOX 23",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-15T19:22:20+00:00",
+   "fetched": "2026-10-17T01:27:48.170838+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "464abb8c0467060a",
    "title": "Wait times plateau for permanent residence and citizenship applicants - CIC News",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEZwZnlNcVhNVTNLODBhSjVidEwwa3owZWU4Y3hTZ0xJRjZiMzllQ0VNM1poU3dEelVLWENheVY2em9SclZyb1E5TmpBTnBkM09iMHhpQnhscWx6RzRJWlNaRU9OVjliZldtdWNZZ2pWM0V4emdMSUJwWDdQTVNCWGNGcHNkaEY4aTJHVFpwSzBwSjB0aXdzUTJ4eDBKU0NNYkI0VkZwQmhkWFNqS3JOV3N5Y3BGYl83d1HSAboBQVVfeXFMTXBGcGZ5TXFYTVUzSzgwYUo1YnRMMGt6MGVlOGN4U2dMSUY2YjM5ZUNFTTNaaFN3RHpVS1hDYXlWNnpvUnJWcm9ROU5qQU5wZDNPYjB4aUJ4bHFsekc0SVpTWkVPTlY5YmZXbXVjWWdqVjNFeHpnTElCcFg3UE1TQlhjRnBzZGhGOGkyR1RacEswcEowdGl3c1EyeHgwSlNDTWJCNFZGcEJoZFhTaktyTldzeWNwRmJfN3dR?oc=5",
@@ -2221,6 +2277,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "8ff0cb345b7bb717",
+   "title": "Naturalization Ceremony - National Park Service (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX09ZMlJrZjktOGhtWkl5MmtKV0lRVi1RZVl4ZDZGMXZlOGNtT2I0U0hDWllEd1dEQmtaNXgzX3Y4Rjg3WGlxWDkzYWJFNVZyM3ZPSlZQS2h3aFQtVWRzYmFUQnVScjJyRUpfSzFWLTJ2WnEtXzdldUU5ODVKbUZ2UWVqY1U5djNpNXo0bVVuMTRBTHdZ?oc=5",
+   "summary": "",
+   "publisher": "National Park Service (.gov)",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-15T16:05:14+00:00",
+   "fetched": "2026-10-17T01:27:48.170838+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b6b96903a0048a2e",
@@ -4055,6 +4131,24 @@
    "score": 4.5
   },
   {
+   "id": "1dd6117f7be4f46e",
+   "title": "Justice Department Seeks to Revoke Citizenship of 40 Naturalized Americans in Expanded Denaturalization Initiative - Davis Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OY3ByaUk0QUVPekMwbFdSUmtmS3l1UTA5TEZyZmFmZEJhWkxGRWRLLXl0ZkVreWQ4dmJ3M3ozRTJaYXlsa3VRQmJxbldlMjdfWGxGMHN1eWlOZTR4SVhoMHFFUXloV0VzUmlfRzZMTU1SY0E2UWRkaU5R?oc=5",
+   "summary": "",
+   "publisher": "Davis Vanguard",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-14T10:26:32+00:00",
+   "fetched": "2026-10-17T01:27:48.170838+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "fa37272629bddfc5",
    "title": "Aussie hotel association makes pro-migration move with new advertisement - 7NEWS",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHllS1Y1dUVFdVJKRk1MN05HSVJvVm1ycUV5OGxwNkNlVFhGMFFnTVU1dnRtV3g2akRSeTlzVFZRWkNsRXRUMm9oSU5jb20zSm5aaXZSVlJCeW10d2laTVdKTnNQVEJtZTZWMEdDNWkweFpPYXRpelJPdkt6UFhlbkZWME1vZU5QdkZIV09wN3hRa3B4Y2F3bHFMQUxrYkc3Zm9HQktWakZrcGRY0gGyAUFVX3lxTFBLeXpwbnpzaWxEODRZbFR4TnQ3NnkyVG11X0oxOGthYnR4TnlkQUxQdWNzYXUzUVpVdmo5WFBoNkRHNnAxbF9nUGhPVVI4ZmM2alhSYkl2anZDUTdiLTAtNnp6elpCMi0xWXZwN2JUU1VsaTQ2YnhrZFNfekdrUHZqQU5ia3p5MmNyR2FERFJyek9SWnNfV1pPWjdtYjFtVlhxYU5CeTNubWl1Nnowd0RaZWc?oc=5",
@@ -4396,6 +4490,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "77bd778c25a1e290",
+   "title": "Dutch immigration service no longer has to pay fines for too long asylum procedures - NL Times",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1R3Z1Mwel9tc1VSdHFONU9JSVdhYnhRVzFYRkRscGE4QXVlOVpxTFE0clJuaWcwS2x1VG9EbUxjajUxcGpPWDdudGlxd196SUZPYWhRVFlTNVNQaGk2dmt4YXdsTWNQZjV4ZEFrdElRNEYtMGRBZ2ZRMHE0dHVJZDJJUEVmZXpiVU9wdWhwWmtiVUdiTGFkYnNPVQ?oc=5",
+   "summary": "",
+   "publisher": "NL Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-14T06:03:59+00:00",
+   "fetched": "2026-10-17T01:27:48.170838+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "aa14806394cc26ae",
