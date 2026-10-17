@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T11:21:08.149758+00:00",
+ "updated": "2026-10-17T11:53:15.735521+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -525,6 +525,26 @@
    "score": 4.0
   },
   {
+   "id": "2cef36112d836d55",
+   "title": "New H-1B Executive Order: How Company Layoffs Now Trigger Visa Audits| Indians In U.S. Antoinette Webb Fort Knox Story (XzhkpQLylH) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3JwejlqU1M3RjFlcGNMYjRtUC1vUnpqenRHZnpsdTluMXkxMzFoTlY1Ml9lV1BuQTkzVXBrcTB6MG1qVFJCVzlob3VIS25LX0Z3bHZRWmZtWl8zTkVJUmN2UHFNZmFkUC1xRHNIRlBfR1pROXJSalRjR0dBdXRhakh3?oc=5",
+   "summary": "",
+   "publisher": "Unisba Media",
+   "country": "US",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-17T06:09:33+00:00",
+   "fetched": "2026-10-17T11:53:15.735521+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "65d001b21bbff376",
    "title": "September 2026 Visa Bulletin: Big Changes For Family Green Cards Nhl Bracket 2026 (don5IWx2z1) - Unisba Media",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TZkx2Z0dVRW16cVpRa2VGTmJrN3JxcmhFOExyUWdEMmFWQkJCOUY4UlRmYmJFM2c4VmRWd0U4MmJ1WXF0ZHBNTWNUZlBNTkpxZVI3U1ZtS0JtSXpqbUg1QVVLTnlaOGlXM0l3?oc=5",
@@ -544,6 +564,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "b2cdfe414f73c544",
+   "title": "Home Office denies British baby living in Thailand chance to meet great-grandfather in UK - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDdlblMza0JEUklXTUd4cWFhakVnRFRTdmNxUEdyU2dkX3dwNllZWTYzZDdWaG9NaE50YTJCWUJKMHgzcGd6Nkl1SnM4VWZyQjAwNDN3SW9YVG5PcGdjWTU2X1V1bUdfdWkwZDRCNmZhYmx0bkhTcUtsc3lyRTJvNXJiZk5GejljbTRrVFRVLW8yWGZQQVl5TkxRQnE2TzJEUlh4bkY5Vy0?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-17T05:00:00+00:00",
+   "fetched": "2026-10-17T11:53:15.735521+00:00",
+   "visas": [
+    "uk"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "05962d18c26a6c6b",
@@ -4512,6 +4552,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "4a164b35e8c1926f",
+   "title": "Canada lists jobs that allow foreign workers to study without a study permit - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2huSG12Y05VT2pWVjBjRTRvU0RSSmtNYmZacWRUSG15bjVGd1dOcmJnbU5WYWFOdG9QVmpzS29Bektwc1U1dkd3eVJFUlEzZllEMU9aMEI5SmpTZ2JwUGVVWGJVVW1uNnpNRGlFbkRZS1pyaGd4ckdnVVpWY0UxRW5WODN6ekxmcjF1VENxQ2Myblh3ME44bWoyVlpmNk9aa2c3bQ?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-14T11:46:12+00:00",
+   "fetched": "2026-10-17T11:53:15.735521+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "fcda119c26e001a9",
