@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T07:11:04.554507+00:00",
+ "updated": "2026-10-17T07:56:36.614448+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -447,6 +447,27 @@
  ],
  "items": [
   {
+   "id": "65d001b21bbff376",
+   "title": "September 2026 Visa Bulletin: Big Changes For Family Green Cards Nhl Bracket 2026 (don5IWx2z1) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TZkx2Z0dVRW16cVpRa2VGTmJrN3JxcmhFOExyUWdEMmFWQkJCOUY4UlRmYmJFM2c4VmRWd0U4MmJ1WXF0ZHBNTWNUZlBNTkpxZVI3U1ZtS0JtSXpqbUg1QVVLTnlaOGlXM0l3?oc=5",
+   "summary": "",
+   "publisher": "Unisba Media",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-17T05:39:07+00:00",
+   "fetched": "2026-10-17T07:56:36.614448+00:00",
+   "visas": [
+    "visa-bulletin",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "05962d18c26a6c6b",
    "title": "ETIAS: October launch of EU travel permit now unlikely - connexionfrance",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHRLYTFBNk1qLTJCcmhlRHVlblRmYzdhR2pNSzB3SzhNalA3eF83clplZDBnY3pLY3g1OGtXcGI5LWM0Um4yNllxRU9YaVYzcVkzM0U5d2N5a2NTaFJlVTlTZzRDZk9nRkRDTnRKeGREQ0NfTWoxTC1RU3pQekozN0R3WGNHcmZNbzQwSEpaQ3VSemxQckViZkowNFdyQUtDVnZtOA?oc=5",
@@ -539,6 +560,26 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "80040cbea7930740",
+   "title": "TIAFOE Vs FILS • ATP Cincinnati 2026 Final • LIVE Tennis Watchalong Express Entry Draw (mzuwOsYTJe) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FTUF4VWZqUFRoOVJhSGNadndzdmI1UnVBenl1X2dBaTdMU3VkYjhtdjF0NnRzcUptOHVtLTJvWDNTRjdkN3F4bV95WWVncldYSTdVdXdhQTduVkxIMFZKOW5jc0Nidw?oc=5",
+   "summary": "",
+   "publisher": "Unisba Media",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T22:21:15+00:00",
+   "fetched": "2026-10-17T07:56:36.614448+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "0cdce445b6323327",
