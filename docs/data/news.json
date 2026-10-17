@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:54:02.190005+00:00",
+ "updated": "2026-10-17T11:21:08.149758+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -220,13 +220,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-student",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "d97e31f68fb6a168",
+   "title": "New Zealand’s coalition government diverges on immigration - East Asia Forum",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRElqeDI3TVFXZ18wX1VVTDFFcXFpS2JiOXl2WUR5cTJoLURIUkY4eWtUOGRsRHNuV0NIaDRSRWxPV3Faamg3SmdHU3kwRldReEVZMmtXd0E0YmpIZFBUNFJZdWVhWkdwMlVyWUczSXZfdi1TYWJkTjNyWEoxQzhNNFpfSHZWeGdyYUp1OC1QOW9IbE9LeEdjLUkxVQ?oc=5",
+   "summary": "",
+   "publisher": "East Asia Forum",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-17T11:00:00+00:00",
+   "fetched": "2026-10-17T11:21:08.149758+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a0597e3ea2ccbdf3",
+   "title": "US universities review CPT rules for international students as higher education groups seek court relief, - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOWnp6dnRibWgwRjIyZkNxTThSTHcxWGx6WmNiaU11Z1prLVRVSVA2VlgtQUlVMjNBZm8xdHZMSkZaUHRmTTJMOTUtZHZjRmdDNDFZVWFPcTBULVUtb2hmb0JnSkhFTzRZeVpoZVlmRFZMaU9lWDN1UThHUzE5NUJBWnhKMmhnU3hsUWVJRDl5SFJsOTJ3aDhIME1waWZaZC0wTGVJYlhaMzNXSTJuTU9ZTmxtcm56d05JcXJGazYtMXZibGF1VGlRVTNwUnozQk9yNTd5N19GWHo1b1hIbndqWi1fWlVxTUkzOEQ3R19JOGZWdnBacGlkMTB6VWxpcGRkRDhEWjhOaEZzUWdpU21Qa2dOb0dURUpZZ0pUSDNFYXFjX04taUHSAZ8CQVVfeXFMT2FlTjAyLWgxZGJWeWU5Uzd0Y2pScnBtMGpFR09JNzhCUmM5TFk2WnZwNjVleHloOHpncDV2WmstcXBfMVczWmpxRXpkRmk3bWFHRGRCbkVyWEtNVzN4b3JwaVpSQ25mQ0liRXNNNk5GZEhpdkplSnBta3Z5TkVxQ0tkTlAzRVdyc2VFQ3Q2dldmOUdhekkwZ1JYSjlCNFZpR0lWb21RMTIxNjVQbjdlLVhHUTRhd19WdnVVQ0Q1eE9xMWxyTENReXc5S0R0ZlZabmtnRnBnZC1rQWFSY0hrX3YyR1BkMk1kc1A5LUtzc3pHQjFWQzlHejBRQ1ZsSnhfRnpSc1VwM0Y1Q1B0d0pob0JuaF9qVmRnM0NwSVlTa2s?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-17T09:38:39+00:00",
+   "fetched": "2026-10-17T11:21:08.149758+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "e19cf5dbbd2e2fd9",
    "title": "Greek Minister Vows to Revoke Golden Visas Over Hidden Rebates and Short-Term Sublets - IMI Daily",
@@ -620,6 +658,24 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "67606ef159fb9a2f",
+   "title": "Australia Lists 23 Visa Types Whose Holders Are Eligible For 1 Free Service In Country - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYi1JMFExdHp3YzVnWHpWdEZraFg3azM2VHpzbG9Sem5ZbmgwODZ1bkRfclgzNk9CWDZETnhfYzNTd0ZfQ2xkWS1YbjN3OEpKcVpCOEVLN2ZBZ1lScXBCNjNhdlRBNzBhMThsMXlhVmhzMjVrX0lkS2JsRDVwX2QyOWhlUUZkYWRvWE9lczNJLWJpNUVnUXJLN25Ybjc2RkxkR0NGVXkwT1RwQQ?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "au-partner",
+   "published": "2026-10-16T22:57:37+00:00",
+   "fetched": "2026-10-17T11:21:08.149758+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "80040cbea7930740",
@@ -16581,6 +16637,26 @@
    "source": "us-student",
    "published": "2026-10-07T07:00:00+00:00",
    "fetched": "2026-10-17T10:54:02.190005+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "6b1a393e0d461a3a",
+   "title": "United States: DHS Proposes $70,000 Fee for Initial OPT and $30,000 Fee for Subsequent OPT Periods - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWDFpc3NLMTNnUmw3cTRaQmNRd29xSXVKRVJ6c1pQbk14MW1tbHpldmYwa2tmWE1WUVBrQVFwX001MnhBbVZXSFc0SFJGaG5wbW05V2FKTHowNksteDFzU1Ftd0RGalR4RzJNTWhiV2l2OTNsTUdZRG9CSl92dTFrUEVLS1BLb2pTU0Iza0ZFd3ZwV3NZMkttSXNJSHcyVDd3RTN3N2hpUGVZQmhJZktxQjJPTVI2V2hRLWx1cWU0bFpkaWgxd3g1WGlVRkMwYlE1OTExS052ZjFUZ25w?oc=5",
+   "summary": "",
+   "publisher": "Fragomen",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-17T11:21:08.149758+00:00",
    "visas": [
     "student"
    ],
