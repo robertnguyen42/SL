@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:25:01.859270+00:00",
+ "updated": "2026-10-17T09:55:05.271824+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "eu-student",
@@ -394,13 +394,13 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -498,6 +498,26 @@
    "source": "eu-schengen",
    "published": "2026-10-17T04:00:00+00:00",
    "fetched": "2026-10-17T04:56:49.092259+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "0a7c8c7e30644c90",
+   "title": "ETIAS: Websites offer help with travel permit despite launch delay - connexionfrance",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFlkWVgzTWRVcml4ZjVRdU1BMnRxbk1DOG1TLWVhZEFSalpNSFZtOFpzdjBfd3FrZXN3bGR5d0taVEltMmdwaU94Si1MM3YwN3pTMG04Y19ibXc0UzNKXzdMblZjdDRDUk5sdUIyRkFJT29iNDZ0M1NHb2dQUGpla0JFdkttb2luaTJMVl9YNzdTcVJaRzVXUXNueVd0a1p1Z09uVDczOThqc3ZGbjFZNVhHcVc?oc=5",
+   "summary": "",
+   "publisher": "connexionfrance",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-17T04:00:00+00:00",
+   "fetched": "2026-10-17T09:55:05.271824+00:00",
    "visas": [
     "schengen"
    ],
