@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:50:55.399462+00:00",
+ "updated": "2026-10-17T00:31:11.874215+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 35
+   "count": 31
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 35
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-investor",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "id": "au-parent",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-student",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "eu-student",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-family",
@@ -764,6 +764,26 @@
    "direction": "noi",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "6a87ce5391876d77",
+   "title": "Canada adding new express entry points for immigrants in ‘high-wage’ jobs - CTV News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0hZSFBWeFBPNkwxNWxOeUVQcWt3bHV6T3RvY2JUREdDejhLTjlfcmU2V0ZpR0JGWUpGWEMxaGFJZ1lQYU0tcmpiQTBMMWdxWGxGLWpaWFpEaFFuUmZ5SkxfQTBaTENKdHc0THB4S1hwNk94dUI3ZDVOSDJSZnJmX1dZWVJVUGh6OWpoNUdYNnNENGdKYXU1NG1mN2NIb0plTG1BQTJTWTVJc3BSR2V1QWp3?oc=5",
+   "summary": "",
+   "publisher": "CTV News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T15:34:36+00:00",
+   "fetched": "2026-10-17T00:31:11.874215+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "17923d47c4699fdd",
@@ -2876,6 +2896,26 @@
    "published": "2026-10-15T02:28:40+00:00",
    "fetched": "2026-10-15T02:59:29.372409+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "ed377097d76ddedb",
+   "title": "What really draws international students to Australia? - The University of Melbourne",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGtVaWlELVFneTE4YmNlQ1JvcHQybnVFZFZlUlMzckREVzF3RzRqYnF0Q0tTa0lka1hSRzZEYUotQmplZ3VOMUdDakdVV05yaHlhalF2OXpDVGY2Q2t3M3NHcmRxc3NxVGRyTzFwSlotc0p2dlBfcU9XMWtxZGgtVEx2ZjZrbGt4REc2RlFxY0xKWHNyZldmaA?oc=5",
+   "summary": "",
+   "publisher": "The University of Melbourne",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-15T01:31:15+00:00",
+   "fetched": "2026-10-17T00:31:11.874215+00:00",
+   "visas": [
+    "student"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -26891,6 +26931,24 @@
    "score": 0.0
   },
   {
+   "id": "20a88347ac854a98",
+   "title": "Judge denies bail, continues detention of anti-Zionist Hasidic father in bid to deport him to Israel - World Socialist Web Site",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwUUhDZm9ES3BQRVBGVEcySjdxcVE4SmdxQk9kTlZxcUpDc3BWczB3VlEwLXZUcDV6TVZPWjJNN0NHTTNIOGNoSDFqQUx1MDJQNDdDQnZRNk85MWNab3FUV1J1b2VZRnRq?oc=5",
+   "summary": "",
+   "publisher": "World Socialist Web Site",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-17T00:31:11.874215+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "8581ee0bba37fe96",
    "title": "US to more than double fees for some EB-5 applications — The Hindu - UA.NEWS",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUREVUtpSmFlaEFhdENCN19QaVZISFlsUVFUUGY3WHZ3a1BORmtfZWdMTEZ1WDJYdzZlczNsVEZVWjZoWHNHTWt2T1RqLU9pZWF0R2JHajdJNzdkeV9ER2FwdS12R1ZNV2FOQTl4cHRFZGhPT3dRWFBNbk1YTUdsZHVicGpHS0V6WnhpLUh0OUxKYndfR0E0SndvMEJBNWlLN3JUcg?oc=5",
@@ -34334,6 +34392,24 @@
    "source": "ca-pr-citizenship",
    "published": "2026-09-22T14:04:35+00:00",
    "fetched": "2026-10-08T12:53:29.295652+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "564c85907f980732",
+   "title": "Galmés asks Sánchez for measures with Algeria over migration crisis - Mallorca Global Mag",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGdZTlVSd3RRLXZMZjJ1YzNjaTFJQjF0NGlZMThVTVlXMzVXMWs3ZFhiaUZVemxwNzVMLTFHWkdfWG9VT3JQTkJ3NnBKYW9uUi15ZlZkUlJEbTNpcy1FbWRoSHp1MDAzdm9uM1lNVGV0cUxwdWxSZ0k4TGJRdnpkcV94UXBCRklaa2c?oc=5",
+   "summary": "",
+   "publisher": "Mallorca Global Mag",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-22T13:54:51+00:00",
+   "fetched": "2026-10-17T00:31:11.874215+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
