@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:55:05.271824+00:00",
+ "updated": "2026-10-17T10:21:24.018073+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "eu-gov",
@@ -244,7 +244,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "us-eb-work",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "eu-student",
@@ -424,7 +424,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 15
   },
   {
    "id": "nz-post-study",
@@ -3594,6 +3594,26 @@
    "score": 2.5
   },
   {
+   "id": "3dd920c046afd628",
+   "title": "Newport Mayor Faces Challenges in Revitalizing City After EB-5 Scandal - SSBCrack",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1RmOWN1ajd5ZHFWQ25DVGdNWm01Nkw0ZXZybjdyUkhoak5yWU1HV3loR0NpbWtrbVMtOUpVaGlUOG5VX1EycDNfZDFJeG9NRS13cW5PTWFZd2JjRGMyQUlxWkFtdzZ4cGprUzRfbUJyMUxsVE5VUVBQZzQ4V3M4NlV0YmVaajl6RWdSMV9HOGczYWFvYjlkUkY2dHkwdw?oc=5",
+   "summary": "",
+   "publisher": "SSBCrack",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-14T20:05:09+00:00",
+   "fetched": "2026-10-17T10:21:24.018073+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "1204883ca22d6f51",
    "title": "Joni Mitchell, từng chửi Trump, nhập quốc tịch sau hơn 60 năm ở Mỹ - Nguoi Viet Online",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWW44NHZpTTNRSlZ5NGZESnB0OW4zQnpHaTN3ZTVha3dBVEtQeElfaWV3YWtWc2tNV205WGRxWnVfNmVJSDdOVnpNUTBmWG5qcFFqc2RKYU9oc1pKdl91NzdMNWJubHBnZENrdktHcTVmaERva0Rsc21SZEdWWnVEc2lRVW52b3NjcW95c1FPSUhSWENqMFp0M0ZoVkktUGNrUjlj?oc=5",
@@ -4114,6 +4134,24 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "855250860fe4b54d",
+   "title": "US Ends Automatic Work Permit Extensions for Selected Foreign Workers - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZTNuRm5mdnp4bmxQdW83U1IwZUVnaC1ZSmdudFNjQ0tnXzk0TkkzSFRjNFBPWmtFbWdVa2VpZEdkeVpEbjgyRmthZC1xN0RQTHQxSDVZUW5HcmZ0cklvQ01wV2VnaHZPdDMtb1VfSG5RNGFUbnQ1Wm5CcTk1YVdZRWstMkpfeHAtT1V5bkRIQmhSNEdfdXoyNGtxU2JkLUhhMFE?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "US",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-14T15:04:04+00:00",
+   "fetched": "2026-10-17T10:21:24.018073+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "1e14082aa137a458",
@@ -7703,6 +7741,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "9404fd06f218abf1",
+   "title": "Indians already in US driving fresh surge in EB-5 investor demand - DNA India",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE1mRzJSd2xhNmlmMFVVY3MzTmtXZTVTUC00ckJqeHNTSGJnVS1RVVRMd3o5VmVqa1VIWkdIQUtSMEVLaUZnaGhYRm1BUnU5cXQ2V29iTkRtMjFNX3d0MUQ1MlRqTmROSjlULXoyZVp0MTBWLVRCYnViVTdGNWhCa2dlNTJ4dDdRQUpwSUlacHdRZ1cybkhLakZUUW5sWlJVTHJJbzF1dVc2b2pIQ256OEJ2WmrSAboBQVVfeXFMTk1uWWpKNFpRVFZxSEhmaldaLWF4X0UtWG9QNE5OOXlpWUZiaHk4WXdGcktnMDR3a05RVFh6UnhjajJTMHNTNkNuQkNqamdaZFhmY0pmeVJKSUpRVU1CS3pId2FvT2h3dnZLR2NieHhqZ3cwblpkQWtNTDZ6NFpIRlJyd0puYjRhaTFoZFFuYW9MQ0ZXZVFDd1JEWFhEcVozMW9uaTNLMjhoN0xoTWJacVBsaU80N0lNTHBn?oc=5",
+   "summary": "",
+   "publisher": "DNA India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-12T06:49:03+00:00",
+   "fetched": "2026-10-17T10:21:24.018073+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "92d212333b77e6c7",
@@ -16465,6 +16523,26 @@
    "fetched": "2026-10-17T07:11:04.554507+00:00",
    "visas": [
     "citizenship"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "fcc7fbd8352bcf21",
+   "title": "UPDATE: Trump administration proposes $70K fee for international students to work in U.S. - EdSource",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZjg2UURsTDg5b1luTjZqXzFWNWxmaWxOeUFhQnh6T3V2dFU0UktJc282M3drenBUVmpIQVNDemE1T0xNSHJwWTByemZ6RkhacjZ2Q2J2RnNzVGs1YXpSeFpHS0hKWVN0XzFDQU5OLXdKN1NpNHB6dlRVWGNjT1cxd08tMUw0ZWZYcWRHdE9mRkpWb2ZhVF8wUHNraUdqYVZWRWp2Mmo2RW1kSUt5UXZv?oc=5",
+   "summary": "",
+   "publisher": "EdSource",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-17T10:21:24.018073+00:00",
+   "visas": [
+    "student"
    ],
    "lang": "en",
    "policy": true,
