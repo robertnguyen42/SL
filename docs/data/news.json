@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:20:08.724093+00:00",
+ "updated": "2026-10-17T17:51:24.163716+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-student",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -465,6 +465,24 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "b749843fdc861d44",
+   "title": "Brazilian academic transcript translation for USCIS is available fully online - WBOC TV",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT0dxTUVKOXF1dF9Va29CdWtDbFB5Y3ZkWVZjZFJ0emJUeTBINUxkOWNWM0xOeXRpTF9iNXdLQXBhLTlrcThaeDJjTktQT2dILU13ZmFUWTJhQVY5Y0g1Wm04VVdYb0hoWDJQMWVlbDBjSm8zcUh1cW9BY0F0WXJhNjhoa1NYVmtyZWhpeUhrbFFVbk1LakFYQVBVZU5BNFd2Q3p6YnpKQmxfVEM2N190LTVCWGM0V1lxSHoybzBrb2M4ZlVjbWpudHBRZG5VUGVwbklmT0R5a3NHRnJ4eHNuRlAybC1abE9NZ2NnS0I2WlVCbG1QV012Z1VReTY0UlNvTGNfaW5pM2pUWVU?oc=5",
+   "summary": "",
+   "publisher": "WBOC TV",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-17T14:00:02+00:00",
+   "fetched": "2026-10-17T17:51:24.163716+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "73c5788496f23ff3",
@@ -18572,6 +18590,24 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "8d26dfe7b426292f",
+   "title": "US: Immigration News Update – October 6, 2026 - Corporate Immigration Partners, PC",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHJPaWtuNy1UU0lpUDVmOTV6UjJBbjlSbzVhOXVTQjhULUlTWldyQzlRWHlnX05EVVhicXFTYmxIOUoxZGRvUnJLU1NsNGpaSktOV1J3c1hveFZyU1hJd3ZQTFd3MlVJNTFIU2VGbkZoTzNmNWVsbXBOc3lNSllmZkliTENKZEFraUtR?oc=5",
+   "summary": "",
+   "publisher": "Corporate Immigration Partners, PC",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-06T07:00:00+00:00",
+   "fetched": "2026-10-17T17:51:24.163716+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "360c812d4bf88df3",
