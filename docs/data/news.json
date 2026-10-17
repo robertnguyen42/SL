@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T01:27:48.170838+00:00",
+ "updated": "2026-10-17T02:01:16.539125+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -292,7 +292,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 18
+   "count": 12
   },
   {
    "id": "nz-aewv",
@@ -37575,6 +37575,24 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "586cf633b2805db0",
+   "title": "North Macedonia Plans to End €400,000 Citizenship Investment Rule - CEOWORLD magazine",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU25tV2QzWFhlSDJuX3hDY1I1dnl1WlVfbTRBN3VnVVh4a2RCNXRPODMwOEt1WHJOdjdXT3JKM1NJUFJmbnVPdjM4amNyVF83OGJkWV9td0JyWlgxZUp6M0hnc19NcHdWYTU5ejg0OGN2ZDN3WE5pMW5wQ1JZRXlWN2o2aEJCeEVEclNrb09YdkFSR3BhN1BaTko5LXdxZw?oc=5",
+   "summary": "",
+   "publisher": "CEOWORLD magazine",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-09-19T07:00:00+00:00",
+   "fetched": "2026-10-17T02:01:16.539125+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
    "prio": false,
    "score": 2.5
   },
