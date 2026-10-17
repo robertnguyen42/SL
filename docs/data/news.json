@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T20:55:05.468427+00:00",
+ "updated": "2026-10-17T21:20:50.912317+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -112,7 +112,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 22
   },
   {
    "id": "au-en",
@@ -244,7 +244,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "us-eb-work",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-family",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -869,6 +869,26 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "cd5f8dc33720d46c",
+   "title": "Latest Express Entry Draw Invites 5,000 French Speaking Applicants - cic times",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdXdURlpPc05oNWJBSm1DcG40cXd2WVN0WGNGaWdHNG54RHpzT2VIM0ctc01uR2lQTHlMS2lVUFEwbkREbG9pTlVUeTExLUs1QmNCXzRJdU91alF0LWhJbWZSbWt1dXhHcE11dThsdmM1eG9MOEN2T212aENIRjAtQkZrd2tIb0NNTEZuaHJad2thb0Rm?oc=5",
+   "summary": "",
+   "publisher": "cic times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-17T01:40:00+00:00",
+   "fetched": "2026-10-17T21:20:50.912317+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "27666fec7ca1112e",
@@ -3479,6 +3499,26 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "1ae7d11a6796fcae",
+   "title": "Đại học Australia đối mặt thách thức khi siết chặt thị thực du học - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JU1RCS0IyVENZZEJBcU9pZXlTS1BWYWpxVmRUX2dweWYydmliclZHd21fS1NHRVFtYkd3RnNERUlpMkdxeW1Vd2xNX2lza0k5NU44MXprQXZfazdock1nSHpOMTR2ekdYdHA5TGVuTWI?oc=5",
+   "summary": "",
+   "publisher": "tin.skydoor.net",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-17T21:20:50.912317+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "a06a1234c5989466",
@@ -9093,6 +9133,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "db42576a15f7c6a4",
+   "title": "India's Infosys does not expect material impact from US PERM suspension - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXlRc2FIcm5xZVkxS3kxQk40Q1ZGZ2JIQTZRVUFiRTA2Z3BTazVob1NCUEgtekdzNHNtcXM2c0F4Zkc2N1VWTzJCTjJmSWpPUTJkVFdCQTVQVWhmMy1DX2dQcXpXMHFfOE9EQ21BNjBnUFJhZFBXWDUxS0M0Y1NzSkJOVllmOWUtMzAwUGtsLW5xb0NYblpFRmJacXZES1c5dU5sNENTckpCUkZZY19B?oc=5",
+   "summary": "",
+   "publisher": "Reuters",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-10T17:43:47+00:00",
+   "fetched": "2026-10-17T21:20:50.912317+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "984cb300c7b04b15",
