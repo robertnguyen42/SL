@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T05:25:24.621017+00:00",
+ "updated": "2026-10-17T05:55:46.121109+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "eu-gov",
@@ -214,13 +214,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -659,6 +659,24 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "02ce768e3e6f3375",
+   "title": "Queensland couple’s dream holiday ruined by ‘soul-destroying’ visa error - Nine.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGVvcGJBZVVxbVNrLTRhRFV4Mk5TOVUtS0J0MWxWT2RKU2hfUG0yWGE3QUg2Z3dHbXN3ZldWZDBPbDJkcWFNaGU1UGZ0VERRa1g1cHAxb0ZkQWtLbF9kQW1teE1kOW5sVi0wN01RZzJNckN6RE5tQUxiUnh6dGxqMHVoem5RTGxwQXVrZGh5Mm9pemVDTy03VF9oUTVuTk13cWtOc2MyRG05WFNkVTk2NjRldHBsTk9z?oc=5",
+   "summary": "",
+   "publisher": "Nine.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-16T19:49:42+00:00",
+   "fetched": "2026-10-17T05:55:46.121109+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "ab9d40c5401ecefb",
@@ -6771,6 +6789,24 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "7f8d6fe7bf25598e",
+   "title": "Immigration and tax stir tensions at Urenui election debate - Stuff.co.nz",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHZkSXpNQ2JkdzZqSEVRMmlDZWpwY1VuNEs0bHJHRGl3VWhJSFVVMlRTeEt2NnNDaXVHYUlZaXBvNVR3clhoa1cxQ29FdjM5Smw4M1Y4QVVuMUNMRFkwbUJJRU53Q2VoYktxOE5MVkFtaXJOdFdOQnduc2dwdEZxN25ib1hGaHo0amJZQXA0ZjE0Q2pnajl0WjRjZGFKcWx3amc?oc=5",
+   "summary": "",
+   "publisher": "Stuff.co.nz",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-13T01:33:28+00:00",
+   "fetched": "2026-10-17T05:55:46.121109+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "138c79425738b718",
@@ -34735,6 +34771,26 @@
    "score": 0.0
   },
   {
+   "id": "ee85257063a900ba",
+   "title": "DHS tightens student visa rules amid legal battle - The Williams Record",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaDVqbFlPTWhkWmVaM0syd0NSeVd5TkJXVXlvNnRLYi14Q01rZDZuUWdRdzJWbkhWTmloRF8ybkszaWc4Rl9HRzhrcmNzRk5EaEhDZEFwUVhNS0Y0Q2lkS0dNMHlrSjNoOTRrQzFuQldpWE5WNUNZNHZGbHZRNTJQWXV4Njd4V3FWMDltcnNKNmhVV1k?oc=5",
+   "summary": "",
+   "publisher": "The Williams Record",
+   "country": "US",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-23T05:23:23+00:00",
+   "fetched": "2026-10-17T05:55:46.121109+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "b436ab5a5a925ab9",
    "title": "ILAC declares bankruptcy, displacing thousands of international students - CityNews Vancouver",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjl0TWl6QVhoUjladGdHLVFrSlF4cjM5andCdUJkTGloRndGOTBwdE0yMkwxNTdtNzhUaXZJZVFnRWxjOFdLLXlaWUZsSjlydk9iWDhoX2JhRGYyb1Q5MDgxNm5OUkp6MUNWN0NTU3gxckVXQUhSUkZBUk02a21ibmYyMkYzN21LTVA5QUE5dC1YR3pfTm9Tcm1FNnEtYldkZjN4ZU9OcGFTMUU0Z1FyZ3FlWGo5UTFmYWN3?oc=5",
@@ -35681,6 +35737,24 @@
    "visas": [
     "citizenship"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "bc174d1bf37817b5",
+   "title": "‘Our common identity in Christ must take precedence over ethnic based nationalism:’ Seeking a calm, Christian response to the immigration debate - The Other Cheek",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVRJakRuVF9CT1VNM3JqM2Q4WnZJaHV1bXpSa3JDbjdYTlV2aWxkY0NCLUpqTlNaT0hHWjFpeVJSb2FpNm0tVmItc2NXeWpoMGZJV2JSd1ZzQms0T0Z0Q3h3Z3p1SlpxTUVpR2NDbGNobTl2LWEycEVNSWUzU3J3QUxONTVZUk5PU1IxT04waGRmNFQ2U3BycUc4YUFBeENKaTdrcWVjdWVvQ2V4b3JTTE9qVlVIQk8wUzhDNkhwdGRlVEFpbnptZlltdzJhTzg5RWZabE5UdlRFYzRCZlRLTHhLTlhJTGwxa1lRcUVmRkxIRDc2anlSRHROMkxZOGM?oc=5",
+   "summary": "",
+   "publisher": "The Other Cheek",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-22T01:00:47+00:00",
+   "fetched": "2026-10-17T05:55:46.121109+00:00",
+   "visas": [],
    "lang": "en",
    "policy": false,
    "direction": null,
