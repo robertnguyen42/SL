@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T06:29:00.019810+00:00",
+ "updated": "2026-10-17T07:11:04.554507+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 38
+   "count": 35
   },
   {
    "id": "eu-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -220,19 +220,19 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 14
+   "count": 9
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-family",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -430,13 +430,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -16300,6 +16300,26 @@
    "score": 0.0
   },
   {
+   "id": "17f5a046472b73b2",
+   "title": "“True Respect For Our Laws” – Tomi Lahren Reacts After Miguel Rojas’ Honest Admission About US Citizenship Test - Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHRzZms2TkZCMmNLQ2tTXzdvZU5JVlYtZ3ZYenQ5T1ljemhnX1dVam5hOHctOC1WUDMxT3doQmhVd09paTlvWUdQLUpFNk5jZHZGTk9ib0xrZ0M5ZkF0Rkk4YXN2Vmp2YndDNUVKSjRuaEt5ZWg4cjNzaVMxd29KeWlOOGk?oc=5",
+   "summary": "",
+   "publisher": "Yahoo Sports",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-17T07:11:04.554507+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "8850e4cd78a0d076",
    "title": "Coalition MPs concede immigration pledge not fully costed by independent watchdog - The Guardian",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkxpZk1ULXFaVDRCOGJ4eldaeTRTTm9lVnNyZmNteU1WWUJTMFVfU1N5TlgxcDdHenpMN092NGlsQW5lNDlHSjJ1SkQ4b0ctazhHdkg4dDRnYWJMYlpUdWVrbWQ3bDlDaS1Teklaa2dYT1JWS1BydFBqb2NhdE5ReW5JVDFDQmIzOEJCdHFuajgwX3IxV1NtaTFxM1ZuX2VaRndpZnZxVmg4UjhmVV9ycnJUT0hLREl4UjhZXw?oc=5",
@@ -25779,6 +25799,44 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "5d54227bb1b59045",
+   "title": "Canada Lists Provinces Where Foreign Students Qualify for a Specific Work Permit - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUW91WHprSkdyd1NUWDJPMjBUUTJJbFVzaUNBQ3ZHZlNKX3BCVDY1aS1sMWY5blAwcVlNeXh4OU5MYUhCVGxBR3ZydlJMVkNIQkpBbVBCUTVvZnJPMm1LbUF1Q09TaHBzQkpVV3d4Ty0wdzNVdUVxMU85R0VBaHhaYnFRYThWWEtnRTR4U1VnUkVMOU1MUHVZaA?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-17T07:11:04.554507+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b3bd097077854cbe",
+   "title": "The United Kingdom for Ukrainians: Visas and Residence Permits 2026 - Visit Ukraine Today",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNalR0Z0RaazhMSUVvcWkxck9mRGJMc1I0N1JFLXB1RUY1SkE2a09vYUpEdFppRV9BTXYzNWZPRnlYbDRtSXZybHZESTZDUFFyOUdVcVdudENrZ0VzWnJnbjFDR2p4d3dha2l2SkxyMTZka25OMFlkeXlvaTVLZEsyS1Bmc0RFTFYtNExUUi1ZRDlBREJPc2p4SHNTZlVUUHo3T0FkLWlNdnAxdldQX1dZTGItWXFrYXdfYXZ1bFlBZC0td0VvR3Jxb3NmUkNiamsxckE?oc=5",
+   "summary": "",
+   "publisher": "Visit Ukraine Today",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-17T07:11:04.554507+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "721c0bb179aeb0d0",
@@ -36685,6 +36743,26 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "b2a927d86b4859de",
+   "title": "‘It was one of her dreams’: 41 new citizens welcomed during Charleston naturalization - West Virginia Press Association",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMzF1U1c1d2k5elppUzBkaWlzVlhmLWVMblN3YnFMZF9GbndBV2lxd0tGekVmVDJhdzdQMkNaZFhmeVJPdnIzcmlLLWtUWEZFeWQyZkYzcTl6NHBfbi1sdjFzSUt5eWI2Y0hzVWVZLWkyelpscTNqcHpaaXBoRzlIVlNJTWVMckFORkhYbzVxS2M0a2dYeEdaTkhpbnh1a1A4VnA2WWdQd0xUSGVEbmMySTJPZ2l6U0dO?oc=5",
+   "summary": "",
+   "publisher": "West Virginia Press Association",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-17T07:11:04.554507+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "0e934541d688a23c",
