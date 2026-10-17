@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T20:19:59.965329+00:00",
+ "updated": "2026-10-17T20:55:05.468427+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "us-student",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -10746,6 +10746,26 @@
    "score": 2.5
   },
   {
+   "id": "fbdae45dd2fd788a",
+   "title": "US suspends Microsoft, Adobe and six IT services firms from green-card sponsorship (PERM) over alleged visa abuse - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNklMMmQ3cTRXcG1GLVF1U1dXM19TQmhqZUVrMlpvbk9yRUtPdy03Z0ktWFpDdzVKU21LZVVmQmZHZFRRbWFxZE9teFVEVjBzWTM3R3kwc3h0ODY1LUZwS3VSclNNSGFZM3BpMkozSE1ZRldOTVdYQVFWVlNLSEY5QmtqM3N6SGlRX2U1Y2pzc0JBMWtvT1FZTUkzQmdMNGFuNVdkR2dVa3hEM3JocV9rT2dHQlc4MWtaQnJlNzlWYjU4TS0tQlZxNWpiVlQ1RFl1bXRYbERzRnJ0NGNq?oc=5",
+   "summary": "",
+   "publisher": "Dealroom",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T12:02:31+00:00",
+   "fetched": "2026-10-17T20:55:05.468427+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "c37c7f7812ebf807",
    "title": "Student visa applications drop as UK tightens visa, work rules - Media India Group",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXl3ZkQwT3YzNkJ3Nlp3R1F1cU9nXzctSl9QdHkwYjBMUm8zTTBKUjg1T2hNaWIzbVFJVHRBYlhNeVFXS1FMWG1RUU9BZ3Q5TWNYYzk0NUxRNnpBOFZnMmVLZlNwMk1UTVg2bTQ4amN3QzA4Y1lDZDRQZlJIZmRnaHVzeUoxUVQ4RlF3QXBpU3R3ZXFHTEc3Tg?oc=5",
@@ -11476,6 +11496,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "37b57e6433f387c3",
+   "title": "What US ban on Indian IT firms means for H1B visas and businesses - The Independent",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjJ1M1dUaXFSdi1BN2tEQ2dtTTZLVXNWSVRzU1gyR2gyTEdBdzgxb0JJYTdLZjFuRUhUU00xazcxNTNFLWliRDd6djBNLXkweV9KTnZFLWNYUzR5X3NZOWlzRWNIVG56X0dlN2ZKV1Q2LVgzN2VFRzlRSi1PUzZnamNXVWVua1puanM3WEVDOEhoT0F6X2h0aE02aWN5RlFiM3M2aW9QbFpEMGcwcVE?oc=5",
+   "summary": "",
+   "publisher": "The Independent",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-17T20:55:05.468427+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "f6cc906fe6524f7c",
