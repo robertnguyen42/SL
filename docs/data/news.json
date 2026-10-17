@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:51:24.163716+00:00",
+ "updated": "2026-10-17T18:21:31.135629+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "us-student",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -446,6 +446,42 @@
   }
  ],
  "items": [
+  {
+   "id": "f1004cfe957622ee",
+   "title": "Immigration: Why no number of new migrants will ever satisfy Australian-born citizens - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXhjUzNWY1ZRR3FURjdSSUxaOEtVSE53Y2Z3d08tcG1sRFI3UFU0ZlJwSWl5RlFmckxPVldwZGpIYTRKVUhUcVlkTzc1WDFVemhHOXczZGpVSHVIVkxPX0FtZWNfdFV4QVlXNUZnUWx6QUpwc0hRV3E4RjY3YjNHZm85OEd2R0VHUEloSDFjODFFcVl5X1RSTmJ6eDNHWE9fTmM5enplNENpbjdkWS1ON0pzMHpzcXFySGxiOGFzclp6VHM?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-17T18:00:00+00:00",
+   "fetched": "2026-10-17T18:21:31.135629+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "eb46645c0e201ec9",
+   "title": "Do Alberta’s temporary residents pay little tax, reap lots of benefits? We asked economists - CBC",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0tSdzFlNG51OXlDNDdCX1JaN2dTVHY4VThoZUtqZUZ3ZFdwWXZKZUFNVU9Vd2xkdV9mNE9tcGNGcFhmbjl0T3NVdE0ta0ZQdzVjR09MME44cWhyMEhzRkNwRlFCOHBYREJKc1BtUXdCS0pneFBJSVF5all0YU82X3FLNzVsc2M?oc=5",
+   "summary": "",
+   "publisher": "CBC",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-17T18:00:00+00:00",
+   "fetched": "2026-10-17T18:21:31.135629+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "9a8f1a3f3b420678",
    "title": "Ilhan Omar home search: Can Donald Trump revoke her US citizenship and deport her over immigration fraud? - The Economic Times",
@@ -53512,24 +53548,6 @@
    "visas": [
     "pr-citizenship"
    ],
-   "lang": "en",
-   "policy": true,
-   "direction": null,
-   "prio": false,
-   "score": 3.5
-  },
-  {
-   "id": "39895ab237e48739",
-   "title": "Canada proposes new regulations to modernize the asylum process and support timely decisions",
-   "link": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-proposes-new-regulations-to-modernize-the-asylum-process-and-support-timely-decisions0.html",
-   "summary": "Building on recent measures to strengthen Canada’s immigration and asylum systems, and recent decreases in asylum claim volumes, the Government of Canada is taking further action to maintain a fair, orderly and well-managed asylum system.",
-   "publisher": "IRCC – News releases",
-   "country": "CA",
-   "type": "official",
-   "source": "ca-gov",
-   "published": "2026-06-19T18:18:00+00:00",
-   "fetched": "2026-10-02T08:02:50.604805+00:00",
-   "visas": [],
    "lang": "en",
    "policy": true,
    "direction": null,
