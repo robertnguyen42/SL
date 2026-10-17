@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T03:27:56.934884+00:00",
+ "updated": "2026-10-17T04:01:07.359862+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "eu-gov",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 14
   },
   {
    "id": "ca-pr-citizenship",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -406,7 +406,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-investor",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-family",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "63b8d5095735f406",
+   "title": "A warning sign: Australian government unlawfully held citizen for 945 days in immigration detention - World Socialist Web Site",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRZTVfa2VzQnVjVHJpcmFOZ1pveXRWb09GaFg3UDhXVnVUeEFMUW5TVFNSU0tzUzhfaU9ZaFBpWU9fSkw0UjRicHFMSkI5YVE1MzMyOE1fN0Fod2dHWk5HdHo5VFM2SDRF?oc=5",
+   "summary": "",
+   "publisher": "World Socialist Web Site",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-17T03:36:16+00:00",
+   "fetched": "2026-10-17T04:01:07.359862+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "27666fec7ca1112e",
    "title": "Nữ nhà báo Mỹ bị người định cư Israel tấn công tại Bờ Tây - Báo Công Luận",
@@ -27081,6 +27099,47 @@
    "score": 2.5
   },
   {
+   "id": "d12279a2e6d8527c",
+   "title": "OPT Delays in 2026: Why the 14-Month Rule Makes a Timely Decision Essential - Reddy Neumann Brown PC",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNGlGbmotdDEySHNfbnVQbjBSVk9IQms5Ul9oOFRpWjFWbmE2U3lncHp2dDF2S3JIR19qRTdLWWNnRWU3N3l2Tm1GMDhQZFVNZGVYVWtvX2hZX2RFSkxNdmV3RnNHRnN0SWpQcW91Yi1LeDdTQ09UYy1LZDFBa2hrNnZ5NkRGTnEyN3FfQldvVmVXbDVLRDFyMzRlMFRKR2k4blNkRg?oc=5",
+   "summary": "",
+   "publisher": "Reddy Neumann Brown PC",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-17T04:01:07.359862+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "299cf8557facc2bf",
+   "title": "US To Hike EB-5 Green Card Fees - ETV Bharat",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTzBVZHpmd3ZKNXpZSXBaYWFwQzBhZ0JQRXZHWThhZk5HLU8yWGo4d0pXODlxNzhSbDF1Y3J1SVl1MWxFNHVBeUNkQlp4UXp4blVkbXVLUUtFdzVhdEdNeWJrclNKRVlURUxYWjNIQnhDZk45dC16WGpGTF9Ob0swQk9mRDBWdW5tQmxUbUZmN0tmRDZiNmRicnYxdjFxWnB1Wk9ZbGxSZFVvSGxFMUVJc1d1TFV4WXdFcU1zWlEtMEZMZjln0gHKAUFVX3lxTE5BUnljNlVtNXBDZTlXaEhBZGtsRFJuMlA1UGNabHhpYWhsbG15cmtfbWZKU28xVV9wSVMyZkRDYkFrZXJaclAxZlNWaThMejg1YnlJbC0wRmhyX2NkSHY0Mm5STUFqb1EtcGwwMmk2MTFxUmtBTUtHSHoxdEpWMVVLWE5UMGttMEFONzdTVTlPWEV0T2ZZZUJ5UTlDZ3pMZC1aQjZYNTUyQV9qbDNTOWQ0UXFZZnNxVlF0cTc5R1pFTkYtWTdXc01VSlE?oc=5",
+   "summary": "",
+   "publisher": "ETV Bharat",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-17T04:01:07.359862+00:00",
+   "visas": [
+    "eb5",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "8581ee0bba37fe96",
    "title": "US to more than double fees for some EB-5 applications — The Hindu - UA.NEWS",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUREVUtpSmFlaEFhdENCN19QaVZISFlsUVFUUGY3WHZ3a1BORmtfZWdMTEZ1WDJYdzZlczNsVEZVWjZoWHNHTWt2T1RqLU9pZWF0R2JHajdJNzdkeV9ER2FwdS12R1ZNV2FOQTl4cHRFZGhPT3dRWFBNbk1YTUdsZHVicGpHS0V6WnhpLUh0OUxKYndfR0E0SndvMEJBNWlLN3JUcg?oc=5",
@@ -39040,6 +39099,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "caa422fda5eb122f",
+   "title": "Latvia Golden Visa Now Centres on Business Capital - CEOWORLD magazine",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDczNjlIbmhBRGVpeS0wSy03ZnlLcUMtNzBjRkcybGhPUkNMTXFmVTFXc29FdllheWV1ZTZGNzQ3R205LXhUTEZJQmhzZlowcjY3aXBobDhEYTF0RU5VN1dnNUR6akZnSEM4eGc3cWpvUXM1eGtYeWhVRkpTbllzSkZyVUtBVnRjU0xJ?oc=5",
+   "summary": "",
+   "publisher": "CEOWORLD magazine",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-17T04:01:07.359862+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "2a2363c327069fd8",
