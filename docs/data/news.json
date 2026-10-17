@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T14:21:16.207103+00:00",
+ "updated": "2026-10-17T14:53:53.960337+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 12
   },
   {
    "id": "ca-pr-citizenship",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -40214,6 +40214,24 @@
    "source": "nz-gov",
    "published": "2026-09-17T23:59:17+00:00",
    "fetched": "2026-10-14T10:02:36.843189+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
+  },
+  {
+   "id": "9f2326d61d9b0164",
+   "title": "New Trafficking in Persons National Action Plan released - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjBUZFR6WHEyNFR4VFk4NnVuUGs1Q0hDSU45M1FldkRUTWhvS3NhR201bm84a2x2LVduMTZnck1CZ2ZMTzM2eksxMkl5OGFuTnFmeFVacVJUQTBBWFdKb19GVExSQ2RJTktkVXlkdTR3OWFZTTY1Y19laXlBZUd1X1RWZllMb2ZHdVYyM0pyN3NYWjdlTjYwR19pcXduZmRReUZDSGtvdno2LVVsTnVB?oc=5",
+   "summary": "New Trafficking in Persons National Action Plan released Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-09-17T23:59:16+00:00",
+   "fetched": "2026-10-17T14:53:53.960337+00:00",
    "visas": [],
    "lang": "en",
    "policy": true,
