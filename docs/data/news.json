@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T16:55:08.960516+00:00",
+ "updated": "2026-10-17T17:20:08.724093+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -522,6 +522,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "4c03a779ab76cc13",
+   "title": "When the Price of (PNP) Talks, People Listen (PNP:CA) - Stock Traders Daily",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXloWlBYX1BiY0Etc05PSXdhck95WkFJeUtMYVRJbVotWGVFQ2VrSDJGbFN5bUIwWEU2dzh3Sl81NEZHSjFzeTdmOThBQ2xXQmgzYTU1OXdRZnRad29YT1NlanBETnhKbXcxY1RzMHhYQWJzQ0M2VFR3Mm93MW1RdXZkZHhaT2lBM00zNWlnci1TMnA5Yy1yTzJMbE1UaTVjOXc?oc=5",
+   "summary": "",
+   "publisher": "Stock Traders Daily",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-17T10:50:27+00:00",
+   "fetched": "2026-10-17T17:20:08.724093+00:00",
+   "visas": [
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "a0597e3ea2ccbdf3",
@@ -40052,6 +40072,24 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "cb19997ef7ec073e",
+   "title": "Resources for Hispanic Immigrants and Their Families - Boundless Immigration",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85Z3Q1ZUFNMDI3cVQzWWxyZ3dkZTZOelJ2MHJyUXQ5SncxTHhtZjJFekZrT05EcTJJVnU1bVJjeFRBbjFZTXVWUmlQcU1xc0wwZVpLa1N1UGpFM1kyaG1vaDd5WWJXNHRFeEZnN09pYjhSUQ?oc=5",
+   "summary": "",
+   "publisher": "Boundless Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-10-17T17:20:08.724093+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "2a2363c327069fd8",
