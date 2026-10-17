@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T04:01:07.359862+00:00",
+ "updated": "2026-10-17T04:56:49.092259+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "eu-gov",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 14
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -352,25 +352,25 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-digital-nomad",
@@ -406,7 +406,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-investor",
@@ -446,6 +446,44 @@
   }
  ],
  "items": [
+  {
+   "id": "05962d18c26a6c6b",
+   "title": "ETIAS: October launch of EU travel permit now unlikely - connexionfrance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHRLYTFBNk1qLTJCcmhlRHVlblRmYzdhR2pNSzB3SzhNalA3eF83clplZDBnY3pLY3g1OGtXcGI5LWM0Um4yNllxRU9YaVYzcVkzM0U5d2N5a2NTaFJlVTlTZzRDZk9nRkRDTnRKeGREQ0NfTWoxTC1RU3pQekozN0R3WGNHcmZNbzQwSEpaQ3VSemxQckViZkowNFdyQUtDVnZtOA?oc=5",
+   "summary": "",
+   "publisher": "connexionfrance",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-17T04:00:00+00:00",
+   "fetched": "2026-10-17T04:56:49.092259+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "8653237974f7935b",
+   "title": "Mapped: Europe’s Surging Migrant Population (2000–2024) - Visual Capitalist",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDA1bDZtMUI0LWdNUnVmYUpsUkozbnVvMklYOGotaGlGblFvUTFOdFRhdnlRV3NoeXFCeDB0YnctMDV5Wm4yLW4zdDNqcmRQRlVaY09PVS1QcDBsMExNY0wybnpHaVFWdEdjNHVVUFM0MVFaaEpnX2NBNGwtVUJfclF0YzdDRkNoSDdKOVNR?oc=5",
+   "summary": "",
+   "publisher": "Visual Capitalist",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-17T03:38:01+00:00",
+   "fetched": "2026-10-17T04:56:49.092259+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "63b8d5095735f406",
    "title": "A warning sign: Australian government unlawfully held citizen for 945 days in immigration detention - World Socialist Web Site",
@@ -663,6 +701,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "5ed3e11025ae59d0",
+   "title": "12 countries where international students can earn more while studying in 2026 - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmtsdGhGcHQtRUQwS1NSV3ZCaHQ5T3VVT1VwM2FqeW52SXV0OFBKWEdpOTc0aXZlRlRoQS1TQXl5eGpwMW9HX3BjMndIWVlOdnZiU0lROVNianJ5ZERXNGcyNFprNUFpdFVfckxEZlVIVTItdDlpVHJfTW1FbTFFdEdtX3BpaVNMLUkyQ1poQQ?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-16T18:21:01+00:00",
+   "fetched": "2026-10-17T04:56:49.092259+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "7435c7217ef9e0f0",
@@ -900,6 +958,26 @@
    "score": 5.0
   },
   {
+   "id": "30935c574ac218d0",
+   "title": "\"My 14th attempt\": Indian man finally gets US student visa after 13 rejections - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUHNEdXV0RFdmcGtLYVEzbTZ3U3FlR2s2YllSWG5OMzU5cy1rekZSX21ldUZtQ2J3azUxVkRBSnkwOGw2Nk1uQ0Z4YWtfajZUWjF6djRhdER3NF96Q3B0SG5sdERITlBES2tTdzg1N3BWT0lwRGdTd2JKd1VUY3BEcWNKM19NZzVzNGdwSWVQeW4?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "US",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-16T14:57:08+00:00",
+   "fetched": "2026-10-17T04:56:49.092259+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "62d408ac74ee2f9d",
    "title": "Comprehensive guide to corporate immigration pathways: Provincial Nominee Programs - Law360 Canada",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZUFMZjNnUGFEeGNxMU5STFRfUjJvSFhQbmxtRUhjUk5qOUNZZTVCLW5teDBaVUJZVF9fQnFNS0twZ0pyT2cwMnNpWk82SzdodWtaN2pGT2NKckJwR3hrQmtqb3hraFp6ZFBoRzFrOURvUzdiV25BbkFWSW5Oc0UyWk5RVFl5WEhrd0hScXNhVTh0UnVWTnV5M0FTQ2Vld1hFTWJkOFBQU1VZUjlJUWMwMGRSdHlvMzFKeXJJZEtVZkhzMEFjaE1Yd3ctLWrSAVhBVV95cUxNa0R1OFFPWG55UkZINXhoTFdWRzRFUGFqYU1mX0NIQ3NvZVdLRnRCVkpsVXZsalpDWmxVM3N1WGFnRzItRWpyUTJCeWRGTmVrUG1fM2ZfaGI3?oc=5",
@@ -1040,6 +1118,26 @@
    "score": 2.5
   },
   {
+   "id": "bc1cd9369344a7b4",
+   "title": "Australia lists 4 student visa applicants affected by new family rules - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnhtd3FPNW5iTVRuWXpZU0hKLUR6TTE2Snl5a2Q0RVVaYzA5X3ZWVXRFRGtycWsxYnhBY3FhTUF1dHg4UEwwbm5Id1RjWTl1S2pYT05HTWxjUHlILXR0cFVoLVJVMGRmVlFDYTQ0OFh6bXFZRU1zbS1nNU9TSERhZjJWdmRuWUt5YlY5UU93d25wRkxBMkFfeGpJREIyeXZnRUUwbHAzYlo?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-16T12:59:07+00:00",
+   "fetched": "2026-10-17T04:56:49.092259+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "10b4a30d36332997",
    "title": "Low-wage LMIA freeze now covers 30 Canadian cities - ircc.com",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HMkExNmpjSDdYZVdVWUV2eHR6UXk3d3ZUMGUxQUpUQmNGYlNFazJMQlJ6S0JVRXlfNDVHVGlvTkpzOGNkUXVudWJYbUZvenZvanROdlNwODZxc2VUOUZjaUZB?oc=5",
@@ -1058,6 +1156,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "d65c7baffc78d226",
+   "title": "Immigration Minister Announced New Express Entry Changes On October 16 - INC News",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWVVYwZkxXWGQ5cXp6SFlhS2d0OG9aTHI2YzY2bmVBYXhyWkJxYXNUdkNnVVpnenR2TWJtaHZYMHNZaXZnMHFNdGtMdDNrelVzZWFMZS1YLXUzWTNZQ3NaYWlQdXlYUkpUT01XU2FIRDlvemNQaFdORDhPRDQzZw?oc=5",
+   "summary": "",
+   "publisher": "INC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T12:08:17+00:00",
+   "fetched": "2026-10-17T04:56:49.092259+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "0f4523bf46eeaafc",
@@ -4463,6 +4581,26 @@
    "fetched": "2026-10-16T13:36:17.346949+00:00",
    "visas": [
     "h1b"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "c125725dbf969636",
+   "title": "Do You Need A Tourist Visa For Iceland - Guide to Iceland",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkNaQ3V5Mmp2bEV3aWw0VUhzMzlkVTVnVnNXM0NuMzU3SEhaUHpPRjJna1lFd2ZlM29IRDlFX0ItNGk1c1B6SGhfbmZ6WmNDamlOU3Z1Ukt0ajlpd2JBbTNWRGRHUTVNTWxkemt6WjdxaHlwOFNVVk5jOTlGQWh6dUZCdDUtaVpwRXVzV3RtMlRQUQ?oc=5",
+   "summary": "",
+   "publisher": "Guide to Iceland",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-14T07:00:00+00:00",
+   "fetched": "2026-10-17T04:56:49.092259+00:00",
+   "visas": [
+    "visitor"
    ],
    "lang": "en",
    "policy": false,
@@ -29415,6 +29553,26 @@
    "score": 0.0
   },
   {
+   "id": "47e9695a73915ef0",
+   "title": "USCIS Expands Public Charge Review for Green Card Applicants - Saluja Law Offices PLLC.",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFdBSjl2dTBNMHBWQU5WOGdTb1R3T3NPX25MYWJBZG1WQmxPZmRRbmNOdklmM0duUkJHYmU0c242cUNZWEhxTzJIb3p1d3ZVLUN1TGRzTm90cENPRXBtRDgyOVRTWlkzVlRhZFB1NmpDZHpwQ3dUQUJBTjhDeGxfa1hBUW00b2ZKbFNHWGM2cw?oc=5",
+   "summary": "",
+   "publisher": "Saluja Law Offices PLLC.",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-28T19:17:03+00:00",
+   "fetched": "2026-10-17T04:56:49.092259+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "58f7fe41eca799fc",
    "title": "International students’ ‘golden ticket’ residency loophole revealed - adelaidenow.com.au",
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQaTloYnc0bVFZVkFfNVkwb0R4d3lVTWItdmRHaTZrMUU3dE5mOHlvUW52R3RrUGhpaXdaanNaR3JEWDVPaU43WnQyYVR6bHlhaGNZTXFiNWFzZXVwN1BGSnZLd0JubkNKUk5WYjhsUEVXZ01WTTdZVndmZkd6b21oSVFIY0VyZ0hyUlRiYi1PRGJfSGNueFNZMVlwMHlYMjZSNEN3Y3o2RVRoZ3VfRFdOcWI0S2llUzY4dm9iMU9jR1ZnMFBselcxVTRybWNnejdoS3dwTENsVEgzYmZ1M19raXNJYUhNbjhVZElPeWVXMXd5am52aUhVZlc3LThmam5kY25sVjdha3Myc3FQZldLZVFIR21IaHd3aUc4VjdWX1BrUQ?oc=5",
@@ -34492,6 +34650,26 @@
    "published": "2026-09-23T07:00:00+00:00",
    "fetched": "2026-10-16T19:25:31.436799+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "57a09edf41f72c9e",
+   "title": "UK Publishes Minimum And Maximum Age For Child Student Visa Applicants - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkxsdThIWm9jME5wTXFxMFN5RjFoZm83UmlYc2REVEpUWTV1NU1LaHRNeXpMczRJOFhUZXRMZUM0SHRqYkdUTlZTcF9tU0V5N29tQmVuaE5vOTNsUEtxMGFtNlB3UzA1bjhFNlFrb0NZSkdXUVgzczhCUFdrYVlkVk8yZGtzNndqS0RLZXUxcWw0R1ZFdUVWN2JVNjVheFVf?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-17T04:56:49.092259+00:00",
+   "visas": [
+    "student"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
