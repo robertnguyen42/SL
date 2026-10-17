@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:21:24.018073+00:00",
+ "updated": "2026-10-17T10:54:02.190005+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 33
+   "count": 38
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "nz-en",
@@ -244,7 +244,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "us-eb-work",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 18
+   "count": 16
   },
   {
    "id": "eu-student",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -424,7 +424,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 15
+   "count": 40
   },
   {
    "id": "nz-post-study",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "e19cf5dbbd2e2fd9",
+   "title": "Greek Minister Vows to Revoke Golden Visas Over Hidden Rebates and Short-Term Sublets - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSExlOHkxdTBiZDZuT2pJeGktTzJFWmlteGpjWGdPY1JSSU9ZWXVlOEwzV3JEQlZZRDVaM3BfZlNnNVRzNVkyWnd6akRzNVRVV2xlLXQ5ejFTVFg0SGlfelMzQjJNcVV1VEI5OGhaNWhzVEhET1hOQ2RZdFZCQWlIQ21ycDZHT2lHZkZVV0JpYnZWdmNNSDBzSWI0WFZKSFlaQnFkdmJCcVZsUXBZdEhBems3MlVHcF9oNnc?oc=5",
+   "summary": "",
+   "publisher": "IMI Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-17T08:46:31+00:00",
+   "fetched": "2026-10-17T10:54:02.190005+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "65cd2c5879b268f3",
    "title": "US immigration agency on 'guarantee' that you can get a American visa, Green Card, or work permit faster: - The Times of India",
@@ -16541,6 +16561,26 @@
    "source": "us-student",
    "published": "2026-10-07T07:00:00+00:00",
    "fetched": "2026-10-17T10:21:24.018073+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "bcc84d222f7c4a47",
+   "title": "Proposed OPT Fees May Disrupt International Talent Pipeline - SHRM",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tWjZkYmdaTll5QVF3U3hCU3NheTg5MGN5WjNRWjloSzBzVTNJX08zZXdoNmVZVHZvZG5UUmp6LTZEdVkyZDZnZ21ualdWQWJieHFJc0EteExGa19ndWNROE9GM2dRZV9veUlsUTNHa1lad1ZXODE3VFpielFDelk?oc=5",
+   "summary": "",
+   "publisher": "SHRM",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-17T10:54:02.190005+00:00",
    "visas": [
     "student"
    ],
