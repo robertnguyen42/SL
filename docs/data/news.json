@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T12:24:31.237728+00:00",
+ "updated": "2026-10-17T13:03:13.773113+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -148,7 +148,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-gov",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-work",
@@ -406,7 +406,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-investor",
@@ -1051,6 +1051,26 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "365aa8753912bb24",
+   "title": "Belarus Work Permit | Belarus Visa Information | Belarus Information | Belarus Country Tank (h3qsK3hqe2) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMG9SUmlpb2pOSmhDMC1JUDdRYkFvVzk4OWdzbDJaOVM5bFpCRHZSMmdWaFVpRkNmU0hQdnNHS3Q1SVYxS0dvcVcyVHFyWFZXYmR1NW5Yc0h2M3lEQlpEekpKSERTemVNSGFzZlNrZENSZV80Q1NISmNNbWRoZmozeGNR?oc=5",
+   "summary": "",
+   "publisher": "Unisba Media",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-16T16:22:58+00:00",
+   "fetched": "2026-10-17T13:03:13.773113+00:00",
+   "visas": [
+    "work"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "de5be8eb4689f29c",
