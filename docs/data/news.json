@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T06:31:45.715829+00:00",
+ "updated": "2026-10-18T07:28:11.016856+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -214,19 +214,19 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "ca-student",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-student",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-family",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -412,13 +412,13 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
    "ok": true,
-   "count": 4
+   "count": 2
   },
   {
    "id": "nz-student",
@@ -430,13 +430,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -1549,6 +1549,26 @@
    "direction": "noi",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "4463900eeff5d436",
+   "title": "New Canada Express Entry Changes Effective November 3, 2026 - INC News",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2TTViaHRPZDA3SW5qSFRtMy1tT25IUEpGdFJsbE5jWldlYTFCdTNvQ0dKVXpLTWxqYV9BRlFudEpNRERuZDg0bUdqRW9ZcUpuaG8yclFwMHJuWldicW9GYU9WRDlxWE9BQ2ZuQTRlWDZ3OVAtb19XQ0s1N19BZw?oc=5",
+   "summary": "",
+   "publisher": "INC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-16T15:54:55+00:00",
+   "fetched": "2026-10-18T07:28:11.016856+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "6a87ce5391876d77",
@@ -11843,6 +11863,26 @@
    "score": 1.5
   },
   {
+   "id": "b67012f3545a8099",
+   "title": "International students could see a massive fee increase for OPT work visa - Marketplace.org",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzBtcFA5OHhVOTFQb2RUMF9mZnJSbUsySldhX09RcEtseDBiOVJfWXRDUkNYMTRNRnVsbU1iTG9nZTlNekFZVnM2aWpkMjRST3g5SWJoS1JGZFlzdHJ1OTNYazBUTmw2YmNnb2FDRDZUXzdjbEJHSm04SDFSakdkY0M3UkJJNGpJTDZFZHZybi1LTnVpNUI4c0poVHA1TTVKX0ZxcWFHVVN1QTZsTTN4SzA1MDZJUQ?oc=5",
+   "summary": "",
+   "publisher": "Marketplace.org",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-18T07:28:11.016856+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "f6cc906fe6524f7c",
    "title": "‘Vulnerable’: Hastie’s huge migrant claim - News24",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSTJ2VjdlaVI1WGlERGhZU1pRUVdLMTRKdms2WGxzandNZG9pVFIzQ0lndXg2cDN5WlJLWlFhbGNUanhyRGo2eDFJc1gweUhpMFVIMFd6SEFoQkZmaFJOME5PMHJHVWd0OGc3WW1Qb2tLaExsY0E3em5fWUJNUzQzTHEtQnVEc0k3bG5nMV90ZHFia1pINUhNUExfWDltRXRRRmgzZ2xOaFprUXo3bHVJbTMwVm1xUjlfaTRyNjdZR0FOWWRNaHIyeXkxVi1QRm83N2sxcFVuM0ZXaWw2N1dwSGhUYVpuc1VQaTQ5d1JGX01DU05tNy1IZ9IB-AFBVV95cUxNSTJ2VjdlaVI1WGlERGhZU1pRUVdLMTRKdms2WGxzandNZG9pVFIzQ0lndXg2cDN5WlJLWlFhbGNUanhyRGo2eDFJc1gweUhpMFVIMFd6SEFoQkZmaFJOME5PMHJHVWd0OGc3WW1Qb2tLaExsY0E3em5fWUJNUzQzTHEtQnVEc0k3bG5nMV90ZHFia1pINUhNUExfWDltRXRRRmgzZ2xOaFprUXo3bHVJbTMwVm1xUjlfaTRyNjdZR0FOWWRNaHIyeXkxVi1QRm83N2sxcFVuM0ZXaWw2N1dwSGhUYVpuc1VQaTQ5d1JGX01DU05tNy1IZw?oc=5",
@@ -15251,6 +15291,26 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "d3195b8ee1a7057c",
+   "title": "International student cuts risk ‘very significant hole’, universities warn - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMmw3QnJVZG1LTGtsdzg3X1JYNmpEMTFoSHdzbUZZN00zWXpGTEM3bk5iYURXNkxweFhNY0luZTJhZE05V1FDaTFsdUQ1eDBKcWxQM3p4YkRHeE94S0Q2NHhHeWhRNWtOQXNnMVhsZVlydk96WFYyQUVyWkE5TFcxd1RmMWl6ckhsSzk1czhCS3prM1NheXJMYTNrODdQaS1xVm5PbTVkUjY2SmNNTjFiZ0lUU2VxTVdFak1PSExKS1VBQQ?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-18T07:28:11.016856+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
    "prio": false,
    "score": 2.5
   },
