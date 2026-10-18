@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:01:38.718293+00:00",
+ "updated": "2026-10-18T04:57:55.110703+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "nz-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-skilled",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "ba45693a6fd68f36",
+   "title": "IRCC's October refresh leaves PR and citizenship waits flat - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORERSSTBSUTctN0plSk8td3lkU09oQkVRc19HQ1pjSkZaNHItdWlPQTdyLUFDdDk0Mk9iZlFlT0k2Q0l4ZUotbjEzdjBkY0UyNTcxWVJxeTJwdnZENTZ6Zkk2cDM2dldpWF9YWVNLam9UYnhybVBNU01oWExTMlBBX2hMc3l6UQ?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-18T02:58:52+00:00",
+   "fetched": "2026-10-18T04:57:55.110703+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "650e5848a0a48565",
    "title": "Before weighing into the immigration debate, spend a night in hospital - SMH.com.au",
@@ -11749,6 +11769,26 @@
    "score": 2.5
   },
   {
+   "id": "8f65968f9687b4b4",
+   "title": "Top 10 Golden Visa Countries with The Best Healthcare Systems in 2026 - Get Golden Visa",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYm9rZ3BVOU10NHROeE00UTF1TzVjVmVzbmZDTVJKVnNlN0k3MzNqTnNQZ1JqX1lUYW4yMnp5YUN0V2pxdjA3cmdWSnhpcHVXZ0xfUmI4d0pYOWNsZTVFWGU4WmpBSEZOV3UzazJNMEdXaE5sYUNsRUY0ZG1Pc01CUXhaUDZ2dkk?oc=5",
+   "summary": "",
+   "publisher": "Get Golden Visa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-18T04:57:55.110703+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "f6cc906fe6524f7c",
    "title": "‘Vulnerable’: Hastie’s huge migrant claim - News24",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSTJ2VjdlaVI1WGlERGhZU1pRUVdLMTRKdms2WGxzandNZG9pVFIzQ0lndXg2cDN5WlJLWlFhbGNUanhyRGo2eDFJc1gweUhpMFVIMFd6SEFoQkZmaFJOME5PMHJHVWd0OGc3WW1Qb2tLaExsY0E3em5fWUJNUzQzTHEtQnVEc0k3bG5nMV90ZHFia1pINUhNUExfWDltRXRRRmgzZ2xOaFprUXo3bHVJbTMwVm1xUjlfaTRyNjdZR0FOWWRNaHIyeXkxVi1QRm83N2sxcFVuM0ZXaWw2N1dwSGhUYVpuc1VQaTQ5d1JGX01DU05tNy1IZ9IB-AFBVV95cUxNSTJ2VjdlaVI1WGlERGhZU1pRUVdLMTRKdms2WGxzandNZG9pVFIzQ0lndXg2cDN5WlJLWlFhbGNUanhyRGo2eDFJc1gweUhpMFVIMFd6SEFoQkZmaFJOME5PMHJHVWd0OGc3WW1Qb2tLaExsY0E3em5fWUJNUzQzTHEtQnVEc0k3bG5nMV90ZHFia1pINUhNUExfWDltRXRRRmgzZ2xOaFprUXo3bHVJbTMwVm1xUjlfaTRyNjdZR0FOWWRNaHIyeXkxVi1QRm83N2sxcFVuM0ZXaWw2N1dwSGhUYVpuc1VQaTQ5d1JGX01DU05tNy1IZw?oc=5",
@@ -22485,6 +22525,26 @@
    "visas": [
     "student",
     "work"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "1c6cfe79de6f097f",
+   "title": "Guyanese can now access Saudi Arabia without US, UK or Schengen Visa - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaElRZHJqM1MtbjlkWFNrYUwyaTM2ZTA0VXJ0MUpudm1vTno3RjhEaXVuMmV0YjEzUTViMWJ5ZEg3Z1RUWGhBNkxsTXJIUXhKSllaQ21fQXpiWEFQSkNBZ3RFb1N2SG8yaHV1UUFuUnloQnBXZTdXanhXcUd0dGNsaTM3VHNsbUQ4U1F0V29aRlhlU2pCWlNZU0VyUjBCZkR5MlVKQlV1UlhidzJNLUxjUlUtWjU?oc=5",
+   "summary": "",
+   "publisher": "EIN Presswire",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-04T00:35:00+00:00",
+   "fetched": "2026-10-18T04:57:55.110703+00:00",
+   "visas": [
+    "schengen"
    ],
    "lang": "en",
    "policy": false,
