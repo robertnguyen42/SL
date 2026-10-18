@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:51:40.844107+00:00",
+ "updated": "2026-10-18T18:22:35.380108+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "eu-student",
@@ -840,6 +840,27 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "312fb0845af131e7",
+   "title": "Tech Company Barred From Green Card Filings Amid H-1B Visa Crackdown - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDFKV2xlNmowUDFTTUx0Y1RvMUo4U3EyUXdWM2dXTlMxYW5ieEczTlZwdWVCc291MjBVbzhMbU4zeWJzTThGU3NIeVFxa3dxQWl4WnZ5dWZHcmlqZXNYSjE4TXdwaVRsMG93dlVSRWgta2FpTGw4emxCUlRySUZJMFhiTEhnZ3ZkSVVoTktXR0JoQi1LTkFxM3Yzd1BKeXlURGNnNg?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-17T17:01:00+00:00",
+   "fetched": "2026-10-18T18:22:35.380108+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
    "prio": true,
    "score": 4.0
   },
