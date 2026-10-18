@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:21:58.809929+00:00",
+ "updated": "2026-10-18T17:51:40.844107+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "us-student",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 22
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -537,6 +537,26 @@
    "fetched": "2026-10-18T08:28:26.314252+00:00",
    "visas": [
     "golden-visa"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "2eca28df954335ad",
+   "title": "Canada revives Express Entry job offer points; Indian workers in high-wage jobs could gain an edge - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOWF1VnVsQncydFB3aTJ6RDZIeXcwVHJrZXNTUHNZOXFzeHMzMXZSdlYtYnBzMDFnTU4wR0xtV1ZmLVhyNEY3OGs2bEZDcVhYVGRJQ2FONW9ydEFkVEF6dC1XX3NQQ2FLQ3Y3ZDdCSERNeTk1ZG10cnZKZ1J3blpSNTgyTjQzczJYS1dGR01ZOGN4VGtfTkVZT1MzWDRpRzlRNVA3bTZ2QWY2ZzRYQzVxb2pfNlRXZmtsejVTQy1YMVE3TkpuVFAzVDc2OFlCVnI3THdJVTNLSUZKc0Iwam1sbHQ5Q21Ga0ZQa0NYV21GaFZQLUtsdVVVWXZra3BCWUnSAYQCQVVfeXFMT3lwTERvaUlJQm5XNzU1bVdxNmlNX3lONDBZS2dvSUdvdHVPNy05MDM0RENaZmVHQTNpdkJiS1JWV2FvTzlFVUdQekhoWHR3MWtNSUc4ZWw5QkY4dk9OZVowcDZrZ2NtelV5bGd5UkdNSVEzZ2FpVy1KSXFJR09UQ1h6bm00LTFLYk9hOHYwTlk3R3lEUGctb3JIeE9SS2VWTHlIdW93a3hYUG1DdVdYeUZXYzlsOVZFOFBrT1F3T2ZjLWNuRm5uRTczZHhzbllubEFYX0NfTE9HNjB4YW9rZ0pMSElETGZMWW0tOUFzczhqaGZRN1ZIRUxibVo1cE9GaG9va08?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-18T07:40:09+00:00",
+   "fetched": "2026-10-18T17:51:40.844107+00:00",
+   "visas": [
+    "express-entry"
    ],
    "lang": "en",
    "policy": false,
@@ -3510,6 +3530,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "cc14b02daa218f19",
+   "title": "Trump Administration Suspends Eight Tech Giants from PERM Program - Federation for American Immigration Reform",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb082WE4tOHU2ZF9SVnpfSjNON290WmpjWUtSTG9sckZUcDBlUDVhQjZkMDJ5dk4yRGUxTGtZTHdobVA5QjlaY0FPM1VHZjFsSXJSeXJvRDJ0S080V1dPTHktTng4TGc0VVlBd3FaanBoS0hvdHY5VkJWdzBpXzIxY3hZZDhpYmxKNWFjb0tWem0yWkk1bmJxbE1xV01IcXNQaTFOT2Y3TVE?oc=5",
+   "summary": "",
+   "publisher": "Federation for American Immigration Reform",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-15T14:21:52+00:00",
+   "fetched": "2026-10-18T17:51:40.844107+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "40b59cb7d8e61fd2",
@@ -10657,6 +10697,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "04785f876fb8bc21",
+   "title": "‘It’ll kill us slowly’: What migration cuts mean in a town like Dubbo - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlQ3ZFhTT1V1b0x0d3VqdjFWUWswTS1zdWUxejBDYU5xWm1SWmFvclVucUdiSzZTSmpSNHhuTkU2OEhzN0l1Vy1wYkFCc2t6VWlEU3ZNa0lQWGQ0OFRNRVNuQmdRRjZ0c2RLZVFuWGYxTGJPMURERHcxeFJ2MW5SaU5zQm1VdUFYX0tjNkNXMzdrN1VUTVYycVZhblVfdUFJMEFvU05qaUpLd04zMnBkQ1NLQlM1ZGNsT1R3?oc=5",
+   "summary": "",
+   "publisher": "AFR",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-09T18:00:00+00:00",
+   "fetched": "2026-10-18T17:51:40.844107+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "f5da2c2fa53aef57",
