@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:57:55.110703+00:00",
+ "updated": "2026-10-18T05:27:11.606671+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -190,13 +190,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-business",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -30499,6 +30499,24 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "1922a69eaba5a73a",
+   "title": "F3.25 Approval in principle and transfer of funds - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IM0NhSUU1dnZLMF9FS3pzbmN1dlpmTHp2WmU2MjNrbVN6c05sU0dIUDQ2bTdhYlpGdThaRHJmdWoydFJJNzNlZ2FBdXVwYXZRak1pU0o3Vm9JYVlOcExadw?oc=5",
+   "summary": "F3.25 Approval in principle and transfer of funds Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-09-29T02:57:30+00:00",
+   "fetched": "2026-10-18T05:27:11.606671+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
   },
   {
    "id": "5c48ca6f8ad68f74",
