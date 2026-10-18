@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T01:28:27.932607+00:00",
+ "updated": "2026-10-18T02:02:07.721270+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "nz-en",
@@ -196,7 +196,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-business",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -529,6 +529,24 @@
    "source": "ca-pr-citizenship",
    "published": "2026-10-17T18:00:00+00:00",
    "fetched": "2026-10-17T18:21:31.135629+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "857fef9e5fb79e2e",
+   "title": "How One Nation’s negative migration plans would drive up debt by $275b - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0tBVHZtbUo3QjlVb1V2WmM0QTZvTUt5T2IxTWszYWtseERnQkpYbkU1UldsUzFSazcwZzd4TkFfcC00RjFRanFiYVFBUF9pQ2hkaV9vUkdUZk1JRDBHOFBJUmNsejlVbHBsQzlYMEZ4Wmhwc0dFUmh3a3pOZV9mOW9COGluRG9ZT0NveWVIWkZKdHpJbXZRTWw5NVg0VVVxNi1hMTVZcTI2bG5Mek44eVQ5RVhZNXRJOHMtX1JaSEUwTEtZa1JZZVlR?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-17T18:00:00+00:00",
+   "fetched": "2026-10-18T02:02:07.721270+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
@@ -1390,6 +1408,26 @@
    "published": "2026-10-16T16:08:34+00:00",
    "fetched": "2026-10-16T20:58:51.022017+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "f7e6e6f872f87701",
+   "title": "Barksdale AFB hosts Naturalization Ceremony [Image 1 of 4] - DVIDS",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUkJlc0NremtBUlRhbS1fRFYwU0NjYmlzakhFRE9uQ3NDaGlzZmtNWnFDQmJRQmJjdW5fajAzcUNqZU54d2xHMW00Vi1CcWI3dGVkdlYtSDhUQUZGdGlpNWxlX0FxUzF0WFp3UjJZQ2Q4bEVfRHlycks1aHJBNEZpRlh3VlM4SnZOY0JB?oc=5",
+   "summary": "",
+   "publisher": "DVIDS",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-16T16:05:00+00:00",
+   "fetched": "2026-10-18T02:02:07.721270+00:00",
+   "visas": [
+    "citizenship"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -2313,6 +2351,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "20ef7d390b9359c8",
+   "title": "EU Plans Stricter Schengen Visa Rules for Russian Citizens - Lawxy AI",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWMzTUU4UWxZenBlSzB1R2hfQTY1SlppUEhKQ3oweERDRHhPTzRYZFhabDRUWDMyQVV1eVVZMENHRU44Qy1hX3c1Y1F1R0JIU3V5TEZRRjA2bWVIalN5ZU9nbC1hVDdaUzZkOUkzNGg1WGtkdlhLQ1pQemEtNUU2eXkyNnVUcFROOVBSSjBrbWpocXV6Z0lFX1BNbmtEbEU1dFBpRXJ1OVNWTlFhdWRvZ1lTYkM4a0VxaGc?oc=5",
+   "summary": "",
+   "publisher": "Lawxy AI",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-16T05:07:01+00:00",
+   "fetched": "2026-10-18T02:02:07.721270+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "8e1f8071014f579a",
@@ -32593,6 +32651,27 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "00bf0e4ba08f31c5",
+   "title": "BC PNP Entrepreneur Draw Issues 10+ Invitations at 119 Points - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2N0NDZwQVRQQnVwVlVXNXBxNXVheDIxZGpMTDhQdU02ZFhlcDBjVV9MQnQ2VkhBY1o2QXNCY0xpT2t4SkxoTkI1WEwyWXp1SkxKZWRYemwxcVlXVEQzT0JTNTVGUkZnaXowUlhfS0ZlNzlHSGtRaVNHTFNIdUtYWURHNWRKNDZVczRGSDBn?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-26T07:00:00+00:00",
+   "fetched": "2026-10-18T02:02:07.721270+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "fa7848450636d0fe",
