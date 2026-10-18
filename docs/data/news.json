@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T21:53:09.184602+00:00",
+ "updated": "2026-10-18T22:19:28.815463+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "nz-en",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-partner",
@@ -2625,6 +2625,28 @@
    "direction": null,
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "fc82195a18d40728",
+   "title": "US PERM Freeze: Indian H-1B workers could lose crucial time to secure Green Cards as sponsorships stall - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUWNBWFRiNHlYTjVDQjRHRTdvVjZ0a1ZqeUo4OWNMU3NVbjduSkZqNHRDMHJWbnVtM2stSWQwVE01a3pvRmNYZXlQTGdVX3lFS09fdXZNSVRTRjlndGtkYzFUUE53WDdscjV2OUJwSV9sM0NpczEzdW9lajBnNmhGYWxxbHN0R3ViVkJmaUtmMUdlcm1kaGsxSUJKYWI4V1RGU0FRU1BrUk5uZjVDOFliTC1GS1FtM28wUkd6OUh1VzI2OE9NcXZVQ2NybzlGckdxTURyQm5JYlhTazJvU3VXMWlCSmdzUmFieFBVLVRrNjV2aUlCMHh6cDVjTF_SAYICQVVfeXFMTnAtYWtQanJQckdTNFZLeDBMSXNmWnJuUFVWeVpDX1hiNFU1OXRYelhHQ0RXUXQ4S3E2aDRralhmWUlYTkEzRzVXTTNsQ3RicEFrTHQyWXdMNGNReHVWLVBzVDlxVjdNNXBTbVdLS29iOXcxUXdlZEwtUC1Id2RnVFNXUnhZRWpta0l2VjNHZmhNaXlxSlJqbWlyaEVGV1pOVENrQ3FJY0Q1UUdXQkVnX05VOHFBbnhIYXRaSTNhYWQxVHc3dEVWX2piXzB6Q25TZmptTUtYbGxPMUt2UF9tRUg2MHhFTEF6VDZYMWpicjh5aTR2andRNFZxOXJ0RWwybjNB?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-16T07:25:02+00:00",
+   "fetched": "2026-10-18T22:19:28.815463+00:00",
+   "visas": [
+    "eb-work",
+    "h1b",
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "7a63ba6e4e4e6343",
