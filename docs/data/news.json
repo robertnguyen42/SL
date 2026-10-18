@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T08:28:26.314252+00:00",
+ "updated": "2026-10-18T08:58:32.459915+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "us-green-card",
@@ -298,7 +298,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "ca-express-entry",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-student",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "id": "nz-business",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,46 @@
   }
  ],
  "items": [
+  {
+   "id": "5914130a479d677d",
+   "title": "United Kingdom considers a new investor visa for wealthy foreigners ahead of the October budget - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOX3NzUzh5b2J5bnFLdEZpajFiUG55MEhWemZKdHkyNy1TSFZpVERjOHNvRF9KYm5WLU15UWh1U2U3YzQ0Rlh3TldnTVFZRUhhRGg1ZlNra01DS0I1a0N0aHFKcEdKZG11MG5Bd2NIM0hydXBuNDdSbUcyak14TEd3SU93dG1Wamx0UnBYV1BhT0wxb3IzejVoTXVfWFpVVlpMREpVS0tNMVFKWTN2UU9xVkUxdkhUbEx3SW9TajNEMVJKcGZELXpQbHFOOVMyN3lKbkxzWnVrTkpQQ2RGWGJwTDdUS0hUeV9xWUtENDdrd0pIMTRuM2laWVgycDDSAYICQVVfeXFMTVdmbUpfVU10QVVQSW5HMDIyb3B1UVEwb2cwbThadXVrTnBYLXBScy14TjdzdzljaGxMVEFZQVpGSDB5Q25ySmtWMzlhcVJjdDRzNHFmMnM5MTVYZG9MMi1RZ1NrOU5xUWs4SVdUUm05Ql9KcS1PTjRvNjFUQ2pMY0p2WUFQcVZpR0twZmRwMTBWcGwwZERTcHpzVDJYWUhQS1docjFEWkRQZDJOSWh1SG10Mlg5bkFxRVVRSTRFS0pkSHhmMnByY1k4X21malg0TUV4UHo3elB4aXZ4WktZNXR5SDIxdU1DRXM5eFBLREZ6MVh4U1NMQUtrc0IxOEpic0hB?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-investor",
+   "published": "2026-10-18T08:41:44+00:00",
+   "fetched": "2026-10-18T08:58:32.459915+00:00",
+   "visas": [
+    "investor"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "3b89f40605188e7d",
+   "title": "Afghan Asylum Applications in Italy Rise 77% in First Half of 2026 - thekabultribune.com",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xa1N1cHotLTQ1UHJxS3hJaV9SaTJ3b2xHYzVtdzloQ3FEOF9JR05kdFhPUEV3bVBXakktVDl2VzQwV0paSFlsUnpOYndnRWc?oc=5",
+   "summary": "",
+   "publisher": "thekabultribune.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-18T08:25:40+00:00",
+   "fetched": "2026-10-18T08:58:32.459915+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "98c41eefb6071746",
    "title": "UAE's 10-year 'golden visa' isn't just for the rich, but includes nurses, teachers, or e-sports pros - Fortune",
@@ -562,6 +602,24 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "6e6ad481857c5672",
+   "title": "Đoàn ngoại giao EU và Thị trưởng Pháp bị người định cư Israel tấn công ở Bờ Tây - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbW4zdExOakVfeUwxUU5UbTc0YnhmN2xIaXJNU1VBNThFcHhIb2ZVYnhYYWRXY0hWWWo0SVJKcDI5bk94OUVudjExS0dZb2hJV2lia1lWUTVXb19fTkRrZG9iamxUeHVHQmdOa1pnbmxLVzJYeUMxQ3YxMVdfeTNBU0ZwZXZsU2pDNnNiaGQzZkI1cGtlSVZCV3dKVk91QlZZTE5ZcA?oc=5",
+   "summary": "",
+   "publisher": "Vietnam.vn",
+   "country": "EU",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-18T01:43:04+00:00",
+   "fetched": "2026-10-18T08:58:32.459915+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "2c65e453dc7197ef",
@@ -5775,6 +5833,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "b71def6858411dd7",
+   "title": "Nấu ăn cho tổ chức khủng bố có khiến người nhập cư mất quyền tị nạn ở Mỹ? - Báo Tuổi Trẻ",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVF5ZHlMMjllMzVuVjBNa3JTQmFiOEIzN0JRbTJDc3ViWHpVZFNoeC1sSTlGV0RranhGcFhQUDNoUy1GTDhScVNhRkNEMXFMOHB2YmFPc2lMTXprbGRrbU9XLVgtTGpobjRjX0NDRjZQTlhXTk04UzF4RFFVc1g0cmZGaXg3eUhUYlBlazlUdV9LcDlQT0JNb2ozSmtyeDVhYkFKY09IYjRRM2hfVjN3LVE3Snk?oc=5",
+   "summary": "",
+   "publisher": "Báo Tuổi Trẻ",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-14T04:27:00+00:00",
+   "fetched": "2026-10-18T08:58:32.459915+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "3f6b16ad1ed45cef",
