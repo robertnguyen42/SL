@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T03:27:51.274542+00:00",
+ "updated": "2026-10-18T04:01:38.718293+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -124,7 +124,7 @@
    "id": "us-gov",
    "name": "Federal Register – USCIS",
    "ok": true,
-   "count": 8
+   "count": 6
   },
   {
    "id": "us-vi",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -190,13 +190,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -463,6 +463,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "e6dcc57811152513",
+   "title": "PEI Issues 163 Invitations in October 16 PNP Draw - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTFUWk5PM3BmRkxlVzlYbnI3N1BJWFJ5ZXB6LUpqQ2ZIeTFxNjhoVzNXcG51dFRmZGhWUkVGUjQ1QzdqWG53Q0Z2R2FldGZaMzVtR0t4dlA2VW5iSEJ6ZExTX1g1OXRuV3RuM29pOVVid21KTFVfNGgxZkVMWjRFdWVpYmV1RUR2WVRMNlRLSzJDdWJKSTVuaElMVF9SUm5zSmszdg?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-18T02:28:33+00:00",
+   "fetched": "2026-10-18T04:01:38.718293+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "2c65e453dc7197ef",
@@ -17222,6 +17243,26 @@
    "lang": "en",
    "policy": true,
    "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "66b8b71221115d71",
+   "title": "OPT Fees Proposed by DHS - International Legal and Business Services Group",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DWkgybU1ZRC1IZzhBaVhOODZzMmhnQWYzTE9rUGtsRWl0M0R3eEc1X0Q1c1EtdndMU01tMktLSE82NnBCeDJZYklIRGZST2o3VmhiWkZ6R3lIa0lKWWpsMmFMZHhsYV91SjZuNDJ4Y0JyTzQ?oc=5",
+   "summary": "",
+   "publisher": "International Legal and Business Services Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-18T04:01:38.718293+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": false,
    "score": 2.5
   },
