@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:22:17.291955+00:00",
+ "updated": "2026-10-18T16:55:38.383180+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "eu-student",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "nz-business",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -27403,6 +27403,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "58abba63058c8336",
+   "title": "US revokes over 250,000 visas in a sweeping vetting crackdown. Here is what it means for Filipinos - astig.ph",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRbWFYWGxjVUJWUVNyMlVKdUp3UnoxM2VDNUtkYVNrN0RrdlFDdkNkN3FNQk1PQTg0eXBaanhhRmhRejZWVndJR09MXzFqTFI4WDFHNkRyM2F3TVU5cDVtZEhZMUJuT3QteEl6WXBHS3BXdEhwYzdTRzNoZjA2UGc?oc=5",
+   "summary": "",
+   "publisher": "astig.ph",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-18T16:55:38.383180+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "721c0bb179aeb0d0",
