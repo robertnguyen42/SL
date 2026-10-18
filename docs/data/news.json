@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T10:25:21.112961+00:00",
+ "updated": "2026-10-18T10:54:55.564093+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-partner",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "ca-student",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-student",
@@ -406,13 +406,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "nz-business",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -23598,6 +23598,24 @@
    "score": 0.0
   },
   {
+   "id": "536ef97f69fb523e",
+   "title": "SBS launches multilingual podcast to help migrants understand Australian democracy - The Indian Sun",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORmFCdmQzNkRCekc0VnQxSVdjTTBuZnJ1Yk1BOUV1dXlzMExxZlRucG9LSTVzOGd4aDFzMnVmYW04R2J2MzhZaU5ZQ3FnZzg2VzhBYVJBNElEeW5PM3A5ekFEdmJ5Q2ZQRHlCR1ZIVjZmd0NRSHVsQmVqaTZRcGNqZm5uaUpUelVSSW42b2FtLWg3NmZzOVZFSTJUZmxjWGsxczJtVnpfRW1yTlV6OTVFV2Y1Zy1SZk11MTNydDNCbkdGbDhl?oc=5",
+   "summary": "",
+   "publisher": "The Indian Sun",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-03T07:00:00+00:00",
+   "fetched": "2026-10-18T10:54:55.564093+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "63cbddb906d082a5",
    "title": "Indian student from Punjab, whose enrolment was terminated over poor attendance, to be deported as tribunal rejects Khalistan-based refugee appeal - The Australia Today",
    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZXNMZ1NSand0aWRFRGVmbXJ3TnVLTnc2VnhyMUJ4RmdacFRaN1AwT19OQVVLbFgzcnN6azFVU0FsY1h4aV9CUVZiSHUycG1lX0d5V0tYbVllUlhNVkg3M3drSTY0NGNFSloxcmQ5NFNWRVg0dVIzejVGOFh6TVRjby1leTdDX3pEUDE0a01EQ1dybFFMTmdRT2t5QXJISTIxd1IwM2R3dmhlbXhNTTV3Y1RNa2ZWYWVoVmdWTm5ENlVjd3JWNVMzQ21xZXdjSWFScGJxYUk1MmhUaS1PcTlJX3hZTVowYjJJRHh5VGZMS0h6VXk2cmxvNDNqVTdsV29GTEtLWE5jLUpYMUdodzdv?oc=5",
@@ -36552,6 +36570,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "8acca3137b9115a5",
+   "title": "Maryland joins lawsuit against Trump’s changes to green card policy - CNS Maryland",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW1DWXRTQ0RBcFlTam9OZTBFU284azBBY3VNWG84UzRaM3d4YVQ1UlFZMEhCV0htZk9jZ1BvMGNIdXU2NE4yWGlyQzNlSzFnUmpURlFfZ3lNOTFEX2p5SmZLcFMwVlloczRKXzlBUXcydm50MnB5UFR4WWVaRmtvckFQWEFDeHlwVjBjVlI5aWh5d2lMYkRkTjNlRUdXc3lSYXMxbw?oc=5",
+   "summary": "",
+   "publisher": "CNS Maryland",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-22T19:54:51+00:00",
+   "fetched": "2026-10-18T10:54:55.564093+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "f5b61c4dbe167a19",
