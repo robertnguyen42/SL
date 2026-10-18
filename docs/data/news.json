@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:21:14.988632+00:00",
+ "updated": "2026-10-18T15:54:14.025532+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -406,13 +406,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
    "id": "nz-business",
@@ -465,6 +465,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "5250c9c0bd0b52e7",
+   "title": "Người định cư Israel tấn công các nhà ngoại giao châu Âu ở Bờ Tây - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1BCWnBlWGgwaGJ4NmM1RDlCbHlaNWNhLTdVdlphT3l5V0Z3b1Rpb00weTZEZkRXdmVRZF9ENGVYMXFiZTFGd2pOOVRLRVhQalVoUlkyamRXXzJPOVZVZzc5SFpaQjM1ZHBaeGJ4ZXZiYjRmWDNUOWhmcEJHTFFPY2RDalJ5ZkNQX09jVjUtMXRkdw?oc=5",
+   "summary": "",
+   "publisher": "Vietnam.vn",
+   "country": "EU",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-18T09:18:04+00:00",
+   "fetched": "2026-10-18T15:54:14.025532+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "5914130a479d677d",
