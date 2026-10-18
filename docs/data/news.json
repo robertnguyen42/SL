@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T09:27:37.456697+00:00",
+ "updated": "2026-10-18T09:57:22.735472+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "nz-en",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "eu-work",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 18
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -9023,6 +9023,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "08409bd045f063c0",
+   "title": "NetFunds targets $200m after first $10m of golden visa inflows - BusinessDesk | NZ",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHFqY3V1MTZ1SnBERFVfNE1rcHl0YWRRbnU4NzE3TTJXbnFxV2hQUTR4ZE9CLVlnc3dpSzlFajJFcTZlbng0QjRncHlnRU0wUDUxYXZna1U4VjAzT0tDVDhTOG1SSWxWMXBWMFRfSEk0S1hMaDR4WWJHWHhlRGFTaGRpdHpXLU9sT3plYi15Wm56MTh0Vm1KMUtvNkRLclpwQnIxYTZ3?oc=5",
+   "summary": "",
+   "publisher": "BusinessDesk | NZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-investor",
+   "published": "2026-10-11T16:00:00+00:00",
+   "fetched": "2026-10-18T09:57:22.735472+00:00",
+   "visas": [
+    "investor"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "ca5a5083d4cd2cef",
