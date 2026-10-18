@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:22:35.380108+00:00",
+ "updated": "2026-10-18T18:57:14.617332+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-student",
@@ -406,13 +406,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -8344,6 +8344,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "dbacf40e780e5590",
+   "title": "DHS Proposes Massive OPT Fees for F-1 Student Programs - Clark Hill",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVWRRa1VvUHF6YjNfVUtCRFkzYzQwYmJMaXRGMDhLUXNFdkRUSkx2OUtBUzJTckpXN2F2NWJMRWtlY3o2bm85UmctUkNfNFZXdHJ5RGI2TmFiQ2tPWDZfSDU3N2ZYUHd6a19QQllPT3loemRBNTV1Rk93Zk1IWnpoaXlSU1REd0VxNW5xa1VVRUxiVk5NbExfajc0bHF4QV9rOXFMa0N3VVhzUW5RbERNekZ5N1BGX2N1dVJfNnFYQQ?oc=5",
+   "summary": "",
+   "publisher": "Clark Hill",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-12T15:51:10+00:00",
+   "fetched": "2026-10-18T18:57:14.617332+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "a86b471df87b2594",
