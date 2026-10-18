@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T02:02:07.721270+00:00",
+ "updated": "2026-10-18T02:57:42.472849+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-work",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nz-business",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "650e5848a0a48565",
+   "title": "Before weighing into the immigration debate, spend a night in hospital - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeTlaZk1oVVR2RzRqTjdpNWtobF9KUWwtaG1BNmhqY285N2JjNFgwNXR6QUl6X2lmUWxGcnB5eG9wajYteUdJa2NEM1VyWnpVMm56UUx4dmpsamMzYmY0Y1Z6QlB6NjlETndpWVdRckZDTG03ckNoMTV4VEtWQzM1YkVIYVl6MWE4N1UybG5FMWpaUDNaWXBwdWZIMDhnWnVXRE9UU3JRN0MyZk5WZS1RSW8xTGdrQTNZZXlwYUN5bw?oc=5",
+   "summary": "",
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-18T02:30:00+00:00",
+   "fetched": "2026-10-18T02:57:42.472849+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "2c65e453dc7197ef",
    "title": "Winston Peters in Christchurch today as NZ First campaigns on immigration, housing and $15 million Cathedral pledge - Chris Lynch Media",
