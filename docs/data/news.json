@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T12:24:54.393969+00:00",
+ "updated": "2026-10-18T13:03:58.061157+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "ca-student",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 23
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -424,7 +424,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 12
   },
   {
    "id": "nz-post-study",
@@ -436,16 +436,36 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 32
   }
  ],
  "items": [
+  {
+   "id": "1ae8549412de9ae2",
+   "title": "Travelers Warned of ETIAS Europe Visa Waiver Scam Websites - TravelPulse",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1dHQ1ZiR1BJcmdnTUI2VnVXQW40bmUwTThIcHA2aFB6OFY1Vm1la2ctS1VUVDUtOHU4LTl3SVh3Z2ZuWXl6NGZnckRLMlViTWdxM1hJVms0MW4yQWZXNTgwNkREcFNGaXBxUW9keE1qUVdUU2pwRHVBWWlteGxXenJzTmxTTW9mREZlaFVIa2JDdHhjYXpFb0gyemNqT3FoU29xME5OQQ?oc=5",
+   "summary": "",
+   "publisher": "TravelPulse",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-18T12:05:00+00:00",
+   "fetched": "2026-10-18T13:03:58.061157+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "5914130a479d677d",
    "title": "United Kingdom considers a new investor visa for wealthy foreigners ahead of the October budget - The Economic Times",
@@ -614,6 +634,24 @@
    "source": "ca-vi",
    "published": "2026-10-18T01:43:04+00:00",
    "fetched": "2026-10-18T08:58:32.459915+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
+  {
+   "id": "c98952913de21dd8",
+   "title": "Mỹ kêu gọi Israel kiềm chế bạo lực của người định cư ở Bờ Tây - Investing.com Việt Nam",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGJ0UFBtNzVIbmlvUkVFRldWcE9vY2ZFeEFLemN4TkVSTDNwUGpsT2FmanNRU2NWbkJOaGFXZUk5MGxXdDZieTBZVzhuaGpuZUdJM3B4cVQ5ZW9DdV8yTktMNlFVTlFNSUg4SEVOcnNMaXlzVHN4bzNPbGxPSzc3c0Y5TlBieUg0em5xQ0d2LXZ4ZFppTTlxSURpUzNDVUhPNFFNX2FaSW95ZVF3M245VHdB?oc=5",
+   "summary": "",
+   "publisher": "Investing.com Việt Nam",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-18T00:01:00+00:00",
+   "fetched": "2026-10-18T13:03:58.061157+00:00",
    "visas": [],
    "lang": "vi",
    "policy": false,
@@ -1154,6 +1192,26 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "9faca6203533b6e1",
+   "title": "Carney urges Albertans to reject nine referendum questions on citizenship, immigration and the Constitution - Rebel News",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpbmhHVU5SWmNfYnUwdzR1WDZQQzZ1VXBWSVBVMk9IcmdQaW9Ca3BjVFVudjBtSXdaTWkxLTJ1cFUwY3JEMlFkZHJtcnkxYkRNcFFqUzM4UkhJbHV0dGJ2RFdiSnpoYzdqWHc?oc=5",
+   "summary": "",
+   "publisher": "Rebel News",
+   "country": "CA",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-17T00:47:46+00:00",
+   "fetched": "2026-10-18T13:03:58.061157+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "67606ef159fb9a2f",
@@ -32224,6 +32282,24 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "7df7edbbf1f51618",
+   "title": "Canada lists 4 conditions for spouses of foreign students to extend work visas - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXplNnZQOUNVLW82UTdoZVBSTGRvNkd0czd2ZVpJSk43SjBsT3o4bU9kVXoydlJqWUFETVBwZ1luWWhCNGhvTzBHc01rOUo5U1lqaFZGMkZJNkpBbzJ1Z0ZtZVBMLUd5a3V0aHhKUG5Sd1hwZFpDYmRfZHlOallyd0d1MXVPNGR6bUNTdllHWFFhY1dpWDdYNWhIV3dXYldvbDQtR0E3WGNrUQ?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-18T13:03:58.061157+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "0d330a644266d953",
