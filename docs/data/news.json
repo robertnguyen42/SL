@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T00:30:27.842866+00:00",
+ "updated": "2026-10-18T01:28:27.932607+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-student",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-work",
@@ -457,6 +457,24 @@
    "source": "nz-en",
    "published": "2026-10-17T23:19:29+00:00",
    "fetched": "2026-10-17T23:48:45.613929+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "6058535c47685c97",
+   "title": "Candidate’s “60,000 Indians a year” claim under fire as migration figures tell a different story - The Australia Today",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX3N4YWpDV1ZWSVJOeDF1OGk5RDlZQU9OOG5uUWpSbkxVQllXU2Z4SG51ZDVSMDE3bzJpMVpvWDM1MURLbHlZbm1HS1A3MXZSRVdnTXItaXpDYVJpWUtmMm5DUE9rZEIwVDl3NFc3WGFJUDFGMnB1V0JUSDA0dlZrVjR1bTlkVWRBRXZ3UnFHdHM5eDc0bkxPRzN3NThJM2hMWHFQSl9vdk9MYmU4RGRqUF92d2plOTBnVlpKMWtfRXJaR2tmbktMenBB?oc=5",
+   "summary": "",
+   "publisher": "The Australia Today",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-17T22:37:56+00:00",
+   "fetched": "2026-10-18T01:28:27.932607+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
@@ -3557,6 +3575,24 @@
    "direction": "siet",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "3dbebc002847b3fe",
+   "title": "USCIS ends automatic extension of work authorization based on timely-filed EAD renewals - EY",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZkdYdkh4QmxYMEhoVWZyVlhEZEZrZHpGTV96VDNWLUcwUXFlcm9BWHN1cUtYMVpiLUFseWdWcGhLc014emNhYUpJMDEwSHFEczJIMWllT0pTOFIwSkRvU1h1c2F6T2xnSDh0dXBfdFg0RDRUY1VsYVAxS0toRklsWllxNmdaTldZRG1GdmdhZ1l6d3lwemxxM1A1MlJnLVdLVTdiVjZBQUpLNkgzUG1nRVJlYVFMQlpHSHhkTWRQc1k2bjNzNXlPTHAzRQ?oc=5",
+   "summary": "",
+   "publisher": "EY",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-18T01:28:27.932607+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "a06a1234c5989466",
@@ -15006,6 +15042,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d230d72004f73281",
+   "title": "DHS Proposes Significant New OPT Fees for F-1 Students - Ogletree",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbllMZXdVMGxjMXVKRWE3X2E1ZlJaTlNxWnRjbFBucmlaM1ROZUhnZlNNbE5DaUJMTVppMEJpQ2tKVVJnSWpxajA3Z1pPSUpyenpnVklYczlkV2RqeG5USXlscFZpcElOSDFhaUt4MzNzS21UakZZTEhnVmFLQ3EyQWQzc0ozVUNkODNxQ0VaRzlBMjBKMUxnd1dLWm9LeDJ4dEtOMk1WQzdhQQ?oc=5",
+   "summary": "",
+   "publisher": "Ogletree",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-18T01:28:27.932607+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "20e511feef397be4",
@@ -30155,6 +30211,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "4b29509f6a02dd7d",
+   "title": "Immigrant Investor Visa Fees Get Overhaul in Final DHS Rule (2) - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGRHVGVia1RLMW91QUxla2swVXlSWlhlQlY1TnlhdEQwWUl5NG1PNGR0MGJENEV1aDZUQVB3SkNueVMyZzRmT2NBMVRZTy1Xb3ZfRk8zeTVHMUdvMmF1QmlQUGRuUnlpNWVEMzZ5dUhqdHRtU2tMWXdYbkthLWl3XzZVMm5xcE11LWMtXzQzdkNGcWl4M3FfbUhscDd5V3ZCVWhqTXh6MF92N2RsaGc?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "au-investor",
+   "published": "2026-09-29T07:00:00+00:00",
+   "fetched": "2026-10-18T01:28:27.932607+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "54196663e8d0fcef",
