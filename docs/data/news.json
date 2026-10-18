@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T19:50:53.570169+00:00",
+ "updated": "2026-10-18T20:18:58.799265+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "eu-work",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -4060,6 +4060,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "225895629f4b454d",
+   "title": "The Law and Politics of Migration in Australia Conference - Monash University",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUNGZ0NvWFNhNkJVektBS1NEbU0ybGVTOHpmVlRWWW1UNFY3VVo3aVk3WTNoR0p4Q09na1NZQnRhU1FtRmVPczFHMVJSak9XRFl5ekVrQmF6cUcxVUk3NXc0ZGdsSmFZcV9QcDIxVHNsVEdSamdxY0dVbHhhZkZpenZJaElPZ2k2SDNfYU1VSm5JZzdyQlZqSXppYnZGUUs5U2xqRGJDOVRnYS1NRG1SMF85d3Nxejh6cjJLenFNblhsYW1jbEE?oc=5",
+   "summary": "",
+   "publisher": "Monash University",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-18T20:18:58.799265+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "a06a1234c5989466",
@@ -36801,6 +36819,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "16d8c5eeb7e6480c",
+   "title": "New update of European Court of Human Rights case law on migration and asylum - www.coe.int",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObkpvV0xpTlJXQktLaVZuTFpTUmxReEFlNG81alZNcE1sek55R2lYLXhKTi04enFXSEJMRVM5WTRhY01NT18wa1hKN25LdjJCUDQ4ejNIWDNLNkw1dzM5REUtSUNTUFNySXdkbVNzSnF1TFRRaXRBMEk0QTJOMkFQRFZoRlR4VEdibGY5TEpmaktfNGNRYkIyZGlMd2FSLTFWTDdITDJuU09XdTE5VEFSYVpSaUxwM05OMV9pVDVMV2g5TzhycE5zUA?oc=5",
+   "summary": "",
+   "publisher": "www.coe.int",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-18T20:18:58.799265+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "ee85257063a900ba",
