@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T05:27:11.606671+00:00",
+ "updated": "2026-10-18T05:57:11.093553+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -262,7 +262,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "us-student",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "27d201acb7670327",
+   "title": "Canada điều chỉnh nhập cư để nâng chất lượng tăng trưởng - Bnews.vn",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNREM2WTdrbGNTYUpUVG9LSVZTRjV4bW8tbXlOYmhtelBZdlFEazlBQ250bkd1Smp3Y21PbFRWUU5iM09jbG4zMTVVMmtQYzFjcUg0TVN2Sk1adkZ6YUZrQzVrTmJjNFZCRzRvdFlEN0hTdWxQOEtiUjhkNlpYblNyeXVvak5YUjdoaHZvMWJB?oc=5",
+   "summary": "",
+   "publisher": "Bnews.vn",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-18T05:41:00+00:00",
+   "fetched": "2026-10-18T05:57:11.093553+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
   {
    "id": "ba45693a6fd68f36",
    "title": "IRCC's October refresh leaves PR and citizenship waits flat - https://ircc.com/",
@@ -5200,6 +5218,24 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "c97c385daeed5703",
+   "title": "Argentina is launching South America's first-ever citizenship-by-investment program — but it'll cost you at least $350,000 - AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0VscXlBWmNDV1RmRUM5WVh2WC1UVWJDRDd2dWdfelJrT2x0bGdTQ0M0UDhDOHJzcjRpbUd2eklKc3FHMEVBaXhvWVkyWThaWkhmTmNtVWZyVHJmQmcwRmhIRjY4UEtfZWVTejZDa2NRTUtLSVpXNnZkLXc2SnlLWGo0dmFnc0xDU2RGbQ?oc=5",
+   "summary": "",
+   "publisher": "AOL.com",
+   "country": "US",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-14T09:00:00+00:00",
+   "fetched": "2026-10-18T05:57:11.093553+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "e0ff52118bd499c2",
