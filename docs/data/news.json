@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T23:18:06.669048+00:00",
+ "updated": "2026-10-18T23:49:16.938050+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -112,7 +112,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "au-en",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -220,13 +220,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -364,13 +364,13 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -18011,6 +18011,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "8604170ffff6ca5b",
+   "title": "Greece’s Main Opposition Party Proposes Ending the Real Estate Golden Visa - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnJ1RFNFeG1HMllKSmRHYlZCTjJnVVhxQ3dFUjdpVldXSThRZUY5MUxFR1RPeUtMbVhjYVR6dUZDS0o4WEo2S1l3bmRjOHZlalZSVkl0QXI0Q0l1ZWRRZi1FLVRsalpsZWdvb2R5T2ROXzdiTk9hVjNIaGpvOTNQdTF1WW1fcDRtckZLVFR6NVdKYnhHQV92cm9TdU9wZXhiY1dEcDZjeWxpUQ?oc=5",
+   "summary": "",
+   "publisher": "IMI Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-18T23:49:16.938050+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "8850e4cd78a0d076",
