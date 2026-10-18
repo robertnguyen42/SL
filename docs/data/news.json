@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T22:52:23.282434+00:00",
+ "updated": "2026-10-18T23:18:06.669048+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "nz-en",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -370,7 +370,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-digital-nomad",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "nz-business",
@@ -2197,6 +2197,26 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "f69322abe8f14370",
+   "title": "Australia Releases List of Student Visa Applicants Affected By New Family Rules - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVRQSlB1R2FfaUs1NU5WQm1uWUJHdUxyc3p0andLd1ZRcVcwMk1UTWFvSEk2dzJQcEwzOWJTbDI5eHI2bFFjemZFdmFLUnpUU0JiRVZjeGFkcV90LTRUVEJ2aldSVWgtU2N4TEJqTERpb3BJSlR1VE5JMzBxVy0yR3pMbU0zNVIyT1JfRGd2QnlhampCREVrcDd1c1pBUU0tNzhV?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-16T12:06:23+00:00",
+   "fetched": "2026-10-18T23:18:06.669048+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "0f4523bf46eeaafc",
@@ -27644,6 +27664,26 @@
    "score": 2.5
   },
   {
+   "id": "69fc4fe8a4ee2163",
+   "title": "USCIS Finalizes EB-5 Fee Rule: Investor Petitions Up 114%, Regional Center Fees Up 148% - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUGdUYW1jQmdjMXNCOEJxQkxRNEhBNTZIWHA1bE13VFM4U0ludUVVQ2I3QmllVzNwU2tTUko2SWdEMVE1TExSczVIbHAzNVZhR2VObVVUeVBhQzZETHdxTXFpOGY1S2xKU0JUNEkwbnFlRUhnTnFEZFdmbUI0WXFGanpMQUxRVmZTeVNyZXFJb2UzUHBLbDhLTlVzMzhBOWlYWkREYUR6a2dtZEZfNHgzNWNaZ2lNTFp0Sk1jQ0xlbHc?oc=5",
+   "summary": "",
+   "publisher": "IMI Daily",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-18T23:18:06.669048+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "721c0bb179aeb0d0",
    "title": "US Revokes More Than 250,000 Visas Under Trump; EB-2 for Indians Resumes With 2013 Cutoff - Dainik Jagran MP CG",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzI3LV9xd1IzeFBhaVBiTjdmUEg0bXdCWENDSTBsckhDQzJFOFRiWHRVTXpUQllacF9xdjlmeXJjWXU2NlV1MWs5QUpxUHR2THVTQlNoUUxLc2tqYk5wYnpsd2k1WjllVHdhTDY2ZFYzbmgyYVV6TU1aQklnR1NWVXBfMzgxd2tQYzF3aWJ6SGtlNmFweURzMTQ4SkFHVm1RN01rc2syemVuNFJueXFhX2VCTkVmR1p5TVcw?oc=5",
@@ -36923,6 +36963,26 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "ed6ecbff5b99de7c",
+   "title": "UK Sets 4 Conditions Foreigners Must Meet To Study In Country On Child Student Visa - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0o3OFFQM2VIYnVwVG0zZFNqNXZJTkE5Q1VhWC1OYzRJVUEtM1hYZWxmby1QNkhfQUlMWlJfQ2d4WUZRd0d4WXo3NGZoaXlaUFl6Y19qTzFyUkRzcTRxZENRdFJQOUMtMEE1S0hqbzk2NGJhRk81ZUpKQTNXeXVUNVFyVS0tLUhvRzMwSlhSd3dmUkZRRGVoZnNhS2trU0thWWJzakg5d2RJQQ?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-18T23:18:06.669048+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "ee85257063a900ba",
