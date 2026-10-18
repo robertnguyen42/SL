@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T19:22:52.052383+00:00",
+ "updated": "2026-10-18T19:50:53.570169+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -446,6 +446,26 @@
   }
  ],
  "items": [
+  {
+   "id": "8d8d02c7ba88e821",
+   "title": "New Zealand Mentions 4 Groups of People Eligible for Citizenship in Special Cases - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSGVWdGtrYlhUOVFkLXdLUWxWS3poa0ZONUtWME15ampWSVhHYkJNbGRFRWdaQ3RqNVJVSTBVdGU1RWV6bi1tR3RXQ24yVmxyYWVIRmRZUGV5Q21qTE1MaGlFMkR3MXFiT3BHMl84UjcyQnVqV0lRWjNnS3hNa1JtZ0VDb093clhCd0MzTGhETlg1Qno4OGZJYWFaMWZJVFY1ZzFfYlFpRQ?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-18T14:35:33+00:00",
+   "fetched": "2026-10-18T19:50:53.570169+00:00",
+   "visas": [
+    "residence"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "1ae8549412de9ae2",
    "title": "Travelers Warned of ETIAS Europe Visa Waiver Scam Websites - TravelPulse",
