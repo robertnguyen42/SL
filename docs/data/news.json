@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T23:48:45.613929+00:00",
+ "updated": "2026-10-18T00:30:27.842866+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-work",
@@ -376,7 +376,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -32247,6 +32247,26 @@
    "score": 2.5
   },
   {
+   "id": "3236f9515a248c4f",
+   "title": "Opinion: The New Student Visa Policy Doesn’t Add Up - The Good Men Project",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRlMxakxWRG9pRGNHVzROVllaVW1GWjZoT1EzSGszUXhjMjctbkROMmF3ejQySU5LMllHRkNLU09QV0h1aXhZa3hUa3VHT3ZvUHZyTW5raFd6OUdLTERDdkh3a041TWJlYzZZRTJ4OFNaWGl6UXBzVTRiN1NzT3doWVZkZUlMalZQLXB5NVNQeDVITmNva01xTXhVMDE?oc=5",
+   "summary": "",
+   "publisher": "The Good Men Project",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-09-27T02:32:22+00:00",
+   "fetched": "2026-10-18T00:30:27.842866+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "62d8e72ba6faf7c6",
    "title": "What do the latest US visa wait times reveal: Hyderabad, Mumbai near a year for B1/B2 appointments; Delhi - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPaTJlUmlqVjlrNHA1eGprQTVONmhSOHBBaTZCNkpRTFppczNCMDVTNmhqZ1ZQZ2wtQXpNcWJZSlBfNGpCQmlvbFpxMTlVd0hVc0J5WWxSQ09vcE5uTTdoNGcyRzNUcjRoSEFRUERzQVd5ZjJGVXBySjZrbUR0aUlWeHoxQS14dHNqNmtPbjFab1lmWXJaMi02WDdRczVZZEtUUlZoSkVSTEIwejgzbkZCR3ZTSU92ZF9jMlltMTU4VUdtU3lVTWdHTE5YT3ROZHE0U1dTRDZDc1gxZ3o5TDdwWmNDZUNmYU5NYThGVnpSMFlySGpOOUFMd0h2czRIWXpyVHRRUmltemxtbG9VR0JCSVpHUmbSAZoCQVVfeXFMUHhSRUpNQTA0Ml9UZ3NQWG5hS19DLVBJeF9kV3VhLVlnZE5uUXlkdkROd0VoX01KazRzdVJpazZyMFB5cy1EeF9IbDJNM0djZlFmQ2hNWjBpSDhXdWRHSmRHYVdDdVFvTGRBcVRETHpYNVpPV1E4VnhWTWt5SlpQXzZOejBWaXBWYU1aaTctbDhaT1pUVWJQZlVqc1prY252XzNyWjI3WThacThFLXBMQklPV04tNU1jcTR1OEZkZzYxOWYwdkthdmVxTjBCSGt4YVlVTnVWZ3VRLTN5TV81azlwellaclBjNlRZVHVXc2VaZnRiWFVFZzEzcUkyS0tNQVB0b2lwWG84RWhCTFpEdndNOERVekkycmJB?oc=5",
@@ -33190,6 +33210,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "621776e52b797136",
+   "title": "Latvia’s New €150,000 Golden Visa Fund Route Faces Proposal for Complete Removal - Outbound Investment Group",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGtnTThXRDVwTlJ5aU1DUTZoMzdtV3p5bW5RZG9ON2JJTUxlWF9rQk9IMUpWc1FoakVmYzdsc2JoLXBKYzRPc3ZDRjJFSXhJakk3TTVPN2tjZFlPVlFkaDBhRTgyVmV2ZmFZdEtTRUlnblRhRjFHcEVlNThYOFdyVEN1Z0hKOGpUS3RQWjZweVcwR1dENjJRWGJ4ZEtmRzBCZVBxeDJzbmlxV0pPNzNF?oc=5",
+   "summary": "",
+   "publisher": "Outbound Investment Group",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-09-25T09:52:19+00:00",
+   "fetched": "2026-10-18T00:30:27.842866+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "7e018a7c27246e49",
