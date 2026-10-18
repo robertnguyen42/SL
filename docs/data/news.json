@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T10:54:55.564093+00:00",
+ "updated": "2026-10-18T11:20:55.382882+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-student",
@@ -406,7 +406,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-investor",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -9351,6 +9351,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "2fb8a6b6e06f405f",
+   "title": "Indian IT Firms' Green Card Applications On Decline Amid Program Suspension - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1JmTDBtSnpvcmo3WlcyYU1RQ0JDR0JxaXdIV1Bjakp5UW1VcVU3T0d1Q2ZjazRuLS1Fb0M3ZEpKNndfOEI0WFFPR1VnWjVRenFxMlJqdXFDZzUySnJfWkJORWM3cDZEWmc2N0ZBWlZBb291cW96UUttejV3YmZDVEZUTFJiZ2dTTUVaX2tzSTdFUG9mcVhNRmpyREEtLVVSU2Q2RkhzVW9adXJzb1RpUEhTblE4d9IBvgFBVV95cUxNVlVlR0pIQjFyc3YyWE1kY3ZrRTJkajlINXV4bFJqOV9IZU9PS3pJZHpCSmRyUC1CeEcxMDJnRUo2QWoxa29CYVhWYnExci1naHFMYlhqZVVUbGJpOHY4WjNsdy1JcExjcUZZVmhjMUxzNUFfTnkxU1ROT0tDbFUwYUNIOFhkaDZsNjctR1ZaWk9KOF96MW95bjVOSTNuMkVPNFFXTi1zalhKYTJfYXZoUjRMTHJnN01PVC02Ml9R?oc=5",
+   "summary": "",
+   "publisher": "NDTV",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-11T02:49:03+00:00",
+   "fetched": "2026-10-18T11:20:55.382882+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "8fc77068bd6d95d1",
