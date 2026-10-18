@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T11:53:00.867937+00:00",
+ "updated": "2026-10-18T12:24:54.393969+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -316,7 +316,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -364,7 +364,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-student",
@@ -436,7 +436,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -10027,6 +10027,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "1988c9a1e7e891c7",
+   "title": "US suspends permanent residency program for Microsoft, Adobe, and 6 tech firms - Innovation Village",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3hTUGhrTVpHOVQ3YnQ2ME5hUmFOUGx2ZEV6TTJub3NxWDJpMUtjaEJrSWdMQ1lKYk5DMXpvczhReHUyYndudm5MU0JYNXRuVGw3ejhBLWxDLVlyX3J2M2tmdUlzZ2czMkRRbnpCaTRkZzRjT0trOUlrcE1YOE03UnIyaUtMbmdESXJaNUlJNTJKZDhDZ3pSWVJXemhSUFRrWnZHMjRvLTNGbTZC?oc=5",
+   "summary": "",
+   "publisher": "Innovation Village",
+   "country": "US",
+   "type": "news",
+   "source": "ca-startup",
+   "published": "2026-10-10T07:00:00+00:00",
+   "fetched": "2026-10-18T12:24:54.393969+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "a18ae40e02c987e8",
