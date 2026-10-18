@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T20:18:58.799265+00:00",
+ "updated": "2026-10-18T20:54:26.390605+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -172,7 +172,7 @@
    "id": "nz-gov",
    "name": "Immigration New Zealand",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "nz-en",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "eu-work",
@@ -446,6 +446,47 @@
   }
  ],
  "items": [
+  {
+   "id": "115a0d9e41ffc06a",
+   "title": "Citizenship fees up 36% as DIA faces $68.3m deficit - B2B News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEFBNFppVFRfTkpHcEpiUllSanpvWHhaZUlkQWFGMmhUTWJubEg2bmIwbnhoQVd6SnVxbVYtcl9DZzg5Z1IyOXBETkpNeHhNRHNyMm9LMEFrNW5VenVHWUNfYUZrZjlzekpFY0VTOXJNbW05VFpfQ09EbGItZUtIVkk2Y2p1TEJ3WTFpRGM1LU1MV09CYUE?oc=5",
+   "summary": "",
+   "publisher": "B2B News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-18T20:43:03+00:00",
+   "fetched": "2026-10-18T20:54:26.390605+00:00",
+   "visas": [
+    "residence"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "09bb18e8bf530957",
+   "title": "Homan says Ilhan Omar could be stripped of naturalization, deported if immigration fraud is proven - Fox News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMjJBSVdORTF2RkNyenVRT2NWM2pNWTBzSzk0SnVTMU9YOGF6RW1CbEJVd3BJSmE2XzJ2ZDk1NHhvRERpbkZkSEdOdWxZSUlFT1hTOWk2QmtiVWR0QjcxS216aHRnYUdGVlV1UGxlcDdqRW5OdUVJWmJPaEdXQTQ1Q3A2aGt0UEozdi03TzJtUGEtblBrREhXNFFLWTRFbllaVG9BWllobTN3eFN6RGdyWUFOTG80d9IBuwFBVV95cUxPcGpfdHA5R1ViRHk1MlpaYnRkSHQ4Mm13ZXZsMWZtWDBwOENhOC04eDlyQnFuM0NlcUlLS2pCeVZ0dWV4eXhLUXNQX0xiMDRFa09oNG4yR0xJd19heG1TYV9XVDFtRVM3QXkzdllvRVltcGhwWmF3a0VrLTVtX3pwLTZ5elBOdHpwcDZxVGlvTGVVWTNabEF5V04tRXpXdHBIaURINWJZLWhNR0ZWQ0hhc2VUcWU2MEoyMVlF?oc=5",
+   "summary": "",
+   "publisher": "Fox News",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-18T18:43:40+00:00",
+   "fetched": "2026-10-18T20:54:26.390605+00:00",
+   "visas": [
+    "citizenship",
+    "asylum"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "8d8d02c7ba88e821",
    "title": "New Zealand Mentions 4 Groups of People Eligible for Citizenship in Special Cases - Legit.ng",
@@ -8973,6 +9014,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "c148cd9adeaf22a0",
+   "title": "EU adopts return hubs as ministers weigh asylum suspension - ETIAS.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWZpVEJOVzMtNjk3cnhIU2tqNFlPY2xveFJzMjNjODlBMjhubTB2YnNhN2JNX0dReF84LVRjM1hUekdxbGxIcVpvTEtNWkl4emE1M0ZNeUJmMnFWNG1CcWZtN2hKRGwxdDV2Q2E3LUpiYnR0cnlnZ256czNiZ0pQNkxoaUJLdzQzWXVlQ05R?oc=5",
+   "summary": "",
+   "publisher": "ETIAS.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-12T00:03:26+00:00",
+   "fetched": "2026-10-18T20:54:26.390605+00:00",
+   "visas": [
+    "schengen",
+    "asylum-policy"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "bf29998497a1875e",
