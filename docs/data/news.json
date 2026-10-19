@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T02:26:05.802466+00:00",
+ "updated": "2026-10-19T03:01:41.926181+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -358,7 +358,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 24
+   "count": 19
   },
   {
    "id": "eu-work",
@@ -370,7 +370,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-digital-nomad",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "nz-family",
@@ -2854,6 +2854,26 @@
    "published": "2026-10-16T05:17:16+00:00",
    "fetched": "2026-10-16T11:00:24.504298+00:00",
    "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d8ed1f3c1af4432a",
+   "title": "UK student visa applications from UAE students fall 59% — The National - UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdW02UG1RalIyeGVZRkMtT0tKalZwLUtta1J6UGFvemZ0a0FfVkwxbkRWRWZ6XzVISXR5RmxERy1rX21jVjJGa2Q3Yk5UeU84RmpoNnFycmx4SHNwU3JsSEc5OHJFcW1lNHgydlZtTGx1RU5YQlJxS2hiT2N0RW85ek9MeU1sRENtS2V3TWMyQ25INXVtVGNxRA?oc=5",
+   "summary": "",
+   "publisher": "UA.NEWS",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-16T05:16:46+00:00",
+   "fetched": "2026-10-19T03:01:41.926181+00:00",
+   "visas": [
+    "student"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
