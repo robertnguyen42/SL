@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T07:51:42.676552+00:00",
+ "updated": "2026-10-19T08:02:21.229367+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "us-eb5",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 40
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "eu-work",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "nz-smc",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "nz-investor",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-family",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 8
+   "count": 12
   },
   {
    "id": "ae-sheet-chung-2",
@@ -985,29 +985,6 @@
    "prio": false,
    "score": 2.0,
    "groups": []
-  },
-  {
-   "id": "2d4ed7f7826a36a0",
-   "src_group": "dau-tu",
-   "src_country": "US",
-   "title": "How Investors May Respond To Centene (CNC) Gold Card Program Launch - Simply Wall Street",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVG5IOXdqaUlnYldCM0N5Nm5kekFoLVlyaURsTFFJOTJkQ2dVUmxXT0ZiVS12SlB4cXFWcUlndlhweHM1dktCVS1sRFYtWU9ULUs3MDltRWpXc280VlhiQ3ZzelYwclN3d3VSMkpXb09TTktNTUcybEVZU05udi1BOHg5RnIwcGI0M1JYRUtCU25oUXdGV0t3VDB2ZVlGYktfLTU2Yml0dFE5UEFYOGI1UjZyR01qUG1nTFhFQlRnTXFUTTDSAcgBQVVfeXFMUGZXYnVXc0FFYWRQVHdQWm9VNUlZRTdUSFhlZnRXSVJLamRpWFZ3dHREVmdseThEblV1bWJ3NzVZaUlFTFRoam5sUnZ0WE14S3RYRm05MWFRR2F0d1ZyMnpEdm9VcDVtaEpsNEFBbmVEZ0hQWXlhdi1xNlpWU1VZT2FhalZSamlCYTcwUHNUSnBVenVNdnNZZkhtdElRQUwzOTdFc1NtSGdKNTIwc2s3amFqMk16NXFiWUlLeTlXWXFvTDFzaUNLdUM?oc=5",
-   "summary": "",
-   "publisher": "Simply Wall Street",
-   "country": "US",
-   "type": "news",
-   "source": "us-sheet-dau-tu-2",
-   "published": "2026-10-18T23:43:03+00:00",
-   "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
-   "lang": "en",
-   "policy": true,
-   "direction": "noi",
-   "prio": true,
-   "score": 4.0
   },
   {
    "id": "3d0fa1edf7cb4417",
@@ -1779,14 +1756,12 @@
    "published": "2026-10-17T17:48:23+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "7d42178b9cd5bf7f",
@@ -6473,6 +6448,33 @@
    ]
   },
   {
+   "id": "fcd45461d6f7a8e3",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Indian-American Group Urges Trump to Protect PERM Green Card Program Amid Tech Company Suspensions - INDIA New England News",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON0xmaEphUGRVTUZxYUxxT1N2dWduS0NURU03bEN5RjhzUXZvVlU3Y0dyQ3BGUE9zV2ktY3I2aGlCWXlzQ2U1REFMbUk0M1ptZGxVS0pEN29TZENiQmxfUFNJXzlDZVRIY1dwb0p0VWU4ZkNYbG9sdjRCS0sycXNoeDNRWmkyVWNmdXpCeWRPTUtqTm5waWNpMGxhaHZOdXhMQWlrTHE1c3RkQkIwZ0dOZFhwd2Vkc05IcUFJNERTYXhnOFNBWWc?oc=5",
+   "summary": "",
+   "publisher": "INDIA New England News",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-15T14:54:02+00:00",
+   "fetched": "2026-10-19T08:02:21.229367+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "57045cc60cfb1aa0",
    "src_group": "chung",
    "src_country": "CA",
@@ -6517,29 +6519,6 @@
    "groups": [
     "chung"
    ]
-  },
-  {
-   "id": "83c72995bec78b29",
-   "src_group": "dau-tu",
-   "src_country": "US",
-   "title": "Centene to launch nationwide Gold Card program - Healthcare Finance News",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXBqUnhGbU1uSDQwTTBtSXFyQVhCcF9RQ3p4TXA1WjhiRGwtb3VfSzZmMFpyUmw5ckxUY2t0aEhhVUhPd2Z6bTRtM3FGWThNbnIxWXhJUEpRVHRrbnJOVmdWNWlERUR2MnF6cGxqS3M2UTc3T2NuTzEybGkzdnlERkRnazNXWi1Bc0RYRFBjSQ?oc=5",
-   "summary": "",
-   "publisher": "Healthcare Finance News",
-   "country": "US",
-   "type": "news",
-   "source": "us-sheet-dau-tu-2",
-   "published": "2026-10-15T14:37:03+00:00",
-   "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
-   "lang": "en",
-   "policy": true,
-   "direction": "noi",
-   "prio": true,
-   "score": 4.0
   },
   {
    "id": "38ade09a41f569b8",
@@ -6622,14 +6601,12 @@
    "published": "2026-10-15T14:20:31+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "40b59cb7d8e61fd2",
@@ -6668,14 +6645,12 @@
    "published": "2026-10-15T13:30:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "6bcc571b9a254109",
@@ -7160,29 +7135,6 @@
    "score": 0.0
   },
   {
-   "id": "19e952d17d0c5759",
-   "src_group": "dau-tu",
-   "src_country": "US",
-   "title": "Centene Gold Card Program Starting in November Could Ease Prior Authorization Waits for Patients of 160,000 Qualifying Providers - Medical Daily",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzEyMXppeU55RHRCN2g4Z0UtQjFaQjlLRHYtZS1scGNGWnRLUldvOVpoWTQxVnQydml6VzV4Yy1BNm41bGY0MnhvZENGUXctVnFOV2UzQ2daM2owblBJUUJxcnZRaE1jT2R2eE40MVJCWC1wdnVxalJ6eng4RFE4TWh1Q2lGbVdDYndySW0wTjE?oc=5",
-   "summary": "",
-   "publisher": "Medical Daily",
-   "country": "US",
-   "type": "news",
-   "source": "us-sheet-dau-tu-2",
-   "published": "2026-10-15T10:00:11+00:00",
-   "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
-   "lang": "en",
-   "policy": true,
-   "direction": "noi",
-   "prio": true,
-   "score": 4.0
-  },
-  {
    "id": "64f087e5680ce3ff",
    "title": "Drop in international students leads to job, program cuts at Providence University College - CBC",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGNDeFVJemJXdDBDQkdqUXItYWFTV2E5RnNSb0V0QnRudzQ5b0N3ODNCS2ctRzI1eG0xbTlkdmdvLUpha0wyT3NOTzF2UTZULXRmYm05UERyeTVqYmx1eWY3NXdtU0pTaUtzbTNxX0NkRGstNWhEaGRMSmRRMVlGWVJVWF9wcWttZkloYUs1VnFMUW5uUGk2Rg?oc=5",
@@ -7355,6 +7307,32 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "6974f0aaf980e4d0",
+   "src_group": "dau-tu",
+   "src_country": "US",
+   "title": "Green Card Fund Receives I-956F Approval for Home2 Suites Project - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ2VITFVHOTRTWXIyM3lFY00zLXdzZ2ZGNWYyczBhY09YTkktc3dMS0NJdmpmZloycnd4RVFhQ2Zkd0dMZ3h3X20zb1RQOFJjOHJCQ290QmZkaHh3eGpuaEctdmxpWk9QYVdTUzBxYW5KRC1VUTJhT2NuSVVjRHhoeWJESk42MmhKZ09hVmJOWklMTGZ6aEhrVXk4YUxqbVdfX1pvbnhtRndtNWRDcTB2U2NKeEFjSkVrVmxLRDlMaElidlF0cnJNUlZMclJvRUl3MWfSAdcBQVVfeXFMTU1QZVN5MFozcTVMSU5NQy13VENMLUFJdUFmWVhScjNIS2VQTlZCV0xPQ2Vuc1pHRkhJOG91S0hKb2xXczNtbE1IN3R0T0dReU9UZTB6LXhLX080NXI5SG5WU2dPeUNvWlZtU2FfdlRkUDJWT21qeXdHN0xabVU2RmNYU2NhZXozUXo3RXI1N0lyMGUxWGFvM3FrR0xWU2dBOW9vc2lnQXNtTDZhUU1OUUxyWUtWbWFvVmlwSTliRVhKaVpzSGpBc3l4RUdxS0xhVUplMkdEZjg?oc=5",
+   "summary": "",
+   "publisher": "The Manila Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-dau-tu-2",
+   "published": "2026-10-15T08:18:22+00:00",
+   "fetched": "2026-10-19T08:02:21.229367+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "a6d78700c6caf309",
@@ -7662,14 +7640,12 @@
    "published": "2026-10-15T07:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": true,
    "direction": null,
-   "prio": true,
-   "score": 4.0
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "adf0e2996b331ca0",
@@ -7685,14 +7661,12 @@
    "published": "2026-10-15T07:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5dd02c32b05e6a8e",
@@ -8552,17 +8526,13 @@
    "source": "us-sheet-dau-tu-2",
    "published": "2026-10-14T19:43:27+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [
-    "eb5"
-   ],
-   "groups": [
-    "dau-tu"
-   ],
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "86a6a99c97b36374",
@@ -8605,6 +8575,29 @@
    "groups": [
     "dau-tu"
    ]
+  },
+  {
+   "id": "25910abd142feba6",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "Maldives plans luxury residency program and artificial islands for the ultra-rich amid money laundering and environmental concerns - BLiTZ - Fears None But God",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNkdIaVpRZWpyTU4xWEpEUmw0WnJyU1FBdVhNeldrQTE1MVFibHM4WXNJa1ZfZE83c2FLVkNQbnFRQnE4WEYtT1lOOXNSdGJkUlctZk9ObEpURkRHNzE1eEphSWlESjdxaDJyYWtjM1p6RUh6Rl9ZZDdockJaN0hWeVE5QkNDX2pGTlB2dWFxdnk1WGIxOWhZR0I0RVZ3THJTdEkzZUNqRFdnMVdCUmJnbEV2WVNSRUMyaUY4TVNNVTBxekdET3lqbTBMZ2tnd2xQSExjbmg2Yk9ud0VLMTRoV0FuaTgzeXM3eU8ya1BWamZMRmhhZExDZGhR?oc=5",
+   "summary": "",
+   "publisher": "BLiTZ - Fears None But God",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-14T19:27:34+00:00",
+   "fetched": "2026-10-19T08:02:21.229367+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "f3585810d67c4336",
@@ -8848,29 +8841,6 @@
    "score": 4.0
   },
   {
-   "id": "82c6669f1e2b3c70",
-   "src_group": "dau-tu",
-   "src_country": "US",
-   "title": "Centene unveils national provider gold card program - Fierce Healthcare",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWm9OelQ0Q2JSc3JmSnVXZlF0UHlER3BHb3UxLUVwemhtUUJBS3dNaEtIYWZFNlJ4RUNnVF9qYUFTb2IzZWFTRFY1QUJZeW5aRHY0YUZSbk1LU01jMVdDYkdkZHhFY05hdkFiTmx6aDlwT24xTC12RmxzU1g5WjNPUkZMc0ZqWmNMZmNkT0ViVmZnRjE5RUE?oc=5",
-   "summary": "",
-   "publisher": "Fierce Healthcare",
-   "country": "US",
-   "type": "news",
-   "source": "us-sheet-dau-tu-2",
-   "published": "2026-10-14T17:56:52+00:00",
-   "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
-   "lang": "en",
-   "policy": true,
-   "direction": null,
-   "prio": true,
-   "score": 4.0
-  },
-  {
    "id": "929714795e68aa31",
    "title": "Spike in refused study visa applications - RNZ",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONzVVX0gxVy1BRlVZdDJEbjZjOHo0N0dDLUpZLWhocTlLbk9nWlg4c1g4X0hwUktIYUNWSTQzYlhRTG51eUJFOHRkcVpkRHFIbGs2QWhjV05sb0p3czF6LUJaaWZaY3Y2dUliTE5MV211WXpnMk52VmFIUUFPdmVIREFqNmxzMUY5aF82UnJR?oc=5",
@@ -9051,29 +9021,6 @@
    "groups": []
   },
   {
-   "id": "ffb9e3432a4c5f60",
-   "src_group": "dau-tu",
-   "src_country": "US",
-   "title": "Centene's Gold Card Push Could Ease Costs - But Will Savings Follow? - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDJKVlFvbkNPTWx6amFiMUdlMnN0bS1yUlFfbDVTamhLYUtSOVFnSVl0ZjVySFNKZ3pvUlk4aE5ad0VTRWFfVTlUZF9iSndMb214TWcwVHE3cjFQZGtHR0w5N0RZU1lTdWxGSXo5MGFLOUhVeTVuNzVFNW1FX1MzOHdoVnI3TV9ORi1MWlVTNDc3dGZE?oc=5",
-   "summary": "",
-   "publisher": "Yahoo Finance",
-   "country": "US",
-   "type": "news",
-   "source": "us-sheet-dau-tu-2",
-   "published": "2026-10-14T16:35:00+00:00",
-   "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
-   "lang": "en",
-   "policy": true,
-   "direction": "noi",
-   "prio": true,
-   "score": 4.0
-  },
-  {
    "id": "a7d50af5433f3f41",
    "title": "Ilhan Omar’s citizenship questioned by former congressional candidate AJ Kern - NewsNation",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0d3cjhDZTN6T3B1dGZDT0k1eGhOTEtLVC1vMDRqRU9kSTBTbTk3R1R0RjZKb0c3MlprNXZ3N0d4Uk9RQzJ3Vnc1a0NXNTlYWE9nM2FvQUQ2S3RNQTlfQWFkQURoTEFEb2hEblJrczhGQnFkTEZYbE9PSUhtekpEWWxkQdIBiAFBVV95cUxQckVQb3BETDZsUmFYQ1NnYkNqUDVPSE1kUDVzX3ZrRjlGMjB1S1dDRjdRSjlrYTBaUTEzcElOaFRmOHdkNEFOUkdRM2pDbDNIT1ZXX0JKeWk3dGNBdVJoT1plV1NsLWRuTUdIajJ0RGViUE5EalA2azA4YUo0STJCQWd5WXJWR0ZD?oc=5",
@@ -9151,17 +9098,13 @@
    "source": "us-sheet-dau-tu-2",
    "published": "2026-10-14T16:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [
-    "eb5"
-   ],
-   "groups": [
-    "dau-tu"
-   ],
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": true,
    "direction": null,
-   "prio": true,
-   "score": 4.0
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "e89381ba54d9bb97",
@@ -10373,6 +10316,29 @@
    "score": 0.0
   },
   {
+   "id": "7fc9136e1be6f2e6",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Chinese AI firms tap cheaper ‘dim sum’ offshore yuan debt for funding edge - The Japan Times",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJCM1Y3OUdSR0hlaEFqRGlvZWw1ZmphYXN0aWVHQUFVcDlfRnRvTHZDQV9jMWc0V3NnaUhtOEJLN2xheE9USmszSmRhSzZ0NUt3R0xjOUFoenZnQWhSMF9ScnZMeThvWk9KVFFyeGk2OUUwcnYtS2JpanZ5ekxnRVJBSFRORkRSZnN1bmdSazQ?oc=5",
+   "summary": "",
+   "publisher": "The Japan Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-14T07:02:00+00:00",
+   "fetched": "2026-10-19T08:02:21.229367+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "5106c81226202a42",
    "title": "USCIS Proposes Ending Deference to Prior Visa Approvals - SHRM",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjhkQnZmTlphTmQxTWR6Z0FGSkdWNm9OZVdobmxudXB2d0U3Z3lOOXdlYTNKV1laZkx0bG9xcENNRWxKSTd2aGtXN2U1RVFTZnFqVnNMMG1jZ0dnNlpnR2pDcUZ1MEd5M0VNQWh6SzgzVUpuT3pLeEFuSG8wQS1jMXNBWWNCTjBrMkM0LS1SWS00SlZiY1h1bUtR?oc=5",
@@ -11005,29 +10971,6 @@
    "groups": []
   },
   {
-   "id": "dc7da35746ce3ebb",
-   "src_group": "dau-tu",
-   "src_country": "US",
-   "title": "Centene (CNC) Is Up 6.6% After Gold Card, Debt Redemption And Primary Care Expansion News - Has The Bull Case Changed? - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVhfa3BGVEpRZ2h1WkVPSG1WZ0wtVnpQQnd5akl6V2djVUxlZGppOHVYWEZuYU5FcTVhajFHV0F5Z2I0QkM3dWRnTGtFRVhOTHEyYW91MFR5Q1JuWWotSXY5TlpvWkl3N1YzZm15eVl0LTgxNE5fX1cwZl9RNTJTSDVmQTFYelVY?oc=5",
-   "summary": "",
-   "publisher": "Yahoo Finance",
-   "country": "US",
-   "type": "news",
-   "source": "us-sheet-dau-tu-2",
-   "published": "2026-10-14T00:16:00+00:00",
-   "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
-   "lang": "en",
-   "policy": true,
-   "direction": "noi",
-   "prio": true,
-   "score": 4.0
-  },
-  {
    "id": "b06cbfa281402a29",
    "title": "Australia's Proposed Migration Reforms Could Create New Opportunities for Skilled Indian Professionals - EIN News",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdGtLRmh5b2xLOGwwQjlrVHFDOTRWZEtMWjJBRk5SaF9SMi1qc2Z2aHJSZ29IckMzWnhJM1hEVGc2VDdnRXEtbUZlZFdDUGVTZkplWGwtLXlFcEhweGt2cGNJbHZ1dlBvbWdST2hlWnBvUHFaeFFkUHhSOXNranE2dEQ5MVhQb1lRVXA0aEMxTTdsWFR2M3J6UVp6UmRZNG9jZE1tVTBBLXo1eENpOXpweV9xUk1vZ3BnN2s5X2p0WmVrS0pjeW5JUnVSRHdaYXRDWS1lV3dvRTBjdV9y?oc=5",
@@ -11216,14 +11159,12 @@
    "published": "2026-10-13T21:04:30+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": true,
    "direction": null,
-   "prio": true,
-   "score": 4.0
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "39fc9c8d28050137",
@@ -11646,29 +11587,6 @@
    ]
   },
   {
-   "id": "2ac440732bd0ad1c",
-   "src_group": "dau-tu",
-   "src_country": "US",
-   "title": "Centene to launch prior authorization gold card program - Modern Healthcare",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFMSjcyUE13RXFFc3VtSmVzT2ZVc29GUUR6cDhoWFdOOU5sT2RLNmZ6NmF3X1JGYkoyYXRyVUVrV0FXODhSZFZhNFJaWkdWT3kyckI4WmVtRDljYktlcTRLVk0teXc4Vm5MQ0FiVzNTV0RXaGNwa0lEMU5SSDhLaVlWS0c2Y3BxZTB1RGhhWFRvdGFFWnN4MQ?oc=5",
-   "summary": "",
-   "publisher": "Modern Healthcare",
-   "country": "US",
-   "type": "news",
-   "source": "us-sheet-dau-tu-2",
-   "published": "2026-10-13T17:06:00+00:00",
-   "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
-   "lang": "en",
-   "policy": true,
-   "direction": "noi",
-   "prio": true,
-   "score": 4.0
-  },
-  {
    "id": "b06d6b6ac32d1ee2",
    "title": "DHS Proposes Ending Deference for Prior USCIS Approvals in Nonimmigrant Worker Extension Cases - Erickson Immigration Group",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2Z3aGdXODhfVktpeFpWeFBGeWNjSzFMdE55ZE8tb2hsWFZGM0huUE9HVUxXNTNuMDFfdXUwSEhpZGRIZlZiMkFwM2JHM3lNVzZpUjhHbnRtWlVqWkZLTnBxUVNNSk5hSkVONmM1NFhlQm9SdjZuNVF4dmZGUklBeGN5VFVORVFVTEoxQnh0S1BuUjhTNGc2bmJCbTUxQ1ZhWl8tdUoxZmt0MkQtb1BmcVVaVTI?oc=5",
@@ -11785,14 +11703,12 @@
    "published": "2026-10-13T16:29:23+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "ec12436b5f399e94",
@@ -12571,29 +12487,6 @@
    ]
   },
   {
-   "id": "c271bbe9607a1658",
-   "src_group": "dau-tu",
-   "src_country": "US",
-   "title": "Centene launches Gold Card Program to ease prio... - Pluang",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjVvWTlSZzZiUDdTbmVsdTNueXpuLURiQWEwNVRWbzdJMzZPRXEtT1BRUmtVV3VMdFVHaG9fUE5CVnZZZU1Ycm9jY0FVT0dVal9aOURyWGFqRXIzUHZaNjFaWHdBSmxDejdYZ3RDZWEzTjQxMmxTRjZwWXA1R05JVjh5V3Bid2FoS2lPWkJBSVl4R216LWRwV3VVdHR2QkpWdl9UVjExSmVFQWpvVlE?oc=5",
-   "summary": "",
-   "publisher": "Pluang",
-   "country": "US",
-   "type": "news",
-   "source": "us-sheet-dau-tu-2",
-   "published": "2026-10-13T11:17:22+00:00",
-   "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
-   "lang": "en",
-   "policy": true,
-   "direction": "noi",
-   "prio": true,
-   "score": 4.0
-  },
-  {
    "id": "5f79c0b4b847f512",
    "title": "New Zealand lists visitor and transit visas that must now be applied for online - Yen News",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORTFKTGNGT290THBfd0x6dW5Xd0JqZGx4MWl5SFVrTzdSV1hRNGZwREFIXy0yY0pHSzh5YXA3LUhKRnZXakVqNF9WYVIzcGh1U2NicmRHQVpNdXJrd1I3bnd2Nk5hLTRJNFh0cUtEeWo2QUpRSG9HcWxhQWhaeXQ3cWRlTlRYS1p4S3U0RlRPV2E1bTVJQXBtcmVGVE5HekJQN091U3ZoaXpMMS1jVE5JenJPSkFnakdsTVE?oc=5",
@@ -12611,29 +12504,6 @@
    "prio": false,
    "score": 0.0,
    "groups": []
-  },
-  {
-   "id": "527914a60f28ca16",
-   "src_group": "dau-tu",
-   "src_country": "US",
-   "title": "Centene to Launch Nationwide Gold Card Program for Qualifying Providers - PR Newswire",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbmtoYi0zMXMwM3Q0YlJnbVhCWVhnN2I0alVQU1RtUkNaQXZ2WEVYNHdYbzJRdTIwMVFMRElTTUQ4SDl0cUVXZmQwOTdscXFocWg4SHhsczlSYVZndHNtdnQ1NDJrNERCVVVlcFpRXzF1SVVxYWpYZWdHRVJ5QnRTR3JYSVdjVi1HTy1sZ1paOXptX0dzVnpzMXVRX3psUXhDZG5SWW4yT2xMX1lCa2dpa1U4YTlOV2xMMDhKSllDbkc1Mm1qX0E?oc=5",
-   "summary": "",
-   "publisher": "PR Newswire",
-   "country": "US",
-   "type": "news",
-   "source": "us-sheet-dau-tu-2",
-   "published": "2026-10-13T11:00:00+00:00",
-   "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
-   "lang": "en",
-   "policy": true,
-   "direction": "noi",
-   "prio": true,
-   "score": 4.0
   },
   {
    "id": "aa7b07cdfa7e05e3",
@@ -12759,17 +12629,13 @@
    "source": "us-sheet-dau-tu-2",
    "published": "2026-10-13T10:15:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [
-    "eb5"
-   ],
-   "groups": [
-    "dau-tu"
-   ],
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "fef8ce1e284d18b8",
@@ -13951,17 +13817,13 @@
    "source": "us-sheet-dau-tu-2",
    "published": "2026-10-12T19:32:49+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [
-    "eb5"
-   ],
-   "groups": [
-    "dau-tu"
-   ],
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d607fbf694839777",
@@ -14963,6 +14825,32 @@
    "score": 0.0
   },
   {
+   "id": "d0ffafc3a2d65b45",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "Dubai family visa: Is your salary enough to bring spouse, children or parents to UAE? What Indians should know | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcUtieHNLY0JtWV9BdVJqbUV0UHhZb0lKb1I1eXlzTnhtanU4cXhmaU1pTy1RZG5yS25NTEIyY3cyN29UZU82VWltZzktYjF5ZnZDZmVkSGl1d3hBc09rUDVwcUhUbk1leWRRcXBwdlI3VmpHcFlLTnRXZERvS05fdnNETklVaEFGVTAzLWdHZFdsQzl5STdLU0ZFbk5lQmRhY2l6T3NFYURxUnBvbEU0VEdTcUtndDdfdjJlM3ZQOG1Fb1dBT1dRZEZMMWp4eGhkSWJiSUpaMzY4Rk9GNnhKMlVrWmRYc2diY3lFOWRkM2pPWU8yUHfSAfsBQVVfeXFMTVNBblpwdEN6RmRpelhEc2thWUxVUVJHT1RWLU9ERmMybE94OVU1bWhfV2E1N3U2NjNZYmJsSlZoMUdIdkljbXQ5a0JoaGY5UXc5RndBWnRjazJSQkxOVU1STWI0b3owMHlUd0JRMGRpajJMRExUcTUzRDhCLXNvOEtrWlZMN3NyQ25nbERZRF9JUFBPT0xpbFh1cDM3R3NfNHNxczFab0s0NXhLU1o2Mk05OXNqdTJGTGVIVlc5MmF3LUdORVd3cmc4bnlIMzNzU01QaDc4Vk5Ga2Fkck9rN05vRm51Z1ZfV0FUWVh5b241NU1jTDU1Ri1OeTQ?oc=5",
+   "summary": "",
+   "publisher": "Hindustan Times",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-12T08:51:39+00:00",
+   "fetched": "2026-10-19T08:02:21.229367+00:00",
+   "visas": [
+    "family-student"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "93a24c1bd2cb1076",
    "src_group": "khac",
    "src_country": "CA",
@@ -15246,6 +15134,29 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "b092b3d377c6ef6f",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Offshore wind emerges as an option to diversify energy supplies across small island states - Review Energy",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWUdPbFJfLXZnZnptOVluSVJhbEk0RFZpUTV2Ti1tVHRHekdHbHRva3VjN2hja1RSNVR2VWtFUUJyTnB6RlowVW80YXF2aF83ZkstY3R0eElzYUpCU0dZekNaczhfNDhpU2tJSjZSMmJGSnpheU53NHJvNm13UkxUeFRPWnAyTGpEVk1QUmpuTldnRE1tR0dHWll5SXBiTkRFR001aUlZcGxEeHU1MHg1SmgyejFlUlJQUVprMVd3SkphelhtNEFKUkowSFdnZUE?oc=5",
+   "summary": "",
+   "publisher": "Review Energy",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-12T03:45:09+00:00",
+   "fetched": "2026-10-19T08:02:21.229367+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "8256cbde3f79acbb",
@@ -19932,14 +19843,12 @@
    "published": "2026-10-09T07:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "69e273377388f6a3",
@@ -19955,14 +19864,12 @@
    "published": "2026-10-09T07:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "21740e1985e5c55d",
@@ -19978,14 +19885,12 @@
    "published": "2026-10-09T07:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c2bdf42a8c5e1f14",
@@ -23202,14 +23107,12 @@
    "published": "2026-10-08T15:00:09+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "47930aeb4a332db3",
@@ -24637,6 +24540,55 @@
    "score": 0.0
   },
   {
+   "id": "fe63a3fc3ce89814",
+   "src_group": "dau-tu",
+   "src_country": "US",
+   "title": "Trump administration accuses Microsoft of fraud, bars it from green card program - Scripps News",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTkzVzllWUM0YmZEOHBlY1NkQXllNjVsTEtKU29VTG1TUmJxeTBacUlWMzFrMDBXRXF6TUhiZG9HWEFucGZad0VjLUpFalpWMTZWTDNSdjJxR0FTdDVnbUk1VXpUcUd2S2NuRWdnWGlwSkRGUGFtTk9GTS1xeGRqOEY0cGpYX1dnV1E3RFB3clBEZ29QM1F2cmxNR21TYk9KT3ctM3NubjFJNFl1OEp6TW8yZE1OX2FBX2VfeldLdjA4UHFMMHNR?oc=5",
+   "summary": "",
+   "publisher": "Scripps News",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-dau-tu-2",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-19T08:02:21.229367+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "9ebc4edb40851a9b",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Canada Lists 1 Country Whose Citizens Can Enter With an ePassport Instead of Visa - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkxVLTdZcmRvbVAzcnkwZklSdmlfbkVSNmo2ZEdpYzVNVTc3emY1aDhYMEhBamhaZHBIRTYxZEdJdldEYldJUDRCSENqaF9DemNjUEJqZDk1N1B3TTk2aG1jRXY2NFcxYWhZWVZLZ1RLc0FDdFRoRlZkVzBxRjRFMTN0MTAxYm16WFA4cjFCRQ?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-19T08:02:21.229367+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "20e511feef397be4",
    "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
@@ -24864,14 +24816,12 @@
    "published": "2026-10-08T05:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "7003f536266e13fc",
@@ -29757,6 +29707,75 @@
    "score": 0.0
   },
   {
+   "id": "4ede1e18576ffd23",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "UAE Lists 7 Countries Whose Family Members Can Get Special Visa Valid for 60 Days - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUxxSG9nZ1F1SEUyS21UVjVOanQ2N2hLR0trckhRYjE3dWhUNDFIU1FXU1ZydUZUVWZvYks2dzBialBCRW44TlA5a1hRd3BkMi1rWUdsd1hfZ3FheGQ1NnJPT1hXeFZBQ2htYjc5bWQ3Zm5BUFlLcVlKaFdYbGxUdG5pUnMwRUEwXzRQU2wxY1B4alUtRjFrWm4xaFNsYkk5Ync?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-06T07:00:00+00:00",
+   "fetched": "2026-10-19T08:02:21.229367+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "133cfb1801361b08",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "UAE names African countries whose citizens can get special 60-day visa - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHRLSE5peHB1VGtFa2FZYW4xUGxoR2d4YVIyLWpTU3ZwSy1MUU9tSVo0TnRDcklLSExwdnFkd3c3cGZ0YnFmSkJCMF9naGliNmYtSEJScWdBY2FseTNCSE9QZUp3VE1KWEFZZnlXeExRLU9RMURFMFFnTUhsLUY5aEF3SVZUa29TTzl6bEM1bWpGNXpVajhoUA?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-06T07:00:00+00:00",
+   "fetched": "2026-10-19T08:02:21.229367+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b893f879c4edbf1c",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "UAE Announces 2 African Countries Whose Family Members Can Get Special Visa for 60 Days - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHE4TnBWSFJSdFlDSjBubmljdjQ3MWIzdDZ5VDZEbEVqYkJEWUVoSlYzUkQ2ZlRoSjFCcDJKQmo2VC04RGdMSjRUNmQ5Z1R1aFJXZHF5cWhtSG1XLUJGV2NjVTgyUGVzTzJLZGdiU1FLZEtTUzZteFMxTUZ3RzNrbnNQN0Q4eXRMMWhzRVVSeWlUWGlndGJhRUtqMDdmMXJUV3lHY3c2QzFMRXhMV2dyMU50VG1kZ3lXVTdxWXhGbV9SM0p0?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-06T07:00:00+00:00",
+   "fetched": "2026-10-19T08:02:21.229367+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "360c812d4bf88df3",
    "title": "‘Largest cut to immigration in Australian history’: Coalition unveils migration overhaul plan - The Australian",
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQ0xaRXVQZzNtQnRGZG9GQXRQZzk0Uk9NTHNORHZBOUotemkyS1ZPTVh2ZWRBbEQ3Ukw4b01Bbno5ZjNsT05kSVZWOFpNWjBJRHZyVUN5cUVFbEdBc2xTOWVra2w3dFdRWGtDODIxMXlHTHhYaEZucUdCRWg1ZUNUTmt6QTdkSWhCMGZCV0tPQnRWWW02NVkxSkZCcWtJQm9ucnNISVlzYUJSMURPVTR5aW9EQ0oycWczWXgtaGRoODFldTJVLVZsd1dyNUlkUjdkOE53aWkzeHcyR1hqSGlxb2lqOEg1M2dieDZ1Zmwtanlna2hmNUNscDZ5SlVPaVVMNnBjeFV6ZEllUQ?oc=5",
@@ -31134,17 +31153,13 @@
    "source": "us-sheet-dau-tu-2",
    "published": "2026-10-05T20:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [
-    "eb5"
-   ],
-   "groups": [
-    "dau-tu"
-   ],
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": true,
    "direction": null,
-   "prio": true,
-   "score": 4.0
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "1f163a8bdffaf8ff",
@@ -31450,14 +31465,12 @@
    "published": "2026-10-05T15:49:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "dau-tu"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b468e5c9033a7040",
@@ -54689,17 +54702,13 @@
    "source": "us-gov",
    "published": "2026-09-18T04:00:00+00:00",
    "fetched": "2026-10-02T08:02:50.604805+00:00",
-   "visas": [
-    "eb5"
-   ],
+   "visas": [],
    "lang": "en",
    "policy": true,
    "direction": null,
-   "prio": true,
-   "score": 5.0,
-   "groups": [
-    "dau-tu"
-   ]
+   "prio": false,
+   "score": 3.5,
+   "groups": []
   },
   {
    "id": "be209e731312f38a",
@@ -61030,17 +61039,13 @@
    "source": "us-gov",
    "published": "2026-09-14T04:00:00+00:00",
    "fetched": "2026-10-02T08:02:50.604805+00:00",
-   "visas": [
-    "eb5"
-   ],
+   "visas": [],
    "lang": "en",
    "policy": true,
    "direction": null,
-   "prio": true,
-   "score": 5.0,
-   "groups": [
-    "dau-tu"
-   ]
+   "prio": false,
+   "score": 3.5,
+   "groups": []
   },
   {
    "id": "93c792a14f4a85bf",
@@ -61419,17 +61424,13 @@
    "source": "us-gov",
    "published": "2026-09-14T04:00:00+00:00",
    "fetched": "2026-10-02T08:02:50.604805+00:00",
-   "visas": [
-    "eb5"
-   ],
+   "visas": [],
    "lang": "en",
    "policy": true,
    "direction": null,
-   "prio": true,
-   "score": 5.0,
-   "groups": [
-    "dau-tu"
-   ]
+   "prio": false,
+   "score": 3.5,
+   "groups": []
   },
   {
    "id": "5d5020c49dd5412d",
