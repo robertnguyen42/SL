@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T16:01:58.744547+00:00",
+ "updated": "2026-10-19T17:03:19.646950+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -311,7 +311,7 @@
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 32
+   "count": 30
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -677,13 +677,13 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-1",
@@ -723,6 +723,27 @@
   }
  ],
  "items": [
+  {
+   "id": "7ff4195983fef652",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada reports longer wait times for temporary residence applicants - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHI2WVhuVkZBNWVjcmdGTXpjRTlxWHZsN1VkaXJPaUYtdnB1cFZCLW5oa2lVd0NUQXRyeUFJZExPZnNLTVdrQm5FTVpYV2g4MGNLX3VJeDBkME5ZUkhqR09EbEhiSGo4VXRoT3RKakNtRC1LSW5pSmhNel9ZaXZkekZpYzZiWnJCakgzNENWUFBPUmM0cHhtSFVoTTdLVjZFVXhmbGkzYVVId29KZmQ2Z2130gG3AUFVX3lxTE5wQzJtaGpiZm9ERk4tcGtva3hRYjJWU3Vsc000eE1lR296NS12b1EySDk4MjNBVWluQXdnTF94UXZGQ1pMektCUjhFbUhsbmVhTS12RklNWjZLNDdDUlZ6NFlySkdTUkE2Z1RLbzhHU2lPTFRIcHFPeksxTkdRdlpBUG9LaVZrcHhfbFBiem13bmxmWkpjbmRjcUhVbmFGdXpEYnVwbVJXdHNVdXV2MnBoV21kc3NtOA?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-19T16:33:38+00:00",
+   "fetched": "2026-10-19T17:03:19.646950+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "f238ed17adf32cfa",
    "src_group": null,
@@ -870,6 +891,27 @@
    "score": 1.5
   },
   {
+   "id": "06be6de3961cd954",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia lists 7 occupations on priority list for temporary skilled visas - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGxpZGdENUpEVW9wNHNBWHEtTWxJTjBweW9KRlJKb1JRZE0tMHBFc2tvQ0g2WkpzVS0yNHFQVWtueGJLQWtaNE9QeGhfaFd0MF9zUkkxdGJiU1MtT2NQamJ2OGlBdHI3R2VfaHdwNXh3eG9NNEpaSVVUVTZocVpKMXNHeFRBb2lkUkVXa3VrSjZtcTlwRWhPZDdPZ1dyT21RSXZyZ3VHc04?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skills-in-demand",
+   "published": "2026-10-19T14:44:22+00:00",
+   "fetched": "2026-10-19T17:03:19.646950+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "d0b2301459453d3e",
    "src_group": "chung",
    "src_country": "EU",
@@ -931,6 +973,32 @@
    "visas": [
     "eb-work",
     "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "01fdff898fe702d9",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australia Tightens Student Visa Rules: What Does It Mean for Indian Students? - Youth Incorporated Magazine",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTRMZ3F3Z3VMZWx6TzItajhtd2RtWkpqbjNNelctYzRwU2NudGpCcDNmbmlHX2FIeHZYVkVvQktsRU5Ka0xUU2wxZ29SU2xjUmowazJLRmpPQm1NdGgtQ1VhSGNCUDluNFNXa1h5NVJOSXlUbjhHNmtYeGZfTTRQMmo5aUtEM08tNmlDZEJKbW83elkwaTRiMGlHMUxqTWxB?oc=5",
+   "summary": "",
+   "publisher": "Youth Incorporated Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-19T14:07:01+00:00",
+   "fetched": "2026-10-19T17:03:19.646950+00:00",
+   "visas": [
+    "student"
    ],
    "groups": [
     "chung",
@@ -1263,6 +1331,29 @@
    "fetched": "2026-10-19T09:11:20.959795+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "149ea4b44013a75d",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Greenpeace Protest Disrupts Work at Woodside's Scarborough Offshore Platform - Offshore Engineer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcW85M3BxeklSXzhaT3pBWEJuQWZySHdNVDRLLURDSWtBNFJVR3FabV95azlyVmk5TzNpcmxFeGlpbnpfb3F2cDk2bnJrdjJtWExBSUp6YndzNTRoMU5NZ25nYjBwbW9Pc1BUSlEyeXBWeTkzdEYwZndlQjAzdnJfOWRXeTl6VWFkd1dFTEEtMmdtSGpEdzhXS18tSGsweGN4eEw3QVNiVTVUekYwVzl0UGswNXY?oc=5",
+   "summary": "",
+   "publisher": "Offshore Engineer Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-19T08:27:05+00:00",
+   "fetched": "2026-10-19T17:03:19.646950+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -1874,6 +1965,29 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "21e98f72cef89124",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Stärke-AMG and Flinders Uni lead $2.7m project on onshore metal AM - VoxelMatters",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUhHQTRaNVJzaWpUMll0U091R3JCT3VCRlI0SmIxQS0tNUhSMlZwQXFkdm43XzdNMHc4OFlMYWlTa01pSjU1eGJuVXYyOEx2VkxqYWNJeFdUTnNkU0xMaFFMeDV6bm4xekpnazZ5elVwekQxVXZCNk1sN1ljZlljOWVBMkNOQ0VwZ1V4bXBlc2loUEt0WnA5ckVpUdIBoAFBVV95cUxONVB4TDYzdkRZSW9HMGlZdWt4N3h1b0l6amJycU9vbUlDQk16RW0tS3VtRFotZS03N0t3b3UtQzNPVDdVVHo0M1I2TF83Z0NsQzBwd1hseDZyLVRKYkNKcGJtNkJzdGF0Y3VabFM5YjVlaGgxeXZQY2dWNVFRbjJhRkJqNDhja1FrYU16M3ZIblRzWTVGcU5mV3B0S0hMMlhI?oc=5",
+   "summary": "",
+   "publisher": "VoxelMatters",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-18T13:02:43+00:00",
+   "fetched": "2026-10-19T17:03:19.646950+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "417d2f6ba86a2567",
@@ -5271,6 +5385,27 @@
    "score": 1.5
   },
   {
+   "id": "374c42a97c8c358e",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Dubai visa rules have changed: 8 major updates you need to know in 2026 - Time Out Dubai",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3BZdmdTRUZVZjZOUkNqeGUtVVo3bDR0OHUtczhBQXktZl81dVdIR3B2OU5QeHd5eGFyU1BMWWdxeEo4VDJ4ZVlhWldHT08zMHpTdUlTSV9xb2FrbDF0VDBaUW9saFgxLVhJT3FVMlhNM2d0T3Z4MDlNWTE2eFVhbQ?oc=5",
+   "summary": "",
+   "publisher": "Time Out Dubai",
+   "country": "AE",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-16T11:21:53+00:00",
+   "fetched": "2026-10-19T17:03:19.646950+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "ef0b0fbba23e9841",
    "title": "Abu Dhabi Releases List of 7 Categories of Foreigners Eligible for Its 10-Year Golden Visa - Tuko News",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkxILU9fMy15aXJTaTNSVy12d1JMQkQ4SDRTOUlDLW9JOGRwb0swYlVIVnExc3VZcEpILWtTMXV2VjBVYUhoMzBZdlNJc0J2ZWQ1bmhZdFN2MjNhVkJwMXh2R0lKX3czMzR4SEdqVDlfVkZ4VmdxaDh3aTNWYXBNRkZqa1FZZWRrYzRhMFJPUlpzNDBIbmc1MFl1M0Z4c1Rfa19RUG1DRUFIbnItX2RXY3Rlaw?oc=5",
@@ -5480,6 +5615,29 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "bfc5d535690ee5d6",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Taiwan's 1GW Hai Long Offshore Wind Farm Brings All Turbines Online - Offshore Engineer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOW9fNTlzbjVWMXB5MGl2bHlERk1vdnRka2t4ZHIweWZoMFU1RGhucWJYVGtDdG1GWDFaZUhieDB5WVJnUGl1UkRVZGo3WHFKSFZnOXhxU0MxUUNwanhsV0RjSGNfY2dDb25lSlp2YWh1NVAxR2VlYnZienExSG8tOXJQYUpwWHp4YVM0QUpyLU50QnJBU2hRUzBKT3BXVHZDNXFPTkg3SGc?oc=5",
+   "summary": "",
+   "publisher": "Offshore Engineer Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T10:18:13+00:00",
+   "fetched": "2026-10-19T17:03:19.646950+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "3425f673b57a2a95",
@@ -14008,6 +14166,31 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "0bda3a5803a7137e",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Denmark to slash work permit salary threshold for some applicants by almost 20,000 kroner - The Local Denmark",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JNVDlfeUktcWo5NTI0SEVtbWEtRlRZeGtSQy1WSE1meFFYVTFFLXl2SHg5Ry1zSXMxRERnT2NwczdDM2s5d3JKRUZCTEF3dWhuRGdGSjN2UFhVQVFCR1MzMnJ2YTdPM0Y3WmJ5cU9uOThPbG03aFhLQVhwaWZyX1BxaHpWSVk0SWUtbTU2SmE4X0VqWGQycTg4OWZ3SkptallTWUhUNkpmUm5Bdjk2TXQtMnU1ZWR2Wi1XZw?oc=5",
+   "summary": "",
+   "publisher": "The Local Denmark",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-13T11:50:45+00:00",
+   "fetched": "2026-10-19T17:03:19.646950+00:00",
+   "visas": [
+    "work"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "0083321e6c2b60f6",
@@ -31569,6 +31752,31 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "0671c5fe9f266429",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Private credit funds face removal risk under golden visa overhaul - BusinessDesk | NZ",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMDZYRzFpSWh2RlhiMmtnT3VPeFVsMk5DS0oyWlNCOUxNZFFUazdGOVFNZG1YeGZvbG1ReWFEWExEam1XeUNMWnRHNnlQSUkwYzRXOFFXUGI1S1pNQ2VxVlg1enk3azA3bUEzS2hTQ1dXTzRJTEFqVkJuazdFY3dycTVmWGVBZ1h1MTkwcnJtRENlNVlSdGlWdWp5RTdoUUszN2ttdkd1Ync5d3I3?oc=5",
+   "summary": "",
+   "publisher": "BusinessDesk | NZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-investor",
+   "published": "2026-10-06T07:00:00+00:00",
+   "fetched": "2026-10-19T17:03:19.646950+00:00",
+   "visas": [
+    "investor"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "360c812d4bf88df3",
