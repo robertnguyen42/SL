@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T22:57:41.723850+00:00",
+ "updated": "2026-10-19T23:29:44.752208+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 19
+   "count": 21
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 33
+   "count": 35
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-work",
@@ -724,6 +724,27 @@
  ],
  "items": [
   {
+   "id": "18936e1ee4f043d0",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Số lượng người nhập cư hợp pháp vào Mỹ giảm mạnh - Báo Tin tức và Dân tộc",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWJQOG9ZT3NyU2l1cFJaelNlZ21RZU4wT0YzMURHTk4yQnhpX2tfZ0E0dUs1c0IwSHItVWlPeWM0WldMdmgwOERRTGFaUDJYVFRPNzFDZmVxQjlDMnZNN0RwRUhwdGlSRi1kd3NjcUluN3p5V0Y4cjYwOGU2eHN2bUV0SkFLVDVtRy10WEs2RQ?oc=5",
+   "summary": "",
+   "publisher": "Báo Tin tức và Dân tộc",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-19T23:09:22+00:00",
+   "fetched": "2026-10-19T23:29:44.752208+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
+  {
    "id": "ccd3654781f48756",
    "src_group": null,
    "src_country": "NZ",
@@ -852,6 +873,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "f55f6c16fb5b057c",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Express Entry Draw #449 | 5,000 Francophones Invited for Canada PR! - Canadim",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wSERxRTZxUFNhNU9vZWpoREZCMlMwdmJha3hfVzVxX3NYQk5qSFIyWDczM2NWWUsyUzhyLWVuV3FaQjQxZmk0UDd3U3RYNHRtSzgyWUg4bmR3dXFIdTFPVmxVZkhnWTQ?oc=5",
+   "summary": "",
+   "publisher": "Canadim",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-19T21:32:39+00:00",
+   "fetched": "2026-10-19T23:29:44.752208+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "e8380e74fe599a1d",
@@ -2760,6 +2807,27 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "020eae50224fb836",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Immigration referendum questions leave Alberta's agri-food sector on edge - CBC",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk9jQUFNNW5HRDl5cUoyNFBBUlFuTE5HR1hWczhVWW5lU3BzOGdLdnp4QTJMNWd2eFlndEwyN0ZaamstbmN6a1NqMDJ3akxEQ2djYWtLRGFORkhaSWptY0wzOU1kR2dXNlp1MmFIdFNCd1ROMWJRVkVOSjRlU0YzQVRMYVRiSGRFeFEwLTRn?oc=5",
+   "summary": "",
+   "publisher": "CBC",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-18T12:00:00+00:00",
+   "fetched": "2026-10-19T23:29:44.752208+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "85922e27b92d5f86",
@@ -7379,6 +7447,27 @@
    ]
   },
   {
+   "id": "25ba213ebe4dc0ef",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Why we should be thanking migrants for choosing to come to NZ - Newsroom",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUNlQ3NvcklqREgyZUZyLWY5ZE5GRzZMQmZodWVvaERmTTh2WGU3VzNsWFpjbmZtWm1vVndaNEg1ODh5Zk50OXY5dzdUQzBXT09JY256QkRuWlF2YmdYYlZxT3cxaDk2UzRPQTVqY1JoMG1vSEJsc1ZuVEFpN3VGaEJFWVk2cF9BYjRLbU9HV0tjcFZlWUtxbHVvUW4?oc=5",
+   "summary": "",
+   "publisher": "Newsroom",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-16T04:00:00+00:00",
+   "fetched": "2026-10-19T23:29:44.752208+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "429ef8094b6adf38",
    "title": "171,000 Unemployed and 13.8% Underutilisation as New Zealand First Pushes Work Visa Overhaul - Aviation A2Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaW9QUWwxWVFIT0JoYWF1T2tGWndHRVNWTWhGc3ExcVJ3TlE1NjRJWUZpU3Zod05mS3ZSTGVVV2NJRHNQckZIRHk2V3N5T0RDWFFrc2ExM093Z01ES2RGOV9GX2R0TS1jeUUzVHZFNm1BUkRjbXR2QlNGelFVNWpCamFiMWxKb25iaEpadTJGLVU3T05hY3VyZGtUSjI5amg5TnlldTJVeHVZdmxreER3?oc=5",
@@ -10772,6 +10861,29 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "295092d9d15fea6a",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "TMGM Named Official Financial Online Trading Sponsor of BIGBANG 2026–2027 WORLD TOUR in Sydney - investingLive",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR3NNZWVoaGZEeUN2Q3Z1SThoQ0RqYkU3NDZSTEoxX3NxN3NYeE1IUUZrdjFEOG01bFZwVjBWaFZzRHZwQmx5d2EwMVJDdm9zQUp3eFNyM0sxRU5Ga0FoUUc5VmNlLWU3NWE1M3d3aHdTQ2NCbHlEdE9wbWJ4WFd2U2tvNjJZVlRlM241T21rLXRvRS1OWGNUeDlxNTliLXZiQkJjYXVlY1lXbXRtaHBsNjlZLW1ZZ09UQ2FZWDdZMEM2a04xNDJ6LVJiVGxXQWRuNFRmNThSUnk?oc=5",
+   "summary": "",
+   "publisher": "investingLive",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-3",
+   "published": "2026-10-14T21:30:05+00:00",
+   "fetched": "2026-10-19T23:29:44.752208+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "9ceacd2ebb3dca97",
@@ -19962,6 +20074,31 @@
    "published": "2026-10-10T07:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5fd69e17a83eb5db",
+   "src_group": null,
+   "src_country": "US",
+   "title": "‘About 100 H-1B visa holders were on Amazon’s initial team that built AWS’: Ex-employee criticises US gre - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNcmdLYWpvblh1ajlvNHdwMTlJaV95YW9qMF83cmhURERlRl8tMmMyTkNyb1VLWFdYLXZGSGN0YVVaVWpqcVM3SzY2RkpwOXY1dUZmbGYyUzBXcXo4WFYtZTRrQ19BclhkNkdnaGVudjB5TjNJbXFxTF9vZHl3QUE5c2dPZlhMZjloUmxRYjJ1bHVfcnVNa05Xb1dkTjJLTERtbUF0Qkp4aEtqZWtCSl9CWW5wdTNkNVRvY0ZENzlJYk03MF9YVWN3RlB6b25nQ2FZTmZaUTNVTjN5TG5uTHNlRUdzUVNseFJFZV9acG55ZkhyMXhxb3lVRlNNSlIybVFvOXQyYWhxM0U5d2ZYTmJTQ3dlQko0MlJUd0w5em5UODJ3RXFnZVM4bHpUMmY2QdIBswJBVV95cUxQY0V2aEhEY19vZFI2ZXZ0UlNBZmd4Q2FTTkgwMTFmdFMzUjJRVTlfQ1ItMXZhSFNCQlZHVTBRWTk4V1JydWNGelVUWFJjUVJyVC05RDY4eWEzMGVvbWtnZ25mTHZKWVJwZnRta3R4Zjh1YXJibERXZ1BfSVpPYmNGNmxDNDdldkJRLTV6aUhibEVPT2ZTU1ctTEFBdUNSZGtWcThfRkh2anNhNS1SdF9ZYk43Vnd4VjRVX2htQ1NNcGVtRjRxS0FIR0tWeVVhMnUzQzV6X3RBRzItUFg1NDBDYldPR2ZsbDBZeEliMGtWNHRoMlRkM1BfV2ROcm5tLXlBa19obFMzc0d3WTJLUFFsMC1pNVk2UFpya25DWXMtaU1MR1hzckFZM2dYVjY3czNERkp3?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-10T07:00:00+00:00",
+   "fetched": "2026-10-19T23:29:44.752208+00:00",
+   "visas": [
+    "h1b"
+   ],
    "groups": [
     "khac"
    ],
