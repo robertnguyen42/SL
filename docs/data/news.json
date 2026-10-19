@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T04:06:15.054338+00:00",
+ "updated": "2026-10-19T05:06:11.630138+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -226,13 +226,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 9
   },
   {
    "id": "nz-business",
@@ -3685,6 +3685,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "fe52bb4231aace15",
+   "title": "Voter Registration Ban at Naturalization Events Vacated by Judge - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTNKWDZLNzVWeWZhellaRnV1ZjZKNmIzcTZVZFV3ci1nX3J4dTk2M2RoMmlzMjN6ODl3Um5TZTRNdk0zbEVETmV3YnMyc045WmRsUnAxVVNVam9kSkxBWlZWa3NZTENnN1BaQ2otd3gtYmVFR3FDem1YYnFsOHZMVjdjZ0FZZnY0cEdsdVJLYVY2Z25aTkRnTTZmeW1YYS12dW5Ld0RGNDQ?oc=5",
+   "summary": "",
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-15T15:44:00+00:00",
+   "fetched": "2026-10-19T05:06:11.630138+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "b6b96903a0048a2e",
