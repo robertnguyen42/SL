@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T08:12:59.029636+00:00",
+ "updated": "2026-10-19T09:11:20.959795+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 28
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-family",
@@ -617,19 +617,19 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 10
+   "count": 16
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "nz-investor",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -723,6 +723,50 @@
   }
  ],
  "items": [
+  {
+   "id": "acc9d5ef3996c5e9",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Sweden Visa From Bangladesh: Dhaka Embassy No Longer Decides Applications - Wego Travel Blog",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCdk5mZ3pVQjlXZFFocVVxZW1pQ2xCejR6MUdKZHpwOU9lNmpRNVNDN2FpMU4wMlc1SjZ0cU5XMXlJLWJuRkE3ajNsWEJmZzN3RDdNZVZBVHItSWFaS2gxMDRoY18?oc=5",
+   "summary": "",
+   "publisher": "Wego Travel Blog",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-19T08:59:44+00:00",
+   "fetched": "2026-10-19T09:11:20.959795+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9b10a0908eabcdc9",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS Eyes Up to $100M Follow-On Enterprise Contact Center Contract - GovCon Wire",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0RFRnFua1RGZTBMa0hlczhVWC1xQ2VCSnBxT2VGeHFXTUZSLXJPZEI5M0lXZzhZX25zbXRNelFqaktleUlwU2g3U2plbmkwVHdUOHdndFJBTUIyRFBwYlYyXzd1eHg0QUZNUFZlejItV3c4YTNfTkNWcWN1bDV3UURQTlNBb1BIcGt5ZFRhUHFmN1dyNVE?oc=5",
+   "summary": "",
+   "publisher": "GovCon Wire",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-19T08:59:12+00:00",
+   "fetched": "2026-10-19T09:11:20.959795+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "57178fca72c0c398",
    "src_group": "chung",
@@ -2325,6 +2369,27 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "2f63c2d69ff27c63",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "Canada Digital Nomad Visa - Eligibility, Requirements for Indians - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fS0dRUzR2ano1UnNRZmREZE9WeUVvODlKNmpIdFJtTlFiZWVzVldQMzJEbXprWTBBUHVmdDN1VHY3LUtYMVdnQWFCR01LcGlrUi1Gd2hxa3ZGUUNpS1VXMDJaSjdsOHBZLWVz?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "CA",
+   "type": "news",
+   "source": "eu-sheet-khac-3",
+   "published": "2026-10-17T07:00:00+00:00",
+   "fetched": "2026-10-19T09:11:20.959795+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "2cef36112d836d55",
@@ -12328,6 +12393,31 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "79887543fd6c0ccf",
+   "src_group": null,
+   "src_country": "US",
+   "title": "DHS Proposes Shockingly High Fees for Optional Practical Training (OPT) for Students - Pryor Cashman LLP",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdTkzVEZKVW00ZExIMG01LTMtendpa1QyNHQwQTVEUFlSX0gwY3pYVWx6NWtTbWNEOGN1RU1SOThBOER1ajc2dF9WTC1WamlDQldHTUE0dlZyQ1hqNXNUSW9la2Z1MXRUSkJkQVFFdzNwTFJEMXRJeEU5Wk15N3NjSWppMzNveDN6Q1VNTjl4VjU5N05PSF9IX2xvdEsxU3hPSnhiQzd3MTlxcUR1RGkxMmN3bmhMdTczYTEyVldhTDdfQQ?oc=5",
+   "summary": "",
+   "publisher": "Pryor Cashman LLP",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-13T13:27:41+00:00",
+   "fetched": "2026-10-19T09:11:20.959795+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "1d0236ef6b9b8b71",
