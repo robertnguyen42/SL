@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T09:11:20.959795+00:00",
+ "updated": "2026-10-19T10:07:23.613069+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 25
   },
   {
    "id": "au-skills-in-demand",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "eu-work",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -629,13 +629,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -723,6 +723,31 @@
   }
  ],
  "items": [
+  {
+   "id": "507eff0e9d6a2fa6",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Portugal’s Golden Visa – Debate reignites over foreign investment - Essential Business",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORndYY2YxaVVON1U1RlB1R0tYMkNRaDU2bDVBRUVScUpXNzAzSUNlZzVRUEJMZ2NEUzZmZjluZjZfTUZFZGx2SG93RHJnakVRUW00YkZ0YXJtLWVDRndGUnZZQWtkOUFHNmlwTjZfNms2SGRTUzFMN1duQU54dVdZVXpOV3dGSkJoUDNhdzQ4Q281Nk1ZeTlFYUQyRkE0eWJucTdTM0IxZTFSOU1x?oc=5",
+   "summary": "",
+   "publisher": "Essential Business",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-19T09:30:48+00:00",
+   "fetched": "2026-10-19T10:07:23.613069+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "acc9d5ef3996c5e9",
    "src_group": "chung",
@@ -789,6 +814,31 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "b82a076732aea02a",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "ETIAS Has No Launch Date After Years of Delays - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDBzRHh5aF9yUGlVWC1BcmJHdUpJMVI4SGVYWXdPT1d0Q0NQSlphcnJqQ1o0TmoxVjBCaUlvZEVGY0dJaEE3azg1TEFuOFRoenZFUThZVy0wR25SV0VOZENubmFZaGtfNnlRLXk3VUJ5TTJ1V2FTTHc0S3hZcXh6V09XOXFRSUdD?oc=5",
+   "summary": "",
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-19T07:40:06+00:00",
+   "fetched": "2026-10-19T10:07:23.613069+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "c9d3bd5a1b0689f6",
@@ -877,6 +927,31 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "d0e50755ed852965",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada's Express Entry reforms: Industry veteran Lt Col B S Sandhu urges candidates to review their Express Entry profiles - Babushahi.com",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNYjhZZ1VmUkVIcFZHMzVUUWdZQ0Z1RGpOSVItTUpJQ1h5WmVfZVl6QW1jV0h4OGtQU08yQ2JVVDh6OGVrb0RYM2xtbHBoWGhTUmR2blJSTFdDaF9JRmdOeWpSTEd5REtNTmZRYnhIYWpPQ0NyV0pNS2Jub0dlQWQzOUpYMU93RkJwVmc5Q3VmSnFaZENkTGRyUEprUFRqbVRBMXlYNURzamUyLUNDNHk0WWhCSzZFYU9rWG9kXzJFZVJnVU1Wd2o3d25FckFsdE0yNHQ5NkcxM3NEc2lJZllqaTZvWTAwTm1XdkxmQUF1QTdtc2tJdnNmVG90Uk9GNXUtaTRDaTFmZVRXRUFsNjFPRXNB?oc=5",
+   "summary": "",
+   "publisher": "Babushahi.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-10-19T05:23:00+00:00",
+   "fetched": "2026-10-19T10:07:23.613069+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "f27f753e646156f2",
@@ -1753,6 +1828,29 @@
    "groups": []
   },
   {
+   "id": "90b64c5abe3b2c39",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Genoa Sends Only 100 Fans to Roma Match After Travel Ban - Demokratis.co.id",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXY3JiU29QWWRmY0N4THFaZ0I4VVBGTW9ESFpaLTdpU3Y2TmNfaFNYR0pLckNrQjF5RzdROHlwM0tydExscFk1VHFpc3poLTEyVk5Lblh6QlBJOVF4WGxXUU52VGY?oc=5",
+   "summary": "",
+   "publisher": "Demokratis.co.id",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-17T18:15:00+00:00",
+   "fetched": "2026-10-19T10:07:23.613069+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "f1004cfe957622ee",
    "title": "Immigration: Why no number of new migrants will ever satisfy Australian-born citizens - SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXhjUzNWY1ZRR3FURjdSSUxaOEtVSE53Y2Z3d08tcG1sRFI3UFU0ZlJwSWl5RlFmckxPVldwZGpIYTRKVUhUcVlkTzc1WDFVemhHOXczZGpVSHVIVkxPX0FtZWNfdFV4QVlXNUZnUWx6QUpwc0hRV3E4RjY3YjNHZm85OEd2R0VHUEloSDFjODFFcVl5X1RSTmJ6eDNHWE9fTmM5enplNENpbjdkWS1ON0pzMHpzcXFySGxiOGFzclp6VHM?oc=5",
@@ -2392,6 +2490,31 @@
    "score": 0.0
   },
   {
+   "id": "e08e0341e07339af",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "PERM Labor Certification 2026 and Tech Company Suspensions Explained - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzV3FmLXU0T2E3RlpPemZXQ2N6U1BNY3NhTEVERlRZeVRNLVJWYThEbmplQVNfQ2RBcFJ3WE1sZm9jWnNVVngwUjNxSEV6TDBfbFg5bllNTDlRUGpXZFE?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-17T07:00:00+00:00",
+   "fetched": "2026-10-19T10:07:23.613069+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "2cef36112d836d55",
    "title": "New H-1B Executive Order: How Company Layoffs Now Trigger Visa Audits| Indians In U.S. Antoinette Webb Fort Knox Story (XzhkpQLylH) - Unisba Media",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3JwejlqU1M3RjFlcGNMYjRtUC1vUnpqenRHZnpsdTluMXkxMzFoTlY1Ml9lV1BuQTkzVXBrcTB6MG1qVFJCVzlob3VIS25LX0Z3bHZRWmZtWl8zTkVJUmN2UHFNZmFkUC1xRHNIRlBfR1pROXJSalRjR0dBdXRhakh3?oc=5",
@@ -2437,6 +2560,29 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "4c6603b02c6da885",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Govt tips citizens as US intensifies travel ban on Zambians – Zambia - News Diggers!",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMldsZ3NLaUJrZ0VoZlp2Wm4wcGZKZ0NmZ3k4Y01TX0FrLVluX3VhVVJEV0hGeVg5V3RlUEFZQjdXZjJoYUZaY0lpT1g0LVZoWW9haDVHbUhJNmJFZUpmRWl4bHhkNnd1S1oyN0dTV0tjc2JmVll5WFp5SVR5MVlxSGFTMG1TMmJxYkNMak9lVWV2N0FUU1FIeWcwNkdqNUk?oc=5",
+   "summary": "",
+   "publisher": "News Diggers!",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-17T05:00:07+00:00",
+   "fetched": "2026-10-19T10:07:23.613069+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "b2cdfe414f73c544",
@@ -2506,6 +2652,29 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "6b173b71bbea2223",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "U.S. Issues New Warning of Possible Travel Ban for Americans - https://www.thetraveler.org/",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb25ZZnlRNkxQT01pZkU4R1hwVnBTX1VqWTFjYmg2cUNUOEZSeS00bTRWY3JCSTd3SENlWjRtY2RMUnA3ank5c2liSHQwQXRIMFBEZDNQYnp6c2FUeG5pWlRqdFRDc0JWLUMtS2tZVDVMU0ZxanA3UVVMeVFmVHczdGtZRVZvWEd3dUp2VzlKWlAtQQ?oc=5",
+   "summary": "",
+   "publisher": "https://www.thetraveler.org/",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-17T03:59:28+00:00",
+   "fetched": "2026-10-19T10:07:23.613069+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "8653237974f7935b",
@@ -4381,6 +4550,29 @@
    "score": 1.5
   },
   {
+   "id": "e2d2b6216035054f",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Trinidadian man faces possible Guyana travel ban after alleged threat against President Ali - WIC News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXUzNHIxbVJfSXUxckk2OWJScHhtajRtTWlDOGpCV1JzZzZzUEhyMXhWY0tvLTJpcURXZHBIcnZ2NXIxUTI4SnpDekd3NURFODZkV0pFVWptcG5nZWl5cnhEUi11Z3E4RjhXRXQxSnZHdXhrcUI5MVR6Q0NEYkpTc3k0QjhuRm9BZ1J6Z0pVcWY4WjdxbUpVQzgxNG9LRUZ0Q0tLbDJ2TmI0X0kwRXd5dldlZ3VJb01zLXc?oc=5",
+   "summary": "",
+   "publisher": "WIC News",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-16T10:44:21+00:00",
+   "fetched": "2026-10-19T10:07:23.613069+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "ca18f183ac659e2a",
    "title": "Did The Brewers Just Put The Cubs AWAY? | Jeff Levering Visa Bulletin (Wogddmezsy) - Unisba Media",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Oa0Y4bVVPZnR6N3JzQ2NzbHhBZ2VQNHE3ZjVTSjByNHdSRTdxMzM5Nk9CcHNiaXJSeWFTTS1HbXBmUW16TDlzS216MzVvTGk0SXlySTRRWWE1Y2xkYy05ZzI4WVdxZw?oc=5",
@@ -4863,6 +5055,27 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "cc8aa744291c4b40",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "EU Summit: Meloni says, ‘Industry at risk with the ETS’. Then a compromise. Seven-day extension of the Schengen travel ban with Spain - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWGZhYXptalYxRWpOaF9fdVJhSTFiYnVkNkNZQ0F1bWdrN1FTYXR4aFMwRnlWdXJybEF0QlFGemxOTkVwX0lSall2T3JiMWFERUpDblZpUFRKQmlCUGdDYzRIN3J1TmRBMDlwdXdaRklVM1dCQllUVXVTVEtCWkN5VFRab3pYSTM4UHQ1SFBoMXFGZzJUN05xaXdqdGwxNmdlejdrMEtUMGFvWDJZYlpQeDRiQXd3MGdlcVZGSklGWWlabXNubTgxZXAwb3h3d2dheUdpS3gyMzlxQ25xcFJKOFFpc2I?oc=5",
+   "summary": "",
+   "publisher": "Il Sole 24 ORE",
+   "country": "EU",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-16T07:50:38+00:00",
+   "fetched": "2026-10-19T10:07:23.613069+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "fc82195a18d40728",
@@ -6789,6 +7002,31 @@
    ]
   },
   {
+   "id": "b53b41a9ea788d9c",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "TD Cowen on Establishment Labs Inc. (ESTA): 'The Selloff Looks Overdone as a Major FDA Catalyst Approaches' - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbE5uWDBDUnZoMlRyTUpCTGFYZEQ0cjR2aGhuUEJPN1ZVS2h3dkluc2ZJXzVublpjV1lxbnl1SlpMZmRMOVZuWTA5bkY2SGNsSW5YbnlXUmxtb0labWhldDBOanBKZWJwM2haa1NUbW1GUlFOaFFzZFdwWG10ck5IRjdxdDE4SDJhcGlXdUFOQmVhQldoSHFvU2o5TWdPY0hMcTZyd0VrQm50aE1adXJYU0lDSVJERkc4YnlrOUdtWUFBbC1fbmZZbXAySGowOXlVNHhzcC04Y2RzT0p5ZkptWWJCSEZDbS1ndG9KWFV5UF93QUI0SnFabGVkZHRKbzdzZGc?oc=5",
+   "summary": "",
+   "publisher": "StreetInsider",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-15T13:32:23+00:00",
+   "fetched": "2026-10-19T10:07:23.613069+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "1521b71ffacfb93e",
    "src_group": "dau-tu",
    "src_country": "US",
@@ -8566,6 +8804,31 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "5466fb7a6621d4ff",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Stifel Starts Establishment Labs Inc. (ESTA) at Buy - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXpGMXZlTlRzNDlYdXBOQkVweXhMMUVFZk9xbkVaYUltTm1mZnJ0d2ZnelRkR2p6MV9xa2ZVcUxDQnh3UmVKX1REYUYtUzNrOTFrM0g3Q2M4QVdMSEM4a3liNHFqVEJhOXV6azZ6d0NURlY0OTRWTm9BUHNmUXZ4VWplbW9yeTRiYnRNRERfRlN2dFRGblpDTjY5Um1kTXBhZElWQ3A4a0lXVjdnTDkxYk5hdGZKYU0?oc=5",
+   "summary": "",
+   "publisher": "StreetInsider",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-14T20:14:17+00:00",
+   "fetched": "2026-10-19T10:07:23.613069+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "719c5f1cc8639a8b",
