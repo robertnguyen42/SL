@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T11:02:53.987042+00:00",
+ "updated": "2026-10-19T12:04:11.197001+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 25
+   "count": 27
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "eu-work",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -653,13 +653,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -683,7 +683,7 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-1",
@@ -719,10 +719,102 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 15
   }
  ],
  "items": [
+  {
+   "id": "bfa0361e8dc7620c",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada changes employment offer rules, removes LMIA requirement for certain express entry points - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXFaY2RLYTYyQlB6OUJxY0VqTnBqUVl6MXNlYUZNUHJneFRKRjZ5UmNXUFF5eUs0eFZLeFlBWXVJU2d5Q1J6S1BPNnZ2bEd2aER4aFRhRWJWcVp5UWZERDdMZE81VFNsY2t3OXduNmVNdkFqZFJPc1d4TDdXNzlfdWxlZjQzLUxzYk51TlNDWkFjZ0pmX3h3RUlYMkFJNzcxclZtekgtUGg?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-19T11:49:37+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [
+    "express-entry",
+    "work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "19941716d522d2ab",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australia Announces 7 Priority Occupations for Permanent Skilled Visa Processing in 2026 - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkNsM3J1N2RsNHl5X2lkN1l1OU5CVWlyLUJLSmItb1A4SXVCRDJiaTdVdlQwelIyVFY5MTQ1VVJpSm0yRFR1RTMyMDBoQlNqYTB3TlNmb3FiMHVET2t2ZTJsX0xvUmRTdFN3Sy1tUGJVbGdYNVg2Rlp2aDd4ZWVqaGR4cnd0NXM0YU9xNFhab2NVMTN3MXRUUmIxSlA4ZEJyVEZHQg?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-19T11:24:10+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "77abfe55db532e6f",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Introduces New Visa Rules Affecting 9 Categories in Partnership Visa Applications - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnM1bmUyeTFpalZ5YnB1RTJkNjdNcUZEX1lUUjJJSkpiTkR1TExqM1lIb1FVOTY5TUx6eHRxckgwaEJpYU9Fd3owcGpzczZ2c3NhdEJfZS0teVhxN2IwUTNkUXp1T2FIckNJNjJaV2oyUlJOZVdBcXJNVmpRUE1kbzB2TkQ1eGlQaXNBa2YwWlhLbEpOeWdab29xSWZkUW1pbVE?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-19T10:59:33+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "7f31ef67b20e31ce",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK tightens immigration application rules as October changes take effect - The Kenyan Diaspora Media",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb29JNXJoN2ZCdFI1WktDR1ZETFUzQlhZVjU5Tk5Rci0ybTRJbUtkQmx0YkgtRURtZV81b2dDclRWdlJ4RHBUblVBeVVTcXpuejJnQ3pGOTdyNjA0djZhUHUtOEtMZDlIU09WZDE2TElOcUxxNGJWa256NTRwOWRZdFpQQUVnSnBnZlRqQWVBRUZVQ0xSeERtZVg5SVRYOUpGTUtaQ0R2X29OcWZ3bVRYV3B0UHZQdw?oc=5",
+   "summary": "",
+   "publisher": "The Kenyan Diaspora Media",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-19T10:20:11+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "507eff0e9d6a2fa6",
    "src_group": null,
@@ -927,6 +1019,27 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "90f93d7d37fc8124",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Burke’s immigration crackdown risks greater migrant worker exploitation - Honi Soit",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVZ5ZVhqMnpKVkNYZG9DWExNajdHTXVyb1FCN2JLR1RaWjFReDhJSHRKZDJ2UGdnRmpsYjE1UEp2aTUzQl95R2tqRk5iWGlocDh3d0hUdzZLX1JLTm02U3M2M0ZBYUpFNzJQb2tnckJsUkdJMWdfcXdldkM1c0hTcU5qODFUWDdXcEZ0YnRHcWtpd1F1Q05wMzJBcUZPYkRDMkE?oc=5",
+   "summary": "",
+   "publisher": "Honi Soit",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-19T05:34:43+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "d0e50755ed852965",
@@ -1340,6 +1453,27 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "6c0985e8f746dfbe",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Sweden Lists 3 New Requirements for Family Members to Get Long-term Residence - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX21COUpqQW9EbmxEWDVNbXBDZVlHdnJObVM2MzczVGpOVHF4X1dPcXJCR3R0NTVFeTUtYi1ETE5JYll1QjJjY21RT3ppbFNwYTlGQmI2eXBMMUZGbnpXRFllY19kTnZYOEI2REtyazNvS0NzaS1lNU9tRUVPTFdlM2U3NmVuU3duNUdIUW54LThyaWs4OWYwRnNSQjk?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-18T11:26:15+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "fdc27f7277e1ba75",
@@ -2017,6 +2151,32 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "bca5e0145788a0a8",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada Announces New Rules for Permanent Residency Applicants - ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fZ0hRUWNRdVlMYkwzUkNMZEJOZGxFWXZ1MUFlSGhfVlZQLUN3NmdaSy1Wd0xreWVYdHpuTTRPUkpTaU82ZnF5TlJ30gGjAUFVX3lxTE1VMk8xV3V3U3ZyVm9BZFZjSUI5ZWY1NjRxTVNJVVVudVVIQnlOSWZ0bkZlWEpFX2w1MldkeFp6ajZhajFfODdPRl9sZTB4NnhNNEdNdnFqRnROOFJFVmhrZG1CQUJwRGF1eUtRaEpkbmpQOUU0b193MXA4WFNodU1JUnJMOGZpaW9IVUNNMTNCVV9OVnJ5UEh4SEhaemo2VFdCSm8?oc=5",
+   "summary": "",
+   "publisher": "ProPakistani",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-17T14:45:23+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "a00ffda126bd465f",
@@ -6941,6 +7101,29 @@
    ]
   },
   {
+   "id": "518aa7a6971eab6c",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "Latifa bint Mohammed meets President and CEO of World Economic Forum in Dubai - Emirates 24|7",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ3lfQjFPb3N1RVdzU1BMWTJ4QTBwLXBwNE9GRGJMMWM2dHl5YjJVa1ZKYjNpTVFQVVJ2ek1XYUtaNERxaWtzLUE3NTV4NFZIelVmWnlBNlpJaGFWcWZNTXVlOENncWREMngyOTlQeWZJNEdzTGFMYkNsUzJseW1lb3I2MnRDSUg2WlpxRmJmSnk2eDdjY21kekVuOE5yc2ZvUEd1SFlza19VemNONWE4ZjRrS2c2aFRwTzVv?oc=5",
+   "summary": "",
+   "publisher": "Emirates 24|7",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-15T14:34:00+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "38ade09a41f569b8",
    "src_group": "chung",
    "src_country": "AU",
@@ -9759,6 +9942,29 @@
     "chung",
     "khac"
    ]
+  },
+  {
+   "id": "3923a9f17deae912",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "Hamdan bin Mohammed meets World Economic Forum President and CEO to discuss future leadership and global cooperation - Emirates 24|7",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWmhQVWp1UjRuWktZZUE4UmU3cTRucG4xYkJxUFpMeHFnUm9IOHQtdmdiMW1UbTNHWDRQS3hlR3QzMDhiUFBTdUZwYWZNZUtGWkVOQlZHMkpEY3ZydFVmSGNkUzRkQmJmakRjNmJ3LUlncjVtbGhmVUVDcEN1VmQ3WVZEN05HcEtvUjV1cG5QYU9fY0J1T2lPd3NiWXFMR19NUjE5aVRtLW1fUkRlOFBXczM1SzNiMGd6enlxVk95cnlOSlc0cEEtZWdGTG9qbU5vMElPRFFGOXB4d3hXcUw4LS1jSGg2TFdVaXpjRmwwYw?oc=5",
+   "summary": "",
+   "publisher": "Emirates 24|7",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-14T15:11:00+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "855250860fe4b54d",
@@ -12892,6 +13098,29 @@
    "groups": []
   },
   {
+   "id": "de0bf494d4a861c5",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Kongsberg Maritime Secures Contract for Four Offshore Wind CSOVs - The Maritime Executive",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2RBcFd5M2E1NEg0OHlicDhrWUlPdjhHcFlkMUVlZUlEVWZ0M2RBOWpRd0E2Z0RsN3dzMDcxLXhLSl9ScXYwXzR4VDR2VkQwS0ktRzRvbnRBazNab25sU0FtNHY4bEdMNjlFcUxHc1FrYkx6ZHRjMFM4aDJ0SG9TVzRlOFdfX2dNNVVsbDJDT3NxQjBaV2lfUDdFdmswQmJxbUZpZGM3M1E?oc=5",
+   "summary": "",
+   "publisher": "The Maritime Executive",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-13T12:27:23+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "31b87c32e99b7297",
    "title": "USCIS changes visa and green card deadlines starting October 23 - NewsBytes",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTENjU0k3OWJKYm5ONU9CZEFLdk1rdVp6bzJmb2FRUWFhVUpwOGkyUUN2RzBkaGhNUlNiV2JNdlVkT1VZeVhha2lBOG1fQzJiS0Uyc1dqWXNLemVieE1NY2V2V2F0ZDFNR19ZdDFXNVpuUDlTTWQ0U2pHcl96NjktU29UUzJYd05NWWFBeFpiX1hseW43T3E4RmNDMW1BWTNCbV8xbGpaem1BYnFo?oc=5",
@@ -15133,6 +15362,29 @@
    "groups": []
   },
   {
+   "id": "8a6374c324fe50d5",
+   "src_group": "khac",
+   "src_country": "AE",
+   "title": "Prop-AI Highlights New Data-Driven Dubai Real Estate Market Report - TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUF95dXdkMHJIa09tVzJsS2RqUTFpd19jdm9ZMGtIcVkwZVJ0T1FrZWpIdk1aeTB3Q2c4cXJrQ0UycVRoeGVGQVJYZ1JkVUlyNVZILTBac1gyVE9YYVVJM01DeWgzci1tZVEyc2tZRkJXNS1BWUdxbG1ydFNCX0dLc2FnQnhaZV95d3hfRktrX1k3a3h3NFhCMmVTajRhd2U0OUw5RnpKZ1I1V0hBSE5HSkZuNVc?oc=5",
+   "summary": "",
+   "publisher": "TipRanks",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-khac-2",
+   "published": "2026-10-12T12:21:30+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "06fd4ddc9b790569",
    "title": "3 men arrested after immigration officers raid Bradford businesses - Yahoo News UK",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWtjVlR6TGpCTmNBRXBXZE1uNVZjeFdoR3lTRkdNNVdyR2Z5Mk93NE1sRVdGNk51OHNCWEFTUUQ0dlVycUZYQ2VzbzZIZ3dHejV3d0ljdVRGRHcwVHA2cFJ5TTRrN3IzOGkwbVBmUkdxVXlZUVFnTHlhODB1ZnNEdnJzalI?oc=5",
@@ -16878,6 +17130,29 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "93a35497d6328e52",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "Belize Proposes $500,000 Investor Residency Program - CEOWORLD magazine",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcU52T0Q0SnFxNDB3VkMxdFhlTlE2ZzFTRmVDY0FaZXhDbmV2MjB4X1JoNW1ITFhiaTVfVUhEUG5XRkdua3NLNmJCdGlEZVFSSnRmdXhTVG8wUUJzNDdYV2RQekE2SDQ1MHN1MlhOQVYtd29JUFM2WTBnUnNEUHhLdTlERHgxZVlBRXc?oc=5",
+   "summary": "",
+   "publisher": "CEOWORLD magazine",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-11T00:16:09+00:00",
+   "fetched": "2026-10-19T12:04:11.197001+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "23c8c8310f6443fa",
