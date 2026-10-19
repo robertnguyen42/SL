@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T06:01:57.004069+00:00",
+ "updated": "2026-10-19T07:23:33.570823+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -190,7 +190,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -220,7 +220,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -334,7 +334,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -400,7 +400,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -418,25 +418,25 @@
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,24 @@
   }
  ],
  "items": [
+  {
+   "id": "c9d3bd5a1b0689f6",
+   "title": "Sobirovs Law Firm Launches New Website for Canadian Business Immigration - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlhVUndYOFRxV2Mya2ZkMnVsT2Y5Y3RuazRlN002SVJiSzdWVnNxVUc5dy1uOW1tV3hJNmloNFE3enMzbzMySU5TMUdqRDU2b0N1b2g0NXF3ajRJRjhkNFlPV3p1cC1VM2RhZEZMTm5DdGpRbHhNWlhCOEh5aVBNY2J5T2Y0V3hWWHpEb2Rhc2cxMWIzXzF3VEpQUWhCd1B0Z0c1ZHUtTHZPTVJQ?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-startup",
+   "published": "2026-10-19T07:09:20+00:00",
+   "fetched": "2026-10-19T07:23:33.570823+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "2b3273976fd41d07",
    "title": "One Nation's immigration policy comes with a multibillion-dollar price tag - Independent Australia",
@@ -897,6 +915,24 @@
    "source": "nz-en",
    "published": "2026-10-17T23:19:29+00:00",
    "fetched": "2026-10-17T23:48:45.613929+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "cd5e5d4661d52b04",
+   "title": "Price tag of One Nation’s plan to slash migration revealed - Nine.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekUydklGQTdhalg0VHpEU2VjSWlnVmFnREp6WWlLZEpYQmZGb2tDU1pRelhMbGJYVW04S1JYVjY1MVFHYVpDUDBleDJRbmc4RFkxVmpzWE11V25VcmpmdU9fbWU0azZpUE5wQW54RVh5TkEzUnhzQlFEaGUycldnZ01INUo3aXZWVjBCaEg3SjBra0FUV29tdVF6VU90TDd5RkpDOEd2dGxsVlZnY2dLdmtkNjQ0RG1VeGc?oc=5",
+   "summary": "",
+   "publisher": "Nine.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-17T23:05:27+00:00",
+   "fetched": "2026-10-19T07:23:33.570823+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
@@ -3204,6 +3240,24 @@
    "score": 2.5
   },
   {
+   "id": "5335824680bd0508",
+   "title": "‘Rs 60 lakh for foreign citizenship’: German woman, 64, arrested for fraud in Delhi - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNmRXZC1JQXlVdUpsQjRNby1DTklvU1FwWE8zM05pSXQxaXFveTc5RW5KWkxMWFVybDI0TTZzSGlUWlRVclB3My1GZDNTZUhjSzNva3llTUc2RHRrcFBOSUxzMkMxYW82VkpiTTEzYkZTY3UtdFkzQUxkZ1RINTJYdjZzb0ZHUHl0alB0ZHVjcDdZaDlsak9aZFd3Sk1XSGtLWkJ3aVhKd1dGckVpNF9yQ3R2dkUyb2VQZjdCMlhkTEVTajhUR3dlc2ZGOThqdDVE0gHXAUFVX3lxTFA5LXhhc1NGOUxZVUlnc2VROWFGaG1YWG94ZkJQb0hNUmIyVXo4OENwQlA3bUo1Zms4a2JJT2RaclhDRUtsbk1xSFlTczBULVVZWGtVV3duaUxwWEdRYUtsR3ZOdXpfQ0FJZXd1UTlQMmNFRC0wbm01Z0hlT25wSU9tR0ExNFhZTWZMZTJ2blY5Z2x6YkhnVXVJSFFLRGFCaHRkdEZvMkM0WUJ0X2xkNFcwMHNWcm5GbDVCZ1FrdVdiRld4X3ZTOG5qWkxjYWpVS3NCcmtERG80?oc=5",
+   "summary": "",
+   "publisher": "The Indian Express",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-15T23:59:00+00:00",
+   "fetched": "2026-10-19T07:23:33.570823+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "90e4c44d21c2636f",
    "title": "US Reveals 1 Key Condition Immigrants Must Fulfil to Obtain Permanent Residency - GistReel",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1huMkJFZ0RFbV9zcWdsU2gxRkY1bWttZ0ltOS1ST0VwR0I3NENVenJ0M05jZXhZSkZSRUhKanhSZk5xQzRibkxELU9fMFR2ck45cEM4T2E1LVY2dnMyUFBKMDdjSktzM2F2T3Y2TlJ1WVEzTlVuYW9ydzdEZTVJN3VNMWk1ekRCdVVqa3E5WFBYYjhMa0x4RE1IeFE1V21hTmllWDFWTFBnczQ?oc=5",
@@ -3468,6 +3522,26 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "a8bb397b02d97cf9",
+   "title": "US Green Card lottery 2027: Judge orders Trump administration to reopen Diversity Visa registration from N - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONUZUdUJwMEZYRU1KQXZqNWNadjBiSWU2d1pKQlM0elpPNzk0aFRIMkF4ckpIbGVfMkF1NVpWRS0tVWxaX3IzM0VxSURYeU1ad0ZiaTc4TWphWEhPcVlGX1QzMktvVmhhRnM4bHdSM2NBeTM5SXB6TTNGSE1FUlRFUUswVUlLSzFXY18xVl9pUkR4MzhOZ0Z5R2V3MUJRaVVjT1p1dkhqNE5scWZVd19JRjlQWExYMFRJUnozSi1oZnVzX2pOdUlhQ1BiRGRFc0NXd0dHZ2d4YkhFdVFqdS13SUlLTDZBOEhuSjZEbFcwbTFDLVF3cHBxQUN1aEJmNGhZTGtHVTB1MDh5MGJh0gGSAkFVX3lxTE9QcUhsN3V3eVEzYXlWaWtEc202NWR1ZGl3RlR2RW40OXlwTjVUODcxcVV3d05Oak1uYlhqQ1VteDZWeGNGdUhLLS1YOTNzOHdzNXRMcmlOV2hBSkxlWjBYYW1HTDVSN0YzZnVkOWlGbFZ3ekZZRmFlbHpBMGdFU0ZPOUIyaWx3T0twU1lxenZ4bGVxLWtIcVdBeEtMaEFTYW5PLTVhRVdmYVVzZ3FyM0tvcFlBV2R5c1JQLWhicjhLNnVpMmV5Qy1uTllSajF1VFZFRkpHMEVrVWQ2ZU8xRUxGU203Zjl4U2FnaWRDWS1laVdmc3IwdnZxeWg1SUFYRzlNMlRMb29wSjZ2ZHZSd2I3d2c?oc=5",
+   "summary": "",
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-15T18:25:10+00:00",
+   "fetched": "2026-10-19T07:23:33.570823+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "5804c2c29a17fa56",
@@ -6163,6 +6237,24 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "4396e45b630a0a8a",
+   "title": "Hospitality bosses warn of empty cafes and kitchens under migration cuts - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVk5nUnJRY1h2ZzUzV3JTb3N3TTBuczVvcUdjZEVEOElMRGRmb2ZrM0JPRmJKajN5Q1hoR2s2Rm5fd3VEc3VpZWRDMTZ4YXJXOWVUR0swd040SVBHMW5SRk0tUW9xSXA3X3BTNEgtWVUyRW1OWjVXWVJzbURxVzRMR0YtbzVRaDRtUm1YYzFqUzQ2Zy1ROHpSeDVYZU51ZmFmVFQw?oc=5",
+   "summary": "",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-14T06:08:37+00:00",
+   "fetched": "2026-10-19T07:23:33.570823+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "95b8d0b4ae16ba0f",
