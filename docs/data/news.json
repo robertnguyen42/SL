@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T22:25:19.672410+00:00",
+ "updated": "2026-10-19T22:57:41.723850+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 16
+   "count": 19
   },
   {
    "id": "us-eb5",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "nz-family",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -724,6 +724,94 @@
  ],
  "items": [
   {
+   "id": "ccd3654781f48756",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Political rivals agree more can be done on immigration settings - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1J4M0lZaHNWS01RRlFvQ2JXeURyTE5RcXVEalk4WWNFYzNzMUZhSlpLV19KbU1qQ1FBbXcwa19VOXhZYmNSSmM4b2J6TDQ4cmoydXNHXzhVS0hpcGVfMmlaOTZKU1lWRTMxa2hzVGZvamJHdGIyS29qdVJ5Zm9DVFcyLU5faVJST0RJVzktTTU0RE9pVEJjRGhMczdYQm9QTEZTZUtMMmRaNHJ1eTdnMHViNkw?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-19T22:49:12+00:00",
+   "fetched": "2026-10-19T22:57:41.723850+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "2363d7232b3063a1",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Diversity Green Card Lottery To Open For 2027—Restored By Court Order - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzdObVpocUl2cDRjWHoybDRqak96OFdaWWdyckcxTWJwakNpWGpYUk9CZ3QtVnNieElmM2hWVnRyUU1HLXdKeWY5MzF4YXI3RE5ndjBSZzZIMklWMkdySmN4ZWRoM0tILVdhS3JRT1VtdHdHcFVIeEFyZnRuR3BRT29aUHFHc2FLZGxBYzJ3UkhUXzFsZV9fbXltNE0xeXdrTENFV2JUWDhFVzFjVk1jcTRMMXlLYWhzdU1heVRjZmZiUQ?oc=5",
+   "summary": "",
+   "publisher": "Forbes",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-19T22:48:39+00:00",
+   "fetched": "2026-10-19T22:57:41.723850+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "ac30b99df9ba7b9b",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Over 12,000 Indian tech professionals leave US as visa uncertainty, layoffs mount - The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ0hIdlQ2WkZ3SzlBYXVXV2xBMXdPczFkY3oxV3NnN0FwYVBCNzFyOV9yeVBNM18wVXFJdjdLN3dBN3RmRlFabnhiZXBERDllaUcyT3NNYTVxV2pITHNCZWxBZmNVWU5Hay1fSEdFTXZFX1NEOExTcWk4dkwxM192RDVaYUdfd0hydXFDb3lXVElGTlRLQjVXYkcwemdTeDJmUmRMd3YtSkVsOWc2cGlBMk5Hc19jdkx6Um9UUmhYQTJBLTNjZ1hGMXJRZw?oc=5",
+   "summary": "",
+   "publisher": "The American Bazaar",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-19T22:11:07+00:00",
+   "fetched": "2026-10-19T22:57:41.723850+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "2157a5f43820444b",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India–New Zealand Free Trade Agreement brings new visa commitments - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzcwSjV3Q1ZsV0JxTUtjXzJ0dmFtTU9vaVpQOU5NX2ZNZGxzNEZPaWpleFl4dFo3UnJSTWJfU3FRQjM4R3Y0dXJlc2tUM3hucmdDN0hRVzNBU1BoazZiV1huakkxcXYxb3F4Y2RYVklxc0JtclFwYlJHb29qTkdodXJ5b29pMmdvMF9ucTJLME9Wak01cFhGX0lnem8wY1VKWFpxdzd4bXRFY05QdTZkOFhQR184WlZqQmdVbA?oc=5",
+   "summary": "India–New Zealand Free Trade Agreement brings new visa commitments Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-19T21:46:39+00:00",
+   "fetched": "2026-10-19T22:57:41.723850+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
+  },
+  {
    "id": "9faefd3820cac2e8",
    "src_group": null,
    "src_country": "NZ",
@@ -764,6 +852,56 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "e8380e74fe599a1d",
+   "src_group": null,
+   "src_country": "US",
+   "title": "United States | Sudan, Ukraine TPS beneficiaries maintain work authorization pending further USCIS guidance - BAL Immigration Law",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcW5NVlRmeTl5NExZMDJrY1M1S29QYTl2ckExYVhlbExUV1RZVkdRVnNmMWFsTWQtS3RnLWJSQjJhY3gzVjZHRm9Fc1FoX2tTbGpybTJYV19hX1ctM3Q0YVJ2bWJxX1dadU83QUkxQVpVUzdzTzN0VWx4NG1RNmlYa2JaTUM0Mi1DaGxXSWhwa1JncVQ2cm9NZzdIYVM4cmdVZmE3S2JCc0tJWk5jQVlQbjJWNnBPU3J2dlgwQ3NYV1ZueWcxSlFrOFBxU1VVT1lDdFU1MXZLWWRadw?oc=5",
+   "summary": "",
+   "publisher": "BAL Immigration Law",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-19T21:12:10+00:00",
+   "fetched": "2026-10-19T22:57:41.723850+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "3acc91e721f6b193",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Canada is updating its immigration system. But for Americans with Canadian ancestry, citizenship has never been more direct - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVThqanNtSE1GQUxEN0Z2am5jS1dSa2p4WDQ3WFVWSmlCUkpmWDY3dDdlTHNHMVN6M1QtbmRjNUlvYk9TQ1ZJT2cxZUVRV2NTN0kzZ3M0cG5DZy1YZ1pMN0FqaDg0dEFKd0JQUUtNdVFKcExXemFLazFNdjNRX1pPVFpzMUplU3pkSDZ6R2M2blVoalhxX0UzRVRqd1N0X1lJVDFEbVpYOTFvRTU1NG82YXRGMGhvZlBpZC1SUHVoZTJZSmNjUGtJWHozdEZYQVFaRzJHSzFVbDgwb0RlUGotY9IB5gFBVV95cUxNTnBRUWVFcGNEOFRUV1VQX0M1QkJtbV83VEYwX0JrRFBsMUpoa3lPdXBDc2xabjliaFRGc3ZHVkdJUnMzME5sNFJib1NsbXVveS1hMndjVFdoSTRKeFhPRElXMnFJWl8wY0d3aU81UkRqelN0LTRxMUh4MmVaX3g2RTJNcFFHNUJSa3NvSjNBSXA0dnNoLWpjejR6QnNWYmtrNjE1X0RGb25RXzQxa2ctbXU3M0F1VF9MUmlfaVFXbHZoUlFVbWo4S1EtSGZxeDJiZFBqY2N0WWxuV1dnNXRKRTc2c0ZSUQ?oc=5",
+   "summary": "",
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-2",
+   "published": "2026-10-19T20:30:32+00:00",
+   "fetched": "2026-10-19T22:57:41.723850+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "fb808577707db6bb",
@@ -958,6 +1096,27 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "ff0337ba77ef3ee8",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Children and older people making up an increasing share of migrants - Interest.co.nz",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTGNjdHNWd1NtSWZBQzFsYTV2MF9oSWtoUjhMdHRORnJCNDNYT0x5M01YX3djTFdEaTJHaTIydlM4ZXoteVpRMDBQVml5WEloUHpvOGMtTnlfRlZ0X01RUWtxaGsxUFFrcjJvZHBFVkRTalFQeVZKeVJFZ1EyQUNxRTZZNjdnNzNQbHEyOVlqcGtuN1lCRURNYzJSNUZRTTRCeFZGSE9WcW0zekhQSmhhR25kU2V5cUJPQmt3c2dCMnk3VVk?oc=5",
+   "summary": "",
+   "publisher": "Interest.co.nz",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-19T19:00:00+00:00",
+   "fetched": "2026-10-19T22:57:41.723850+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "bd16bee744b98f7d",
@@ -1195,6 +1354,27 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "9c356324d410354c",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia Visa Age Limit With 5 Exemptions You Didn’t Know Nazem Kadri (LaOaefTNvJ) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXI3cnBRVGhaZWF6ZHBRUzJjYVNaa1FGcDN5T1FneWw1MkdlRWRrM296MXl6SkVlakxIb2hrcmh3SkxpVUlza2Z6WV9HNXlBTDMyQlZJM25BNUJrcEdqRFJWQlNxNUM1T0k5SzQxWmcwYW5qcExXYnlzUzh1N1F6X1pZOXRQR0U?oc=5",
+   "summary": "",
+   "publisher": "Unisba Media",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-19T16:17:51+00:00",
+   "fetched": "2026-10-19T22:57:41.723850+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "b57870ad259badca",
