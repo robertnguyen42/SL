@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T20:59:44.628037+00:00",
+ "updated": "2026-10-19T21:32:42.879227+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -545,13 +545,13 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 19
+   "count": 15
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-digital-nomad",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "nz-investor",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -719,7 +719,7 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 15
   }
  ],
  "items": [
@@ -791,6 +791,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "b2cf871ac35c935b",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Immigration Insights Episode 32 | Understanding the New Public Charge Rule: Implications for Employment and Family Based Permanent Residence Applications - EB-5 Insights",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZ1VrRHozcFNrOTQ5VWFSckxtd1VmSXM5YTF4czdmU0ZVcHJmbUZqV2xqZjhaMjBuVk5mVVNmalFmX0ROSDBKNWRQaTFQbE9sMFN6VGNORkRnZEg3MHZSbGczMDY5bnlzXy1vbGpPWGFHU2g4QkxBR1I0eURiZW53MklIcE9NblJmRjEwVDQzTGdJbTR4cERyVlJzaGxYRF83eXJpSUJDRFZNRWxlZ2tGb01zbXlkVmh6bWJlYVIzSDIzTHlVXzdoTnhsVGdzeWpweGhqSHpXcU9UeVNyLV9oX2hvZnFsTjAyMENPWmFCR1VFcDVabV9DU29MQXMyX2dXa0ZTNjJCVkI0MzVsYVQ2Nk4yaVlZZDM0ZlE?oc=5",
+   "summary": "",
+   "publisher": "EB-5 Insights",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-19T19:03:46+00:00",
+   "fetched": "2026-10-19T21:32:42.879227+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "eada104b961198c3",
@@ -11196,6 +11222,31 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "d323b1f9d3b60131",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "“No longer a teething problem”: European Aviation Groups Propose Fixes to Ease EES Delays - Travel Market Report",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOUtqYkZtbHplTVNyY2NxaWpVcVBFcTZGSEVFVDFJejcxZm9rYVVNU1JlVFVraE5jdzhIVGJpaU44eUU0SnZBbkdPYWQzT19SQnlyWVhhQ3ZXcF9kb1hpVmx4OWRCbDV3ajhGRTNWbzVQRnNBeGtOVzhQd1pCZFlSTDg4WUtnMDF3Um5FNHhKU0dKSDNJSUwxR0VpUl93bTktTTJjTkVzOGZLWkdJLXlnc0FMeGM1UnFRb2JrY2hwUlNraGtVbklUcEFHRXFxSHhHU3c?oc=5",
+   "summary": "",
+   "publisher": "Travel Market Report",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-14T16:45:53+00:00",
+   "fetched": "2026-10-19T21:32:42.879227+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "a7d50af5433f3f41",
