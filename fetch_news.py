@@ -2,7 +2,7 @@
 """Lấy tin di trú -> docs/data/news.json, gắn nhãn Nước -> Loại visa theo keywords.json.
 Nguồn = sources.json (cố định) + Google News tự sinh từ trường 'q' trong keywords.json.
 Chỉ dùng thư viện chuẩn của Python, không cần cài thêm gì."""
-import json, hashlib, re, html, sys, time
+import csv, io, json, hashlib, re, html, sys, time
 import urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
@@ -42,6 +42,114 @@ def matches(regs, text):
     return any(r.search(text) for r in regs)
 
 
+# ---------- Keyword từ Google Sheet (sync_keywords.py tải về sheet_keywords.csv) ----------
+SHEET = ROOT / "sheet_keywords.csv"
+SHEET_COUNTRY = {"ÚC": "AU", "UC": "AU", "NEW ZEALAND": "NZ", "MỸ": "US", "MY": "US", "CANADA": "CA",
+                 "CHÂU ÂU": "EU", "CHAU AU": "EU", "DUBAI": "AE", "UAE": "AE"}
+SHEET_GROUP = {"chung các loại": "chung", "tay nghề": "tay-nghe", "đầu tư": "dau-tu", "khác": "khac"}
+GROUP_NAMES = {"chung": "Chung các loại", "tay-nghe": "Tay nghề", "dau-tu": "Đầu tư", "khac": "Khác"}
+PRIO_GROUPS = {"tay-nghe", "dau-tu"}               # nhóm định cư lâu dài, xếp lên trên
+QUERY_CTX = {"AU": "Australia", "NZ": '"New Zealand"', "CA": "Canada", "AE": "(UAE OR Dubai)", "US": "", "EU": ""}
+STOP_TERMS = {"job", "regional", "sbs"}           # quá chung chung (SBS còn trùng tên đài SBS)
+TYPO = {"UB-3 Skilled": "EB-3 Skilled", "Skill Migration Category": "Skilled Migrant Category"}
+MONTHS = r"(January|February|March|April|May|June|July|August|September|October|November|December)"
+
+
+def split_cell(cell):
+    """Tách ô keyword theo dấu phẩy/xuống dòng, bỏ qua dấu phẩy nằm trong ngoặc."""
+    out, buf, depth = [], "", 0
+    for n, ch in enumerate(cell):
+        depth += ch == "("
+        depth -= ch == ")"
+        in_number = ch == "," and n + 1 < len(cell) and cell[n - 1:n].isdigit() and cell[n + 1].isdigit()  # 250,000
+        if ch in ",\n" and depth == 0 and not in_number:
+            out.append(buf); buf = ""
+        else:
+            buf += ch
+    out.append(buf)
+    return [x.strip() for x in out if x.strip()]
+
+
+def expand(phrase):
+    """Một keyword trong sheet -> (các cụm để khớp tiêu đề, cụm để tìm Google News)."""
+    for a, b in TYPO.items():
+        phrase = phrase.replace(a, b)
+    phrase = re.sub(r"(AED|€|\$)\s?[\d.,]+(\s?(million|m)\b)?(/(AED|€|\$)?\s?[\d.,]+)*", "", phrase).strip(" ,")
+    main, paren = phrase, ""
+    m = re.match(r"^(.*?)\s*\((.*)\)\s*$", phrase)
+    if m:
+        main, paren = m.group(1).strip(), m.group(2).strip()
+    terms, numeric = [], False
+    for part in [main, paren]:
+        if not part:
+            continue
+        pieces = part.split("/")
+        nums = [p for p in pieces if re.fullmatch(r"\d{3}", p.strip().split()[-1] if p.strip() else "")]
+        if len(pieces) > 1 and len(nums) == len(pieces):           # subclass 482/186/... hoặc 600/500/...
+            prefix = " ".join(pieces[0].split()[:-1])
+            for p in pieces:                                         # "subclass 482" và "482" (cần chữ visa đi kèm)
+                num = p.strip().split()[-1]
+                terms += [f"{prefix} {num}".strip(), num]
+            numeric = True
+        elif len(pieces) > 1 and re.fullmatch(r"[A-Z0-9-]{2,6}", pieces[0].strip()):   # OPT/STEM OPT
+            terms += [p.strip() for p in pieces]
+        else:
+            terms.append(part)
+            words = part.split()
+            if len(words) >= 4:                                     # cụm dài: thêm phần lõi 2-3 từ đầu
+                core = words[:3]
+                while core and re.fullmatch(rf"\d[\d–-]*|{MONTHS}|on|for|of|to|vs|after|the|and|in", core[-1], re.I):
+                    core.pop()
+                if len(core) >= 2:
+                    terms.append(" ".join(core))
+    terms = [t for t in dict.fromkeys(terms) if t.lower() not in STOP_TERMS]
+    query = paren if len(paren) > len(main) and not re.fullmatch(r"[\d/ ]+", main) else main
+    if re.fullmatch(r"[\d/ ]+", main) or numeric:
+        query = ""                                                  # số thuần: dùng từng số bên dưới
+    if query.lower() in STOP_TERMS:
+        query = ""
+    queries = [query] if query else []
+    queries += [f"{t.split()[-1]} visa" for t in terms if re.fullmatch(r"(subclass )?\d{3}", t)]
+    return terms, queries
+
+
+def compile_terms(terms):
+    """Khớp nguyên cụm (eTA không khớp 'beta'); số thuần (482) vẫn cần chữ visa/subclass đi kèm."""
+    ci, cs = [], []
+    for t in terms:
+        if t.isdigit():
+            ci.append(kw_pattern(t)[0])
+        elif t.isupper() and len(t) <= 5:
+            cs.append(rf"(?<!\w){re.escape(t)}(?!\w)")
+        else:
+            ci.append(rf"(?<!\w){re.escape(t)}(?!\w)")
+    return [re.compile("|".join(ci), re.I)] * bool(ci) + [re.compile("|".join(cs))] * bool(cs)
+
+
+def load_sheet():
+    """{nước: {nhóm: {"terms": [...], "queries": [...]}}} từ sheet_keywords.csv."""
+    out = {}
+    if not SHEET.exists():
+        return out
+    country = None
+    for row in csv.reader(io.StringIO(SHEET.read_text("utf-8"))):
+        row = (row + ["", "", "", ""])[:4]
+        name, group, cell = row[1].strip(), row[2].strip(), row[3]
+        if name.upper() == "QUỐC GIA":
+            continue
+        if name:
+            country = SHEET_COUNTRY.get(name.upper())
+        gid = SHEET_GROUP.get(group.lower())
+        if not country or not gid or not cell.strip():
+            continue
+        g = out.setdefault(country, {}).setdefault(gid, {"terms": [], "queries": []})
+        for ph in split_cell(cell):
+            t, q = expand(ph)
+            g["terms"] += t
+            g["queries"] += q
+    return out
+
+
 def load_taxonomy():
     raw = json.loads((ROOT / "keywords.json").read_text("utf-8"))
     tax = {}
@@ -50,8 +158,14 @@ def load_taxonomy():
             continue
         tax[c] = {"name": v["name"], "flag": v["flag"], "re": compile_kws(v["country"]),
                   "visas": {vid: {"name": x["name"], "q": x.get("q", ""), "re": compile_kws(x["kw"]),
-                                  "prio": bool(x.get("uu_tien"))}
+                                  "prio": bool(x.get("uu_tien")), "group": x.get("nhom")}
                             for vid, x in v["visas"].items()}}
+    for c, groups in load_sheet().items():
+        if c not in tax:
+            continue
+        tax[c]["groups"] = {gid: {"name": GROUP_NAMES[gid], "re": compile_terms(g["terms"]), "queries": g["queries"],
+                                  "prio": gid in PRIO_GROUPS}
+                            for gid, g in groups.items() if g["terms"]}
     return tax
 
 
@@ -74,6 +188,10 @@ def tag(item, tax):
         item["country"] = hit[0]
     t = tax.get(item["country"])
     item["visas"] = [vid for vid, v in t["visas"].items() if matches(v["re"], text)] if t else []
+    groups = (t or {}).get("groups", {})
+    from_visa = {t["visas"][v]["group"] for v in item["visas"]} if t else set()
+    item["groups"] = [gid for gid, g in groups.items() if gid in from_visa or matches(g["re"], text)
+                      or (item.get("src_group") == gid and item.get("src_country") == item["country"])]
     return item
 
 
@@ -91,7 +209,9 @@ def score(item, tax, pr, ai=None):
         item["direction"] = "siet" if tighten and not ease else "noi" if ease and not tighten else None
         item.pop("ai", None)
     visas = tax.get(item["country"], {}).get("visas", {})
-    item["prio"] = any(visas[v]["prio"] for v in item.get("visas", []) if v in visas)
+    groups = tax.get(item["country"], {}).get("groups", {})
+    item["prio"] = (any(visas[v]["prio"] for v in item.get("visas", []) if v in visas)
+                    or any(groups[g]["prio"] for g in item.get("groups", []) if g in groups))
     item["score"] = (2 * (item["lang"] == "vi") + 2.5 * item["policy"] + 1.5 * item["prio"]
                      + 1 * (item["type"] == "official"))
     return item
@@ -105,6 +225,15 @@ def all_sources(tax):
                 q = urllib.parse.quote(v["q"] + " when:30d")
                 srcs.append({"id": f"{c.lower()}-{vid}", "country": c, "type": "news", "visa": vid,
                              "name": f"Google News – {t['name']} – {v['name']}",
+                             "url": f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"})
+        # Keyword trong Google Sheet: gom 6 cụm/lần tìm để không gọi Google News quá nhiều
+        for gid, g in t.get("groups", {}).items():
+            qs = list(dict.fromkeys(g["queries"]))
+            for n in range(0, len(qs), 6):
+                ors = " OR ".join(f'"{x}"' for x in qs[n:n + 6])
+                q = urllib.parse.quote(f'{QUERY_CTX.get(c, "")} ({ors}) when:14d'.strip())
+                srcs.append({"id": f"{c.lower()}-sheet-{gid}-{n // 6 + 1}", "country": c, "type": "news", "group": gid,
+                             "name": f"Sheet – {t['name']} – {GROUP_NAMES[gid]} ({n // 6 + 1})",
                              "url": f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"})
     return srcs
 
@@ -190,7 +319,8 @@ def main():
             title = clean(e["title"], 400)
             if not title or not e["link"]:
                 continue
-            visa_re = tax[s["country"]]["visas"][s["visa"]]["re"] if s.get("visa") else []
+            visa_re = (tax[s["country"]]["visas"][s["visa"]]["re"] if s.get("visa")
+                       else tax[s["country"]].get("groups", {}).get(s.get("group"), {}).get("re", []))
             if (s["type"] == "news" or s.get("filter")) and not (GENERAL.search(title) or matches(visa_re, title)):
                 continue
             d = parse_date(e["date"]) or now
@@ -203,6 +333,8 @@ def main():
             seen_titles.add(nt)
             by_id[iid] = {
                 "id": iid,
+                "src_group": s.get("group"),
+                "src_country": s["country"],
                 "title": title,
                 "link": e["link"].strip(),
                 "summary": "" if s["type"] == "news" else clean(e["summary"]),
@@ -226,7 +358,8 @@ def main():
     items.sort(key=lambda i: i["published"], reverse=True)
     taxonomy = {c: {"name": t["name"], "flag": t["flag"],
                     "visas": {vid: v["name"] for vid, v in t["visas"].items()},
-                    "prio": [vid for vid, v in t["visas"].items() if v["prio"]]} for c, t in tax.items()}
+                    "prio": [vid for vid, v in t["visas"].items() if v["prio"]],
+                    "groups": {gid: g["name"] for gid, g in t.get("groups", {}).items()}} for c, t in tax.items()}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"updated": now.isoformat(), "taxonomy": taxonomy, "sources": status,
                                "items": items}, ensure_ascii=False, indent=1), "utf-8")

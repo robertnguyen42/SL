@@ -47,3 +47,9 @@ Sửa `sources.json`. `type: "official"` = nguồn chính phủ (hiện tóm t�
 - Claude quyết định: có phải tin thay đổi chính sách không, và chính sách bị **siết** hay **nới** → lưu `docs/data/ai_labels.json`
 - Tin chưa được AI phân loại vẫn dùng nhãn theo từ khoá (`_uu_tien` trong `keywords.json`)
 - Dùng chung secret `ANTHROPIC_API_KEY` với tóm tắt tuần. Lỗi AI không chặn việc cập nhật tin
+
+## Keyword từ Google Sheet (`sync_keywords.py`)
+- Nguồn: sheet "SL | KEYWORD CẬP NHẬT THÔNG TIN ĐỊNH CƯ", Sheet1, cột QUỐC GIA / DẠNG VISA / KEYWORD
+- Mỗi lần cập nhật tin (30 phút), GitHub tải sheet → `sheet_keywords.csv`. Sheet phải để "Bất kỳ ai có đường liên kết: Người xem"; chưa chia sẻ thì dùng bản đã lưu
+- Trang có 2 cấp lọc: **Nhóm** theo sheet (Chung các loại / Tay nghề / Đầu tư / Khác) → **Loại visa** chi tiết (`keywords.json`, trường `nhom` nối loại visa với nhóm)
+- Mỗi nhóm trong sheet tự sinh truy vấn Google News (6 keyword/truy vấn). Keyword quá chung bị bỏ qua: job, regional, SBS

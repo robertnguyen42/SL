@@ -7,9 +7,9 @@
 <meta name="description" content="Cập nhật tin tức di trú Úc, Mỹ, Canada theo tuần">
 <style>
 :root{--bg:#f6f7f9;--card:#fff;--text:#1a1d23;--muted:#667085;--line:#e4e7ec;--accent:#1d4ed8;--new:#dc2626;
- --au:#047857;--us:#1d4ed8;--ca:#b91c1c;--eu:#1e40af;--nz:#0f766e;--siet:#b91c1c;--noi:#047857}
+ --au:#047857;--us:#1d4ed8;--ca:#b91c1c;--eu:#1e40af;--nz:#0f766e;--ae:#a16207;--siet:#b91c1c;--noi:#047857}
 @media (prefers-color-scheme:dark){:root{--bg:#0f1115;--card:#171a21;--text:#e6e8ec;--muted:#98a2b3;--line:#2a2f3a;--accent:#60a5fa;
- --au:#34d399;--us:#60a5fa;--ca:#f87171;--eu:#93c5fd;--nz:#5eead4;--siet:#dc2626;--noi:#059669}}
+ --au:#34d399;--us:#60a5fa;--ca:#f87171;--eu:#93c5fd;--nz:#5eead4;--ae:#facc15;--siet:#dc2626;--noi:#059669}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
 .wrap{max-width:860px;margin:0 auto;padding:20px 16px 60px}
@@ -27,7 +27,7 @@ h2.week{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(-
 .item a:hover{color:var(--accent)}
 .item p{margin:4px 0 0;color:var(--muted);font-size:14px}
 .tags{font-size:12px;color:var(--muted);margin-top:6px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
-.flag{font-weight:700}.AU{color:var(--au)}.US{color:var(--us)}.CA{color:var(--ca)}.EU{color:var(--eu)}.NZ{color:var(--nz)}
+.flag{font-weight:700}.AU{color:var(--au)}.US{color:var(--us)}.CA{color:var(--ca)}.EU{color:var(--eu)}.NZ{color:var(--nz)}.AE{color:var(--ae)}
 .off{border:1px solid currentColor;border-radius:4px;padding:0 5px;color:var(--accent)}
 .badge{background:var(--new);color:#fff;border-radius:4px;padding:0 6px;font-weight:700}
 #toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;padding:10px 18px;border-radius:999px;cursor:pointer;display:none;box-shadow:0 4px 14px #0003}
@@ -59,6 +59,9 @@ h2.week{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(-
 .vtag.prio{font-weight:700}
 .bar select{border:1px solid var(--line);background:var(--card);color:var(--text);padding:6px 10px;border-radius:999px;font-size:14px}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.visas .lbl{font-size:12px;color:var(--muted);align-self:center;min-width:64px}
+.groups button{border-style:solid}
+.gtag{color:var(--accent);font-weight:600}
 .empty{color:var(--muted);text-align:center;padding:40px}
 </style>
 </head>
@@ -76,19 +79,21 @@ h2.week{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(-
   <button data-c="CA">🇨🇦 Canada</button>
   <button data-c="NZ">🇳🇿 New Zealand</button>
   <button data-c="EU">🇪🇺 Châu Âu</button>
+  <button data-c="AE">🇦🇪 Dubai</button>
   <button data-t="official">Chỉ nguồn chính phủ</button>
   <button data-p="policy">Chỉ tin chính sách</button>
   <label for="sort" class="sr">Xếp theo</label>
   <select id="sort"><option value="prio">Xếp: Ưu tiên</option><option value="new">Xếp: Mới nhất</option></select>
   <input id="q" type="search" placeholder="Tìm: visa 482, EB-5, golden visa…">
  </div>
+ <div id="groups" class="visas groups"></div>
  <div id="visas" class="visas"></div>
  <main id="list"></main>
 </div>
 <div id="toast"></div>
 <script>
-const POLL_MS = 60000, NAMES = {AU:"Úc", US:"Mỹ", CA:"Canada", NZ:"New Zealand", EU:"Châu Âu"};
-let data = {items: [], taxonomy: {}}, visa = "ALL", country = "ALL", policyOnly = false, sortMode = safeGet("sortMode") || "prio", officialOnly = false, query = "", knownIds = null;
+const POLL_MS = 60000, NAMES = {AU:"Úc", US:"Mỹ", CA:"Canada", NZ:"New Zealand", EU:"Châu Âu", AE:"Dubai"};
+let data = {items: [], taxonomy: {}}, group = "ALL", visa = "ALL", country = "ALL", policyOnly = false, sortMode = safeGet("sortMode") || "prio", officialOnly = false, query = "", knownIds = null;
 const lastVisit = +(safeGet("lastVisit") || 0);
 
 function safeGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
@@ -105,19 +110,29 @@ function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;","
 
 function prioVisa(c,v){return ((data.taxonomy[c]||{}).prio||[]).includes(v)}
 function visaName(c,v){return ((data.taxonomy[c]||{}).visas||{})[v]||v}
+function renderGroups(){
+  // Cấp 1: 4 nhóm theo Google Sheet "SL | KEYWORD" (Chung các loại / Tay nghề / Đầu tư / Khác)
+  const box=document.getElementById("groups"), t=data.taxonomy[country];
+  if(!t||!t.groups||!Object.keys(t.groups).length){box.innerHTML="";return}
+  const cnt={};data.items.forEach(i=>{if(i.country===country)(i.groups||[]).forEach(g=>cnt[g]=(cnt[g]||0)+1)});
+  box.innerHTML=`<span class="lbl">Nhóm</span><button data-g="ALL" class="${group==="ALL"?"on":""}">Tất cả nhóm</button>`+
+    Object.entries(t.groups).map(([id,name])=>`<button data-g="${id}" class="${group===id?"on":""}">${esc(name)}<span>${cnt[id]||0}</span></button>`).join("");
+  box.querySelectorAll("button").forEach(b=>b.onclick=()=>{group=b.dataset.g;renderGroups();render()});
+}
 function renderVisas(){
+  renderGroups();
   const box=document.getElementById("visas"), t=data.taxonomy[country];
   if(!t){box.innerHTML="";return}
   const cnt={};data.items.forEach(i=>{if(i.country===country)(i.visas||[]).forEach(v=>cnt[v]=(cnt[v]||0)+1)});
   const total=data.items.filter(i=>i.country===country).length;
-  box.innerHTML=`<button data-v="ALL" class="${visa==="ALL"?"on":""}">Tất cả visa ${t.flag}<span>${total}</span></button>`+
+  box.innerHTML=`<span class="lbl">Loại visa</span><button data-v="ALL" class="${visa==="ALL"?"on":""}">Tất cả visa ${t.flag}<span>${total}</span></button>`+
     Object.entries(t.visas).map(([id,name])=>`<button data-v="${id}" class="${visa===id?"on":""}">${esc(name)}<span>${cnt[id]||0}</span></button>`).join("");
   box.querySelectorAll("button").forEach(b=>b.onclick=()=>{visa=b.dataset.v;renderVisas();render()});
 }
 function render(){
   const q=query.toLowerCase();
   const items=data.items.filter(i=>(country==="ALL"||i.country===country)&&(!officialOnly||i.type==="official")
-    &&(visa==="ALL"||(i.visas||[]).includes(visa))&&(!policyOnly||i.policy)
+    &&(group==="ALL"||(i.groups||[]).includes(group))&&(visa==="ALL"||(i.visas||[]).includes(visa))&&(!policyOnly||i.policy)
     &&(!q||(i.title+" "+i.summary+" "+i.publisher).toLowerCase().includes(q)));
   if(sortMode==="prio"){
     // Trong từng tuần: tiếng Việt, tin chính sách, diện visa định cư chính lên trước (điểm tính ở fetch_news.py)
@@ -137,6 +152,7 @@ function render(){
         ${i.direction==="siet"?`<span class="dir siet" title="Chính sách bị siết chặt${i.ai?" · AI phân loại":" · theo từ khoá"}">▼ Siết</span>`:i.direction==="noi"?`<span class="dir noi" title="Chính sách được nới lỏng${i.ai?" · AI phân loại":" · theo từ khoá"}">▲ Nới</span>`:""}
         ${i.policy&&!i.direction&&i.type!=="official"?'<span class="pol">Chính sách</span>':""}
         <span class="flag ${i.country}">${NAMES[i.country]||i.country}</span>
+        ${(i.groups||[]).map(g=>`<span class="gtag">${esc(((data.taxonomy[i.country]||{}).groups||{})[g]||"")}</span>`).join("")}
         ${(i.visas||[]).map(v=>`<span class="vtag${prioVisa(i.country,v)?" prio":""}">${esc(visaName(i.country,v).split(" · ")[0])}</span>`).join("")}
         ${i.type==="official"?'<span class="off">Chính phủ</span>':""}
         <span>${esc(i.publisher)}</span><span>${fmt(i.published,{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}</span></div></div>`;
@@ -163,7 +179,7 @@ async function load(){
 document.querySelectorAll(".bar button").forEach(b=>b.onclick=()=>{
   if(b.dataset.t){officialOnly=!officialOnly;b.classList.toggle("on",officialOnly)}
   else if(b.dataset.p){policyOnly=!policyOnly;b.classList.toggle("on",policyOnly)}
-  else{country=b.dataset.c;visa="ALL";renderVisas();document.querySelectorAll("[data-c]").forEach(x=>x.classList.toggle("on",x===b))}
+  else{country=b.dataset.c;visa="ALL";group="ALL";renderVisas();document.querySelectorAll("[data-c]").forEach(x=>x.classList.toggle("on",x===b))}
   render();
 });
 document.getElementById("q").oninput=e=>{query=e.target.value;render()};

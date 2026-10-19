@@ -1,5 +1,5 @@
 {
- "_huong_dan": "Cấp 1 = nước, cấp 2 = loại visa. 'country' = từ khoá nhận diện nước. 'kw' = từ khoá gắn nhãn visa (không phân biệt hoa thường; số thuần như 482 chỉ khớp khi đi kèm 'visa'/'subclass'/'diện'). 'q' = câu tìm Google News để lấy thêm tin riêng cho loại visa đó (để trống = không tìm riêng). 'uu_tien': true = diện visa ưu tiên (định cư lâu dài), được xếp lên trên.",
+ "_huong_dan": "Cấp 1 = nước, cấp 2 = loại visa. 'country' = từ khoá nhận diện nước. 'kw' = từ khoá gắn nhãn visa (không phân biệt hoa thường; số thuần như 482 chỉ khớp khi đi kèm 'visa'/'subclass'/'diện'). 'q' = câu tìm Google News để lấy thêm tin riêng cho loại visa đó (để trống = không tìm riêng). 'uu_tien': true = diện visa ưu tiên (định cư lâu dài), được xếp lên trên. 'nhom': nhóm trong Google Sheet mà loại visa này thuộc về (chung | tay-nghe | dau-tu | khac).",
  "AU": {
   "name": "Úc",
   "flag": "🇦🇺",
@@ -20,7 +20,8 @@
      "temporary skill shortage"
     ],
     "q": "Australia (\"482 visa\" OR \"Skills in Demand visa\")",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "tay-nghe"
    },
    "employer": {
     "name": "186 / 494 · Doanh nghiệp bảo lãnh",
@@ -33,7 +34,8 @@
      "doanh nghiệp bảo lãnh"
     ],
     "q": "Australia (\"186 visa\" OR \"employer sponsored visa\" OR \"494 visa\")",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "tay-nghe"
    },
    "skilled": {
     "name": "189 / 190 / 491 · Tay nghề độc lập & đề cử",
@@ -51,7 +53,8 @@
      "định cư tay nghề"
     ],
     "q": "Australia (\"skilled migration\" OR \"190 visa\" OR \"491 visa\" OR SkillSelect)",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "tay-nghe"
    },
    "student": {
     "name": "500 · Du học",
@@ -62,7 +65,8 @@
      "du học",
      "du học sinh"
     ],
-    "q": "Australia \"student visa\""
+    "q": "Australia \"student visa\"",
+    "nhom": "tay-nghe"
    },
    "graduate": {
     "name": "485 · Tốt nghiệp ở lại làm việc",
@@ -72,7 +76,8 @@
      "temporary graduate",
      "post-study"
     ],
-    "q": "Australia (\"485 visa\" OR \"temporary graduate visa\")"
+    "q": "Australia (\"485 visa\" OR \"temporary graduate visa\")",
+    "nhom": "khac"
    },
    "investor": {
     "name": "188 / 888 / NIV · Đầu tư – Doanh nhân",
@@ -87,7 +92,8 @@
      "doanh nhân"
     ],
     "q": "Australia (\"National Innovation Visa\" OR \"investor visa\" OR \"188 visa\")",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "dau-tu"
    },
    "partner": {
     "name": "820 / 309 · Vợ chồng – Hôn phu",
@@ -103,7 +109,8 @@
      "hôn phu",
      "hôn thê"
     ],
-    "q": "Australia \"partner visa\""
+    "q": "Australia \"partner visa\"",
+    "nhom": "tay-nghe"
    },
    "parent": {
     "name": "103 / 143 · Bảo lãnh cha mẹ",
@@ -117,7 +124,8 @@
      "bảo lãnh cha mẹ",
      "bảo lãnh bố mẹ"
     ],
-    "q": "Australia \"parent visa\""
+    "q": "Australia \"parent visa\"",
+    "nhom": "khac"
    },
    "visitor": {
     "name": "600 · Du lịch – Thăm thân",
@@ -128,7 +136,8 @@
      "du lịch Úc",
      "thăm thân"
     ],
-    "q": ""
+    "q": "",
+    "nhom": "khac"
    },
    "citizenship": {
     "name": "Quốc tịch – Thường trú (PR)",
@@ -140,7 +149,8 @@
      "thường trú nhân",
      "PR"
     ],
-    "q": "Australia (citizenship OR \"permanent residency\") migration"
+    "q": "Australia (citizenship OR \"permanent residency\") migration",
+    "nhom": "chung"
    }
   }
  },
@@ -171,7 +181,8 @@
      "đầu tư định cư Mỹ"
     ],
     "q": "\"EB-5\"",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "dau-tu"
    },
    "eb-work": {
     "name": "EB-1 / EB-2 / EB-3 · Định cư diện việc làm",
@@ -191,7 +202,8 @@
      "định cư diện lao động"
     ],
     "q": "(\"EB-2\" OR \"EB-3\" OR NIW OR PERM) green card",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "tay-nghe"
    },
    "h1b": {
     "name": "H-1B · Lao động chuyên môn",
@@ -200,7 +212,8 @@
      "H1B",
      "H-1B1"
     ],
-    "q": "\"H-1B\""
+    "q": "\"H-1B\"",
+    "nhom": "khac"
    },
    "l1-e2": {
     "name": "L-1 / E-2 · Doanh nhân – Chuyển công tác",
@@ -212,7 +225,8 @@
      "treaty investor",
      "intracompany"
     ],
-    "q": "(\"E-2 visa\" OR \"L-1 visa\")"
+    "q": "(\"E-2 visa\" OR \"L-1 visa\")",
+    "nhom": "khac"
    },
    "student": {
     "name": "F-1 / J-1 · Du học – Trao đổi",
@@ -227,7 +241,8 @@
      "du học",
      "du học sinh"
     ],
-    "q": "US (\"F-1 visa\" OR \"student visa\" OR OPT)"
+    "q": "US (\"F-1 visa\" OR \"student visa\" OR OPT)",
+    "nhom": "khac"
    },
    "family": {
     "name": "Bảo lãnh gia đình (F1–F4, IR)",
@@ -243,7 +258,8 @@
      "bảo lãnh",
      "diện F"
     ],
-    "q": "(\"family-based\" OR I-130 OR \"K-1 visa\") immigration"
+    "q": "(\"family-based\" OR I-130 OR \"K-1 visa\") immigration",
+    "nhom": "khac"
    },
    "visa-bulletin": {
     "name": "Visa Bulletin · Lịch chiếu khán",
@@ -255,7 +271,8 @@
      "final action date"
     ],
     "q": "\"visa bulletin\"",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "chung"
    },
    "green-card": {
     "name": "Thẻ xanh – Điều chỉnh tình trạng",
@@ -269,7 +286,8 @@
      "quyền thường trú"
     ],
     "q": "\"green card\" USCIS",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "chung"
    },
    "citizenship": {
     "name": "Nhập tịch – Quốc tịch",
@@ -281,7 +299,8 @@
      "quốc tịch Mỹ",
      "birthright citizenship"
     ],
-    "q": "USCIS (naturalization OR \"citizenship test\")"
+    "q": "USCIS (naturalization OR \"citizenship test\")",
+    "nhom": "chung"
    },
    "visitor": {
     "name": "B1/B2 · Du lịch – Công tác",
@@ -295,7 +314,8 @@
      "visa bond",
      "du lịch Mỹ"
     ],
-    "q": "US (\"tourist visa\" OR \"B1/B2\" OR \"visa bond\")"
+    "q": "US (\"tourist visa\" OR \"B1/B2\" OR \"visa bond\")",
+    "nhom": "khac"
    },
    "asylum": {
     "name": "Tị nạn – Trục xuất",
@@ -308,7 +328,8 @@
      "tị nạn",
      "trục xuất"
     ],
-    "q": ""
+    "q": "",
+    "nhom": "khac"
    }
   }
  },
@@ -338,7 +359,8 @@
      "draw"
     ],
     "q": "\"Express Entry\" draw",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "tay-nghe"
    },
    "pnp": {
     "name": "PNP · Đề cử tỉnh bang",
@@ -351,7 +373,8 @@
      "đề cử tỉnh bang"
     ],
     "q": "Canada (\"provincial nominee\" OR PNP)",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "tay-nghe"
    },
    "startup": {
     "name": "Start-up Visa · Doanh nhân",
@@ -364,7 +387,8 @@
      "doanh nhân"
     ],
     "q": "Canada \"start-up visa\"",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "dau-tu"
    },
    "student": {
     "name": "Study Permit · Du học",
@@ -376,7 +400,8 @@
      "du học",
      "du học sinh"
     ],
-    "q": "Canada (\"study permit\" OR \"international students\")"
+    "q": "Canada (\"study permit\" OR \"international students\")",
+    "nhom": "khac"
    },
    "work": {
     "name": "Work Permit · Lao động",
@@ -388,7 +413,8 @@
      "open work permit",
      "lao động"
     ],
-    "q": "Canada (\"work permit\" OR LMIA)"
+    "q": "Canada (\"work permit\" OR LMIA)",
+    "nhom": "tay-nghe"
    },
    "family": {
     "name": "Bảo lãnh gia đình",
@@ -400,7 +426,8 @@
      "parents and grandparents",
      "bảo lãnh"
     ],
-    "q": "Canada (\"spousal sponsorship\" OR \"super visa\" OR \"parents and grandparents\")"
+    "q": "Canada (\"spousal sponsorship\" OR \"super visa\" OR \"parents and grandparents\")",
+    "nhom": "khac"
    },
    "pr-citizenship": {
     "name": "Thường trú (PR) – Quốc tịch",
@@ -413,7 +440,8 @@
      "nhập tịch",
      "thường trú"
     ],
-    "q": "Canada (\"immigration levels plan\" OR \"permanent residents\")"
+    "q": "Canada (\"immigration levels plan\" OR \"permanent residents\")",
+    "nhom": "chung"
    },
    "visitor": {
     "name": "Visitor Visa · Du lịch",
@@ -424,7 +452,8 @@
      "tourist visa",
      "du lịch Canada"
     ],
-    "q": ""
+    "q": "",
+    "nhom": "khac"
    }
   }
  },
@@ -480,7 +509,8 @@
      "đầu tư cư trú"
     ],
     "q": "(\"golden visa\" OR \"residence by investment\") Europe",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "dau-tu"
    },
    "citizenship-investment": {
     "name": "Quốc tịch đầu tư (Malta…)",
@@ -491,7 +521,8 @@
      "quốc tịch đầu tư"
     ],
     "q": "\"citizenship by investment\" Europe",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "dau-tu"
    },
    "blue-card": {
     "name": "EU Blue Card · Lao động tay nghề cao",
@@ -505,7 +536,8 @@
      "lao động tay nghề"
     ],
     "q": "(\"EU Blue Card\" OR \"Opportunity Card\" Germany)",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "chung"
    },
    "work": {
     "name": "Giấy phép lao động · Thời vụ",
@@ -517,7 +549,8 @@
      "xuất khẩu lao động",
      "lao động"
     ],
-    "q": "Europe (\"work permit\" OR \"work visa\") migrants"
+    "q": "Europe (\"work permit\" OR \"work visa\") migrants",
+    "nhom": "khac"
    },
    "student": {
     "name": "Du học châu Âu",
@@ -528,7 +561,8 @@
      "du học",
      "du học sinh"
     ],
-    "q": "Europe (\"student visa\" OR \"international students\") visa"
+    "q": "Europe (\"student visa\" OR \"international students\") visa",
+    "nhom": "khac"
    },
    "digital-nomad": {
     "name": "Digital Nomad · Người làm việc từ xa",
@@ -537,7 +571,8 @@
      "remote work visa",
      "du mục kỹ thuật số"
     ],
-    "q": "Europe \"digital nomad visa\""
+    "q": "Europe \"digital nomad visa\"",
+    "nhom": "khac"
    },
    "family": {
     "name": "Đoàn tụ gia đình",
@@ -548,7 +583,8 @@
      "đoàn tụ gia đình",
      "bảo lãnh"
     ],
-    "q": "Europe \"family reunification\" migrants"
+    "q": "Europe \"family reunification\" migrants",
+    "nhom": "khac"
    },
    "schengen": {
     "name": "Schengen · Du lịch, ETIAS/EES",
@@ -560,7 +596,8 @@
      "tourist visa",
      "visa du lịch"
     ],
-    "q": "(\"Schengen visa\" OR ETIAS OR \"Entry/Exit System\")"
+    "q": "(\"Schengen visa\" OR ETIAS OR \"Entry/Exit System\")",
+    "nhom": "chung"
    },
    "uk": {
     "name": "Anh (UK) · Skilled Worker, Du học, ILR",
@@ -573,7 +610,8 @@
      "Home Office",
      "visa Anh"
     ],
-    "q": "UK (\"Skilled Worker visa\" OR \"Graduate route\" OR \"Home Office\" immigration)"
+    "q": "UK (\"Skilled Worker visa\" OR \"Graduate route\" OR \"Home Office\" immigration)",
+    "nhom": "khac"
    },
    "asylum-policy": {
     "name": "Chính sách di cư – Tị nạn",
@@ -587,7 +625,8 @@
      "trục xuất",
      "di cư"
     ],
-    "q": ""
+    "q": "",
+    "nhom": "chung"
    }
   }
  },
@@ -617,7 +656,8 @@
      "tay nghề"
     ],
     "q": "New Zealand (\"Skilled Migrant\" OR \"Green List\" OR \"straight to residence\")",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "tay-nghe"
    },
    "aewv": {
     "name": "AEWV · Doanh nghiệp bảo lãnh lao động",
@@ -630,7 +670,8 @@
      "lao động"
     ],
     "q": "New Zealand (AEWV OR \"accredited employer\") visa",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "tay-nghe"
    },
    "investor": {
     "name": "Active Investor Plus · Đầu tư",
@@ -642,7 +683,8 @@
      "đầu tư định cư"
     ],
     "q": "New Zealand (\"Active Investor Plus\" OR \"investor visa\")",
-    "uu_tien": true
+    "uu_tien": true,
+    "nhom": "dau-tu"
    },
    "business": {
     "name": "Doanh nhân · Business Investor",
@@ -652,7 +694,8 @@
      "Entrepreneur Work",
      "doanh nhân"
     ],
-    "q": "New Zealand (\"business investor visa\" OR \"entrepreneur visa\")"
+    "q": "New Zealand (\"business investor visa\" OR \"entrepreneur visa\")",
+    "nhom": "dau-tu"
    },
    "student": {
     "name": "Du học NZ",
@@ -662,7 +705,8 @@
      "du học",
      "du học sinh"
     ],
-    "q": "New Zealand \"international students\" visa"
+    "q": "New Zealand \"international students\" visa",
+    "nhom": "khac"
    },
    "post-study": {
     "name": "Post-study Work · Ở lại làm việc",
@@ -671,7 +715,8 @@
      "post study work",
      "graduate work"
     ],
-    "q": "New Zealand \"post-study work\""
+    "q": "New Zealand \"post-study work\"",
+    "nhom": "tay-nghe"
    },
    "family": {
     "name": "Bảo lãnh gia đình · Parent Boost",
@@ -685,7 +730,8 @@
      "Parent Resident",
      "Parent Retirement"
     ],
-    "q": "New Zealand (\"Parent Boost\" OR \"parent visa\" OR \"partner visa\")"
+    "q": "New Zealand (\"Parent Boost\" OR \"parent visa\" OR \"partner visa\")",
+    "nhom": "khac"
    },
    "visitor": {
     "name": "Du lịch · NZeTA",
@@ -695,7 +741,8 @@
      "tourist visa",
      "du lịch New Zealand"
     ],
-    "q": ""
+    "q": "",
+    "nhom": "khac"
    },
    "residence": {
     "name": "Thường trú – Quốc tịch",
@@ -707,7 +754,8 @@
      "thường trú",
      "quốc tịch"
     ],
-    "q": "New Zealand (\"residence visa\" OR citizenship) immigration"
+    "q": "New Zealand (\"residence visa\" OR citizenship) immigration",
+    "nhom": "chung"
    }
   }
  },
@@ -846,5 +894,102 @@
    "easing",
    "widen*"
   ]
+ },
+ "AE": {
+  "name": "Dubai (UAE)",
+  "flag": "🇦🇪",
+  "country": [
+   "Dubai",
+   "UAE",
+   "Emirates",
+   "United Arab Emirates",
+   "Abu Dhabi",
+   "GDRFA",
+   "ICP",
+   "Emirati",
+   "Các Tiểu vương quốc Ả Rập"
+  ],
+  "visas": {
+   "golden-visa": {
+    "name": "Golden Visa · Đầu tư cư trú 10 năm",
+    "kw": [
+     "Golden Visa",
+     "golden residency",
+     "thị thực vàng",
+     "property investor visa",
+     "investor visa"
+    ],
+    "q": "",
+    "uu_tien": true,
+    "nhom": "dau-tu"
+   },
+   "green-visa": {
+    "name": "Green Visa · Tự bảo lãnh 5 năm",
+    "kw": [
+     "Green Visa",
+     "self-sponsored",
+     "freelance visa"
+    ],
+    "q": "",
+    "nhom": "chung"
+   },
+   "business": {
+    "name": "Doanh nghiệp · Free zone / Mainland",
+    "kw": [
+     "free zone",
+     "mainland company",
+     "company setup",
+     "business setup",
+     "corporate tax"
+    ],
+    "q": "",
+    "nhom": "dau-tu"
+   },
+   "residence": {
+    "name": "Cư trú · Emirates ID",
+    "kw": [
+     "residence visa",
+     "residency visa",
+     "Emirates ID",
+     "visa renewal",
+     "overstay"
+    ],
+    "q": "",
+    "nhom": "chung"
+   },
+   "retire-remote": {
+    "name": "Nghỉ hưu · Làm việc từ xa · Blue Visa",
+    "kw": [
+     "retirement visa",
+     "remote work visa",
+     "Blue Visa",
+     "Blue Residency",
+     "digital nomad"
+    ],
+    "q": "",
+    "nhom": "khac"
+   },
+   "visit": {
+    "name": "Du lịch · Thăm thân",
+    "kw": [
+     "visit visa",
+     "tourist visa",
+     "visa on arrival",
+     "transit visa"
+    ],
+    "q": "",
+    "nhom": "khac"
+   },
+   "family-student": {
+    "name": "Bảo lãnh gia đình · Du học",
+    "kw": [
+     "family sponsorship",
+     "family visa",
+     "student visa"
+    ],
+    "q": "",
+    "nhom": "khac"
+   }
+  }
  }
 }
