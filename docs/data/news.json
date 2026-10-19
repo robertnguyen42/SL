@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T17:57:30.517715+00:00",
+ "updated": "2026-10-19T18:34:26.305481+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "us-eb5",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 11
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -859,6 +859,29 @@
    "visas": [],
    "groups": [
     "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "ab1b83a7463a9fc9",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Offshore Drilling Rigs Market Size, Share | CAGR of 5.5% - Market.us",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50WW5WMjFDbC1jTXh2bUlSbXNlX2wwVWk1YjNLSE5jc2xvVkZrRXMzUmJ6MFZMMlNrQ3pVckhjbFhMRmR0T21iSEw4cUhyR2U5LXA2a0MtLVQtSERqTEZzbUxGQjRNb1FaV3Atbm1nbw?oc=5",
+   "summary": "",
+   "publisher": "Market.us",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-19T16:23:13+00:00",
+   "fetched": "2026-10-19T18:34:26.305481+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
    ],
    "lang": "en",
    "policy": false,
