@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T12:04:11.197001+00:00",
+ "updated": "2026-10-19T13:17:20.460898+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 27
+   "count": 31
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "eu-sheet-khac-3",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "nz-family",
@@ -683,7 +683,7 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-1",
@@ -719,10 +719,105 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 15
+   "count": 14
   }
  ],
  "items": [
+  {
+   "id": "e197a77c95ec91ef",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Latest Express Entry Draw #450 Invites 5,000 Candidates - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UajhKVUY2Q245VU5DamZ3VDMwaXJlTFBaaFNBZlh2LXR4cExuYlNOSks0OGVtanNZOUwyQ21oVTBRcHYtNktzc1ZON1F5NGNSWU00aXZPSTJRVmJvV01KNENXOGY?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-19T12:42:09+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "fe7304239e3e2c19",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "No LMIA, up to 100 points: Express Entry changes - Canadian HR Reporter",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSGxKSzhxZC1FTzVvOTRuNU1BdEZzY05aLUlWUTVLX1VVTTNRQnpBVjRZRHRpM3c3T2tkd1JQaTQ2c3pRQU15amowV3FrRjN6dWlGQkZJZV9fWXo4Ti1VcDQxSDdfQXFfQ1pnaVFMS3dtbFg3Z1czRTlQRVNzNVRMTHBWTlpVSE0wVzFOVWw4UEgyLVljMzN2bnJXYUxSSXdpSXplRW9ERndhaVlrRmdnQWRoV3h3YUhS?oc=5",
+   "summary": "",
+   "publisher": "Canadian HR Reporter",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-10-19T12:37:07+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [
+    "express-entry",
+    "work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "0e556407f0a51010",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Breeze Ship Design Secures Contract for Union Vega Offshore's PSV Series - The Maritime Executive",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMDlFdDBnaE1EVkRLTTc2VHJ1VDROUzRjTUt5ei1fVVhpb0g2WWRkTG9PazdZMVRGSF9POHVacFBLTTgyeG9yeXRNdFZHTXNJMkdGRWszbzEybFdKMjNCdEFrbTU1NGV3WmVrRmNSQ2tjSTUwMkxjdTJ6bWVPUHVMdFhraTBUNS1vS2FvUE5qYWZCdWo0YlJqdW9iQmlremRCcVJNNnFfbTQzeXExTDU5eUtHOA?oc=5",
+   "summary": "",
+   "publisher": "The Maritime Executive",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-19T12:22:24+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "f06333e3b5d6e7bb",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia lists occupations on priority list for permanent skilled visas - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0FrbkJFTUJOeTZlNjRsUXVLN296U19LUWM1R0tvYlJmS002YUphVFdmWjNWWERVUFREbDdYSmZCUHNudk5ZWUtKek8zaXN3OTBuYmxWcjZDYkRJNFNZVmxCOUhPNjRnR0ZOWnlrWW43SEpKLWtWdnhoX3BRcEdlbHV5RnI4Rl9pMU9ZWHFYWEczbGU1VUZZN2pCeVhSTllyVWFoZ1JYNDA?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-19T12:01:42+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "bfa0361e8dc7620c",
    "src_group": "tay-nghe",
@@ -748,6 +843,31 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "e2ee61e6db68e7fa",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "EU border delays hit 5 hours as ETIAS scam sites spread - IamExpat",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVg0eVJrTGtMS1c1Y1haTm51cDhKd093SzdfQ2p4UnpBS2p2b1U1RzllWEQ5NUNOQ0Y1YVExR2w2Y1NCeW12VXZuT3ctSDFYRDZ2Qy1POVpFTENlMks3Z0lpdzJRLVV3bnpwQ1p3TUxENzk5VWRSVXhqQTBxXzhvSWMzYnRvS0lxNXZkMnhqVHRRdGZHSVlGTEdnV1I3NjQ?oc=5",
+   "summary": "",
+   "publisher": "IamExpat",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-19T11:43:04+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "19941716d522d2ab",
@@ -933,6 +1053,27 @@
    "score": 2.5
   },
   {
+   "id": "f356c0d22d29774d",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia publishes 456 eligible occupations for new Core Skills visa pathway - https://streamlinefeed.co.ke/",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0ctajhNOVZIdWxmSngtSXlIcVI3TUwtYjl4N1Q2amdOUWMtUGN5YS1aQVBGQ0JHcHp0M0trQmVOUWhTakZ3dVM4SG5oWlhwdlZLZ2t5U0psa3ZMYmlRbFdEbXQtVW9qTE1YMFVnZHN1TUJtT2pULV8yUHJCd0hIRXN4VGhWNW9fSzBFbDVrU0VBR29jc2ZZQmg2XzVOdU1IRTZENUhtNHlBMzg?oc=5",
+   "summary": "",
+   "publisher": "https://streamlinefeed.co.ke/",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-19T07:21:38+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "c9d3bd5a1b0689f6",
    "title": "Sobirovs Law Firm Launches New Website for Canadian Business Immigration - The National Law Review",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlhVUndYOFRxV2Mya2ZkMnVsT2Y5Y3RuazRlN002SVJiSzdWVnNxVUc5dy1uOW1tV3hJNmloNFE3enMzbzMySU5TMUdqRDU2b0N1b2g0NXF3ajRJRjhkNFlPV3p1cC1VM2RhZEZMTm5DdGpRbHhNWlhCOEh5aVBNY2J5T2Y0V3hWWHpEb2Rhc2cxMWIzXzF3VEpQUWhCd1B0Z0c1ZHUtTHZPTVJQ?oc=5",
@@ -1040,6 +1181,27 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "3fca9c6b4c24e2a8",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Doctors, nurses, teachers: Australia’s 456-job visa list spans key sectors - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjAzZXNaQTgyaGRpREtfUWQ4NTFoalZqenhEOHlWV1NRNDV4WDFscmNiSFJWVkhkZFNEcF9ZNFVId25sSXd4d0dqREtvdUVpMGM0SWZWUlUtZmdiTW1TNUNHZFI4aDNyRDMyX1VYbHZ2aXIyZENRVWpXTlZ4YjFnUnRET3NGVDJDSWlDYXc0dkNnM3N0UzEteDkya01PdVZKZEtlXzBfQzhfam8?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-19T05:30:19+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d0e50755ed852965",
@@ -1242,6 +1404,27 @@
    "groups": []
   },
   {
+   "id": "7f5ac833df65df1f",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Why has Ross Gittins sold-out to the immigration lobby? - MacroBusiness",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbW1vUkczXzVZY3lwaThyazJENzlKSzFGb211Z3BWcDhXeFc4bENSQUIyX3B4dlk5WWV3aHBjcWI0cU94X3VBY3A1cFBieF95a3phU3Rwb0J2V2tWcmk2SWVfQ0p1RnBERURaY1ZQdVZ4ellRTkNhWHNfdUVMTGxRNnJXQ2pNTHBRbDBISmNwdVVmZ0V6eWlBUGxGcks?oc=5",
+   "summary": "",
+   "publisher": "MacroBusiness",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-19T00:03:26+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "3d0fa1edf7cb4417",
    "src_group": "chung",
    "src_country": "AU",
@@ -1332,6 +1515,31 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "8ae37fb4fbc92fd3",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Express Entry points: 3 critical changes for applicants - NRI Affairs",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HMGpOQVFKTFBoaGtrT0pvSXdnMVFEb3VhajdhdzFyUEZld2UyaEgtdGdqSU5vR3RzNW1VRDhUb0M5eW5PVE5EcHJNRG5DdHdjdXV4MUdYeTEyZEhXVlpqUDhTOEpsSWt4TXh5bV9FOENndkU?oc=5",
+   "summary": "",
+   "publisher": "NRI Affairs",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-18T15:41:10+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "e23d642c2dac93ed",
@@ -1821,6 +2029,27 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "5b3b549f57644e69",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "The SMH builds its own immigration budget lies - MacroBusiness",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUh1SzlKakhsSjVEc0gyb25JT3N2REZVdjZ4QUVabjJ6eVhMVi1CVmNkZVpyQVFfUDdRaXVxaUNZcndvZDhTRWJEeEFyMFpKNDl6ODl4YzA5NnNGam5RSDRuR2tPR2ZvRHo2RjdrRk1XYmREZEFENUhNSl9GZl95WjNsZ2s4TUZDTGlReUd4eFExUQ?oc=5",
+   "summary": "",
+   "publisher": "MacroBusiness",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-18T02:01:03+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "9da0a23813bb4242",
@@ -2468,6 +2697,27 @@
    "groups": [
     "dau-tu"
    ]
+  },
+  {
+   "id": "c67f374f7dad3235",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia Publishes Full List of 456 Occupations that Qualify for Core Skills Visa - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSzFxMzhyQWtiU1luTHBzWVRTaFhaY0lKWGZkQmVodDBYSjBGNW9BcWsxNlhxOVFWQUxpcWtpNFpZNEMzNG5tSmFYU0JQY2RkbDk5YkozX3FOLXZlZkNJYy1TSlF0WmRfaDA1bENxZGJocmVvOGJnR3Zaa0lGZTdrYWVpUkROQlFOLWlxMno5bEtMRTQtM213Tlo5NU9NaHY2b0NrdlVDa3c4aWc?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-17T08:38:49+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "65cd2c5879b268f3",
@@ -7650,6 +7900,29 @@
    ]
   },
   {
+   "id": "c9175cbfae912c58",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Northland’s Hai Long Offshore Wind Project Reaches Major Milestone: All 73 Turbines Installed and Generating Power - Northland Power Inc.",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcEFPRUpWOXdXZEhQX0laX3ZXbUpSd2x1N093aUdua0hWelVVWmtXdG42d1ZVSEx3T1VZbDc1M2IxdFhnOURsRnBaNGtuM0taemswemE3dzVNTDFISVQ5eThKbVU1Q2NDOWgxc19KakRTa1BYMkpMZWUzYmhqWHJtMVVpSWhOSlpMMWlMLTctVk96ZEFlUXJHdE56VnN5NG55UDRMenpXcDZZYW9ETHdXVW1XbUpsWFNqTmtuNzF0VFZ3eW9YZVJzRXoxT0h5STU4Y252RU9qVQ?oc=5",
+   "summary": "",
+   "publisher": "Northland Power Inc.",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-15T10:51:46+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "7d02ac5cb2e54291",
    "src_group": "khac",
    "src_country": "AE",
@@ -8574,6 +8847,29 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "ebb7cc2358a485ff",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "New Brunswick eases AIP occupation restrictions - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0VMLWQ1dHlfM0xMbjRNQUNqcGRNV0p2WUItUWFGaHNJbEdUTXhoWXU3c0RpWWIzYk84ZEFLM25Td0QwNW50SE9nWmpmRjBCczRBck84RlFfZ1M1aHZuYzY1NEdpNDBuSVl2RGJFdkdDc2JLczQ0S1lhUWlfTU5iLXVIYktjakszWTFFWHUxZ2ZNTmZWSVR5VGRleFQ3azA?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-15T02:21:38+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "51b6142f7f4bcee4",
@@ -13622,6 +13918,29 @@
    ]
   },
   {
+   "id": "afd5b56dc9b0413f",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Superior Resources Sets Date for 2026 AGM and Director Nomination Deadline - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVkNmNUJVQ0pjWVVpa1Y3N3k5alNlUFl5VWZDR3NDLWp0WjAxV3ViOVRMcDZMYW13eGd5a0RlMFZSVjhvbHg0ckxZMk1SWXVVRWhuazJJMjZ2R0ZIeE1xU0ZOV0JSREFwUzJOZWtOSTlWeklMZnhXOHVOY09JbGhkbkkybEEyQlVtR2VfczBlN1NWcFU5WXZiZVpsUTZLSWJmY2ZSQlNsV0hMcUl5TUNPd2JvaDlxck9TaTZLN3Fab2tyWk4tT0dtYlhiR1NPSGs2TS02YlhTcHd3d2pmVGRSVndib0RyUk1RZ1lV?oc=5",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-3",
+   "published": "2026-10-13T08:10:00+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "2ff1e3b7c2dc7708",
    "title": "Canada explains what foreigners cannot do with an eTA or visitor visa - Yen News",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmNIaThPbWRrcUdaUXMxY2RuQktzSzhlS3ZVMFpMZ2pQZEszcXNxbnNZTHdXYktMNkZQTXNIeC1MZk5ESEFkYVJMbElZSmFScmxVTzJvTmdTNlR4RlVRemhtbGd5RVZ2SXNPbTVHQUowMXB5Qk0wVXJXRE9DOEhsdlBzX21YS1VraUFtQkxrbw?oc=5",
@@ -14889,6 +15208,27 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "59e4035816026e24",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Immigration debate: 2026 critical rights checks for Indians - NRI Affairs",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjNWI5bnNMaUh1OTJ6Um1TVlV0Y1p0MHFWQzB3eG1rRVhmZl82RFN6MmN4LU55X3dtQS1jTVk5a2dPbE9LLVc3a0MyMlNBU3ZIU2tDa1k3Y252YjRWRUNGRTRpbEdjT2pha0ZXTlRJdU9GeTNFV3VBUDVxcF96UQ?oc=5",
+   "summary": "",
+   "publisher": "NRI Affairs",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-12T16:43:29+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "4c90c54539660f02",
@@ -47109,6 +47449,32 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "33514596b42904e0",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Newfoundland and Labrador PNP Draw Issues 62 Invitations - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGJVRkRnV1hhUTQ0X3dac29Ka2IyRktaVjhPeURzOU5aU212RmFBWjV5OG5ZdXdKOGFqclU1WTRhVndXM1BWY2x4aWt5azBsazYxUVFtcjFwdTBnT0FSRUdZY25wOTJpcV84bDNONWhSLTB4RkpUQzQ3U1VPN1hLYXI1S3puR2tB?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-25T10:23:47+00:00",
+   "fetched": "2026-10-19T13:17:20.460898+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "621776e52b797136",
