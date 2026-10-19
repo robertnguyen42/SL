@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:34:26.305481+00:00",
+ "updated": "2026-10-19T19:29:44.385253+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 21
+   "count": 19
   },
   {
    "id": "us-eb5",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 36
+   "count": 34
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "eu-sheet-khac-3",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -677,13 +677,13 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-1",
@@ -724,6 +724,100 @@
  ],
  "items": [
   {
+   "id": "6cc8566b44cfce73",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS Leaders Carry the Voice of Asylum Officers to Leadership Summit - AFGE",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdEJhTTl4bFgzS1pobFdncmxrY3AzZVJoZmJjSkc0bW5JdU1iNjZDOUd2MDk4QWxtaTE3TUlHR2k4UWdFMjVFZ2ZHbGxyVEUyX1ZXMGFSVVludl81WFVmdXhNdkVzQS1nU1MxNUNVdW5YNWdSUTVadnYxTklieWdIZm53VXg0aG5ueUZqNlY4bzRfQTZqemMybFQ4aF9sSGp0?oc=5",
+   "summary": "",
+   "publisher": "AFGE",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-19T19:25:55+00:00",
+   "fetched": "2026-10-19T19:29:44.385253+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "730df4c1a4725f76",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Student visa refusals surge in New Zealand - Times Higher Education",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFZTbG5BVjZYQnNOS2tDTnktblZXQ0tUdVZoeFJESnV4ZFg0V3VEdVBySXlnUkI4ajVZR0xuSjhjLW5SaXlIVGJwWTBEcWdlc0NTcWNqZzhENXZydGxOaG5EZjM0cC1rdnBnU2pMMHE5OVF2dEVhWTY4RjUwQy1QbjZUcFBLckd0?oc=5",
+   "summary": "",
+   "publisher": "Times Higher Education",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-19T19:10:49+00:00",
+   "fetched": "2026-10-19T19:29:44.385253+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "bd16bee744b98f7d",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "DoJ charges 28 green card holders in California over alleged voter fraud - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHk0ak02bEpVa1loOUs0eU14dXVmSngyZlM4UEJZYTFTT2NyekR4NzEyQlBEZFZ6aTF6cmNPT0lIRDJtOEotNnFYMTdPNVFYOFRReUlZTzJoUHZEZ0RYMGJIT3pCQXpRNUdQVEFGSEdaZWk0aHNrblVIWFdidkk2YWZWd0ZvVnhIOW9Zd0dB?oc=5",
+   "summary": "",
+   "publisher": "The Guardian",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-19T18:54:00+00:00",
+   "fetched": "2026-10-19T19:29:44.385253+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "1bea58b0308c7142",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Aged care providers warn migration cuts could worsen staff shortage - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlMxT3RaX0dDaG1fbHVXRHNmRXhNRW95RjZGVWdxMjREbXJFSHhRV1psMnk1dGhOdnE1ODdUMHBrZnlEWW16cVdQSjdRalA1SDgwM2dYRmUtT1YwWHBlbFc2ZkMyNFJsaXY3UWk0YnF1VDdJczhCNGFHN2FwZzF2aURISGd2RWI0SUVyWWI0SmRtd1VG?oc=5",
+   "summary": "",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-19T18:00:00+00:00",
+   "fetched": "2026-10-19T19:29:44.385253+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "88e39368e8900f82",
    "src_group": null,
    "src_country": "US",
@@ -747,6 +841,31 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "f0a464c638d1d4a3",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "The Next Wave of Digital Borders: What EES, ETIAS and the New Travel-Authorization Era Mean for Global Workforces - Newland Chase",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53TUlWWWJvZ05SVUlZR0ZlYktyNTdtMVdVWk1hd21ZQXd1Vm9Ed1hKUnFtQWVFM2RCeFcycXl5S2ZCTUpybUxlZFhIeDI3azdpM3JyWjFhM2t3c1o3Mm50cHQ4Wkd4azBiYmpQNHowUHE?oc=5",
+   "summary": "",
+   "publisher": "Newland Chase",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-19T17:35:53+00:00",
+   "fetched": "2026-10-19T19:29:44.385253+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "0283b4d434f8906f",
@@ -16470,6 +16589,31 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "05bc0f9fd737a30b",
+   "src_group": null,
+   "src_country": "US",
+   "title": "UC Berkeley to oppose 70K ICE fee on international student OPT work authorizations - Daily Cal",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeTZENWYwV2FqLUVCNUtHSTFEVnZzVmt5LWllbVQzLThUbHhBMkZjQ1VWdGp2OEJ2akJ3eXAtNXRWZkVkTkVidzdSMzlhc0pyWmtpWE5sdnh2UGk4Z2psVGRoWUR5NHptT1ZBZjBadDItNHh1RlBDazNSZlltQXRwOUE2bGFjdGN2TTZtNE9MYTlUWXFfZWxXVUZvZ0lyNUVzV2pZZDE2aUo5aXFDUXlGcGZjQm9FMXNmQm1zSmQxNkFJS09HS0NsVVJuTmFEaVNKaDY4TllIZVBja3ZoYVJtSVE2UDVSOTdoODNJUG5Ea0xrX1ZpTWhZMFZNb19EeWJ4Sjh1YUtLT1ZneU9pNDFhZ1dn?oc=5",
+   "summary": "",
+   "publisher": "Daily Cal",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-12T13:45:00+00:00",
+   "fetched": "2026-10-19T19:29:44.385253+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "48c38bf639443b12",
@@ -51547,6 +51691,32 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "d00a230171d969f5",
+   "src_group": null,
+   "src_country": "US",
+   "title": "States Challenge Public Charge Rule for Green Card Applicants - International Legal and Business Services Group",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSW9HMGtkUjQ5QzFmcWRZS1pveGdneWdpREpJZzBaSEFHZFVleUszMVBGd0xxR185dVRvLTVWZmFfRDJrejBId0lTNUFfeXA2OTYyZUVWblBObkJJRlB1bUpFWFAtWm16TnRiTkxmaE1pRUs2bkl6ei1DVU5QNmdMWDBaYTg2RUsyOGJYQlFYSDBEOVJOTkRxTi1vb1A2cGdiQVhGZg?oc=5",
+   "summary": "",
+   "publisher": "International Legal and Business Services Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-19T19:29:44.385253+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "ee85257063a900ba",
