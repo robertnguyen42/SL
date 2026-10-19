@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T08:02:21.229367+00:00",
+ "updated": "2026-10-19T08:12:59.029636+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "us-eb5",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 28
   },
   {
    "id": "us-visitor",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "eu-student",
@@ -623,13 +623,13 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 10
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "nz-investor",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -723,6 +723,29 @@
   }
  ],
  "items": [
+  {
+   "id": "57178fca72c0c398",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "CBI Index 2026: St. Kitts and Nevis, Dominica top global citizenship rankings - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYmozdHVUU1dyZ2ZNZGQyeHNRQ194VkpvSVA2b3BaSmRTYWxvLThMSk5ldUJNZUpod0dzeGZNcDExVklWaE5yVk9hTF9SRlVVOWtHWVhKOFYxVlBvdi1GMzQyNjJWYl81cE1IVXljQzRiS1lHbml0a2xjRjNXZkpjZjl3bXM1WVk3UVJPVlZtaF9DOFJ0LVRwT1ZMZ203VFdtQXZaUVoyZUpieUR2cFBuSlM0ZGlhUDZLUndSYWdGTnJCVFdROUk3Wg?oc=5",
+   "summary": "",
+   "publisher": "Gulf News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-2",
+   "published": "2026-10-19T07:49:32+00:00",
+   "fetched": "2026-10-19T08:12:59.029636+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "c9d3bd5a1b0689f6",
    "title": "Sobirovs Law Firm Launches New Website for Canadian Business Immigration - The National Law Review",
@@ -1940,6 +1963,27 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "4e9ebe8c4f234327",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Feds: Hoboken man, 42, admits to illegally obtaining U.S. citizenship & passport - Hudson County View",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnBrcmt4NkV4SzByT2E2YmMteEdnaHM3MGNVck5vQnhUNEdGekxhc2M4akt2YWlWRy13U2FINGpNcWlrTjBCQnpvOVNmcnoxZGJjNi0ySmRoOURvblR1WkZodjBNUXVjbWRaODdWNWw5cktkLV94cmVZc2dHLXN5a0dsRFB4OGVJS0JkTFF1d2JWTlExMXF2QjMzLUNXclNHeVIzNFRWbw?oc=5",
+   "summary": "",
+   "publisher": "Hudson County View",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-17T11:26:41+00:00",
+   "fetched": "2026-10-19T08:12:59.029636+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d97e31f68fb6a168",
@@ -3371,6 +3415,29 @@
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "3493e40b4c1f21d8",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "The Central Bank of the Russian Federation set the official euro exchange rate at 93.7187 rubles on October 17. - AKM.RU",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTWVqd0c0TU4ycTV5SWQwSGt4YUVwbElvR3kyUExEcXhXY2JGRTNGbEE1WFp5d3RGSDg4YWVDLWVYSnNwWl9ORlZIQWNtckxyUUI1RHlRaHNxLXJTQzdNaVBVT3F6aktWdHRMU3pCWTJmWWNGaEE3SkZoZm44RjNpM1BpTkdsZXpMU2o3UThFbEtXRW9raFBFQ0k3b1pnQ2dSWGRXT1JlQzJGM3BDMGN5V1dCR05BYzI5dVJnY0xrMWxsc0NhZUVwSw?oc=5",
+   "summary": "",
+   "publisher": "AKM.RU",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-1",
+   "published": "2026-10-16T16:37:14+00:00",
+   "fetched": "2026-10-19T08:12:59.029636+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -4986,6 +5053,31 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "be2eda1cc1bbcceb",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Commentary: Tom Purcell: Can you pass the citizenship test? - Jacksonville Journal-Courier",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDJJcmEtcVFqREpYeVNzVkR3SjA2a0FYVU5sYmhIdnlRTnZYcmhLVUwzakZCMWpHbHZubGxjWWxZYWRhVHl0aG1NRm5QdVlRR1lZUUJqWXZKYlRHd2QwN2JVOG9GOGUzcG5scEQ1MVBZUFoySXpEczQtV2k2RlAtVkRJMWR2SW1rdXM4c2luQ0NKOVktdDZFOUlDOXh4WTln?oc=5",
+   "summary": "",
+   "publisher": "Jacksonville Journal-Courier",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-16T05:35:41+00:00",
+   "fetched": "2026-10-19T08:12:59.029636+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "7cf39c8a75a85f22",
@@ -10990,6 +11082,31 @@
    "groups": []
   },
   {
+   "id": "583faa36eedf5cfb",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Establishment Labs Holdings Inc (ESTA) Shares Fall 5.2% -- What GF Score of 76 Tells Investors - GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTGNhN2dHWHRNVk4xQ3dJTkJIOEw2djMxeHhpeHJYVVdHeEtXVG5ieGtwd2tNZW40TUM3amh6d2VIMFVIODJaNFhKSFNqel9xQkplQW93SFpQMHFKWTN2RGFOZFQyM19GMzBZMjM2UERGTUNxLXRIdVdjVkdjanNzSEZlWU13SEx2dEZTUXVQWWhDT2JEb1NkU1VfX3hzWExvQVJxVXp2MU5nam5tVEVnZlVwMGowNGx0Vi1CdThPek1Na0lt?oc=5",
+   "summary": "",
+   "publisher": "GuruFocus",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-13T23:02:18+00:00",
+   "fetched": "2026-10-19T08:12:59.029636+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "346944f7581843e3",
    "title": "Tom Elliott’s big question about the immigration debate - 3AW",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3dlaVN6SmR3LWtBenZxUXJXSm5kT2IwVGI3dGs0dUlOVzhyNTJsMEpHbHZZSnJzekhTMVI4eEVmMnl4R1RSaDlFaXZPVHU5N2tRUUVCRnhGWlAxczkxRWlBZkFsSkZBNXkxeVVONVhVZ2czbl9wWkRESm5rODU5X0E1RXo?oc=5",
@@ -13191,6 +13308,27 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "0dd0bea3a8d88f00",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "The Motivations Behind American Retirement Migration - Get Golden Visa",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FQTBySjlzSnJBRnBkZUl0bGxXc2pTSVFDMWZtUFhPbHZIZWpVZzU4OV8xYk4ybHdhdTcxU3dhYW40QUxqYUoxUURsYm5BUFU4MDZWdURlWlV5WWtQeFE1VXpCV1lUamlGcUlObjFOTWJCM1ZLNUNEVTI3N1FuUmc?oc=5",
+   "summary": "",
+   "publisher": "Get Golden Visa",
+   "country": "US",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-13T07:00:00+00:00",
+   "fetched": "2026-10-19T08:12:59.029636+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "252a52bf647d550d",
