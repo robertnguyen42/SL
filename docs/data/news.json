@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T19:29:44.385253+00:00",
+ "updated": "2026-10-19T20:07:16.677455+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -190,8 +190,8 @@
   {
    "id": "ca-gov",
    "name": "IRCC – News releases",
-   "ok": true,
-   "count": 30
+   "ok": false,
+   "error": "The read operation timed out"
   },
   {
    "id": "ca-vi",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 19
+   "count": 15
   },
   {
    "id": "us-eb5",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -723,6 +723,27 @@
   }
  ],
  "items": [
+  {
+   "id": "8baf164f453faabe",
+   "src_group": null,
+   "src_country": "US",
+   "title": "'Why have you traveled to China': Indian family with an infant denied US visa for a vacation - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRThJVUVfb2ZiUURuY3hfY29jSWZGbFhvNnFza0JPRVN6WmxlRkZXdDFzSFRZQjF2Mzl4ZUQxUzFCOTlTMkpBb252WXNhcEVxajgzNlNiNC11b2VJcmw5cGQxLTROMEEycmxJZnBxNjVlWFNHTXdNSERCT2lJWG1oWTdvRHVheXhiaFl2enoyRlhGZERMQjd3M3liUkpLOW1yVjdxaWNiUFQ2Yk81a0JkQS1MdWViYzltd3hvaG1UZHgxTkpuX1M5Q19UcndQcllTdHozd2FkbzJaSXVLdVFkN0F1REttYWxva0hmUTI5eDNmZ9IB9wFBVV95cUxPb1JHelVRVHVsM0JVdS1lWUtzcmtMVzNRdFdsZjJtMUNEMjVVRDJicEJIMU1Sei1Vck5IZWhFUm0xcS1teEtNN1pvSEFGTXVZT09EV3NNVVJ3WldZYW9JeGU5MGdPeGNvcWVjM3pBbWxUb1hGejFKMGNvc3VwOVJsRVpVRWxLWWxNcU5OcllSSDZkdEtBa1d2QVRpcnlfdzBsTGRMdFlzb1o3UXg1bWMxbFRON2RSWTdzRHlYT0tFYWlrRWlWaUtCdWxtWGhLZGRxbFYzSHVQNnR6LWxrdjRvc2h0NFVKYjB3RDJqSTNLMm1aV1A0U1pB?oc=5",
+   "summary": "",
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-19T19:44:00+00:00",
+   "fetched": "2026-10-19T20:07:16.677455+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "6cc8566b44cfce73",
    "src_group": null,
@@ -770,6 +791,31 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "eada104b961198c3",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Federal prosecutors accuse 28 green card holders of illegally registering or voting - CalMatters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaV96Z0hpUEJtcHlIZDJOb0FVQU12YkdPcUxYQ193dG1iWENPUmJGTkJBMGxYSUxwRHk3U1VEbjVUUlgzclJSZVpZbHRSZERxZDRLMWplaXVJMDItMGFOUDYzNGNzVEJrNTZoaHJ6N1hzWGNEZ3I3VEZJaEpKSUsycGw2QlFhZw?oc=5",
+   "summary": "",
+   "publisher": "CalMatters",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-19T19:02:44+00:00",
+   "fetched": "2026-10-19T20:07:16.677455+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "bd16bee744b98f7d",
@@ -5965,6 +6011,31 @@
    "visas": [],
    "groups": [
     "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "00afa8fa9f8b6860",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada Invites International Students to Study, Offers Job Opportunities - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSUpDS1lkWlg5cTBhNHg5SVZvRm1NYTA3U3NrMXg4TU1JcXl2VG9yX3V6aGVaUmVQQ2JxclByQl9ETWZ4UkxTTXg1NTdJWGxTUWlKWk9sSjRPYjdPTGxZc3NRZ2pIeG5ZN0JhZV92VmxZNU9VenNfbkRvVTIzNVpmX1VETi1ua1VobFUxMHNLdzFYN1Nzanp1dDRiZV9WeUFMTGUxM2hQZU8wT21WY0hGc3U3TVpGcGVnRTRkb19HaThKUQ?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-16T10:32:42+00:00",
+   "fetched": "2026-10-19T20:07:16.677455+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
    ],
    "lang": "en",
    "policy": false,
