@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T00:30:44.703931+00:00",
+ "updated": "2026-10-19T01:31:51.604427+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -298,7 +298,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "ca-express-entry",
@@ -4754,6 +4754,26 @@
    "score": 1.5
   },
   {
+   "id": "9c135dc85470e7d9",
+   "title": "Student visa refusals surge amid fraud concerns - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWUFfN3BjdEg4TTlUQkR1Z3JzTW1qWDdsVm1iTTBMUGdZQ3FLZllOU2V5Wmc1Q3VVR2JsUEJpSC12eUdCaWhxSmRqLW03aFk5UzNscllSTkRTakJMZl9yLWRVNm9ya3JQNlF5NnRqcnlCX19zeGpJeUQ0TjBPbnlJSy02eWQzLVRiRUpjX2RqeVdiU3BLa08xbGxGcjF6ZlZfczJOaFcwbGJOR05hQkhHVnNKS2c0eGdudTktcg?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-14T19:03:00+00:00",
+   "fetched": "2026-10-19T01:31:51.604427+00:00",
+   "visas": [
+    "student"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "5f673eee5e9d37a0",
    "title": "Australia has 3 competing migration policies. The problem? None are based in evidence - The Conversation",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUXc3aTcxTkhsQXZRcmJkM0wxZUpPaHhWTm1lWE1mSUpCVEE3SHlyNElmMDQ3WEt4clVHQjZ2SE9pSlB3UlpPbkRoV0pZTVJjTVUyN3VjUGhzRkUwVFpQMGdDZWlzbHVtZFd3Uk1mMDhlYnQzTV9hc1JYVmdJVzd0a0RyX0t2RVZxTWJxdGFrbHFJMjUzMkdka012VHdRLUNqTnRVNzZjLWk2eUJScy11SVY3NXpmVHVOWHc?oc=5",
@@ -8974,6 +8994,24 @@
    "source": "eu-family",
    "published": "2026-10-12T04:05:10+00:00",
    "fetched": "2026-10-12T04:17:38.600890+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "f4294b7c77293980",
+   "title": "Three years stranded in Cook Islands as transit visas still out of reach - Pacific Media Network",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDlDYkpuZXd5WmNiSlBfZWE3NUl4eXE4Vk1vQkN6cTJMcFJlbXFKQ0Exc0Y3Q1A4LWYwaHlaZU1YcVBZbU15NWNjMnZJNE9udDJwdTRMbFB4MkN4WmdzNTFTR1NTazh6cjMxRWhvcFZTUXlzbEZfc1hqNjQ5UUlwYU9abVR5dFlpTUUzSzhoSGszVlZTT0pMMXNkeFljaks4cVRGRUxIMjc0MjVV?oc=5",
+   "summary": "",
+   "publisher": "Pacific Media Network",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-12T03:51:58+00:00",
+   "fetched": "2026-10-19T01:31:51.604427+00:00",
    "visas": [],
    "lang": "en",
    "policy": false,
