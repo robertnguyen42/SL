@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T17:03:19.646950+00:00",
+ "updated": "2026-10-19T17:57:30.517715+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 18
+   "count": 20
   },
   {
    "id": "us-eb5",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "eu-schengen",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 30
+   "count": 32
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -719,10 +719,109 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 14
   }
  ],
  "items": [
+  {
+   "id": "88e39368e8900f82",
+   "src_group": null,
+   "src_country": "US",
+   "title": "October 2026 Visa Bulletin Released - JD Supra",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHZ0aTNVN0cwQ1duU3hHR0tvSGlKS094R1BNTUc5N0Ewb01jNnV4MVRGVDVzdUVBWXJGeGlHcWNRZnRldGR6cTJsLUpJalpQY2tTQkFRLXg0MTBQQUxTMmhOQ2JxWjFuaWItQXdNMHNQTXF0cWZFSi1xY2dpZlA5RnpSZE0?oc=5",
+   "summary": "",
+   "publisher": "JD Supra",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-19T17:41:20+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [
+    "visa-bulletin"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "0283b4d434f8906f",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Feds arrest more than two dozen green card holders in California for allegedly voting, weeks before the midterms - Fortune",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc0Fud0V0cWxXOTROb2JWOWtXZTl1Z3pGRzhPWmpuckhITV9WNk1FRzBkTXJxTnZYN1BFNTdqV09CdmgtY3U5Qnl4MkRUUldwQWdOUW5FSy1FNnJJTnpXdUljaHZVTFUwRU1hSjFTMDRBbGUwbXE3cWN6U2FxUnZzXzBPQlhqR1UxSkw5UFhzQjQ?oc=5",
+   "summary": "",
+   "publisher": "Fortune",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-19T17:15:00+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "370b03675c034a39",
+   "src_group": "khac",
+   "src_country": "AU",
+   "title": "PHL included in Australia’s 10-year multiple-entry visa program - BusinessMirror",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEE2MVZQUFV0dG1VMkxUb0FZTk1uSUtoMTEtYWlRVDNncWJ6d29EbFg1TWZ4LXd5dDNjOGlleDM1ZWozbGI1RUtiamRIQ0syMTBGbEtoVFdBcWtkeThIU29OWnh3VVVWM2hSQzlFTXFPMER0c3M1b1VnSGRlMldDcEhEVXVmSFVnd1YtTnB5TEs0SUluTVdSenpvYU5mVm5WVUR3dWpHVQ?oc=5",
+   "summary": "",
+   "publisher": "BusinessMirror",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-khac-1",
+   "published": "2026-10-19T17:01:12+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "7f612ca5965a4966",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada Issues New Express Entry Instructions For Job Offers Without LMIAs - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmcyc0pnWWs3ZnZLbUN6M215aV9zbHNUZHNXNi1NWFlrVExKY0dORzhyaDU5N1ZQbjVHai1JcVdfZnNRSVhzRm1IODBveHRjVmZGcGk0NG12QTBrdjRQN1IyOUVfU2J4UFdGMzlMRHI3STRHRlI3cWlZbWs3WWwtRlVoT1FyTEcxd1JsWTE4UjNkeVhwN1NmNXVfNGQzQQ?oc=5",
+   "summary": "",
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-19T16:50:09+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [
+    "express-entry",
+    "work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "7ff4195983fef652",
    "src_group": null,
@@ -743,6 +842,52 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "22a9f19dc4b2d638",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "The Central Bank of the Russian Federation set the official euro exchange rate at 93.2316 rubles on October 20. - AKM.RU",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMDNQaXMzMUFMM3F5amoyU2M3UE9EVWVVbEpSMk4tZnJ6TFl5cFVuQUhNX3dtU0tXaGFzNkRlbTh0bmVaSGJZdmZIbmRhYndnVXZsVEtTVWNYNjR1UFlBbmRObEJSN21BTWV5MEVHa3VtX1l1TmhBUjE1ZjhRdkM2XzBacFBpNFBBSmp0WUJyM3I1aEFvWDcybW90cUY0STRSdm9faE1uYzVLazNDVzNNa3lYU29VdkZvV0Q1LThFbjhOQnNEOFNlcA?oc=5",
+   "summary": "",
+   "publisher": "AKM.RU",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-1",
+   "published": "2026-10-19T16:30:35+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b57870ad259badca",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Agencies flouting China travel ban, sources say - Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlWGNBYVA4LUFLcU5pclBiLWw0YVZFd2RSaWN0YzBVaGM5amhyV0NjVnpVVEhPVHJuM01xRThmWGFKb190THI0elVrTTZseHFpd2NQUG5pbFlldERjRVZrTHhibGV6b0xMVEZnOXRYY1h4bnd0ZmZCbnpn?oc=5",
+   "summary": "",
+   "publisher": "Taipei Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-19T16:00:00+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "f238ed17adf32cfa",
@@ -1036,6 +1181,27 @@
    "score": 1.5
   },
   {
+   "id": "9af4fc97eef69fcb",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Immigration Cuts - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9obnB3ZF92N1FfNGpZaGVxeGVLVlEzU04zUm1iWGhoUDJDSDl3V1QyTEVIUHl6SUxsNVNkTDRIbE9QVjJqSzVJWS1fcXQwNi02eFpRY3RMSTFDdkdWSGMzenhHc2dBNWVMRTNVOUh6Qjg?oc=5",
+   "summary": "",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-19T13:30:00+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "e197a77c95ec91ef",
    "src_group": null,
    "src_country": "CA",
@@ -1241,6 +1407,29 @@
    "fetched": "2026-10-19T14:12:43.110354+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "84ada1cde30df54c",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Greenpeace activists invade Woodside offshore platform in Australia, halting operations - Baird Maritime",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT0RVSk5OcUZhXy1oSDJtREhialpYR1VOb3dVbHBTWG5LVWxYa0hwN0wwbUxGanBvN2FFSTNIM24tMFFGSFRhRW44UHlTdDFwNGpqczFaSkJsa3dNSTFZWkRXNktEb1l1elI2LUhsZnpHOEQ3M1pGdDRXWVZjZjFaRmpDRWI4Q1pkSXJfUUpra19nZVpIVHhUNWZQY3FiTU9Kd1FnTXZ1dmZQaXVFd3FIWFViVjNvQldGTWR2a3k0cG1walEwTUZwSlp5S0dxREpvQk00TkhoTFRrelRRdXdvY1pjZHhLWDhObFJiZ1hIY9IB7wFBVV95cUxQT0RVSk5OcUZhXy1oSDJtREhialpYR1VOb3dVbHBTWG5LVWxYa0hwN0wwbUxGanBvN2FFSTNIM24tMFFGSFRhRW44UHlTdDFwNGpqczFaSkJsa3dNSTFZWkRXNktEb1l1elI2LUhsZnpHOEQ3M1pGdDRXWVZjZjFaRmpDRWI4Q1pkSXJfUUpra19nZVpIVHhUNWZQY3FiTU9Kd1FnTXZ1dmZQaXVFd3FIWFViVjNvQldGTWR2a3k0cG1walEwTUZwSlp5S0dxREpvQk00TkhoTFRrelRRdXdvY1pjZHhLWDhObFJiZ1hIYw?oc=5",
+   "summary": "",
+   "publisher": "Baird Maritime",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-19T10:59:28+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": true,
    "direction": "siet",
@@ -1800,6 +1989,31 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "b91706400add146c",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Mặt trái của thị trường du học - VTVgo",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9wZDNaNGhIUmNjbXplU1hSZHE0VUpYdWV5TGI2Y0pqYXZiaUl3VFRqZFdZMXJuYl9EUFg1Nzh3NVk?oc=5",
+   "summary": "",
+   "publisher": "VTVgo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-10-19T00:00:00+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "3d0fa1edf7cb4417",
@@ -4265,6 +4479,29 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "80f524a495e4ed1e",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Stranded Offshore Gas Could Power Floating AI Data Centers - Hart Energy",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY25aOWNSdHZqcnRmZUZOOGJteFVIUW44UXJBTzRRRzlZRXAyUS1LUkZtMng2SzBYVWxKak1qSWhJakRNRHc3aF9TSFRmY0VCVWhxZVR0aWZnR3Y1M05WRHpiV01TOFlGcm5kMG1VeldGczlkNVpETGQwYWRFZTR2OEhEeENXNGJhc1ViTmNBdWQ3eHBnRXJOMkYzLURFM3JaOWc?oc=5",
+   "summary": "",
+   "publisher": "Hart Energy",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T19:25:00+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "970ed94d1d454a9d",
@@ -26567,6 +26804,31 @@
    "score": 2.5
   },
   {
+   "id": "d708d31cdb7b2408",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "MBA Search Fund Alliance Launches Anonymous Discord Community, Begins Fall ETA Club Outreach - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajdzYzZwOFlOTnFxNzJkT2EwY19JOTR3QVo0WE9fdTVTZnNHMlFKbGtzOTV1NmdGNlNzNEw3a0wydlBMUFJReDB1bVEtV3VaVTlGbEJWOVpnLTQ3VmNycjI2Tmd4VUs0eWRHR0tmT0IxOGdOamREN0lDWGctYUU2YldveGZSWUY4N05tX3NvX3lsT3lCUUpVVHNIYTlxRTQ?oc=5",
+   "summary": "",
+   "publisher": "Yahoo Finance",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "20e511feef397be4",
    "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
@@ -36632,6 +36894,31 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "4662ba5916e1f94d",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Source of Funds for CBI, Golden Visa and EB-5 Applicants - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UOUNFUHFmR09IQ1pSRkRKOUJQanFGcmprMWJZLThwdElZcUpKTktVT1Y3bHdsa3l3Q2NEWGZNazZTUFBYZ1FyQXZfQ0lZTWdWNmlaVHl2aUVwOVZBRmNRZ1liWExxcjc2ZHhQdFpIWG5mMTdsYjRuWWhVdw?oc=5",
+   "summary": "",
+   "publisher": "IMI Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-03T07:00:00+00:00",
+   "fetched": "2026-10-19T17:57:30.517715+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "63cbddb906d082a5",
