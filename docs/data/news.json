@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:32:42.879227+00:00",
+ "updated": "2026-10-19T22:25:19.672410+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "us-eb5",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -539,19 +539,19 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 15
+   "count": 19
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "nz-family",
@@ -723,6 +723,97 @@
   }
  ],
  "items": [
+  {
+   "id": "9faefd3820cac2e8",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Woman says marriage at risk as husband's drink-driving conviction jeopardises NZ residence - https://awaaz.co.nz/",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbFREYTdsRFRSUGtacXNBSm8wLVUzRG03UmNxdS1VNTd6LVRPSDQyT3RWVm1ZcHJpd0czb2RqRTJnQzFQZHhfb0pvVW04MjNSa2ZRai0xajB3NmlSeElKQ1RURUY3NUwzVkI4NGI2b3BYWGV1NzVIYThBdkxKWXBUWmlmRmJXdmxrUlFEU05NaFM3UkNiMEh0R1RIanRSQ2JuS19zMzhNZzFDeWVCTzhjNW5iaFRGOGNYdDJwOEk0YXpjbV9R?oc=5",
+   "summary": "",
+   "publisher": "https://awaaz.co.nz/",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-19T21:41:35+00:00",
+   "fetched": "2026-10-19T22:25:19.672410+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b1116c10412aa0e5",
+   "src_group": null,
+   "src_country": "US",
+   "title": "League of Women Voters of Evanston announces immigration program set for Nov. 12 - Evanston RoundTable",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEFGUUtTcGNOcGpWeHRncXZPUGZNejdtRkIzT3pZaXVHSjBVQjA0VGNFdWp3ZDRCeEhTZDBSUWhLSUxMc1plZVlzSkItRElFbW9oR0lJSVhiajdJM0c5Vi16a0FXTlV3VzhqaERORkhDRF9oU0cyd2ZOR1UzT1RFeVVES09pNjdnbGdhWjZkOFlxYTdsWDBiVkpRenZGWkR4UGpfUGJIOGhSZkhQb3pBSi1NbDI4OTB4RGpoWVhkQQ?oc=5",
+   "summary": "",
+   "publisher": "Evanston RoundTable",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-19T21:38:37+00:00",
+   "fetched": "2026-10-19T22:25:19.672410+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "fb808577707db6bb",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Vanuatu exempt from Australian international student visa fee hikes - Vanuatu Daily Post",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQjQyNlRFdTJaWkh6ZmxxbmwyZV9DaTdsTlJRSTBGLWZnR3NjYmFqc3JNamx1OEEtSS1uT2FNa01UY0ExR2FwMGRrcG0xMzFYNE9rNG9tSi1USEZCZ0VRd0pCM0ZXUXhyYlJnUmt3RE5TT0tya3dUdlBDdFpITWdBcGZVNkhYaFZOcTdOZktUYnVUWDlBdENHbWxwZmlJeE9XVm9JVlFkNEljV3lvZzdIXzdmc3ZnRjVvQmpKeXl0TV9icldPZnlVMFNZVF93Uy1pZFU4bHJia1hHY3RoN2xqaA?oc=5",
+   "summary": "",
+   "publisher": "Vanuatu Daily Post",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-19T20:30:00+00:00",
+   "fetched": "2026-10-19T22:25:19.672410+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "cc1474ad6c9da539",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Immigration Insights Episode 32 | Understanding the New Public Charge Rule: Implications for Employment and Family Based Permanent Residence Applications [Podcast] - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRnRaNGluOFM3eUJOWDFKamw0ejFHYWxYM3R0QUI2OXlxX2JPQmhOeVh5bnRSdk5oSnBmZW50ZzZraE5ZRjVPLW4wc2k5LWZpN0VmRm1zLVFnbmNTeWJiUEFkdGF6a3FNbjBfS0EySGJBcE9QblFzMTRTYktTNEg3WnFENldIU2JkMGp5X0ctT0pQSnllS0xkWGwzb0phb2w2MWFzNXV1b1RNZ1ZGeDVLQU9DY2gzd2k1ZVHSAboBQVVfeXFMUEZ0WjRpbjhTN3lCTlgxSmpsNHoxR2FsWDN0dEFCNjl5cV9iT0JoTnlYeW50UnZOaEpwZmVudGc2a2hOWUY1Ty1uMHNpOS1maTdFZkZtcy1RZ25jU3liYlBBZHRhemtxTW4wX0tBMkhiQXBPUG5RczE0U2JLUzRIN1pxRDZXSFNiZDBqeV9HLU9KUEp5ZUtMZFhsM29KYW9sNjFhczV1dW9UTWdWRng1S0FPQ2NoM3dpNWVR?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-19T20:16:06+00:00",
+   "fetched": "2026-10-19T22:25:19.672410+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "8baf164f453faabe",
    "src_group": null,
@@ -7844,6 +7935,29 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "1337c0382c76db3e",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "’Keep Your Services,’ Say Asian Community Leaders, Amid Fear of New Public Charge Rules - American Community Media",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV2dsUml6S3RfU2gwSE9qMVV0WGtPSVkwaVRmaS1WZldYTktwa01OM2ZaWDgydEJsUEZFSllha2NfeVp5VGplWmV6UmJzcWhFMlEtc1ljTGhNTTY2bnZZbVFNdWoydW5ZdnNzbjNlVTNqbnFKM2NpeGc4OHdpbXFQeUI2T3RIOXBya21QeGhJYnBmalg4c3VWVXBpUEZKTjlvbTVGV1JWNW5HZTBJQnlrOElZUFJzMDAyaVJCc19BSmxRX01rM0RxdzlNTFZCQQ?oc=5",
+   "summary": "",
+   "publisher": "American Community Media",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-15T18:10:03+00:00",
+   "fetched": "2026-10-19T22:25:19.672410+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "5804c2c29a17fa56",
