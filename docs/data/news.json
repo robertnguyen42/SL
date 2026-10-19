@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T14:12:43.110354+00:00",
+ "updated": "2026-10-19T15:09:57.515317+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 32
+   "count": 35
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "eu-student",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -653,13 +653,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -683,13 +683,13 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,33 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 12
+   "count": 13
   }
  ],
  "items": [
+  {
+   "id": "d0b2301459453d3e",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "No citizenship for sale as Government proposes 25-year investor residence permits - Sun TCI",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc1Q1OGJ6OVpZbnExSlg0VEV3dXdDOG9henczRFlIeVRabER4b1FUODJOVE5QalNGS3J1LThmam1PWWx5aXgxQi1DcVlqRUI0V1hQOEZEaGxmZXdwMnpKcjV0TVo1aUtTa1g2aTRXM0c5OGpCWDBCWmplWWR3VUluaWZELWp0d1RGYlJQR08xVk1UcW1oYm41ZVN3bnBFc09BcTU2UXBDaEVGbVlweHlmOGF3?oc=5",
+   "summary": "",
+   "publisher": "Sun TCI",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-2",
+   "published": "2026-10-19T14:35:16+00:00",
+   "fetched": "2026-10-19T15:09:57.515317+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "37e4751e6d841d6f",
    "src_group": null,
@@ -1977,6 +2000,29 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "837b9abae73baa0f",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "IEC cutoff nears: October 19 deadline for final 2026 round - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0aS1YU2o4QzdrbDI5WjJNWWZHTmx6RzQ1d1N4UzF1WWl6VUJjOEN3Qzk0YUdaeG5YSUFCbUdLdlNwbm9jNkVqMFdoR0xlMUgzMkZOUERYWTRSeU4xdGpkYnhjdURYOEM1V0JTVGtsUjVpZjJsS2ppcExn?oc=5",
+   "summary": "",
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-18T07:19:23+00:00",
+   "fetched": "2026-10-19T15:09:57.515317+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "f5b8cf1a577ddde6",
@@ -4614,6 +4660,31 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "82dc1001d5d8b3ba",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "Abu Dhabi Names 2 Relatives Foreigners Can Sponsor for Residence Visas - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc05ydHB5bEw3b21LU2pPaTJwWWhJcTNKNkI2MGtPYVJKbjI3U1NrQ2ZoSUc5R0dPeWNZclV3bnNoclZ2bUliWWctWmMtdVNMOXg1aWJKcDF5YVZoUDFOYTc0cG5tR1R4V2t1M0ltdlRmUmhkX3oyMnJNV1dkUmRRZkNULVI0cXduQ2JDVURIQTNZNXBsZnBpaQ?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-16T14:46:51+00:00",
+   "fetched": "2026-10-19T15:09:57.515317+00:00",
+   "visas": [
+    "residence"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "3f170e82fe4121d1",
@@ -8590,6 +8661,31 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "048755866f43410b",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "Golden Visa Adviser Recruits Marketing Head for Expansion - finews.asia",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0p6TVhDRms0aFctMm1HQXlXTDdvb1dCbEpib1BUSk1qRGdBY1h1V3p3OFVHY3hlWG0wQWQ5cENERTJpUHVjRG1QTjNxUDlhUEdPUHZzVzY1c1l5NlFiLWJORXlmblNYNDBNNWRMLWJiQzA5UzVlRGpRVDRGUE9MSnV0UkNXLXFDMmd3T0pjUm1TRGVZWWMtNjA1UFpPSm96ZEt5dUZvREJGYUh4MXBZZnBDZ0hySEpMNW8zOG1sS0VZbUtlTzRqVE1GZw?oc=5",
+   "summary": "",
+   "publisher": "finews.asia",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-15T07:04:00+00:00",
+   "fetched": "2026-10-19T15:09:57.515317+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "587a6913ffc5294d",
@@ -17014,6 +17110,31 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "61dddf5a7cba3ccd",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Why (ESTA) Price Action Is Critical for Tactical Trading - Stock Traders Daily",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNEdvTnJVaHc5VjZBU1RLYzBsRUR6blJVdmZqT1NybEF6dDR2b2xWcUFCbnh4QTJXd2taajA1WXZBcjAxUWdTX3ROU19KeGotQnFObEVaUDhwSXNJbGZqS3RzQldvclVQaFJaSEJiOWxqWkxWYkVtVFViR21uRDctRnV2VjJoRHN5eTk1UmtvbkxHdWNydnQ0d2pkZ24zcmJBRHRIdVJQSWxYaG83SXd2SW9NOTJqRnk3UEJBQVNpQ0Q0U21EUGN3TDZZUkQ5Tzg?oc=5",
+   "summary": "",
+   "publisher": "Stock Traders Daily",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-11T16:14:02+00:00",
+   "fetched": "2026-10-19T15:09:57.515317+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5311b90119cc0887",
