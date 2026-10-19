@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T10:07:23.613069+00:00",
+ "updated": "2026-10-19T11:02:53.987042+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "au-skills-in-demand",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "us-sheet-khac-2",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-sheet-khac-3",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -677,13 +677,13 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-1",
@@ -2105,6 +2105,31 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "d272aa8e3b9ae3b9",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "What is UAE Golden Visa? From Cristiano Ronaldo to Paul Pogba, here's a look at 10 football stars who have secured one - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYjM0eTcyYXhNUjMxSlpLNEpSamx6bVpXSjBsYnhQV0V1ZW80d0REVUF5cU0wTjVrWmFCSzFSLUJ6NGpDeUIxU2dkbzQ3M21xVUp6emtwdnlrX3hFNmpRQzdkQTFiMWFsU0FLel9LdnB4ZnFUMENKU1ZUR1J0TWg3MWtLUGhzbVJ3dXJzNlAyTFBFNkhBQzY2MnlXel83Zm9qQzRPZFBZejkxeU9oQ0M2QWFzSkRVTm9UZHI3MnJCRGdPeGhMNUxkRHA2c21rVzkxNm94ODI3TWlwUUY4emtJZEQwU3I5MHRJcklaaDRZYmluTS1Zal9Nb21ITDRKaGJIS2ppUXVXbmpnZEVvdXfSAZMCQVVfeXFMTk4tU1k4VkQ4RkRFNW1VbjRpU0dEU3VIUVlZeUNpUkN2WXJ2eXV0dklyREFsNXdkMDZla2xOWHJmMVplSlpHMzRfYWRxeHJKbVVfUDk4NDR1OFNuaEE4SVVtT3NTNHFLdU5ielVKM1VVRXdhcnlPQlJlcHh2NUYybHlOblZKQW4yRkhyMGI1aGRRZjhJV1FfQlVWdWJVejEtUTB6bmZxQmt4VVhOME9BdDlOb0xhZFBjWHNUUXh2bXVfUHVfeVlTMVljN014cFBPeWl0VUNjb29rSlVaOWdRTmNXaU01NHVxUFVGd3drdFNBSXRnSW9OZHM2ZGJ3cjd4Z0N2cGhPSC1Ka1UzaU85bnUybk0?oc=5",
+   "summary": "",
+   "publisher": "Livemint",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-17T11:40:41+00:00",
+   "fetched": "2026-10-19T11:02:53.987042+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "4e9ebe8c4f234327",
@@ -6341,6 +6366,31 @@
    "score": 2.5
   },
   {
+   "id": "4b6a54b67c6b1233",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Canada Citizenship Certificate Wait Time Jumps to Nearly 3 Years - TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb215alFYVnNCWkxKVE5YS01aTC00dHNGVmIzczdkd2JiWGVrTUVoOC1oNzg4bW02RmlTYmt6TWM5ZjRQclZXdW9UV2lsQlZDcTFGdzF6OHo3bVNaOFE1a2J2SkRfbDVaajEzTHVudkpRZlE2NV9OQjFIaFFveXVtaGV2Z2JRVjhWRHFTa3pSNkw4blgw?oc=5",
+   "summary": "",
+   "publisher": "TechJuice",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-2",
+   "published": "2026-10-15T17:47:15+00:00",
+   "fetched": "2026-10-19T11:02:53.987042+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "7dfc00c2e616d874",
    "title": "Migrant group backs Peters' proposed visa changes - RNZ",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaWl3XzQwTm42OVFOSm5WNHJzWHM1ZlFoUXJlTlRFVndjWXIxbHFkMEJveDZkUkVTM3ZnbFdRRzJ1MU1RRlhnU1prVmRtSkVQTTR1NlRnS1pQcWJXenRuekZKeEdUaTBwOE1ncjJoVEdGRDh0QURwR29tVENoNUd6TWRvQU1aYXlBX1FFVnhIS2lON2tMQkZPT0VzemE0cjAtOWNzSnhpc2RLS0N3QldISFViTnVMbWdRVklZdGdn?oc=5",
@@ -8062,6 +8112,31 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d4d7a708cc7d7bed",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Denmark Work Visa for Indians: Process, Requirements, and Fees - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92NUplaGkzVGw4ejVJXzFGWXhtQ1Y3aGUtR3pUa0xPTDdENHJwQzZSTGJQamVMaVh2WnA2a2J1MjJTZkRGQUZ1MHg5Q0xlcEw5dmlj?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-19T11:02:53.987042+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "5dd02c32b05e6a8e",
@@ -13825,6 +13900,27 @@
    "groups": []
   },
   {
+   "id": "419f2548ac1d74e8",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Top Countries to Get Residency When You Renounce US Citizenship - Nomad Capitalist",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHVvUGljamF3OFFpVW02UXZjV3ZHQUx6MzdCTklLT2V5OVFDbjViWkdJc19GSUsycWQzaWxwRVdDX1ZJcHNtNE1EOV9KWUNNWlYwbFhzb3NNUkVZVWJhNl9QQlhaUFlHTnJOakthR1RmcFN5NFdhQ2loZnZQZWdTd18yUk84OW8?oc=5",
+   "summary": "",
+   "publisher": "Nomad Capitalist",
+   "country": "US",
+   "type": "news",
+   "source": "eu-sheet-chung-2",
+   "published": "2026-10-13T05:49:11+00:00",
+   "fetched": "2026-10-19T11:02:53.987042+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "27f4947f72f923e2",
    "title": "Best European Countries for Digital Nomads in 2026: Visas, Costs, and Lifestyle - ETIAS.com",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpV2VZSW5laWtUT1BhczdXc2lib1JJQmVZcXlyd09GTF9VdDFIeXN5ZXlrSFhqUThNY0l6TU1hMWI3UnVLNzJmSU12X0FPOXlpVGdmakptN28taG5PTzY3bjZVbEIzQVdjWTg2WThxWkNzMDg?oc=5",
@@ -16782,6 +16878,29 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "23c8c8310f6443fa",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Red Bull named first Adelaide MotoGP title sponsor - Speedcafe.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdTeHlLd0p3bTBHVUtFeFI1RjlrdXVlWElUOWRRTXVqSlpsYVZhbHB0T09wcmVoWWN1dm9KQ0xJTWlqbzVqYzFSa2hIWlg4Mm9iS0dvZDk5dEQxRFdBNW5TcERxR1ZOR1lZTTRFR3BGWGJFWmtOOG5pUkZlc3oyWlp5VE9yNm51TTJ1aW9vc0pGLU1QVmJtUThET19QZGF0SnpnM1g2MThibEZfVVRHMVdacGtOUGdCOHVn?oc=5",
+   "summary": "",
+   "publisher": "Speedcafe.com",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-3",
+   "published": "2026-10-11T00:12:20+00:00",
+   "fetched": "2026-10-19T11:02:53.987042+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "19c04ecbc2c0d7a4",
@@ -25080,6 +25199,27 @@
    "score": 0.0
   },
   {
+   "id": "135e53e2bb0b3b1b",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Valaris expands its offshore contracts by US$220 million in three regions - Inspenet",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNG92cUpSTjYwNDRMYk1XdHA4aXlnaEo0X0Y2LUhxOC1TNEU3RDYwWjFWa1JSbVd3UzJ2X2NXdXlrNjh6aWpsM1VNNExaZkJuQkxidV94bFJFZmM2a284QkhFMm11OXlhai1fUk5fa1o1UEZhNHZlUG1zN0xnRjRveQ?oc=5",
+   "summary": "",
+   "publisher": "Inspenet",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-19T11:02:53.987042+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "20e511feef397be4",
    "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
@@ -31670,6 +31810,29 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "63e3fbcc816114b6",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "AMLA finalises private-sector AML standards - Step.org",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjJuX1hnaGVXdFhPRWZZWUVlUFQ2cUxFM1BxalhlbENjNjdOd0ctM2MtZWRvaVJQZXo2QmdpYTU5SkFVWmJScnNkNE9mekFnSWpkdHpzOTRfQU9fUExKc1dkcDlGY1RHSHpsUEdsYkhhNmpOcVFQbEltRGM1aER2X1U0MFk?oc=5",
+   "summary": "",
+   "publisher": "Step.org",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-2",
+   "published": "2026-10-05T19:24:58+00:00",
+   "fetched": "2026-10-19T11:02:53.987042+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "0355b1baca6a6125",
