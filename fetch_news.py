@@ -19,7 +19,7 @@ GENERAL = re.compile(r"visa|thị thực|định cư|di trú|nhập cư|nhập t
                      r"immigra|migra|citizenship|residen|uscis|ircc|home affairs|green card|thẻ xanh|"
                      r"asylum|refugee|tị nạn|border|deport|trục xuất", re.I)
 # Loại hẳn tin chứa các cụm này (nhiễu phổ biến)
-EXCLUDE = re.compile(r"tái định cư|giải phóng mặt bằng|khu tái định|hoa hậu|showbiz", re.I)
+EXCLUDE = re.compile(r"tái định cư|giải phóng mặt bằng|khu tái định|hoa hậu|showbiz|Centene|prior authorization", re.I)
 NUM_PREFIX = r"(?:visa|subclass|diện|thị thực|loại)"
 
 
@@ -51,7 +51,8 @@ GROUP_NAMES = {"chung": "Chung các loại", "tay-nghe": "Tay nghề", "dau-tu":
 PRIO_GROUPS = {"tay-nghe", "dau-tu"}               # nhóm định cư lâu dài, xếp lên trên
 QUERY_CTX = {"AU": "Australia", "NZ": '"New Zealand"', "CA": "Canada", "AE": "(UAE OR Dubai)", "US": "", "EU": ""}
 STOP_TERMS = {"job", "regional", "sbs"}           # quá chung chung (SBS còn trùng tên đài SBS)
-TYPO = {"UB-3 Skilled": "EB-3 Skilled", "Skill Migration Category": "Skilled Migrant Category"}
+TYPO = {"UB-3 Skilled": "EB-3 Skilled", "Skill Migration Category": "Skilled Migrant Category",
+        "regional center": "EB-5 regional center"}   # "regional center" đứng một mình trùng trung tâm cộng đồng ở Mỹ
 MONTHS = r"(January|February|March|April|May|June|July|August|September|October|November|December)"
 
 
@@ -74,7 +75,10 @@ def expand(phrase):
     """Một keyword trong sheet -> (các cụm để khớp tiêu đề, cụm để tìm Google News)."""
     for a, b in TYPO.items():
         phrase = phrase.replace(a, b)
-    phrase = re.sub(r"(AED|€|\$)\s?[\d.,]+(\s?(million|m)\b)?(/(AED|€|\$)?\s?[\d.,]+)*", "", phrase).strip(" ,")
+    stripped = re.sub(r"(AED|€|\$)\s?[\d.,]+(\s?(million|m)\b)?(/(AED|€|\$)?\s?[\d.,]+)*", "", phrase).strip(" ,")
+    if stripped != phrase and len(stripped.split()) < 3:
+        return [], []        # "Gold Card $1 million" -> "Gold Card" quá chung (trùng thẻ bảo hiểm...), bỏ
+    phrase = stripped
     main, paren = phrase, ""
     m = re.match(r"^(.*?)\s*\((.*)\)\s*$", phrase)
     if m:
@@ -191,7 +195,8 @@ def tag(item, tax):
     groups = (t or {}).get("groups", {})
     from_visa = {t["visas"][v]["group"] for v in item["visas"]} if t else set()
     item["groups"] = [gid for gid, g in groups.items() if gid in from_visa or matches(g["re"], text)
-                      or (item.get("src_group") == gid and item.get("src_country") == item["country"])]
+                      or (item.get("src_group") == gid and item.get("src_country") == item["country"]
+                          and GENERAL.search(item["title"]))]   # tin từ truy vấn sheet phải có từ khoá di trú
     return item
 
 
