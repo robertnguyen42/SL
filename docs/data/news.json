@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T05:06:11.630138+00:00",
+ "updated": "2026-10-19T06:01:57.004069+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -214,7 +214,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -232,7 +232,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -412,7 +412,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -424,19 +424,19 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 13
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -446,6 +446,42 @@
   }
  ],
  "items": [
+  {
+   "id": "2b3273976fd41d07",
+   "title": "One Nation's immigration policy comes with a multibillion-dollar price tag - Independent Australia",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVjNEdDRBbW5ZMDlCaERYVmVjQ1NCUVY3NWl3ZGVFcXN2VDFXTXpsZ1BQMDdBQlY2WF9GQ0FKblluY05VWnVNc1BIVlJZWFVPM0UxcGliaW9faTREZWR1NF9lcGR3Z2N5WVZvcUJwTXJPX3BuT2lRZGx4bUFxSWVXNG8wcTlfaFBPUEQ3emFQOUZoeENOdlhKVG5fVHBBcW9Zdl9kQ2tIWjV1X1VxM2NjVmlDS1RoR2lUdmFMdlBrTFJuLWdUa0NPU3ByV3ctdWw0MmF6aA?oc=5",
+   "summary": "",
+   "publisher": "Independent Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-19T05:44:32+00:00",
+   "fetched": "2026-10-19T06:01:57.004069+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "f27f753e646156f2",
+   "title": "UK Closes 2 Immigration Routes for Foreigners Extending Their Stay, Cites Alternatives - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUW9kaWhQeXZjSHdCeXhLclZGR0RUZ3pTWTJkWmVXS3RXVS1nRzQzTUhsSmpHai1VRHhzWkZZa2lIUzNrb0VDblZ3N1lHWko1VG12bzdpSllXaEhKVmxaLWdPNEllNkIzaVdKd1JLeHc0cFVkS1N6WGctUFhQeGhoMlJKTVhaaXlBOVhsMlpHcF82elNLYmRHeEQxbzIxMEphTllUNm5yQkMxSjVmOEZNY2c2eVhFV0R0Nm9B?oc=5",
+   "summary": "",
+   "publisher": "Tuko News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-19T05:01:30+00:00",
+   "fetched": "2026-10-19T06:01:57.004069+00:00",
+   "visas": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "ccf7844bac9cc333",
    "title": "Người phụ nữ định cư tại Trung Quốc bị kẹt lại Việt Nam vì nợ thuế doanh nghiệp - tin.skydoor.net",
