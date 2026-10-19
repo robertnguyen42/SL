@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T20:07:16.677455+00:00",
+ "updated": "2026-10-19T20:59:44.628037+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -190,8 +190,8 @@
   {
    "id": "ca-gov",
    "name": "IRCC – News releases",
-   "ok": false,
-   "error": "The read operation timed out"
+   "ok": true,
+   "count": 30
   },
   {
    "id": "ca-vi",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -805,6 +805,31 @@
    "source": "us-sheet-chung-1",
    "published": "2026-10-19T19:02:44+00:00",
    "fetched": "2026-10-19T20:07:16.677455+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "a12159c455f0f7ea",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Federal prosecutors charge 28 California green card holders with voting violations - News From The States",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQk9WQVFmS1JjUWxoRHRjY3pGbVNuOXBqbWVkVU1uQ0NDQ2t0QlMtWEFQaHR6cXJKVHlqT2Z1MThPSGlWcHZyN1AwOG16VFZtX0xUTmE4TWxqbFdfbVdyZ0pGVXZFNDY5NENIZHI1ZmhLcmo5S0pQUkZ6WmF5S3kxS0ZrS3JJVVVTem0yUUI3RUFHVk0tdXRBNGhPdDA0UGU5Qk0ydmNLb0FMRDVzMGhhYUlCMkU0MnBmWVo4?oc=5",
+   "summary": "",
+   "publisher": "News From The States",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-19T19:02:44+00:00",
+   "fetched": "2026-10-19T20:59:44.628037+00:00",
    "visas": [
     "green-card"
    ],
@@ -2775,6 +2800,27 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "520d9479f4487368",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "‘We won’t play in NZ’: Chiefs bold stance if it loses court case; Dragons shop for sponsor — Daily - Fox Sports",
+   "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNVzVrVGNSY25mWHNqczk4c1FYYWtCVDdlZXIyUi1MOXUzUTBBZVFKOGozSkZhNUZqeUFrNUNBclRlT0FrLUE3dk9KWWNtSkU5Z1ZuU1VBQi1ZeHBsYkJCT0I1dkNGQ0JTSTFJbzloSEhFUlViYTU5dnV5eW1hcm1qOElrNzJiZm95cFZUQllZc3pVNmlIeXBia042Q1hHYkJDbzdwX3lTZEtvcVhmM21QSWpheGpFV3psOEJqY0hsOTBuWlN4aXpkOERJeVYxdGVUNWFTbnpMT0U5UEpTZkExVHVuVEg0M3NjdFhVU3dadVp3VDRYSjlGQzdJYVE5cHg5R0VGeFhLeXFYWWdOYWFtdmo5M1BOcTdpanJmU0w4SGlFQ3MxY0c2TXZGTU5DeXIwZXBLR25VVlZUZjhncDU2UTQzLUF6UG5fTWM3WEh0bjBMbmYzSGs2N0hJRkZacU52UGJ6SHp2RzZibG5OUmNPcGs3RWxVYkdjLUVnZFV3SFR1YXVUcEhn0gGHA0FVX3lxTE1XNWtUY1JjbmZYc2pzOThzUVhha0JUN2VlcjJSLUw5dTNRMEFlUUo4ajNKRmE1Rmp5QWs1Q0FyVGVPQWstQTd2T0pZY21KRTlnVm5TVUFCLVl4cGxiQkJPQjV2Q0ZDQlNJMUlvOWhISEVSVWJhNTl2dXl5bWFybWo4SWs3MmJmb3lwVlRCWVlzelU2aUh5cGJrTjZDWEdiQkNvN3BfeVNkS29xWGYzbVBJamF4akVXemw4QmpjSGw5MG5aU3hpemQ4REl5VjF0ZVQ1YVNuekxPRTlQSlNmQTFUdW5USDQzc2N0WFVTd1p1WndUNFhKOUZDN0lhUTlweDlHRUZ4WEt5cVhZZ05hYW12ajkzUE5xN2lqcmZTTDhIaUVDczFjRzZNdkZNTkN5cjBlcEtHblVWVlRmOGdwNTZRNDMtQXpQbl9NYzdYSHRuMExuZjNIazY3SElGRlpxTnZQYnpIenZHNmJsbk5SY09wazdFbFViR2MtRWdkVXdIVHVhdVRwSGc?oc=5",
+   "summary": "",
+   "publisher": "Fox Sports",
+   "country": "NZ",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-3",
+   "published": "2026-10-18T03:22:25+00:00",
+   "fetched": "2026-10-19T20:59:44.628037+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "ba45693a6fd68f36",
@@ -9702,6 +9748,31 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "0cb19e286a14ecc9",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "EU calls Pakistan’s nearly 50% Schengen visa refusal rate ‘too much’ - Minute Mirror",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR25rM0pnSTVvNkpraURDbUtNTW9TYWRqdVpWczFKRFg4ME14c3ZkRHFGX2d1TlBlVHhHZzdweDVldTlwUFpoVC1oYmNwTHlGQU1fN2ktM0FQQjZNOG5DbUV3OHhLVFlyTk5wUGNmQ0xCa1FXWjJKS2ZkaHUzS1JPVzRpelhhNDZlUnMwYVQwb0Q2UTZuWnROaW1Kd2IxcVM0Tmc?oc=5",
+   "summary": "",
+   "publisher": "Minute Mirror",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-15T06:48:06+00:00",
+   "fetched": "2026-10-19T20:59:44.628037+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5dd02c32b05e6a8e",
