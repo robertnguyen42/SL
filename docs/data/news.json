@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T01:31:51.604427+00:00",
+ "updated": "2026-10-19T02:26:05.802466+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -226,7 +226,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -280,7 +280,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "us-green-card",
@@ -430,7 +430,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "nz-family",
@@ -1153,6 +1153,24 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "483d8d6057a7312f",
+   "title": "Mỹ thu hồi visa lớn nhất lịch sử - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0JMMjdHZm81VjRzZDVfcDdRMmFXbUVEQlBpdkVKNV9nQzZHd2dPUkJmWTZaazkzQ29wT2E1Zi1DeXNZdjA4bnJfYmx1US1rX3BQLWN6bVgtYzZWY0tCRnlCQ3VNc1FVRkwzQ1lobERkV3A5cjRVRzBTbXFpaldNUndxbW8?oc=5",
+   "summary": "",
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-10-17T07:00:00+00:00",
+   "fetched": "2026-10-19T02:26:05.802466+00:00",
+   "visas": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "2cef36112d836d55",
