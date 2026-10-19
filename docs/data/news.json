@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:09:57.515317+00:00",
+ "updated": "2026-10-19T16:01:58.744547+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -305,13 +305,13 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -683,7 +683,7 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-1",
@@ -723,6 +723,152 @@
   }
  ],
  "items": [
+  {
+   "id": "f238ed17adf32cfa",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Releases List of 2 Skilled Residence Pathways for Foreign Workers - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTGd3TTNPOVdQX2Zlcm10N0RSWWtMb3VUbmdseS1fZXhNT2xpckhSb1lKMTM0eHM3WDdwZE9LTlhnS0I2d2RrLTlHX3ZVWUFyUE05SEl5NGRJR0Z0SXQ5TEF2dV9reXdpU05EZVdlVC1mN0h1RFRrTXBNc2VZNFhaUi1SWWRDMU5Va3RVWDB0ZzRlbVN1ZnZGVUZndTgyNGwx?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-10-19T15:46:39+00:00",
+   "fetched": "2026-10-19T16:01:58.744547+00:00",
+   "visas": [
+    "smc"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "b56fd379cc99774e",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Many Americans Look South for ‘Plan B’ Citizenship - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVpReHM4NzZrcXZmX2lGckV2WnBnbjRpc0NSa0V3b1Z4aENMczBMMEg3eGwwejY5d0RSb1hjZWdfbmpDUFhiVmE1eHp0cG1GQnRDMGJTMFo4MXFTaWJXbEhSejljX253Qk1SbVExVmhrTDNJXzZENURQQXRraks4bWlyV2Ywa0g1MVE?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-19T15:44:00+00:00",
+   "fetched": "2026-10-19T16:01:58.744547+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5d041a43d8bc668e",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "The silent mistake that gets your ESTA rejected for travel to the US without you noticing it - El Cronista",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODFYTDEteTF6RUhwcXlNLVRuM09MMEd3WHg0THVKclNnZk5rZHNILWxLS1daWUtNV250NFpYdjJNM2hlcWZlanBhN0FHa1ktc3JqbDg4NnZfZW1nRURwT0ZuaERxX0F3TnpRRUxPTFNxMmhJNTVvdnNiM2YyQVNqNzZVTXcyR2pyMmxXcHZYb3J5blQwbVpPZ0xCNW1LZzFYX2QySWFXemF0Y2x2YUZNUmlQWjVEU1lNZDMtLU4xQXJUaG0tTUE?oc=5",
+   "summary": "",
+   "publisher": "El Cronista",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-19T15:39:06+00:00",
+   "fetched": "2026-10-19T16:01:58.744547+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a1c725d5c622e2b0",
+   "src_group": null,
+   "src_country": "US",
+   "title": "EB-5 source of funds update: What are the courts saying? - WR Immigration",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU3JDZFdhc3FTcE81YkkwdDY5cG1Qa2x2ZnZZekVaWG5QT1hScWRTQ05QS054RHhNV0pNNVBpYnNPa051ZmRtanlaOHJFY3lxWmR3VUVpZHRGbDR2d3g4UXlsdTRlUTBDN1libWQyNW00Z0xxajVNVjJaM044RFlqelhoSQ?oc=5",
+   "summary": "",
+   "publisher": "WR Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-19T15:23:27+00:00",
+   "fetched": "2026-10-19T16:01:58.744547+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "c5c565474d658619",
+   "src_group": "khac",
+   "src_country": "AU",
+   "title": "Australia Tightens Student Visa Rules, Restricts Onshore Applications From October 2026 - Arbiterz",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGViRGkwa1dnYTUwb0pMODhUU0FSYTBMUjNQVzFBNDFoa2k2aWhJRWtZLWxGWUJSMnhCOFQyb2E3dnZRejlKOXZCckl3eFFYNDFIVGRPYzZlUUswRnVYOHdaUGZ0d2swMUZ4NzBtZDFwcjdFT0h3Z1N0RURLNVBRZ0tab3R2SXBFWEdBUWpET1hReUM2WFBjdlVHRW4yVjQ5emlEWjF6N3V6WWdD?oc=5",
+   "summary": "",
+   "publisher": "Arbiterz",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-khac-1",
+   "published": "2026-10-19T15:12:15+00:00",
+   "fetched": "2026-10-19T16:01:58.744547+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "6a50c49a05acb466",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia names 7 priority jobs for temporary skilled visa processing in 2026 - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONW42Z1ZVWW9uNkNnVnBjYkVsRGVXV2EtLWx2OFM5YTBFU2h1V3RPd1BscGhLT0ZnZ29QazhuWTJpQlREZWt6c3pZZGZ3TW5xaFMxcFZMazlhN1FHTGhvX2xQR3pBOVlPbnZsM3dzaGFZSnlYUkJqd3d4al9WMEpONnE2YWxZWW96aGZUakZBb1NVck1WTk1uMjNTV1ZfWGF1OWRXUEdmbHJRNzhnN04w?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skills-in-demand",
+   "published": "2026-10-19T14:46:53+00:00",
+   "fetched": "2026-10-19T16:01:58.744547+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "d0b2301459453d3e",
    "src_group": "chung",
@@ -4438,6 +4584,29 @@
    ]
   },
   {
+   "id": "6ff9d35f2111871c",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Hai Long Completes Installation of Offshore Wind Turbines - Inspenet",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zcGc4TWlFMTdmTzdheWZSXzVJR3NkYS1hdWRxQWtzckZsNnlTVlo4UHJRNUdOdTFTZXZuaVByb0hrTVQ5UnJ1S094UXVIR3hJeVpVNjdrTHRmcFk1YTYxVkUzMDdLTnpPMDlpZERsTVhSM21RYnp0enU2MXlHS3M?oc=5",
+   "summary": "",
+   "publisher": "Inspenet",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T15:56:44+00:00",
+   "fetched": "2026-10-19T16:01:58.744547+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "4463900eeff5d436",
    "title": "New Canada Express Entry Changes Effective November 3, 2026 - INC News",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2TTViaHRPZDA3SW5qSFRtMy1tT25IUEpGdFJsbE5jWldlYTFCdTNvQ0dKVXpLTWxqYV9BRlFudEpNRERuZDg0bUdqRW9ZcUpuaG8yclFwMHJuWldicW9GYU9WRDlxWE9BQ2ZuQTRlWDZ3OVAtb19XQ0s1N19BZw?oc=5",
@@ -5531,6 +5700,29 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "3b73ded18f1ab048",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Inpex-Led Bonaparte CCS Project Gets Australian Offshore Storage Approval - Offshore Engineer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2phZEJ2STJTY0JUcjl6RWlCeDhPZkJoYl9iSFNteDEtYncyeGF3RHFSbkhwb0pnQU9CeDdmclBCMjctQWhQclNFOGFXWkZZV2lJOGpmc3FsN184eGI2bDNmejh6cUN0aEFHbm9kSDhITTRUQ1JSQWFFMUxwU2k4YTJuaDVadnltUFFiVnFrR3dyRVFsbTRlVHgtcFJVMWIwdUw4aG9lM1RSOVhaUFI3RQ?oc=5",
+   "summary": "",
+   "publisher": "Offshore Engineer Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T08:40:43+00:00",
+   "fetched": "2026-10-19T16:01:58.744547+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "dcdb76c937573313",
@@ -8617,6 +8809,29 @@
    "score": 0.0
   },
   {
+   "id": "6662b4e911e59997",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Acciona Selected for Victoria’s 2 GW Offshore Wind Transmission Project - Offshore Wind",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUo0NlJ3S3ZSUXF0U3praUFrdmtVdXNha3RyS2lodTNRVmttdjVWZDA4QnRMaU4tdm5GOG1RTGFlSmp4dXQwVWhUbDFhWHhfU2lVNjRCWGZOZURtSXdyMC1nRFNiWlhTQ3BYb0V4YmNXUGtvdHR1bTVpYVpHYUJob2dGYlRFdmVINGt3VUdYSVFkWFZTVjFrUjFYUFhZRUtBbU11aGlzUkFFZw?oc=5",
+   "summary": "",
+   "publisher": "Offshore Wind",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-15T07:29:16+00:00",
+   "fetched": "2026-10-19T16:01:58.744547+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "e1b93f4576d8f18c",
    "title": "Schengen Visa Waiver for GCC Citizens: What the 24 October EU-Gulf Summit Could Change - Wego Travel Blog",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbmpUdHN0bGFiRzlRR19EckpMNVhib2NPNjBkN2x6ei1fd3pCUEE5MDZDbXRENHhqZ244bjJESWdJeXRkX0w0ck1ZR0RLV09fNW94M1l4VGFzYjYwV1hIa2E1WHkwNF83Q01QcQ?oc=5",
@@ -8992,6 +9207,29 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "8e26234d246b7bcd",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "PTSC Marine GS, Pacifico Energy launch surveys for 1.8 GW offshore wind projects - Theinvestor",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelZ1dFpBdURFN3B0ekszV3V3d1ViSWhaT1NiNGl0U3RmS3FrQndKdGN0aHVnbWpMdkRVVGJ0ZEw5ZjZlaXlHXzR1NDJweTIzdnhFblJaVFdJYTJ1c3RtTk40SGpSQjZPZlNfTEpLd0NMRnJNN2N3cldNOW1FWTk3T1plcWdiekhhSk5MZ0MwUkN4eHZsdGwxaTV4YkhBeWh6bnF0U0Q2Y00tOFJ0dTZZUGxCRQ?oc=5",
+   "summary": "",
+   "publisher": "Theinvestor",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-15T04:38:00+00:00",
+   "fetched": "2026-10-19T16:01:58.744547+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "d81561b4983833b6",
