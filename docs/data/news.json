@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:17:20.460898+00:00",
+ "updated": "2026-10-19T14:12:43.110354+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-sheet-khac-3",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -719,10 +719,85 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 12
   }
  ],
  "items": [
+  {
+   "id": "37e4751e6d841d6f",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia Releases Lists of 7 Priority Occupations for Temporary Skilled Visa Processing in 2026 - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUJXcjFJcnJIc1pXaFFMYnpZNU04Z0p4OFVCemFCSUNXUEdxRHdyUERYLUYyVHJlR0JrM3JGbU01UWtSak53b3puN0tfcUZtSk84UldWVERUQnlSQk1Udmwta09QQmE2cHI5ODVJeFg0dDFlY04wX180MXRjcVdMaE1TRk1ZY3hkU2tKeUZJYTZfYktKZzYzSndPWFdqTHVQZFdDdg?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skills-in-demand",
+   "published": "2026-10-19T14:08:34+00:00",
+   "fetched": "2026-10-19T14:12:43.110354+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "33434f9d20090b08",
+   "src_group": null,
+   "src_country": "US",
+   "title": "DOL PERM Suspension: Why Green Card Paths Remain Open for Tech Professionals - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc05XTW82Q2NubkkyTkpUVzdFOFhiaEpUcVJrcDlBS0RobHVGRzBaTFhEUVBaRlFyMnFUYTRPeHQ3bndESE8tOXVicGY0QjA4bXh6LXNBN3hFbnBiUUdMblZyVk81SDBUYVlrLURQbkNtN2lqUlpGZzNMVThmZEFsYVd3WlpiV245RXNENW9JcVYwYkVpV3ctTmw3Q1g1QWhLRWFyMDRFYw?oc=5",
+   "summary": "",
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-19T14:07:12+00:00",
+   "fetched": "2026-10-19T14:12:43.110354+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "68d321b1e8290807",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "What Do Canada’s Proposed Express Entry Reforms Mean for Applicants in 2026? - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWEVHTjdFNDdWcmllXzV0YmpCUXVtNlUwRER3RUtIZVNDbUgtZ01CWkdraUF3V3h0T1k5QkZ6Tm1uVzF6QXBOWU0wRlBkXzlNN19FUE9neE5nMWM3am5MYlFEbk5EZVp3UFpUWDRxNlR3WnZtaWFTQV85cGZRdGg0UFRIek5ONXppaEpn?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-19T13:53:18+00:00",
+   "fetched": "2026-10-19T14:12:43.110354+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "e197a77c95ec91ef",
    "src_group": null,
@@ -915,6 +990,27 @@
    "score": 2.5
   },
   {
+   "id": "7bbe96eea6421f7e",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Implements Strict Age and Evidence Rules for Partnership Visas - https://streamlinefeed.co.ke/",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczBNUk5ULXpfQTBxLWNDcFFZWXJFQXFFc2VoZlpkZjNrSlpHRDNRV0V3VDN0ZGJrLXVLZHZXX2tyNWlfR0VsZWVGVm1QUjZydlYwY3FWUTFMaTNVejVLMXdnNWtyTFZ5RUhzQThPZjdHVk1SaUhGa0NDYTlRWmlncUtMTTMtaHRiNndQWWRGbWVvVkZvTWZ0Q09WMXJ5T0d4bUc5YTZnZ3N2bzVH?oc=5",
+   "summary": "",
+   "publisher": "https://streamlinefeed.co.ke/",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-19T10:59:33+00:00",
+   "fetched": "2026-10-19T14:12:43.110354+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "7f31ef67b20e31ce",
    "src_group": null,
    "src_country": "EU",
@@ -1051,6 +1147,27 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "cd1a96ccb5b4e6d1",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "US administration seeks review of Maryland offshore wind permit - Windtech International",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaDV1MXlkV1V5MDFVQVZENU9DZE14Z0N0OHN3aWVobWZBN2RoVzE2aWo1ZFdZN3FsV0dmZ3lMY3Bucy1iVWhsejNSTXF0ZDFsSklvUHpiWFpfUlhRZV91UW9LWG41UVp3alRPVG01TzZ5ZHhCNzFKTl82NWVsdXZIZUxRNzdaN2RuZ1Q1QlV0bWJGU0psSkRaWmRXV3Z6bXBMMmR5cjhLc0x2dy01ank2WFpBQUNva2VlQVZQcTYyQ1BoNGc?oc=5",
+   "summary": "",
+   "publisher": "Windtech International",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-19T07:25:30+00:00",
+   "fetched": "2026-10-19T14:12:43.110354+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "f356c0d22d29774d",
@@ -1902,6 +2019,31 @@
    "prio": false,
    "score": 2.0,
    "groups": []
+  },
+  {
+   "id": "9a680e14a2777ceb",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada Overhauls Express Entry from November 3: Lt Col B S Sandhu on What Changes for PR Aspirants - Rozana Spokesman",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNUxHNlVxLW00M3dPRmdlOWM4SGZqMzloRktLQUlLeW9fdU1sc1dzUTZIcWZkOUJzbzJ2N0t2dExJblJSaU94dXVQajB6RU5UVlRfSlNPX1NnRG5UdXIwLVBzV3BhRElEdE1WMnZ4M0FfOWhBRENqUjcwX3c2ODZOSENGUHFra29SN1FkZHRxUGZ4WW9Ca2hwRmJRVF9PN0JWTldLdEFzWUlBSEZCNDRXWlpUbmF6NnlQdHdJWW1tQjI0YzVDQ2NLRNIByAFBVV95cUxPNUxHNlVxLW00M3dPRmdlOWM4SGZqMzloRktLQUlLeW9fdU1sc1dzUTZIcWZkOUJzbzJ2N0t2dExJblJSaU94dXVQajB6RU5UVlRfSlNPX1NnRG5UdXIwLVBzV3BhRElEdE1WMnZ4M0FfOWhBRENqUjcwX3c2ODZOSENGUHFra29SN1FkZHRxUGZ4WW9Ca2hwRmJRVF9PN0JWTldLdEFzWUlBSEZCNDRXWlpUbmF6NnlQdHdJWW1tQjI0YzVDQ2NLRA?oc=5",
+   "summary": "",
+   "publisher": "Rozana Spokesman",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-18T05:14:00+00:00",
+   "fetched": "2026-10-19T14:12:43.110354+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "0181a70aa294ba6e",
@@ -5697,6 +5839,33 @@
    "score": 1.5
   },
   {
+   "id": "4b0dbba51472e1f8",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Top 13 Countries with Digital Nomad Visas in 2026 - Get Golden Visa",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Uc1pHUTY2bDBEd3VFRUY0RnlnQXdGUnVNT1JJWndIM0pVbWZ4V2JIMm1raWVGTk4zeXc2ZUFVcEt1NkY5eWhXUF9odllhd0RyWmJBMnVibXhtMWRBbVE?oc=5",
+   "summary": "",
+   "publisher": "Get Golden Visa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-10-16T07:00:00+00:00",
+   "fetched": "2026-10-19T14:12:43.110354+00:00",
+   "visas": [
+    "golden-visa",
+    "digital-nomad"
+   ],
+   "groups": [
+    "dau-tu",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "1111cf29d8cfa3b1",
    "title": "DOL Announces Enforcement Actions Against Employers in H-1B and PERM Fraud Probe - Mayer Brown",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeDYwU0VxSFFWd3ZWaEd3QXJ6ZWl2cTBkQW5iRlViZEVaT3czZjJGdG9wTXdLVGdGaW4tQ1Q5SzlGbXUybHN2cnR0SGJIck1FQUVpSEVha1FScWZCNlAwanNlZEdFazlFTzFwY0pJSUhpLWVGclE4SlhOX0xCRnUxemxtWkQyUWFDejRYRzJ4LVdEV3U0ZHo0RTNQejB0T1p1TXphRkszb3ZIdDd6VHpabDJHWUQtemJSR080QUN4bUFXUU9tZFhGQzBJb1A1d3Q2N3BMWVVMVQ?oc=5",
@@ -6326,6 +6495,27 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "d39ce3c9e9f5883f",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Could Ilhan Omar be stripped of her citizenship? Here's what it takes - Axios",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pSTY3eTdHRWhPVHhlc1J1VmhndllUTkZEV1FfWlY2cUtjU0hxTEZnYk5HZWpjYzNKQmNlTHVWS0VfQ2o2YjN4MGFXMkp0WUNXN0RzZmEwYnpFVUp6ZXA2VGg3b29FdXRScDRYNUJEU24ycmdoOWJqYg?oc=5",
+   "summary": "",
+   "publisher": "Axios",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-15T23:19:35+00:00",
+   "fetched": "2026-10-19T14:12:43.110354+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "8928452959920005",
