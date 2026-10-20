@@ -240,11 +240,6 @@ def all_sources(tax):
                 srcs.append({"id": f"{c.lower()}-sheet-{gid}-{n // 6 + 1}", "country": c, "type": "news", "group": gid,
                              "name": f"Sheet – {t['name']} – {GROUP_NAMES[gid]} ({n // 6 + 1})",
                              "url": f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"})
-                # Bing News: cùng truy vấn (7 ngày gần nhất), có đoạn tóm tắt bài mà Google News không có
-                bq = urllib.parse.quote(f'{QUERY_CTX.get(c, "")} {ors}'.strip())
-                srcs.append({"id": f"{c.lower()}-bing-{gid}-{n // 6 + 1}", "country": c, "type": "news", "group": gid,
-                             "name": f"Bing – {t['name']} – {GROUP_NAMES[gid]} ({n // 6 + 1})",
-                             "url": f"https://www.bing.com/news/search?q={bq}&format=rss&count=50&qft=interval%3d%228%22"})
     return srcs
 
 
@@ -281,11 +276,7 @@ def parse_feed(raw):
     items = []
     for it in root.iter("item"):  # RSS
         src = it.find("source")
-        if src is None:   # Bing: <News:Source>
-            src = next((c for c in it if c.tag.endswith("}Source")), None)
         link = it.findtext("link", "")
-        if "bing.com/news/apiclick" in link:   # Bing bọc link gốc trong tham số url=
-            link = urllib.parse.parse_qs(urllib.parse.urlparse(link).query).get("url", [link])[0]
         items.append({
             "title": it.findtext("title", ""),
             "link": link,
@@ -315,6 +306,11 @@ def main():
     sources = all_sources(tax)
     old = json.loads(OUT.read_text("utf-8")) if OUT.exists() else {"items": []}
     by_id = {i["id"]: i for i in old.get("items", [])}
+    # Đã bỏ Bing News (2026-10-20): xoá tin lấy từ Bing và đoạn tóm tắt Bing đã chèn vào tin Google News
+    by_id = {k: i for k, i in by_id.items() if "-bing-" not in i.get("source", "")}
+    for i in by_id.values():
+        if i["type"] == "news" and not i.get("src_summary"):
+            i["summary"] = ""
     by_title = {norm_title(i["title"]): i for i in by_id.values()}
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=KEEP_DAYS)
@@ -348,7 +344,7 @@ def main():
             if iid in by_id or nt in by_title:
                 old = by_id.get(iid) or by_title.get(nt)
                 if summary and not old.get("summary"):      # bổ sung tóm tắt cho tin đã có từ Google News
-                    old["summary"] = summary
+                    old["summary"], old["src_summary"] = summary, True
                 continue
             by_id[iid] = {
                 "id": iid,
@@ -357,6 +353,7 @@ def main():
                 "title": title,
                 "link": e["link"].strip(),
                 "summary": summary,
+                "src_summary": bool(summary),
                 "publisher": e["publisher"] or s["name"],
                 "country": s["country"],
                 "type": s["type"],
