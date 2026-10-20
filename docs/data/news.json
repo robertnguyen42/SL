@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T08:07:00.111243+00:00",
+ "updated": "2026-10-20T09:06:01.184479+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -269,13 +269,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 28
+   "count": 26
   },
   {
    "id": "us-eb5",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 30
+   "count": 21
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "nz-aewv",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "nz-family",
@@ -713,16 +713,162 @@
    "id": "ae-sheet-khac-1",
    "name": "Sheet – Dubai (UAE) – Khác (1)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 12
   }
  ],
  "items": [
+  {
+   "id": "ad7a5c0f18baa0fe",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand opens 2 new pathways to 3-year work visa for citizens of 1 country - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVZDOUhncW5kRzRSNnR3ZG8yaWNETy1mcHVlTk41dmd4QjlZYlhjSkVkU3VkWF96SlEteDRHNkVnZHZLM0Y4bG54N2pqUGZTS1FiTEs2M1AwU0ZxUjZwcUdvVHRrZ01BeXlnNW0wWXQ5TkxIb3ZfeTh5T3V3VGVxUEd5VmZJaEw3U1FTM1dHU3pBRy1oR1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-10-20T08:50:45+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "d0ded1e5d2c7b38f",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "FamilyVisa.ae launches UAE Golden Visa portal with cost calculator and 2026 eligibility rules - Zawya",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXJzTDVJb3VIV0FYaGhvNGM4TFBTZWJNdktkWTZnZ1NER2M5YzFVUFJYaFVBc211eDRKbllOOGxVZWVfOEpxaVBTZE5VRVBzVHFxUVA4d2FFRzEzTEh1WXVjREItVWNWRFBWWmcxelAzLXRLbHB4SVh6TGRXTDQ4R1JMZXlMdnBjWm95M2pqZ2hGZWt5dzBNdXY4YjJSd25UN05ES0lNcDdjLTQtcWdXVEFtWGdQc1hCY1dtYlFKNHJpWVJOeWdVMDZlcWloaEMzalUzMkR2b0h1R1ExS0xYTVQ3Q3pGclg0MDZV?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Zawya",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-20T08:41:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "51a9037a2bd22726",
+   "src_group": "khac",
+   "src_country": "AE",
+   "title": "List of 7 New Countries Whose Citizens Can Travel Visa-Free to UAE in 2026 - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSmtvUXpKYmhudU90b3dpMkJnc1IwdW1kUzAyck02cXlXVTNnVmxMdGF5OEo1SHdZN0l2X01QS0ZqR2x4aUlBR1BBbjBSWHp0SjNhR3BieC1aVk9Zdkh3UnVPc0Q3eTFDUVBBTGxaazNFakNLdzhrNkhMaXducmxfUHE3QUhDQXhoZzhWVkRlRnQxZTlGVDEtb2g2Qjc0d1R1Um11QmtCcGkyMlE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-khac-1",
+   "published": "2026-10-20T08:38:10+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "747e96c6fd9789d2",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Announces 2 New Routes for Citizens of 1 Country to Get 3-Year Work Visa - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmg2M1VLZi1XeTY4emhjTGF0aHgyUncyMkMyRW1UUGNvR1g5QTJmOWVyanpqdW1XREJ6TDM3bEFyYUE1dnJ0YlZReUFnRTBWcGZyN05aakN6VC1kTmN1X2pMU2h0V1k1WGZXVko0aGFXeFc1TnhSQkZXV0pPa1lPZXA2Z09YaGdwbWRhRHZJNDhlby1LSUNIR2EyV1hUMmVyR3c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-aewv",
+   "published": "2026-10-20T08:36:27+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "e750e7d945507f64",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India-New Zealand FTA Effective Today: Tariff Cuts, $20 Billion Investment, Visa Benefits - News18",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSkV2VmpEM2Q1eFlVaW1KWlpzTlZRYVNXQmlZSWotUTVpUjByaXdCdWo4M3EySlhHSVN4NGFXRzFzdEdMcFhSc2ZGaVNnQnFLWmJ5RmdpT2h6ZUpaZlFVX1lVQnhabHF5dVlpMndiUHEzNWM4NzRHVWtnQ0N0Mnl4cXZZcnVYcE1rUmtWR1FtSDItcC1LUXVPYWxmbFBlbC1EWjd4SVMyMlhuMmhFZ0RneFJyMUtEdEw3SWpxVmVDbmllTktJMDJ1T1o4aThoUE0xczdDb21n0gHbAUFVX3lxTE5mdHlpUE5PZ2ZycEpxYUR3S2Naa050NG83SHB1M3dwbW40MGdBand1ZmFXR2RoMHp4ZG5lQXFaZ0FNM3FsX2pFNWZXTkpwNHJhU3NIN1g0UTZzLUFhc2ZJNExraHBJd2sycFFRSEtUTFp6MENlTng1bHlyOVl3SjZFRjUwZE9TY2E0R2dMb0tvVUZmZVdIeDhGT1pqV3RzOUpxZVlXR1BpRWw2Ykp6clhTTFN2R2JPTy1GdXdubHR0OU5TVW8xa1I3YjJXU3ZYcGN6anVsYjk3dTR3Zw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News18",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T08:29:27+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "b704f53730ca811a",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "New Zealand Opens First Offshore Wind Feasibility Permit Round - Offshore Wind",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeEZ0cHdjdHMxb21tMlBNZm96MTNEeGItSU5Ka0wwNEd1RjdaYWtjOVdkUUdyVFdBS3ZrMHlWd2Z2S3M3bl96aE5wOFZ5ZkxqY3hrU0xtT2xRdkdrMFkwVlBUUGx5WDBWbEVybEl4LWRDbUVvMkRJM0lDVnJZZ0lScDA3X204NlBxLTQxd05iRVhGUmp4Z0w3R0R5RlNzWDFnMS01bw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Wind",
+   "country": "NZ",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-20T08:26:37+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "6f4df06e1a8461c0",
    "src_group": null,
@@ -1052,6 +1198,28 @@
    "score": 2.5
   },
   {
+   "id": "d2b05a45b3bc6022",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Ireland completes coastal surveys for offshore renewable energy grid connections - Review Energy",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2ZuUFZBV3J4WUV5YTJqd0wwaVd0dS0zMUQ4VVRnZGVrcnJXVzNIT2ZWU19aVTlvOWVobEItQzgtdFo5RF9nVEdxamR0VnZxYWZDTzMwQjYxRWM4S3cyX3oxTEJKY1NydHN0TWhzNDlOZTRpVUFieldxdVRFem4xdVVRdEl5OEZlbjJOb3dELVh2Y083MWZWVDNwWjNLTHFKOGFJVTF1RXpYTUVmSzRkQmZwUnhjR3c1?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Review Energy",
+   "country": "EU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-20T03:36:21+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "1c7d376d51dcbd0a",
    "src_group": null,
    "src_country": "CA",
@@ -1116,6 +1284,54 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "6c6622c97ccd1495",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Former Durham County resident self-deports on one-way RDU flight to Europe - WCTI",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT09Xd3g1ZnZiUENadjdyNEx3eWlCLXZ1V3hyNzc1c3dNbnoyWFZSZi1zVS1tQ1lTaFVCVUlzRWtxOU95LTgzY2NPaDJkVi0zeGQyVEd5S0tVTWRfdkE0RFRYN3Vnd212ZDNsc3VJNTFKOU9tVnFMX0xEOFFYQkI0eGxhMGEwbDNOSjBqSTF1ZC1TY2FfN08wbDNIVXBpVXNBNTZrTjUwVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "WCTI",
+   "country": "EU",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-20T02:40:57+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "a10395207c17ca6d",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Convicted killer Brian Smith back in federal court as trial over US citizenship begins - Alaska's News Source",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQam5tMVdQVXF1SHVoY2VhUkI2dTIycHNIQVdXa2NyWjdxVDk0OXlkTC1UcmxrN0tESFB4eE5yekNwWlUxUHV3SjNIWjd4RmwzRVZEVEFlY2hUNXd0bE1rT0dWQllBUkRyZHNFRjIyaTNkbkh5M0xoUDFlMG5RcEYtM1Q1NU4yMm11N1NMcmQ3cVdKSWxDRGlrR1ZlWHRLckJkbGNXSDRTOHlQUnViM0o5U0NVQkoyX3Z6MWZ5QmxYSVhJdW5D0gHYAUFVX3lxTE13dVJGanFDdzZ4NnFWOV9UbWgtN0FaLXhYdnd3dlozN0Y2VE1fb19lQ2RXeFg1SVhtaXRpSWdVcXBCdmNFUGhpRDMyd2JsWFUxWEtHRnFyUktGOGM5MFhVTDEyR1lsamxTeG5kQlNDNnVoR3JTZ1p4VERQdDhsVGJEMUhjelg3YVZ3REMxT21WaVNFaXNySnJzYUdsdkd3LWhfeHJSTXNpR3Y1SFhGNVQ5dGNDWUw4MWpPUFFPTW5SR2FNdE1tUGdBeDd4VDJ0ZE40YnIyTXg0ZQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Alaska's News Source",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-20T02:18:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -1318,6 +1534,30 @@
    "source": "au-sheet-chung-1",
    "published": "2026-10-19T23:39:29+00:00",
    "fetched": "2026-10-19T23:59:55.048005+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "31138fec4166655f",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Amplitude partners approve Nestor gas exploration well in Australia's Otway Basin - Offshore Magazine",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc3ZKZkg5TzdsSV9KSEtFMUIxaHFLNGxLWms4QjNINERPa2NTaUl0WU9Jdzdyem4zd2tNZkRuZkk1MDg4c2doZVlKcUk1bWRpNU82Um5ZUm9HcnA2Y2hvTW5qVWN3eGlwZFNzSC1pOEJydml4QWk1bkVCSTFaSmdRelVkbXV6WnU4eXYxSm9zUjI4VTNETkxuNmk5eGV4RjdyTWVXQWo0Y2dEMnl0OGNWY2xsdEg3WGU1b29SSy1iamZha2lCNjkzMFNUT3Nody1Ic2ptU2R6X2J2YWlJSi1JdA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-19T23:38:51+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
    "visas": [],
    "groups": [
     "chung"
@@ -1579,6 +1819,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "706fe8b8eaf4dd65",
+   "src_group": null,
+   "src_country": "US",
+   "title": "No Record of Ilhan Omar’s Father’s U.S. Naturalization? - PJ Media",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeEhWVE1HYnZTYVVMZlV4OGRpXzIwSzB0YmlUSTlEenpobVlMcWdDZk9RQktiNzRjdjlVUlE2a0gxcFZkZFJqWW5yLXUxMFBCN1JYTHlIXzUtWVF0Q2FSRU1lQ0pNZ2oyc2hKcVp2YWl1dlNnWjdqWW5HYnA1RERrenBsY1lFSXFRMDRTaVVHLU81MGZqR204ejhLT2J1Y3hESWNnUDVDbFByOUU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "PJ Media",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-19T20:56:18+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "3acc91e721f6b193",
@@ -2271,6 +2537,28 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "5a93c02c0c71f8a1",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Homan: Omar could be denaturalized if found to have broken immigration laws - Baltimore Sun",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV19palJYZkxRMjcyOEsxa2lOUFlOenNIVFdUYXphU3RKNVNMZVBVNEI0VGZybWRtQ1pqdnpHazl0VjhxQzU4bk1Wcks0c2hTUTBPZlhkdUlTdjA4S0F6Y3NtTnJ2eHhWUlYzWnh1ODdtLTMyTVJ0VTV5ZTZ5WEZ0N3NJNTQwNXhEVXI3dXcybm1POWtTMC10YmpNOXNkVzJxdk9ld2hRZ3VzZWpOVlFpRV9yTXotdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Baltimore Sun",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-19T15:22:06+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "c5c565474d658619",
@@ -6103,6 +6391,54 @@
    "score": 0.0
   },
   {
+   "id": "22f785ea2fbe4363",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Top Trends in Offshore Wind - Department of Energy (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04WWdVM0l2Q2RMTnVralhvLVZGaHc0Zkc1ZUpNNmltZ2l4NmtraTA5WW9PZ3EySEFqZGtnem5NdjlzcDVFU2pDeU01TWkyUUJSVVJiTjExRzVac3BYd3hhLWxycWlURGRCUVg0cVBNQ3NIRVQ2VHRKVw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Energy (.gov)",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T17:30:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "c950fbe3336abb00",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "DOE and BOEM Announce Additional Funding for Development of Offshore Wind on the West Coast - Department of Energy (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1loOFpld1otVUtqMVJtblVMUFQtT2Z3MmUtTE5LSG5aZXZMbm9aRUFyMnpvdEp3SDFQR29iNl9ac2FSZVhNR0NoSmdtSlJBU1F5ZmI1VlRVR1hvNmlmR2p0YjV2cEwzdUZveGFIS3pyNU5TdGlOcFRjTG5XYlpaS2gzanhDemVyMEpzc1IzaDZuWGZYRTlpR2E3ckV5WlZnX2FOZUp2ZmJ2TEN1ZGVLeVFqbjVtczlyZTB1d2VjSQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Energy (.gov)",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T17:30:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "3b2fafcaace14b62",
    "src_group": "tay-nghe",
    "src_country": "CA",
@@ -9500,6 +9836,32 @@
    ]
   },
   {
+   "id": "c2436512a57288f9",
+   "src_group": null,
+   "src_country": "US",
+   "title": "HSI Arrests Naturalized Citizen for Illegally Voting in New Jersey Prior to Naturalization - Homeland Security (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHZKM29aUzMyN3h4MGdWRHlvR0l4cGNYUVdmQXRzdHBTMTI1OXRZeEQ3bm51Q3JZeEl0YTBEa2xXNTdwVXBCYkRRN1NSeFBSYVpwRm8wOFdkclJ3UU1haWk5NzFuUmgzbVZuNzBmTVlCZUlpX1BMaVY1S1ptRWNYMWxEVnlSeUJNVFdwT0xzU1k1UFlWc0RMQzZmWmc3LXJrUFR1MWZPMUgyZGVadS1GVHJHY011MVk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Homeland Security (.gov)",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-15T15:55:03+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "fe52bb4231aace15",
    "title": "Voter Registration Ban at Naturalization Events Vacated by Judge - Bloomberg Law News",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTNKWDZLNzVWeWZhellaRnV1ZjZKNmIzcTZVZFV3ci1nX3J4dTk2M2RoMmlzMjN6ODl3Um5TZTRNdk0zbEVETmV3YnMyc045WmRsUnAxVVNVam9kSkxBWlZWa3NZTENnN1BaQ2otd3gtYmVFR3FDem1YYnFsOHZMVjdjZ0FZZnY0cEdsdVJLYVY2Z25aTkRnTTZmeW1YYS12dW5Ld0RGNDQ?oc=5",
@@ -10997,6 +11359,30 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "78401a77a5a52293",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Regional Collaboration to Unlock the Full Potential of Offshore Wind in Japan, South Korea and Taiwan - 自然エネルギー財団",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVQnR5bWptYzVpbUhrMjU5ME00TXVxZTdUcnBkV2QzRlpzel9XQkFpWGNmT04ta2tGTmdDWGRTRWVtQk5UQkZRNGtDajZUODJ5aHNadVBjR2xvcTczR1BBYXdKUmZtQ3pYZ2FRcXRIYw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "自然エネルギー財団",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "0cb19e286a14ecc9",
@@ -14712,6 +15098,30 @@
    "score": 1.5
   },
   {
+   "id": "b599eba1483ae469",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Operator to drill offshore gas wells in southeast Australia - Upstream Online",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdlJZbnJWOXhfVVRjN01pbEVDZGpRenA2a3dIYzZ1bjJ0NzdmejRsakFmWW5XeE1PTW01YTNpZjdFMzZUVlpoVl9qaktabk1IdUNJOTBXdGpKdDNaMC00R0VOWVV0YVFFNS1jTE5QQjhIY1NUN0JFZkdNWXJyLTlWbHdPdF9LcElTcnIxRTY4eWRKN1UwaVY2V0xBcTNKWG9WTzZQNjBOR3FvX3dXVFpYVDJBQ0xETlZTUUxvZg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Upstream Online",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-13T21:43:54+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "c6eb682b0b542622",
    "src_group": "dau-tu",
    "src_country": "US",
@@ -16959,6 +17369,30 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "7424d4611cb09e75",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Hong Kong’s next phase of offshore RMB growth - www.sc.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlBWMHlPa1BHTFdMVU92ZEZ1UHJWQTdyNWR5NHVtRms4djZxT2JYV1A3c0RkUXZVSzBsdHFKUDBneVhxNXdUaWF5SmJHaFNvWE9LOUM1eDZaQWgtRTg5MDZJenZOdmlJZUZiRndrbS1UN1dGbXZsRnJ6LTVFVml0TmlZMHdxWTZDYzI3cHN6ZG00cWltUXhvQVpsN2huR1drWDJr?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "www.sc.com",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-13T06:46:10+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e65f83390e09d04b",
@@ -19971,6 +20405,54 @@
    "score": 4.0
   },
   {
+   "id": "286f4cba4c8ce39b",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Are offshore wind farms coming to North Carolina? - The University of North Carolina at Chapel Hill",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDM3QlpzRFBRVVBFcXpYa0UzT0xqOHZWdzVVbHFMOVZVN3RwZTRqdVIzakE3LUxmZ0ZMNkVnTUlkaURuT0kycWgyUXhzNFM3OEplQmx2QUdNRkg4N3RPT0MtMFJFLWd1Vkl6ZG5iVDNDU3BGb3JiSUhNaVN3VFRpdHA2Z3E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The University of North Carolina at Chapel Hill",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-11T07:00:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "26b01e9644962464",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Battered from federal attacks, Louisiana's offshore wind industry refuses to give up - Planetizen",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0t6ZVJKQkVxNUNXdTlBaEVYSEo3d3NER3kyZzhrRTdBTmdaSzAzTUdtSEt4Q0ZUME9fYlFoQmVtSEl2NmZMT3hmc2tEUVdYdjRvZ1RZcE10U01HbUVTejluQ0ozSDlpSktTcUFqVFk5QkV6dHZiN05tUzJ3RjEyU1NURUpQM1lZWjZzX2p2QzdEWUxsQXU5TWV5NWotazdQOXMwM0RiVzB4dnhGcmQ4Z3E5NHdUZU54Q1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Planetizen",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-11T07:00:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "ee1bbf469051a928",
    "title": "Coalition seizes on Flydubai terror plot to push visa overhaul - AFR",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1kxUVU5XzhQOW9qOTU5ZS1ocmRGdTg3UDlrQU1PaFA2R1dWS05Fb1EtRWJQel9GcWo4TElpaGl5QktLY0M5WjRHVWpTd1YyaEtyZEpqOVpKNGRnT3VNSkpNdHh4N2k0RGZOMlBuWmZGOEJjSi00VUo3bXVyS0w2VFhyVlhGYkJtcGRQdkhVYkFINXVQNXY0Q3RhbmpabG5faGQyblp3RjJpaUtTYnQxT0swZTY4ZFE?oc=5",
@@ -20571,6 +21053,28 @@
    "groups": []
   },
   {
+   "id": "b70476d14299ddad",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Hurricane Isaias Slams U.S. Gulf Coast, Shutting Down 72% of Offshore Oil Production - EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEF1bnNWNlVrWFNxYzJEWXp3UWpNV0lvSUZOYlZYNjdnMXhnaTMtWGpNQ2UwSEFPc1BYZ05QQWR0R0hjaWdudU15VDRCQUVOQVFuWXUxN2RaeTBVM25fc1A1ZVdSRFJhcXNlQUJ5RGtFLWQwZmlVNXNwSnVHb1RHM05UYllmQjk4cUdPdTQxWWpNMU14UDRERXU4aG5hTHUxY0hBX2lzX2s5bmU2VlZhTm13?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "EnergyNow.com",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-10T12:46:57+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "26bf2d6583c45d47",
    "title": "'Migrant taxi service' smuggler deported from UK - BBC",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LVXVUcWVxT2xqQWhrR29JRWNkQ0pUbXJCM2F4ekV5SURfR05mV0gzWG1LR3ZGcTlzbTU1WU1aU3BMVFQxNldVZlhSbDZtdlBnLU1Mck83M0RuVmlMRGc?oc=5",
@@ -21060,6 +21564,30 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "10011728c02689d6",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Officials take another look at hospital use of offshore captive insurance companies - Maryland Matters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1RSbWxzSVNRTjRNX19vSWRqUVhuQVVYNFZQTDY1NF8wRG5JajhjMGo2eDBMczBPdUJHbE1xaVBkT1MwUmcxWFY5Y3JkRm1ZSjg0WFIxcjRqbGRZVS1URE5uU3VXUmZ4VURFQk8wR0RIZk85SFNJRHlDOW5RV2tqYmVtTC0wMUxXU2ctNmxyOC1saHBfUnM5ZC1XdUJLbXgyc3ctaWdfVzBzRm5DWFRIbEw3OUFTUHAzbG1NVnRNX1k?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Maryland Matters",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-10T07:00:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "a18ae40e02c987e8",
@@ -24074,6 +24602,57 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "e9e902f38218ff97",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "News Content Hub - Fugro awarded asset integrity contract offshore Australia - Riviera Maritime Media",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFlPRjU4ZmIxc3pBZ1Q2VnRRWFhkTV8ydWlwcjhWU0lvZnhjZDF2TUIwNWNuRjVScVB0TXgwNnBrOG1OTWVfWEFueFFHcHRidm5XM2ZBVEl1cFFWSndHX1lYRURLNWo1d2tWMW1aUXBhdVRtQl9WYUJXSHFtT21ZRHlXOWQzN25pMHhydlRDVnVJUDFRRGd6NksxbVhtSnFhWFgxbllPSHdTeUZqYjF5VmN4TDQ4UEwtYjFENlAwWFE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Riviera Maritime Media",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b0c4292c42e9736a",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "'Indentured servants': JD Vance criticizes H-1B visa practices - NewsBytes",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeU93NENuRmNmTkRKV18tNzNjS3h1YTI4cFNYenNibFNsMGlBV3hoV3IzSzcxaXJpaHJKLTFvQXZ2Z0p2TDhSOWdXNDhWOTk1alVKSGF2NVB3dG5NOEJlbnJiUmk4aEsxbmxJcnh4RTlPNjU3TUpnUkRVRTJFUXdzUS1BN212bkM2a0FtZnFn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NewsBytes",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "tay-nghe",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "f6cc906fe6524f7c",
@@ -27335,6 +27914,30 @@
    ]
   },
   {
+   "id": "53295b94a798b51e",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Webinar Series Improves Understanding of Offshore Wind Turbine-Radar Interference - Department of Energy (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlpPZEFKWXJtYzg3R3h1ZDdTTHZHXzUtaGY3STF3SEVXRVV3MDFwLVR4UzcweFJnN0pxbWdLczJtTU5vT3I3M3luaWtlb2YtZDBIUnRhbXFRUTY0WFgybGlVTjdrTG5Oa0F1VGduWE5FNUxLZEJyR015eVVKMkJnNDRjRERVX3BkWV8tU0t1d0pSQzdfWEZRT2RnR25ZOEI5RW52anN6WGFWNGRVY3VZ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Energy (.gov)",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-08T13:45:59+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "3b9819bc1f741b78",
    "src_group": null,
    "src_country": "US",
@@ -28686,6 +29289,30 @@
    "visas": [
     "residence"
    ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "22c752ec0ae187e3",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "RWE completes sale of shares in Five Estuaries Offshore Wind Farm - RWE",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTJ3ejdFNVpucTZQTTJjN1VMYUFZcjE2YTVCVWhSSHZWNkhjZ2liWDV0N3VSRnF5RklfUlI3Ty1LR0pWYVQxaUxkeEdWencyTDRUdlFMUDJzdGdkeXRHLVlVNGtoWUp4UE1ZN0ZDX2xnXzdlSEw5SDdCMVNOVmZSS3ZJd05tWFJScms1QnFoVVgwUkNDYUlvVGpXbGJiNmlWcC1sSnV5Q0lEVHFyNUhuNUotUFZqZE1GOFRhVU1mcmdtVnNNNkpsOA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "RWE",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
    "groups": [
     "chung"
    ],
@@ -30347,6 +30974,30 @@
    ]
   },
   {
+   "id": "568fee6a95debd8a",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Study reveals influence of offshore wind farms on ocean temperatures - The University of Aberdeen",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NMTVfOVNFRkdhMWZ3REh5M2pSX1RsNGdHaF9aTW1LZVlDbXNHT3luTkZRbzRQYXloaUI4dkNkQUJTOHZzRnJ3emdR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The University of Aberdeen",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-07T14:06:03+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "80cf41c0887b7247",
    "title": "Migration has become a major political talking point – how do parties’ policies compare? - The Guardian",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNzFEdGdGN1kxY3M5Mm9jNjNwLU5oTWk5eGlkbi0tTGJGNThtNl9ZWnROeE8tUGpvUWR6c3BaTFNkTjMyajBUS2ZuZ3hYVkFMSDYwNWVKOWFvZnFvQ0FBeUhsbVYtZ2hzNWlmY2lNcXdBZVpPNzdJczA3ZGc2dnZSMVhObm9wUE5femJ5MXVQN2wzMkhSMWxOTFFiVWpPTXlfMVB4eFNKLXpNUlJ5VGtOSmFaNDU0b3BaYTNJNlVUeERzLWx1Zy04ckpZd0NORWpX?oc=5",
@@ -31491,6 +32142,54 @@
    "source": "ae-sheet-chung-1",
    "published": "2026-10-07T07:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "bbbac6869f00c4ac",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "The Emerging Role of Offshore Wind for Energy Security in Small Island Developing States - IRENA – International Renewable Energy Agency",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNzNFNkR1bF9mX0pzT3p1NWpHckxhc0lKRHc4WGFvUmtQeHlCQ2NaVW9pZmp5ekdzTkxEckw2YUNLVHlEMXlncFo0UWVfbDI1MV9kLTJFZXF0SDcyVUx0R0Q4QlRYenc5WHFXbHUyQVozZ1VneGIwVjFhUWROdDYydlpRXzVSX3MyWThuSS1GanVra0VxdDhYZ3dZTzBmczhCVE4zWmdSaFBJaXUtU0hNcjQ0VGROVHFpS29vYUc0TXhtbEhvclNERFZ3Z2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "IRENA – International Renewable Energy Agency",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5d817386a601138d",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Area 1, offshore hydrocarbons in the Gulf of Mexico - Eni",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mcTlUTjJnNWpFdHBuNmhQWm9NNll3NS1mRkR2ellVSG8wWXdadlZJTlVqSThwNDJEMjZMWG10d1NkMjJBZFZvaG9aUWNUMHpSaHJDTmRWS3ZjN21yR1RBZXAxc2c0QldCNDFoSEV3cXY1eXNTQzJMUUhB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Eni",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-20T09:06:01.184479+00:00",
    "visas": [],
    "groups": [
     "chung"
