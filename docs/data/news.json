@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T15:09:49.224188+00:00",
+ "updated": "2026-10-20T16:04:58.698533+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-student",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "us-eb5",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 20
+   "count": 37
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,88 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 14
   }
  ],
  "items": [
+  {
+   "id": "56d802765558a980",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada to give more Express Entry points to high-wage occupations - Canadian Immigrant",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDFWUmdUMkZONHlMTnViZVBrWGd0Uk9HY1lKTGxHOVl0SmNidm5nVWhLdXdCMENmMUdGMFE3X2NJLUJ3RFBuT0JYWTJ3QjYwNXlHRmRSWTdEeDVMQjU2VEZwM2VzMkpiY1VKMVZBNDdEM2t0bFNma00ySGdQc3A3c00zZm5jcV9nNm9DNkdiWnR6d3hFWTBVQXdXVU5jS212R19VTFFudw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Canadian Immigrant",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-10-20T16:01:08+00:00",
+   "fetched": "2026-10-20T16:04:58.698533+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "1b0e87d1958dabf7",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Republican Lawmaker Proposes Replacing H-1B Visa System With Merit-Based Immigration Plan - INDIA New England News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYk9xT1VqVlpYZ04wZXRTY1Q1TUNPN1Q2MEl0TzA0SmR0RmFwVjUtbzFqbnpWOEtQT1ZpanpCX05mVE9pblFRUW1ZYzNvX3MyTktIMDhaelFDdkNRRS0tRGJSOHJUNkxBcVotNnZMWkJVY0ZnLVM4M1oyTkdjeHpQTTBKT3AwaHFBaExRYlgxR2NvTDdwUHpZdURtUnUtT1p4TVR3SW0tYUVuQ1hUcmFxUGJmSWlOUTBVN2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "INDIA New England News",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-20T15:40:03+00:00",
+   "fetched": "2026-10-20T16:04:58.698533+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "120250f7bb30ae11",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule - INDIA New England News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2VlQ000bTZfWHFmZTNfRjZGQlV2N2Y3d1I5ZmgxNTFPdllCV1RaTEstUVp0dHNpczF2ckZXbmUyeHZ5NzZUUjBsbVNIaC10ZGp2VWxTemVVRXhQQTM5YW56Si13TkdVanlESWZqRHFBaER3cXJPdDFiM0Yxd20yazZ3eG54OXpEWHhiQkxmdlZuM0l3OHJVUGc3a2xLSWtXRzlfZkFhVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "INDIA New England News",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-20T15:36:48+00:00",
+   "fetched": "2026-10-20T16:04:58.698533+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "b935978025837787",
    "src_group": "chung",
@@ -3406,6 +3484,32 @@
    "score": 1.5
   },
   {
+   "id": "dfbd3e7b58ae5d23",
+   "src_group": null,
+   "src_country": "US",
+   "title": "H-1B Fees, Tightened Rules and Layoff Scrutiny Impact Employers - Legis1",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2QW5DS0gtSUltLVJYVGw1cHpaQ1ZqV09ocDlvNmRRSTlpWXlxUTd5blNNR196NkVEaVltYm5ndnQ0Mi1lRmN4YTZaeWgxMVhGOUlLMjNVcXN0LVo2Q1JZSk15d2NGZ0p1Y3pCLWxGTHVvcmlMblVWdnFCRDZDZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legis1",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-19T13:09:20+00:00",
+   "fetched": "2026-10-20T16:04:58.698533+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "b380a50204f4d2d3",
    "src_group": "tay-nghe",
    "src_country": "CA",
@@ -4591,6 +4695,32 @@
    "fetched": "2026-10-19T12:04:11.197001+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "0c69ece5bce471ab",
+   "src_group": null,
+   "src_country": "US",
+   "title": "‘My rhetoric has been imperfect’: JD Vance walks back H-1B ‘indentured servants’ remark after India’s pro - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSUZnbWZIVmhRV21WS05DeHFKeGZkQWFWY0pWcFA2WmF5S0p4NS0tMnZobXdtOW9hZl9fSHpFY01xZklHVVN2dkx2OHBpdkJUZmJDc0ZURnVxZnd0anlXb2loQ1Y3cGQyZ24wbVhiX3pyVm5XSlBPYnZZZ1FsYkpSd1FRei1TTjh1eHB1aUR2d0xHX0p4aW5vVUhTUVdPTy1meUprTWk4azBkU0NNWkU4UVd6NVdVRkRTWGZuNHR1ekN6Z2V0SHBzbkpKNlU3VnNiMW9UWVBDdDZVV2txandIRUw5TVhjQm5QaGN0cE1sZVoxaGhHWHZCRWpBTWhyQXRMV2l6cNIBigJBVV95cUxPYndwRzA0TEhhVFlsY3RPRzlYdUV5WnlLa1BCOTF6dnJjaUJlQ1duemx2eHlCMUEwUWtmNTVmVHlFT0hvT0FoWUpJWEttYmE1Y2NMN2RDY0JHZTROeTYxMkR1WGkwbWdxZk1QZTMzR21waUVXX2NZOVNjdHZlSU02SGpXSldEU1NscWsyZWt1MEpqaTlSUFpVWTNwYUdocWlTZ2gyQm9hVjlIbHdmZUs0a1JKV0hZaUxHN1p3RGh3NWlzTlFHeXJ4WG1lU29qLXhQYU9ySVh3X3JQXzljRUsxc3FtUkFXbE54LU9zamtpUHA2a3RmbnlpQUw5cUZSNkktSXVFZ2VPQW4wZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-18T09:56:00+00:00",
+   "fetched": "2026-10-20T16:04:58.698533+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -20057,6 +20187,30 @@
    ]
   },
   {
+   "id": "1fd52ab7d0fda39d",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "IRCC clarifies in-Canada medical exam exemption rule - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YZzVhR2ItcjlPeXhMSXRtNE5aTTlxWUlxbmttUU5JSGlmbi1RQWxfRjQwZWc4eHNvajJ0SHU5OTl3YjkwYUpCVXJtQkhIRlg5dlNpWHAwa0dtbmJtZHpqMkhhNXF4dWFFM0F2YVNjZUc2SGpLSkZ5MA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-12T06:13:20+00:00",
+   "fetched": "2026-10-20T16:04:58.698533+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "92d212333b77e6c7",
    "title": "NZ-born girl with severe neurological condition granted residency as exception - Indianweekender",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVFwbFcxWHRvRTc0Q2ZBYzJia0tIYi1CS2FYbUhHRVZnLTFweXVxaVJ3czBxckdTSF93ems1dFpJeXlCYmIxVlY5MjVyeVhmeWpsOVdfR3hHZzliX2tlUEJJc1BJWXVoZklRY0pUaERkblZ5OEFWZFc4NXZkbXdIWXFZNlZtVTVNSHBjUHR5VmdKZEU2dWxTNlZYdjQzMmc2MU5Cdzhtc2trLWNVRmUzRDBGeVRYNk9G0gHIAUFVX3lxTE01bk9mOGQyWlRXa3V3OVRwOWpUSUN0Qno0b05SdzdFMllOUS1CZzNZY3hwT1ItYTNUeGMxcS1jcFlOR2N3MFRWdENpYTRjVnJKdkw0RDNVZFNUUG1Gd1FYZ051RF9hNHdrajgtbVlVVVdocy1WZkhhemljSmw1ZHFwVDh6d3NpalFMOE1CQS1JMkJheWpJX0o1MXZwaG1CSFBuM3B3MzZBbWZDaGhpczFxdVR5ak9jN3R1aS1KZmNFYUFwRGZLWjY3?oc=5",
@@ -22190,6 +22344,28 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "5b78030fd9629a6a",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "UK Border Rules October 2026: What EU Citizens Need to Know - Travel Tourister",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObm03V19iMXhjc2VKY2Q0T1Y0eGNPaUNPbFE2ZmF3WHE0akJNaUUxNlVxVzhaUVFfb1lVUVRkWlBXdkNJdHJ1amQtSUZNSHBoUlI4eU1xZ2tadm9HQ1Rjdm50VGNBd3RIV005T2M5aXF1TDJJbkdjSHBmODlscDA3cXpvbkhlM3RhZlY1SThGYXpJTExsaFFxRkdxbWt4OVhSWFdpQzBiX2VBOVY2?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Travel Tourister",
+   "country": "EU",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-10T07:37:23+00:00",
+   "fetched": "2026-10-20T16:04:58.698533+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "c4ba56727be5db78",
@@ -33089,6 +33265,32 @@
    "visas": [],
    "groups": [
     "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "3630a6669b1e71c9",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "High Court to hear Palestinian student visa cases amid urgent Gaza concerns - Irish Examiner",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Bb1RITVFsZF9peVVmbVJaeFNWYlE0ZkZuSFZQWTlNWjhiTVhJeGUwMkxtY0V3a2dWQk1nTE1QZ29rWnRUZEs0cFE3R1EyVzhoaVA0Y3lDeFdrVFFPeU5MbFFvcw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Irish Examiner",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-20T16:04:58.698533+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
    ],
    "lang": "en",
    "policy": false,
