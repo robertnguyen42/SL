@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T10:01:53.205608+00:00",
+ "updated": "2026-10-20T11:00:16.180272+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-pr-citizenship",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 32
+   "count": 37
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 13
+   "count": 9
   },
   {
    "id": "eu-family",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -623,19 +623,19 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 9
   },
   {
    "id": "nz-business",
@@ -653,13 +653,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-residence",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,88 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 12
   }
  ],
  "items": [
+  {
+   "id": "054321f0c313d7c5",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada Visitor Visa Wait for Nigerians Hits 103 Days - Innovation Village",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWhWVHZwQXhwWXNtSW1paGlrS3RHOGRzanFmaUx1bDFqS2UySHoxX19tY0NBbnF0bGtPWV8yYkdiRFFsRi1Idk02UHRvUlE3azNRT2NQMnhJOFFYd2FMWWRQRDFfV0ZDUUZSb0RIc2JMNDZORTV1T3hzZ2tkSXd1c3BtbXh6bW42eFZraA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Innovation Village",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-20T10:29:57+00:00",
+   "fetched": "2026-10-20T11:00:16.180272+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "e244945e5ceb2a52",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "New Zealand Lists 3 Steps Foreigners Must Complete to Obtain Employer-Sponsored Work Visa - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWnZvM29xVWstRjhWVE0wWmdUNk5iSmlfaWRCeTRCQmZ4UUdBLU43eW5GU1B2UEp5Z0JOQVVDZUVVYWd6aF9qVC1qaUg3c0VEMVdYaGtGRWJteHJlMmU2eDNma3hpeXVIWG9ZUUU3cWpqR2FBQ2l0TVJDX2xkYlExRDBOcFcwMWxLMUNKU2RWWTgzWmoxOVlGUWxWUi01M0hqdHlWRVk3ck9hVkV4X3FudU9UMkxrZnpJX1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-20T10:22:16+00:00",
+   "fetched": "2026-10-20T11:00:16.180272+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "c3ea8dafd53f1821",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Schengen Visas: EU opens door to visa-free travel for five Gulf countries - VisasNews",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFRYTHhsX1FJQXFpcnpKXzdkYWVNQVJfekpWUlFOMHh1cjBsTHM4RjBoSVJFbEhUa3UtQ01VTzM1ZzJ6cUF3TVBrQlFfd1BPUXEwVXh6c3doQnFnSl9YZTEzSVh0VHYwWkJfdXhEeEZfSnZwMFl2REFXd2libHV4eGhTQl83TGtXVnRXWURyRWtWd0loNUdUcjRCRUhteFk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "VisasNews",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-20T09:47:40+00:00",
+   "fetched": "2026-10-20T11:00:16.180272+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "e6806c39def168fa",
    "src_group": null,
@@ -853,6 +931,32 @@
    "direction": "noi",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "068c0a87b1adcc94",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Requirements for India Skilled Work Visa jobs - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVNnR3lGTGdONExJZXJZRjFMVlVWS1d6bVc1SE40dlA4UkZIQ3JfcHZqSmVlYnhKbzZVajc3NUJtUzJHMFNVRWxRekhVMjdYbnA3VnI0NzN6NVFJRUNvU1F5dVlONVFGUnFESlF0UXMzN2RvSU03RVdOWEdfZzQ5QUF0ZjZfVjl6cDVGVVFwWG5CcmNDTmc1c0xER2kyM3pkVXZiZjhZa3Z1a3hZSmJVYg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-20T08:38:24+00:00",
+   "fetched": "2026-10-20T11:00:16.180272+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 5.0
   },
   {
    "id": "51a9037a2bd22726",
@@ -7043,6 +7147,32 @@
    "score": 0.0
   },
   {
+   "id": "6ea30c4f70084bff",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "Abu Dhabi lists 2 relatives foreigners can sponsor for residence visas - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGQ1YXJoWjVxdVJyRFplOEdldTBVaUUyRG9STkVyWHEwWURRREdEUEtwWlhBSGZQNXdGdm0xM1YyZnZKMjFJZHRUWGdhMjBEZVlYVGk5U1dHWXZlVmlSMGw1ek9ZZWdsSVdBQ0xzc25FZG00UU9CUElhY3I2NlNHVXdLVXpMb2NJTUgzdDJQTjlXd2J1eWU0RTVDTHBjOXFoZ2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-16T14:25:02+00:00",
+   "fetched": "2026-10-20T11:00:16.180272+00:00",
+   "visas": [
+    "residence"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "3f170e82fe4121d1",
    "title": "BENELUX: Coalition dispute in Belgium prolongs ordeal for Palestinian scholarship students ― Draft law allowing ‘home visits’ moves forward in Belgian parliament ― Council of Europe publishes report on anti-trafficking measures in Belgium ― EU Court ruli - European Council on Refugees and Exiles (ECRE) |",
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQdVRiTlFkYTVlSWZzbFhYREF3X3RxVW1pUWtQX1Jab2taV2gzSThCTlNYSG9pUzhEX3phWDFyREVDa05WVXRlZ2JISUs1c25KQW4xMlVMX3FQbjV4bE80RDVtRmJ0MkkxT0VWVU96VzJtV001Z2h1Zi1MTkhOU2ZlaHF0SWxLRU8tWFFxUDBBVHduRHMtbVJKWnN6Njg1VWJrd3ZOLXFaRlZLUjZMVk4xTHhHcEI1ZjJQTDRaRlB5VldJMkNrX1RVVmRBMWVzVnprZlZNZlFjU0UyR3NlRGlZMzkyU0tQY19vZi00d0JPNU01bXR6dGRSeEdHNnlvWjByaDJXMGllLTNhZFpwN3hKajJyQzVIMXFTSnVsZkRVT3o0bi02VEE?oc=5",
@@ -7851,6 +7981,28 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "a2256aa8a7d24457",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Trung Quốc kêu gọi Israel ngừng xây dựng khu định cư ở Bờ Tây - VOV.VN",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1BjWTRFUHQ2N0JkV3NxTjJBVl9tTlMzS3JweXlSbW1pVUJBUXowQTJnLUhiVGVHWUFkbWZ0ci1FMkZ2a1JmUGRCSDZuLWRGeDVadFJxT0Q5QjN2NXJGSERZR21fem9TeDBhUkJBSGRrazNnUnZKTlBoSzRJVnNSUnBTWU1Ha0F1bXNNeXd5ZU5CR2tPN2NuaDdfM3V1UkN5d19N?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "VOV.VN",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-16T10:04:44+00:00",
+   "fetched": "2026-10-20T11:00:16.180272+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "9c68dabaca82e4b7",
@@ -32610,6 +32762,30 @@
    "groups": []
   },
   {
+   "id": "dd15c65557a1ef82",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Canada Puts $1.2M Behind Francophone Immigration Push - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOEZkNjFTRWdwS0plZWs4WDNheVE4aU1DaWFiNU1xUlJXbXRhMHhhVHFXR3RLREd2MnhkX05nVVU3dE0yc1FycVhqV2poeG5WZ1M3YThYRUtCM0RKb21idXNLTVpVY2tJaEZfNmZXMDk3Z1EyVm1IQ2pyODROWngyR2NVQWNxXzl1dkhBRjdXRndyOENyd2J2TFdUdkpyOE0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-07T02:53:15+00:00",
+   "fetched": "2026-10-20T11:00:16.180272+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "0b47f52b9d577031",
    "title": "Canada, Brazil, Mexico & Venezuela Immigration Updates - Clark Hill",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN29jRGZwTTJrTmVLMGt0Z0R2Y0dXbmFsSWF1cklWV0o5X2dBWnVPR2ItQmhMUGFGVXRZX2Jza2NIVVdGQkEyYmJNMFZDZ1c4bngwTGtKUWc3OC0wNk13YnRMRVdWUVBnUXdxa2FiVGFOaUQzdkVKbUJYLXJBeF9sWWlhNW91dG0xLXozOE9zTk9jV2FKQVRDNzlmdm9CYUZHVXlSdFNncjlxN3duaHU5aVhPbWg?oc=5",
@@ -55264,6 +55440,28 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "b2ba0aeaf56dd511",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Lords committee raises concerns over Home Secretary’s power to change immigration rules with no parliamentary scrutiny - Electronic Immigration Network",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU01lejE2TU51Ujh4TlhPVHh3eUNEMU1mTkUwYUxCcWNFb1dMQzc2MlY1TFdNV0k2STJrdmZFUWNIbk1hQmdQVDNTQTViMlFFLVZkdW9RSE9oNnJ5Q1RkVVdoV3NuenVZMnRJSWw3dW4yU3FCV2lEOVhkY1BPeFFqQkNkTGtqdVJTbncxUTRkREZBOF9aLUVjR3lzcDNBNVRYajRodi1IbGFJREdrWjh2R3JDblU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Electronic Immigration Network",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-20T11:00:16.180272+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "15deb630b6ae09dc",
