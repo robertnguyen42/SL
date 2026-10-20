@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:29:44.752208+00:00",
+ "updated": "2026-10-19T23:59:55.048005+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "nz-family",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 13
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,29 @@
   }
  ],
  "items": [
+  {
+   "id": "a7ca1ca30caf9990",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australia clears Bonaparte offshore aquifer for CCS development - Offshore Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR1JUSzc0elZHd3ZuSTY3eHdYb1Z2RWpjdENBSjh2OWZXb3dneUV2bU5QdjNQLXBBdEc1d1JMa3EzRHVjeThrXzF0VGpLRktreXk4ZnMzcGUtVHFLZ2FzaGxBeW0zQ1BrcmpTclhYdnYyQjREUHhhWDRkVWVVLWFVYUxQaTlFel9LRVhHNEdyZnVhOTR0MmkwU2k4VEVJT2FCZ0s2ZXZNbzlGM1g3SHFLQ0Q1OWF4WHQtRGRxLW83QWs1SDdKVG9Qdzhn?oc=5",
+   "summary": "",
+   "publisher": "Offshore Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-19T23:39:29+00:00",
+   "fetched": "2026-10-19T23:59:55.048005+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "18936e1ee4f043d0",
    "src_group": null,
@@ -1183,6 +1206,31 @@
    ],
    "groups": [
     "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "2f2bce20c624e9de",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Australia Blocks Many Temporary Visa Holders from Switching to Student Visas - Mwakilishi.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT3hwNUVEbDNFQ1lBQXpJNVNVRTNsTXZ5Wk52OTN6eTFveXQwWW53RHVFU3dub2xSX2VPTGk5bU0tNUxzRTdVczhvOFFKVmdmZWRDNTJNRFlzcUdFWldETlN3eS1FY2hSOFpuZ2xmZzhyWHVQTDdHR1I0Yk5JWGFDYzhORk9rS3Y1U09mYWVVYUhmeldVZ1FQRGJLQXZRUl9NSGJtSDdJLXJNN05mU2dLcXUwTWE4UQ?oc=5",
+   "summary": "",
+   "publisher": "Mwakilishi.com",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-2",
+   "published": "2026-10-19T18:38:43+00:00",
+   "fetched": "2026-10-19T23:59:55.048005+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
    ],
    "lang": "en",
    "policy": false,
