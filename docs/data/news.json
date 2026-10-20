@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T19:30:35.470325+00:00",
+ "updated": "2026-10-20T20:25:19.502467+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "us-sheet-khac-2",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-aewv",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -724,6 +724,54 @@
  ],
  "items": [
   {
+   "id": "1c76d3c739dbc930",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Announces 2 New Routes for Nationals of 1 Country to Qualify for a 3-Year Work Visa - GistReel",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2NobXRWRE4yUXZpakh0M180QTQwd0dwZ2hieGJUUkVlSGR4VUpMRjFSaEZhenk1STlTYzBJd2lmejFlM3NfOGxIcllpMXFYWXNBWDRJbjFGbUpRcjlXTnNic0ZsUFdEenBfODVGLUE4QnktT2FUczVBcHhDLVhSWF85djZnMzdDMEZJUE95dzJxLVVFRjBtOE9SemdWdmFWTTBLaU5CSWxaT20xWmdmZzYzYjN3Tk5YeHJHb2J3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "GistReel",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-10-20T20:22:16+00:00",
+   "fetched": "2026-10-20T20:25:19.502467+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "3bc1af14ddf06532",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Palestinian student’s visa refusal was unlawful, court told - The Irish Times",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjlZcWFSVEF6RWJBY0ExUXFXb3A0bjZMVHpiUEF0ZlNSXzBXdXVHa3RCVmE1UWJxZEtMS3dYNUFBb1dSMmtCeTlGekt1T0JGSGlOanJzbDhNdTM4ZnVFUmgtVnRITU9JbmJvZFowTDVtMl9BQWpDeGEwTkhBM21WNmR6dU05R21jV2JvaGk5d0VSaEMyaEpkbUtfMTFfeDB0cmVwNlVBQWlkazF2RFlmYlVCMA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Irish Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-20T19:23:28+00:00",
+   "fetched": "2026-10-20T20:25:19.502467+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "a504fb21c3974532",
    "src_group": "tay-nghe",
    "src_country": "CA",
@@ -764,6 +812,32 @@
    "published": "2026-10-20T18:48:34+00:00",
    "fetched": "2026-10-20T19:30:35.470325+00:00",
    "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "c8678236aa5688de",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "How a relative’s succsesful Canadian citizenship by descent application can unlock your whole family’s claims - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdnN5MWdrTDJENENRaXZvMVN4S2lLejR4WFdOeXdiaEZMRFVRUFVjRl9kSGRyU3ljaWtGVkYzV2V2THd4ekJaYTVDb2VRRFBtYXdFR1MzUmsxTEZvcEJ5S2lnbFNzcDJaVkZUUlVaYkJPSzJSRmZuNE1jZlVfR2lGek5peDhrZ0djaWJWMU11dU93eUM3dWxVV0ZJRy1uZHVuY3JJNUIya2V1VUJoeHRQN0l4QmVJZkxkc3ZqN3RFd05hQ2V3eU1oRjliR3VWTk5GMC1WRFRfQ3h0Ql9scnE0N3hxQmJxb3fSAewBQVVfeXFMT013cFZvdnV3TGZoVld5SmpVVlNkbjRyRkJEUTFOTXRJaFdGY3ZHUTE0cVkyaENKWl84VzZrV1VteVFCMEJYV0xLNGlGRXAwS0JyYzVmMHdrSHYzc3o5WW5NQ1FMWmliVHVMSEUtaTB2TENmUmpMSEFBMm8ycFpVcjlOdnRBQnlQRmJMRDNxTlpqNy1jUkMxcURDcjBLWXZBR0FPa0oxRlJYUGhSQUFPZ093WlhyM054ckZzbVk1cklGaTl2YzNEUnQyZWxibHBqdzlaY2lheWg2RE9nSlFCMnZGUW1EbmQ2cVdka1A?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-20T18:43:58+00:00",
+   "fetched": "2026-10-20T20:25:19.502467+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
    "groups": [
     "chung"
    ],
@@ -1088,6 +1162,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "4feb472df3d897d5",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Why Microsoft and 7 major companies face US green card restrictions - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVlCZDVwa05keEhKMEpOXzF4dVB2U1NkT2pZbUpmeVpzdkx1bTR2blpkYzdVcHlkdnRpQm5NV3B5ZkRDUVdfcGVQblpqbFVpVEw0aEZybzlXMjZURE5zaGc5Q3NEUTdGT04wYkRYemVYY2JDaHZIbTcwTkZRdXdMY2xHTFZfVGZtSk5Nc1ln?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yahoo",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-20T15:20:00+00:00",
+   "fetched": "2026-10-20T20:25:19.502467+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "b935978025837787",
@@ -2667,6 +2767,32 @@
    "score": 2.0
   },
   {
+   "id": "1a054c88c564e818",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Dallas man who died in Laredo ICE facility was lawful permanent resident - The Texas Tribune",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjJyOTVrcUJKdGJLV0F4U1dZSzAxOVNDREk4MV9LVF9HSFhkWDlOdW1kbVVBVWpMTmpWejNjSndzMm5DSGdkeU4wb3R0N2JZWHY3VVBqd3VucTk4Z0NEbUFSM1NUWEdydmlKRWFrOVhGRTd2ZlowajA1elM3QVE0a2VhX2p4UEljcktRazVpekNuV0VXMmZwNw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Texas Tribune",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-19T22:57:40+00:00",
+   "fetched": "2026-10-20T20:25:19.502467+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "ccd3654781f48756",
    "src_group": null,
    "src_country": "NZ",
@@ -2921,6 +3047,34 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "892079bb7a62e348",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Green Card ban: Tech firm Cloudera agrees to pay $2 million and accepts 2-year ban from PERM for discrimi - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOM3oyNFdoMTE5QXUtbVlrX0tla0VwLVJlSjlJS2lNd05XVlkxa0hqTmoxdXU3d1ZoLXFFcUhyaWMyUEVKYV9fTldPWGduVG95VTlaZXVnb2g2VF9uTWY1cjF1b0Qwa2hhZUtUNy1rTkpROXc2UWdMcWZ3MU9HOFByMV9zbjJSaUc1aDk2bGFGWXFuNXdBU0ZYd0VxNEZVTlJtLTcxS2tCVXZ5R2VKeElqYjF2U3B4Q2tJTm82eG9oZXg3Nl9kUnd5UlBGTGs4Tl9LY1N1eFNLcjkybTNuRXlQX3RNYmJERW5jeHk4S2FvUkVOY2ZLSUZMY19jTmo2aDhMakUxTVRkMGFSZkM10gGSAkFVX3lxTE5rYTNFSm50dGVOS3F5dnB3QVFxNDBnaW1jdEkwQklqMFhjUzhORDBaSUxCb2d3YXgtYzQ4dG9mMm1NNFZjNkZjcUdHWXVjZFBaZlBmOGxFTThkVHhsT1RFeFRNZDc5R2pJZF9ZYWVYNTVIT1duQ19Ra1hqejVHU1JQZUlxdmJKeVFmSUkyOGQyend2dXNJQUk3VVNwTjRkZExabzVhTjkzYm54SzlhN0VZM2t3N2FzdHFsMFdjaExQV2VQX3JqajlMS1BWN0EweVRwRm5jZk04YWViMDFoQ201YTBaTG9iLUtRN1RLaWxNYVczYkxadjBtTmlqNlE4S2RvTGloMm40TEtXVUxna0JEMWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-19T20:19:00+00:00",
+   "fetched": "2026-10-20T20:25:19.502467+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
    "prio": true,
    "score": 4.0
   },
@@ -24437,6 +24591,32 @@
    "groups": []
   },
   {
+   "id": "b6c001027c9e3b16",
+   "src_group": null,
+   "src_country": "US",
+   "title": "MEA slams 'indentured servants' comment on H-1B visa holders: What Indian IT workers can do after US stops ... - Bhaskar English",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYTRrZjA2RU5nYm1LU1JOdThRQnNibk9CMWlPZVhoRE1fbHRFdVpsR0VKN0E1MDBuenBiTUdfZjFyZEF0TnZTQXo5dkJfaWRTMGRiQnF4NUJMcGRFWnRhcVBjNnVHd1lJLTQ3dldXWldsZmhUbEgxcjc4TFFaMUh6NjBWdmJFcW9yWjVIakFFb3lNeExLdTBOT3hoeFZwOHlYZVFVcEdmcDhxUUIzMlBEaUM3NmRybUnSAbwBQVVfeXFMUFlmYlpRazFjSzRDVFJQTlpaTFBjd3dpX2xzRFpWRnAwTWdXWGRIYmVSdkhIdUFTMGZEZVVjRHduRnB6RlQ0U1p5NDBKLUtCcDhBUUVEby1WdU9XcjJIaGFCc09BUXVtUW84WkdYMlhTOXMxYWhvQ0pkOXc3Vy1ma2NFRnFNM1pjWnZZWWZxaEl4VWgxazZVRnphZm5tUG1KRENmRnlvaHJDU0E3WFNUV0VyNExmRi00UERzaUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Bhaskar English",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T13:43:50+00:00",
+   "fetched": "2026-10-20T20:25:19.502467+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "866252f8feb618d2",
    "title": "Trump administration suspends Microsoft’s use of green card program - KIRO 7 News Seattle",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczk3alJRR2hIUkNTWm9kTjVkZDBScV9LV28zbTNGdzNZVWV3cFBSMDNFVnctYUdGNnNDSzZMSTg4SzlvazB3SU5WU1hBUkY0dkY2ZGhTUWJDSGRhZlAzUWRUbG40R1RVUmYwUlNGMFAwS3E0dzNNQUZzVFJFRl9VOWFwSnRyRW5tS1JRWVo0bnZGeFFsT2FGZXpWU2psQ3JWMWRqbnZ0azQ1ZGs2RFpDVHZTYUxxQjQ1cXdfOTNVVHZjd9IB1gFBVV95cUxPR3RrOENxdlZ1ZGNnQU1GVmQ5aGN3TnBmOHp5SFRoYzVLTmxCaGNMWHJZQ2VuZEE0dkxDSzl6RHA4OEtCcUQwOFB6VzUzSWdNdHFNZUhOWHhzMm9UdUJTaU5EeHN0emtFekItZEhOTFlPb2ZwYldSY1p5TGZZQ3p1SXdxWmxYWVR4dWl1QmdDUFI4dmo1dTdjdlM3TVk5MVlQaE93UGNISGFINk9vWVFTd1RtaTAwU2NjbENCYkxkVFhaMnhLMGotb3VCWUxRSWtDbVYxa2ZR?oc=5",
@@ -39187,6 +39367,28 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "c4e099a8d3aae5a0",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "8 Schengen countries with easier visa routes for Nigerians - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1FxQ1NKcWtJbHE2LUZmOWE5QXotaThWa0lUcWp0RE43NFJEU1pnZ0dBRGRWR25YN3ZVZG4tRHhfR0Nid1dHQ2MxWGtuRmFLMDBSdk5ES1I3Zm9aeUtrdzlROVhTcjQ1MUZPc3RGU2QybTNmUzZMNkR4Q1FiYjJZZU53QXdydzZkZmRwd29tYUpmVTZnUlE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-20T20:25:19.502467+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "9c24db098c37e744",
