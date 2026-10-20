@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T20:25:19.502467+00:00",
+ "updated": "2026-10-20T21:00:31.131695+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 22
   },
   {
    "id": "au-en",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 10
   },
   {
    "id": "eu-student",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 28
+   "count": 15
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -719,10 +719,36 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 16
+   "count": 17
   }
  ],
  "items": [
+  {
+   "id": "69ad2c9c9b6a902f",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "How the Trump administration's crackdown on international students could affect the economy - PBS",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnRrUnp5Q1FPTmpfdmJFdlprdUVqRWVaQzBtY25mVFFqNU8wWlZoUG5sTXFUV3dPRWRvSDZxRVZQX2IzRDRncEpNdTNqRnljbTFLcklyRjc5MlRqNXo0Y0VOMF9oVWpVeXQ2Yk5EQ21IYlRzeXgzblRqT1NGYzNXRjZzeWxRWFdlUmc5LXpsdjRQM211Qld2MVdKVVQwcXFyOU9XaGgxVHdUNWRlZlU4U1B5QTd0eUtLWTktRnpFeE9yNnNkaXlJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "PBS",
+   "country": "US",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-20T20:43:11+00:00",
+   "fetched": "2026-10-20T21:00:31.131695+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "1c76d3c739dbc930",
    "src_group": null,
@@ -788,6 +814,30 @@
    "visas": [
     "express-entry"
    ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "bfba3913b121f203",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Australia Publishes Full List of 59 Repealed Visas Foreigners Can No Longer Apply for - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0hsMzBSM003OVN0WlR6RU44ZG91OV94RVVaU3FiWmlOeWltOVRXZjRteldJSVEzWjN3VTRGaE56RUVXRUlCdFRUX0F6UXZreUx6dlBsWnFiRjl2U0JnNENEVlhmWjlKSGF1b2VpLXJKanVqRUlsY3JFUDJsekRXdGxyVF9oMDRXUHpiVC15NlpKdkNYSWQ0al9qSUVoWlJoV185UE1nTWlNRmVfc0NoNWJ3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-4",
+   "published": "2026-10-20T19:00:29+00:00",
+   "fetched": "2026-10-20T21:00:31.131695+00:00",
+   "visas": [],
    "groups": [
     "tay-nghe"
    ],
@@ -1090,6 +1140,32 @@
    "score": 0.0
   },
   {
+   "id": "9e3ed5ca3f820fb0",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada Introduces Policy Allowing Foreign Workers To Study Without a Study Permit - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTh0cTZ4TXpEanZQZVA5T2p5R3otRngtdVlWVUxCb3NVd2VMZzVMUWdZNUxJbVBOa3RhWkdWcXgyY1NaYzN6NUQzVXQwaDgyQmtWQ0RBY3ZWX1NFVUNqcGRCb2YxLTZrblhzNzg5b2pscDllcWh2TXFwVFpvSzdNU0lpTjI1ejB1REJVVVBNYk11TjEzNzY0NlNNeGUyTmxhSWM0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-20T15:51:27+00:00",
+   "fetched": "2026-10-20T21:00:31.131695+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "1b0e87d1958dabf7",
    "src_group": null,
    "src_country": "US",
@@ -1157,6 +1233,32 @@
    "fetched": "2026-10-20T17:05:27.642966+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "2a24fdbb6048dbaf",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada Allows Foreign Workers to Study Without a Study Permit Under New Policy - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTlhSSGE2SmV0MDM2VG9wdjdZSXYxTkpFNjdwcDhaS09CYTEteTE1b1A3NUp0emNPaEs3c3BLY1VNVGxYQ2dIVjhOU0MzRDY0Rlo1NHBuenVJLU5wSklpUmVHLVdXQVpOTTlXZnBOeFcyTGltTHZkc0pQWktfZ1AwWlVFRVlILVZyZmt3eVZmOTNvVGo3N09pZFpremdPQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-20T15:22:22+00:00",
+   "fetched": "2026-10-20T21:00:31.131695+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": true,
    "direction": null,
@@ -10885,6 +10987,28 @@
    "groups": []
   },
   {
+   "id": "47b6e76605d28f7d",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Germany Introduces New Visa Options for Pakistani IT Professionals - TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUIwbFBmOTczWFVDRnZMR2lOMjJBdHMtN1lhTGdJb3RIcHB0T2pfVlNTbVdJVFFFQUwtLXU2am5VUWxPcWtFWThLWjFnSFN1X1hkT01ORTN5c2FFSWl1TDhGd1A1a01XM0I5ZzdjVmFzT2lIYXhlYnNzdkFBTmEzdmxidkZIelRtU0VESkZnRWx1UW5YQ0lv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "TechJuice",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-blue-card",
+   "published": "2026-10-15T19:14:52+00:00",
+   "fetched": "2026-10-20T21:00:31.131695+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "464abb8c0467060a",
    "title": "Wait times plateau for permanent residence and citizenship applicants - CIC News",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEZwZnlNcVhNVTNLODBhSjVidEwwa3owZWU4Y3hTZ0xJRjZiMzllQ0VNM1poU3dEelVLWENheVY2em9SclZyb1E5TmpBTnBkM09iMHhpQnhscWx6RzRJWlNaRU9OVjliZldtdWNZZ2pWM0V4emdMSUJwWDdQTVNCWGNGcHNkaEY4aTJHVFpwSzBwSjB0aXdzUTJ4eDBKU0NNYkI0VkZwQmhkWFNqS3JOV3N5Y3BGYl83d1HSAboBQVVfeXFMTXBGcGZ5TXFYTVUzSzgwYUo1YnRMMGt6MGVlOGN4U2dMSUY2YjM5ZUNFTTNaaFN3RHpVS1hDYXlWNnpvUnJWcm9ROU5qQU5wZDNPYjB4aUJ4bHFsekc0SVpTWkVPTlY5YmZXbXVjWWdqVjNFeHpnTElCcFg3UE1TQlhjRnBzZGhGOGkyR1RacEswcEowdGl3c1EyeHgwSlNDTWJCNFZGcEJoZFhTaktyTldzeWNwRmJfN3dR?oc=5",
@@ -15410,6 +15534,32 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "6f9926cc2ac9d382",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "UK study visa refusals impact university offers for foreign students: Report - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQndScWQxVFhqTHJVdzE1Sy1IMW42UU54N0NBUVhKRXZCQUxhQktJQkM0b2RWM2s1WndDZ2F4QWFXclNHdzZPUlVtS1B3b0VKcFl5cjAzYTBRcmFJRjlTY3lFblY0QVdXdXFCTFlOemNodnByeDg3SElNUHF5NWUtLUdHQ28xd3llbnc5dHU4Mjl3TlJocjBzNVRrdmlxUHFkOGxHQVFISXktdGRWTDYyZUNIb1lWby1abktMdHY1UkZaUHRidC0ySVgwM3Q4Y3VGRFBjMFJ30gHbAUFVX3lxTE1Kb1pVSV9QNElnUVRTMlZLeS16SVNiVVZxUVhUTEJFaFVyaHQ1WG9EWFNlTndFX3NyZERuSlloQVhOOGJCQmJWeHFmY2FpTFRhZ3dBc1h6NkVaMjBON1ZuRmpnYmIyc214b0ZGZ3JxeWpKOEV3d0VQNF9yU09nZURKSWJrcUVPZmJwMDFzLWhGWi1GVEt4RGoweU1INGZDTkpoUzd6SkZXT01JcFlKS1ZodXl1TkdEbW13TkZpLUs1YmNSc1QxZ0Z0LTQ2R0NfOUdCWXdHRWxBOXp1NA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-14T10:49:42+00:00",
+   "fetched": "2026-10-20T21:00:31.131695+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "18f319181e7a049c",
