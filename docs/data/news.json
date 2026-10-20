@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:37:16.974971+00:00",
+ "updated": "2026-10-20T14:28:44.025935+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "au-student",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 32
+   "count": 34
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-sheet-khac-3",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 14
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-2",
@@ -713,16 +713,84 @@
    "id": "ae-sheet-khac-1",
    "name": "Sheet – Dubai (UAE) – Khác (1)",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 0
+   "count": 13
   }
  ],
  "items": [
+  {
+   "id": "b935978025837787",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "GDRFA Dubai's award highlights leadership-driven transformation in government services - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMElfWVhqam5RZFhCVlNfd2g1ZF9fOTdRWlB5LUZVQjVITW9HZm5IY1hvZzZNUHUtdEY5eDhrem5fWGpYOVV5TlRmZ3VzQlBfQ0JKSUpldWJUSjQ3QWxWT25RVkk5UWpHejBVM1NZU21wczZBemlZcXNyeG44TFpWZ2JET2VYLUE4WWpoc2IxVFk2RmNyXy1qQWt4UTlNVTBZMWlXZTBLVTNsZmZpZkEtUUdFbGZMbDVJZ3lxNmd5cw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Gulf News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-20T13:51:39+00:00",
+   "fetched": "2026-10-20T14:28:44.025935+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5bd18d3a45c65f01",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Politicians’ immigration race to the bottom ignores its success - Michael West Media",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2lXQUJ1OUxYWElTZHhQUk9rX3d3bmUwMThMZGI5VnlpSUdKdF90TFNhZ1oyY2pwYW1yM3I1VjRvcVFIMzBiLWlsckI3Wi0wZE95Mmx2VDBTQS1ZZVhhNjVsdXhpRzhZZkJodlpmRWNxbzIxczhheFhUT0FuaFVPQnZ4NXYtWGJUZUdMeEo0Q05iZzQ0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Michael West Media",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-20T13:42:12+00:00",
+   "fetched": "2026-10-20T14:28:44.025935+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "cea3005af83ae3fa",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Massachusetts Man Pleads Guilty to Wire Fraud and the Fraudulent Use of Government Seals - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGZoak01Zlh2OUtaakw3SjRLVmk0QS1mbFJBTUQ2OWFuS0hteVROX3BMcjRaM2puZF9tSzBCaUFWMlplQmdEeVNFVUR2MFEzOFc0N2lYdktDZm5aZ2pzbTc3VnEzQkxsTkRCcnZZc29yRm9qQTJUQllYeGRwZFBLeU14eHhrT2w4bHYtODZFR3dYTEpIRGc0MlBvaGg1ZHpZX2RISUhORTJDbDUtSmFiM2VvSGtfOTgwekJCWjI1VkktekRTZm1PSnV5NGJHUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-20T13:14:58+00:00",
+   "fetched": "2026-10-20T14:28:44.025935+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "17fb39721c854f1b",
    "src_group": null,
@@ -3310,6 +3378,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "b380a50204f4d2d3",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Newfoundland and Labrador Issues 126 Invitations in October 16 Draw - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHY3MFBXUFlNNjVqUkNQemhSWnBwS1F3bFNVTTh0UnpmaEZvc1pmX3ZDSmVsbDBOOGFhZ3lTVHF4NmZmSzRTRXViWUlHYWQ5UnF3MmlnSXY1ejVWVTZJMDhpTERkOUtKQVRmUTZSd1gwcDFGRFNyWWJzTWt5MmN5NWtUZGliSUxmMzlidnRlWTFHQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-19T13:04:37+00:00",
+   "fetched": "2026-10-20T14:28:44.025935+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "e197a77c95ec91ef",
@@ -25359,6 +25453,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "be0a06ffdbeca828",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "Vice President Vance's Immigration Announcements - Pryor Cashman LLP",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdVdmZFYtZTlic3EwTEd1bUIzOENfdTZiWEhCVzBGT3Bkb3VLQ0szc05CNWE1Rl9JMzFQRGFrOXpHUW9nSU9fWlRFQmRQNHd0QVMzWjJGMkhybTJtV19lRlFtZTJxYW9hMTZIcTBDdDZnM1VScmE5aldRckZqNlJucGstZHkwXzZQTUNwekJvQnJ5UjQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Pryor Cashman LLP",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-20T14:28:44.025935+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "f6cc906fe6524f7c",
