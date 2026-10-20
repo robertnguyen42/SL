@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:59:55.048005+00:00",
+ "updated": "2026-10-20T00:43:44.244588+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-work",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-sheet-khac-3",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 8
+   "count": 13
   },
   {
    "id": "ae-sheet-chung-2",
@@ -11701,6 +11701,32 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "5a0035b858066678",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australia Student Visa Rules 2026: Changes for Indians - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGxnNkcwZ0NJM3ZRWVVkWTl1ZmRqSWtfWjdndVlCcUlabDBneGw1LVZDOV82OGlhMFhvekZFX3czT2o1eTBzNUhRUE1PdWp5UjJ5OGJISXBFS0hqMnJ5QWFlbFVEdWxCMGJZWUVpVXVmQ3lrTm9fT1dTejRiRk1EcENMRUZSaFZzNnF6RzB0SFVWbFJCSEtFRWVzbnlBX0YtWkZKdEtn?oc=5",
+   "summary": "",
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-14T16:41:04+00:00",
+   "fetched": "2026-10-20T00:43:44.244588+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "a7d50af5433f3f41",
