@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T14:28:44.025935+00:00",
+ "updated": "2026-10-20T15:09:49.224188+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 11
+   "count": 39
   },
   {
    "id": "au-student",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "us-eb5",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 37
+   "count": 20
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "eu-student",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 9
+   "count": 14
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,7 +719,7 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 10
   }
  ],
  "items": [
@@ -856,6 +856,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "4bb942d0ec5e55fd",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "From Techies To Yoga Instructors, India-New Zealand FTA Opens 5,000 Work Visa Slots For Indians - Swarajya",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0pfR2NOQ09obXdDTFBvSUVTVXgyWkNNaml3S21TMEUtZ2owR25nZmM1QlZIVzlQN0ZLZjdsNk1PeFdrUkdnbHBTei0tbGFmd1B3VzBSSjdlR1hPZ0prZkJLS05wcWdMVHNIWnphdmYtSjRkZXZqWklPQlIyWVVVVkJjVWZxV1prelJVSkQ2b1ZnZGZ4cDUtMFZZdzFRdmJRYTg4VjVnZDdmbXlSRk9vbktubVhuMGNWRTE1N1p0QTNSQWYtQ1NN0gHXAUFVX3lxTE9ZMHFmZXpvOFVoalhwV2Rkb3g4SzVlNUM5VUJzWXpfYU0xZzR4ZjhUZWYyWVpyMV9xamxzRHo5VUVDNVh4Mm9jXzdWVnJMTjBUME55TE1LZEdCNGxSbzF0MHp5RnJCc1I1MW52RENPUzBOS1UwU2VmQTdUbXE2MkdfZVVVTTlIWTc0RlBfV2RZeW1JYkZLSHptTzJVdU40TDdfcjFSVDdYeExKOHlPa29XWEZPN1hLSDRmMHE0STZHUGNrd25PbFdOcjljaUNtZFRNZlRFOFlJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Swarajya",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T12:00:05+00:00",
+   "fetched": "2026-10-20T15:09:49.224188+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "e1c3c4fd29b8cc9f",
@@ -7525,6 +7551,28 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "769b353a34986f90",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "St. Petersburg Bans Migrant Workers From Gym, Hair Salon and Retail Work - The Moscow Times",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3NMZXREQ09JVVhNVEdDMkN1c3R1UVlRYkdZMXhrb3ljWC1PakN2RlZFN0hjMG93dDRIM1FGLTZHUEdNUVpRaFFCSHAzdUQ4QmJIZjBPSGkzMjBXb1JiUjJPNWw3VlJsV19JYmcwX1htM2xrN3NYeE12QVFtMlJ0OVVkVXlya0RjMi1KemZKWEpYVEpkX3FIRURqZUpqS0RMeEZ0dnAzc0xDOWR6QUJ4YUxWLXZXVEw4Qmpv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Moscow Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-16T15:12:00+00:00",
+   "fetched": "2026-10-20T15:09:49.224188+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b1d712d0ffec3875",
