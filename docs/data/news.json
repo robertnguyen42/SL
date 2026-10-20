@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T22:31:22.620019+00:00",
+ "updated": "2026-10-20T23:22:28.383379+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 14
   },
   {
    "id": "au-sheet-chung-3",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 14
+   "count": 17
   },
   {
    "id": "eu-family",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 27
+   "count": 29
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 18
+   "count": 21
   },
   {
    "id": "nz-smc",
@@ -723,6 +723,52 @@
   }
  ],
  "items": [
+  {
+   "id": "d604db4caceb7a6d",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "New Zealand Opens First Round for Offshore Energy Feasibility Permits - The Maritime Executive",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRnNLVlotSW1hZ0d3OUVUV2lCZnJ4UE1QUzNybkVSSmtlc3lRdjRQR3FmZVZyWC1zRDd5SFFNVVNBeWlkRGRVcUszRTVZTWJzM3drYlh2SVVwNjQ2blpmSmdXVVZvQzc2ZExIelg3ZS1IaVYxQUFsbFQ4WkpsRmtuQXc3dWpUTmNiMHFYbjFzdjREV0k3U19zUWJ1eHlpbE1BQ2hqTllFV1h6bWM5?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Maritime Executive",
+   "country": "NZ",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-20T23:16:51+00:00",
+   "fetched": "2026-10-20T23:22:28.383379+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "1df7015da394560a",
+   "src_group": "dau-tu",
+   "src_country": "US",
+   "title": "More than 300,000 US visas revoked during second term, says Trump administration - BreakingNews.ie",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcW1hSTM3V2tIQm92QmlNdlo4bHV4bHJjaGd5d3dzSV82cW50RG5hVVFNVVE2OVBZTlpzU2pXLW0zS05pSVNXMjh0bjRha2N2UExrcUtGU2lCemVsWFBtZmNaSHY4dk4wZ3BxQVFPb0l3akdKb2xGZjJXYjFTTDJuVU9tY1ZlaDB3RWtuSmt4d1JUM0ZXd01UWXdkS0thMlZqWG1JblVZMVdSalJfRm4yZjAyNU45UFBaekpMdzQ4Ujk4RkE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BreakingNews.ie",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-dau-tu-2",
+   "published": "2026-10-20T22:43:01+00:00",
+   "fetched": "2026-10-20T23:22:28.383379+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "97eebf7d80bb3700",
    "src_group": "chung",
@@ -1183,6 +1229,30 @@
    "visas": [],
    "groups": [
     "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "98c6639ef8023d3b",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Kalypso, Offshore Data Center plan gas-powered offshore computing facilities - WorkBoat",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3NONk1sTENqbnpOdVlwcF9kYXp5MXFOWDl4SFJlVzl2Q1lreWZwLVpjQ3drQUlnWnNFaVZwcjY3Z0c4cXkyWlpqZ2pOSjNvVnRMRlkxRThSVDFqQmEwbGxucnp1RWt3T29hMjY2b3NibVgwa09aYVNiaXAycE05dFZJWDRCOWdLOUZKV0RlTUhNbWt2Qi1CSjliYlZzdkplU0dJSHJuZjZ6cWJEMkFOcnB3c0M?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "WorkBoat",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-20T16:22:53+00:00",
+   "fetched": "2026-10-20T23:22:28.383379+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
    ],
    "lang": "en",
    "policy": false,
@@ -18524,6 +18594,32 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "650a18a23efac902",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Indian Students Alert as UK Universities Withdraw Admissions: Why Are Visa Refusals Rising? Countries Offering Easiest Study Visas in 2026 - Jagran Josh",
+   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMzJFajgyRHRBdHk4eURqZ09PYnEzYVlDRnBfWWtmRFdJR2g3S1JkNTFqVjZMdTByUEY0RlVudF9nOUZNT3NQSVJlZEE3aUJIWnpYYmN0YlhvM1M1b3IzV3kteU1Rd0FHYmJfQWNlVjQ5cmY1WE9EdmxRRGloZzRKbnN3RGxDbUdXLVVfbXZyNm9SSk5rZHFGTVBHT2R6a3E2Rk9XT3R4SlB2QnpscGxDOVBsVWRqNkhWSWU3dWlBaWhlLVhaYTR0Q3V6ZFBxOFJQeHdIdUlOLVZ5SXEtV2lBMFMxeFlJbnZ6cTR5bWF4dHVFRFA3RHNPS0ZKZ1lZZ0J5LVFPODZKTDl2TWpXLTJxR01KRHlSNGxnN3pOVXBDZ0FlX0nSAaoCQVVfeXFMT0tUTWk4cDVmUkdSaWJ3RTNyQk5ndWNzVVRoc3ZWanZqZE1xS1dJU2lyTUtpODdELUpmQ0hNQkxIc1BnOXQtWmdRRW5VY3BROHMwODBLQ1Z5TFQzTWRrSGpfLWRabEFtc1p4aWc0RHNsMU1VeVIxN1FyVnE2WTdhbXdxTjdyWFZKSEk5UzczMHZWZnBkNDdJRmpadndNQ2VJdzRJWUQ0QzNvVXV6eFlxWDhaa05WMDBGYzd0ZXlwRGhGYlF3czdydGp2a1o3Y1d0V25RN2xRTVMwbkIydFd4UEdwNG1ZYTlzSTFJOURVcTZ3dFF4NGZYbV9Va1lkNWFCUzdiVVVoUVQ4Vm13Z3MxY1ZSZmxsUnZraWg0cDhUQTdBWXFkUVNHYnZtdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Jagran Josh",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-13T11:34:21+00:00",
+   "fetched": "2026-10-20T23:22:28.383379+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d6fa9a75642db467",
