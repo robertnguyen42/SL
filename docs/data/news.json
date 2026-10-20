@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T07:15:52.008163+00:00",
+ "updated": "2026-10-20T08:07:00.111243+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 16
+   "count": 18
   },
   {
    "id": "nz-family",
@@ -719,10 +719,58 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 13
   }
  ],
  "items": [
+  {
+   "id": "6f4df06e1a8461c0",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Launches 2 New Routes for Citizens of 1 Country to Get 3-Year Work Visa - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFVKZjR6U3B4aHRqMm5iUXNxaTNlSUtPQzFqdGcxQzR5UGtqZlVVbTJWWXBOSEZJLVBLNXd0NHc4ZlI3SXM5Y2wxQjNONkhjYTNsY2U3bjZSbUh3ejl4Q25ZV09iYTdSdTF0RkFGSlVmRWZMb3FLTkkyLUJ4WmdudzRudTZhMFl5NlhWZ3hvZXM1YlN5TkJ2emY0Ynk2MGpSOU53bQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T07:56:41+00:00",
+   "fetched": "2026-10-20T08:07:00.111243+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "cb13d517eb40e327",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Isaford Immigration to Spotlight New Zealand Investment Pathways at October 24 Phnom Penh Seminar: Capital Meets Opportunity - Cambodia Investment Review",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVzN5UlYxejhTa2JWQkthamF1WWR4bW1leEp2aVZmREwzOEo4UGkyQXAybUxienBaZ1hadWFGWTJZcUwyMUtYUldiZjVJOXNpVTF3WDJ3VVIwa3lCNkx5WHg3QUtKWTNhSWRpa3VZM0tBNU9jaXVmck9IVFNZcWpUb3BOZWp4eHdsV3JXUG4zdURCMmVIbHE5SDdBcHdFWG1KU19wRGxvZVpSbUkyMnBnSVQ2UzJFc0NOdFlXOG52dXYtc1lpbEFGN3V3TkpFcEZ2ZzZTVmZWOFhOTUpUekc2TlhTTFQzN1JLaEE1aWFJR0gxZ2kwb2ZGLVFueXlpSG1md2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Cambodia Investment Review",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T07:53:22+00:00",
+   "fetched": "2026-10-20T08:07:00.111243+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "48caa208072e012d",
    "src_group": "khac",
