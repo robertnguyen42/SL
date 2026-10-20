@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:59:41.132138+00:00",
+ "updated": "2026-10-20T18:36:48.120723+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -347,7 +347,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "us-eb-work",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -723,6 +723,54 @@
   }
  ],
  "items": [
+  {
+   "id": "923840810456f855",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "The Link Between International Education and Skilled Migration - The Koala News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTUZ2Zm5pNk1YVFV2ejExcWFFZUdHVENtQWltYXRFZXFSOWZzVlVTSGdGSjJ4RERBVGRaQVNqUldCbXRjUnpqTjdrQjI1YTdwb1VFV2E0ZGtNMHRjMzAtYWo3aG0yaXdBVUktUE5Temdwb3c2TnJ0YmpRQUo1XzdCZmpsaTZEZUF3UlB3MFJpOVpiQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Koala News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-20T18:30:50+00:00",
+   "fetched": "2026-10-20T18:36:48.120723+00:00",
+   "visas": [
+    "skilled"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "64b1ba28d7a28482",
+   "src_group": null,
+   "src_country": "US",
+   "title": "American Atheists Sues USCIS Over Secrecy Surrounding Religious Worker Visas Linked to Alleged Human Trafficking - American Atheists",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ObElRZnFBWGxQSE1VMnFjQzd4VnRmcUtlU3RJQjVyR1J2b285dXBCcGlNdjJLTzg4NElZWUYydnRqclNIckVWOXhnNDhyT2Y1Ti0yN0NtSGdOWXBPMjBybVpoSUdxZndsYTV0LTRWdEtUX0V3elAzbU1jTjBvQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "American Atheists",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-20T18:21:34+00:00",
+   "fetched": "2026-10-20T18:36:48.120723+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "e13728635c2fb61c",
    "src_group": null,
@@ -818,6 +866,30 @@
    "score": 0.0
   },
   {
+   "id": "920df607b0eeae61",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "The Central Bank of the Russian Federation set the official euro exchange rate on October 21 at 93.0417 rubles. - AKM.RU",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaW13alFpOF82SzBVUUZlcTNBQnRKNHVxWmU0V3Bfc1JLcVhLbHluMkhmTWRhTHJld252YlVYMGhTeXpMakhoZ1BGd2xrUFFyN2VGN1MzWGZ4ZlZBVVdKVkR3TUJNdXltMnkyTFNYWHNYVDI2RU9UcE5hWTI5dWtxMEV0SF9RT1JxaGtZMTAxQWozZ01WM3ZIdU0xejU2V1lGRS1MSjZhbUVrSlNGa0JuZzFIVVV0UWR5dEJPVm81XzRTMTRjODhTaw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "AKM.RU",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-1",
+   "published": "2026-10-20T16:27:13+00:00",
+   "fetched": "2026-10-20T18:36:48.120723+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "ce11cb9bc0b6df64",
    "src_group": null,
    "src_country": "US",
@@ -868,6 +940,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "a5102fe46bd7792e",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "Euro exchange rate against the Armenian dram falls; dollar and ruble see slight gains — Central Bank of Armenia data - ArmBanks.am",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KOFpvczB5TnQ2SGVMbFVRQURBSmt3Y0hNM1B4OXZubmQxN21xWnVUX1VhbVM3UHpHVXNqMkw0QTZyak81M2lvVVBCUzJBN1NHaUk4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ArmBanks.am",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-1",
+   "published": "2026-10-20T15:59:17+00:00",
+   "fetched": "2026-10-20T18:36:48.120723+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "1b0e87d1958dabf7",
@@ -15987,6 +16083,30 @@
    ]
   },
   {
+   "id": "d9c27b441ccef068",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Caregiver Pilot Canada 2026: Requirements & Eligibility - ircc.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNk5hOVItX0IyNDNQajJaWTRyUVlpdGtkSjM1anFJMEFOeGNrb1FNVzZIbWM3ZmlqeVZMbTdIQ0Y3T0EzZ05DVGFmaW94S1hWU040SnRXVjlNVklDZy1vUV9BWnRCamZVRTFLVGk5MTZIcEhTVXREbmlMU3liZ3B2NFdNVllKZzVJdlN3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ircc.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-14T04:14:48+00:00",
+   "fetched": "2026-10-20T18:36:48.120723+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "17d4da8ec12352ae",
    "title": "Empty shelves, soiled sheets in migrant ad - News.com.au",
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOMVBmUkc0YXJVOWZSSTJhd2xFSlVZMkhudVM1U253NFU0N3paOFlURndGV1BPRjFrSkhmdDFPc0FrSGUzTUZDelFRZnRxMUVHTFBGZVplSk9Cd3h3bWhEbU14N1EyV3A2QzhzZkJqcVJ4YURESkFzMHZpMS0wb1pITl9xRGx5bFZoVTBCa2c3dkxCaDhkcGw3Zi1tYUdjSWlHWUdrVjhiSm8xSUcyNjItQ1M2ZzF1TjdMUjVwTVZRTHpHNGRKTEo0MjU0VDJQY2xlaVNwLVlOWlVYU2cyMUVUZnJreFR5b2xQd2kwSndNSEVub1FzVC1icGIxeWFZWF82cWg5aFEwTnpUb21jU3V3N2tfVFZtbVhyQTdhLVNB0gGjAkFVX3lxTE83YWFlMEhIOVBJekVWUnRId29wMDBzejJWX1BESzhDQzVOX0NETi1NYzFyWFVJaHFSY3BkX1A5a2dqQnU4US0zVk1IdGFNMVR6cGRRVEx5NzZaUEVtN2dsSHM1Q3dCZDlhQ1hIMnJONTY0WFNSejVGSFhJY2dZYXo2UG1aTDM2SHd5cUFfVVRDaFdRYXFJQURXVFRKVlVIQlZuLXB5Z1cwVmk0YTFzRjlHckZYOWNzZ3E2N2tZM2lVSW42bHl6bFBRaUtpcV9sMEtIbDlRNDY4M2xGMVZCdndYVUd1UDQ5em1YcjBnNjlneUp4aVVwSHAxWXotX2IzZm9wQ0IxdjNLaEFQNFhoWkZaWkFkUWo4aTBNQnlCR3A5YUtQYw?oc=5",
@@ -22900,6 +23020,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "c33410e07dd68180",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "International Students in Australia | Visa, Migration, Tax & Mental Health Q&A | NRNA NSW - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hbUpsSkhGbTlONUlPVXJqRzExTVFBdWF6WXJQVk1FUGtPYXBuamFyelkza3RyTm0zOWZXQVNxbUJTUzJMa3RlSXY1UWxEbmNtdnlGVnBJb2FLY2Nk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "YouTube",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-2",
+   "published": "2026-10-10T07:00:00+00:00",
+   "fetched": "2026-10-20T18:36:48.120723+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "a18ae40e02c987e8",
