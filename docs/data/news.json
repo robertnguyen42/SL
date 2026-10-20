@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T03:01:47.360578+00:00",
+ "updated": "2026-10-20T04:02:55.226866+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -329,19 +329,19 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-sheet-dau-tu-1",
    "name": "Sheet – Úc – Đầu tư (1)",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 24
+   "count": 27
   },
   {
    "id": "us-eb5",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "us-sheet-khac-2",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-work",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 15
+   "count": 12
   },
   {
    "id": "nz-family",
@@ -719,10 +719,102 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 15
+   "count": 14
   }
  ],
  "items": [
+  {
+   "id": "80a29d21eb161947",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India-New Zealand FTA comes into force, offers zero-duty access for Indian goods, new visa pathways - ANI News",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY3JZZWh2OUhMMjM4YTBoa2NsR1l2QXVOZWtUWHMyN0FOVDdUZVB6T3k3MDNLQjlQVGNwOFdKMDMyb2txMUxpUXZMSkhJNjY4QW9LVnJtSTBKdnh2Z1ByaUhnaURxNUlBTlBtdDBnNGFTdTdZMlozbkhvTGVyRS1FM191YnVYNm50WktncXdVWmtzNm5MNHVaQWJIX00tVWhza3ZkMTNTNWpvVzdHakt5cXIzdHd0MmNYYzc2S0gwTUJTQktZSDZxVjNraDNENW1LTzMweFJkOE5GLUVXV0psWE1n?oc=5",
+   "summary": "",
+   "publisher": "ANI News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T04:00:00+00:00",
+   "fetched": "2026-10-20T04:02:55.226866+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "1c7d376d51dcbd0a",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Immigration Consultants of Canada Helps Families Navigate Spousal and Family Sponsorship Applications - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDFhNVV2U3lkM0lJalVyOVc0d0loTThDLVpYNk5vSmQyMEtBMG1EczM1Vl9EcnpJZ1JYQ3Iwb215YUoxSlJPbFA3bDlzVUxVQmdhdHhRTW1sZDBoNXhkbXhzQmQ3Z1BXQi12eEZobndWc0Z2UXdtOXh4OTdYMkhILUlMLWFhU0d0QWE1SHlaS0gxY3pyZGFXOA?oc=5",
+   "summary": "",
+   "publisher": "openPR.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-20T03:22:05+00:00",
+   "fetched": "2026-10-20T04:02:55.226866+00:00",
+   "visas": [
+    "family"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "e61f33522c8bd289",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India-NZ FTA immigration rules announced: The migration “tsunami” that wasn’t - awaaz.co.nz",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzRYQlZRSFpYekVaUWFYdF81UzRMTlhsbHJVOHI3VUtoaHBUR2lMLWVTNktsUkwxbHVaRWVhclI2TGZDZWlFem42UGV0WXdsaWwtTU12OVJhT2hBcnd0SW9NYU1OcktJVVJ5UDR6WXJVYWotaEVSS1pKbzhDWEJZeEZYT2syVWM4Umc4RUpVUFltUHFfeGVUWGlFNjd5MEFiNGozTW1pcFl6UEFRU1dV?oc=5",
+   "summary": "",
+   "publisher": "awaaz.co.nz",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T03:12:08+00:00",
+   "fetched": "2026-10-20T04:02:55.226866+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "34b1b11bf54bf357",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Five-year Schengen visas are still possible for South Africans - here’s how to qualify - News24",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYzhybUx5ZUFJc19ONFVjVXhGVXhSbEJXODhSZ1dsalYyN2R4dXJZaHlrd2JCMzNjWVBmNUpROWU0Nm9HR3JPbU9RRk9sSVM0MlBIemY3WFBWT1BqV1AxZkRuRHgwZW1hdEh3SmR4MUZRc1dlbG9PUDdlVTNfMElWUV9FVHc2Vm1VVk0yeF9ZRmJfQTZvQjdMdUdPbmdHX2kxY3JTVVRiM0h3bkZZS3BYUnkwd0ppeWE0VDBtXzl4YzZxS0dDbi05cUVvNWY?oc=5",
+   "summary": "",
+   "publisher": "News24",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-20T02:42:25+00:00",
+   "fetched": "2026-10-20T04:02:55.226866+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "6909fe676206a567",
    "src_group": null,
@@ -28045,6 +28137,32 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "54f751c6a9ef56aa",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Revocation Risk Ranked: How Secure Is Your Citizenship by Investment? - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDkwOC1pOWhHZGhaUElwWjhHemtEUFQydkdnRTQzdUVmbGVScExPQmNaRWt4eklnVFJ5Yk9HRW9SSFZkbXdGZFNOa1l1NkYtOVRIM0x4TzF0R0RacWhKUFVKODZCcTdKMC1vZ3lrajdHYS1aV0xuVTZ3TzJlbXhaRnc4Nm5BNi1uVU9maVJKR0g1aDd6N0NqaGtueTN4TUw2LWF6MQ?oc=5",
+   "summary": "",
+   "publisher": "IMI Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-2",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-20T04:02:55.226866+00:00",
+   "visas": [
+    "citizenship-investment"
+   ],
+   "groups": [
+    "chung",
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "20e511feef397be4",
