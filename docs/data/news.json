@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T01:32:05.819478+00:00",
+ "updated": "2026-10-20T02:25:17.686604+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -323,13 +323,13 @@
    "id": "au-sheet-tay-nghe-3",
    "name": "Sheet – Úc – Tay nghề (3)",
    "ok": true,
-   "count": 28
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 22
+   "count": 24
   },
   {
    "id": "us-eb5",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 28
+   "count": 40
   },
   {
    "id": "us-family",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 10
   },
   {
    "id": "nz-aewv",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "nz-family",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -772,6 +772,48 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "4a1166138cfd0944",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Four in 10 major MBIE projects missed targets, two immigration fails - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmMtOU1VZU91ZndZZmZLNTExWWp3WTJPeWpHUVNWb0pRMmk1Q2JIU2lON05OUDdGQUI1WmpFOFdiZlpxb1BFRHZ2SzdvSklwblNucDVhdDY4Z3dyMDdMT3Z6WVdvdGh0MzZiZzZ0U2dkN0hmZkw2QmpMMGdIdUw1MldUQi1tdFg5RExFVl80LTRJZkZxS2J6M3VvcHU4cHY5WlUwRExJMU1lM1dtT3RSUA?oc=5",
+   "summary": "",
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T00:25:42+00:00",
+   "fetched": "2026-10-20T02:25:17.686604+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "e88ba9758bae73d3",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Important Employment Court decision: overseas payments for New Zealand jobs are illegal - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbG0zLVZZMjlWeDJHRUgycElXclhHd3ZZTUZsOWVTWjZzRl9BaHREZUplRnI5S2VOMUxHYzhiQmxPYUFaNUpCeEt0WVJUVFd1bVNNaEtoOG1JOUowRkhjdXpwTnl6VzlBVmRrazNBNEFDeXpkSDVDTVl5RWZzMjlNUzlBUWpoVVYxdzRGQVllaFMtVEFNZ3VEQmQ4cVNjVmxwcTA3RjJGLU9nV25GWG1EdWVpa25jUVRsZ0R2V0ctVnlkUmt5MjN4VzBYb2padFBhUmZtZVF5QQ?oc=5",
+   "summary": "Important Employment Court decision: overseas payments for New Zealand jobs are illegal Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-20T00:11:23+00:00",
+   "fetched": "2026-10-20T02:25:17.686604+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
   },
   {
    "id": "a7ca1ca30caf9990",
@@ -7177,6 +7219,29 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "188a4aa6d16a9258",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "ASBK Names Shannons as New Title Sponsor - Roadracing World",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY3o3SGNodzJnODdFZjhKTWZENzNFbUVscTFSMmtSbElEaWY3T2Y4OUg3N1o4RnRRcHFKczJ5T1ZncVd6WlFXazdyLUpxR2V5WnN1LTBFcUtEQjJFZENMRnhlVHNZa3FhazRiOUxrU0gtZVhUZHR3b1VQZHF6OGVBNGlLcFY?oc=5",
+   "summary": "",
+   "publisher": "Roadracing World",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-3",
+   "published": "2026-10-16T07:37:25+00:00",
+   "fetched": "2026-10-20T02:25:17.686604+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "fc82195a18d40728",
