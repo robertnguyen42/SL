@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:00:12.847256+00:00",
+ "updated": "2026-10-20T07:15:52.008163+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -311,7 +311,7 @@
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -323,7 +323,7 @@
    "id": "au-sheet-tay-nghe-3",
    "name": "Sheet – Úc – Tay nghề (3)",
    "ok": true,
-   "count": 40
+   "count": 4
   },
   {
    "id": "au-sheet-tay-nghe-4",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "us-eb5",
@@ -383,7 +383,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 32
+   "count": 30
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-student",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 32
+   "count": 27
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -617,13 +617,13 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "nz-aewv",
@@ -653,13 +653,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -683,13 +683,13 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,159 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 10
   }
  ],
  "items": [
+  {
+   "id": "48caa208072e012d",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Canada Lists 11 Categories of Foreigners Who Do Not Need a Visa, eTA to Travel - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVhDM0ZDUVRURVd4dWlmcEJvdVZnNHFMMVZyTU9aNUwtbjFjOWZaMnpDTmdhRzl3Uk9nTjVWeXhuRUJoX1I0ZlByOV9icjBMdGlNOFlxa0tSSWF4cmNXYTM4SUo4dE12Zk5pVnhKTnRnbENlZ1hyZnU2ckRhX093YTVxbFExVnRMM0o1Q1JFYWwxZ2d1Q2N1OHZtcDltWVk4aEJRcktNRFVIcGpCaV9maA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-20T06:26:26+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "8b948d080911f200",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "10 visa subclasses: Australia sets skilled visa priorities - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1Fpelp4SV9UMXhnWG9LemlMVHZYb1U5NVJLbTFiZnRWTXdFNDJBeS1NUGMxU0o3aDVjejlxLUpWR01LSWtQSzhySmR3TUl2YnY2ZTh3SzV5RzNBMjAyS0ViU1hDSkRHcDR1bHJPeWNoTHphS092Nlg4Nl9Md2pocE0zaTRERjBQdVA0WTN2NzVZRlJ0RHU1d0lOWWo2MmhJQjlvUk80ekxqU0ZsbmN2VFlHTHU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-2",
+   "published": "2026-10-20T06:20:14+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "3032896f25051ac6",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India-New Zealand FTA kicks in: Duty-free exports, $20 billion investment and work visas - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcy1wMlRxeGpGV0VQWFYwNUE5Nzd1TWRRQ2FyVmlCeHR1dUJ6d3RyLWZWYzFNa0ZKa3FGSjNBSUhSYWJwRjVOYzFudm5OLWRaMHBpdEZXeTdpUVNWc1VpZ3dXWkpvcFd1M1dlZWMxRFBsRVdqOS1WWlRvUVl1SjFRZEZCcFBGamFmMVdnUXM1YUlwUUpHVXNWMGVrODVvcmE0UFMzRFlKb2Izc0xXUEZGS0I2bHZ3ZFQ1WmIyTGowWXc5WFY5ZjB2VG15bDh2enhvLUVWeEoxZHhXQdIB3wFBVV95cUxNSldOYXRhYjJrR1pIZVdKYUNlSjh6eS1haEhKWGFYemduSU9qb19iTnlvSEhDaGNuenVnazJ4UzdaclVWSHNBM1c2UUM3QUdySlJyODh6bjJrSFVpLTgzMVRiNVp0QXJrdzNBaGw1WjVyOFEzdXlmZWpyeDBMZnVPWnhWTzIydGdZN0JmWlNvWVFHQldqVlpnbld5M09PbEdkTTdCUDJRVTZEb2oxX2xndklialRhUGQ0NFNkZ0NGcUgxQjM4cGRSR1NYa0RUSGs4cHFoSVJCUGhfNl9lZTVj?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Moneycontrol.com",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-post-study",
+   "published": "2026-10-20T06:19:25+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "80c30e87c16f2aed",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australia Lists 7 Priority Occupations for Permanent Skilled Visa Processing in 2026 - GistReel",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDRJSGRpRTN0ZmNFZUpfWXRoRm1RNnpTVzZ0MlVUZFBtS3lkd3VKSWRMNDdjM3F0THgzR2tHeUlQbzVLbGVwZUFhUWpWVXJ2U2NrY3R6akV1Y0RTSUY3dlBxMHprWGFtMHpSTTctTVdRVVVndWtKMjhiOFFaNldCalhySTM0UUVtTDhVVGZQZHpjRzM0QzBGZklyX0YzM01xbWs4S2ptM0RVTENBdUJj?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "GistReel",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-20T06:07:08+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "ae29225e2494def7",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Planning to move to Canada? Express Entry rules change from November 3, here’s how your CRS score may change - Business Today",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVVF2RDRBSFYwV0Z4YzZsdDloM0JsNUpneTJ1TGJ5VjFBMmtkUFNWYmhndnZLNTJIbm5CUVo5MGpIRmNMeXYtcTRGdEVhU0ttd19uN1pHMkRuYnM5dE9NQm9MQk5SQ3QzVURBbjFyWW5SdzUxMXZMS2NHSnhrMXJIQkltbWhvVzZseU5sX2xvMTdqNUtGZVdhNGU5UzYxdFd0MDBabDZCejdXekFrZmZKS2I4T1pOenEwQk1RMldtUzJ2N25nOGUwNnp1TklBbjlKODY0WG53czZyTHpfVXlIWXQtTzY2a1RNRjM3OXFZcWtsYzFVOU11NnIwY9IBgAJBVV95cUxOdVJvR3VDT2xnTnZMX0d1SzYxQXkxSmVieVlVeXZ1WGFfZnhqWFZJenE3aFFCSE41YktCSHV4NlR6T1M3TTIzRjBoamdueloxUzNNTGhEXzFaMFNEcU5DS1VJME1KbGtpMUxWNUNSakx2c3N5RUZtejg5ajJvWnVWd0Zkclc1NXQxa0t1S01FcjJVN25tSWVTYmVFeFpIeWoxX2swYmJfR3N6YkNDZzR2ak1OSzFCVkNpTUFfcXRDa2szMXFBem51NlFiU0NBUmVFZTR0cXlkRWN4cWJMa3dmWTEzZ0E4TFVJd3M5VUJrUnJGdXJ6aWZLSzJ3VWFIcGxM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Today",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-10-20T06:06:19+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "5bab94f75ee3e886",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India-New Zealand FTA comes into force; new visa categories for Indians, zero-duty access for exports - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVFxcENZREg1eFFxUVpaUkVyVERwTG1CS3BRVzBueHZlc0xvbUN2WlR3TW8xbHcxUUY0Ny1ZRzdfN2R3RXdxdkxFa2R6ZHF4Q0NhcmpiUXZDRXBhbHdiRk0tLThvQXRpcjFYM2dmWXh3N3ZzaTJrdDZfQ29rVk1DRVF1OGZmSTUycm5iNzlrMTAyYWJHM3RKOVdROGV1RFllUDBVWC1qY2ZITmM4YVlOalpva3l4TzA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Hindu",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T06:06:03+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "8644e350280fcd90",
    "src_group": null,
@@ -758,14 +907,12 @@
    "published": "2026-10-20T05:31:59+00:00",
    "fetched": "2026-10-20T06:00:12.847256+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "82bca469ce787918",
@@ -780,6 +927,28 @@
    "source": "us-vi",
    "published": "2026-10-20T04:05:00+00:00",
    "fetched": "2026-10-20T05:01:36.908622+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
+  {
+   "id": "859cefcff8c3d401",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Có tháng, số thị thực nhập cư được Mỹ cấp giảm còn một nửa - Tuổi Trẻ",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1pvMlQ1NmxoT0F6V1hQSzBEUzRuaURmQVhqcEZIVEIzTUpVUjZaS2lQTzQtMzFoU3gxOEdXSUU4WlRqeXJYWEY3WmFmbWJYbjBJcVZjOXhFakFUWFNKM3o3d2I4UUt0b2g0WnpkSm92UGlkOWRaeXRWN1pfMEtJLWFyODlpcno1X1I4bFZhS2tTWURxMXRNTWRuY2hBRWM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuổi Trẻ",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-20T04:05:00+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
    "visas": [],
    "groups": [],
    "lang": "vi",
@@ -906,6 +1075,28 @@
    "score": 0.0
   },
   {
+   "id": "3125713e1de55fbc",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Nóng: Mỹ tạm dừng phỏng vấn visa toàn cầu - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnBiUVYzUXJndHVNeUVnaWFibUpJblo4TGNBRmJUcWY5dXFfYlRIWWE4QjBtclhxY09kZExrLWotb0lpcmZJLUZBNTJNRkIweldnZ2g2ZFVnLVZFYkxvV0JlNVQzdFhPVkl3WlFqRmFWdm5kMkFuOTVWNExrTDFxckVkVFhVWVRaUHJYMkM3VQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-20T02:13:09+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
+  },
+  {
    "id": "6909fe676206a567",
    "src_group": null,
    "src_country": "NZ",
@@ -929,6 +1120,28 @@
    "direction": null,
    "prio": true,
    "score": 5.0
+  },
+  {
+   "id": "2e9942f9d5f9129b",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Trump Administration Asks Court to Remand Second Offshore Wind Approval - The Maritime Executive",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM3dvUDc1NGJKR0RmT3pfMFFfV01GMEpWSjQwVnVDaW9Id085T2QtYkdXVFNidmNGa2ZrSlMwZ2RRQnlmWDlqZVNXU21xOHRMZjZacFhlelRSUGN4MnN3T0w5NE9heWpKMG41Y0hHa01QdVpUdFZqUTlKc1NjcjZUeGVlTVNGZjM2MWxlUTRTXzRxZFpSWHVsUFBzT0F3R3UtUlFHdXhybXBQYjRzYWtZ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Maritime Executive",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-20T00:30:11+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d1cb7f4cd7d9a0c2",
@@ -975,6 +1188,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "aeabdd7ffde4656c",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "DOJ Charges 28 Green Card Holders With Voting Crimes, Moves to Block 20,000 California Ballots - Law Commentary",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTFrd3VqS0Q1el9sb2hYb3luN2Rfa0pMNWZ3MHRwMXJzdklWWXVnUWk3N2Z6QXg0dUliTUQyTXpiQTBmQmhEVEpfZ250RjdfU216Wlg3cUJvaGsxS1YzdVp5NF9ucVRIazN3bmVhT3RybnVwZVh3d09yOXpHalNlVmlKYXF4amZiZUJhdXd2SGlDNDc0cUxYYnNncFpONms?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Law Commentary",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-20T00:16:36+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "e88ba9758bae73d3",
@@ -3566,29 +3805,6 @@
    "score": 1.5
   },
   {
-   "id": "f5b8cf1a577ddde6",
-   "src_group": "khac",
-   "src_country": "AU",
-   "title": "Filipinos eligible for Australia’s 10-year multiple-entry visa for ₱80,700 - Philippine Canadian Inquirer",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzdiSm5vTkhIWjhTc2w0NTM2NHVybFdVeEx0NXVCLXVCMFh2aWFaSEtEbXhXRmNxRjVid1kxMDgxN0g4MGhOVy1xd29rLThqenp5VG5RYU9yVzA5eG1KSGQzdGZYcm1TWS1HWkxFZGhHY3FWdHVaajRLVVV5X2ZYd0JidjkxMWd1dEUtLXlOT0RwSmhJdHlqN3dNcFQtYjU0VGtpWi1Ec01PYmdNNmtKbXJINFI1d1VGZGtuXzFR?oc=5",
-   "summary": "",
-   "publisher": "Philippine Canadian Inquirer",
-   "country": "AU",
-   "type": "news",
-   "source": "au-sheet-khac-1",
-   "published": "2026-10-18T06:19:56+00:00",
-   "fetched": "2026-10-19T07:51:42.676552+00:00",
-   "visas": [],
-   "groups": [
-    "khac"
-   ],
-   "lang": "en",
-   "policy": false,
-   "direction": null,
-   "prio": false,
-   "score": 0.0
-  },
-  {
    "id": "27d201acb7670327",
    "title": "Canada điều chỉnh nhập cư để nâng chất lượng tăng trưởng - Bnews.vn",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNREM2WTdrbGNTYUpUVG9LSVZTRjV4bW8tbXlOYmhtelBZdlFEazlBQ250bkd1Smp3Y21PbFRWUU5iM09jbG4zMTVVMmtQYzFjcUg0TVN2Sk1adkZ6YUZrQzVrTmJjNFZCRzRvdFlEN0hTdWxQOEtiUjhkNlpYblNyeXVvak5YUjdoaHZvMWJB?oc=5",
@@ -4554,14 +4770,12 @@
    "published": "2026-10-17T08:08:46+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "49ad8a0deb8152f2",
@@ -6159,6 +6373,32 @@
    "groups": []
   },
   {
+   "id": "bbe75868cf8b7b03",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "New Green Visa guide: Abu Dhabi directs foreign applicants to official portal - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbmp5Z3ZoZkFmYXVZcEJJdlZQQ2JsV01xVENjS1V1Nm5Ra2R2em45RC1CVlVhT2Q1bzBob0V0Q3V4TjFlM0s5YWJqTlJCVV9uZTZaRTdPTDk3aVExanBSR0RPT0wtVW02OXNMYUYzY0RCa2ptdC1HTllvMkJLT1JoaEhPbHRnZ0tTQm1PQ3ZkVHVnWXY3T3pV?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-16T15:29:48+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [
+    "green-visa"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "5d522916c377f84a",
    "title": "More than 150 fake ETIAS websites prompt traveller warning - Travelweek",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMkNsczg1YWJCVXlsYUVPbEY4aE1pTWlMUVdaZXhaZWNkZXA4U2VncmpIM2pvelpzOFE3c2ZuYVlQUHBnMUw5XzhrU2FwdGZpTkd6ZHJ0dklOSmszaGhRdURGTDRBU0JNY0tIWWxGM20zcHUzdy1VQVZJRkROWDlpVmRyTThnSUhRTEJFZC1uQmUxbFRkVmkyY1FSZ1N1T1A5T2JmSkdLLUNMc3J2MGZId2x4UGFwRGVw?oc=5",
@@ -7487,14 +7727,12 @@
    "published": "2026-10-16T07:37:25+00:00",
    "fetched": "2026-10-20T02:25:17.686604+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "fc82195a18d40728",
@@ -7974,14 +8212,12 @@
    "published": "2026-10-16T04:41:58+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": true,
    "direction": null,
-   "prio": true,
-   "score": 4.0
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "f88933cf797ab6da",
@@ -8244,14 +8480,12 @@
    "published": "2026-10-16T01:05:46+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c311c0996457c171",
@@ -9668,14 +9902,12 @@
    "published": "2026-10-15T13:00:33+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "934de1bd2e0dba99",
@@ -10757,14 +10989,12 @@
    "published": "2026-10-15T06:34:07+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "a06a1234c5989466",
@@ -11214,14 +11444,12 @@
    "published": "2026-10-15T00:11:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "4be4566966bd086c",
@@ -11436,14 +11664,12 @@
    "published": "2026-10-14T21:30:05+00:00",
    "fetched": "2026-10-19T23:29:44.752208+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "9ceacd2ebb3dca97",
@@ -11459,14 +11685,12 @@
    "published": "2026-10-14T21:30:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "f833a7dcdff42c46",
@@ -13739,6 +13963,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "59b40e2e81108963",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Sweden Work Permit 2026 for Indians │ Requirements, Fees & Job Seeker Visa - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qMmZjQjR6cjlmblZKSEVxbmdqT0k1Y0tMVjcxSVN6bkxXaVQ2bjdfbVIwM05fRGFGZG0yT2pobDFtdW5tX2pWUjZISHlHbVJWTVE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-blue-card",
+   "published": "2026-10-14T07:00:00+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [
+    "work"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "f7d524cf64063f5a",
@@ -16227,14 +16477,12 @@
    "published": "2026-10-13T08:10:00+00:00",
    "fetched": "2026-10-19T13:17:20.460898+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "2ff1e3b7c2dc7708",
@@ -16338,14 +16586,12 @@
    "published": "2026-10-13T07:30:18+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b85d095a80391a79",
@@ -16596,6 +16842,32 @@
    "fetched": "2026-10-19T08:12:59.029636+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "facd9b63e56d14c9",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Work visas in Thailand - Expatica",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SVHZVeFlXUGdodm1KUVJpRTF3S0tqWEQ4RWlDeEhZYW5GQ25rUlk3S28zRlFZV0RLNFN6VlBIS1B4V3dzNm15Rkh6S2lJOUZFQ0VtVUV6dkpZRzk4ZklOVGtFRC16OHBaaGp6T29hT3VNQW51OWV1TWt5M0w?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Expatica",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-13T07:00:00+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [
+    "work"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -17994,14 +18266,12 @@
    "published": "2026-10-12T12:30:49+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "a416a5c497cf0173",
@@ -18097,14 +18367,12 @@
    "published": "2026-10-12T12:09:34+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "01d029308a389b6b",
@@ -18189,14 +18457,12 @@
    "published": "2026-10-12T11:02:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "a66cd1e2c04f6051",
@@ -18250,14 +18516,12 @@
    "published": "2026-10-12T09:48:37+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "caa3e31bc3aece5f",
@@ -18458,14 +18722,12 @@
    "published": "2026-10-12T06:54:29+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": true,
    "direction": null,
-   "prio": true,
-   "score": 4.0
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "9404fd06f218abf1",
@@ -18523,14 +18785,12 @@
    "published": "2026-10-12T05:17:55+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": true,
    "direction": null,
-   "prio": true,
-   "score": 4.0
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "663d4d288946e720",
@@ -18592,14 +18852,12 @@
    "published": "2026-10-12T04:14:17+00:00",
    "fetched": "2026-10-20T01:32:05.819478+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "f841261f1621c508",
@@ -18695,14 +18953,12 @@
    "published": "2026-10-12T02:45:03+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "80294a163ae5dd86",
@@ -18718,14 +18974,12 @@
    "published": "2026-10-12T02:37:17+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "20b26c7d51ce3529",
@@ -18783,14 +19037,12 @@
    "published": "2026-10-12T01:51:58+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "2fe085229e7a1c65",
@@ -18872,14 +19124,12 @@
    "published": "2026-10-11T23:45:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "bf29998497a1875e",
@@ -19877,14 +20127,12 @@
    "published": "2026-10-11T00:12:20+00:00",
    "fetched": "2026-10-19T11:02:53.987042+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "19c04ecbc2c0d7a4",
@@ -23361,14 +23609,12 @@
    "published": "2026-10-09T07:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b847a2d4dd18f5a3",
@@ -23754,6 +24000,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "d248d5e370e7e8ab",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Trump administration suspends Microsoft from green card program - KING5.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRVl2aWdCNkVVMHNHUi1OZkRMbWRvYTVXa0JvSTF1cWNSbDYtSEUtZ1pTQ04zcE5wZlJySFctbm9KWENncExFR0lSNmRqUTk4RmJYeWtHWFJfVWNoQl9tTkxOQU1qNy1sMFVVcEZyZU5ILVMxOHZtTFR6Ym9ITXNYdHI0RzZYNVJBUnVoZTA1cElVRnh3RmJVX2tJbHdMcVdvUGMySFNnU2lCdUp6N2cyMENyMHB5ZmhrYVRuWDU1MXRfY0JBZTMtcmtYZFdXS1hqcURF?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "KING5.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "f6cc906fe6524f7c",
@@ -24474,6 +24746,30 @@
    ]
   },
   {
+   "id": "006db381ea6b3fc1",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Canada Bans AI-Written Evidence in Refugee Hearings - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmJmTUV0TGpNYUR2NXZXNUNnWUNGdlhTOWNzU2xfbHNRTm9wSndMeDVLOGxpVkRaY243SnllSlBUak1QZ2VPa201N0RQNGRLbWtyNE90ZnpfZTVVVzBHRU1FQ19TdG8zTVdsMHBuZWstUUtkN0lCYU9Tenl6YTdpMld6TThncURJSWVNTUFudWZfOWZ0THQ4U0ppcDh6Y2Vnc1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-09T02:16:05+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "0c193f6659123c58",
    "title": "US suspends 8 tech firms from PERM: What happens next for Indian workers seeking green cards? - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTDJfUlA0eVh5LXZFSndObjZaMXVzVnc0dzhIU1RCYV9pVmoyVWdYU1JIRXRZN0VveWRGWEF0Q0E5eHRUMkkyVFNnRXZEd1BQS0N6Ymc2Z3hwanM4bllUaEwwRVBldE1CQlFRNEpQWXFsWFpVY0FXVDVVaFFoSXBFMWZMOGV2RTNRaEc1ZDNicjFQR1lnbml6VTRhTDJlb2dhZThqMmxuaXVnX2prLS1YaFBQQzFRYlQ3MG9XbHM4ZHNXTnYtSHBKY2F4c3pTWEtPcUlSMlRtTUJmYVU3TEdwakp1OHRPNDExSU4xSGE0NlpsdmtHbm9lR3JhQm1KRkhmZmJJLVFfNUhrUU1VNDNJdVlMSdIBmAJBVV95cUxPZkJORkk1WmY5aFZwLVFLZEZoVEhxRWQtaWsyM1BLLTNSMTNaX0VGcXlBUDRWaUQ3MWhYdEgySVBXWmxNYjZjYmxWTmkwczZqTnhXWU90TVByVDA3T2pXMElRTVk3RW5YeWFNOFVzQUxLMnQ2TXdDd05OMTFKWDhfY3AzS2IwTUE4RWM3VVdEejEteWtBb0FnU3dfbGlpSURaYTZtOW9OcXQxZVgxSzJEdWR6OG01UHRIWmI2aWJaa1dNR3V6TnZEM19yYjhCSkJOc3gxeG1nZzVqdm5UejM2RFJsYk5yUVk2YlRHY3BrN1ZHRy03dGV0VUpwR0xFMS1pRU9JVC1SN2s1VWkxV0RNbFV6MmR5TzEx?oc=5",
@@ -24577,14 +24873,12 @@
    "published": "2026-10-09T00:08:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e6529b2ea154c0c7",
@@ -28328,6 +28622,32 @@
    "score": 1.5
   },
   {
+   "id": "8f6a5869dacb7ad1",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "Dubai Publishes 5 Steps Foreigners Must Complete to Get a Work Permit and Residence Visa - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaEpZUXFKTllWSWxaQnJSTVF0RFBjb2wwc0YweXl0UTFKNUZFTHdMaDQ1RUItR2kyMWRrenE1clFudFdxa2dmM3FoRXdOTFJLSno1SVQySEJleW9rcU5EM1pWTTV5dWQySWlqVktSN1RWcUJCU3RtVXVrSllfZ1BqWkpDWnNwRkFYYkJmUUExZDY2WU01MlRFMEtOV3M5aUhGSGdXSWtlZjFSWEFsZXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-20T07:15:52.008163+00:00",
+   "visas": [
+    "residence"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "20e511feef397be4",
    "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
@@ -28759,14 +29079,12 @@
    "published": "2026-10-08T01:44:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "9f2cef75d1515510",
@@ -30519,14 +30837,12 @@
    "published": "2026-10-07T09:28:39+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "ea2e2161ac0e9d5c",
@@ -30985,14 +31301,12 @@
    "published": "2026-10-07T07:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5f7829aa5a04ffc5",
@@ -33242,14 +33556,12 @@
    "published": "2026-10-06T07:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c1a0d79e751a2cda",
@@ -33574,14 +33886,12 @@
    "published": "2026-10-06T07:00:00+00:00",
    "fetched": "2026-10-20T01:32:05.819478+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "360c812d4bf88df3",
@@ -34040,52 +34350,6 @@
    "groups": []
   },
   {
-   "id": "e97b3530d347e153",
-   "title": "PNP requires gun vault photo for new, renewed firearm licenses - Philippine Canadian Inquirer",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWtYRHVhYlQxOVBEMklVb3FUZ0c5cUkwRHF4UUpPV2pmV0JIci01WWhhZWZBTV9nTXJpNUhtcVBnaWdWaUJpT1lqRVR2X05aNHNKUkQ4Zi1RNHVVX3lIb2RyaTFlM2x3dlNwMlhXWE55UVZhMlQwSE5mOTIwcTNyLWthM0x5MV9hbkUta0tBWnRkTFNJMlZUVURiNzA4THpoUkNxSA?oc=5",
-   "summary": "",
-   "publisher": "Philippine Canadian Inquirer",
-   "country": "CA",
-   "type": "news",
-   "source": "ca-pnp",
-   "published": "2026-10-06T04:07:15+00:00",
-   "fetched": "2026-10-06T06:19:23.738911+00:00",
-   "visas": [
-    "pnp"
-   ],
-   "lang": "en",
-   "policy": false,
-   "direction": null,
-   "prio": true,
-   "score": 1.5,
-   "groups": [
-    "tay-nghe"
-   ]
-  },
-  {
-   "id": "580bc2559155b0d8",
-   "title": "PH focus crimes drop nearly 30% in third quarter – PNP - Philippine Canadian Inquirer",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUDNkRl8xTDRsdGV5Rm81dEF6YW5hUGpmakpLdGhoeGlVRFNZQTNsTjdyS3VaUjZHNGpKODJ0RHZaeVJaTmEzNlZ2WlBiY3JfTzBwaUVqTmg1bEIybHduaEk3WXp1YjhFcDN5RUtSbkRKalJKaGYwZktLZUlQNUtXTXhlZzB0bjIyWmt1QnI0VjhCSUN0NTZN?oc=5",
-   "summary": "",
-   "publisher": "Philippine Canadian Inquirer",
-   "country": "CA",
-   "type": "news",
-   "source": "ca-pnp",
-   "published": "2026-10-06T04:07:15+00:00",
-   "fetched": "2026-10-08T12:20:31.985203+00:00",
-   "visas": [
-    "pnp"
-   ],
-   "lang": "en",
-   "policy": false,
-   "direction": null,
-   "prio": true,
-   "score": 1.5,
-   "groups": [
-    "tay-nghe"
-   ]
-  },
-  {
    "id": "3f38a8a57fbd294e",
    "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application To Replace Permanent Resident Card",
    "link": "https://www.federalregister.gov/documents/2026/10/06/2026-20422/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
@@ -34515,14 +34779,12 @@
    "published": "2026-10-06T00:49:19+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
-   "groups": [
-    "tay-nghe"
-   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
-   "prio": true,
-   "score": 1.5
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "36409d9d9855e28a",
@@ -37032,25 +37294,6 @@
    ]
   },
   {
-   "id": "2ce96f55cb968926",
-   "title": "Conservatives call for lower immigration targets as Carney signals future increases - Philippine Canadian Inquirer",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHJLRUtMTEp4NDRNenlTUV82RHF2R1ZoaHcyNENDcTdqb3VZbnBmbE9fVHNKWWxhZFkxc296cnkzS3ZRbzVOWTJUZlV6bFI4a1pOSVZGbDNuN1l0d1JJS29TT2U4Sm1IeEVYVVN6eU4xQkJReVcwekNaVGdBd19LRXQ3aVZnWnZBVG1pQnJKbXFmYU5CbDRQUXQ4UmkwX3B5cWR3LXgzWUdOVVhzaGd0SG9helNXc1N5ZTR0eHFfd0k2dw?oc=5",
-   "summary": "",
-   "publisher": "Philippine Canadian Inquirer",
-   "country": "CA",
-   "type": "news",
-   "source": "ca-pr-citizenship",
-   "published": "2026-10-04T15:36:24+00:00",
-   "fetched": "2026-10-04T17:51:43.349610+00:00",
-   "visas": [],
-   "lang": "en",
-   "policy": false,
-   "direction": null,
-   "prio": false,
-   "score": 0.0,
-   "groups": []
-  },
-  {
    "id": "5d78ee6075e9f093",
    "title": "Canada Lists 3 Types of Partners Who Can Join Their Spouse and Become Permanent Residents - Legit News",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3Q4dWQ5Zm5fRUZhQk9BU1ZLNndDS056ZnNBSFFYUUxpbktEOC10aTNNdV94blNzVkFaSkFtVnE0U0tWSkpmdHBTSW5tc2J1alBkUmE5Yk9RUGV6QllVRi1TQXNjU2tiYzNrbVoyMDh0ZTYxdmFYN2R5c3YyNk5sRnZUc1JWZlVPMFlzcy1hZmxES2l2cmcxUXJMNzh6WGVOS0MtWQ?oc=5",
@@ -38013,31 +38256,6 @@
    "score": 1.5,
    "groups": [
     "tay-nghe"
-   ]
-  },
-  {
-   "id": "ed6123a614165d0a",
-   "title": "Canada introduces personalized processing times for work permit extensions and PGWPs - Philippine Canadian Inquirer",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTS16TDNhOUxvODYzZktMd1dRSUtjUDRydXlBVUZxOENjWkFGMExpYll5U0UwazBERFdVRjRPczd3cDhIM0JaQXRQVmlndUhYbVRnX0t6VEswVU92eGlpQ0N1QVlkLTYtSVdER2pLcURMNkRtM3pjczIwalZIejJVWVREUGo5ZWwxX0ZTMmJUUUE3cGdWbEdDazc1U2Vmb29WcGdjRG5iZWZkaDNGV3VPQzZ4bTFBTGVpbm90MUl4SDd3VWM?oc=5",
-   "summary": "",
-   "publisher": "Philippine Canadian Inquirer",
-   "country": "CA",
-   "type": "news",
-   "source": "ca-work",
-   "published": "2026-10-03T11:29:26+00:00",
-   "fetched": "2026-10-03T14:47:38.206923+00:00",
-   "visas": [
-    "student",
-    "work"
-   ],
-   "lang": "en",
-   "policy": false,
-   "direction": null,
-   "prio": true,
-   "score": 1.5,
-   "groups": [
-    "tay-nghe",
-    "khac"
    ]
   },
   {
@@ -55941,29 +56159,6 @@
    "groups": []
   },
   {
-   "id": "81d81d9fad722e35",
-   "title": "PNP probes online activity, gun access after deadly South Cotabato school shooting - Philippine Canadian Inquirer",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTjJVQTRpMzZicWZNZFZvRlVuOVk3U0FENkdGZUlPbHlTNTJHbDYyblJrb1RZT2JYM3ViNGxadGJPWE1LREVNWHNOUzJZWHBYUzBmSDhXRGNNZGp1aWdiYi1nNHktN0xsQmZ6eUR2Yjd3UlVMdjg3YnVFdXUyWHMydmkyWmhFWTRYeEFnNjMzc0F3dnpwaEdLTWVUUHJIX3lTNFVmLWgteE9zZnN6Si1yNnRQbGVwLUZQcDFOUzd0VQ?oc=5",
-   "summary": "",
-   "publisher": "Philippine Canadian Inquirer",
-   "country": "CA",
-   "type": "news",
-   "source": "ca-pnp",
-   "published": "2026-09-20T05:27:28+00:00",
-   "fetched": "2026-10-02T08:06:24.137785+00:00",
-   "visas": [
-    "pnp"
-   ],
-   "lang": "en",
-   "policy": false,
-   "direction": null,
-   "prio": true,
-   "score": 1.5,
-   "groups": [
-    "tay-nghe"
-   ]
-  },
-  {
    "id": "f3dc385b1d7f2f3b",
    "title": "Frontex Logs 40% Drop in Irregular EU Crossings - ETIAS.com",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5eVJNemw4Wk9XMl9ZM1BJLTBtRFE3UjQyVzlVRk02M0hqbThRbDdaSlNtOGVLV1UwRHJCcEQtU1N2THZmc1lHUkJHckg4UkZSUUFCX1FpNGM2Zk1RS2J2ZDR1R3VCenVqU0JWaVJPcEFvN19qaTM3TDBmSC1HUQ?oc=5",
@@ -66806,29 +67001,6 @@
    ]
   },
   {
-   "id": "7ffda6a2c8ab3f65",
-   "title": "Could the Philippines become Asia’s next destination for international students - Philippine Canadian Inquirer",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMmVJWHdWY01GVWRhanExYnE5Z1ZSb2VtalA4bngyUFlnYk4wM1lkZ3ZUTTFJb0E3YlFZWU1ZZ0RQODU2NlNMeG8yRV9leHR5Si1YeExiQm5DZ1pXX2laQU5EeHY5WTBWenlFTm1weGlGZDNidjlBTFJzRXRrcUVPazR1UVJnWFVmN2syWHRGUnZ6ZkNFcWhHN1RPRHVQaS1hMmFwcC1OOS1odExFX1pQdW44LUtMQS1RTnJr?oc=5",
-   "summary": "",
-   "publisher": "Philippine Canadian Inquirer",
-   "country": "CA",
-   "type": "news",
-   "source": "ca-student",
-   "published": "2026-09-11T07:00:00+00:00",
-   "fetched": "2026-10-02T08:06:24.137785+00:00",
-   "visas": [
-    "student"
-   ],
-   "lang": "en",
-   "policy": false,
-   "direction": null,
-   "prio": false,
-   "score": 0.0,
-   "groups": [
-    "khac"
-   ]
-  },
-  {
    "id": "b903a005587468e3",
    "title": "Canada work permit delays rise in August; permanent resident stream wait hits 156 days - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNVRnYlJ1QUpBNnZob2dsZlJmUTRTbG8wem1YU0JwTEpUNDhtWC1WTUxqUTNzbl9CWnJUUzVtcnlaRl9LREVySlJfOFhUdXQ4ZExDSzFHejAtdThyeUctOUc1T1AyWTVRMjdCY0ptYUpNVDZuSFB1NHozbWpKbVNRSl9pb3l1QzI4enN6NW0yVzB4V0ZsX213WUpjMVJRalBKMVdVTmdfX1g5TDFGMUJuNWNXZWFRZmRwdG0tZXlxTWl1RWlBdWMtVjR6LXFDN1NnT2FEWktLam54UmRHNjYyRHpn0gHnAUFVX3lxTE1Vem1hTGFHWFgzcE5QbU5EM3cwUGFrUVV0SWRnTjA2V3BuelFxb0JvcjVpQURXbE1SYTQ0WFowX0IxTFZsN24zX3RyTlVpbFBkMGZrSzVscF9qTTQ0aDVYLTU2am9tdE12OGtPSWl2U3U3aF9EY1g5S1Y4TXNzbE5QZ2ZTeXVQWFFOc1dqQ2hhSjRxYWVpQmtYTkROV25MNDZmZFdMYnVpVGV1WmJ4UzVWeHg3SEZBSjVkb0tGWEIxbER5OXE0cTU3eFU4RkpWLUYzWDVrb1JSMEdYMEtsWG5PNnJuWUJvOA?oc=5",
@@ -71485,29 +71657,6 @@
    "groups": []
   },
   {
-   "id": "855f4963266a3e21",
-   "title": "PNP reshuffles seven senior officials in latest leadership revamp - Philippine Canadian Inquirer",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUlBXX2ZRNjgyZDh2dEMxX3RSNnhaOElOYVZkbUJNMjJJaXNObTFvbnZDREQwdUp3cmxIVi1oNnJyY0EtUjlob1haVWF2VDJUc0o0M2pCd1R3T08yWHFRNnNCczY0cUdTRlF0bDcySXNadlVBbmRIWkpuTE05VFNuTGRRVlVqa3UxeUJleFVZaDM2Y1RhNUEtalh2cjlWcWRJS1ZZS1VtZVFHZw?oc=5",
-   "summary": "",
-   "publisher": "Philippine Canadian Inquirer",
-   "country": "CA",
-   "type": "news",
-   "source": "ca-pnp",
-   "published": "2026-09-06T07:00:00+00:00",
-   "fetched": "2026-10-02T08:06:24.137785+00:00",
-   "visas": [
-    "pnp"
-   ],
-   "lang": "en",
-   "policy": false,
-   "direction": null,
-   "prio": true,
-   "score": 1.5,
-   "groups": [
-    "tay-nghe"
-   ]
-  },
-  {
    "id": "346f081e80ffdf0c",
    "title": "I moved from Peru to the US at 17 on a tennis scholarship. 8 years later, an H-1B layoff sent me home. - Business Insider",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeS01d0doV0dKVnR5Nk1aNU5nTUp2Qk9EM2k2QVhUc21Ld2Eydy14Z2Zhb0NWbC1wd29mUFVXQUp6NVN5T2ZnTjZheXVNdVlxdUxEMmUxbVBWem1qeUhBck1DQkZ2TkFqV2xzUGpNUjRobHpoVEpVY0hWcDBMX1NTUkp4a0JlUkZtYTUtRF83WGJBQmlMTUZUcEFnbERTUGN3MWc?oc=5",
@@ -72684,32 +72833,6 @@
    "groups": []
   },
   {
-   "id": "f2b944e6fe80af9a",
-   "title": "Canada updates IRCC processing times for family sponsorship, work permits and visas - Philippine Canadian Inquirer",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcW84dURsMXJOZ3pPQmstMVRiY3h1SDU4ajNxQWVNcDlmTFpWWUV1Z2d0dzlLUDZjaFZmUFdOdzJrdkxHeUJSUnZBbDBmQktvV2k4RVYxOW9lWWJHQ2RicVVDX200WDNwTm1JOWZ4T2lQbzZoeTR6ZzJQS1lKS0dyRUdEdTlDdUVHS19xTVlKZl95blVseEwtdlhvSzVwUm9Kd2trbzQ3NVFsOGxmWU1SbEx2SzJGTUR3WGhCemNwVWU?oc=5",
-   "summary": "",
-   "publisher": "Philippine Canadian Inquirer",
-   "country": "CA",
-   "type": "news",
-   "source": "ca-student",
-   "published": "2026-09-03T07:00:00+00:00",
-   "fetched": "2026-10-02T08:06:24.137785+00:00",
-   "visas": [
-    "work",
-    "family"
-   ],
-   "lang": "en",
-   "policy": false,
-   "direction": null,
-   "prio": true,
-   "score": 1.5,
-   "groups": [
-    "chung",
-    "tay-nghe",
-    "khac"
-   ]
-  },
-  {
    "id": "4f60b0f27772fc15",
    "title": "'Deeply, deeply concerning': More than 250 organizations stand behind Calgary international students facing deportation - Calgary Herald",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEdWamZJeGN0YkRkLU9aN21xWlNSUVo5SG1pYVFqSHB6QjNXQTVNbzdFLTNEUnB3M2F5aml1QXA3X095eHFCaFRuR0cweHN3V09uOGVCd0V5UU05d1ZMWFRyTzhORF9NLVJkNS1LUW5SVFR2clRESWxzZUpaODZMM0VvaDM2Wm9HMEdweVFEOTE2UQ?oc=5",
@@ -72934,27 +73057,6 @@
    "score": 0.0,
    "groups": [
     "khac"
-   ]
-  },
-  {
-   "id": "b844c87de5d9ce5f",
-   "title": "Cross-border cooperation leads to Philippines arrest following New Zealand Immigration fraud conviction - Immigration New Zealand",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTmlmY0xVUTBCMlQwY0Z6TUVYTFNPY3UxZDdFeGpkN1hROE9pU2hoT0xsZEI0ZFlZY0RyNjAyUWVYRzBBb0oxc0tJSjhNV2hsU1dTZUZGS2puU0xfRXJHam9UalpZaGRxdDF1RUxya2MtNUttVTZnLU81cEo2bzZ0NzlEYnhpaU1HTGx5N05LLXNVWWEzSGpTTVNjbElBZE5GZTFBSnVEcWIwNzRQR1U0QmJJZmd5Vnl0V25ZWVl0bjFKTmE2MnZBNDdJT0dsbFVYTUhEZ1Jkb2l1OVdSdnI2YjJWNW84V1BYdExuXy1B?oc=5",
-   "summary": "Cross-border cooperation leads to Philippines arrest following New Zealand Immigration fraud conviction Immigration New Zealand",
-   "publisher": "Immigration New Zealand",
-   "country": "NZ",
-   "type": "official",
-   "source": "nz-gov",
-   "published": "2026-09-02T07:00:00+00:00",
-   "fetched": "2026-10-07T09:47:40.133889+00:00",
-   "visas": [],
-   "lang": "en",
-   "policy": true,
-   "direction": null,
-   "prio": false,
-   "score": 3.5,
-   "groups": [
-    "chung"
    ]
   },
   {
