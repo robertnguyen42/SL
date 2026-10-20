@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Bản tin Di trú</title>
-<meta name="description" content="Tin di trú Mỹ, Úc, Canada, Châu Âu, Dubai theo từng cột thị trường">
+<meta name="description" content="Tin di trú Mỹ, Úc, Canada, Châu Âu, Dubai, New Zealand theo từng cột thị trường">
 <style>
-/* Bố cục: thanh lọc dính trên cùng, bên dưới là bảng 5 cột thị trường, mỗi cột cuộn riêng trên màn hình rộng */
+/* Bố cục: thanh lọc dính trên cùng, bên dưới là bảng 6 cột thị trường, mỗi cột cuộn riêng trên màn hình rộng */
 :root{--bg:#f4f5f7;--card:#fff;--text:#1a1d23;--muted:#667085;--line:#e4e7ec;--accent:#1d4ed8;--new:#dc2626;
  --US:#1d4ed8;--AU:#047857;--CA:#b91c1c;--EU:#1e3a8a;--AE:#a16207;--NZ:#0f766e;--siet:#b91c1c;--noi:#047857}
 @media (prefers-color-scheme:dark){:root{--bg:#0f1115;--card:#171a21;--text:#e6e8ec;--muted:#98a2b3;--line:#2a2f3a;--accent:#60a5fa;
@@ -29,13 +29,13 @@ html,body{margin:0;background:var(--bg);color:var(--text);font:14px/1.45 -apple-
 button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 
-.board{display:grid;grid-template-columns:repeat(5,minmax(260px,1fr));gap:12px;padding:12px 16px 24px;overflow-x:auto}
+.board{display:grid;grid-template-columns:repeat(6,minmax(225px,1fr));gap:12px;padding:12px 16px 24px;overflow-x:auto}
 .col{display:flex;flex-direction:column;min-width:0;background:color-mix(in srgb,var(--card) 55%,var(--bg));border:1px solid var(--line);border-radius:12px}
 .col h2{margin:0;padding:10px 12px;font-size:15px;display:flex;align-items:center;gap:6px;border-bottom:3px solid var(--c);position:sticky;top:0;background:inherit;border-radius:12px 12px 0 0}
 .col h2 .n{margin-left:auto;font-size:12px;font-weight:600;color:var(--muted);font-variant-numeric:tabular-nums}
 .list{padding:8px;display:flex;flex-direction:column;gap:8px}
 @media (min-width:1100px){.col{max-height:calc(100vh - 150px)}.list{overflow-y:auto}}
-@media (max-width:1099px){.board{grid-template-columns:repeat(5,minmax(280px,85vw));scroll-snap-type:x mandatory}.col{scroll-snap-align:start}
+@media (max-width:1099px){.board{grid-template-columns:repeat(6,minmax(280px,85vw));scroll-snap-type:x mandatory}.col{scroll-snap-align:start}
  .top{position:static}}   /* điện thoại: thanh lọc cuộn đi để nhường chỗ cho tin */
 
 .card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:9px 10px}
@@ -83,8 +83,8 @@ button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{ou
 <main class="board" id="board"></main>
 <button id="toast" hidden></button>
 <script>
-// Thứ tự cột theo yêu cầu: Mỹ, Úc, Canada, Châu Âu, Dubai
-const COLS = [["US","🇺🇸","Mỹ"],["AU","🇦🇺","Úc"],["CA","🇨🇦","Canada"],["EU","🇪🇺","Châu Âu"],["AE","🇦🇪","Dubai"]];
+// Thứ tự cột theo yêu cầu: Mỹ, Úc, Canada, Châu Âu, Dubai, New Zealand
+const COLS = [["US","🇺🇸","Mỹ"],["AU","🇦🇺","Úc"],["CA","🇨🇦","Canada"],["EU","🇪🇺","Châu Âu"],["AE","🇦🇪","Dubai"],["NZ","🇳🇿","New Zealand"]];
 const GROUPS = {chung:"Chung các loại","tay-nghe":"Tay nghề","dau-tu":"Đầu tư",khac:"Khác"};
 const PAGE = 25, POLL_MS = 60000;
 let data = {items:[], taxonomy:{}}, group = "ALL", policyOnly = false, officialOnly = false, query = "",
@@ -132,7 +132,7 @@ function render(){
   document.querySelectorAll(".more").forEach(b=>b.onclick=()=>{shown[b.dataset.c]=(shown[b.dataset.c]||PAGE)+PAGE;render()});
 }
 function renderGroups(){
-  // 4 nhóm theo Google Sheet "SL | KEYWORD", đếm trên 5 thị trường đang hiển thị
+  // 4 nhóm theo Google Sheet "SL | KEYWORD", đếm trên các thị trường đang hiển thị
   const cols=new Set(COLS.map(c=>c[0])), cnt={};
   data.items.forEach(i=>{if(cols.has(i.country))(i.groups||[]).forEach(g=>cnt[g]=(cnt[g]||0)+1)});
   const box=document.getElementById("groups");
