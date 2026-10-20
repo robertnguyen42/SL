@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T16:04:58.698533+00:00",
+ "updated": "2026-10-20T17:05:27.642966+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 13
+   "count": 10
   },
   {
    "id": "us-sheet-khac-2",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "eu-student",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "eu-sheet-khac-2",
@@ -719,10 +719,58 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 15
   }
  ],
  "items": [
+  {
+   "id": "8d260b1219f73c5a",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Study visa applications rise - and more being turned down - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHZIeGYwWE5KaDZZaTMwSjExcV9rOXdwN05idHVEQ05uVzRfZDhhUTM3TUU4MXBlbFNIc0NGal9vQ2QwcXNXTkVmRG5VZDJ5dUdLbnd4NUUycHRnaG1mTlpQc3FRV0NHTVQ2RTdnQXctRm9ydzRlQzlCMWtZZ0syaldWdE0wWnpCVDVjUEFma1l6YUhsMHhOQ3BTQkhreWp5Tnc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T16:28:59+00:00",
+   "fetched": "2026-10-20T17:05:27.642966+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "ce11cb9bc0b6df64",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US: OPT fee proposal exposes divide in Indian applicants - The PIE News",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGxKdUgtSk1VbDN6NmVUczB2T0RLZGdDMmpHdWt3MkdCNE9XcTlweEx2ZUVQU0tnTWhIRDFLTTVDZnNYZmM1d0tDdnlvaXVlUTF2bVE2TFZlU1IwNk5aQ3dBLTV4blNOTW1VY3R6dko1QXU0Z29nWG5BblJlRXBZdzVhZk1rZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The PIE News",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-20T16:09:52+00:00",
+   "fetched": "2026-10-20T17:05:27.642966+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "56d802765558a980",
    "src_group": "tay-nghe",
@@ -795,6 +843,28 @@
    "groups": [
     "khac"
    ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "aeb372ac33196c00",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK Introduces New Immigration Rules Ahead of Erasmus+ Return in 2027 - Rus Tourism News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcnRjNTZLYlRZMW5OSFZoa2JCdXUzVXFOWGhpb01tM2d5QU5mWExrSE1jZjlsUGprQ0dtU2Y3ZE5MMElxSlE2bldMUlFRUkdNRzNjYlFkMXFqSFkzVDJBZUZ6NEYwYnJ4R1dYOUtPeVUzOWgyUXlkbEFBMVhoblNvZnRicXQyTFRCSGNBN1JwVEVaMjBBdjI1QkJvaU1Uc2VjbDl4eXdydElzWVZaLU1R?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Rus Tourism News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-20T15:23:21+00:00",
+   "fetched": "2026-10-20T17:05:27.642966+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": true,
    "direction": null,
@@ -1533,6 +1603,28 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "b54a6a9d7cdc578d",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Former USCIS and CBP Leader John Petz Joins Vamonos IT as Member Owner and Chief Solutions Officer - Homeland Security Today",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGdheEtOWEcwN0tRenZlWEpoMHdweXJtVzAwT3RDS3Z6dFV0UjRLZU9oWXNXaU1leTV3SGFpTTdEb2lUcC01VW9lZmF1SHZ4Q2tGaC1IT0VUWDdaeHBucnJQVEVscU9qdkV4dWtUTmV0Q1BHM01IOTBhQUw4T2xvSmRIVGlrbTJmMGtxa2k5VmZ5dUNBRkZBa0xYbUlvMGZDZjN5Q1BLX3JaNjZ5S3EtVHNyRm9MRU5pVVNXZGF1Vno5NEVVNE1iWmVHTlZsQ3J2VU5jU2pWa0pWZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Homeland Security Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-20T07:27:22+00:00",
+   "fetched": "2026-10-20T17:05:27.642966+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "48caa208072e012d",
@@ -4679,6 +4771,30 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "0c4f62cb864eff0f",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Visa delay costs Waseem five-fight deal - The Express Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb1VPNUNsODBUU29IbnFmWFNGSEc0cEt6clVjSUI2YVdTRnA4c1VmYXJzZ0lyUy1TRjlaNng2anhxcHdoV3JkWUtDUU9NWVhDMDNQdmpSMFNkWDBTUm9CVmNRMHZkbW5SVk9vTGRJampLU1pQeFdBTlZJYU9vNkM1cm9n0gGKAUFVX3lxTE50NHB1Zk1aUkNOVFpCc0JTS3pkbjJJNEZMWG5VUG92UGhiT1g4cktMMmhxYVhHcDFraXVYSDhUeGUwU0JjVkhaMTE1YkJHdHpHMHF6SFJSVGNUSTQ4eUJMaFdwSGF5RDdsSVNWdEt1NU8xTENYWEVBWHowZ3ZPUmZCQks0SnpRSy1FQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Express Tribune",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-18T11:52:09+00:00",
+   "fetched": "2026-10-20T17:05:27.642966+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "6c0985e8f746dfbe",
