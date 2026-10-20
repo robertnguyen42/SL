@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T23:22:28.383379+00:00",
+ "updated": "2026-10-20T23:54:02.780126+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 14
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "us-sheet-khac-2",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "ca-sheet-chung-1",
@@ -527,7 +527,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "eu-citizenship-investment",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 17
+   "count": 19
   },
   {
    "id": "eu-family",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
    "id": "nz-smc",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 13
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -723,6 +723,28 @@
   }
  ],
  "items": [
+  {
+   "id": "a1794ed14b591496",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Bộ Ngoại giao Mỹ thông báo thu hồi hơn 300.000 visa - Tuổi Trẻ",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSDhCd042Nlp0NVRVSExYZVhhQ0xhUE1qSzl6NDRfRXlyWEEwM2xXdldDY2JfbDNrUGR0UGF2QUhoZ3dHSDRaLW1kMUpOaFMwOGFWYVl0N1NQWWxlSmhNM01oNzJBLURRcTRhSl9lcWdkOXRqUjUxSWFKVmtKZ0FaX3pqSnZIWG9DampLRk9Oa1ZOcC16RGpJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuổi Trẻ",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-20T23:42:00+00:00",
+   "fetched": "2026-10-20T23:54:02.780126+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
+  },
   {
    "id": "d604db4caceb7a6d",
    "src_group": "chung",
@@ -797,6 +819,32 @@
    "score": 4.0
   },
   {
+   "id": "9ee71b572e50277c",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Justice Department Issues Memorandum Outlining Corporate Fraud Enforcement Priorities - EB-5 Insights",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMW91eVpMd1hqQkZJMGgwb3hOZ2xwcDZ2bnZSTTFsZXZEQUVoMFBVZjZGaGtQR3h5Z3R5SkJrQzBvY2QyX1l0UkFVUzQ0R0w1NHhOZ1FYT0M5TDVSTFJGV1BKN2J1MG9UMU00TVVEaV9HVTZubWVlZTc1QW1tV29BMjdTckpkUC1DdlRuSkZITmV1Y2ZZZDlqbWZvb2dzZ3RTakxEUG1aQkU4UGp5SnRXY1F4Mm1GcXp4U294QlI3NkRPZW8?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "EB-5 Insights",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-20T21:59:19+00:00",
+   "fetched": "2026-10-20T23:54:02.780126+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "af172d0a4dc57b83",
    "src_group": null,
    "src_country": "US",
@@ -841,6 +889,32 @@
    ],
    "groups": [
     "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "56636515eac1cd12",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Sudan and Ukraine TPS Remain in Effect While Employers Await Formal DHS Guidance - WR Immigration",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2l2emdIcVNLamZBV01xR00tTW1uRjJJNmI5NmNMcE5NbloweWNWTnU3S1lBRDdYeUUwRHEyMmFEZEJDTFc3TmVBMmdaSnhTeUJLeGpQcS1XMWdUTjN5WjFtSFJjYTRBZUk0YzNjTGh0RHR2X19JYmxBcTZUQlFVQ2Q3RjlhVmZGd2x3Y0E0NGNMcTlUYkJYalN1UG1OZFMyTExHSFFn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "WR Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-20T21:00:35+00:00",
+   "fetched": "2026-10-20T23:54:02.780126+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "groups": [
+    "khac"
    ],
    "lang": "en",
    "policy": false,
@@ -4179,6 +4253,28 @@
    "score": 0.0
   },
   {
+   "id": "8c3f6b6c99803397",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada’s Government Now In Favour Of More Immigration, Here’s Why - INC News",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5selZ5aGg2UUN1R1VjZXEtSUtyWkxBUkJtdTg2RTVfSmIwWE9FT3FRS25qS1J5VjN4OU05eFEtcEZ5RFNGa2pWdE9XOEJvWnFSdlJUOFpvYXNMN2VBVUxlbi1nMEF2TFdrNVEteEFIcWdzREk5T3RyRjBubw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "INC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-19T14:22:03+00:00",
+   "fetched": "2026-10-20T23:54:02.780126+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "37e4751e6d841d6f",
    "src_group": null,
    "src_country": "AU",
@@ -4540,6 +4636,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "f931d05fec33dc8a",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Abu Dhabi Sets AED Monthly Salary Target for Skilled Workers' 10-Year Golden Visa - Briefly News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT1NOaHBkeFc5elNXcHFTUzl6YnNlM3B6VW5Nb2NnXzJINXU5V1loRFFCMnJBajliSFZMYVVTQnRqQk45RmZKRGdiXzAzcmk1cXdxb2YwR0x3S193bHdQVGI1VHFwSGNrMHhQbDlnMDhDdkptSXd3X2pVM3VzMzU4Z0thZXg4YXRFZDdBdU1jRlFtZzJqQjk5LUtkU3pBUUJYM2szRHVfY25DOVl3ZC1ieHJxTUxENzRJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Briefly News",
+   "country": "AE",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-19T11:46:37+00:00",
+   "fetched": "2026-10-20T23:54:02.780126+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "e2ee61e6db68e7fa",
@@ -14904,6 +15026,34 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "4003e00c393704ae",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada Work Permit Holders Can Study for 6 Months Without a Study Permit - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbTVZOUNHXzRkYlJ1M0JxRHpXYWJybW1JOC14VjlFMGVNck9xTmVqZm16eXhnUi0wOW1Ub1VmQWpBQzM4T2JELUlXSE5WZkdoU1J3MG9kOC15b0k0X1h0cVVkbHFwU1dsam9EQ2RKVWJlQVV5SGZaVUZZV1Y4TjkwOTVuUnJneElJQjAzcWM1WUxJU19xY1h2X2JKQmVHclpHa2taeHBfS0pTZjBmQ0liWk1TOGxraTVSaFE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-14T16:41:06+00:00",
+   "fetched": "2026-10-20T23:54:02.780126+00:00",
+   "visas": [
+    "student",
+    "work"
+   ],
+   "groups": [
+    "tay-nghe",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "5a0035b858066678",
