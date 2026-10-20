@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T05:01:36.908622+00:00",
+ "updated": "2026-10-20T06:00:12.847256+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "au-skills-in-demand",
@@ -263,25 +263,25 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-eb5",
@@ -383,7 +383,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "us-green-card",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 11
+   "count": 39
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "us-sheet-khac-2",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "nz-family",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 9
+   "count": 14
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,50 @@
   }
  ],
  "items": [
+  {
+   "id": "8644e350280fcd90",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "UK investor visa: 7 critical checks before the Budget - NRI Affairs",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FeHpsQ2k3cmZpR09uVE5TOHdBb242Uzd2cnhwVUhSdTNfOXZ5ek93eWVEeXA3dkFLYnFpNDJzMmNCSHAxMEg5U082bUhYVEsyelZaSlhYdG5zVi16RDdac0hsS1NSQVpqNWc?oc=5",
+   "summary": "",
+   "publisher": "NRI Affairs",
+   "country": "EU",
+   "type": "news",
+   "source": "au-investor",
+   "published": "2026-10-20T05:36:47+00:00",
+   "fetched": "2026-10-20T06:00:12.847256+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "1b8337c33908a352",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Centralian Motors named Major Sponsor of Red CentreNATS 13 - Street Machine",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUEhCNnlMeDBYTHZHTm42b1gzOURXeVFxeWlEVjZ1dG84UU8wY0pET3lySWlNcXpXNGUzQXlJdlE2NG5OVGZ3bjVxRVhvNWRkNEVBU3BvcExhZFgwa0tEU2gxanlaZ1lGaFZXUWQydDZhTDRlcXFOaUM3eDR4d1ZtbFVuRjhVRlVlZ2JoYzRSd1NMOGtySHpZelEwVHY?oc=5",
+   "summary": "",
+   "publisher": "Street Machine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-3",
+   "published": "2026-10-20T05:31:59+00:00",
+   "fetched": "2026-10-20T06:00:12.847256+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "82bca469ce787918",
    "src_group": null,
@@ -2177,6 +2221,31 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "18ea9fd436e7d6de",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Map Shows New Green Cards Issued in Each US State - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3NadC01N0RMcG5jTy1lOVdRYjB1LWdPUUdnZXlyRm5VbDVQbzFOODVVSlhGQWxHQTlvZGJUUDA5ejBUMVpCLVJkVzlMNEZVQ3BvVDVCemgwN0hUV0VwNVRwT29IZEJkRFlLdHU5WE1oaHdrLVVWSjNHbmdKVC14cmVoVmJvSHM?oc=5",
+   "summary": "",
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-19T13:21:00+00:00",
+   "fetched": "2026-10-20T06:00:12.847256+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "e197a77c95ec91ef",
@@ -15617,6 +15686,31 @@
    ]
   },
   {
+   "id": "0718563c61b9efbc",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Britons heading to Europe could face fewer delays as EES checks scrapped at busy borders until 2027 - GB News",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SVW0tTTdYVlAwRzFBVVFkYnlwV2luVXkwNTl3cTJtaFJuUkNqel9rMW5ic3c0WnhoV09tT2tPQUlDYjZqMzdJV1drZExycE5UbDdYMTFNOHU1R1ZoSGhyT3JVYmJEb2lKd3haTVAxQ0NGakhRNmc?oc=5",
+   "summary": "",
+   "publisher": "GB News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-13T12:11:44+00:00",
+   "fetched": "2026-10-20T06:00:12.847256+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "e6e76aff20360b24",
    "title": "US visa, green card applicants face new USCIS filing deadline rules from October 23 - Moneycontrol.com",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR2lxSUtOUUpRVERDaDgta2hsd0U4QzZGNFlhM21iaENwOEI0a3FrdVlUaFZ0RVRaMVQxQjFfODJjWjkyX3VIdkt0VTFHT2ZsLWZ4NDBUeWpRbU01bHlQejNzWDRLWXlwSVMzZXBjMmlFbzNuWW5jZXVwd2NXV29Id1VkNjhfNHNHT2JpQUZjb0F6b0dqbTluY1g2Q0RTWGFVeFZJektmanlZMkxQYzJwQnFxZ1lGazYtbHAtTnliZ0ZELUt0OWtlTTJRWjFCcmRhSEI4UHVWREhxa0nSAdsBQVVfeXFMTkdpcUlLTlFKUVREQ2g4LWtobHdFOEM2RjRZYTNtYmhDcDhCNGtxa3VZVGhWdEVUWjFUMUIxXzgyY1o5Ml91SHZLdFUxR09mbC1meDQwVHlqUW1NNWx5UHozc1g0S1l5cElTM2VwYzJpRW8zblluY2V1cHdjV1dvSHdVZDY4XzRzR09iaUFGY29Bem9Ham05bmNYNkNEU1hhVXhWSXpLZmp5WTJMUGMycEJxcWdZRms2LWxwLU55YmdGRC1LdDlrZU0yUVoxQnJkYUhCOFB1VkRIcWtJ?oc=5",
@@ -20647,6 +20741,29 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "2d8ef751c5cdaa08",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "EU Announces 4 Countries Whose Citizens Are Exempt From Biometric Registration at Borders - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPclg0TnV3ZmRnN1RnYmhTUGZhSmRiVlIzRWFTZF9GZXUyTkxjc2FPdXpiR0dMT2I1dHR5TU44SG1zSWNYUkdGMnRwaWh0cF9VelF2Y0RGLVpwVUdaT0pMdnl4Qk51RmpDMXBzd3VKRjF5SXVLMlJ0Q256QW5URTRjTjcyaVRYNm9QVVFCUmQ0OWp5bkl3Tk94eTdScDc3NF92YXhFQXBlMA?oc=5",
+   "summary": "",
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-10T07:00:00+00:00",
+   "fetched": "2026-10-20T06:00:12.847256+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "a18ae40e02c987e8",
