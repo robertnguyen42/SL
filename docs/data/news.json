@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:02:55.226866+00:00",
+ "updated": "2026-10-20T05:01:36.908622+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 39
+   "count": 11
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "eu-sheet-khac-3",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "nz-aewv",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "id": "nz-family",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 14
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,56 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 13
   }
  ],
  "items": [
+  {
+   "id": "82bca469ce787918",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Có tháng, số thị thực nhập cư được Mỹ cấp giảm còn một nửa trước đây - Tuổi Trẻ",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHc3Q280Yy1uVmhMY3BYYW0zcEdrY2NfeXltRVhFUTN0ZkN1OG5ic2QxZ0hvUkx6NlZHbUdMaWJ5UHRkMXdxdXhaRzBYdnoyVlVhdXpoUk8wVEZwbFlSeHo5eERjaFBZeHhlVE1BdHpTQnh5djlHaHFwLVh6bDZjenhNQjdmN1JhODZYOWV4cFYzX3YwMlYxOVZXZU1icTVqQko1RExrRkRjQWp1?oc=5",
+   "summary": "",
+   "publisher": "Tuổi Trẻ",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-20T04:05:00+00:00",
+   "fetched": "2026-10-20T05:01:36.908622+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
+  {
+   "id": "e1b5b7ed8f760dc4",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand opens 5,000 work visas for Indians: Full list, who qualifies and the rules - https://awaaz.co.nz/",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmlkQU9EMW9POUdMc1NKR01KODZqN0lxSTRHVzRTdldkS2lDZi1pQTRUVU1kdng4bEktNmJOamtFR01ZX0psR3RQb3hjS0tDQXlqSkNHanRWY2lYV1Y0SkV3clJYa3VBMW45UnlMZzdtZnhlUzFlNVo2dDhNb1BLUjZkd3lORF9kUUJhSDhiSUlSdHl2RGRqb2lHMUR2cHgxOUc2dlB2ai1xRHJJRGEwMzVEQm9jSUpMTV9lYQ?oc=5",
+   "summary": "",
+   "publisher": "https://awaaz.co.nz/",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T04:01:37+00:00",
+   "fetched": "2026-10-20T05:01:36.908622+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "80a29d21eb161947",
    "src_group": null,
