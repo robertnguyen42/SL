@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T02:25:17.686604+00:00",
+ "updated": "2026-10-20T03:01:47.360578+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 10
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -814,6 +814,27 @@
    "direction": null,
    "prio": false,
    "score": 3.5
+  },
+  {
+   "id": "e7679dd28df4ed88",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "Why New Zealand and Argentina matter for investment migration - BizNews",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNME82UWZuQjVOVFYwRXVKRmlyRXRnS1NlQ3haOU83bGsyWWVPTnZuUXRaRWZJZmZaLXdWS0MzTnowNXhPVkE1c2ZGajR4ZFBiZUdTTDVkVUY0eHNseWVJYVRiWDRtSjZRdGxHcmhwdUpmT2ZGWDN4VS1PZnFsVzZUdkJEMUJnTTlWbU1sVUFnUUZNUQ?oc=5",
+   "summary": "",
+   "publisher": "BizNews",
+   "country": "NZ",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-20T00:00:00+00:00",
+   "fetched": "2026-10-20T03:01:47.360578+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "a7ca1ca30caf9990",
@@ -1404,6 +1425,31 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "df1c48a78c99bcb2",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Unintended consequences? - Brussels wants Caribbean golden passports gone by 2028. In St Kitts and Nevis, the bill may fall on the federation itself - EU Reporter",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORG1lRUduTkxfNnpta2xjQ1FvemtGRC1jYnM4bVN0bnZKQnl3ZVdhWkFURmlUYmNNOTA2TGVqMHRqbXhFVUxxaW4wZHZnUnFqX2RzcEhrTkI5cjhOZXdxejU0ZnJZT0hCSjVwRDlKc0FWQ2tySlllNVBLTDgwNXJWTFk3VUJ4V1RlZThBRUNDZmxhV3psejQzVkRneHJlR0pHcXZaT2R2V2hXT2JkbjBuSW02VjZYUEdmdWxPOWhGcDV0MFF1UGtxVDl0ME1TeFNiRFJyU0pySFVIUU8xMEJZOHZ6cndLZ2E0RjM4UWZ0RHZxU2hSOEVFWk9ETng2NTd2QXk0bnNzLVdhS3MyV2pLVWdqWXVCNExSTXc?oc=5",
+   "summary": "",
+   "publisher": "EU Reporter",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-19T18:21:56+00:00",
+   "fetched": "2026-10-20T03:01:47.360578+00:00",
+   "visas": [
+    "citizenship-investment"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "1bea58b0308c7142",
@@ -52766,6 +52812,27 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "44151c7eb6249b75",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Immigration office opens in Nakasi - Fijivillage",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODdCaGVHdDhRajNiZWRRRy00Mkdla3FqMGVwLUhYTWRMT21oVml3c3VFdmpxZ01NcXdodnVyX2NVNDFxMFQxcDlLWi1kdmJrR3ZQSlpGdWxxN1J0QWYxQ3hhNWdzNEZMNnh3b1pJZkNWUnN3S0VSVEFnMVJqN1dzWmp3?oc=5",
+   "summary": "",
+   "publisher": "Fijivillage",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-20T03:01:47.360578+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "ee85257063a900ba",
