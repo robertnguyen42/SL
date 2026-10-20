@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:59:06.364541+00:00",
+ "updated": "2026-10-20T22:31:22.620019+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "nz-smc",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "nz-investor",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-residence",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -723,6 +723,33 @@
   }
  ],
  "items": [
+  {
+   "id": "97eebf7d80bb3700",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "IRCC announces changes to express entry bonus points to reward high-wage occupations - MLT Aikins",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUDVlZUNjS1kybGJvdnJoX2dnaW5pTGYxa3ByTm12WkVDOWVpeEY0YVBjTFE2Nzlpbnp2UERJQTRnaTU3OHlKZlZqUDdraFJKWWozYkVxeW5mX2dXVGRfRVRteS0wYlJXOFN6LU1lamVMbzRrUFlxT3RaMko1VWFtb3ltdzBKY0E3d0s2OXlrRFh5cElOc2J0S3pSZDNZVDdDUi13NEFRZGNtMklibzczTmRFNUxWejViUGNBRQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "MLT Aikins",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-20T21:59:29+00:00",
+   "fetched": "2026-10-20T22:31:22.620019+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "af172d0a4dc57b83",
    "src_group": null,
@@ -5379,6 +5406,30 @@
    "score": 4.0
   },
   {
+   "id": "4ecbc0a4af6522a5",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Canada’s new immigration rules: Full list of eligible high-paying jobs - The Sun Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGE1Sk1GS3JMN0hGV0xnVFcxclpiQk5VWTl6S3hrZi1aOHNMa2JLN1BQN1BqWWhNQXdERTRMRWVaY082ekZMNXJWNHQ0X0tPeFAyRUJXQ21zVGFVazc2XzZ2el9PSmFnU3kxc2RMOHQ4czNXQVdJRjhRNENSdXlWTVhLNVBVU3d5Nnh4dmVac1o?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Sun Nigeria",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-18T12:21:17+00:00",
+   "fetched": "2026-10-20T22:31:22.620019+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "417d2f6ba86a2567",
    "src_group": "tay-nghe",
    "src_country": "AU",
@@ -5745,6 +5796,30 @@
    "groups": [
     "dau-tu"
    ]
+  },
+  {
+   "id": "4d2d8295c9a22b54",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "IEC Canada 2026: Final Invitation Round Opens Before October 19 Deadline - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OeFpQNHctZlZyMlQ0SUFnUzhjdTBGcXA1cGJUa2RzOFdEV1U2ZmtUQmNhVXpCS0Y5TmRRVXBkNnZHQ29LQTAwQVI1cURyV0lRVXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-18T07:52:55+00:00",
+   "fetched": "2026-10-20T22:31:22.620019+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "2eca28df954335ad",
@@ -21237,6 +21312,30 @@
    "score": 2.5
   },
   {
+   "id": "e61d921c76e18b6c",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "How Will Canada’s New Asylum Claim Process Work in November 2026? - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TWEVNajM2VkZDT3Vnd05VSmpFNXI3dTR5bUZOT2lLeVo0YjAxRHJlOC1WNGlmLVpCRC1JQUpaRUplOXpPWWxHai0tN1N6bF94NVY5MmxuUzNBUEMzUFJDV3lFTXl5cmgtX3BKLXVXalJSNWhq?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-12T05:10:50+00:00",
+   "fetched": "2026-10-20T22:31:22.620019+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "663d4d288946e720",
    "title": "No provisional visa needed: 2 Australian routes to permanent residency - Tuko News",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTZXU05ucW0wQS1aVC1SV2RocGFFZGE0NWU3UEZyaGlQSlZjeldXR0pEcUxRcnMzbmJZSlFOUXRvZ1pSdXZyRHVmM3dCX2FDbXdwTDB2SGZVZnRJay1uS0ludVBDb0pHbkRiZDlyVVRFUndXdVNMUXZGb0xEbm1IQkljR3lxb3lXY1lGT181TEJBQS1TcTFjd25sbjU3U1lDN29ORFFIX3BBZw?oc=5",
@@ -26739,6 +26838,30 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "729bed04b72512d2",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Canada PR: Ontario gives 10 points to workers earning C$80,000 under new immigration pathway - Business Today",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTGt0TVFLSlZtVUdaRmFjRS1BZTU4TFNCLWJaUmQyS1ZXcUtTQXQxN185dU5HdThSUVdEbHlqUFFqUG1oYmhhSnpwY280bU9sdWpkWjg1eFV1NU5wT1ZLTVFIY1o2S2JtYTVlRFJtVnRlaHo3TVBzQ2tnTVBseW9PNDVienNHRElaTURsU0w5SVBOSEhJclo2R3I4QnloTVY3UnNuZ182TmlqaGRvUzBxN0thSGJJZTVQV0dIMXNnRUhaS090U2MzcEtySUpfSUVLdVEyQnVTb0I0M0p3bWZXTEhXcl9qUdIB6wFBVV95cUxNSVVHNTZzNHFKdFhKUW1ZbExqZkdWMmJ0NlpNdXRGbzNLZkNyMnZMX0hTWDBSNWRoLXZNSXpoWGhRQThwbHBXZWd6OFNMRV9OdDVTbmcwelZQTkxua25QRVNIdDU5c0VSOWdycGtDRVVabVhOWktRV085SmIyQTJ6dlZZMlZTc24wdzM1Mjh6UHhpSUJEMWVfb1BZXzcyTWFfeU5CbVhxY1lya256c19vVXNaU1ZSNmxaX09BWGVPMHY0M1FmbS1wd2VvNnJEdUxDSFZEX0hIMl9qaXJ4a2xOYzFpMWlpOE1Cd1Rz?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Today",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-20T22:31:22.620019+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "f6cc906fe6524f7c",
@@ -39715,6 +39838,33 @@
    "score": 0.0
   },
   {
+   "id": "bb3bfc1095680bfc",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia tightens student visa rules for Indian students: What changes on EL3, visa hopping and family members | Explained - EdexLive",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeG5jRkR2dm5kejVMSlhxc0RMMko0T3czTGpJbEoxbTcxRTQwOHcyU3VXZTd4dW03Z21TcEs0SUItblMta3FWLXhJUk91c0V0ZXBERGc3MnhuSGtBd1JBcklvY1ZZZDAzTHI2TnBvMHItT3F2Ty15ejJQNHFybk5yS3l6NER6UHBKUVNCOW80VGJFSWR4eERGbUlBbUxpSEdyM21BLXFwM2VDRGlmZkNuS1JVdFJjTlEzTDc4S215S3Z5QjlvQjhfYzZPZVdBMTZGaktaN1ZKX1NjNGRLWHBVeE16WdIB8AFBVV95cUxPLUlXeWkyRUtha1d6UGd2Q1E3eDFnV1RUWDc3d0xKU2VrbV9tSy1lcElESGhDMzNOT2k4N0xBZ3BtZ2hwWG5hYThMd3ZHUmZHTHVRTkFZUUVRS1VYbnltaWtQWnpNU0ZucE5JcXROSVlJYWFEUi1wLXR5dldBRTl1VERFUEdPYUlyMGRZc3ZuTzVCbU84bXFxT1Y1TEhSdlBXRnY3NXFWdUpNMEc3dkdrRHBfbk9qdy1xeXBTMlVfQ2U5dnA3cUFGUXg2Z29jTUswNFhNM19XRjVPVzAyT21yeTNHU3VuQ0JmSUphSDBsdW0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "EdexLive",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-20T22:31:22.620019+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "9c24db098c37e744",
    "title": "Australia visa rules change: How should Indian students plan their degrees - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWF8wbHlNSTJGQTJLc0FXVTBycVo2d1JOc1JkREpRb3NXMHk3cTF3VmxiSndGWDhHNFo3WlBDSk5wSThOUmJ4TE5Rc3RBNlQxcFRBazVUem5yZjdvNF9MRUNjOG92MDV3czNYMENwWGsxQm1nZk9XNVVrSU1JU1BzWjFtcWU4OGtWbTNSZjJQZUFrdmg2UjgySmJhdHpzV3Q1T25LclBMSW1MNnc0aC1qZWdlVzctM0Z2dHhoM2V0Wk5COTdJZDRnV3NwQ3d1Qll0elVDdlo5UFp1WHfSAdsBQVVfeXFMTVhfMGx5TUkyRkEyS3NBV1UwcnFaNndSTnNSZERKUW9zVzB5N3Exd1ZsYkp3Rlg4RzRaN1pQQ0pOcEk4TlJieExOUXN0QTZUMXBUQWs1VHpucmY3bzRfTEVDYzhvdjA1d3MzWDBDcFhrMUJtZ2ZPVzVVa0lNSVNQc1oxbXFlODhrVm0zUmYyUGVBa3ZoNlI4MkpiYXR6c1d0NU9uS3JQTEltTDZ3NGgtamVnZVc3LTNGdnR4aDNldFpOQjk3SWQ0Z1dzcEN3dUJZdHpVQ3ZaOVBadVh3?oc=5",
@@ -40521,6 +40671,32 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "fb257281d47c973f",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Flydubai Attack: Co-Pilot’s 2-Year Stay In Australia On Student Visa Under Security Scanner - News18",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnF5WExVVzlZN280RzYyZ1lnSDc4blJFVnc3Y0xfZXBUMmduUDNVY3Z4SjNQMzlXWm5XZHFtRUpQMmdRTk52MjNfOFcxTmU5aDZOWjM2SVpOdHhzcDBmWEdNVVhMOWdUazZNV3hpQ2gyYnNyWmk2S0R4MnpuQkxKSzhfUlpQZ1JieFM3ZmFRSmNlZVpJUVhNY2ZsOUxKTjBmTV9RNXVn0gGrAUFVX3lxTFA2NmFBMlRpWXVIWEVNX09LbVJrUE9wNGFDSHYyYnlFY2MzbUdKSWFKUGpPVlNXUE1ibmhIRkp6VGNlTEVzX0VnbkF4LVR0LTVEeDVaQWJCV3hvV2dJNExvOXgxaFY4X040dUtWUW90MHVxU3NfZlpJS1BJeS1mczhHQUpjSXFaOFZ1bWZMRnd1RDBKQ0tRSV9STkVESWhWdlRRQmFvVzNPWENwVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News18",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-04T07:00:00+00:00",
+   "fetched": "2026-10-20T22:31:22.620019+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "8482fbdaa3279ae5",
@@ -41609,6 +41785,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "de9d96233b05d538",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia's new student visa measures are now in effect: What Indian applicants need to know about changed rules | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNamczWU9tWVg4YnQ4S2hIc0MxSWd3ZmdQT0VtWUpqLW9veXBUT3VFRUNKS0ZOMnhad2hZZDBjX25MdUg0Y0dZSHpvVVNValliTjkzU1lCTG1mNEVRTm5Ib013bU1TOU1GZU1lVmFSZHZTWWRKRGw3SFROMHdyR0o4eU9UeGNmNHpWeV9aanFCRnFBUE9FdTd6YjlxbXRGamEzU0Z5T1VVR2lBNWFGWFpyRWpVQ05mVHdOZVNZX1hPLVNtaVlKNVBBSFBVb1ZZRktrNDAyYXZuaW1wZjd1NWhYbzNVazJZa2p1djZlWThiendteDBuX2Y4cVdB0gH_AUFVX3lxTFB0TWhkUDdrN0NyeDFORDZLa1VrM0tSLUNRYmJWYmVzR0N4TFpVbERqSVhCeC0xNklVWkpGVDNyOV9mN1A4UUMzMHJlLWwxMDF5WUNBejk3Yk5Yc3BGcWtaN2x0RVVsclpOc0lkU3FMV2lPeTdxc1dqbVlpUUF1bW9xeHZVdUdlMWx3dGNvTm5zcmF5NHRZVzBBNExxT2V2aTJKUEZxaVlpa21BblNiVTR0blM0cWRjb2xERkd0NjhJcmtpeGtfUU0xYXRBOFZwenpDV3M3c0oxWkdEVmhpOElNU21pbzR4R3BMV09EVHVvRndzQzUwRmszNHdEMVF6SQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Hindustan Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-03T07:00:00+00:00",
+   "fetched": "2026-10-20T22:31:22.620019+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "63cbddb906d082a5",
@@ -57371,6 +57573,28 @@
    "score": 2.5
   },
   {
+   "id": "c73798b53c4eabcd",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "‘Sacrificed’: Backpacker visa backlash grows - News.com.au",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZDNYa3YtQWh2dThrSkJYRWczdVZkOW0tWTdGYnlSeHlMVk81Y3I4WnJYZXhPdHVWWXMzb2lTSURNVm9OamdKeHdtVk9lWnB6dC1xMUNFMGlOSWdzMjlkTEdaVFM3V0lXeUN3LXZiSXJIWkNQbDI3ODBON3FuLUxmSm11NDdDbW9IZVFYYzI2bVhja3ZEWTF6UEpUUkFyREVpODhnUG9wRktjZlV2T3BQNGFweEhUZHRuZEZKR29rVEtRQ2thOXlmc2l5Q19DdllGSWfSAdcBQVVfeXFMUEZ0bHpZNFNzMTNEbFlvNVFjWUQ1REk3VWljTU9tZHJxQmRETUc3OUo1Z2l2TzE2TC16akdxX09saDlGaXpPXzVvMFEwOHpSOHYzR0VkOFd0YWNUbVVaaGJHWEs0UzE4VzZadXNnbU9NcVpwWEs0ZlhDdjVfLUFyRTJsV0FoRzZVVU44Tjl6LTFNVzZRLUxzRHVNZk9XdDBqTk80R25GZmN2a25ZcGtvRi1iQmpSTWJVd1Nvd1Y5ckVQczdmNlFULXBJMVJ3QW5YSmYyelZEejQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-partner",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-20T22:31:22.620019+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "15deb630b6ae09dc",
    "title": "Úc cần thêm “baby bonus” hay nhiều người nhập cư hơn để giải quyết bài toán dân số già? - SBS",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc3ZkMUluUThLamUzRVdXbHAyZkVHMlNFZzlpUmhLSTlGYkVyaHhuT0RTcFc0N2l0V0wyaFJ4c2xucHd4bzhob21GVW0xWnU2dEZmVVNkVl8zN0F3YWZ6M1ZGRGo2THdpemlyWVljVVpwM1BGaDlVdzgzZURhVTBHUy1HcUpoN09pQjBkS2tIcXVfZ0FpNTJLdGtCd3ZLcTc2LWhaQTZvVkpNTFdvMGNhRXp2NlFUSDd1Tk5DTWhXWFZSMEdzRWJFaDBfNlFMRHItUlZxTWk0dzl2RkFISm91YWJOa0EwNFdoalp3SQ?oc=5",
@@ -58533,6 +58757,32 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "4b7120d6a5c94ebe",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia Tightens Student Visa Rules: Indian Students May No Longer Bring Family Members - Business Today",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR0l2UGh3Y2RJT0pySlg3bHlwaUtBb3NuTkMyZ3pxdFpFaDRRM09PRmdfOHRPX0J4M3RsNnhqeFhVNHBmT2kzMFZOSkRiZ0VrUWZSOG1UMWczM3c1SzdXelpUYTBtWkJRcVNaZUhzQjdGSDcyQ2REaHh1MWZBWGs4dEdjY29LQWtnQlI2Wi11a3hZVnNsa1dkOXdGTC1UeDBMS1Rvb0ZaYWh4ZmRvb25ZMHpSdTB5ZjF4WVBUVTJrZXJDeUJiSFVlZFBnczBkTVBCaWE2R3h1MlN1RmdYTGcwLWItRm9jQ2NEQkZLMUZTVHJRM3R0ZFE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Today",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-09-21T07:00:00+00:00",
+   "fetched": "2026-10-20T22:31:22.620019+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "0e934541d688a23c",
