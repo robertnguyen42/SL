@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:05:27.642966+00:00",
+ "updated": "2026-10-20T17:59:41.132138+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -347,7 +347,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "us-eb-work",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 13
   },
   {
    "id": "us-sheet-khac-2",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -723,6 +723,78 @@
   }
  ],
  "items": [
+  {
+   "id": "e13728635c2fb61c",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Nine categories: Hungary bars some foreign nationals from family reunification - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUNVNjVaZG55Nk1LYnpabzdNS1RPMFVHTDdweVQxdTlrWUI4RndHOEdJQlo3VE1GdGY0WFpqdklUQ3RsUnA1b2JteG1IUGxreXBHbEtyajVQU1hzN0ZQcWZYQjZhMUJzMGJXN1RtZE1zWkszekl3cjlWZGF2RTlnNjZCdnktRk1Jd1JPV2F5bWZGM05iUFl3QlRrQ0R0SmZLTzY0NlNn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-20T17:56:22+00:00",
+   "fetched": "2026-10-20T17:59:41.132138+00:00",
+   "visas": [
+    "family"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "f2a4f8e12384fae3",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US: Immigration News Update – October 20, 2026 - Corporate Immigration Partners, PC",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNekI3cFdfZ3FfNlJYa2s2OEljMFd1TzRnRTlzTUZLdlpxR2lmTmNBRTdZUkZlLVZWT0tzcWhrSVVRd2hxWm9FYzFxUGtybUFJdDYxSzJhR1ZmRS1peTRRWUp5MW9jZ3o4LVM0ZG1OUmtlZjhGaFVOeXZ6NzVNVlBRT0dvSktLU3hoWlEzYw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Corporate Immigration Partners, PC",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-20T17:49:29+00:00",
+   "fetched": "2026-10-20T17:59:41.132138+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "e9c2b03bade3e329",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Global: Immigration News Update – October 20, 2026 - Corporate Immigration Partners, PC",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUUtUVnVMWFA5b0JtT0tjbWJkQzFMSHlBT3FpdzRibUdyTW11ei1rc21LR05CcHpXWlBKUzZmSnZhU3NaLUluei1YS0F6Uk9obWZ5NnU1YlRXLU5XSEFKS21wa1BLRmVWQ1FhVHNUTml0SlNIWFN5UWY2VmlnXzczNzNVdFV6YldIN19lYlRwS0xUUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Corporate Immigration Partners, PC",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-20T17:39:43+00:00",
+   "fetched": "2026-10-20T17:59:41.132138+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "8d260b1219f73c5a",
    "src_group": null,
@@ -1228,6 +1300,32 @@
    "score": 0.0
   },
   {
+   "id": "77ec290794b29cc7",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US EB-5 visa investment threshold to rise in 2027: How it will affect Indians - Business Today",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0x5TWtudldOQXdFWUlqem1VSlBLM0dSZllBdE1JbXVzUHQ5dmszLXd3R2JkTmNzcDVJZmoycnR2WkdwcnR5SXprQmlxU3FRekU4OGZzd3dTZVFZMDFLUncwRmxiSzRGVzNKbmpVX2Flb3NMUFR1X0dTZks0bTA4MGpPcnhub0RVOF9ZclF2MEFGT3Rsa09CUFl0ZWRCLWFoV3A2T3lWZGQ1LUdSWXNwTkVLLWEzOGNlN1hveXpIdFNKU200c09EUFlOODBYRXh3TkZfedIB2gFBVV95cUxQR3dhZmlRVW9URUpsWXdUZ19qck0zTGt2TUcxZWZreWllZklrVUZqQVJQYS1sY2FCWEE2cFFKTi1CbFJ1aUFqRnFHYnpBanJySUtveDJTYlZDSUoybnlUQUVrbF93a3lQLXhmdXFpbkVFaWZpREYtZzVwZzRLbDZyN2JrdXRmRlVoY2NkbG56MnFZLUZ3djNqdzZESDRQbkdURWJWMjZMMGFjb2Z4djY5UUZ5X2lVbE45SU1ld0xDMjlZend6Q0lJNjdZWHN5eXVFQzZ4Ri1EVzEyUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-20T10:29:01+00:00",
+   "fetched": "2026-10-20T17:59:41.132138+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "e244945e5ceb2a52",
    "src_group": null,
    "src_country": "EU",
@@ -1605,6 +1703,32 @@
    "score": 2.5
   },
   {
+   "id": "569e4aa5e9a422ad",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US raises EB-5 minimum investment amounts starting January 1 2027 - NewsBytes",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUXg0MjhkRmM4akxIYk9ELWVpODNEQllXeFBJaXVNUnkxOHo2b2hzY3BTMkI0WmV5TXJQTnRFZlZDS0pSc0FLY2NuVkhPWEVDSVB2b0JFV3VEdHM5cW1qN2s2ZEpiUmtJUDV2RU1UWjZyZ1czQ3U3dFp6d0RIWFhBSzFnU3NOdlBTTFNwVlJ5N1Y4bTVVaGVqVEpTVGlTby1FQm9YRS1pMGM2ZEVTd2xr?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NewsBytes",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-20T07:36:01+00:00",
+   "fetched": "2026-10-20T17:59:41.132138+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "b54a6a9d7cdc578d",
    "src_group": null,
    "src_country": "US",
@@ -1625,6 +1749,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "e02e560c59afa204",
+   "src_group": null,
+   "src_country": "US",
+   "title": "EB-5 visa minimum investment threshold set to increase in 2027, impacting aspiring immigrants - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNT1o2cDBHOG1SMXgzblhJM3JyTXRHLWE2RVNZMU8ycFJTX0hhSERxcmFNeUp2cC1YaUoxbkhMamVHV1hVeEdUZEdXLVNiNzNKU3RRMHBrOUNnNVZ5ZkVETXpibUpnNzhJNUNFSzlhWmtLU1pNajExdkExYXo3b1VQVGM1UUFBQnZYQmlCVjEwQV9LLUVjME4yU3pLc1hoeHNic2VOU1hoNzk3MVI2WnlsTndxRXhTc215WVdZYVNacERqUEdXVkRzRFVYOVpsSFcybnV1amZ1UlRqX0N4RkdlNTZJek1qQmhjdTY5UDU3RTlGenl0Zm9PY9IB_gFBVV95cUxPbUYyX1FWUFIxMFBObS11bVlJengtLUVjcDc2RWFuZExwQ3hoRGFWNDhQc3VFZVZrV045ckl1UWNkLUdYLUlDMVBEZHNFNXZNdV9FY1hnUVVsX29YQ0h4SWtQaE5lQ0JhZkg5dENtUllfODdDVlZuWWR3UGlGOGd2WnY1TmxTLU05OTBjenE2VUlEaFI4NHVVWmNfNm5GVXVJeXFJbHhoWUZtVjBCN2p3WHF3V1BrVkJ5ZXB1aUZ5cm5UamdkaEpDcTVHZ01RT1NjQjZlZ0g3M2g5Ny00TmQ3RFlHdnZFcFZSSWZHV0lvZmViNDUtX0xRRTJfMEhHUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-20T07:17:55+00:00",
+   "fetched": "2026-10-20T17:59:41.132138+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "48caa208072e012d",
@@ -6578,6 +6728,28 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "6c2130f63513b754",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Immigration adviser censured and fined $3000 over 12 professional breaches - Stuff",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzhYYUFIbS12STVrem01NzNvOThBbG9lU0lkUkZwd0JyRnBSMndKdXRZQkNPd01IYlJaSm5lMEdpUDBqX2RyT3Niam5NN0pUSWliSEJSaWN6NnlUUFpSVzZpaks3aEF1UEU4ckVobmtfdWlzcFB4bFdENUJET2dnQzNwWmdhMUNOOUNLVVZhSU0yNFY5LUw4dHc3MkYxam90LThDSXJxMVdiZWxvUC04QVB4T1FFUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Stuff",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-16T23:15:13+00:00",
+   "fetched": "2026-10-20T17:59:41.132138+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d8e712458a154ca6",
@@ -43709,6 +43881,32 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "3a4b93c0c37dcd97",
+   "src_group": null,
+   "src_country": "US",
+   "title": "EB-5 Fee Overhaul Puts South Asian Investors on Notice - South Asian Herald",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFlTWjN1bFlzWGd2SHRWTV9HcFNjSmN5NzBwV1JHQnhTZi1mNU9CTWM2OVZockgxaW9lQnlsRkliT2lYd21WUk9OcHNpc2dkdDU5Z1N3c3F6NWJGUTFNRnpMYzZuaThGVGNqVkZZaHJockU2WkNmMHR2bkt3Z2M3amFiZ2FjRGVqcS1acA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "South Asian Herald",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-01T15:14:49+00:00",
+   "fetched": "2026-10-20T17:59:41.132138+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "50c0b2724c441118",
