@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:36:48.120723+00:00",
+ "updated": "2026-10-20T19:30:35.470325+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "id": "us-eb5",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -719,10 +719,60 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 15
+   "count": 16
   }
  ],
  "items": [
+  {
+   "id": "a504fb21c3974532",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "186 occupations: Canada lists jobs worth up to 100 Express Entry points - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEpsZXNBeUtac1k3RDN5bTFOakViWU5Nd1JuQnQxXzhhVkZqcVd2S2ZpdFFpd2xFTmlGMUtZU0ZGVndJanlEeXk2QjNmc0J3bjNjMldVb0VERVlrRHhUVm15dXJOUmVOV0pRTDZ1TkIwNFdfc1BaR1RpZEpBZlVyc093ZERQN3hiX2ktN29ScElKZW9vY0lXQ2VtaENGR0NuT1FieUUyd3RmQ0k?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-20T19:06:25+00:00",
+   "fetched": "2026-10-20T19:30:35.470325+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "fb72876ea25ec3e2",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Viridien begins major 3D seismic project offshore Guyana - Upstream Online",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdi03cGpITFBSa2J1TG5EaHluX0tvVnR0N3RLdFBVWS1KN3J3ZzlhWENDb1V4MzBnU2NMWHVZeUlaY1BPM2lDclNxUm0wQ2JmYmJBMmlrakZ6WDQ3MTE0QVFVTHYwU0dhZzlpTGRRZnRtcUdHZEZqQ3l2OHhJVHlTVkhDWElmdlB2Q2pQODU0d3V6MXZZb1h4RmpQUmNvcFB1bEgzeTI1OG50NW9LSkJUWg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Upstream Online",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-20T18:48:34+00:00",
+   "fetched": "2026-10-20T19:30:35.470325+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "923840810456f855",
    "src_group": null,
@@ -4127,6 +4177,32 @@
    "lang": "en",
    "policy": true,
    "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "12e6d3a4858b4deb",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Canada’s new study rule has a catch for workers eyeing permanent residency - Briefly News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVlMWHFJXzh6NjBwUFU4LWNGVUpoTzJNZmlwQm94bkdfMUpQaWp4SUhUbFNYb19GWUZ4c21UVG43Y05BT2tqSTR5R2FUMUVYNjk0emNBeng5ZHA1clBKUjFoRlRRMUk2dUJuY2tKWjRNTm9jV3pwR2lDQWxhQWZKUHFMUzM0cWluUnhNZThFUTN6ZXJqNW9uUg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Briefly News",
+   "country": "CA",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-19T10:33:44+00:00",
+   "fetched": "2026-10-20T19:30:35.470325+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": false,
    "score": 2.5
   },
@@ -12014,6 +12090,30 @@
    "fetched": "2026-10-19T07:51:42.676552+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "ec96255960091d1a",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "ACCIONA selected for Gippsland offshore wind transmission project - TGS | 4C Offshore",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVHFQdnBoRG5aVm9yMkJsX21FMjNweDRnZnY5VmlmMlpuNVpWLWhHMk1PTDJDOEJ6c0pwNC1qdnEwakw2RktoZzdfeUhtLU96dzAySnBPZzB2V0pJZDRGMThKa1k3eWpZZU1sbHBuSENzM1dSOGxGV19WdlFQQWw5ODhlakhYNGNGMHhMNHl3bU1ROW5mbWV6eW9BV2lzMVIxN29ydXR5ajlrUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "TGS | 4C Offshore",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-15T10:15:14+00:00",
+   "fetched": "2026-10-20T19:30:35.470325+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
