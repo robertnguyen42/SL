@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:00:31.131695+00:00",
+ "updated": "2026-10-20T21:59:06.364541+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "au-en",
@@ -245,7 +245,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "us-sheet-khac-2",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 36
+   "count": 34
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 10
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-family",
@@ -581,13 +581,13 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 15
+   "count": 27
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "eu-sheet-khac-3",
@@ -719,10 +719,62 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 17
+   "count": 18
   }
  ],
  "items": [
+  {
+   "id": "af172d0a4dc57b83",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Monroe County welcomes 10 U.S. citizens in naturalization ceremony – RochesterFirst - RochesterFirst",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3h6c2FKbUdpUVRsODY5ZXNVWkdLXzQydjZfYklJY1k4N2V6WnJOYU40SVY3a2JvRHNpcGd5MVE4MzVLN0pzMW05TlhNcjR3SUF4T2xFdVRaRk81Mzk0Ynk4ckNPTEprTXl2b0hMcXdTa2dsb01RNUlsMVNQbkpHaE5NRFJMd2lXYnRrRTdYblA0MVJMYkZEOGxxUEdhdUFCLUt5STQzRkxDbjJNdTBtMC1R?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "RochesterFirst",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-20T21:25:51+00:00",
+   "fetched": "2026-10-20T21:59:06.364541+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "bfb2553532ba509c",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Monroe County welcomes 10 U.S. citizens in naturalization ceremony - RochesterFirst",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXRXZ2JQb3BfUEwtXzhfNW5uck5rWHBiOEZ5cGk0M2NFcjdwbUlGb2dsb3BPRHA2dlpoYVJvRUxydHFmQTlsYmNvcWw0bU5kN0ZvTENCOXpZYl9hVDFHcVFFbEc0MkNsY2VZTXNWWm9kNWdKRG85c002S0ZVb2pLSzdBTXVDUkZCV2ZBbmU3dUViUHlwa2RxRDdmVWU4V0pva0x4REZDa0VrRzTSAbABQVVfeXFMTm1kTzNYWmpEbUo0cHdYN194V2sydTVYTFVFNWRwS0h2OWZwZEJFSFpTUGdXVklqSHNnRGtldHEtdHFQam5Ic1Q4NnBES0gwY3g3bnVlelpqMUlvTmZ1aEQwcDgydlFXME9leGZDTTRzSmUyNFZXYllXaEV4WjhXeEd3UVZOSTFOcUhsS3RuZXRDQWRSazFLWHhsdWxQbFF1QnRkMG1NamNfZWpJU2NlN18?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "RochesterFirst",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-20T21:25:41+00:00",
+   "fetched": "2026-10-20T21:59:06.364541+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "69ad2c9c9b6a902f",
    "src_group": null,
@@ -774,6 +826,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "517a14744179f63f",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Instacart Agrees to $5 Million Settlement After Newsweek Green Card Report - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGV4MGl1ZlVhWUxBQlFDbzk5c0RxZDgwLVNwdnVwVmVTSVhkMnpsQmZRbFJ5MUZ2TGtsVEpHamFscFQyQmVYMVZwRTljNVFxNUxiZHBlaGp4b1ZqOXpvLVdfWDlvUmJvTm1tRkpkYXJpTWNVejVRT3g2ckYzVlJ5QWdiNVdGYV9PRnBLUlJnZjBFUC1HaFRJVm1oQXUzSmJQaWRQY3lmY3M0a2M?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-20T19:31:00+00:00",
+   "fetched": "2026-10-20T21:59:06.364541+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "3bc1af14ddf06532",
@@ -846,6 +924,28 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "93206982a3999477",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Prince Edward Island invites 254 workers to apply for provincial immigration - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3JjOWREVkE4WjcxazR3YjhRWUYxMXZ0MDJMNjJGZlFxZ1ZHVm83bV9QTkt1U2lvajU2N3lqZWRld194alhxd0pIMEpNVXFWenRRdzJVVzkyRjU1elZKd1ZGNDBET19kOW9xZW5STzhsbFI2QTl1ZWdoWWtoX2NyRDcyMXp2STduY1hUNVBaLU5tS0c1WTZsQmNEQkZOX2U0N0xTSzY4eFJQSHk1UFo4LUlEdHg5eGdvVkVCMEFR0gHDAUFVX3lxTE54RGhWNW5vQjRFblhraklkaGtxU1ZfVl93UFBweGVTOEJTOUVyX01JdjJXbmFoWTdRZERMRzduNnpKa0ItUUFSVW4tR3c4dGlncTBXTGlKcV9RQkVBQzBLbjh3S0dGZERGTzdVTUVhSnN3TlBvU0hrbzdtVWJnVzlfOG5wYVpmckY5Z2JoMzZ2U3dKc21UTTRpRnZOWDNhVjBDYTRTV09RaXcxdHoyald6aUNtaENiMGRXdkE0cnFvOXBjWQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-20T18:54:36+00:00",
+   "fetched": "2026-10-20T21:59:06.364541+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "fb72876ea25ec3e2",
@@ -1290,6 +1390,28 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "870340ad3c871035",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Mỹ thu hồi hơn 300.000 thị thực, tăng cường kiểm soát nhập cư - Báo Tin tức và Dân tộc",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1hHdlYwQzZmdDlsNjM0bHZVMGVEY1NDVGstLVFCNmRCblVyc2JRN2trZHB3bzNybE1RbmJMSEd5NldZT01VNjQ1cWY0d05maUN1TG9kSk9VajNGOXlkaEMzenBUTW84akk2T0hpTGF6Vm1vRm90cHptTEpqalN0Q20zUC1PRVB1bkJQREdtTTVxTTVEbXFodkE3WmYxQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Báo Tin tức và Dân tộc",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-20T15:18:09+00:00",
+   "fetched": "2026-10-20T21:59:06.364541+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "b935978025837787",
@@ -6286,6 +6408,32 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "e0eebd30cc4b5f84",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Pakistani Woman Influencer In London Issued Schengen Visa For Just 6 Days, Raising Questions Over European Visa Policy - UrduPoint",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLXNfMjFsWVJRUmVVMy1oUGFsRWJQbzFoUEJCVmt1Y19yR2x6dU9UNWtxRjBCQ0pUdnRSUkd2R0F5WHotd0g5V0JsbVBBYVNmdHFvUWxGRlJZbXFnT1hQSHc3UG80ZW1rZzR6TEt5OFNNTUZJLVJvY1JvYmhIdFJCX3ZRVXpiTjV6Qm9MaFN1YUludEF5R3Z3Ulpndw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "UrduPoint",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-17T14:15:35+00:00",
+   "fetched": "2026-10-20T21:59:06.364541+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "b749843fdc861d44",
@@ -12489,6 +12637,32 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "4df099edb7106c93",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "EU Calls Pakistan’s Nearly 50% Schengen Visa Rejection Rate ‘Too Much’ - ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYnFHb0l2Rk5XeTBhQ0RwZHdiZzVNbzZDT3Q5Z3pCUVpiYzJLVk9TaTVscHlKdVZpUVU0SnFTME5DTUc4U19Sel9KZm1pM3ZORm9MU3E3RjdGVExGUlZscVQyenFEQ0ZUdXNGREsxQ3M2bHpiQ2dMOEtWNmdISmNuNGVqRGJlaWR5RjRudG1teHAwanlBenVMTW5TalJUZUt1RlN6S9IBqgFBVV95cUxPVUhUdGh5LUZXQ1FnVVNIb1g5cFBGbnVCcVZLZEJwaTlSTjVYRGd2ekxiRlBSNzVpS1lyc1RkMUcyeE5mOTNSbXVvSjdfa3JwSjU4b3VfcGpYRnZobUhYZVZ6eC1lNHR1SkVKcEM3U3N1cVhyNzBHdncxckc3WUNTNF9XUGV2dmRnVl9HaXlRVVRub2xiVWk2OHJ4R0tManJlanNtYWkzdTViQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ProPakistani",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-15T09:54:52+00:00",
+   "fetched": "2026-10-20T21:59:06.364541+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "ca553a85f3807808",
