@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T09:06:01.184479+00:00",
+ "updated": "2026-10-20T10:01:53.205608+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 26
+   "count": 30
   },
   {
    "id": "us-eb5",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "us-sheet-khac-2",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 21
+   "count": 32
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 17
+   "count": 20
   },
   {
    "id": "nz-family",
@@ -719,10 +719,89 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 12
+   "count": 13
   }
  ],
  "items": [
+  {
+   "id": "e6806c39def168fa",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada drops LMIA requirement for eligible Express Entry job offers - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQkk5UW1Zb0VSdnp1UmNteWVpaEUtU3NGR2JsMDk4ZXNBZU5HUTlBRUwzMExNTURacC1YSjB0cW9lLUQ2VHRuaEdGUWpkdVVEOG9lMzc3ZXJ3NkRnWlZLS2dBNHRPeXMtUzhrSVE4aVdWdlEyY1FDM2NITUpONkEtdkFSQ1d4SGRDSzE0bXdqcndkN21tUTlpTjlha29xeUx5a09fdEhSQ0MtNU5nUzYwLXV2MF9NMzlicG5hMHFqRmhkdnhLaW1BbGVzMDlWV2RjYVowQmMwZ9IB3AFBVV95cUxNSDFhMVNFT2xrSXVFdDliR1FTOElsT0RaLWZqNzU4YUtkSWlWdGpmMzV2cXJEOVRlZGI1U19xTW1DZnMtdEZFY3hpSDNmZllsOEdIUThJaV9wU0M5TmhzQVkzbmJiMzRTaTM4b3BXWHA1cFdZVlhtTU84bUdQLTNjSlhGdXVqZ2djTEdiNWZMWGpseHpRS1VNTzlzR0w2V2FodS1WbEZyXzQyWGVwcTE4YjBHMTZCT2dNRGdRWEppbDZxeXFMdUp2QXlaRU9OMGtEZ0lXdzlEeDdkV0RD?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-20T09:31:19+00:00",
+   "fetched": "2026-10-20T10:01:53.205608+00:00",
+   "visas": [
+    "express-entry",
+    "work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "eb97572dc878ef9a",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada visitor visa processing time for Nigerians rises to 103 days - Nairametrics",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVdsWDB3ZEV4dUZHQlFBcXQzLWJoUFE4YUN0OUdDaUZIS0oyelFjWDE4M0paQ0JWcFI5N0NfQ3BvV2dza2VldGlIbDRJSElzam9qdk0xeVdMUG1JRHhPWnRUWUNIelJzcGRySUhPbG8zQ0hFY0phQkVQUm5Ub0RoNzlMWWF4Y2FMTlNqLWF3Ri11ZVdXVERJQklGSU9zdXpFdDJxU3B3QQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nairametrics",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-20T09:28:46+00:00",
+   "fetched": "2026-10-20T10:01:53.205608+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "ed2a0791c10f2b09",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "(PNP) Dynamic Trading Report (PNP:CA) - Stock Traders Daily",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1dPYllUbzlERy1NekpGdWo5M3hSTWhMVVJoQzBpWmlNVzJrbkxTbk9ZOVZiWWlOYnFmSXFIdWtRbU0yX29jZG4yUHk0VmtBakRsZU51QWFNZEdCZ2NmS3BucGxnanVaU2ZIZ2Y1UFhGamJLYzVYQnFDUUVrTVBhWXcxR1p1S1lMSkdhZg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Stock Traders Daily",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-20T09:09:04+00:00",
+   "fetched": "2026-10-20T10:01:53.205608+00:00",
+   "visas": [
+    "pnp"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "ad7a5c0f18baa0fe",
    "src_group": null,
@@ -2890,6 +2969,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "3b09fe5fcd96575f",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Ireland proposes language testing for citizenship: more demands on already stretched English teaching - The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDYyMzdoTnRfZURpUlRkQ0ZudkRJbkNla3JiSnFsVE5BaVdjU3ZlMGtMTEZEeEc2bUZtRU03eloyZFQ4b2c0N0t1TzU4RXFwSWp2MEJVTXNIUzh6TkE2Y0F5NGxSNThCX3NvWTZLWWFiTk55ZTRiUk5FQXFMQldPbS1fWndidzNnWlJTWU9oZktSeGhwZVNCZ3NINzR2eGRobzc2R0xPeDJieWFTeWpJYlVaT3pPSGROVnZ2aC1SSml6dzBWQkdicHB4aGRheXdx?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Conversation",
+   "country": "EU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-19T12:11:26+00:00",
+   "fetched": "2026-10-20T10:01:53.205608+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -30307,6 +30408,30 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "4b338246f117e3e4",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "Andrew Garbarino supports prevailing wage requirements and hard-earned benefits on the job because strong UA jobs are how working families build a future. That’s why the UA is backing him for Congress. #NY02 supports prevailing wage requirements and - Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXM1SDU1X0tWdWJycl9Lbm5NekxSaFZ6MzYwMkJEZWhuakRIQzM2ODhJNzRIaUpyTUpPVkc4aE9jQWI2QjN3XzNCSGJMTjlvYnZfQkhXMHp2dUM4TEVlMHJ1djN0YkowMmlfanlSeEVfSXloMF9DNW5FWmJSZW9HTDlhU21WMm5FOXFPVGhFS2NwZXRiT0tITXdWTzUtcXBXZ21CRVZRNTBJcndhblA0VThyNXhocDBjTDRnQS1rcVlkTXVKSWJTeDgzLUplb3BMaEtGVlZZMjVSSnAyMzhQMnF3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Facebook",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-07T18:55:22+00:00",
+   "fetched": "2026-10-20T10:01:53.205608+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "f6193b1e9baee589",
