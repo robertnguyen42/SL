@@ -19,7 +19,7 @@ GENERAL = re.compile(r"visa|thị thực|định cư|di trú|nhập cư|nhập t
                      r"immigra|migra|citizenship|residen|uscis|ircc|home affairs|green card|thẻ xanh|"
                      r"asylum|refugee|tị nạn|border|deport|trục xuất", re.I)
 # Loại hẳn tin chứa các cụm này (nhiễu phổ biến)
-EXCLUDE = re.compile(r"tái định cư|giải phóng mặt bằng|khu tái định|hoa hậu|showbiz|Centene|prior authorization", re.I)
+EXCLUDE = re.compile(r"tái định cư|giải phóng mặt bằng|khu tái định|hoa hậu|showbiz|Centene|prior authorization|Philippine|Visayas|Mindanao|Luzon|Cebu|PNP chief", re.I)  # PNP = cảnh sát Philippines
 NUM_PREFIX = r"(?:visa|subclass|diện|thị thực|loại)"
 
 
@@ -50,7 +50,7 @@ SHEET_GROUP = {"chung các loại": "chung", "tay nghề": "tay-nghe", "đầu t
 GROUP_NAMES = {"chung": "Chung các loại", "tay-nghe": "Tay nghề", "dau-tu": "Đầu tư", "khac": "Khác"}
 PRIO_GROUPS = {"tay-nghe", "dau-tu"}               # nhóm định cư lâu dài, xếp lên trên
 QUERY_CTX = {"AU": "Australia", "NZ": '"New Zealand"', "CA": "Canada", "AE": "(UAE OR Dubai)", "US": "", "EU": ""}
-STOP_TERMS = {"job", "regional", "sbs"}           # quá chung chung (SBS còn trùng tên đài SBS)
+STOP_TERMS = {"job", "regional", "sbs", "sponsor", "nomination"}   # quá chung chung (SBS trùng tên đài; sponsor/nomination trùng tài trợ, đề cử giải thưởng)
 TYPO = {"UB-3 Skilled": "EB-3 Skilled", "Skill Migration Category": "Skilled Migrant Category",
         "regional center": "EB-5 regional center"}   # "regional center" đứng một mình trùng trung tâm cộng đồng ở Mỹ
 MONTHS = r"(January|February|March|April|May|June|July|August|September|October|November|December)"
@@ -240,6 +240,11 @@ def all_sources(tax):
                 srcs.append({"id": f"{c.lower()}-sheet-{gid}-{n // 6 + 1}", "country": c, "type": "news", "group": gid,
                              "name": f"Sheet – {t['name']} – {GROUP_NAMES[gid]} ({n // 6 + 1})",
                              "url": f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"})
+                # Bing News: cùng truy vấn (7 ngày gần nhất), có đoạn tóm tắt bài mà Google News không có
+                bq = urllib.parse.quote(f'{QUERY_CTX.get(c, "")} {ors}'.strip())
+                srcs.append({"id": f"{c.lower()}-bing-{gid}-{n // 6 + 1}", "country": c, "type": "news", "group": gid,
+                             "name": f"Bing – {t['name']} – {GROUP_NAMES[gid]} ({n // 6 + 1})",
+                             "url": f"https://www.bing.com/news/search?q={bq}&format=rss&count=50&qft=interval%3d%228%22"})
     return srcs
 
 
@@ -276,9 +281,14 @@ def parse_feed(raw):
     items = []
     for it in root.iter("item"):  # RSS
         src = it.find("source")
+        if src is None:   # Bing: <News:Source>
+            src = next((c for c in it if c.tag.endswith("}Source")), None)
+        link = it.findtext("link", "")
+        if "bing.com/news/apiclick" in link:   # Bing bọc link gốc trong tham số url=
+            link = urllib.parse.parse_qs(urllib.parse.urlparse(link).query).get("url", [link])[0]
         items.append({
             "title": it.findtext("title", ""),
-            "link": it.findtext("link", ""),
+            "link": link,
             "date": it.findtext("pubDate") or it.findtext("{http://purl.org/dc/elements/1.1/}date"),
             "summary": it.findtext("description", ""),
             "publisher": src.text if src is not None else None,
@@ -305,7 +315,7 @@ def main():
     sources = all_sources(tax)
     old = json.loads(OUT.read_text("utf-8")) if OUT.exists() else {"items": []}
     by_id = {i["id"]: i for i in old.get("items", [])}
-    seen_titles = {norm_title(i["title"]) for i in by_id.values()}
+    by_title = {norm_title(i["title"]): i for i in by_id.values()}
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=KEEP_DAYS)
     status, added = [], 0
@@ -333,16 +343,20 @@ def main():
                 continue
             iid = hashlib.sha1(e["link"].encode()).hexdigest()[:16]
             nt = norm_title(title)
-            if iid in by_id or nt in seen_titles:
+            # Google News chỉ có tiêu đề; nguồn khác (Bing, trang chính phủ) có đoạn tóm tắt thật
+            summary = "" if "news.google.com" in s["url"] else clean(e["summary"], 240)
+            if iid in by_id or nt in by_title:
+                old = by_id.get(iid) or by_title.get(nt)
+                if summary and not old.get("summary"):      # bổ sung tóm tắt cho tin đã có từ Google News
+                    old["summary"] = summary
                 continue
-            seen_titles.add(nt)
             by_id[iid] = {
                 "id": iid,
                 "src_group": s.get("group"),
                 "src_country": s["country"],
                 "title": title,
                 "link": e["link"].strip(),
-                "summary": "" if s["type"] == "news" else clean(e["summary"]),
+                "summary": summary,
                 "publisher": e["publisher"] or s["name"],
                 "country": s["country"],
                 "type": s["type"],
@@ -350,6 +364,7 @@ def main():
                 "published": d.isoformat(),
                 "fetched": now.isoformat(),
             }
+            by_title[nt] = by_id[iid]
             added += 1
 
     # Gắn nhãn lại toàn bộ, để sửa keywords.json là áp dụng ngay cho cả tin cũ

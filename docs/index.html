@@ -4,205 +4,178 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Bản tin Di trú</title>
-<meta name="description" content="Cập nhật tin tức di trú Úc, Mỹ, Canada theo tuần">
+<meta name="description" content="Tin di trú Mỹ, Úc, Canada, Châu Âu, Dubai theo từng cột thị trường">
 <style>
-:root{--bg:#f6f7f9;--card:#fff;--text:#1a1d23;--muted:#667085;--line:#e4e7ec;--accent:#1d4ed8;--new:#dc2626;
- --au:#047857;--us:#1d4ed8;--ca:#b91c1c;--eu:#1e40af;--nz:#0f766e;--ae:#a16207;--siet:#b91c1c;--noi:#047857}
+/* Bố cục: thanh lọc dính trên cùng, bên dưới là bảng 5 cột thị trường, mỗi cột cuộn riêng trên màn hình rộng */
+:root{--bg:#f4f5f7;--card:#fff;--text:#1a1d23;--muted:#667085;--line:#e4e7ec;--accent:#1d4ed8;--new:#dc2626;
+ --US:#1d4ed8;--AU:#047857;--CA:#b91c1c;--EU:#1e3a8a;--AE:#a16207;--NZ:#0f766e;--siet:#b91c1c;--noi:#047857}
 @media (prefers-color-scheme:dark){:root{--bg:#0f1115;--card:#171a21;--text:#e6e8ec;--muted:#98a2b3;--line:#2a2f3a;--accent:#60a5fa;
- --au:#34d399;--us:#60a5fa;--ca:#f87171;--eu:#93c5fd;--nz:#5eead4;--ae:#facc15;--siet:#dc2626;--noi:#059669}}
+ --US:#60a5fa;--AU:#34d399;--CA:#f87171;--EU:#a5b4fc;--AE:#facc15;--NZ:#5eead4;--siet:#dc2626;--noi:#059669;color-scheme:dark}}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
-.wrap{max-width:860px;margin:0 auto;padding:20px 16px 60px}
-header h1{margin:0 0 4px;font-size:24px}
-.meta{color:var(--muted);font-size:13px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
-.dot{width:8px;height:8px;border-radius:50%;background:#16a34a;display:inline-block;animation:p 2s infinite}
+html,body{margin:0;background:var(--bg);color:var(--text);font:14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+.top{position:sticky;top:0;z-index:5;background:var(--bg);padding:12px 16px 10px;border-bottom:1px solid var(--line)}
+.head{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.head h1{margin:0;font-size:20px}
+.meta{color:var(--muted);font-size:12px;display:flex;gap:6px;align-items:center}
+.dot{width:7px;height:7px;border-radius:50%;background:#16a34a;animation:p 2s infinite}
 @keyframes p{50%{opacity:.3}}
-.bar{position:sticky;top:0;background:var(--bg);padding:12px 0;z-index:5;display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid var(--line);margin:12px 0}
-.bar button{border:1px solid var(--line);background:var(--card);color:var(--text);padding:6px 12px;border-radius:999px;cursor:pointer;font-size:14px}
+@media (prefers-reduced-motion:reduce){.dot{animation:none}}
+.bar{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-top:8px}
+.bar button,.bar select{border:1px solid var(--line);background:var(--card);color:var(--text);padding:5px 11px;border-radius:999px;cursor:pointer;font-size:13px}
 .bar button.on{background:var(--accent);border-color:var(--accent);color:#fff}
-.bar input{flex:1;min-width:160px;padding:7px 12px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--text);font-size:14px}
-h2.week{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin:28px 0 8px}
-.item{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:8px}
-.item a{color:var(--text);text-decoration:none;font-weight:600}
-.item a:hover{color:var(--accent)}
-.item p{margin:4px 0 0;color:var(--muted);font-size:14px}
-.tags{font-size:12px;color:var(--muted);margin-top:6px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
-.flag{font-weight:700}.AU{color:var(--au)}.US{color:var(--us)}.CA{color:var(--ca)}.EU{color:var(--eu)}.NZ{color:var(--nz)}.AE{color:var(--ae)}
-.off{border:1px solid currentColor;border-radius:4px;padding:0 5px;color:var(--accent)}
-.badge{background:var(--new);color:#fff;border-radius:4px;padding:0 6px;font-weight:700}
-#toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;padding:10px 18px;border-radius:999px;cursor:pointer;display:none;box-shadow:0 4px 14px #0003}
-.visas{display:flex;gap:6px;flex-wrap:wrap;margin:-4px 0 8px}
-.visas:empty{display:none}
-.visas button{border:1px dashed var(--line);background:transparent;color:var(--muted);padding:4px 10px;border-radius:999px;cursor:pointer;font-size:13px}
-.visas button.on{border-style:solid;border-color:var(--accent);color:var(--accent);font-weight:600}
-.visas button span{opacity:.6;margin-left:4px}
-.vtag{background:var(--line);border-radius:4px;padding:0 6px;color:var(--text)}
-.sum{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin:16px 0 4px}
-.sum[hidden]{display:none}
-.sum header{display:flex;justify-content:space-between;align-items:baseline;gap:8px;flex-wrap:wrap}
-.sum h2{margin:0;font-size:17px}
-.sum .when{color:var(--muted);font-size:12px}
-.sum .ov{margin:6px 0 4px;color:var(--muted);font-size:14px}
-.sum ol{margin:8px 0 0;padding:0;list-style:none;display:grid;gap:12px;counter-reset:h}
-.sum li{counter-increment:h;display:grid;grid-template-columns:28px 1fr;gap:4px 10px;padding-top:12px;border-top:1px solid var(--line)}
-.sum li::before{content:counter(h);font-weight:700;color:var(--accent);font-size:18px;line-height:1.3;grid-row:span 4}
-.sum li > *{min-width:0}
-.sum h3{margin:0;font-size:15px}
-.sum p{margin:0;font-size:14px}
-.sum .imp{color:var(--muted)}
-.sum .src{font-size:12px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
-.sum .src a{color:var(--accent)}
-.sum details summary{cursor:pointer;color:var(--muted);font-size:13px;margin-top:10px}
-.dir{border-radius:4px;padding:0 6px;font-weight:700;color:#fff}
-.dir.siet{background:var(--siet)}.dir.noi{background:var(--noi)}
-.pol{border:1px solid var(--muted);border-radius:4px;padding:0 5px}
-.vtag.prio{font-weight:700}
-.bar select{border:1px solid var(--line);background:var(--card);color:var(--text);padding:6px 10px;border-radius:999px;font-size:14px}
+.bar button span{opacity:.65;margin-left:4px;font-variant-numeric:tabular-nums}
+.bar .sep{width:1px;height:20px;background:var(--line);margin:0 4px}
+.bar input{flex:1;min-width:180px;padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--text);font-size:13px}
+button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
-.visas .lbl{font-size:12px;color:var(--muted);align-self:center;min-width:64px}
-.groups button{border-style:solid}
+
+.board{display:grid;grid-template-columns:repeat(5,minmax(260px,1fr));gap:12px;padding:12px 16px 24px;overflow-x:auto}
+.col{display:flex;flex-direction:column;min-width:0;background:color-mix(in srgb,var(--card) 55%,var(--bg));border:1px solid var(--line);border-radius:12px}
+.col h2{margin:0;padding:10px 12px;font-size:15px;display:flex;align-items:center;gap:6px;border-bottom:3px solid var(--c);position:sticky;top:0;background:inherit;border-radius:12px 12px 0 0}
+.col h2 .n{margin-left:auto;font-size:12px;font-weight:600;color:var(--muted);font-variant-numeric:tabular-nums}
+.list{padding:8px;display:flex;flex-direction:column;gap:8px}
+@media (min-width:1100px){.col{max-height:calc(100vh - 150px)}.list{overflow-y:auto}}
+@media (max-width:1099px){.board{grid-template-columns:repeat(5,minmax(280px,85vw));scroll-snap-type:x mandatory}.col{scroll-snap-align:start}
+ .top{position:static}}   /* điện thoại: thanh lọc cuộn đi để nhường chỗ cho tin */
+
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:9px 10px}
+.card a{color:var(--text);text-decoration:none;font-weight:600;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card a:hover{color:var(--accent)}
+.card p{margin:4px 0 0;color:var(--muted);font-size:13px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.tags{font-size:11px;color:var(--muted);margin-top:6px;display:flex;gap:5px;flex-wrap:wrap;align-items:center}
+.tags .src{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:140px}
+.dir{border-radius:4px;padding:0 5px;font-weight:700;color:#fff}
+.dir.siet{background:var(--siet)}.dir.noi{background:var(--noi)}
+.pol{border:1px solid var(--muted);border-radius:4px;padding:0 4px}
 .gtag{color:var(--accent);font-weight:600}
-.empty{color:var(--muted);text-align:center;padding:40px}
+.vtag{background:var(--line);border-radius:4px;padding:0 5px;color:var(--text)}
+.off{border:1px solid var(--accent);color:var(--accent);border-radius:4px;padding:0 4px}
+.badge{background:var(--new);color:#fff;border-radius:4px;padding:0 5px;font-weight:700}
+.more{margin:2px 8px 10px;border:1px dashed var(--line);background:transparent;color:var(--muted);border-radius:8px;padding:7px;cursor:pointer;font-size:13px}
+.more:hover{color:var(--accent);border-color:var(--accent)}
+.empty{color:var(--muted);text-align:center;padding:24px 8px;font-size:13px}
+
+.sum{margin:12px 16px 0;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px}
+.sum summary{cursor:pointer;font-weight:700}
+.sum ol{margin:8px 0 0;padding-left:20px;display:grid;gap:6px}
+.sum .imp{color:var(--muted)}
+#toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;padding:9px 18px;border-radius:999px;cursor:pointer;box-shadow:0 4px 14px #0003;border:0;font-size:14px}
 </style>
 </head>
 <body>
-<div class="wrap">
- <header>
+<div class="top">
+ <div class="head">
   <h1>Bản tin Di trú</h1>
   <div class="meta"><span class="dot"></span><span id="upd">Đang tải…</span><span id="cnt"></span></div>
- </header>
- <section id="sum" class="sum" hidden></section>
- <div class="bar">
-  <button data-c="ALL" class="on">Tất cả</button>
-  <button data-c="AU">🇦🇺 Úc</button>
-  <button data-c="US">🇺🇸 Mỹ</button>
-  <button data-c="CA">🇨🇦 Canada</button>
-  <button data-c="NZ">🇳🇿 New Zealand</button>
-  <button data-c="EU">🇪🇺 Châu Âu</button>
-  <button data-c="AE">🇦🇪 Dubai</button>
-  <button data-t="official">Chỉ nguồn chính phủ</button>
+ </div>
+ <div class="bar" id="bar">
+  <span id="groups"></span>
+  <span class="sep"></span>
   <button data-p="policy">Chỉ tin chính sách</button>
+  <button data-t="official">Chỉ nguồn chính phủ</button>
   <label for="sort" class="sr">Xếp theo</label>
   <select id="sort"><option value="prio">Xếp: Ưu tiên</option><option value="new">Xếp: Mới nhất</option></select>
-  <input id="q" type="search" placeholder="Tìm: visa 482, EB-5, golden visa…">
+  <label for="q" class="sr">Tìm kiếm</label>
+  <input id="q" type="search" placeholder="Tìm: 482, EB-5, golden visa, Express Entry…">
  </div>
- <div id="groups" class="visas groups"></div>
- <div id="visas" class="visas"></div>
- <main id="list"></main>
 </div>
-<div id="toast"></div>
+<details id="sum" class="sum" hidden></details>
+<main class="board" id="board"></main>
+<button id="toast" hidden></button>
 <script>
-const POLL_MS = 60000, NAMES = {AU:"Úc", US:"Mỹ", CA:"Canada", NZ:"New Zealand", EU:"Châu Âu", AE:"Dubai"};
-let data = {items: [], taxonomy: {}}, group = "ALL", visa = "ALL", country = "ALL", policyOnly = false, sortMode = safeGet("sortMode") || "prio", officialOnly = false, query = "", knownIds = null;
+// Thứ tự cột theo yêu cầu: Mỹ, Úc, Canada, Châu Âu, Dubai
+const COLS = [["US","🇺🇸","Mỹ"],["AU","🇦🇺","Úc"],["CA","🇨🇦","Canada"],["EU","🇪🇺","Châu Âu"],["AE","🇦🇪","Dubai"]];
+const GROUPS = {chung:"Chung các loại","tay-nghe":"Tay nghề","dau-tu":"Đầu tư",khac:"Khác"};
+const PAGE = 25, POLL_MS = 60000;
+let data = {items:[], taxonomy:{}}, group = "ALL", policyOnly = false, officialOnly = false, query = "",
+    sortMode = safeGet("sortMode") || "prio", knownIds = null, shown = {};
 const lastVisit = +(safeGet("lastVisit") || 0);
 
 function safeGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
 function safeSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function weekStart(d){const x=new Date(d);x.setHours(0,0,0,0);x.setDate(x.getDate()-(x.getDay()+6)%7);return x.getTime()}
+function when(d){return new Date(d).toLocaleString("vi-VN",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}
+function visaName(c,v){return (((data.taxonomy[c]||{}).visas||{})[v]||v).split(" · ")[0]}
 
-function weekStart(d){const x=new Date(d);x.setHours(0,0,0,0);const day=(x.getDay()+6)%7;x.setDate(x.getDate()-day);return x}
-function fmt(d,o){return new Date(d).toLocaleDateString("vi-VN",o)}
-function weekLabel(ws){
-  const now=weekStart(new Date()), diff=Math.round((now-ws)/6048e5), end=new Date(ws);end.setDate(end.getDate()+6);
-  const range=`${fmt(ws,{day:"2-digit",month:"2-digit"})} – ${fmt(end,{day:"2-digit",month:"2-digit",year:"numeric"})}`;
-  return (diff===0?"Tuần này":diff===1?"Tuần trước":`${diff} tuần trước`)+" · "+range;
+function filtered(){
+  const q=query.toLowerCase();
+  return data.items.filter(i=>(group==="ALL"||(i.groups||[]).includes(group))&&(!policyOnly||i.policy)
+    &&(!officialOnly||i.type==="official")&&(!q||(i.title+" "+(i.summary||"")+" "+i.publisher).toLowerCase().includes(q)));
 }
-function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
-
-function prioVisa(c,v){return ((data.taxonomy[c]||{}).prio||[]).includes(v)}
-function visaName(c,v){return ((data.taxonomy[c]||{}).visas||{})[v]||v}
-function renderGroups(){
-  // Cấp 1: 4 nhóm theo Google Sheet "SL | KEYWORD" (Chung các loại / Tay nghề / Đầu tư / Khác)
-  const box=document.getElementById("groups"), t=data.taxonomy[country];
-  if(!t||!t.groups||!Object.keys(t.groups).length){box.innerHTML="";return}
-  const cnt={};data.items.forEach(i=>{if(i.country===country)(i.groups||[]).forEach(g=>cnt[g]=(cnt[g]||0)+1)});
-  box.innerHTML=`<span class="lbl">Nhóm</span><button data-g="ALL" class="${group==="ALL"?"on":""}">Tất cả nhóm</button>`+
-    Object.entries(t.groups).map(([id,name])=>`<button data-g="${id}" class="${group===id?"on":""}">${esc(name)}<span>${cnt[id]||0}</span></button>`).join("");
-  box.querySelectorAll("button").forEach(b=>b.onclick=()=>{group=b.dataset.g;renderGroups();render()});
-}
-function renderVisas(){
-  renderGroups();
-  const box=document.getElementById("visas"), t=data.taxonomy[country];
-  if(!t){box.innerHTML="";return}
-  const cnt={};data.items.forEach(i=>{if(i.country===country)(i.visas||[]).forEach(v=>cnt[v]=(cnt[v]||0)+1)});
-  const total=data.items.filter(i=>i.country===country).length;
-  box.innerHTML=`<span class="lbl">Loại visa</span><button data-v="ALL" class="${visa==="ALL"?"on":""}">Tất cả visa ${t.flag}<span>${total}</span></button>`+
-    Object.entries(t.visas).map(([id,name])=>`<button data-v="${id}" class="${visa===id?"on":""}">${esc(name)}<span>${cnt[id]||0}</span></button>`).join("");
-  box.querySelectorAll("button").forEach(b=>b.onclick=()=>{visa=b.dataset.v;renderVisas();render()});
+function card(i){
+  const isNew=lastVisit&&new Date(i.fetched)>lastVisit;
+  const dir=i.direction==="siet"?'<span class="dir siet" title="Chính sách bị siết chặt">▼ Siết</span>'
+          :i.direction==="noi"?'<span class="dir noi" title="Chính sách được nới lỏng">▲ Nới</span>'
+          :i.policy&&i.type!=="official"?'<span class="pol">Chính sách</span>':"";
+  const g=(i.groups||[])[0], v=(i.visas||[])[0];
+  return `<article class="card"><a href="${esc(i.link)}" target="_blank" rel="noopener" title="${esc(i.title)}">${esc(i.title)}</a>
+    ${i.summary?`<p>${esc(i.summary)}</p>`:""}
+    <div class="tags">${isNew?'<span class="badge">MỚI</span>':""}${dir}
+      ${g?`<span class="gtag">${esc(GROUPS[g]||g)}</span>`:""}${v?`<span class="vtag">${esc(visaName(i.country,v))}</span>`:""}
+      ${i.type==="official"?'<span class="off">Chính phủ</span>':""}
+      <span class="src">${esc(i.publisher)}</span><span>${when(i.published)}</span></div></article>`;
 }
 function render(){
-  const q=query.toLowerCase();
-  const items=data.items.filter(i=>(country==="ALL"||i.country===country)&&(!officialOnly||i.type==="official")
-    &&(group==="ALL"||(i.groups||[]).includes(group))&&(visa==="ALL"||(i.visas||[]).includes(visa))&&(!policyOnly||i.policy)
-    &&(!q||(i.title+" "+i.summary+" "+i.publisher).toLowerCase().includes(q)));
-  if(sortMode==="prio"){
-    // Trong từng tuần: tiếng Việt, tin chính sách, diện visa định cư chính lên trước (điểm tính ở fetch_news.py)
-    const wkey=i=>weekStart(i.published).getTime();
-    items.sort((a,b)=>wkey(b)-wkey(a)||(b.score||0)-(a.score||0)||(a.published<b.published?1:-1));
-  }
-  document.getElementById("cnt").textContent=`· ${items.length} tin`;
-  if(!items.length){document.getElementById("list").innerHTML='<div class="empty">Không có tin phù hợp.</div>';return}
-  let html="",cur="";
-  for(const i of items){
-    const wk=weekStart(i.published).toISOString();
-    if(wk!==cur){cur=wk;html+=`<h2 class="week">${weekLabel(new Date(wk))}</h2>`}
-    const isNew=lastVisit&&new Date(i.fetched)>lastVisit;
-    html+=`<div class="item"><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>
-      ${i.summary?`<p>${esc(i.summary)}</p>`:""}
-      <div class="tags">${isNew?'<span class="badge">MỚI</span>':""}
-        ${i.direction==="siet"?`<span class="dir siet" title="Chính sách bị siết chặt${i.ai?" · AI phân loại":" · theo từ khoá"}">▼ Siết</span>`:i.direction==="noi"?`<span class="dir noi" title="Chính sách được nới lỏng${i.ai?" · AI phân loại":" · theo từ khoá"}">▲ Nới</span>`:""}
-        ${i.policy&&!i.direction&&i.type!=="official"?'<span class="pol">Chính sách</span>':""}
-        <span class="flag ${i.country}">${NAMES[i.country]||i.country}</span>
-        ${(i.groups||[]).map(g=>`<span class="gtag">${esc(((data.taxonomy[i.country]||{}).groups||{})[g]||"")}</span>`).join("")}
-        ${(i.visas||[]).map(v=>`<span class="vtag${prioVisa(i.country,v)?" prio":""}">${esc(visaName(i.country,v).split(" · ")[0])}</span>`).join("")}
-        ${i.type==="official"?'<span class="off">Chính phủ</span>':""}
-        <span>${esc(i.publisher)}</span><span>${fmt(i.published,{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}</span></div></div>`;
-  }
-  document.getElementById("list").innerHTML=html;
+  const items=filtered();
+  if(sortMode==="prio") // trong từng tuần: tiếng Việt, tin chính sách, diện định cư chính lên trước
+    items.sort((a,b)=>weekStart(b.published)-weekStart(a.published)||(b.score||0)-(a.score||0)||(a.published<b.published?1:-1));
+  const byC={};items.forEach(i=>(byC[i.country]=byC[i.country]||[]).push(i));
+  document.getElementById("cnt").textContent=`· ${COLS.reduce((n,[c])=>n+(byC[c]||[]).length,0)} tin`;
+  document.getElementById("board").innerHTML=COLS.map(([c,flag,name])=>{
+    const list=byC[c]||[], n=shown[c]||PAGE;
+    return `<section class="col" style="--c:var(--${c})" aria-label="${name}">
+      <h2>${flag} ${name}<span class="n">${list.length} tin</span></h2>
+      <div class="list">${list.length?list.slice(0,n).map(card).join(""):'<div class="empty">Không có tin phù hợp.</div>'}
+      ${list.length>n?`<button class="more" data-c="${c}">Xem thêm ${Math.min(PAGE,list.length-n)} tin</button>`:""}</div></section>`;
+  }).join("");
+  document.querySelectorAll(".more").forEach(b=>b.onclick=()=>{shown[b.dataset.c]=(shown[b.dataset.c]||PAGE)+PAGE;render()});
 }
-
+function renderGroups(){
+  // 4 nhóm theo Google Sheet "SL | KEYWORD", đếm trên 5 thị trường đang hiển thị
+  const cols=new Set(COLS.map(c=>c[0])), cnt={};
+  data.items.forEach(i=>{if(cols.has(i.country))(i.groups||[]).forEach(g=>cnt[g]=(cnt[g]||0)+1)});
+  const box=document.getElementById("groups");
+  box.innerHTML=`<button data-g="ALL" class="${group==="ALL"?"on":""}">Tất cả nhóm</button>`+
+    Object.entries(GROUPS).map(([id,name])=>`<button data-g="${id}" class="${group===id?"on":""}">${name}<span>${cnt[id]||0}</span></button>`).join(" ");
+  box.querySelectorAll("button").forEach(b=>b.onclick=()=>{group=b.dataset.g;shown={};renderGroups();render()});
+}
 async function load(){
   try{
-    const r=await fetch("data/news.json?t="+Date.now(),{cache:"no-store"});
-    const fresh=await r.json();
+    const r=await fetch("data/news.json?t="+Date.now(),{cache:"no-store"}), fresh=await r.json();
     const ids=new Set(fresh.items.map(i=>i.id));
     if(knownIds){
       const n=[...ids].filter(id=>!knownIds.has(id)).length;
-      if(n){const t=document.getElementById("toast");t.textContent=`🔔 ${n} tin mới — bấm để xem`;t.style.display="block";
-        t.onclick=()=>{t.style.display="none";window.scrollTo({top:0,behavior:"smooth"})}}
+      if(n){const t=document.getElementById("toast");t.textContent=`🔔 ${n} tin mới — bấm để xem`;t.hidden=false;
+        t.onclick=()=>{t.hidden=true;document.querySelectorAll(".list").forEach(l=>l.scrollTop=0);scrollTo({top:0,behavior:"smooth"})}}
     }
     knownIds=ids;data=fresh;
-    document.getElementById("upd").textContent="Cập nhật lúc "+new Date(fresh.updated).toLocaleString("vi-VN");
-    renderVisas();render();
+    document.getElementById("upd").textContent="Cập nhật "+new Date(fresh.updated).toLocaleString("vi-VN");
+    renderGroups();render();
   }catch(e){document.getElementById("upd").textContent="Không tải được dữ liệu, đang thử lại…"}
 }
-
-document.querySelectorAll(".bar button").forEach(b=>b.onclick=()=>{
-  if(b.dataset.t){officialOnly=!officialOnly;b.classList.toggle("on",officialOnly)}
-  else if(b.dataset.p){policyOnly=!policyOnly;b.classList.toggle("on",policyOnly)}
-  else{country=b.dataset.c;visa="ALL";group="ALL";renderVisas();document.querySelectorAll("[data-c]").forEach(x=>x.classList.toggle("on",x===b))}
-  render();
-});
-document.getElementById("q").oninput=e=>{query=e.target.value;render()};
-const sortSel=document.getElementById("sort");sortSel.value=sortMode;
-sortSel.onchange=e=>{sortMode=e.target.value;safeSet("sortMode",sortMode);render()};
-addEventListener("beforeunload",()=>safeSet("lastVisit",Date.now()));
 async function loadSummary(){
   try{
     const r=await fetch("data/summary.json?t="+Date.now(),{cache:"no-store"});
     if(!r.ok)return;
-    const s=await r.json(), box=document.getElementById("sum"), tax=data.taxonomy||{};
-    if(Date.now()-new Date(s.generated)>8*864e5)return; // tóm tắt cũ hơn 8 ngày thì ẩn (tính năng AI đang tắt)
-    const d=x=>new Date(x).toLocaleDateString("vi-VN",{day:"2-digit",month:"2-digit"});
-    box.innerHTML=`<header><h2>Tóm tắt tuần · Top ${s.highlights.length} thay đổi</h2>
-      <span class="when">${d(s.from)} – ${d(s.to)} · AI tổng hợp từ ${s.item_count} tin, hãy mở nguồn để kiểm tra</span></header>
-      <p class="ov">${esc(s.overview)}</p>
-      <ol>${s.highlights.map(h=>`<li><h3><span class="flag ${h.country}">${(tax[h.country]||{}).flag||""}</span> ${esc(h.headline)}</h3>
-        <p>${esc(h.detail)}</p><p class="imp">→ ${esc(h.impact)}</p>
-        <div class="src">${h.visas.map(v=>`<span class="vtag">${esc(visaName(h.country,v).split(" · ")[0])}</span>`).join("")}
-        ${h.sources.map(x=>`<a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.publisher)}</a>`).join(" · ")}</div></li>`).join("")}</ol>`;
+    const s=await r.json(), box=document.getElementById("sum");
+    if(Date.now()-new Date(s.generated)>8*864e5)return; // tóm tắt AI đang tắt: bản cũ hơn 8 ngày thì ẩn
+    box.innerHTML=`<summary>Tóm tắt tuần · Top ${s.highlights.length} thay đổi (AI)</summary>
+      <ol>${s.highlights.map(h=>`<li><b>${esc(h.headline)}</b> — ${esc(h.detail)} <span class="imp">→ ${esc(h.impact)}</span></li>`).join("")}</ol>`;
     box.hidden=false;
   }catch(e){}
 }
+document.getElementById("bar").addEventListener("click",e=>{
+  const b=e.target.closest("button");if(!b)return;
+  if(b.dataset.p){policyOnly=!policyOnly;b.classList.toggle("on",policyOnly)}
+  else if(b.dataset.t){officialOnly=!officialOnly;b.classList.toggle("on",officialOnly)}
+  else return;
+  shown={};render();
+});
+document.getElementById("q").oninput=e=>{query=e.target.value;shown={};render()};
+const sortSel=document.getElementById("sort");sortSel.value=sortMode;
+sortSel.onchange=e=>{sortMode=e.target.value;safeSet("sortMode",sortMode);render()};
+addEventListener("beforeunload",()=>safeSet("lastVisit",Date.now()));
 load().then(loadSummary);setInterval(load,POLL_MS);
 </script>
 </body>
