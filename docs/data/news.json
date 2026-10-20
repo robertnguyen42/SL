@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T12:41:13.102565+00:00",
+ "updated": "2026-10-20T13:37:16.974971+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-student",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 30
+   "count": 32
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-investor",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 23
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -713,16 +713,38 @@
    "id": "ae-sheet-khac-1",
    "name": "Sheet – Dubai (UAE) – Khác (1)",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 0
   }
  ],
  "items": [
+  {
+   "id": "17fb39721c854f1b",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India New Zealand FTA in force: free access, 5,000 visas and a first JCB export - NRI Affairs",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tSDUyU1dseWh3TWJ5cS1Ka3RWR3VyaXFBM2RQY20zT3B6RHZnRlNkNUU0Z2E4Y1lXZTFkUnEtVExlb3MtLWQ5Qm92ZGxMUFFVTno0cFNiTlRvUGd5Y05OTlA1RXNaOXhpR3c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NRI Affairs",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-post-study",
+   "published": "2026-10-20T12:53:20+00:00",
+   "fetched": "2026-10-20T13:37:16.974971+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "28f2b1feaeb6880d",
    "src_group": null,
@@ -737,6 +759,28 @@
    "source": "nz-smc",
    "published": "2026-10-20T12:11:16+00:00",
    "fetched": "2026-10-20T12:41:13.102565+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "4f65cd9cda5eeca4",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Korea Pushes for U.S. Shipbuilding Worker Visa Quota in $150B Investment Deal - News and Statistics - IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWGg5S000ZGdyZElLczdyamNZMXNiTDJmLU1teDVaSDlGX1F4b0lPVjAyN0JFM2VVcldyQWRnMUxkSXFlaUc0WU8tMVQ5OGFid3pBT1psVlJhSG9tUTF6ajd0M0wwNU1nRUdKT3hfNHQtQU9mN3V3eW5Ua1dRM2I5b3VjMFhNN3hrSk9Mc3BzSk9KdWZ1QUhDMXd0VGNqLVh0c1hDU091QUZRaW1oX20tLUFPUzZYQmN2VnZseHRwcEtlTC1oaHVxb0RB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "IndexBox",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-3",
+   "published": "2026-10-20T12:10:45+00:00",
+   "fetched": "2026-10-20T13:37:16.974971+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -892,6 +936,28 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "395281df92012bfa",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "US Visa Uncertainty: 5 Countries Indian Tech Workers Can Look To Now - Analytics Insight",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzhST0FwMHBNcWZHRDZnWWxGaG5nRVEyV2w0YTkzWEtQU2VHckVjRkl5UmdSUjNZM2xGSzFqZEdJV2hXeU5Bb3lDT2FTUjR0UnNsTG5jb0pfZTVTWHI1Znd1aUNFQlg5cmRUQXZyTUlxSXJQVkxyVDJFY1ZjaXZDOFJ1ZzlkSkNJcXg1WFhnN0REVktSUmVWQVFoQTFBd2Y3M2RucHVRQ0tNRnPSAbgBQVVfeXFMTTZmdllMNVQxZVo4d1VFTUlwaHlKdzA5bjZPMzdRMVhDUmhuamNkc2ZRUWpLc0xsM2Jua2xUQ25ZTnpjSUV4VXZwWGtTeGtRVFhYdnVvdjlKeC1GUnl6SjNCcm1nT1JwWVpOWmRRWTlYNFZldkRsdW81Nk1LRVJ3SHFqX2dwaW54UkgtdUlacFcxb0ZycnRPOFZxNGRjSXp6UkJWTmwyU20zWklCbWhjWUIzRHA1TlRZUw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Analytics Insight",
+   "country": "US",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-20T10:30:00+00:00",
+   "fetched": "2026-10-20T13:37:16.974971+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "054321f0c313d7c5",
@@ -1738,6 +1804,28 @@
    "direction": "siet",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "db203395a3d7d6ee",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Anh cảnh báo rủi ro pháp lý với các bên tham gia dự án định cư E1 của Israel - Báo Thanh Hóa",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXk0c3dDazZ2X1FDa1NEcURuRWc5ZTZEVHJnUFNnWjhiSUlnQklCR2xfSGotM1hoMHBrazVEaG5uQmpfLTByRThWQm9xTXg5X2t6akxZSVcxcXJxV2RYelgyN01yWjd5RE80TENzcmZYVjM3VGQwMnNja2VMb0ZGX2NtNUx1bVB2cWpMWEt5R01lMFlLTUUxUzU0ZTg5UHRHNnRZZ0NlTEprNm1jTk9B?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Báo Thanh Hóa",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-20T01:51:00+00:00",
+   "fetched": "2026-10-20T13:37:16.974971+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "6909fe676206a567",
