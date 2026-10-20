@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T11:59:44.440450+00:00",
+ "updated": "2026-10-20T12:41:13.102565+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-sheet-khac-3",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "nz-aewv",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -713,7 +713,7 @@
    "id": "ae-sheet-khac-1",
    "name": "Sheet – Dubai (UAE) – Khác (1)",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "ae-sheet-khac-2",
@@ -723,6 +723,28 @@
   }
  ],
  "items": [
+  {
+   "id": "28f2b1feaeb6880d",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Announces 6 Occupations Excluded From Its Skilled-Residence Pathways - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTJCZ1piM3FRZWU0LVYwWWpWQlVhQWV1WnpUZ1Rnb1BXSkNZSFFta3o4WGdDWkV0M0JZMUhSczJfd3hCMFBqc3FCX3c0SzVFUDhBTGZiOXNmVU42UzdjTGIxenhsdG05Tmc3WXMzQXZuOFI3QUp3R1lpbG0welFCTmVXMFdFcnJ2eFdmak0yRkxZb0EzN1B4UExNdEtUNkxQZ1VvNXNXVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-10-20T12:11:16+00:00",
+   "fetched": "2026-10-20T12:41:13.102565+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "e1c3c4fd29b8cc9f",
    "src_group": null,
@@ -20447,6 +20469,32 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "d886cb523a7ae0c9",
+   "src_group": "khac",
+   "src_country": "AE",
+   "title": "UAE introduces visa on arrival - eTNW",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VMV81MzQxeVVPSE5NMTdvY3RFaW5pbWNQQzFQSDJmVUpsTHNhUkE1R3RzaExhLVVuQjRQaFV0Umc5bWtRZjd3SnNQUGxiU0N4WnZvV2ZmWl9STnRLN2ctVUhPaXN4V2pod3BSeVNyZ0Vfem1JLXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "eTNW",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-khac-1",
+   "published": "2026-10-11T16:40:00+00:00",
+   "fetched": "2026-10-20T12:41:13.102565+00:00",
+   "visas": [
+    "visit"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "260a424f07322aa8",
