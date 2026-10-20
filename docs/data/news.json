@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T11:00:16.180272+00:00",
+ "updated": "2026-10-20T11:59:44.440450+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "eu-student",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 9
+   "count": 13
   },
   {
    "id": "eu-family",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-sheet-chung-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "nz-family",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -719,10 +719,158 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 12
+   "count": 13
   }
  ],
  "items": [
+  {
+   "id": "e1c3c4fd29b8cc9f",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Singapore expands jobs available to foreigners under its work permit scheme - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0RNOUhyX3ExeXRpMjl6aGRPX29fNm14ZzY2c0Fya19kZmc1RzNzWDh5SkNBenhBRUZZS2tJRy1jc2xRUlhQY0dyWjVMTUpxZ3dkaXlWOURSLVUwcFBETkRKdkFfVER3OXFfdlNSUFZrTjdSR3dZLTFJLXJSbDJfUVFSTThWZEk0dVY5THVCTGxmYlp1VW5jRHhfRFowU283U3c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-20T11:31:23+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [
+    "work"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "eeef00bd9c8654df",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Romania Lists Categories of Foreigners Exempt From Work Permit Requirements - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0dQQnVwYkMtZEtfanR6Z2RFZFEzLWFOdmhKT3lhUXhXSVM3d2lNZjVnZWc3YnR6c1JkQkhGLXVyQTRvS3RPUDlIeFdwaDJPNXFfaUtYUzlhaTVOLXRCYnV5Y084SVExLTN0Q1RhNndCMXJMTkZxc3Z3NXJxWVZwUHJ1cDJrczkzRTY4QmczM2tldk90MUlTQjlEYVRDM1BmN0FF?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-20T11:22:14+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [
+    "work"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "918e5b424adb35c9",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "New Zealand names steps foreigners must complete to get sponsored work visas - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNczZQX3hWeHBBWHZjcnhmOUVVWm1leDcyV2tScG5adkZwcklsblgwQ3dEMkNSQWNBUWlEMF9WaTZmODcwNFNHMEdiZUhRVndLR3IyOXdsaUV5TnRhZk1PZ29GeXpraU1YTzcwRUZhXzhWMmF6TDRWYU9wZ2xKbXV5MTNtem5xbG9DMjVPMVZ2emQ3OFIybjF1aGhXUzlwUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "NZ",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-10-20T11:18:48+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "76de310465eff196",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Số lượng thị thực nhập cư Mỹ giảm mạnh do siết chặt chính sách - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjBDcTJWSmdkbFJtbVMyX1Jjb0c5X1I4Mmxhbnh2dk1oZE1sLXdqdmdacFNYOGczaVloazVqdUJ6MUllcEVtX2ZsdmswMEUxbTBwMTlMbFp6ckpybnJrdkJqNTZtUzAwSjVhR2RQUTRuQjdxcUNJVFNFWmZ0TWgySVhpMDZMMzA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-20T11:02:18+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
+  },
+  {
+   "id": "26504141abf854a6",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Ông Donald Trump cảnh báo về tình hình nhập cư tại châu Âu - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzBIYnZWVHFkclRHMDNWRGdHU3VFTGZQWGZ6c0Z0MGV2N2FYY3EyLVdfRkN6MFQ1RWdIRUdDLUtEd25mLXpXMHhINGg3aUtKNWl1NjJfZXBTLTJNQVF4bWZYUl9neWFmeVA0Y09tRHlSSWV6WTU3d0RzZUItSEpPUnd2eE1CMjJTYkE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "tin.skydoor.net",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-20T11:01:10+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
+  {
+   "id": "17a9395aa27daf9e",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India-New Zealand FTA opens 5,000 temporary work visa slots for Indians - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc0VxNTY3dm9uMmhlSkF2ZGc4SFRfNmsxbmdKQVdscWl6LWsySzN1LWg4aXl1Zk1xcmZwRzRYV21NbTNPMHNib3VobmY3eUEzNFEwcFFIYW1HVUU3dFhtNUVOdzUtbWI0ZWlzXzRFeWNwSHFyMFhzZjZ1SENLQ1VHajlGVzEwcVFKT2pNVDZiNllUZmcyWnhHeXhaSDV0T2dKQkxPbDUzNncyTjZUVUU3NlBtVEhfQ0t5M2lFYzRPdTh2ejYyZm1zTDlwMi1qSjV6WjZJ0gHYAUFVX3lxTE1kbkFIa19RX1JIWGwzakl2VmRuOUJ2TDEtbF9FVVUzaWl3VkJ3b2g1cXloY2F5Z1YxakNBa1JTUVZNbVFSNUxWVk5ocUprdFN2TjRwVDBaX0p5REhIWU84ZGZCXzlrY0dFLWRNN21rTHFBcGkxOGdKeWlWZHdsbjZJbmJTekZDaGtCMl91TnVBeU9VLXZIekZGWHdyLUFiZWZiMENDaUJFMFVUbUkzN2kzTnBlSkJMNmFsT3N2ZUpIOVhJbHUyZ2VaanRGa3ItUWhWLTJqSUw5cQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Standard",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T10:49:53+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "054321f0c313d7c5",
    "src_group": null,
@@ -1077,6 +1225,32 @@
    "direction": "noi",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "20c53a605ec94294",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India-New Zealand FTA Comes Into Force: Zero-duty access, $20 billion investment & post-study among 10 key benefits - Zee Business",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOVFUM1JVbjFteW5xNjJ1RUhwUmsxaXdWT01SYlNJQ2o1MGoyVmhiSHFyRFRieERiNV9tZTA3NXVqbzJoamMwYU1KUXZLZTAtOVJpdnFVXzZWZDhLSkdtZTVPU1lGT2RQRWlaeGxGQjhxSHVVYlFoUGhfUFlxejZvcURGZFlxVlZmQ01xYWpTWlZYemVUNG15VEN0Q01lVThaX1ZJdFpxN19nWFB4UnpLZXRwM3I4ZldueGdmc21uX0F4Ti0zaDVkX2VqV1hzc2R3RUFMaE8wY2RCemRkMkE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Zee Business",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-post-study",
+   "published": "2026-10-20T07:55:39+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [
+    "post-study"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "cb13d517eb40e327",
@@ -2368,6 +2542,28 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "0397026391400bec",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK Lists Family Members Eligible for Special Visas Through Foreign Military Personnel - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWVZGelpKdTg3YnYyUjQ3YTlROHVqSS03SmxtY0NmTW9jUmJKN3k2RDhhenMxV0c1QkQxQkZfbGVBS1hpME41cThxTGhncW5ram1TeXJzczZzVlBnS09NOHo0WUZPOXlWX2s4dGtNX2N0TWNOSUN4bnJRYzRnUmF1RXQzRk11ME1FMGFGcDZVN2tvZHhxbW5FUW9FbTJYQzNoVWZmYmJORFAtR0dUV0pEaDZwNnZUMmh4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-19T18:19:28+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "1bea58b0308c7142",
@@ -4030,6 +4226,33 @@
    "score": 0.0
   },
   {
+   "id": "ce0f383eaaf7e6fa",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada Lists High-Paying Jobs With New Fast-Track to Permanent Residency for Foreign Workers - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0ZFQ09MOUJYVElDLUJpN21Cb1BZSTdaZEROaU5UaFF1azBWNkpWb2k2SVdwTEZob0xqWW9vZF9TTGlPSTRJNWhjclpRRG5pQ2hWcUdHVlhlQnZZbm0yNERGZUl5X2lJNVI5UHJSc3k5S19QdXdxYXR6SGU0Ylpsb2dxbWQxS2FsbWtBcUdZVUxzTzFoVFY4OHBHWUdsLVlnZ1pOMkhIeXRZbkdldWhzRG1oWQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-18T12:56:05+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "417d2f6ba86a2567",
    "src_group": "tay-nghe",
    "src_country": "AU",
@@ -4187,6 +4410,28 @@
    "groups": []
   },
   {
+   "id": "00b5a0049d5a013a",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK Lists 1 Category of Residents Whose Children Can Get Settlement Without 5-Year Wait - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ3B0RzJpX3ZLS0JsV3pYd1dfLVlJaEY1V3JUWWlxVWFxZVZQUGh5Z0dLOVR6QmlmQzBtX2RPTWYxYmsyQmdCbkdCMnNhb3g0ZmphS1MtT1Jfa05TTGpnYVJ3RmJoVnFfamxObm1pak9kZE5wV1RaUE85UWdoVVF1TlpaLUZ6RmJpWEVxTGtfbWZocDVpRGczXzlKdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-18T09:13:50+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "7802f29d504af48d",
    "src_group": "chung",
    "src_country": "AU",
@@ -4229,6 +4474,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "5c2fbed434551a7e",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK Home Office Publishes 1 Condition For Foreign Workers To Change Employer Without Losing Visa - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSm1NVmtmRi1USGRUcnl4c2gyVnJXV2RxTjA5WlVDMENvRjFaZURWM0d6V3lVMGxsNFRYT0Q3eEVYajh6UnN1SUdxNFpXd2szeFZUZGtXX2dadHlfLUlfNFRSUk1td2RiVnhaLU91azFqRUxBNlJ2MG1OV2xmVGhXWHlrTWFKX3Y1X3VCOXM3Z1BBLTZlYkdjX3E5NzlFaV9IX0pRbkhBYWVyX2ZUQlNHbjFlTnQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-18T08:44:11+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [
+    "uk"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5914130a479d677d",
@@ -4677,6 +4948,28 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "80673e16c9d6afac",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK Closes 2 Immigration Routes Used by Foreigners to Extend Their Stay, Reveals Alternatives - GistReel",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlR6VGdiMTc2S0VGZnhGNm5XelM4aVVrb21EdUtrRU5ENW1EczZUU1hERVRkc0U5a3VlcnZEY0hKc2E4RUpmUk9HRHVkQy0yX3UyYlVlLVdrNE1LZDYxNl96eERuMkNybTNtVmRwa0pfZGwtQmRxQUN2RF9Kd1h3QV80SmdjeUpPbnRTUE1RT3NPSm53aXVqOGZIODlBNDNtdzN0dENaVXE1OVRKQWRacE5mcmtVUXdl?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "GistReel",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-17T19:06:43+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "fe0da76081a2b5db",
@@ -7449,6 +7742,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "51fc46ad672b48c4",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Foreign journalists to face social media vetting for U.S. visas - FIRE | Foundation for Individual Rights and Expression",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcF9wWThnQ25IeWRVMWQyeU02NmMxbk1BalVGMkRxUnFpWVBTQmFTb0JWVDlUTXVER2JpS1NWWlNoYzdPM09KZndBclJHa1NlUUNxSWNURE9fLURJelNic1Nlb1VsbklPVWMxdGZ4RGdIcmI5QTBWWVVQZ190R1ZRWnVRQ1RzakVzOXBSNEFDVVhvQ0M2Z1ZvejZtaTFacDdCSDgya29Bank2cm8?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "FIRE | Foundation for Individual Rights and Expression",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-16T12:30:10+00:00",
+   "fetched": "2026-10-20T11:59:44.440450+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "10b4a30d36332997",
