@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T00:43:44.244588+00:00",
+ "updated": "2026-10-20T01:32:05.819478+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -323,7 +323,7 @@
    "id": "au-sheet-tay-nghe-3",
    "name": "Sheet – Úc – Tay nghề (3)",
    "ok": true,
-   "count": 40
+   "count": 28
   },
   {
    "id": "au-sheet-tay-nghe-4",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "us-eb5",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 40
+   "count": 28
   },
   {
    "id": "us-family",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "us-sheet-khac-2",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "nz-family",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "ae-sheet-chung-2",
@@ -724,6 +724,56 @@
  ],
  "items": [
   {
+   "id": "6909fe676206a567",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "INZ 1402 India Iconic Work Visa and India Skilled Work Visa Application - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUW5BNWdSYWVHVmQ4dmdNV2tnUlY4cWU1ZXF3dXZCUzF0UU5jbUd2a2JqenJ2dHNGc29PeUZ4bVNnSjhPQkl6SEdBRUJZTUo5ZHVVc3NqeDlpaDU4eFJTckphTjZKaGxQUnBqbmVWRUdFYmU4dUNrdlFwbURzMnhFZlNOZk1WZnRKNXlIVTExa3BSc081VExZYWFWWDE0clBOZm5QZ0xycE01c2J0TGF3MTlidVpYV0VoLW8tOFVVWUFXajdzNmc1R0xnb2tnZw?oc=5",
+   "summary": "INZ 1402 India Iconic Work Visa and India Skilled Work Visa Application Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-20T00:51:31+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 5.0
+  },
+  {
+   "id": "d1cb7f4cd7d9a0c2",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Tourism council urges EU to fast-track digital Schengen visas - ETIAS.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1CM1M5TjdoTElRVEdPem9ZR3dJTVVkbWh6OTMzc2d2aHpzdG9mUzh4ekZONDU2SVMzUmMzQzBPYmFjT2wtZnRjRXZDYnFVdFF1NW5OVHlBZXpLUkNqOW8tQlhRTXN6MHJrNnZVdDZzb2s3ZzRkWFoyelM2OU4tVTFnWmNrZWY3bEt6dkNDaWNndw?oc=5",
+   "summary": "",
+   "publisher": "ETIAS.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-20T00:27:05+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "a7ca1ca30caf9990",
    "src_group": "chung",
    "src_country": "AU",
@@ -745,6 +795,56 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "eff9b25ed85ab121",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India Iconic Work Visa - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PenVRbDZmblRyRHY4RFJPQ0diMEFHUFpVMVY3TlFuWWpROXJkWjhFUVl2VlQyTlNqdGtmUDBtWHpfbGF4b2R3TGJmT0VaN29IRG1Id2dVSmNGUVlWNnhHS19yOFR3amRJMGZYdk9R?oc=5",
+   "summary": "India Iconic Work Visa Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-19T23:23:10+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 5.0
+  },
+  {
+   "id": "8013589d66084697",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India Skilled Work Visa - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kekc3b0tseExTSDZpUlZydUZfa2ZldmFjdlROMzFwUVVGbERYUDBUYkNkRVVJT1JfM1UtcG1IWTdiWFN6UHAxMHYtaWlfUzU4bFByUUNtS0NUNzJtQTV1Y3dVd09aaUpRcUR3enlVRQ?oc=5",
+   "summary": "India Skilled Work Visa Immigration New Zealand",
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-19T23:23:09+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 5.0
   },
   {
    "id": "18936e1ee4f043d0",
@@ -1013,6 +1113,31 @@
    "published": "2026-10-19T20:16:06+00:00",
    "fetched": "2026-10-19T22:25:19.672410+00:00",
    "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "3cc9b953e2082202",
+   "src_group": null,
+   "src_country": "US",
+   "title": "$1 billion goes unspent at NSF, DHS proposes new fees for international student work program, and more - American Physical Society",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IaEJmTlZYWlJVNTI1NDdlenNpUE5Pb2RhSThZV0FGd1pCSm9wQU9PRWFKTGhBa0RKRUVQSHNLUlBCbVoydVhLSm9QbVNxYk9VMmtHY24yYU56Vzg5R1Z2UkpHZTFkV3JHU0hXYw?oc=5",
+   "summary": "",
+   "publisher": "American Physical Society",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-19T20:01:31+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [
+    "student"
+   ],
    "groups": [
     "khac"
    ],
@@ -1805,6 +1930,27 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "ee0125cac243ebce",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Immigration Debate - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EU0lzaHlnXzRXb0hyY3pTdEJCU0E0SFdKamw1Q1JYdC1nS1Nna3RkQjZLYkRpV3JRUWkyQW1lbWRVTURHbnZsb0cyLTJsRWlPZXp2b2RVVEgxR25TVjRhQjR3QkZhMkFyNk42NUVZVlNTZlU?oc=5",
+   "summary": "",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-19T13:30:00+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e197a77c95ec91ef",
@@ -3803,6 +3949,29 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "74a2f5ba34a26bff",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Full List: Australia Publishes 456 Occupations that Qualify for Core Skills Visa - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSXoxUUwxODhLM1Rhc191Um1ZbVBpbkJQaFk2MVhLZ19uajZWYW5VWXJNWWNuRF9tRU1ZNDU2MjJxOFpRN2I0SWFnSVY5ZTNiSkluNUg2Z04yYWE3ZHZyQ21yY2pxLTBxMVVjdzc5MVVQWWtwbC1jaFFTbjJQTXBrdXRhTlNsU2ZDbThrZ1hwWmUtbWhxVm80NmRQTEFienVUSEpSQkVEaw?oc=5",
+   "summary": "",
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-3",
+   "published": "2026-10-17T11:55:35+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "d272aa8e3b9ae3b9",
@@ -5992,6 +6161,31 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "d24b71d2051b1479",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US OPT Fee Proposal: 10 things F-1 students need to know about the $70,000 charge - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTnVjSXRjak5QR1lWelR1dHhTQVJTQUdGTW1pUFluT0lzOU1hU21hNlUzWjNQZG1qaGpIc1lnZURRZk4tSFNqWmtMM2w1MHdDNWFJcHptMk5lOHZyTHpDbDdNZ05TdVlHak5ITXQ0dnB4M2NrZ1p0Rmw0VXQtWlJPUnN4WEN4T3JaX2RCVkJsTkFIWURRT2hKb0NpQzhhWmZJaldlUENEZ0dZa1VKV3JmNHhwRF83b3RUVTd2MEgtWHRCdm83YnZrZNIBzwFBVV95cUxQTDNoV253bUFjeFRqNURNNFl0bk15LUVfUXhMWmMzTXp6a1ZJelBQTEM5dURJczFxVkJ0Vi1Qa0czMTlPZkJPbWdpZ2xpNmxlWEdsNGFLSXpINEkzSnRGdXlod1NSZUxUWGlTUHpvRUd4U2lzSDV1T05JUEtZVkFXTGc0RzljVFFQbi1NWDZGbzVzcGU5UG1FVV9MX0l2V2lNOW93Z2ZaMW83Q2x0M29VSERwbHpqTGt0XzF3NnBEYTBKTVRPVWM2cUthdVBqTm8?oc=5",
+   "summary": "",
+   "publisher": "The Financial Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-16T13:37:00+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "8b1486499bdfeca8",
@@ -18042,6 +18236,29 @@
    ]
   },
   {
+   "id": "55e7e4afe294b671",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Torque Metals Sets 30 November 2026 AGM Date with Director Nomination Deadline of 19 October 2025 - Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa1Q1d0RkNzJ0YkdVcmMzNFdnMjIyaVdRYW5NdU1DM0ZPWlZ1TmlKejhTZU81ODhIcFlFanp5SHJpdjdRdkJTUWFjenZadzZMMHJ4RlVLN2otcTBiRm5LOHQ0QnlSR0UtSml6aGdKNzVpU1lzTjlmaDA1WXg5a00yeXNqU0Jtc1ZoNXhMTGJ0SmZ1RFBIVkExQlJHaUEyQ0IyZjVNTmp3LUhVQk1faG9EdVl5RmEyY2pfbGlTbmhseGpFdUNFamtUZVBXeWNnMHMyQjYwR3pn?oc=5",
+   "summary": "",
+   "publisher": "Kalkine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-3",
+   "published": "2026-10-12T04:14:17+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "f841261f1621c508",
    "title": "Child allowances and immigration top political agenda - Paperjam.lu",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTEY2cy00UXMtWEZ5bTdRby0zQ2ZRSEQ2MzM3eHpvWjZjYldWR3Y4T2g3Z29zZUxIZ0hFemM1QjFsZHpiS0NHRnhpQlF1a19odFl1azRiUGlwTnBSSVBub2F3NlgwSEM4ZzJheDlXcVNYRHpVVEZaMmtNVnQ0ZDB3enZGUS1YWlZoV0ZZ?oc=5",
@@ -26410,6 +26627,31 @@
    ]
   },
   {
+   "id": "3b9819bc1f741b78",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US proposes $70,000 Fee for International Students Seeking OPT Work Authorisation - Arbiterz",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbWV4NXhTbXUyX3BGdWpXd09la1pqbFZmc0dhc3NBZllPbXdyQ2hkejRwQWdoWFdLdWpUTWJQVm53VEIyS2g5RzdJeWs5a1NUU1pnQVNTWC0yelZMengyNDQ2eXV3S1dFNENOenFkRjFaVkk0bDY5SEZwN3BwTEt3bkRYanNUWUdBV3pWY3NlSk03NHRUekVrV1g1NkppRzJxQ0U4?oc=5",
+   "summary": "",
+   "publisher": "Arbiterz",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-08T13:36:39+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "f0faa2c575565a02",
    "title": "100 days of the EU Migration Pact: faster asylum procedures, but at what cost? - VluchtelingenWerk",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmlfY08xSGIwWVVLQXJ1MXM0UmRYUFduMEhsQjZvbDZKVGNOeUpxd18yQlU4QjZHMGhWbnZROXd1YVV2Q0N1dnI2X2dYV1JaM2dRc0dUNWFfQVdORG8wZTJnUTJhMk9JMHRFNURlblZadFRmckJBZjNVZTN0eU5TSkw2dmRpczBQdkdMYnRhVkplNE5sUWZHTVN4eVRXb3BBSHJsbXpRN3E1eUtTWEhOcXp4Q1l1QmlHMEp4TkhfLWRBNEc3ZERJ?oc=5",
@@ -31633,6 +31875,27 @@
    "groups": []
   },
   {
+   "id": "49b84c0235fb52f8",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Carney Signals Possible Controlled Increase in Canada’s Population Growth - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUJGeS1tU3I1ZGxrLVMtLXNVd2d4aGFWLU0wMG5nSjAtZGxJOU5NSnVXS2doVmRNQVFacVN5bWtZMDcwdkIyYzhOX2dMaWRhaVprUlc3YUlSRGk3a3FGYW5tUDZHTjZEOEpVcldfT2ZfWVk0bktlUVZaWFYxS2lHYmNvc1ZMcXhlWlhrOFN4bG9DOWtBNVJlYmphZGExdw?oc=5",
+   "summary": "",
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-06T13:16:51+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "b2137215a40146a1",
    "title": "USCIS expands online immigration filing for H-1B, F-1 and Green Card applicants - financialexpress.com",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQU9CbEFYTnNzQjFKMTRsYmprcHZ4WDd1RnlMUEN3ZkRsX1BCZ2EzZVY2RUpxX0NPN05mU3FKeUp5SDZtQ3FTcmczVmNzNlRXQVoyV3luZTAwM2dnS215eFVxM0VlU3FHS1k3X2JJdzlfNDJnY283UzdTSVRuLXQ4UzBVbm9DSVAtbTF5WVlPWkdkSTJhb1ZxODBORU80TzJYbjZUY1hTQmdDRXlQUUo2aUdnaFF2QmJ3NEhfdtIBwwFBVV95cUxORTA3OFREYzZOSjNCby1DVWhpRFBpN1hOM3I5WE1mSmpfZzNwZm5SVGZCc0JyMUVrejFBbFNQS0xfOHpEYTZSZGYxWlhSNzF1SmV0dG9tMU5HeVUwWmVwVHl1bDV1UWdGQkxSN0ZpU3VXdDM5TmJadkVrenhQTGZjUzkySGt4S3BZbFdKVk8yRnI4NWRSeUM4Nl9IYWpubHNvT0F4Q0RqY1hiRExqendTWmlRdTZOUGpIZ1lod3oxY014YU0?oc=5",
@@ -32898,6 +33161,29 @@
    ],
    "groups": [
     "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "4450acc68c9e7b66",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Proteas Men's Test side secure first shirt sponsor in five years - IOL",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTGFZLXFQQlRZTW05Rjc5dXU0T0lqNWRFUnZxYXpZV3ZJdlJxTnhBOGhtSUdCaFRnMldUOVNseGtVSkppcHlNc2FzNF9xSlJvc29RWkZpT3RrU2QyTHRkcFp3QlZSdkZuWDdTS3IzbjE0c2twaExrRGpGSDA4Y215WjAzNjZHeE1EakhfWTJZX1A4YmlLeDlfWkRUN2htdHdxRnRkdHdTWVVaSDEwYXBuSEtIZ2JYQWpMYnE1Vk13dXJSc2lMVnVhbg?oc=5",
+   "summary": "",
+   "publisher": "IOL",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-3",
+   "published": "2026-10-06T07:00:00+00:00",
+   "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
    ],
    "lang": "en",
    "policy": false,
