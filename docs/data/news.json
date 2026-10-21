@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T12:01:35.641841+00:00",
+ "updated": "2026-10-21T13:17:20.494294+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -245,13 +245,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 13
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "us-eb5",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-student",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "eu-golden-visa",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 9
+   "count": 25
   },
   {
    "id": "eu-student",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 28
+   "count": 14
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 20
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,13 +617,13 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 9
+   "count": 21
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "nz-family",
@@ -719,10 +719,98 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 19
+   "count": 18
   }
  ],
  "items": [
+  {
+   "id": "f1569d548345070f",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Bầu cử Mỹ: Chi phí sinh hoạt và nhập cư trở thành tâm điểm - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXE1c2Z6MWZRb19rTUxad09fMzFWVGVGNUluYm9sZjJjbml1T2hDVUZwdHVfSlEtd1ZRSUNmSVE0OHR6cVRudXFrQXJtelZkb2paVDRaR2xxQmpWZFg5bzNIWWRpUFNacjF3WjZDQ1oyN2NnLVM5WWlIc2o5WW13RXJMUGUxR28t?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-21T13:04:57+00:00",
+   "fetched": "2026-10-21T13:17:20.494294+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 4.5
+  },
+  {
+   "id": "1abfb414187708c4",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Gendelberg Law Adds Former U.S. Assistant Chief Immigration Judge David Cheng - Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeHVSRk5oeGo5X3ZUcGVuZ0xVTDVrZkllREs1U3FIbFZjNVB3dDUxLU5PTk9EQm9BNmp5OHpjZjJyNldqTEpNVlJYd1JaNzFUNXUxTTJfMVkzUG14akUzcTRDWjNUUlFKOWktYVprSThuZnlHNlIzMUNxcExSTDd3aS1hdFpueGtCeW0wUlVyaXViOUthOTl2S1FoMVY?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Pulse 2.0",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-21T13:01:59+00:00",
+   "fetched": "2026-10-21T13:17:20.494294+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "e4c4d3934c44ba34",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Turning Point: U.S. offshore helicopter industry may be poised for a major comeback - Vertical Mag",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU0xNdFA0ZGhzdUlWNlMwaWRjQi1CYVNJMGppN3dxc2JjdDdjSlN3SUU2ZzFrTWI0bXMyN2s4ejItUXRQckR2dGx0eU5tbTRfb1k3NW1rSWFaRDV1a3BpazZmNmowWDE0bTVCQloxM3ZXQ3dGNGUzblRsN3pmdWxqb1FJZ0tOX2VPcUg2a2RGTWdtR3o4cnBqQS1NZFJnbkFrYUx4Z0dTME9aU3JHbVFTSkZkUHJrZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Vertical Mag",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T12:47:00+00:00",
+   "fetched": "2026-10-21T13:17:20.494294+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "dcd0bd19dc9d45f5",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "UK Lists 82 Countries Eligible for Visa-Free Travel With ETA - Greek City Times",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96eFVYTmNiT0N6RURoQ3pRd1R6RHR4NDJud0RQQTUzLUVUYVpUZXIwYXNKZWZRWURBOTBkZ0JSeHZZc3Q3OU9Mak9wQWtEVHg2enNzZXNFVWppX3ZvUmhHczJQUGUwUnkyQ1hCQTJ2THdkN3RjNVFLSw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Greek City Times",
+   "country": "EU",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-21T12:29:15+00:00",
+   "fetched": "2026-10-21T13:17:20.494294+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "e1ff48028ea24fd8",
    "src_group": null,
@@ -798,6 +886,32 @@
    "score": 0.0
   },
   {
+   "id": "c1b3e5aed821d17f",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Canada’s proof of citizenship finalizations picked up in August - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFhsdTdabUhEdHkxNF9hMUUyOThnREkwNV9yYS1Mck1uUnc5WDkzdVlPQnVZLUFmb3RnU3RXenVQYTlldUJHc0oxOXdtZjJmQ0lOLVhTVWpmYmp3cTVVZ0owNUJCZUtrY3NZVm1fbWFWQmROaVBaY1ZtTElENDRwV29DYnpHdWREdGozU1U3ZEl1ejVCZ3VlZFJfTmZTWm1GaTVZMzVYZVNTRnd2RFhXaNIBsAFBVV95cUxNTFhsdTdabUhEdHkxNF9hMUUyOThnREkwNV9yYS1Mck1uUnc5WDkzdVlPQnVZLUFmb3RnU3RXenVQYTlldUJHc0oxOXdtZjJmQ0lOLVhTVWpmYmp3cTVVZ0owNUJCZUtrY3NZVm1fbWFWQmROaVBaY1ZtTElENDRwV29DYnpHdWREdGozU1U3ZEl1ejVCZ3VlZFJfTmZTWm1GaTVZMzVYZVNTRnd2RFhXaA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-21T11:00:43+00:00",
+   "fetched": "2026-10-21T13:17:20.494294+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "6bfbd10836f35d4d",
    "src_group": "tay-nghe",
    "src_country": "CA",
@@ -822,6 +936,28 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "7e78ee7cdd1d733d",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Transit visas denied: Sri Lankan woman stranded in Cook Islands for nearly 3 years - Newswire",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVNaeG1Ud3ZNanZJSnc5SDBzQWtncGJQT3RHMXprcHpwNkJPM21YS1E4c2RnRzYyTlp5RkZPM0NJWHZPZ1dIcTJhclBjSzVJcUtKc2JNdG8yWWNad3VkTWt3OTdibDFzYXY4LVhRaDZfOWdmZm5IdklBNFNkNGJ1N240U0RqWkd3R0NZRFhPdDJmNG15cDU2M1RfOEVsaVdYQVZqUWFHZ1I4VUtKSlRXbFFQckY3X09l?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Newswire",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-21T10:42:53+00:00",
+   "fetched": "2026-10-21T13:17:20.494294+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "31eb435978a068fd",
@@ -2794,6 +2930,33 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "ffaf8c23775c6937",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "International students left in limbo by Home Office visa delays and refusals - inkl",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmhVc3RzN2VYSDhYMG9qVlU1NFNxdEFyWWt0YmE2RXdURUJiQW50a0FsRjF0SGh3RVNMU2dzeWhxQy0xTnFQeUtQdFpiUDNNUnE3Y2F2MG5WV3RzaDhtZjNDSmFTMW5ERER2MmU3ckJQSGtiMUxkS2hfVW04WUJzZUpPcWdxVUJVUE1nT09FRHUwWUN5ZEdXcHNRWHdmUXZuOGVGbw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "inkl",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-20T11:51:11+00:00",
+   "fetched": "2026-10-21T13:17:20.494294+00:00",
+   "visas": [
+    "student",
+    "uk"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e1c3c4fd29b8cc9f",
@@ -13712,6 +13875,28 @@
    "score": 0.0
   },
   {
+   "id": "ff305762342bd66b",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Ottawa to announce $100 million toward offshore wind projects in Nova Scotia - constructconnect.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR1N0X0RMa2Rqd0c2Ui12Rlcxejc5QTYwSjZIS2JkV081OVkyS01YUTV1bnBQR19aSVktLWpNTkRwbDFycW1FeVNPeldNUkhyRU9mZWpab09HVGhrSTN3WmkwUzNqTlpyZU5HS2VMYi1uV1BBLWtzN3BIOE1mSUl4eVZ6bWNFelJlTXFWYzg0VEFDZkNKdGdvSmxWS2dld2ZfWEtuejhMLVdJWkhkUjFiN0s2RnMzR203LUNUNTBQVEltaGtxMUVMNkZtYUlHLThkWVlj?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "constructconnect.com",
+   "country": "CA",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-15T14:16:04+00:00",
+   "fetched": "2026-10-21T13:17:20.494294+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "40b59cb7d8e61fd2",
    "title": "After UK, Another Country Rejects Student Visa Applications Massively From Nigerians, Others - Legit.ng",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0JPaXk2ZHJvaTZnbXBUYk1feXc0NEFtQTVnTVJhcDZZMHdXbXdhZGd2MnRIVm1WV0N2QUZuM01uLVJ6bDY1NE1PWlRicVE0b0xsWnh4LWRxZ1o1ZXN5MGtvcW5MRGktV1RRanNXb3R5OS04c0NvdHhqZ1dpZEhPMk5QcnVZdmtSOUhrMFM3UlF6OTBBSE9kZ1NKUVc3SExjWjlN?oc=5",
@@ -15036,6 +15221,28 @@
    "groups": [
     "khac"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "18c15ef15b08e58e",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Poland Ranks Third in the EU for Number of Residence Permits Issued: An EU Report on Migration - ordoiuris.pl",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ05ZMUQzRWZuemlOVXVXa2FFWXZ6aHZpZXZXaUNMLTAya1o1UDhPQzlGNzRfZTBablFLUHpsUWZzNmdSUmxaNVFNWHFJODR5MDVHeDJQQXJ3WVFCR05FRjJKQnlaRUFzS1RCNFozeVNKSkZ1TS1KeFNLTjZYb2NlWTdOSFloTXRoSWZFSDRvZVNFSUJXZGoweXdVVEdrejgxc2NQQXV4LVBGNGp1b2JZb1htUnFMVFVfOGV3aGZsU0pGSXNocHc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ordoiuris.pl",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-21T13:17:20.494294+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -23138,6 +23345,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "8e9368dd4ee7999c",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Rent, jobs and visa worries: Indian students find Australia’s promise harder to navigate - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZTRRZ1JHYXFHNFpCUjRxa3BSM1FDcjhPS0hXYldrck41NEtKLTJFWkVaZWtIV25PY0xWcS0wOGRXaFVNb1Q1Q0VLN3NWSzRmaVVEZHcwQnlQNFVDWTloX3lWaDRzcW9DdHp2cXRkaUJJTk9QWEd4cG0xekhNNHFKZ3VBY1RpYWdFZE5VQ0cxVDhuSEc0STVYWWxLakdlRTQwNVlaaGc3QWpvMjdrU2lZY3kwTVRUbE1yWHFJMUhjbWJSZTEycl9kWnJlQXUtTUlWdDMzcmpNUkhpSUtWZ01xcGs0X0NvRU05cVJ4cUFOM3A5WVc0ek1GTdIB_wFBVV95cUxQSTFfNEtfY0RTVGlYcEFOLU8xU1I0V2RlSk8yanNwOGNlVU50S1ZNcDhobGstTEFnWklNWjhnOUF1V1dJUERIV2JtVkNoQ1ZyYnBPem1PTHM2bVRoUDhhdndMZTB4YmE5SXl1U3YydDR4eHdYc2k3ZmdWcE12aXhEemwwUm1xcndfM1JfVnVjWTdsbFhjWk9ueDVxX3NJbHlISkExSVNQb0hzd2JmcGY4ZThXRmZkQ056bGFrQ3lSQ3BKNUtkWkUxT2RWZmdtUzY4N2NvMkJ4SzNZRzc2eGhZSzhwZ1A1VkpDV05lRVZlYTlRY0FLejJXNDhHcUluTDg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Indian Express",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-2",
+   "published": "2026-10-12T07:00:00+00:00",
+   "fetched": "2026-10-21T13:17:20.494294+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "b0f8cdd44321e5ec",
@@ -60153,6 +60384,32 @@
    "source": "us-h1b",
    "published": "2026-09-22T07:00:00+00:00",
    "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "6ccf8703b979756b",
+   "src_group": null,
+   "src_country": "US",
+   "title": "H-1B rule changes 2026: 9 things US visa workers need to know - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU25ORVFrV001aDFQRWpkM1RUNW1HOGhDQkt6Nzg3WGlScjdPcTRZMWRoMmluVmFXYnlyUjRleWNLMzl5SGRVOGE5SkJoWG9iU0ZnN0E1aldsQW9jdlotaUxKYnY2bnJMNHFZQlo3d2VNcW9Nczg4NEtTTm95aTdKcFJ2MGNiVnlSMFV3aGViTUZ3WHdVX0trdWlITjZmZlY5S1JPV0ltbEswZE5CaUtBS2ZpUkbSAbsBQVVfeXFMTW1DNHFjTVdZZmZmT2JZOU1YOFR1aTY3UXVZUFhBeUNSSzd5cnFFUWFpdDFfVmVNN0dBQTFmaVZIdXNweVc1c2poM185RnNVQ0x6dDhOaXVMTjdqd2tWYmhweUU2R2t0N3Bad0xqbXdkRlhXT21MYjhSZTd5RkxzMVJldmRCbzRiQjNQQ0k4aWZwd3Z5cFZ4dVppUWNtWm5KVU5zR0d2YkgtTEpmc2JxUVgzUWhqYjlnZS1mbw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Financial Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-21T13:17:20.494294+00:00",
    "visas": [
     "h1b"
    ],
