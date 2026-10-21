@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:01:06.695336+00:00",
+ "updated": "2026-10-21T22:58:20.002392+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -269,19 +269,19 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-student",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "us-sheet-khac-2",
@@ -551,13 +551,13 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "eu-family",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 17
   },
   {
    "id": "eu-sheet-khac-2",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "nz-aewv",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -723,6 +723,54 @@
   }
  ],
  "items": [
+  {
+   "id": "9644323d30fb80b7",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "bp, TechnipFMC advance 20K subsea technology collaboration in Gulf of Mexico - Offshore Magazine",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcUZuaTQya3NfZTJiaDh2NjdsT29UY3J1eTVubGtEdHNPOGxINVhQTVJEUUp6T254VkdfT2xHT2lqaUV1bUZNUGZtR3VoMUpEWDVTTDdMLUVPLVItcS1kRUlYTkx2bTN4MlZmZ2xVMWVBbU54dEJUMHpIc3JnOXFuaVFOblphclp4OGs4a2JSd0thcGZNaDFQSTB1dmJabTQ4RkRLTU9zM2VwSGU1TmR0Z0xQUV9iRnRhcUx1MkFMaVYzODNvZjFDS3BuNk82a1BnSVFWczdST0o0WkR3UXJ3MFpEMENDZjBIQVUydzBoUG56NDZjUUhr?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T22:35:18+00:00",
+   "fetched": "2026-10-21T22:58:20.002392+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "f25ebaa88eb9192e",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Full List: Australia Slashes Visa Cost for Citizens Of 23 Countries - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFZiSVM1bjRKNlhYSHFDYkotT2VsNlF5UnJZTmRFZk9WQXk0RXNrMFdzdU1tUjhyRUZTN2plN1IxdFpDaDlfb3hWVDNidjRocVRuQW96US1xaUNEYU92UU41aVVJZV93M0xrcWtOdHJ1cHFxUFBiZW5TMDVxZkhqTno5U3FSUVZVYWMxZDBLN3ZVa2FZOGtsdVQxbEE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-21T22:03:37+00:00",
+   "fetched": "2026-10-21T22:58:20.002392+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "411a2e6eecd3cbbe",
    "src_group": null,
@@ -792,6 +840,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "cd2b0575c2b73df2",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "CAF Champions League: MC Alger supporters face travel ban call after Abeokuta incident - Daily Post Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0FNN3ZjWTc1Wkl6NWpGdUVaWkZLc2RJQWNjd253c1J1RjJYRVNJSC1lUkJXeGhRbUJySFZVRVNEOWJmaEV3Y05ET1FRWEcxTXM0SVBQVFQ1V2xpenJBS3U3Sk5NY0dTSmNkN3puNUp5bEpiX3pwVDNiOGprc0l0Y2FGTnJqZ2lxNk40RzdCeUFVdUJsNDZzTUZldUstSTg0c2t5em4yQUMtUy13N211OGJhVFBqTTBsN0E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Daily Post Nigeria",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-21T21:33:26+00:00",
+   "fetched": "2026-10-21T22:58:20.002392+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "a522c6f4c5be810d",
@@ -998,6 +1070,30 @@
    "source": "au-sheet-chung-1",
    "published": "2026-10-21T16:30:13+00:00",
    "fetched": "2026-10-21T19:30:03.666458+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "675300396f30741c",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "China's Tax Authority Issues Reminder Ahead of Offshore Trust Tax Filing Deadline - Hubbis",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMWMtSDFXLXJnUGpoek9saFpDQ2F3dFNFNkxxTm41UHVOVVRMWHNzTm9JaGVOazRrZjJNQnRUV1NBbk85cTZfN2NsM1A0ZGZIak83ekZTOFNrRFEwT3d5b3BXbHRZUDhQRXZnd2sxX2dWaHdieDl2NjYtV0syMjJhekt4LTV4SHFjSUJvMEtCV2ZNdUR6SmRNRU5oNmVZMGlMaW96R2FPY1ZUeXZRUkE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Hubbis",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T16:04:46+00:00",
+   "fetched": "2026-10-21T22:58:20.002392+00:00",
    "visas": [],
    "groups": [
     "chung"
@@ -1419,6 +1515,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d521a58e7236c340",
+   "src_group": null,
+   "src_country": "US",
+   "title": "How Minors Derive Citizenship Through Their Parents - Center for Immigration Studies",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OTzE5cjdvRFdFMUpWRHlka1ViTnE1QXVVOURBcm94RlJrS2l4cEhBY2Q1RzZxb2tWVkd4N3RmbWJXQzhiNDVaLThmRVZCWVVVcGVRMklUMllPbFdha3Z6QW5YYVB4YjBjZUE4VHk4akY0dkQyZEVuTmFrdGdtRFU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Center for Immigration Studies",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-21T12:14:29+00:00",
+   "fetched": "2026-10-21T22:58:20.002392+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -1929,6 +2047,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "143184d1a41ca96b",
+   "src_group": null,
+   "src_country": "US",
+   "title": "New citizens encouraged to vote during recent naturalization ceremony - Williamsport Sun-Gazette",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd1FvZmFrR3g2bmpyZmk1LWpCWmF2bnFmZExpcU5KUXlzOGJ6SnlqdmRRcWpleDJmY2RELUQ5MWR3NTZ1X3RZQUdHWDdqX1NaN3g1cnUtNHhoUmNtOFBGdGtwMjJ6d19fNjZiajFSYmE1Unc2Y19QT3RFc1dhMEdxNk9SMXFQMzJSUF9VQ19ucm9OdTRKaUZDRmJTaGhoUE11RTc3VlVKVHlKdVVhSGVaZVVzNUUyRU9MamxB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Williamsport Sun-Gazette",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-21T07:41:36+00:00",
+   "fetched": "2026-10-21T22:58:20.002392+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "6e2cd4f14cc13882",
@@ -2493,6 +2637,28 @@
    "direction": "siet",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "7d710c183d18da17",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Federal Investigators Obtain DNA From Minnesota Rep. Ilhan Omar In Immigration Inquiry - Tampa Free Press",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb1NOUVR6dXFIVjdac0tOS0NIYXZsRXVxOUotYTJ4RzBkbk9PWnBMdENtU1BidkZIVjVkTHFnakp5UTFmdGlmMGg2Q2lKUThFbEV0NDFYdUhYSjZNTUhXSVYtSmg4enVjYUc2b2ZWcHd4dlRhdy1uaHhlOGZwTGktLVZNSUdEY3NFZHp4c0M4MGFhRVptWGpYODQ5aHBidWU0VlRpS18wTDYxcU52ZE00?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tampa Free Press",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-20T23:25:21+00:00",
+   "fetched": "2026-10-21T22:58:20.002392+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d604db4caceb7a6d",
@@ -13254,6 +13420,32 @@
    "score": 2.0
   },
   {
+   "id": "bfc5b81c14927a7a",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Shooting Stars in March–June 2027: Gamma Normids, April Lyrids, Eta Aquariids and More - Star Walk",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VQnFvM2dmbFVLc3dJaVpQaHVYV1Z0bmZPVWM1bEhjRDZuQS1VcGpEbHp0ZzRZX0k4TVdVcEZ3ZVZteEsxdExSSTN3NVVmUU8xNkZ4VUM2YlNiY3NIcjJSZkpfb3FnWjRDZFhJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Star Walk",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-16T07:00:00+00:00",
+   "fetched": "2026-10-21T22:58:20.002392+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "6a89c4bd2af7d492",
    "src_group": null,
    "src_country": "US",
@@ -19434,6 +19626,32 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "d9f09f14b52c727d",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "One roof, separate rights: Protection afforded to spouses and dependants under ESTA - Cliffe Dekker Hofmeyr",
+   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQQU9NOTVlbWdpUHVVeVRFTUpOWVNJTjBCLWF4RWhMZUVZNVBIenBNQUZvRlpOTGEwMHJCUHN2U0plbGczeXZ2ZkpTSzJYMWhxdXNPOWVnclBVeHg0U2tBWVlVUm5UTEtEbTBXWlJ2RjdpVDM5ZHBvdjVhaGpkRS0wTVpCb3ZqRlBtMl9KMURBekNFY1ZqUDNrckNUa0p2aHNYS2VjZ1V2SExGbXVZV09pOUJGLWFuWnVHX2xmbXZSX2JqZGZ0cnRWTXVnbU9rYW1jaEt2ZlR1bzBJamJPRy1EZHVheXJzM3A2aWNFT3NmalJqRENaNlp2VmNjcjd0c3BCWlU5MVZGWGtRalItVjBEbllyVlpjVVhLcDZUQXR1TURITEJIYUt6djFrZnB6SnBxTFJyaW4xQkwwaE5SOV9kR2M5VnJQLWRPbWFlaVloUTFQZEEyUHQyRHhB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Cliffe Dekker Hofmeyr",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-14T08:51:52+00:00",
+   "fetched": "2026-10-21T22:58:20.002392+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e0ff52118bd499c2",
@@ -81343,29 +81561,6 @@
    "prio": false,
    "score": 3.5,
    "groups": []
-  },
-  {
-   "id": "85e520686ff0cf2d",
-   "title": "Federal–Provincial–Territorial Immigration Ministers meet to discuss sustainable immigration",
-   "link": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/federalprovincialterritorial-immigration-ministers-meet-to-discuss-sustainable-immigration.html",
-   "summary": "The Forum of Ministers Responsible for Immigration (FMRI) met today to advance collaboration on the 2027–2029 Immigration Levels Plan and discuss federal–provincial–territorial (FPT) priorities. They discussed returning immigration to sustainable levels while considering regional, rural and northern…",
-   "publisher": "IRCC – News releases",
-   "country": "CA",
-   "type": "official",
-   "source": "ca-gov",
-   "published": "2026-06-23T22:55:56+00:00",
-   "fetched": "2026-10-02T08:02:50.604805+00:00",
-   "visas": [
-    "pr-citizenship"
-   ],
-   "lang": "en",
-   "policy": true,
-   "direction": null,
-   "prio": false,
-   "score": 3.5,
-   "groups": [
-    "chung"
-   ]
   }
  ]
 }
