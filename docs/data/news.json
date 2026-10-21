@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:03:03.100639+00:00",
+ "updated": "2026-10-21T12:01:35.641841+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 14
+   "count": 32
   },
   {
    "id": "us-eb5",
@@ -383,7 +383,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "ca-work",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 18
   },
   {
    "id": "eu-golden-visa",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 9
   },
   {
    "id": "eu-student",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 20
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,25 +605,25 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 16
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 30
+   "count": 27
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 21
+   "count": 9
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 8
+   "count": 22
   },
   {
    "id": "nz-business",
@@ -724,6 +724,80 @@
  ],
  "items": [
   {
+   "id": "e1ff48028ea24fd8",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Mỹ thu hồi hàng trăm nghìn thị thực, kiểm soát nhập cư - VTV.vn",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzZQaF9GS1JvZldwWlIxNVFtbDAwZGxoTTczMk0wUjZjVFA0NWdGbG5MQVhPRXlzajNPdFFGUHoybGxTTGdkNDRxSlNyZWxtejlvOUZMeEZ5UkZ5M0U5ZEtvWTFHSGh3NVBUaS1XeWVxZTljZVNkZjdHX3FVbmlaV2h3d2JoUHRhWUNqRzEzaURpUHZKWFE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "VTV.vn",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-21T11:27:00+00:00",
+   "fetched": "2026-10-21T12:01:35.641841+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
+  },
+  {
+   "id": "0b570a41742c89c8",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "'Substantial hole' in defence of Gaza student visa denial - RTE.ie",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbXYxMFZQMENESy1fME1Vc25PZjZiUzd5WGo2R29zNU92bEtLZVlWQzZWNk5pNEhHcHpiQTBlam4wTUhlM1diUm4weEo2SUxhSC02ODQ0cGNxci1hc1NjUV9NVEhSQ2hsbnpheg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "RTE.ie",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-21T11:05:18+00:00",
+   "fetched": "2026-10-21T12:01:35.641841+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "69b675a3b29d1d72",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Full List: US Names 50 Countries Whose Citizens Are Subject to Visa Bonds - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMzI2aXV6ZVFoUm05TXJRM3NKdkp3b0JoZ0JjNGpRdm83Uk1BMHNhakVwSnFUSW1va3JLbVpIOEpPTFpsSzVPRldUdXlHX1pZeXB5Yms0UEFZRGxTNGdoX2RiRnRaX2hnVTZCOFd1RTBCMmJrMHo2OXlpaTlpT3d1cW0tSE5HZEpiTjN3QmhHbw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-1",
+   "published": "2026-10-21T11:04:51+00:00",
+   "fetched": "2026-10-21T12:01:35.641841+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "6bfbd10836f35d4d",
    "src_group": "tay-nghe",
    "src_country": "CA",
@@ -748,6 +822,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "31eb435978a068fd",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Largest base port for offshore wind \"absolutely\" ready for 20MW turbines - EnergyWatch",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DVFIzTVR6R1JuSWFGcnJBdXlHSjdJSmJYbUU2QUJzMGswZm1Ha19LeVNpdUlCejFpb3JLdjFKZUg2b1BLT2lUSkl3ZEl6OF91bmU5X1RkT3g2dHFraURGaE1fcV9nNnFueGFR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "EnergyWatch",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T10:38:07+00:00",
+   "fetched": "2026-10-21T12:01:35.641841+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d5566228c4e667c1",
@@ -1391,6 +1489,30 @@
    "fetched": "2026-10-21T07:19:04.993593+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d87824e39f0938ac",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Offshore Data Center, Kalypso eye idle Gulf platforms for gas-powered AI compute - World Oil",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdTJSeGhwdmlSYklPV2U5Uk5SbHZ1dzVZX1paUy0wUXZfbFQzT0Y4ZnJVa3VCRlFwTUhoaGpEVGtUMi1jandWUk8tOEdEV21LLWh4SFRZSTN3cTh5YmVtZm1LckZjeVBoWXF3MEtIa2pSOXN1bXNtSzUzY2E0TlprNjVZUjI0amowelRzemlJa3JlSV92R0hqXzZTQWdmd0dJOWtkY2NTSDFpekxxbm54VGptU29vSV9RckdQaVBn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "World Oil",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-20T23:48:03+00:00",
+   "fetched": "2026-10-21T12:01:35.641841+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -9703,6 +9825,28 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "810c5a0642595bac",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "US Announces Countries that are Allowed to Visit Country for Business Without Visa - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZS0tR0oxbmJNbWcyNGdNSmQzOWNpckxveTI1eEhhdk9lbmpIX1hzZzNfbGJHa05aNU0tVDV4NVgyamlJcFRkNXptcWQ1WVo5cDFXcGRFUmgtRU9pUVl1c1dWYmN1YU1KajRfT19aa0xPcXF1czA2ZVdvd0cyeHNodkNoSlV1NXhIbDVNTS1mSDlDN2Y2?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-16T16:05:29+00:00",
+   "fetched": "2026-10-21T12:01:35.641841+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "f7e6e6f872f87701",
@@ -20123,6 +20267,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "e2b46fd296e41aa3",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "UAE: Indian embassy issues warning against fraudulent visa agencies - Emirates 24|7",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTVdJdy1zdGhqYXV3Qk1QTlRya1VWY1k0MGxRTFl2WGVpYWVRcDJTYlBmQnN2M0ZJR0Y4UDJraGhrdFNBUUkySmRXMUFLNlNSZmVtckRaR2RXVWhyQTRad2FySVlqNUpOSW82V0M0OGs4ZDNObmhQd0hRNmJtLWNKOXh1Ykx1NkM1UzV3amdJRXJZYVozOTJob2p4a3k1bkZoNVlIQ2VSQXZoSlBELXYwU0VBWkdHbGE3VDZVQ0ZTQWhIQmZzYUlzTDljbGU4X2lTc1NoTXkxRGRVMndXcVV4Z3BQVFbSAf8BQVVfeXFMTWQ0V3RsS3BrSG5KbVJ0alZfVEpfRlNrZ3ZEOXd2b1lKV0dUUWZVeW1OOXhiWTU3WjUxS010Vnh1NGl2UGZpaGhKOHdfZHBfak5XZ3Rhakc0QnBNU1FQX0VicldZT05vU01adXlNNUl5MXhadmdRYzk3WF9qLWtCZTFLRU1NX1RTMGk0YnJHNU5zcGZIS0JNbXRSaEZ3bDR0eGRzamRhMC1mMU56Rk8xcGNFUENWdUpqWWwwLVBRZ1FKQlFSMEN5UzJMdzNTUkZZb1N5Nnh5dVl3dW1nX3FENGhQSVFiVlFYVlVsYnJqM2ZvdmxBNHFjWXJQRkZSNGJv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Emirates 24|7",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-13T11:52:00+00:00",
+   "fetched": "2026-10-21T12:01:35.641841+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "0bda3a5803a7137e",
