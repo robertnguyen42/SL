@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T02:26:56.217763+00:00",
+ "updated": "2026-10-21T03:03:47.131448+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 18
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -245,13 +245,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "au-student",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "us-student",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 12
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "us-sheet-khac-2",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 21
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -611,13 +611,13 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "nz-smc",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "nz-post-study",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -1223,6 +1223,33 @@
    "score": 1.5
   },
   {
+   "id": "3600fb6e905681f1",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "Green Card Applicants Face 336-Day Wait as US Labour Backlogs Grow - Mwakilishi.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3JFWE50ZlBjSG9nY1VmT1N3N0h3ZzhQcjdtaVFDakdFLUJTYUItUG9CdjVydDRsQ0hPTlhEc2ZGSnhNcTFQc2hhT0Zlb0FLemlBTlNrUHRYS2haZ21OTkRrVEE1S0hwbGJRS2FDY19ZTl9uY1N5VEF4YXBabllmQ0paYTlLd3M1V1VTbGthQTAwWmhYRkhlU1lqeUkyVHFEY2dfWjhPR24?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Mwakilishi.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-20T18:29:31+00:00",
+   "fetched": "2026-10-21T03:03:47.131448+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "64b1ba28d7a28482",
    "src_group": null,
    "src_country": "US",
@@ -1236,6 +1263,28 @@
    "source": "us-en",
    "published": "2026-10-20T18:21:34+00:00",
    "fetched": "2026-10-20T18:36:48.120723+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5353fbfb6659b644",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "‘Tedious’ out-of-touch pro-immigration ad had only one redeeming quality - News24",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQemNFWUVxSFNZZ2N4THJWZnpmUUZkNUZQa3o5SzYxSWd2bzFwb3R5enJVUXdsazBDUzBmWk9yTGhmTDhSM1VLZmp6SDJnTVM4bmhrTEZUQkR6cVpkX0RJcm9VOXViSXFKTURVN3RuWG5wd21JeG5WVXRqLU5yTEJYWjc0eGJ3aU1Ld096VTNqMVJpdXhCeFhsUFpxcFVldW9rUWx0RWEtZzBDTW5sNkI5LWNsczVHZ0hmYjd0ZjlPLTFBVjlGRXRQZS1SN2h0YnlaWUZnV2QweWZGSGY0ZUNQWkxJN3ZyZlJNdGYyTTZxc2ZYejNYVkZFdllwRkRmd2hmVGc0OVJFV3AzLXNSaDBubTZQdkJSczlhUXfSAZoCQVVfeXFMUHpjRVlFcUhTWWdjeExyVmZ6ZlFGZDVGUGt6OUs2MUlndm8xcG90eXpyVVF3bGswQ1MwZlpPckxoZkw4UjNVS2ZqekgyZ01TOG5oa0xGVEJEenFaZF9ESXJvVTl1YklxSk1EVTd0blhucHdtSXhuVlV0ai1OckxCWFo3NHhid2lNS3dPelUzajFSaXV4QnhYbFBacXBVZXVva1FsdEVhLWcwQ01ubDZCOS1jbHM1R2dIZmI3dGY5Ty0xQVY5RkV0UGUtUjdodGJ5WllGZ1dkMHlmRkhmNGVDUFpMSTd2cmZSTXRmMk02cXNmWHozWFZGRXZZcEZEZndoZlRnNDlSRVdwMy1zUmgwbm02UHZCUnM5YVF3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News24",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-20T18:06:40+00:00",
+   "fetched": "2026-10-21T03:03:47.131448+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -7606,6 +7655,30 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "888ebc06fe259918",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "The Indian passport holder’s guide to getting a South Africa visa in 2026 - Condé Nast Traveller India",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVRvRjhRR1hzaE1HRThRSkNtbDZ3dTFPZWVjVHpnUWNxT014LXktSkdqTHR6d0ctd1RHNkFRZ1p6Y2NUWmZVY0d6WEN4ZGNGWXExekFtXzhHQWZadk9IRzJHdlA5Rzh3NnhwWmFLVE9LVHpRSktrNlowc2tYWGZtXzNYdjk5VDF6Uy1kOGtaQkY2WXFkU2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Condé Nast Traveller India",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-17T02:30:00+00:00",
+   "fetched": "2026-10-21T03:03:47.131448+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "6c8188898760cb6e",
