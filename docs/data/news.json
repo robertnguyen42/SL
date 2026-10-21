@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T23:54:02.780126+00:00",
+ "updated": "2026-10-21T00:31:58.040213+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -239,19 +239,19 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "au-partner",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 13
+   "count": 8
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 4
+   "count": 2
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "us-sheet-khac-2",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 23
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 21
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 32
+   "count": 21
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -527,7 +527,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -557,13 +557,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 19
+   "count": 26
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "eu-schengen",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 23
+   "count": 25
   },
   {
    "id": "nz-smc",
@@ -647,19 +647,19 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 13
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -790,6 +790,32 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "6e48bddaf48dff47",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Beware Schengen visa cyber scam - Gadget",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05T04tTHVxUms4TU1iQlhuRnRncm5Wa0Vubkpsa2FjLVBjRGIxQjdPcTdXaUdGV2dTM0JpaURIVWdWSUdURHZLYm91WUNCd2VCUk9Z0gFbQVVfeXFMT0FuZXlzNFZhUTdDZGtQQ0dHcGxWSl9KZzd4NXlrWXhaeVkzMU1mTGdaRTVJQ2tlMXowN2ZrY3VJTmhCRThvVFI3eWJrMFR1X2pYa0xjMDNhUlRrbw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Gadget",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-20T22:40:00+00:00",
+   "fetched": "2026-10-21T00:31:58.040213+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "97eebf7d80bb3700",
@@ -2565,6 +2591,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "e5b9643a7d9e3010",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US bars IT firm from sponsoring green cards, imposes $2m settlement - Dawn",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96VnBrMTNuY0E3YnpiZDNjSFk2WTRudld6UlNfTkF2cVoxSFdwd0VjejVjd1NfYk5KSHB3OHB4TTZEOUhKZVNJTA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Dawn",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-20T05:38:04+00:00",
+   "fetched": "2026-10-21T00:31:58.040213+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "8644e350280fcd90",
@@ -5024,6 +5076,30 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "8eb574c0dbfe35e5",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "Moving to Costa Rica? Visa and Residency Options Explained - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHFCblNrR3ppOUNxTk9ENlMxMVhBdFpDTEdtb3lueTdhME9tN0RWckIyWFZDaWgtUWg4WG1NQWZVYTdqQmxtcGkzNnktYmdTWjJnbnMxQ3FBa010LWZvN1JGdE5zTHFKOFdnT0cyMmF3M2pxbUJRQzdWY2QxY0NTam1JR0wyNkc2X3c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Fragomen",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-3",
+   "published": "2026-10-19T07:00:00+00:00",
+   "fetched": "2026-10-21T00:31:58.040213+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "9759bc6c81f9e399",
@@ -19755,6 +19831,28 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "f17e26b2aa2ca273",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "How to Obtain Ukrainian Citizenship By Descent - Nomad Capitalist",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGNuNldKY1JueXVDd1ViVnRjSnZXV1JnekxDUmRsZ2Z3UXVCd1ROWDV0b19rRURwSTRudFZOWmJwOUVWLWxEcnV5MFRwUVE1cVNGYXBUWWVYNWU0NTRKRXh5LWVoQkUtbzJVUVJVMkxrdzM1MVp4bEZxaVFaY09IU2EwVmhXdjlpWXJwWUQtX2xoRldpQjJB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nomad Capitalist",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-13T05:49:26+00:00",
+   "fetched": "2026-10-21T00:31:58.040213+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "419f2548ac1d74e8",
@@ -54230,6 +54328,28 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "48a6ffa7e0d6906c",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "The moment Australia’s immigration program went off the rails - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcy1xYWM2cG83UDdGendHdGtFU1BHREo4cXN4WXc5NG5SdXFGLUFxbTg2bDE3VUhWdnI3aXExWHlkckNhUmZKdGNHbFJpWmp0UERLWl9NbmVTNEZQMlNQcXBfd1dfZzZhV1B4SUc3TWRxcy1ZQ3VBRUYwdmZPRVdfTWJEMm1uOFM1WDZpRFRfaDMyazRvR2U4RGhFNGN4djdmNEIwbGoyVEdEdUkyY0x0dDdhVzduR1lSdmxxa2dENA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SMH.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-09-25T07:00:00+00:00",
+   "fetched": "2026-10-21T00:31:58.040213+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "8b8735dcc900e83d",
