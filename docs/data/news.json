@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T08:09:25.754035+00:00",
+ "updated": "2026-10-21T09:07:19.744424+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -269,13 +269,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "au-sheet-chung-1",
@@ -377,13 +377,13 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 10
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 12
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
@@ -581,13 +581,13 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 27
+   "count": 14
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,13 +611,13 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 11
+   "count": 28
   },
   {
    "id": "nz-smc",
@@ -719,10 +719,98 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 19
+   "count": 20
   }
  ],
  "items": [
+  {
+   "id": "cb98a69af0c81b3c",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Finland launches fast-track residence permit portal for foreign applicants - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGhYd2xOZlFPaXBEU3NiMGx0X2dBRUpnZ0VrQ2Z3QlpZYlNGOGdETDJYanN4RTluSjRnTnFsb09DanB0Tzc3U2syRVJYNkxKSHZuOHNYaXE2dEtWQjh6Qm8wbFh1aUl6RnBoa0tRT3o3N3FPOUJCSFRwbE0tTlBUNTRreVdEckRJLU9CN2tmVTVZb1BNZ09lc09EbGlCTG1SbU9Bc3MyZkhtRjBsMWd5Tk05NU53Z3hSLU1QaUVB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-10-21T08:59:36+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "426234c2ab4f4803",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Chính quyền ông Trump thu hồi hơn 300.000 thị thực Mỹ - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUnR1M3BYZWZuUk54T3lrNjFUaWowMjU4YW9FcW5CNnpETlRSa256alVtUE8tdUlZb0NkNkJkb08tMnM3d25KOG55TmRFWjJ3ZWRwWm1xWGwyVXdIR0hEYld4cXJxaGFVN1ZtM3hGNlR1Y1N2cUNQc2RJS056U21RNno4YVJ5Zw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-21T08:52:50+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
+  },
+  {
+   "id": "a768a50c2f7b5c73",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Mỹ thu hồi hơn 300.000 thị thực trong nỗ lực siết chặt nhập cư - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXZDM2ZkUzZGcmhQdnlIOWRBbnJicmcxbS1pZ25TVXlYRzNFRjBzNjVMRkhSUzc4SFJYN0VVUEpqdk9pVUNPLVRjSE9vdHB3UjQ3dlRMcXoxNy1VUDFiX2wzc1A4WDFxc3dLaUpSeVNTLUtIcHlzRlVCR2pEYk1CYUNlLXhTZVJsc2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-21T08:52:49+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
+  },
+  {
+   "id": "8c67c36c9ee8aac5",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand court rules employers charging migrant workers overseas job fees is illegal - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGRIa2dUajJNYXM0eWF5QWlVQU51VXNnTVhUV04xX1pmVnk2RG94Y2hzTEhjQnJkTl94QTB2VXNwNVVZeGVQaTFiVFlwMzludHhNUkxqODJxei15Y0lGM1JGWG5qZVQxUE02UlJkN0g2VmgxaDZuV3cwWGRldFBycThIcHNDVDFwSXdKMy03M2F5aUNOaUUxNFhJUUFRdHd2NHQxb1JPVUZDcXlnOHhSZUVlUndIX3ZTS0g3NHhLMVR2VGhmbXU1RmIxeUptcDFpbDdUNV8yOWlxVy1FZE5jOXkya3PSAeoBQVVfeXFMT09sdG5md2hpWk9rY3Eza1Rla2MweXR1OURZb2I5SDl1VGdFZkVmVjcxdWRZeEFWYWNBWk43SWVWakY4eHMzLV9oRWk3N3FYTTFQSklzemZSd1BsQzhjb0J0RGFEcTA5TUFpVUpFNlU2RnFLaXVTTVVWcVJaTTlXWnRZM3hPbEVwMjNfMl9aSjN2eGxlS09fXzRydWFMTl9lVmFjNHZmYVBmaUVManF4UnZQVTY3MFBlWHNkSTVuVEZkUkhPMUYtbnh6RTNKUFdPSWJoSGNpMGpJVzQ4WG8wVjdfSlJ5MWU5WXVR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-21T07:57:11+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "6e2cd4f14cc13882",
    "src_group": null,
@@ -1207,6 +1295,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9ff2641f0bd73da5",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Could Ilhan Omar lose her US citizenship? Former immigration judge reacts to probe - NBC 15 WPMI",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb0MwTzdoTVBYck5DUm5PanZvazJ5dzBlcG5kRXJQOGJwZF9TRldzQ3pZMEJFVE9ySkxIYmk2c0pUSk1uTlJMUjEyYnF5aWlLXzRndVloVG1qMF9SV2ItZnZ3YXZQd3lRWHk1ZnB4czZJNTFJOXQ2ZzBLOTFRUlpnZ1B1VHZmbzg3R2R1SUY2T081U1dtRzNvRUNaNlVkcE0tTVIwTVY4Q3VTTXN0MUNSQ3RfaW11aW80VHNvUkpXYmFXNzhhV3Z0T1VzbUxFZVZuclRkQ3RVWV9XWmY2T3BSdUJFLThEZlFwVDlVaTRFSFdBdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NBC 15 WPMI",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-20T22:13:28+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -3397,6 +3507,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "3ce767b7f29cfab5",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "English language requirements for India Iconic Work Visa and India Skilled Work Visa - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtbmxHQ1Ywd1NIQUtDN2dXaHBaLXdFNDdVdGxJOGhyUFVxQ0RmNjlWY2pUeHYzUjZBcjE3eG9ydTZlOVQ0bF8xeS1VM1JsNmdRbGl6OTdGNDFVQkwzWFhsX3dn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-20T02:46:48+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 5.0
   },
   {
    "id": "34b1b11bf54bf357",
@@ -10647,6 +10783,30 @@
    ]
   },
   {
+   "id": "b48b8c0abf68b79b",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Türkiye Set to Deploy Osman Gazi Gas Production Platform in Black Sea - Offshore Engineer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZDBnN21oWkNqR2x5S2xRQ2o2NS0zNEdnSjJvOTEwWmFfbHRjM3Q3akNfNExHSXZ2N25TaERWcVFFRk84OHZoQTB3dzVVU3RtZFpfTHpIVndEZ1B0cHNNMlhiby0xb2VzejdpSnJBaDVZMzhZSUFSS3hmeEJBV3hoNkhqTGZqS3ZNSWZLY3R1RllqSUpnM3NHVVcxakpRbHQzdU9wTGtULXA4RTQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Engineer Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T09:47:18+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "049fb3041c6d17c8",
    "title": "Watch out: Fake ETIAS websites are targeting travellers to the Netherlands - DutchReview",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEN1aXJtbzY2NE9yY1JlSy1IWGZZbzkwRy1yUHZCNUp3S3oyZzBfX2RLcHdwZGRSS2g0VG5kZVR6d000NGtWOXQ4bVVvMUdsWm5ZQklwYkVxUThTcWpBMl9hTDN5S3Izc3QwVTBKVFhpaFJVQW8xdWFaTk1oR25iWXV1eC1CeDNhUk1qVmhsYVhwbGRKaUF3bExn?oc=5",
@@ -10942,6 +11102,30 @@
    "fetched": "2026-10-20T02:25:17.686604+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b2f562d33a0cc4db",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Northland Power commissions 1GW Hai Long offshore wind farm - Power Technology",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONkVkNmVZN3RCeWZ0UVNuZUtTWDdHV1Q3RFpNT2l6Wlg4UHFXY2wyb1lEOXZqTXhPS0JOck9xNTFzY0lrWUdYRlNMdlB6STRoeDY3czlacFpKdGhyWU5KdGZES0xNUUdEUjYyV0s2aGhFOXNuY1ZkNjRzOHo2RVRsV0FMTG1BZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Power Technology",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T07:32:30+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -17045,6 +17229,28 @@
    "groups": []
   },
   {
+   "id": "c9bfecfb3a26d571",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Regional workforce to dwindle over visa slash says peak body - The Great Southern Herald",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYk5Xdjl5OUtvdXBNZVBuUHU3OG83TkY4cWpFakw5NGctREV2eHR1YUxUaEw0VWg4aWducy1XelVOU3dVcGwySGtkOGstS0tHMUhjWHVNZC1DaVdQUFFEZW8xbkNjZGNoZlFEX1h2QmtLYjRaTVJMX2dnLWVSTTM3ZjI3RkVnVG1Ua1pnYnhPdW01eWN5Zm9qNVZNazhjSWVGSUdHX0NUVEthUmppc2JQNFpKR3A5MkhKV0pkWXZpTjNhU21iVXNQYXZSSUdXa1JXLWRrZTdjWDhMY053SUJfc1VMd1RMajVFTDZRazViRUx4Y3Y0VGxKV2dMZVBldw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Great Southern Herald",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-14T10:00:00+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "7ab877190b53249c",
    "title": "Metro Atlanta voter registration nosedives at citizenship ceremonies - The Atlanta Journal-Constitution",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1liWFg4alpwUDdXa1dSMjBsQVpDSkVLVktBR1FzTHdTeENnNzNaZkFOS1A5eVpTLXlPaFNHT1RSOFZ2RnBlQkhzVDcxYUp5Z0lBWnE5Y0FWV2sxdDZJMGRRNXA2Q1Q1R3BCZHp2Q2lCNEtBd2FHcHNGczlZdjlwemx0ZlUzQmc?oc=5",
@@ -17628,6 +17834,28 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "bbb6cff55b0de313",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Lịch sử bí ẩn của các siêu khu định cư 6.000 năm tuổi ở châu Âu - Báo Tri thức và Cuộc sống",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQVZCSXFtNGE1TUgyYnhNWmxFbWNWSV95UmFWa21kN0hlWlJlX3BFb1FUTHJ2THl3TFhjVGY5WEJNdF9kbHV6ZkFES0hYSjI2LTYySlpadW5ZY3JpYXpTSng5SjdBMHZZQnFYUmE3bzUxbkhObGFIdUI1M1VHZjRLd09JdVZfSFBDNzhvUFVIdkdkV2Z0SUwxNWZCVURnQ3p1NG9CT0Rva1U5RnptcFN6a0FTVnM4ck9aYkU4NVFn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Báo Tri thức và Cuộc sống",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-10-14T06:02:00+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "aa14806394cc26ae",
@@ -20681,6 +20909,28 @@
    "source": "eu-citizenship-investment",
    "published": "2026-10-13T05:49:26+00:00",
    "fetched": "2026-10-21T00:31:58.040213+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a42223eae6fa4472",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "How to Renounce Your US Citizenship: The Ultimate Guide - Nomad Capitalist",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdlRzdi1mZDRubVJINE05WEVIZUUzRk94b2dXTlR3MzE3RkhQa2ExV0hPbGNCQlFISlJ2R0RuSm5uV1gxbzh1cmE0Y1FDVEhOR3FVbjQ0SVdrd1NHOExSSDJZajV5TlB0U1ViWkhCVWsyR1U5bEk4TEw4cVc4b2Q1RXlXSzRMN1FjUjRvWFRkbG80N3Vw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nomad Capitalist",
+   "country": "US",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-13T05:49:25+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -33348,6 +33598,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "89ac493ea9dcd4d4",
+   "src_group": null,
+   "src_country": "US",
+   "title": "$100,000 H-1B fee – Current status - University of Colorado Boulder",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OekdaUHdhM1ZCZ2ZLRDdQVDd0Y1VXZVpGNDBtU3Y4QzV5RUt2NW9NWHM1MkZGdVA3VEdCTkNkQk9jb2pIZWo3aWNQWmdfWktiTHo3TzkyU3ptQ1pXVnY5bzVZazZqX1BhdDJRUVd0RUJ2Rk9iLUlGQ2ZnNA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "University of Colorado Boulder",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-08T01:27:24+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "9f2cef75d1515510",
@@ -59336,6 +59612,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "8b56dbc3020794fa",
+   "src_group": null,
+   "src_country": "US",
+   "title": "H-1B Fee Extended Through September 2027: What It Means for Employers - International Legal and Business Services Group",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMk9FSmwyT1laVmU3ckVmSnFlczFtaFRmQkgwV3JjSEpRNDA3VGVoWklGdHVNdmp1dldaelRzWUpiVjRBb1I3Wm1YV1VFeVlheFZ3T3Bydm4wR1Npb1c5REptNmRmaElCTHNHZHU0OEY0bjhwcE9NU08yRGwtYmlrX1NtTjA2dWZqU29admd5OW1paUxiSzFfaG1DVU1lTlZ0MDRmdUZoOHdrUlVWQlE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "International Legal and Business Services Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-21T09:07:19.744424+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "15deb630b6ae09dc",
