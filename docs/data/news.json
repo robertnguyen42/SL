@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T04:03:02.918673+00:00",
+ "updated": "2026-10-21T05:02:36.247325+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -281,13 +281,13 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "au-sheet-chung-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 16
+   "count": 31
   },
   {
    "id": "us-eb5",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "us-student",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 12
+   "count": 39
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-pr-citizenship",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -527,7 +527,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 28
+   "count": 17
   },
   {
    "id": "eu-work",
@@ -611,25 +611,25 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 25
+   "count": 27
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 10
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 18
+   "count": 14
   },
   {
    "id": "nz-investor",
@@ -653,13 +653,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -719,7 +719,7 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 18
+   "count": 11
   }
  ],
  "items": [
@@ -749,6 +749,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "defb84d1052255df",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Tourist Visa Denied For Indian Family Over China Travel History - Trak.in",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1BvaWZzUVEyTl9QcVo2WU11LXM0STV1WlNOeng4N0YtQXJiR1NBOHNQUENNMzhwd2pwQnVQcGo2dm5vdll0eUl3eHk0dTJ0VTdmTzN0OE94N2ZRU1kwUGJ6SHFPWTlFYXd0WkF4ZG5yYXhJcml3ekZDamdEcy1jQ0ZuSXFoMk5vcEE1WkRTcFNaZVcxeHc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Trak.in",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-21T03:31:14+00:00",
+   "fetched": "2026-10-21T05:02:36.247325+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "184b6bbbac69f9b5",
@@ -913,6 +939,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "0b3cb96d93a81070",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "‘Keep Your Services’ Say Asian Community Leaders, Amid Fear of New Public Charge Rules - American Community Media",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQThxZEhDQkZxbEw3Sm5uVUc0YVJzUTZoZHNWY0FoU1R1RjFJb0VfWFFTb29vMmhHS3dLUlZoaWZ3QVRlOWZ5U0I2Y0RfbUQ0OThUWDB6OXhyVWNvYXJ1ZHUyVVAtUHlYdzJLOW93UC1seHloQmFzMTBPSHAzdGF4N21tRWt0MkloVnVYTDc0QkpBVDJfSUNheDM2SEkxcV9DMVI0RU1uLVVxaEYxYnA2d2hoX1BWQ0NlZ295VnB2SDRPSHUtMjhXaWNpRQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "American Community Media",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-20T22:11:45+00:00",
+   "fetched": "2026-10-21T05:02:36.247325+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "bb23855d95c6f006",
@@ -4948,6 +4998,28 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "481ce329e06db2ea",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Sweden Mentions 5 Conditions Foreign Parents Must Meet to Get Residence Permit - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSzdqVW5lTkdBdWVNbkdNVHpsZ1BJbWQ5N3Fwa1dEUm9UVW5LMFhQbGRGN2pRdXloelVTOU1CejZTc05KVE9rU3VDaGV5MG9uSF9xcWlXNHJFWGYzdWt3X2xSTFhhQlViN2lNQ2hyeUZwb01mYndRWHp1d0dkZjNJa1pEQWZBNHNFNkFtejk2eERaTm55dld0aTlHeG10WGhjc3Y4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-19T11:44:07+00:00",
+   "fetched": "2026-10-21T05:02:36.247325+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e2ee61e6db68e7fa",
@@ -23324,6 +23396,32 @@
    "visas": [],
    "groups": [
     "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "2f0e3c5f9919eceb",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "¡EL BARÇA YA SE CONCENTRA PARA EL PARTIDO DE ESTA TARDE! - OneFootball",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZHJOYWxaWmRqR3JZdnBMOUVTM3RVd0NkMkRHa19WZE1wZ3ZiNlFoUDBLRDRrRGF0MTU5LWZSR3B5TnJ3RXFsd1FLNFVwMS1NcnBSU1NSSlRPa0RicjZuZkdZVnVoeWM4Qm5NNkNiSDRqOEZrYnZhZlQzRGFkWEtEZ1lTMWxDdmx3ZGxnMUhkTlMtSzd3OVctV3NicVM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "OneFootball",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-11T07:00:00+00:00",
+   "fetched": "2026-10-21T05:02:36.247325+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
    ],
    "lang": "en",
    "policy": false,
@@ -44664,6 +44762,28 @@
    ]
   },
   {
+   "id": "497cda2c3dc152b9",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Migration Institute of Australia: Keynote speech - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzlpRlYzcHFGWFVCS0d1UWFFMXhHTG82YkdtZkZMeExLZjFCQjZFRUI2OXJ2U0U3ck9wU2taNFpYUGVqZzBUTDI5Y0c3QnRmM2V4M3AtcVdFYVRTc2tMdUpjRzA1YWJzTHNBWFZTWmphLVZtbTVfRnlsWG5aUV9MNjB5Q0k5aEpBUXgxU0NJU29yV0JSTFdYNkNheHc4RHdkNHBoS1ZoaVBGc010cnlVY3h3Q2ZScWs0bVVRYVJhTnh4QUJDd2d3SnVrcE4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-02T07:00:00+00:00",
+   "fetched": "2026-10-21T05:02:36.247325+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "12fec60a071c0c81",
    "title": "New Zealand Revises Age Rules for Partner Visas, Lists 9 Affected Categories - GistReel",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREpSNW1lWG1vQm9sUG5yUjFPUGt3Tkx2VHhFUW05SU0xejZiRUJiWlpBWHllX2IyYllhanpKOHh2YlA5MlRybk1WZ2tLdm5TcVNDRUhwLWtwZjlyeThRaWx1dDV2WDF6dXNuT3M2Z1pqVUxDaDUtYjlLSEhUajZxR0RIQWhTemp2SE1TYjZsQlEtMjNvc2lMX1k3dmFCUmh5ckRZ?oc=5",
@@ -52408,6 +52528,32 @@
    "groups": []
   },
   {
+   "id": "d2b510905c727eae",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Shabana Mahmood to reopen scheme to resettle refugees in the UK - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xc3NLeWFjN1dJUXhYY1pWclI1LWNaUXpjRXJybDR5YVB5NHMyQTZUa1RVYjNvMzMyUENSUkxMRF9YV1VDUHpma0NJZm9zTzZwMy1sVXJIZFlpd2VMclE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BBC",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-21T05:02:36.247325+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "0d330a644266d953",
    "title": "New Brunswick Issues 610 Immigration Invitations in September 2026 - ImmigCanada",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aTk4xM1NHdW1Ya2cyeWlYckowOVNrRjNCbER5TTZLclN4TTF6UTBqcldFLTh6aTdseTJpd1R1U2lDRldsb1NIRU1sUThDbUJjNFR2eVVoSUVHVS12M0NsNEotYzBKZURUUFZzbXRKYl9JcFJseE9CT0Z4cmo3Zw?oc=5",
@@ -53513,6 +53659,28 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "385164fe7e115d43",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Angela Rayner criticises worker visa plans on eve of Labour conference - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tOHkyeExHQXFNdjNDQ1IwNXRJRC1LdkEyM0ZJWk5TOXpBSmVkS0hvUnN6cHIyT3laR3MyNDVOODVNZVpISDA0dE5PSGkxemZyNGJpTENMZzhFMmc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BBC",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-26T07:00:00+00:00",
+   "fetched": "2026-10-21T05:02:36.247325+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "fa7848450636d0fe",
