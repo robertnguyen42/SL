@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T19:30:03.666458+00:00",
+ "updated": "2026-10-21T20:04:02.832846+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "au-en",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 10
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 9
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -497,7 +497,7 @@
    "id": "ca-sheet-tay-nghe-1",
    "name": "Sheet – Canada – Tay nghề (1)",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "ca-sheet-tay-nghe-2",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 10
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "eu-student",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 9
+   "count": 22
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -653,19 +653,19 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 26
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -719,7 +719,7 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 15
+   "count": 8
   }
  ],
  "items": [
@@ -15037,6 +15037,28 @@
     "chung",
     "khac"
    ]
+  },
+  {
+   "id": "8198d896c8d0a630",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS Final Rule Ends 540-Day Automatic EAD Extension for Key Categories - Mintz",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmdHc1hlRFk4SDh3aktDci1CZmxQSnRxaDMyRjNFaWhkRUw5blpQU0hVSF9xNHV5cFljTjU4WE1uNVZaQjhCb0VEWnE2NW1obUNERGp5NlZFOEpkbzIybUNSR0I1N2ZnNUc0Ry1tdFRkNmJZVnRGZkI4clhrTFVfdGJCVzZDUjBuMXAtNlRUM241bE1waTVpMnN0b2dOOW9NMmdabU1JWXJyWV9qa2U0QVphbFZCN3hHQ2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Mintz",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-15T12:00:00+00:00",
+   "fetched": "2026-10-21T20:04:02.832846+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "bed1aaa6a6a1677a",
@@ -30815,6 +30837,30 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "bf238769fc7612f7",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Does Your Ancestry Make You Canadian? New Tool Checks - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjMwaEhCbFh0TEJOcU40SEFtb0lucDUwMkZHanRPS1dOS3lqU0JWdEhpT2pZcHp6MVVCY0FtRGc0eF9SOS1CMEp1TGhGWXk4Wi1zYUdyazMtM0lKam1GWVdZREdTWHY1U3FrQm5FQTZBZWdLQ2tpRVdxM1otLVNqTVhpOWM0eVFxWlNPWlFEbHA3aUpkbDh0ZWJwUklDU1lSeWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-09T02:21:37+00:00",
+   "fetched": "2026-10-21T20:04:02.832846+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "0b9b6327f68bed75",
