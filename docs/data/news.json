@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T13:17:20.494294+00:00",
+ "updated": "2026-10-21T14:09:27.942652+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 13
+   "count": 39
   },
   {
    "id": "au-student",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-student",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 19
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 14
+   "count": 27
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -629,13 +629,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-business",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "nz-family",
@@ -719,10 +719,84 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 18
+   "count": 16
   }
  ],
  "items": [
+  {
+   "id": "03b295b56d3f39d3",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Portugal Golden Visa in 2026: From Immigration to Long-Term Wealth Strategy - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjFTSUN3dGNQSmROSXJMTWVLTEIxbGU4X1dtRHpVVFlGRGNsaW56Q2NOcjBENlV0RlJPNjloSHdCcjBBVjY2Qm1BVmxQSlpETUYwM2s4aF9LdkdwS0JTVzRoOWR4UTZuUDZWUUdkXzhydEUyTEF6QU9OdnNUY0swVHhiU2hfbi1RUTBmLWN2WDk5SmtGaGg4N01zNUcxeVRQQ2dmZlFhRVVYZTFEZC1SUnItZVhCM3pFSnc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "IMI Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-21T13:59:02+00:00",
+   "fetched": "2026-10-21T14:09:27.942652+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "c270d8ff401f2a81",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Government Lists 50 Countries Whose Citizens Are Subject to Visa Bonds - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSG5PUUQzaFJfUTdnMFV1UnBvWFcwYS1tdUN6akhfbUNMYlVQODItWHN4T0dHSDRYQ3lfRWlJMVU1aEk1UE1ZbHRmaFItaXBJVHRZVkFxTnIyMVo2SXZpdmM4NS13Q1l6TzNvc0puU0s2bzVnM1I5bUhtczVEV3E4WGFQUGxDb1JaajhoNHp2X3VpVE9Yd1hGQW1R?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-21T13:51:17+00:00",
+   "fetched": "2026-10-21T14:09:27.942652+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "803755351b0461a2",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "US Gov’t Seeks New Review of US Wind’s Maryland Project - Offshore Wind",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVndjemZTanZhTWlGVkQ3SjRRend0VEZCZnNZN1lRQkRXMnhXTHNhN0FrS0NVYzhnSmw3c255OS1LVkk1OWhmQkEzS2IxMEo4Z0VocnNRLUktZFU4T1pDLV9NQm5nVkFpSWxfZE9HM1R4ODR1ZTJMWmVMSUg4VWRsMWdZUVM1YnNoTnRoV1V2MmZwY0w1Q0U0WA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Wind",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T13:14:01+00:00",
+   "fetched": "2026-10-21T14:09:27.942652+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "f1569d548345070f",
    "src_group": null,
@@ -790,6 +864,32 @@
    "score": 0.0
   },
   {
+   "id": "8e77064a1e70d8fc",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand launches 2 new work visas for Indians, check eligible jobs - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZmJDZ0JGcUo3cFRqVm1BdE00SzJ5U2hlc0t0MUJ3Mi1kYjc2TmNjRHdWSG50UUxwRm9Ua2xLbFN5YURJbFNlcllZdzBuTnRvYkV4cUVOZ3N6TmM5bHFDQmxYUEVFa0RENl9zUGN5SjVLMDk0d2ZCTkVOOGliOExhM1N3YVo5SDRHempvVG5rNmowdjdVamhIcnFoUUVBUkxvcW11cXdFNDFkN3NnajVlVUgxcERvd3JWWGtjd1p1Zml2WXRYRWRZV1V3OG7SAdMBQVVfeXFMT2ZDWGJLcXRaVXQ5WTlsRm55Z0FfNXdzNkpEMGcxTzJCU1JmWTdQWU9VRUJPajU2S2hNYm04SmlvYmZIRU5GcG8zNUNjajkwMFhWNEk5RVFXOHF1dHMzbG9iUHlPdHdNVHRCdFJWZ1ZYYzR3V1QwODNMRDB1SHpsWHN0UTIzS0Y4cS1OMGdRUC0yUjJDNnFBa2dWVHJfcE5YZDA4WnREYW1RNGk0cmNsakdOWGR0YUs4dWN3Wk0wOVB2ZTV6TVFuV2FqRWdleXNzdThBbw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Financial Express",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-aewv",
+   "published": "2026-10-21T12:45:03+00:00",
+   "fetched": "2026-10-21T14:09:27.942652+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "dcd0bd19dc9d45f5",
    "src_group": "khac",
    "src_country": "CA",
@@ -805,6 +905,54 @@
    "fetched": "2026-10-21T13:17:20.494294+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "41538d33df63bdc0",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australian gas project enters home stretch as developments in Mexico and US Gulf make new inroads - Offshore Energy",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSTdLUDdSemNSamxsSnR5VW12MWFuYTFBS2t4Vk9ISTdickFUN2Jxak9PR2xvS2NzY2NuN0N0cjdhU2s0QXZRYUZ6VmxUR2tleUdtcHNNdlBmNFllYlNlNUg0R0F3ZFRXQ1V5ZkNYQVIxT21pbFBvV2RYY3Jvd1ZlaXZhcXVqUzhBOEl0Qm9uRzJaNkVrWUxEa2Q2Q3F5NXNHcUFFM1BIV3NHSkFDQzUxY3ZPRDJCbzVEa3B3b2c1WGJxbFhtakZkc2RUTVJreDIwSHpSYWZuVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Energy",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T12:24:53+00:00",
+   "fetched": "2026-10-21T14:09:27.942652+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d66444a468e29058",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Canada Stabs Trump In The Back With New Offshore Wind Plan - CleanTechnica",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWMyQkFRRm1mb1czZHRvbWN4Q0NDTndfYXVraXJ0SmZpUHEtTEVfWXlmNmlPWFA3SU1vNm9rcVp6cUN6RmNBdk1WcUlkeC12Nm5oMXRXY09BR2MwT1Y3SW10cmM5aHg2OHI2cUZqWkFlVTQtMlM2aGZKdURnRVIyUnkzbmJja05jWVNZUVpCMDZLT181dHN5UmVHLWx5WDBlcnVJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CleanTechnica",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T12:23:45+00:00",
+   "fetched": "2026-10-21T14:09:27.942652+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -832,6 +980,28 @@
    "direction": "siet",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "026e47d2f5f54ae2",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Steven Gavanas Drives Offshore Vodka’s Global Recognition Following Double Gold Win and Forbes Accolade - USA Today",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYzZmRGplY3dkT0tDMGJkejdwVGNHbmRudHRIQUNPMVJrbXRMYVpmVnV1ZWdNcjZFVGNwWDYwZ3k0aVZadkVIRGxRTk1iTmx6RmV5TWFrRnFmd29qbThfQzVyTEN0dC1IOGp5SzUyTmtBSmdIdEVkVGpPUUd0dnVlbjBhZWN0cUNXaWJNUEtzTThHRU1KTmpMOFdRY0pLWmRLNDQ5d1MyRjhxcHNoWkN0SmVDR0txN0RyQ2lhZ3hnTU9mTm42UlZrSEF3ZzN3R1JKSFFRYzVlc19qOHozSUNBMFczRHkwS1VxY3c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USA Today",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T11:11:31+00:00",
+   "fetched": "2026-10-21T14:09:27.942652+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "0b570a41742c89c8",
@@ -5721,6 +5891,28 @@
    "source": "au-en",
    "published": "2026-10-19T13:30:00+00:00",
    "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "66761cf8cbacd0c6",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "New EU visa-free travel scheme for Britons has been kicked into the long grass - Majorca Daily Bulletin",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX29qeldReUFSZ1dja2k4d3lSczdrSl9yTk1qXzhKdHJUMWp0d1hzVUItNVQtZ21CV0pFM29JMUVQWGZ5WFJTcFBzQUtLY2RsNFRkeThuM0FFdElCYk1BN2wxLUM3SElYUlVqVXRNQ3JJb0EtVW90NktaS24ydF9tMVJsN2hXSnppSVBGRk5qV085VWNOQ3pWaW5iaXVNWUdrNnlGbDh4UU12TzMzV1pxaEdWVl90QWpDNENDcnNvVC1naUFOUk5qU3Q2MXd0VFlYOVZNajVvRXhrRk5NQThV?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Majorca Daily Bulletin",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-19T13:25:06+00:00",
+   "fetched": "2026-10-21T14:09:27.942652+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
