@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T17:04:11.480269+00:00",
+ "updated": "2026-10-21T17:59:33.818738+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -347,7 +347,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "us-eb-work",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 20
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 9
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -611,13 +611,13 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 14
+   "count": 28
   },
   {
    "id": "nz-smc",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 20
+   "count": 14
   },
   {
    "id": "nz-investor",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 16
   },
   {
    "id": "nz-post-study",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -723,6 +723,28 @@
   }
  ],
  "items": [
+  {
+   "id": "632b454f368b3f85",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India-New Zealand Trade Agreement Adds Visa Pathways - Erickson Immigration Group",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsUUtBX0JuOGtsNXBhRTV6R0VWd09jc2R0RjdTc1F0QkVsdlpKZzlyZlE2czVSZXd4RU5oUURmRjVpdnA5VC1FMC02TUdiS2trb29QUnpGaVFQLUF5SUFmWGozWjZoSW9wTVlYS01HVmpuUHAtVlV1eERVeUY?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Erickson Immigration Group",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-21T17:49:32+00:00",
+   "fetched": "2026-10-21T17:59:33.818738+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "1120c11e1df5eb3e",
    "src_group": null,
@@ -863,6 +885,32 @@
    "visas": [],
    "groups": [
     "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "99a130dba7792823",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "What we know about death of U.S. green card holder in ICE custody - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0drZlZLYTU5OVp0X3FtT0ZBMG91RlZFa2xOVnBMTmNFam9yanpVRm5QMHUtcjlFTjExeDRfczAyZ3F2akhKamk2dDFJMDJGSXJuNXNSaHM2R25HX25fam5SNWVlT3VqTFBxMmdQOXIxdUVPV3NRVEpPZFlIQkcwQ1kwVVZlWHZhLVo5Zw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CBS News",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-21T14:18:00+00:00",
+   "fetched": "2026-10-21T17:59:33.818738+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
    ],
    "lang": "en",
    "policy": false,
@@ -4076,6 +4124,30 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "5b33f75328abc0de",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Travel formalities to multiply and cost more in 2027, says Visamundi - Travolution",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWFwb0JKNEpRTEpidUpleUJ0U1U4b1Z2VTJOZVZ4ZFd3YXpEM1NaT1F5U29oV1JSS2pZX0hsVTF6X0ttT04xdW11TmZCV205eDNTN0VXZnI2SnhoaWJ0by1FOXhVRnpVLWtYVHFKT3JkQ3lobHhsaFVRMk1zXzRJYk9GVFd3aTV1TmRzQmRBQkxVcHFMalFUYmR5VkNGamk2XzdTVHNNTnZISWs?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Travolution",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-20T07:00:00+00:00",
+   "fetched": "2026-10-21T17:59:33.818738+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "48caa208072e012d",
@@ -8198,6 +8270,32 @@
    "groups": []
   },
   {
+   "id": "4fbf97dedffd07a8",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS Increases Immigration Fees: New Costs for Work Permits and TPS - MundoNOW",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWFJcWtMVWVCdEdCWGt3RGlhMkl4dENDWkFuREVseE1xX2s4ZEhKbmR3dFpUMXFRZXZrWUgwUm5YUHBQSUdBMlhlOW10a2tfUUlFZ01FV1Fna0RkNnRsVzRtdHVWelI5bEc5c2VoNzQ1emVjUFhqb0ZqYmxxQ0dES01HY3BOWW9pLU9uNkZGVGQxT2hiZlBuazFoY3k?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "MundoNOW",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-17T22:55:40+00:00",
+   "fetched": "2026-10-21T17:59:33.818738+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "6058535c47685c97",
    "title": "Candidate’s “60,000 Indians a year” claim under fire as migration figures tell a different story - The Australia Today",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX3N4YWpDV1ZWSVJOeDF1OGk5RDlZQU9OOG5uUWpSbkxVQllXU2Z4SG51ZDVSMDE3bzJpMVpvWDM1MURLbHlZbm1HS1A3MXZSRVdnTXItaXpDYVJpWUtmMm5DUE9rZEIwVDl3NFc3WGFJUDFGMnB1V0JUSDA0dlZrVjR1bTlkVWRBRXZ3UnFHdHM5eDc0bkxPRzN3NThJM2hMWHFQSl9vdk9MYmU4RGRqUF92d2plOTBnVlpKMWtfRXJaR2tmbktMenBB?oc=5",
@@ -8215,6 +8313,34 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "3e35594bafa70568",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS premium processing rule under review: What H-1B and green card applicants need to know - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQmlzck1FXzQ3NW9jbWZUOUIzc3pKdUtNaDVSVUw5MWsxVkVBLUdpMlRDQ0wzY0RSVHJzYVAyY0pZQWxKTVNscHV5NGI0MW9OWlJvci0tM0J2OEE5UkRLcTFhUWx1dG9zcTBiSXhPOUtjYlc2WFN2bWdmbnI1Wk9WOFNRbUZIVGM0dzQxZDZmYWJSSkxnTGF6VFRyMUNaXy1BMENoT3dHY2ZKaER6RnVLejBkZUVvcVdPUkgzRVVWNjNNR0pLVFN5Y0I5d2llQ1BHZjhDQkotWHZWTkRUUy1RVVVmWdIB6AFBVV95cUxNZVA5UVFOLUNadTMxVy1GUndwdEk3YUlXUWxDd0VXYkJiMGlGMVhtMENnM2JoUkhNWmhoY1JiT3A4MkFyQ3pPOFRocVJRSC1MTGJ1QTB1X1hWV3hHcnFEcHMzaXRpS0sxMGluUl91aUlOejliQzJDX3U1T0JZcWpCb0IyWVFYUlNPZ3JrUU92aTdVdmc4ZDg2ejZPcE5ibElUR0lkNTNDN3p6WnJXdUg4UkhJUDY3ZTFTckpkcklvSVVfcWN1V0I5bndCaFlpYklncXhKRlNFMkdXQ3E0cnNPbDJHS29BeFlq?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Livemint",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-17T21:25:09+00:00",
+   "fetched": "2026-10-21T17:59:33.818738+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "80673e16c9d6afac",
@@ -14615,6 +14741,32 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "4760993c87039821",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS changes weekend filing rules: What US visa and green card applicants need to know - Indiablooms",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakQxUG5EWG1VRkM5UTVTTlRZd0JYRkxVX0dXdHZsM19tY19ncVVPa2lwcm9JZ2ZxbGtHYTkzc0RibEh5OVhNTEZCR0hJRFRScTRRWmFZcTRkVWkxNjFTNWY0NVpfNnpDWUJuZ0pMVlpHVVhCRWJNS1hRbldfUXREeTB2XzNXWGhYUnRTRjN4SjdpVElGNjdZY2tVZ3FZRVBGNFhUeWJCcFIxQkQ4NFVaNUlzenRGbjlYQkhxWjdHTm9iR1RVd2pn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Indiablooms",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-15T12:16:02+00:00",
+   "fetched": "2026-10-21T17:59:33.818738+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "5f93beffc0a9f514",
