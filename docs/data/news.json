@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:58:20.002392+00:00",
+ "updated": "2026-10-21T23:57:44.311854+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "au-en",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 15
   },
   {
    "id": "au-partner",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "au-sheet-chung-1",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-student",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 9
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -527,7 +527,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "eu-citizenship-investment",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 17
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
@@ -623,13 +623,13 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 20
+   "count": 14
   },
   {
    "id": "nz-investor",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 15
   },
   {
    "id": "nz-post-study",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -724,6 +724,76 @@
  ],
  "items": [
   {
+   "id": "ff2dd825799d6ae3",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Trump Administration Targets Fourth Offshore Wind Project for Remand - The Maritime Executive",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2lJNW1SSU1LOU9ya3JxQWFlSzVCV3luVTZYVnp6M1YwcjBmWTVaLUN5UzRqWVZFai1RdHhHYmQ0ODRGMEV1aERrWER6VDZ2bU9PcnhhSW1tZGozY01RWkFzTjBzNUE3UnNWSnkzTUk5T1U2Rk9Ub2xVZlJmWlVjUUN2SnliQS1lbGdDYm0yTkFhcl9IbVM2NlVieVJQQW9sVnQ2OEZhQ2U0V3M?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Maritime Executive",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T23:09:11+00:00",
+   "fetched": "2026-10-21T23:57:44.311854+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "27e2963a7849761c",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Trump's green card curbs test Indian tech workers' American dream - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lMnVBUXAzUmNMeDZQMmhXOFdyZmNYM0gwQmdMZWFDZEM2UnpONTFfZGYyLTdscmVxTm1RM3MySEkwYi1TWmFIWlpZR29sNHFNdWZuYlVqS1VzTUE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BBC",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-21T23:06:37+00:00",
+   "fetched": "2026-10-21T23:57:44.311854+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "9cb54f695a0bf3b4",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Put A Cap On Visa And Mastercard Fees - Finimize",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzNaTUVkanViOUl0T09VQWIyUTU4bl9TTFU4V2ZnUU5BeC0tcllEdXZPY1B1ZTVkTEpIYlZOa0lyTG1LT21Kb1lkYnRodzlDWExTVXo1d1hkZlVqb3pDNzFUSV9NeW1OaDVMcEllVDAtZVJPMzg5Tk9xMjJZdzlSLXJubHY?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Finimize",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-21T23:02:22+00:00",
+   "fetched": "2026-10-21T23:57:44.311854+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "9644323d30fb80b7",
    "src_group": "chung",
    "src_country": "AU",
@@ -741,6 +811,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "1ba1786024bf70f0",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Trump again targets offshore wind, risking deal to speed approvals of new energy projects - Washington Times",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc3RWaUg2TFk5cjI5b2dsQWNtdGE2b2U1czZTMFNQU3lndzB5R1dnT0h0UU1vVDVEdUluWUZGRXdNenJ5eVZmeEZDTkhjaHpndlM5SVNKZWVzbmZ1Rk56N1puQ3prdFlEay1WcEU1TFFiWDhCZTBxOWRrRHJodGROSHNIaGdFR3lhTVV1SXNyVGFvbXdiX3pieUVwVVg0YzJWWTkyaXVBLWMtSXh5VG14MHFhZGFOMGh2?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Washington Times",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T22:22:22+00:00",
+   "fetched": "2026-10-21T23:57:44.311854+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -1566,6 +1658,30 @@
    "score": 0.0
   },
   {
+   "id": "6b73b373624a515c",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Masirah Oil Starts Yumna Offshore Drilling Ops After Months of Delays - Offshore Engineer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSnp5Sk9JbV9WR1JidFlna3VZbEFBaG01akF0OVRtTGlsVnB4UGNYME51dHFKX2xFb3dIM29nRVpPZWhCZVYxVWtrOHBOcGlOMFVwa0VOYTMzWlc1Y1E3RFpMZjNVd3dILUNWTWZnUGh1aXpOd2I5akQ2a0VweTh3OU1ScmpTNnExN2tDVFNyUTJncGZlbWxtVGFQZEhhRGtKa3M5eU9Lbk9udlU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Engineer Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T11:39:26+00:00",
+   "fetched": "2026-10-21T23:57:44.311854+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "e1ff48028ea24fd8",
    "src_group": null,
    "src_country": "US",
@@ -1899,6 +2015,30 @@
    "fetched": "2026-10-21T10:04:06.018998+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "7fe3c503f1e4d620",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Fire ignites on unmanned offshore platform in Mexico's Bay of Campeche - Baird Maritime",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVVBIU2VCWVg1a1RINUNIRVMxZm9UUGNRYUstSFcxc1dNUmdLS3lqY2xlY3RuR0hueXRRWXl2NEplakdvWGw0NWZXSkJqQ1FkanBQbnF5aU5CM0JLc1FneXlGWWxqZXRKVnZRTEZUT2FZT0N6RUNSNGN5Y2U4aDI0dVI5QnXSAZIBQVVfeXFMUEw0YUN6RU1HaHBkZElNYUo4Z2xLOVhfbVY0Q01VN3ZiZWJOM1EzVG9rcU53MnhDUEpEem53US1Dd25hMlZ4TU1IX0FBMDR4ZkNiZEpuTjYzRHdsaEdNLUh3ZEd4YnM5aF9iVU1qSDU5djNpc0FBLXFrZnZKTVhNMThiSzd4S3dGWGJDTENkRFp1Znc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Baird Maritime",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T09:19:14+00:00",
+   "fetched": "2026-10-21T23:57:44.311854+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -3816,6 +3956,30 @@
    "fetched": "2026-10-20T14:28:44.025935+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "6fb2fadbcb8a082b",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Offshore energy sector to gather in Amsterdam for OEEC 2026 - Hydro International",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXBoLWJLSGVsLUVVVTExMlUtZUxnZUU2VHU0WEFIcktGczZCMmdfb1FtRVVTaEdYWVVSUjFER3J3ZUYwV0JKR0prUk1aNlRKb1Z0dFR4YXdEZ2ZvWVFTcDlENU1FeGk3d3VONUdGRVgtSVRvUWZyT0NSZWVqODlPRWd1WnpLVERnbHZYQUM3ZFhTV0t0T2tqaWpIZHRHSGM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Hydro International",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-20T12:58:06+00:00",
+   "fetched": "2026-10-21T23:57:44.311854+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -7413,6 +7577,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "eea9fcfe73146a6f",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "HD Korea Shipbuilding & Offshore Engineering Logs September Orders of $1.84 Billion - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVURIeGI1SnhQOGZXSndJLVpQQWdUemdFSDl5dHRxRkxMWEItX1hjNzRBdnVDUHFpNmJxUHpWZmFITkJreTRPWkhTa3lkSjYxaVFnTVJBMUNYQVNnYTR4eHZSSzFGa0RXT1JBSldmdGxEdEtDdkNCSHJZT2hSeV90OG43bkpDaER5RE5uMVRrZW1wZjF4YzRQWmhnMTJPT2pqVDdpcDhqVlhaeE4wWHZjTnVSVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Moomoo",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-19T09:24:45+00:00",
+   "fetched": "2026-10-21T23:57:44.311854+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "bd4c0dd47f23dda7",
@@ -35733,6 +35921,28 @@
    "score": 4.0
   },
   {
+   "id": "4c2b73d85a0a4f22",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "US suspends Microsoft and Adobe from visa programme amid fraud claims - Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWRMWUgwNjhseFRmckpXRXo0Ymw3OTZfbzh2d2xaa2pDQW85MlRpXzFzVXlNM0I2QV9hSERvTzVWdWd4Nk1COHNIY1M2WXowaEtOeDUxeFVzUU43cnZFS1RPM1VBb0Z3UWtGUHZWbnFmNFR3dWhEd2tTUTJueUFaYThVOXpTaUFwcWZJTEdBNFBXeE43UlJlOXZsVllXMGlQRklwU1h0dV9neXMzRE5IbnFWONIBuAFBVV95cUxONVZvejBXSzhzUFplXzY5SVRmczgzVTc3dUtobWhsX21lM0ZVaEVZbjdDbXMteWVHRXI4NGlpUVNhUTRxcEpreXZRVmJQRjlSdkVHNlNpdm9zNnVZNGg0RWVvcFA1cEsyV3EtYTN1aVZxMFhzeTF1VVdJUU5CakFFR1haV25QaTRfY1QtZDdrZnNnM0NGeGVfSTVveTRSbkFWcDJfNThRMGpJMGNGNWpiMnNWLWFuZ0hP?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Al Jazeera",
+   "country": "US",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-21T23:57:44.311854+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "20e511feef397be4",
    "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
@@ -50304,6 +50514,28 @@
    "score": 2.5
   },
   {
+   "id": "92bb65fb1e51d891",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "A migration debate worthy of a multicultural democracy - ABC Religion & Ethics - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUJGZmlwSFdMbWZ3STQzZkw2NUJ3UFk2SGdGNzF2cWtZcWNFN1FBU2VhMG1tQ2xOUlh2bkNJY1pTOGZuZ2FUUUU1WmcxM3pLSkpqOS02U2d2SlotZEtFVkhOZU1xbmtYS2xCZThiVDBpWlFfUFhyQ1VnMVRKdmx5RmtIdUluQ09kd3JPa2ZkWEhiS2V5NTBUZVVQdERaMXViZWFZLUZ2NA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-21T23:57:44.311854+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "721c0bb179aeb0d0",
    "title": "US Revokes More Than 250,000 Visas Under Trump; EB-2 for Indians Resumes With 2013 Cutoff - Dainik Jagran MP CG",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzI3LV9xd1IzeFBhaVBiTjdmUEg0bXdCWENDSTBsckhDQzJFOFRiWHRVTXpUQllacF9xdjlmeXJjWXU2NlV1MWs5QUpxUHR2THVTQlNoUUxLc2tqYk5wYnpsd2k1WjllVHdhTDY2ZFYzbmgyYVV6TU1aQklnR1NWVXBfMzgxd2tQYzF3aWJ6SGtlNmFweURzMTQ4SkFHVm1RN01rc2syemVuNFJueXFhX2VCTkVmR1p5TVcw?oc=5",
@@ -61220,6 +61452,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "bf8b5c67f4ba5980",
+   "src_group": null,
+   "src_country": "US",
+   "title": "New H-1B Executive Order and $100,000 Proclamation: What Employers and H-1B Workers Need to Know - Reddy Neumann Brown PC",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclBndHg2YVBpUjhBRncyVTdXY3FTRnQtLUpMYUlBQ0paYzN1c2Njd3BrRWxnb0VkTXVvbE54UzB0N1B5TVRrZXA5dGdNVGI3RWFYWG15VDhEbXZmR1dYMkFQTl9uQU04R2xxdkJjRU15WU0tdnU1YWctdGRYeWlQYmtTd0NOSE5ycko3WGFvSjk4WFlUMXJvb1lHaFpNYWg4SVg3N1ZjVUg2dVNzUGRNSHNsUS1wS2hUVVJwZnln?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Reddy Neumann Brown PC",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-21T23:57:44.311854+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "ee85257063a900ba",
