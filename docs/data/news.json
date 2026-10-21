@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:36:47.546176+00:00",
+ "updated": "2026-10-21T19:30:03.666458+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "au-en",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "us-eb5",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-student",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 13
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 9
   },
   {
    "id": "ca-pr-citizenship",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 23
+   "count": 29
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 22
+   "count": 9
   },
   {
    "id": "nz-aewv",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "nz-sheet-chung-1",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -719,10 +719,59 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 15
   }
  ],
  "items": [
+  {
+   "id": "00cb06f312547f0c",
+   "src_group": null,
+   "src_country": "US",
+   "title": "‘It’s The Price is Right’: How USCIS artificially deflated employee ratings under forced distribution mandate - GovExec.com",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcFhuTFBwTXFIT1NicGN0bUV2blgwNV9MVHhPMTBKWUJlbk1vZlF0ZHl4RmQzekU3Z1gyTTB2MmtPcFN3bDVRYTg0emZNWXRCWDRwZHVXdFB4S3FZMExja1Fxa0ZLd2g4bms1cGF3THRlcllZSVN6WnBXVDltNWJHNzFoOXRtT3Vsa3Z2X1ZFblhtSl82ZHJ0TDNEcFhmdjQzVlpfOGZhMHo2U1UzbEt5SVZKMFVENk1ueXROVzEyLXpCcHloOGZOWnNtZzVwNHB2TTRONFk0MThhRU1BR0M4eHNUcDJMWndjTFV0VGt4bGYwaE5qUENxcVVlMA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "GovExec.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-21T19:10:00+00:00",
+   "fetched": "2026-10-21T19:30:03.666458+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "bf1d1cec429cdbb4",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "How the Public Charge Rule Could Affect Immigrants Seeking Green Cards – Featured - Borderless Magazine NFP",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW5VR0tBYndWR25EN3JGOFNXZWM2alVQX2JRLXZqV3o0NmFMc0ZzdWlsNWFBTEJCMWpHbTlMUDJiVndpY01qdGZOc2s2aHRHYm9GWmtfWUwyU1RZV0hxZnpOdHVGSmIwa0wyMmV1cm8wcXBiNEpJSUI2RFpoUnZNNGtEOXpzZHA1QXV6ZEt1OA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Borderless Magazine NFP",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-21T18:09:56+00:00",
+   "fetched": "2026-10-21T19:30:03.666458+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "765a64973e3a6ddc",
    "src_group": null,
@@ -783,6 +832,30 @@
    "fetched": "2026-10-21T17:04:11.480269+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "59ca04a67671497c",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Continued use of paper records hinders offshore operational efficiency - Offshore Magazine",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX283U2c4ai11WFpFeXN5bWR5bVNjUGE5N2ZmMmFETlBTbld3SFpQRFRpNnVaWWxGUERZZ2h3Zlk3OTdPQ2JiTjdVVTFpMzhFZl9KY3V5WFB3ZEY2UnZTVk5tcnpRZjEtNzlrOXd4RjhDbGN0cjlpRFg5cHR0Y2U4aW94cUpsbjByLTdsdzF1MlNqdU15ZTJScmlpekdjczBjZEdnb2JnN3VQMVdvRDI2OUc2ZjAwVlVialJCbWFfWndUQ180RERZblNxN2hNOHhKVkFGYW1DNXkxU2prZmhYMFhsY1JHY1drc1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T16:30:13+00:00",
+   "fetched": "2026-10-21T19:30:03.666458+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
