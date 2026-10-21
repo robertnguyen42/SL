@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T07:19:04.993593+00:00",
+ "updated": "2026-10-21T08:09:25.754035+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "au-student",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 29
+   "count": 31
   },
   {
    "id": "us-eb5",
@@ -377,13 +377,13 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 10
   },
   {
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "us-green-card",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 11
+   "count": 39
   },
   {
    "id": "ca-pr-citizenship",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 10
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,19 +611,19 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 10
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 27
+   "count": 11
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "nz-aewv",
@@ -683,7 +683,7 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-1",
@@ -723,6 +723,82 @@
   }
  ],
  "items": [
+  {
+   "id": "6e2cd4f14cc13882",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Portugal Lists Requirements for Ghanaians and Other Foreigners Who Seek Digital Nomad Visa - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLW1kME1JSDQ0czVhbW9TQi1FcWpMb25CTzU1R2JnXzZpMFFKc3ZFWjVKU2kyUUlURUs0UGNlU0VDNHRmWHpOcVIyR1dReHhwek4yNDBhNzJkLVU5SzNzQUVlRDMzZ2RHaUFrNC1keG1xSkNDWjFSZHFrcDZpdmtwRTdvdGpqQm1Va0hiUWZrWmE2VkdqRkRveXFPNllLb0lubjdma2YzOURkQVdmaFh0VDd3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-10-21T07:37:23+00:00",
+   "fetched": "2026-10-21T08:09:25.754035+00:00",
+   "visas": [
+    "digital-nomad"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "973927b3d976cc23",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Why Gulf families are turning to Portugal’s D3 Visa for European residency - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXlkYVE0TS1YRlJ2SUpnYm1yQzg1VTM1UWNqM2Rzb3pwb3RmQ3g4QjdBMjdKX0dERF9fbVJVUlVnNDNtemZqV29DZnF0d0hqUDFLazcyS1pBcml5eV8zY0tWeTBPVXp3dHlBOHV3OTQxTmlENnNjVEhwZlQzN05ZMVJLUnhlM2pCd1RhYjBERFVrUDNsS3F0elVraWlhSGMtclNDZTQ0WHdkMW5hTXZuYVBGVGpEUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Gulf News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-21T07:18:42+00:00",
+   "fetched": "2026-10-21T08:09:25.754035+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "6a70558cac4bf116",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada study permit wait rises to 7 weeks for Indians; work permits remain at 11 weeks - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONHJRazI0c0dub0NLVkVBaW1IdFZLU2c4NUl5bEF2bUJfUkVLS0o2bllTRmlqM2t1VnRvSDFJZ2NOYzFTbk80RlNWdTd6UmNZNzN1a0JUWVNQVEkxTkhQT3F5NjlKYWlKN09LZDAxV1FtRkhteGVQX1IzaWE1MGg3bHBuY2c1Vjl6T1JDYkR0aHc0WVdRUnA3bk5ROUo3OXdxc1dFS2R0d28za25BMkNDX2thRnZkVFJTRnBrUXdibHNqNG00OF91LXVXWFVIOUlVYUZUZmZ2b0lnb3Q0bkl6SmVkNHVGY3dG0gHoAUFVX3lxTE40clFrMjRzR25vQ0tWRUFpbUh0VktTZzg1SXlsQXZtQl9SRUtLSjZuWVNGaWoza3VWdG9IMUlnY05jMVNuTzRGU1Z1N3pSY1k3M3VrQlRZU1BUSTFOSFBPcXk2OUphaUo3T0tkMDFXUW1GSG14ZVBfUjNpYTUwaDdscG5jZzVWOXpPUkNiRHRodzRZV1FScDduTlE5Sjc5d3FzV0VLZHR3bzNrbkEyQ0Nfa2FGdmRUUlNGcGtRd2Jsc2o0bTQ4X3UtdVdYVUg5SVVhRlRmZnZvSWdvdDRuSXpKZWQ0dUZjd0Y?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-21T07:18:00+00:00",
+   "fetched": "2026-10-21T08:09:25.754035+00:00",
+   "visas": [
+    "student",
+    "work"
+   ],
+   "groups": [
+    "tay-nghe",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "d3a2cd8cd8d83e80",
    "src_group": null,
@@ -2302,6 +2378,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "e9d4a1468530d987",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Court Grants Bail to Sanjaya Samarasinghe, Imposes Foreign Travel Ban - Newsfirst",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdUwzS1M0MHZscjZfdjBIRHlOZm1YTWpUYkx5NmFVa3NwTlpjT3c2b3I4aklnM1ByT2w5SEM0S2I4TElDLWpoUlZpN3loZ2docHBUNnJsRGJadzlGNWpZVENST3ZKbG80UHgzZEpQd0VpaERnaFFjWTNqZ1NTYWh5WDVvdWJHNFRxSlZvRERQcWNPOVcyTXFhSV9mY0tOMWwyNjgzNGthaWstcG9i?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Newsfirst",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-20T11:19:10+00:00",
+   "fetched": "2026-10-21T08:09:25.754035+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "918e5b424adb35c9",
@@ -32785,6 +32885,32 @@
    "score": 0.0
   },
   {
+   "id": "72b1cb2f4d7380a9",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Trump Administration Will Suspend Tech Giants From Green Card Program - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTS1IenFsZDBpd1MwZmF1emxPczFITlpKb19ITWNLZWI2WnJwa3lvS1JEN0JIVWlyd1ktWVUzZkMzZ0d3ZWxqTGNZNC0yWTFrRXZsNEdRdW1CTXBTdjNWVnphVlExUW1hc2dlSW9lc093YVRvRUFud1dEcUVWWHVrRXFuazV5dGVrOHBaX3l5Q2FVbGppUnI3MGxzQTVuWkF5eTBUQlphU202a3ZSME04dHZUMjE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "WSJ",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-21T08:09:25.754035+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "20e511feef397be4",
    "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
@@ -52919,6 +53045,32 @@
    "score": 0.0
   },
   {
+   "id": "ecc2735f13524ed8",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "The Northwest Territories invites 105 candidates to pursue nomination for permanent residence - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcVdYOVBNa3QwTUhRU1ltVmw5OFVNcDNpa0JsVzdHbFFWYWFkY19Bb2ZVRWFFOXA0QUhONWgwZTNzN3dZLXFhWTZRNGo1RmxBVklldDVnQ3ZaMDdaOHJGeVlxbXdLN2VqR0poM1lDcmVQNXFTcTRfblZ1SkNITHhoS3VPcFBVVXRyWGxkb1ZLcThxSmNfel96cGNIRDVReUNwd1EtSFFxUERicHhyYnJhNVFsaEhNYnF6WXFUSFI4OW1BU2V6Snl5ZFpPSElyZEFtblR4VdIB2gFBVV95cUxPQk94eVRIQVVYaTVZM2ZpWWZaLU1pWkJ5RExGYk1KTWNvbGdkMXRPcmNweGtCaEg3b0FtYjVxOGc1X0R3OEFyZXNNcWs0LWwyWVl0MTg2QklUMlRVNVlkb2lmWXB5WjBsOGM1UXFqQWFzMUJwWm9paW9WUG9XVGM2NFBnOG5La1FVUTlkNDROemtYNktaang0dy1TTHNtRmI4MWlScER6bWR5dkRSeVpiQmhhUkYwRTRYcVdMbmxOS3FYb1pyd3lXOW5xY2dIckhZbmJ3a0Z4ZGthZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-21T08:09:25.754035+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "0d330a644266d953",
    "title": "New Brunswick Issues 610 Immigration Invitations in September 2026 - ImmigCanada",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aTk4xM1NHdW1Ya2cyeWlYckowOVNrRjNCbER5TTZLclN4TTF6UTBqcldFLTh6aTdseTJpd1R1U2lDRldsb1NIRU1sUThDbUJjNFR2eVVoSUVHVS12M0NsNEotYzBKZURUUFZzbXRKYl9JcFJseE9CT0Z4cmo3Zw?oc=5",
@@ -55449,6 +55601,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "3285f12a9086c780",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Quebec Invites 519 Candidates Across Four PSTQ Streams In September 24, 2026 Arrima Draws - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQnVuMFUtRDRlcDZ0N09vVmJrX3JZN0MtT3QyYzhIU01iX0VRdUtvVWR4NWU5TVZ0NmxqV3hQMG0xS0hNNEZaazI4d1RWMHRHb2VMdFl0WkFLcGxUdG9FM0dIaGNKSURtZlFlWjhfQUtfaGdnekVnelpESmtyLXdIdWJjMUozSUJVQTk0X0Q0X09mcUU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-09-25T07:00:00+00:00",
+   "fetched": "2026-10-21T08:09:25.754035+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "8b8735dcc900e83d",
@@ -58028,6 +58206,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "42229bf44076911f",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Full list of occupations eligible for UK Skilled Worker visa - Vanguard News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUZaQS1VbENlTngyV0tsbzdkcU1DNU45RWlRZEZmcmt2ZEdvN0x5bG5RRTNSR1MzOWEtZUotWEZ4cUVPNlJQOVpfdjZxTXhvZkt5cVFWcC1RUXhUeGM0al9fQzZ4SGVEY0RxOGtQeHNSMGdVU2ZtSER1azZxWmtGYlRHYUVGWW9NZXZsQmMyYzdIQm5oVV9MUm5RYXFyQdIBowFBVV95cUxQYmx3SG9mVERzQVdXQlZRSE1KampHWTEwdDJqcnp1ZTJRVUluNEcyNU9SUnJpQmZCM1k1eW5icHBNbDNiOHpWM3BjcmNzdk52QWsxbUJiaWpjbnhHUl9OTWVkZGhzVDNUVDZ5Zzg3b0o4S0lzMGRSLWJRWjZfV21JbnFUYlVhak5RWWlwREpQLWc0Zy14TFlFRVdTU19fUGFlRGx3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Vanguard News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-23T07:00:00+00:00",
+   "fetched": "2026-10-21T08:09:25.754035+00:00",
+   "visas": [
+    "uk"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "ee85257063a900ba",
