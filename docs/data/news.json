@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T17:59:33.818738+00:00",
+ "updated": "2026-10-21T18:36:47.546176+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-student",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 13
+   "count": 10
   },
   {
    "id": "us-sheet-khac-2",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 29
+   "count": 23
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "eu-student",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,31 +611,31 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 28
+   "count": 30
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 14
+   "count": 20
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-business",
@@ -647,19 +647,19 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 16
+   "count": 40
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -723,6 +723,28 @@
   }
  ],
  "items": [
+  {
+   "id": "765a64973e3a6ddc",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Lee’s Summit may see federal facility with millions of immigration records under plan - Kansas City Star",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVjZpaDhyTkthb3Y3aGpIT1hoQkZkWDBqWTVxZGtSYm5KUEVlWEFqaWpmVHo3RG9rRzBCaHZ4clBodzlTakRHaFhEV2RCb2NjTzJ0Q1lpLWx0ZllacHo1TTl5SWZiNTZ1Ykdj0gFrQVVfeXFMUENjSlZBRUhIWmwyaTROU3h4YVc4dHlJTHBzNXFaZElpZWk4QTRoa2hIMlpNV2JibHVYQzdaMVRPYVhyYmRiVUdZLVd0NFhmUThkVjI3dFFXWlRWVE52el96Wkh4RVhPbHRFY2M?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Kansas City Star",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-21T18:07:53+00:00",
+   "fetched": "2026-10-21T18:36:47.546176+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "632b454f368b3f85",
    "src_group": null,
@@ -937,6 +959,36 @@
    ],
    "groups": [
     "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "e3675dfa54ffefad",
+   "src_group": null,
+   "src_country": "US",
+   "title": "H-1B Green Card Delays After PERM Approval in 2026 - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRRnJFbnhTNWJxV1ZkSTZHOFhwUlRrdzdVY3JRbjMxV2lGQllrTXdZbWNNanZ6WW1xTGdMb0hLTmpqMl9wd1RNd3RRdnFGdVRJd3FVSFJlMUdRVkItMy1KRUdkc2liQmNQUk9GczJZWUtYYmhnMXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigCanada",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-21T13:52:18+00:00",
+   "fetched": "2026-10-21T18:36:47.546176+00:00",
+   "visas": [
+    "eb-work",
+    "h1b",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe",
+    "khac"
    ],
    "lang": "en",
    "policy": false,
@@ -3858,6 +3910,30 @@
    "score": 4.0
   },
   {
+   "id": "3f5af381dc352698",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "UAE and French Presidents witness exchange of Strategic Defence Partnership Framework - Emirates 24|7",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3d5dE9lM3hiX0F1eWJXN01TRjE1SG1pd1Mtc2F4YUNQcnFZam13WkFJQklFLUE1X3NRUFMxQnVtelR6ZGxtYnlIZ1YtZG1ON04temZZM04zcnN4ampIQjg4aGRVVnRWQzd6cmdqSkVmdV9rTktJUmJGV1FMVU5qTTYtYVUwckRYVjZSNzVUdG5MU0M2SldwcEpEbzZGR1RkaDh1WS1UdkZsXzEzS2lZcTRPdE9TVWNKQjA1ODAyeDBmSElBTlZJ0gHiAUFVX3lxTE03TkY1M1NYQVdsNFRDNS1OQy1hdFJSbk00TmVTNzJuODJMZ2plckk5WVl1S0pBSjU5c0lTUjVfc1hhZUs0Q29qbk9OQk5HNWg2WjhuZkFzNDd0dkNOb3JLVnNaaHgtQU1GNWhvUmxNUHVkNUJHZVRwclpIVXZIRThqZlBGZC1ESDA1YmVOcmk2bXlMNC1MeV9iSEJEQ0VaOWVtTUJzN2VRczk0MEJVZi0ya1VsVTdOMFdoZjlUWDhOSVFtekVJUzk1NGd0RmN5c2JyUGtJMkNkMm9WcWJsTmZsQ1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Emirates 24|7",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-20T08:41:00+00:00",
+   "fetched": "2026-10-21T18:36:47.546176+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "068c0a87b1adcc94",
    "src_group": null,
    "src_country": "NZ",
@@ -5822,6 +5898,32 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "e76cd66083041a97",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Names 2 Skilled Residence Pathways for Foreign Workers - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1dnVGt0NTc4OFRxV3pXWXVMVFVJN2laSGVncHh1Z0loM3FVOS1XNGNqYVVabFg4dVhEMjU1ellTUVdPbnBTY0U4anNUQVhkX0p2SUhudjRkY2d6WWFrWGZxZXAwSVpfeDFjN3N5OGZueEt0N2VTNi00ejN2NmpOWjd2RmNHLXJoUjJMYkgwQk51SnlUQlpYWVliaw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-19T16:09:00+00:00",
+   "fetched": "2026-10-21T18:36:47.546176+00:00",
+   "visas": [
+    "smc"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "b57870ad259badca",
@@ -10400,6 +10502,30 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "77210d698a281b09",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Floating Offshore Wind Shot - Department of Energy (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZaWllZnlxZ095aWZYaDlVUTNjYzFtTnNSMFR1X1ZxMmNkcVA4WkZhTngydDVvVDNBbDdTaWQ1b3E2eFRvdFhwSk9xUzN2azBGakw3N21PeEFUM05KVG8wSEtBYTdZbzFldWg2dl9CYS0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Energy (.gov)",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T17:30:00+00:00",
+   "fetched": "2026-10-21T18:36:47.546176+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "3b2fafcaace14b62",
@@ -19516,6 +19642,30 @@
    ]
   },
   {
+   "id": "f42e7fe0a8b68909",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Consortium Develops New Port-Based Offshore Floating Data Center Concept to Accelerate Practical Application of Offshore Data Centers - 日本郵船株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfakhpRHdGN1h6VjJUdUtTSFNaVHVYSVZTRHdGWHdxbG1mNXlKU0x6RjM5aUo1aDluVE82T1VoYWhjTVZBVnpoaG1XbHZiRmNqNkxqcjZIdDNsdXZmX2ZuekZaTXk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "日本郵船株式会社",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-14T02:02:16+00:00",
+   "fetched": "2026-10-21T18:36:47.546176+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "8a905f701b773798",
    "title": "IRCC Invites 752 Candidates in Latest PNP Based Express Entry Draw - cic times",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUt4dVRVUkd1YTdZWGFLYldiVFBxaEVNUzl0Z05ENjBzUlpiNElvYzBBUVEtVXd6b2c0WVJPV05qTy01b3dCZWRzX01ydlFuVmYyMWZFaFJmektnUmhjVW5ISVo0Q2ZhQWRiSnNZam91TW1XWndKT0FtTnNjOWdzZ0JNc204amtfU015bG5aV0htN2g1dFE?oc=5",
@@ -22110,6 +22260,32 @@
    "score": 0.0
   },
   {
+   "id": "7799f1f8ea80d10c",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Legislative lowdown: Trump officials suspend Microsoft, Adobe from PERM program - HR Brew",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2NVSmpScUlndWoyazl6MlVtTjdyaGo3YkZmcmd0RVVWaFNneEN2cXZhck5EXzVOZlZ2eGpBSExfV2dyTHBxNVZQaDA0ZlktYW1SbGh1QlZFTzBGWmVoUHNZUk9Wb01xZk9NSzN0UjN6RW1WNXlzRXRmV2Y4Q0VzVmFKQlk1Rmw4aEY5ag?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "HR Brew",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-13T07:00:00+00:00",
+   "fetched": "2026-10-21T18:36:47.546176+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "252a52bf647d550d",
    "title": "AHA advert rejects coalition’s new immigration policy - News.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3Mtb3JaODYxS0pUdjFUdUhjQ25WWGtESXozdGlHV2YtdFdFbWVZdnp2cHFmNzNMeG9STGJqa2x0MTV3VkQ5Q1U1VGNrVG1ZRTdPUFRpNlpkU3A4U1B5SjFWU1U0NFc4SkFkOXdzSWxEQnNOakpNNy1LdEN3aWNMNGFqX1YzSDZyangxRlVrdGt0RE1OQWhLMW8wdDVWSl85WjdtNk04R19PTWZkZUM4SWdVZmV6R3dFU28wRmtHNXZLZw?oc=5",
@@ -24085,6 +24261,34 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "53a06fb1c186a00a",
+   "src_group": null,
+   "src_country": "US",
+   "title": "PERM suspension could trap tech workers in a green card visa cycle - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPR3c2bmNJUHJOSW5HNGtYVzVfb2RxV0FQZWhETXYzX0Y0bWlDVWZRbl91X2xZSTB1dlU2Y0VDcHEwb3BUTUpIM2p5R3N0SDNpLWtjX1dvdVFKSllwNkR3X3d2TnFWQ0VBejNlY003WDVVV1pEblpJY3pteWs0aUF4LWZ3WnQ2cjUzUGFuVmo4cnhDYnpOelhQaDV5aUNWMF9sdnZocGR6TTUyWVFwbDFHOHBQTC01bklodjRFeDhJcnNpMm5wTWxxSFNmNlVOZWE1S2ktWmJrX2xrNVpQXzVEX3J5UWh0bWoxUW9NSmxFQlFkTnVYcVY0MnpRR2FwcGl6amxRaWlRaDkxazlGcHhfLVZEanlrdnktMm42eE930gGjAkFVX3lxTE9DcW1RZWotOXRwRER2WFREV0F1aFZjZzJHYkE1OTNsX283Y2NTQVpSWXFLa1BuVG43eGNPWWE3ZHFKNFZBWHpCTEJxalp5UFNTUTMxTmxidnByQkNXVGpKVWktc1dHYkQ2V3RqbUctVEFGUGtKS281a2d2MjBPTEZ3OEE3Zkktdkc4V3QtVUg4bmhIcWNuSmdsN21EWGdvZGJXWVdxYS1GYjdmV193TURMUkJjZDRSeTBRRjNsLUpscm52OHpFUEZ1ck5TN25aODJLdE9pbTFNX1RaRHVHRXJWSU0yUHlTVTBzYkJNNVdOb2QyZDZ4SFVJb1VCVUFWUnRma1hTMkNQR2hsUkpZR0V5dnhuN3FHQkZIYTV3QlJiRE5iQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-12T07:00:00+00:00",
+   "fetched": "2026-10-21T18:36:47.546176+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "b0f8cdd44321e5ec",
@@ -28365,6 +28569,32 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "bc54b2545c4b1449",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US PERM applications fell 22% in FY25, but software developers still dominate green-card pipeline - ETHRWorld.com",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLWNoaWxmcnREWDlvWWtuZ1B4Nzh5WGpjQmhneWxCQWdad2ZBeVU5RU1IcG5UZ2c1a3pvOHdtQndkLWJoUzhSZ1p1WTM0ZVcyT285ejJYb2lUUm5IVUd1MnpuY25BX0x5Qi1QTFl5TzFzY0VMRzBUSFFVdFpNY1N0R1JDOXlsZWpjc29hUlFHdDkyRUNSZzdfYnVjNGxoalNsNEFOUmJnZ1pScm5TUnlGV2dmNkotZnNGbTRISVBGRFF2UjBvdHhQc0xEdXA0MnV6UjJDTDJweFBWMWdkQVB0RkpzUW1DS3ozc19aT05LN0fSAfYBQVVfeXFMTkRlbHN3Z3dsVmRNTFgtUVpqNWhobkdOSFNpTlBSQld2QzkxZWRLeHF3VnhVMnVxVXdwSGhJVURRWW5GLXNOU1JwTl84em1pNndlNWo5cFVSQzJXMkw3VnljVk05TElmR1BXNWhTcm93VGRfX0wxN21Kc0JsYmtzcWxyRmh2ZkhsN09Nd05DcWxMYkVnYl9qZzJyZjY0MF9IRVJyNHFBRzM4Vk0zd2RSZURCdnlrQ05nSk90VzJWZ241SWJVc250RXRZVjA3QmN4ZDRQcVd5OE9QX0t1bHJiVk5YNVZQT3FKLVB1a0tGdllwazcwaVBR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ETHRWorld.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T11:19:50+00:00",
+   "fetched": "2026-10-21T18:36:47.546176+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "ce82c9f14ed9de97",
@@ -34586,6 +34816,28 @@
    "score": 4.0
   },
   {
+   "id": "8ba5e48bf9b16574",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Valaris Offshore Contracts: Major US$220 Million Boost - Inspenet",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rNXB2OHRGeV9DWjFRbXdNZnhwTFdQQ0tSalpKUDZrZEFGRzNOMnI4MEFxQTBnT2hKU003ZnZkeHA0eVRoQnBkeHMtN3B2UVNESGRMNTBhVnU3NWZoRHYtaWFLNG1VbmRoaXZ3MlhwTURZU3ZuYm9OZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Inspenet",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-21T18:36:47.546176+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "20e511feef397be4",
    "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
@@ -39295,6 +39547,28 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "db0fca1396b49292",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "EPrivateClient - Bermuda tightens rules around investor residence programme - Pam Insight",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPei11eGtaYnd4aVVQbGs3OExFX0Vtb2dTLWFZZm9SWF9TOFZNTE9ydzA3UFluemVPWGlrNEh4WGloa3V1NkdybVZOOEV2cXRhQjVacGFWZC1oQVZLYVI4dFY2WHdsSGRlSUxJMXp1U2Z5eUVWbzg3bFZXdDdxRHJEMjJWakE5aDZxSFRVR1Q1MWJMYTF2cGpjcTZqN2U5dw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Pam Insight",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-investor",
+   "published": "2026-10-06T08:51:04+00:00",
+   "fetched": "2026-10-21T18:36:47.546176+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "165b70bbdb237917",
