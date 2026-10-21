@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T01:32:26.311985+00:00",
+ "updated": "2026-10-21T02:26:56.217763+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 18
   },
   {
    "id": "eu-gov",
@@ -245,13 +245,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "us-student",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 12
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-pr-citizenship",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "id": "eu-family",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 19
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -647,19 +647,19 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 13
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nz-residence",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 9
+   "count": 13
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,36 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 18
   }
  ],
  "items": [
+  {
+   "id": "ab129769d273197f",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS: Ukraine TPS Continues (For Now) - Immigration Blog",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQUdrN2poWU0wQUdxZW4tSFJmb1B5enhLRC1tU2FOSW81TmdLRk5fZUdlTF9XWXQwSUJGcmd3a0VHamRJbUFwTkxCZEp2MWd3OTlIMC1Ia3NqU0hMdlZvZUtVVE1nRGtGaV96RzgtXzZ3dXVJWTQyQ25ZOTBNS2JrdFpzcjRQV2NpaFE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration Blog",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-21T01:38:53+00:00",
+   "fetched": "2026-10-21T02:26:56.217763+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "a1794ed14b591496",
    "src_group": null,
@@ -10967,6 +10993,28 @@
    "score": 0.0
   },
   {
+   "id": "e4572198e37007e9",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Superheroes, glitter and colonial history collide in a big Immigration Museum exhibition - Beat Magazine",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3NCZ3AyTEdCVFVsZ0hyWC1WaS1rU3BHUFI0c2N4ejFqam5pZnpGVmZwQzlqelJpZkM3T19EZUZyZ0s5cExhN0lKc3RHTUVZTENBdU9zQ2dtWUN5WWE3MGJfYnlSTG9KcnZHbnFadjlzOVIwYllualh3Y0NGQkZUNTRaa01HNVgwWnFWRlBibndxeFQ3ZGdvNm40NHZJWEl5bWx4dTdhT1ZxLTNS?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Beat Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-16T03:13:05+00:00",
+   "fetched": "2026-10-21T02:26:56.217763+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "aebf77b1f02702d9",
    "title": "Ottawa rejects country-based study permit caps - ircc.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkRDYTVncTdlNlhvcm44RXJzOUJnZ0xvTC1ycEF4RXJvZ0tZR1pJN191V2sweDJ1cVNWbWtWMU9seGg3MnZzNWplcFJ3cGx0N0lqYUtkLXFybmg4b3E2Q3VmdE1WMGR1X01QdzhRc1ZBSF9jREFSUGtLbU5PZHBadWZ5dllkbDI4bk82MkR1OUZpbmlqWEs1YjRGY0k2aTlFWVE?oc=5",
@@ -14563,6 +14611,30 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "725764b0be04f628",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Can Brazil's offshore supply chain support Equatorial Margin growth? - Offshore Magazine",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbkE1aDI1VndISkM3alNVazhSVEJrUUs5Mi1wZmR6WkR5QXFpWlRobndTdTdYNUF5Uk94TkFMU0hFOTlBYnlyTzdoVks0UVQ1b1VacDJnU3JUREVyTWphQ3lJWXNzWG1ab05BVnBsdGR0NVFsTzJxeGJQV3Q5VkR1bmlLa0FmWVlxM3VEWFpOampXeUNxbEExdUk1QjNmN01QZWU4Z0dQb25QbFgtZkFfRUp0Tzg4dWI5VC1xSVk4WFEwenB2MFVvSlczbkNoY0hUS0ltNTkxV2dVcFdOazIzblBCaVkxZFRm?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-14T20:22:13+00:00",
+   "fetched": "2026-10-21T02:26:56.217763+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5f2d41e91408ea14",
@@ -23915,6 +23987,32 @@
    "groups": [
     "khac"
    ]
+  },
+  {
+   "id": "a141a8f24ecac6ec",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Renewing a British passport from Canada after the UK ETA rule - eTurboNews",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRk5BbVVPVlBMdmtpZ3huMjlDZnpsQWlzZXZpZWFfU0p6ejNlYTFaeHhkV3ljR2t4QkRweVVRQkxMdWNxeUltYVZadjNWcnNxOG9GWXBYZGUxX054R2NjUkJIUkdMSjRhSTFCVDRoeFBuWWdVYkFMdC0zdXh1Wk9lZGVWYWpZQ1VkWUtiWEJB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "eTurboNews",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-10T08:16:19+00:00",
+   "fetched": "2026-10-21T02:26:56.217763+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "52494f5687649b73",
@@ -46515,6 +46613,28 @@
    "groups": [
     "dau-tu"
    ]
+  },
+  {
+   "id": "a2b6c1f4c099667d",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Britain releases requirements for adult dependent relative immigration route - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHhpYlBCWUY5blV3Q00ycVVTLXpOcDI5THNWcVZ6am5qVkVFVVJKWlpOQkNITzdXbXVSM1VMamwwUEU5RnBzQnQ4SHdFTFNRTEdvSTQ2UWVXblpCTDBVUjBHa0pZRDFWbmIwRnpXb1BDQWY1MUNXUFh5azhDR0o2ajU1eE53Z2tOLVlNdXZTbkRJWGJOcWdFZGtnb1lmV0VMNmhfR25aRGg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-21T02:26:56.217763+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "721c0bb179aeb0d0",
