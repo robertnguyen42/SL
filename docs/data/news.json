@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T05:02:36.247325+00:00",
+ "updated": "2026-10-21T06:00:30.728656+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "au-en",
@@ -245,7 +245,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-skilled",
@@ -281,13 +281,13 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -341,13 +341,13 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 31
+   "count": 33
   },
   {
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "us-eb-work",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 5
   },
   {
    "id": "us-student",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "us-sheet-khac-2",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "eu-student",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "eu-schengen",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 20
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,25 +611,25 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 10
+   "count": 20
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 14
+   "count": 18
   },
   {
    "id": "nz-investor",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -719,10 +719,84 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 11
+   "count": 19
   }
  ],
  "items": [
+  {
+   "id": "bc69879d238e2972",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "EU Council Welcomes Start of Process for Bahrainis to Obtain Schengen Visa Waiver - News of Bahrain",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmRLUzQ5WEdlbDNMZ3lQVFVuSFhvYWZFVk13MnY2aEllRF9abko1eVl5UTNYRk1uVU1ZUWlYN0RqRlJJVEpfenBoSVNqSU5MM0I1LVY3Ylh2bjVFd2tWMElyX3R4Um9VZXliSG9lTVdxUDkyLWZrX3BCQ2hGV051XzJMSTZEREZoTFZzNGFSV0FHZFR0WW9BbUx5VU11LVd6U09QVWhNZGxEUEpNSloydWo5cVJMclUzN3NYZjl3RQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News of Bahrain",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-21T05:21:43+00:00",
+   "fetched": "2026-10-21T06:00:30.728656+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "78f3172823e47104",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India-New Zealand FTA Opens 5,000 Temporary Work Visa Slots for Indian Professionals - Siliconindia",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObHNoUFNlVFB5Zm9GbHFLbTBlSjJ0aC01UEh1MkF2RURLcFh6YnlZQU40c2MtTng2NHY3R1lrbTVPaFFKQlpDTEo5VFNKalpPa2MyU0pLN1VrSnJhaThzRUk1Nm8zYUJicHc4OFAxTy0yM0NaOXkzOU81dXBZdzFTbTNtbENjZ29BRkYzT2xROHBta0RhMDF4YkJpeVA0aVpVV2VHNlk3ZXJEWm43YktWbXFicDZQNlZCZzlydnRTVnpKM3B2V2RzU0pTMVVqZ1QyWFc3RExnWVFwMzZwZVgw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Siliconindia",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-21T05:04:24+00:00",
+   "fetched": "2026-10-21T06:00:30.728656+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "fc88da116ff1912b",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Chính quyền Trump thu hồi hơn 300.000 visa Mỹ, nhiều trường hợp liên quan đến tội phạm - Docnhanh.vn",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa201blB0V0Jaa2l2Wm1tN1I1dlc2akVBei0xUFcwb193THVXbHBqdGt1NHZ4WXJoWk8wR1E4Zlg5a3gtNTRMQ3Z1VFo5dnlnN0VVUWdpcEFveXMtWkRVZnUwUUEzRGdHOWw4T3lkWm5HT00wc0sxZW11R1VfdDJRNkZVaS1XTDNZeWQ1WFFlQldPQ1VlOUExTlhQTjBYdUMwV0N6akpVeWpJT3E3Y3g0b09qNzJ2bFlWejNsTkhQYmlkUTdaeEE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Docnhanh.vn",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-21T04:28:15+00:00",
+   "fetched": "2026-10-21T06:00:30.728656+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
+  },
   {
    "id": "774527a12294bc82",
    "src_group": null,
@@ -32474,6 +32548,30 @@
    "score": 0.0
   },
   {
+   "id": "6e44a61f1ad9b8e3",
+   "src_group": "khac",
+   "src_country": "AE",
+   "title": "Dubai Real Estate Logs 37,429 Sales Worth AED92.9 Billion in Q3 2026 - Realty Plus Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVRSZlpWcEl3bVpOR1ZpN0ZrZk45QWNZV19YSjN5UTVobWhSMHZLUlVPdm9NNWdNQ1R5MUw2dGttRkc5OTU5SzEtWEZVODd6QkJDNDYyNW9sSnYtLUZzQlRtemFtaEFWTEtncmhsdjFoMnl3dzQ1S2JpaUQxSzhwS0tyX2UtUUVSTi1YVGVZejI2RUNIRGVSd2pmZWZlMzRuQkV1SjVIY3V1a2t4Z0VZcXN5Z0VlazdEREE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Realty Plus Magazine",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-khac-2",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-21T06:00:30.728656+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "20e511feef397be4",
    "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
@@ -48786,6 +48884,34 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "706cbe54bb5a0755",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "US To More Than Double EB-5 Investor Visa Fees: How The Hike Affects Indians Seeking Green Cards - News18",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSkV0bXN3dE94ZFFpMG5PZzFkdVhJOVVOemtTR3V4ODVxTVZvWG5GV1l6UXl2cjNPajFqRG5HdmZMUmNvUlFfYWw5VzZseVR2cGdwcmszSmY2a3hEelhGWG1LZWswQ2NDajVXZWkxdmdTejFNWW0tdzctdWVMRVpONUl4UXhJeWpmMXVKdnVtaHl2NEl0RlVNVG81Qzd3MG9uZG5tMklWVkRaZnU3RVhWcExYTUduNFc0Q0g3YmNPX25TX0llek1QVEJVZ0t0eHA2ZE9UTHMtcUhIb0XSAeABQVVfeXFMTUpaaTllX1Y3Y0d6clJvLXM2TWtnLVJWTWhJVDk2eGF5LXh3ODZFVndHT0RuZmZVRFJQVnZxdThBLXdkVEEzZEtUdXdjNVR5XzJrZ3UxQkZYaWZyUzd6Wks5YUw3NWN1eTZqQ0pxOWFyNUV2Rk5JNlRlUlRwc3FiNDdwSzZuNkFhbURaQW0yOVdveDlVN2N3dU00YkZtMjVrdU0zdWVCUnMtbmU3Y3poSFlkemNZaHFSYXRZc3NyY04xUUZqX0g4VDcyR2E1c05OWEszNUI1ZUI2YThzdmpsTFc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News18",
+   "country": "US",
+   "type": "news",
+   "source": "nz-investor",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-21T06:00:30.728656+00:00",
+   "visas": [
+    "eb5",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "8581ee0bba37fe96",
