@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:34:07.110709+00:00",
+ "updated": "2026-10-22T19:30:01.895271+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 13
   },
   {
    "id": "au-student",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "us-eb5",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 35
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "us-sheet-khac-2",
@@ -533,19 +533,19 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 17
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 10
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 23
+   "count": 10
   },
   {
    "id": "eu-student",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -723,6 +723,28 @@
   }
  ],
  "items": [
+  {
+   "id": "3af2f3c9b22e170e",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia Lists 1 Condition Foreign Spouses Must Meet For Priority Visa Processing - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYU9SXzRzb0JPeFhpWDhEajFxZnVGQjI1T3NBYkFsMnVtRzRNNlgtdjN1TnNFX25NXzRhQWtRZ2h2YXZ2bDNhOVpzMVdZVGVOelRscW5SR09USUJ2U1J3ZGYzRzlRQ1FwUFZITlNxdnQwM0hiSkZlRjFES0NhRkRmdXNxSHhTeV9fekN0NjlzOThzR3MzUjVUaUhkSWFDdGE5NlBSd3BNQ0xIb3Q2SS1F?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-partner",
+   "published": "2026-10-22T18:36:04+00:00",
+   "fetched": "2026-10-22T19:30:01.895271+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "f5c4e4e657745017",
    "src_group": null,
@@ -826,6 +848,33 @@
    "score": 4.0
   },
   {
+   "id": "c8e3a4a4fa1d8fe9",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "How Families Turn St Kitts Citizenship by Investment Properties Into a Second Passport - Totally The Bomb",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDI2aG5Vckl3T3l1aVNrbnFNOWs5T0wxbjlCR3Rpd1JIN1otYU1HT3lhMGlkYndha1ZfaVVqeHZWREozRTFaSTJEak1JSGdiWUw4dS1Ld01wXzBiaFBVNndwdFluSDEwM09ENkxiMkFxclZBUjhIdnRCVGJKZzZwcEhDdEY2Wm0tbnoyWlpROWJXNDQ0eGJ3S01uakRqTjRZbDV6MVd2ZlJXSmxiQV9lR1JaR3I?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Totally The Bomb",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-2",
+   "published": "2026-10-22T17:41:24+00:00",
+   "fetched": "2026-10-22T19:30:01.895271+00:00",
+   "visas": [
+    "citizenship-investment"
+   ],
+   "groups": [
+    "chung",
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "6966331fef556b70",
    "src_group": null,
    "src_country": "CA",
@@ -924,6 +973,28 @@
    "score": 1.5
   },
   {
+   "id": "5874b729390667fc",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Fifteen arrested in ferry terminals immigration operation - Yahoo News Australia",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWZUQjdicThOWkpJZ3A1VjBvX2M0UjRTb2VBSm1CUm1ldHduS3JraDUxaDdrNmZiczVEc3o3VkFPWWhnMzRaWEhmNy1FRmVmeGNsVFozN1BtVC1aWEIyZUxSZ3VGaVJOeHAtcHJPVXhCSmkxTHl4LTVod00zVzQyNEsxbll5VDZ5ZmNycWh3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yahoo News Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-22T16:59:37+00:00",
+   "fetched": "2026-10-22T19:30:01.895271+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "a74f7aadbe2d18fa",
    "src_group": null,
    "src_country": "US",
@@ -992,6 +1063,34 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "ef7d4a12a0dc841c",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "U.S. Immigration Updates: PERM, EAD & TPS Changes - WR Immigration",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXJDUVZsTTlxM2tyczgzNk9RUlZMOTBMd2VqMmNiRFl3VEVEcUN1NjFJQmZ6b20zcF9Fd182RW44Zkw4U3IwXzB3OVpKenJ4QV9VNTNkU3JnZGhQbG4yOVhTR0UxUlQ3Zms5dl95OHZzN0k1YmFWRUxJOF9sMXV1RWxQcw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "WR Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-22T16:10:55+00:00",
+   "fetched": "2026-10-22T19:30:01.895271+00:00",
+   "visas": [
+    "eb-work",
+    "asylum"
+   ],
+   "groups": [
+    "tay-nghe",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "ecfbd676e59cb902",
@@ -29448,6 +29547,30 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "ad8f940cf701fc23",
+   "src_group": "khac",
+   "src_country": "AU",
+   "title": "‘Rotting’ former Pogo hubs worry residents - BusinessMirror",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VNS3dQcWhDOU1rbjBJSEVVUk1DdG1FUE02dU5kdzRtMmpqaUtsWFBLeFVwODhGbDV2X3Q5WGJwaU1adzhtbEo3X0IzS3BJRVpJaUdKVElzMU9jcWdBWUYzT0lSeThNOEFRNTVNQ2VDTkt3VXQ1ZGU2c0tCX3NrYThVS1lfZzdCenc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BusinessMirror",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-khac-1",
+   "published": "2026-10-11T16:03:00+00:00",
+   "fetched": "2026-10-22T19:30:01.895271+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "08409bd045f063c0",
