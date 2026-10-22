@@ -14,8 +14,8 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with: { python-version: "3.12" }
       - run: python notify.py
         env:
@@ -29,4 +29,11 @@ jobs:
           git config user.email "ditru-bot@users.noreply.github.com"
           [ -f docs/data/notify_state.json ] || exit 0
           git add docs/data/notify_state.json
-          git diff --cached --quiet || (git commit -m "Đã gửi email bản tin $(date -u +%F)" && git pull --rebase -q && git push)
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Đã gửi email bản tin $(date -u +%F)"
+          # Lưu được thời điểm gửi thì lần sau mới không gửi trùng: thử đẩy 3 lần
+          for i in 1 2 3; do
+            git pull --rebase -X theirs -q && git push -q && exit 0
+            git rebase --abort 2>/dev/null; sleep $((i * 10))
+          done
+          exit 1
