@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:58:16.636258+00:00",
+ "updated": "2026-10-22T18:34:07.110709+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-parent",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "us-sheet-khac-2",
@@ -533,13 +533,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 18
+   "count": 40
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-aewv",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nz-residence",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,84 @@
   }
  ],
  "items": [
+  {
+   "id": "f5c4e4e657745017",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Cuban woman loses her U.S. citizenship for what she concealed during her naturalization interview - CiberCuba",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazZWZm15YmVtaC1PejNiMU5Yd3JpSGNXNnozZ2kwOVhjSkM4X0N3WDJTLWNoQ2pzUk9BdGZOZ1ZyMVpoaFFxZE9nbmJtT1ppeU5QaGpPYjdfSXJZZHBPdjYyZ1llUFR6UVZFSjFISXpBS1g4SDlucC1wclFraG90dmIzcnZ1T2JFRGppQ29SOXlWS0VxY2tMTEJXNFBOSkx3YkM0OG4xLXM3TmFlOWE2cmNQc0xtVXFlNmZn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CiberCuba",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-22T18:07:30+00:00",
+   "fetched": "2026-10-22T18:34:07.110709+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "276f359ea6ebd5ab",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada to Revise Express Entry Rules on November 3: Who Stands to Gain More Points? - CubaHeadlines",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FWUxMc3hmTXZfMTlyeHJsYmtSaURtSjVqTmlISTBxeG1oaWVrMWZXZ1UtRl9MT2xBcTZCNExOb2JqeUVsUmp3YzRVeEdIMFgyQXBiY3ZQaEY?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CubaHeadlines",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-22T18:02:37+00:00",
+   "fetched": "2026-10-22T18:34:07.110709+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "ff373beeb7eac0d3",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada’s Work Permit Population Rises Despite 57% Drop In New Arrivals - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEltMTFVa1c4a09lVjNfZndocklYc1duaGZpb3FjNkNkWmJLcl9BNk4xa0lQS29NbUlMd3dQb1hHY2U1TmJsWVVHUUYySy1DRmFaczctS25aQVo4ckV3d1ZOdjdyeWdYc0M3ZlVPeGNGMlFJX092QzNlVGwxQmtMZE4xdTg3cTdUZXJDS1B2MVp6VE91ZEtN?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-22T18:02:14+00:00",
+   "fetched": "2026-10-22T18:34:07.110709+00:00",
+   "visas": [
+    "work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "6cd91ea26383eec3",
    "src_group": "tay-nghe",
@@ -846,6 +924,28 @@
    "score": 1.5
   },
   {
+   "id": "a74f7aadbe2d18fa",
+   "src_group": null,
+   "src_country": "US",
+   "title": "South Florida court revokes citizenship of Cuban-born woman in fraud case - Florida’s Voice",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1lHcDNyZ0NmbDVHa05ubV9KM0lDbl9XaTNCR2lRRjRkNEVzajhMYlcxVExpNnNNLWpSQVkzQmRlRE50dWVYNmNXYlhBS2lZLUJlNURnQmxwbmRqdTRUNUpzNU1rN3RGaVB5bXVuUE5JY19lTlI1Ulh4V2FVUUpxTjdvbU1UQTdRQjZPSFJwRVM4WXNoNjJIX0ZwbjBSLUU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Florida’s Voice",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-22T16:54:00+00:00",
+   "fetched": "2026-10-22T18:34:07.110709+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "d2fe004e2372ab5b",
    "src_group": "tay-nghe",
    "src_country": "US",
@@ -894,6 +994,54 @@
    "score": 0.0
   },
   {
+   "id": "ecfbd676e59cb902",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Cuban Woman Stripped of U.S. Citizenship for Lying During Naturalization Interview - CubaHeadlines",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DSmJGVXRmcUZQSnpqa1ZheS1TOGxHZVdSQmxkSnJtaE50NEoxTENPdmNsNzI1ZlItWHdIZjVfSFNNczI4SVVuZjh2TVllLV8yVzhrTkswaHo?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CubaHeadlines",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-22T16:01:58+00:00",
+   "fetched": "2026-10-22T18:34:07.110709+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "7980a055681e48f6",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Citizenship Backlog Raises Concern for Indian Applicants - IndiaWest",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNXzFJSEdnNThmUVBpMTE2WnAzSDdWc3BXWHFwTjROTDlFSng1N19TUlVKcG91NjBnYnlpcElMMnJTZVFLV1hTSU9vOFdobnk1UVdIa24tcmFhUmRUdF9BSm5fNHVtem5GbmhXb044NTJ4MUZaN0NOSUo2R1BxZF9uRE1mVWpnU2k5eG1oTXA3MmtNdHlZZXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "IndiaWest",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-22T15:55:18+00:00",
+   "fetched": "2026-10-22T18:34:07.110709+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "c1237e393f10305a",
    "src_group": "khac",
    "src_country": "CA",
@@ -918,6 +1066,28 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "2933a91cd8981f43",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Nigerian-born woman stripped of US citizenship after 13 years - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTk9xMzhuOE41bjlXZUJqekktMDkzSTRhMWJBeHdVUWhmeGFnYWVLR09XN1dmb051X3lfaG55TWJPaWQzNjg0Q1lRYmJ3R1hCcVpqY3dHWDlDR0Q3d09leWl6bVFKeXJSenN2Qm1xa3Z1UzFGZFRnZmJmNjlXNFRqZVVOR2xjNGpDMU1pZlVKMTNJOHdyV2VUeENyMEVELUJvY0ZlYWZuNHA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-22T15:48:27+00:00",
+   "fetched": "2026-10-22T18:34:07.110709+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "2637172eb007fef7",
@@ -1107,6 +1277,32 @@
    "fetched": "2026-10-22T17:03:47.042837+00:00",
    "visas": [
     "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a1610481be12a868",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Exclusive: Foreign Student Visa Overstayers Hit Record High in South Korea - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM21UXzBwRU1jbE8zdW5BUDBhdVc5d0lPZml3a0g4eXFEdjhQV2pubDBOcTZvUUh5UUE3VWF3MlgzVWJkbGt5NVEzdmstMWpoeVAwNnR0aldRcDNCTjFKZG1zYk1XRTlGcXZURktZN3JOMUJHVU9Yem83WnNoSDREZEJDaVlza0o3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "조선일보",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-22T12:42:26+00:00",
+   "fetched": "2026-10-22T18:34:07.110709+00:00",
+   "visas": [
+    "student"
    ],
    "groups": [
     "khac"
@@ -11252,6 +11448,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "7758ba80f737b53d",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Korea Seeks U.S. Shipbuilding Visa Quota for MASGA Project - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajVidFF1MmIwT2ctY2x0UkVxYzlTTGpQVnlqQWdIM19MaG9UVDhnNnN5Qk9Pa3prOHotTXl2M0Vlel9WaldzTDJoUDFiTDlrT1BDeFFBY09kemdNbUprUTNZdkpnS1NONmYtWDhpQjBIVm5Rb2szQ19kcHdyLUlmZlVqRjZtYTZueW1aMVBmV0FqTk9PNzF2dE92WEsyQTA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Seoul Economic Daily",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-3",
+   "published": "2026-10-18T08:54:33+00:00",
+   "fetched": "2026-10-22T18:34:07.110709+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "7802f29d504af48d",
