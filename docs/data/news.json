@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:58:58.497829+00:00",
+ "updated": "2026-10-22T23:30:22.370110+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 28
+   "count": 26
   },
   {
    "id": "nz-gov",
@@ -245,7 +245,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "au-skilled",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 10
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 28
+   "count": 12
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -617,13 +617,13 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "nz-aewv",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,52 @@
   }
  ],
  "items": [
+  {
+   "id": "9d6f73dda9af59b1",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Woodside, Santos and Beach detail offshore Australia development, P&A and exploration activity - Offshore Magazine",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOU19DdkxVczUtV3RjT3dLN1lrREMyVWVrUWhlVnJXakVxRjk3ek9SNUJGNmY5NEpUcFV0amplRWh0UThHUDlnMm9tUXFTZmhDRUZtTmtSZ3hndnY5b2Y2cUZiVUhvUkFCNEc0VE1PZ1lkNlJDTnVBcXFPU3A4b2dZa242ckJXY3JHV0FGaXNqN0J0Z3V6R1Q5ZUpiMXRJbVprNnJINGtDdUtycHF3NkRPZVV4OHJ6U0lJTTJOYVZ4bWtQOW9FRFlLLW1LZlNqejBDVWFhQjBwdkZlNFhGclBlcTJTTklKX3I3bjRRVFpOeDd6czNtWHRUcE4xM1ZWY1F1UXhJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-22T23:21:26+00:00",
+   "fetched": "2026-10-22T23:30:22.370110+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "41e26ccfdde603c0",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Lý do số lượng người nhập cư hợp pháp vào Mỹ giảm mạnh - VTV.vn",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2hNTlhnb19iRzNSQW5kWk8yRGZfSDFHbG9CVXVJQ1RtREdZa1pNbWF0eEF6b2c5RzVFai0wd3FhOHRNMG0wVVpfemFveTZIZGQ0eUQ3RHVUb3BBVDBzWUVxQzBiM1F1b2U0RzlmcmY1T2ZKNUprUkdYc1NvcndoSlZkYjlkUFdRaGpJYVR1dEF6d1ROYjVr?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "VTV.vn",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-22T23:00:00+00:00",
+   "fetched": "2026-10-22T23:30:22.370110+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
   {
    "id": "fe2de0de7605dc0d",
    "src_group": "khac",
@@ -2666,6 +2712,28 @@
    "score": 0.0
   },
   {
+   "id": "734803ccd4a4b82b",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Indian Green-Card Holders Face Slowing US Citizenship Approvals - Ommcom News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXZrTkJLNXZZbC0tUm5ualJlSVZnc1E3YVhLeFl2UjZyZG5BejllUE13TFp0V0w3NFpmSHFHOU8zSGR5UzdUZ0NUeEYzbU9VdUJ0Vi16aVZCTDVqY3lpRVlVQ2dJSUN1VjlRTjZFZnNUd0dMWkItb2Ftb2dQREgzcEJJWWdCUU4yYzdoZ0RQX3FVN0ZraXpvQzZObW9vTEE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Ommcom News",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-22T04:07:58+00:00",
+   "fetched": "2026-10-22T23:30:22.370110+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "801bc73f48ec5fc8",
    "src_group": null,
    "src_country": "AU",
@@ -4385,6 +4453,28 @@
    "score": 0.0
   },
   {
+   "id": "c0842fa0f70c5124",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "More signs that Aussie immigration continues to moderate - MacroBusiness",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSm9mVHlQaWUxR1ktbVU5ekxSN3NpbVJDdWU0eDk2VVI0bnBINEhhSG55TUtpb0l0ZnhMa2k1aG85VWk1TENKZE00TzIwT0pkRVRISHZ0dlZrcDR5Uy1CcE1jcmtqSy1iWnBILVdqRVpKYVpRU1FFeGFfRzlwZ0owa25mbU41ZE4wYnJXb0N6NVJ1bUo1aWdQSzBreTRBV1k?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "MacroBusiness",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-21T12:00:19+00:00",
+   "fetched": "2026-10-22T23:30:22.370110+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "41e569b54f885c26",
    "src_group": null,
    "src_country": "CA",
@@ -5138,6 +5228,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "908f87caa7f90ef3",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Greece Plans 15% Property Transfer Tax for Non-EU Buyers: What Could It Mean for Golden Visa Investors? - Get Golden Visa",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTy1McVZMQ3VCTTA3c29OTkcxOUhrVmhQcEktQmZsNnZ5dGtaSnc5SV9GelQwbGJ6R3E3dGMyWlg3dVVqMUg2NWNYdnZ3ak15Qm10R2czdEtHVHY5M0xpMUVHTGtscnhKWm1jNXJobjlMMTZoaU5qeURnV0xFZl9kTlg2NmJLUWMySk5qcVR5YXpqcUJtUkNsR29BUUFNY0F2WEFkbVlLUzltX0ZuWWVsOWUtWW5Fc192VElISVNlVjNjaVA3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Get Golden Visa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-21T07:00:00+00:00",
+   "fetched": "2026-10-22T23:30:22.370110+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "407e26a38e9d3df7",
@@ -58777,6 +58893,28 @@
    "prio": false,
    "score": 2.5,
    "groups": []
+  },
+  {
+   "id": "8981fe9677bc4c01",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Immigration crackdown and new rules create ‘wake-up call’ for Scottish businesses - Edinburgh Chamber of Commerce",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeU1LQ0F2emtkR1hMZzBibnBDbFhKMDliUXh2OUxYdWwyQVZWZWlMUGtDOEVtNlFMLV9tNzQtNjRNbW5EeUY5ME05VWtSdm1rckJ6Q0hlS2JKS292S2hxXzlqOWpkcWtHNTVEUFJuTjFQMGlmX0E0MU5URU1LV1YwYTQzeHVSSDRxUmZJQjJtYWl1VlB3OTFOMnA1WEdkbGN4dHl3N0Etdk9LXzNnTnB2Y3JpYkxjdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Edinburgh Chamber of Commerce",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-29T07:00:00+00:00",
+   "fetched": "2026-10-22T23:30:22.370110+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "54196663e8d0fcef",
