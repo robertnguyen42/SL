@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T14:07:39.406479+00:00",
+ "updated": "2026-10-22T15:06:10.258013+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -341,13 +341,13 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 13
+   "count": 38
   },
   {
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "us-eb-work",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "us-family",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 33
+   "count": 10
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -533,19 +533,19 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 16
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "eu-student",
@@ -581,13 +581,13 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -617,19 +617,19 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 37
+   "count": 35
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 20
+   "count": 14
   },
   {
    "id": "nz-investor",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -719,10 +719,34 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 12
   }
  ],
  "items": [
+  {
+   "id": "55317a047dcb67e9",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "Savory & Partners Highlights Six Checks for Families Choosing an Investment Migration Adviser - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN3kyM2ZZVHpVeVF6UjZPU1NmZVVldHlIYjYxQkJybk41ZmhrRC1IbmtucDFvaUkyOTJBeTAwdlBkencxa3FnUWNmajIyVzEtVnNzbTdnTHdTelJDaVpEWVBnaTM1RXNvdUFkNDNvTFFjUG1pTURIUGFNT290QWxCZTJNMUJxdmYxMElmRE1XaVJleEVSb21XdG9kYnJ6ZmdaaHBVLWNMV2FOQTgzX3Y4UUlMaW5jeHhZQnlwRWV1MnJYdTRGbHA2aTlpeHN5QjEzckEzak40OUpZM0pEaFZrZTd4QjFFYm5Gb3NxZHJFVkd6RVFI0gH6AUFVX3lxTFBjRk96bWhnall5MXVGRFV6dXpOVHl3MU1CZlhINWprZG50ZEpnUjBZVkwxOFdaWUpXdlNmeE1VQVVjVDIxNDZHOTE4ZE90Mzd5Y1puZ2JuMlIybDQxNjNoRWJ6MVZqVlN0ekZnZVNKS2pVQXBpWXRYLWJ5Qnk4c09PMmxqbklRbTAybnc2dnN3TTNCaDlDUWNVSnlHZEhTMmUwcVdSZms3Vk9KQVNiRC1CVEJEWXYtQWc3clBlMGdDVnplNzhlN2ZyRHg4OXFCS0xnbXRjQjI4VEdOR093bFhFaGNDb01vczBIT2lvdVpfOGtQcG5CcmZEeGc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Manila Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-22T14:05:52+00:00",
+   "fetched": "2026-10-22T15:06:10.258013+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "7a4e0abb4bf28492",
    "src_group": null,
@@ -826,6 +850,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "f61cf4b668b72c52",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Techouse Expands Offshore Water Treatment Business with Ambio Acquisition - Offshore Engineer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnhOdHFwbjlkX04zdzZWLVdBZE9iNXlHcVNiVkNBNzEwUEhxX1VSYUJTRlNIX3YtX0tBUHRQaVdFU3BueHN5V0dFbzZHcml3STNmQWVSc0lGSGRqNTgxVGs1a0lFWDlBWXZleHNmOTU2TEpyVERZNjhNaENnZnQzQlpScy1lS29EOThQVDVQY0VBRjJBM0hId0tVVHFXQTVBQ3BRRHk5U1RnZDRzWGoxQg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Engineer Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-22T12:27:24+00:00",
+   "fetched": "2026-10-22T15:06:10.258013+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "f262c58892212b56",
@@ -1311,6 +1359,28 @@
    "source": "eu-blue-card",
    "published": "2026-10-22T07:19:15+00:00",
    "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "ce60e1813c92e0a7",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Dudung and Australia's Minister for Home Affairs Hold Meeting on 5 Security Issues - Kompas.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR3U3MjNNcGNDakN2dHNSUVhKVHo0cDZDSVBWdHozWm1Ya2tWTjgtZTFjNVpmTU5DU092MXl2UGRyT2c1RmxSdUxoQjhNRlVXLXRXdWFMdm4zZFhiaU1SS0NpYmRJRkdaVmI3cDdVMkJJZUdIa25PUHk3ZVFqM1c5Ukh1QVJJN0p5aDI1bkVOYy05dENSODZ1eFJTbFZqMlM1Y1pSTFVMbnN1eTFQMmhiMVlaaURSZ0xZZ1cyVmpCUzdpWEhLWnpTeQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Kompas.com",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-22T07:16:39+00:00",
+   "fetched": "2026-10-22T15:06:10.258013+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -2454,6 +2524,30 @@
    "fetched": "2026-10-21T17:04:11.480269+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "55d2924827470378",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "The Central Bank of the Russian Federation set the official euro exchange rate on October 22 at 91.9337 rubles. - AKM.RU",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdF9Sc3ZGLTRpVXNtWmU0QmdUMGZkcTlxYVc3WmlNbTBQTDJpdUl4VjduTnFHNlh4aU04ZzJkTFhLXzVzVUtNemI4Y25SLUJFaFJVOS1Ha1pVQzEyR2ZKc0dsN2ltaVRiYVo4YnFDS09xT09nVWN2TGZnMWlwNjlzZlF4YTFOajRoNXVjTHg4R3BTNV9NR2syRmt6ZUI0RVJiMXBpc2YyYWxnMTBRSVFsN1k1VGhvd09WeS1jOGU0cjg1NGNxcnplWA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "AKM.RU",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-1",
+   "published": "2026-10-21T16:30:26+00:00",
+   "fetched": "2026-10-22T15:06:10.258013+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -13163,6 +13257,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "fa4844ba1d56575a",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada refocusing Express Entry on top talent that drives economic growth - Indo-Canadian Voice",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmJMdGFuX2g1Q1dnNHdjQVF4WTBfS1VTTmZGTVlzUkNTdnZrb2hCd1E4clAzUWhFbGU2cW5FRm40RWV4Uk5kcDF0SVBaV3BmR28zWUxia1NpNzNNaTNRbGhjYTJfZVcwMHlMWWxLdEhnZ0dJZnJUM3FsaVlEX3dkNE0yeTJPVV9WdzRDNFo2YndKVU5vUUo5T05fdXJtUkk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Indo-Canadian Voice",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-10-16T19:34:52+00:00",
+   "fetched": "2026-10-22T15:06:10.258013+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "aa0f63cb24c18ff7",
