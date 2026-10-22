@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T13:18:41.453863+00:00",
+ "updated": "2026-10-22T14:07:39.406479+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "au-sheet-chung-1",
@@ -341,13 +341,13 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 35
+   "count": 13
   },
   {
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "us-eb-work",
@@ -383,7 +383,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 23
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 40
   },
   {
    "id": "eu-family",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "eu-sheet-khac-3",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 8
+   "count": 11
   },
   {
    "id": "ae-sheet-chung-2",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -719,10 +719,142 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 13
   }
  ],
  "items": [
+  {
+   "id": "7a4e0abb4bf28492",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "‘I can’t sleep at night’: international students forced to navigate the impact of Labor’s sudden visa changes - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUk0zbFFTNVFuZ2ZfUkZPMktkRnVEc3lqNXhmbW8wS01zMzhMcENYZVZJc1k4V1dsbnJ1bEZiRlRrRU5UVU5PamlwbnlRalhFQ1BZdDV5TTBXZW9IczFKc2llVkdWR2xaRGFYRG1XVk5mNVNIMHNBd3RfMUtwR3k1WnNXTjI5WkhqeVphdDVReWJpYmZ1ZHN0RWdZcURzRVlybVNJak1tako5XzJsWmItWE15Nm5MOXN4TFowN0dqcUpxWml0RHozZDhDV245UzA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Guardian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-22T14:01:00+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "3a317cf6352b7397",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "Brooklyn building workers to receive $419K for prevailing wage violations - The Chief-Leader",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0xhUDA4N0tKX3F4VGttaTlLejBhQnMxV3pOTVd3Q0pRdG5nY3hpdDRZMGhyWmlmcU5SUGRxTFMtc25aVEY0cHItVGpqTWNaRjNTMkxaUlZIaTkyZ0l5Z3Y5N19EbXpVRUpEUFRMdTRKWmtSOHdaQTB3Tnp1OUUwMHQ0WEx5V2pyakVYN0NuUzFaOE1oX0I2RnVB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Chief-Leader",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-22T13:59:48+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "bd513a4cd184d1b6",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Express Entry CRS Changes 2026: New High-Wage Points and LMIA Rules - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUk1OE91OHhhd3lKVThFNnpTUnJDb0lqVnVwSV9EalRJemowT0NEVzZoSDA4X2hMOHN2TDNuQXNpQ2F1NzQyeUdCYXoteGVLRGNlTUlJanNSYjZ5Z2JmdW5zZG1OX2x0QUVjY0xEcklCUE80U2hMY2l3NUpOLUNNVHEwX041R0hsVzlZSEdES01LSkh4N1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-22T13:49:47+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [
+    "express-entry",
+    "work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "9f43dc84fa148a04",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Green Card Holder Sues Over Naturalization Taking ‘an Eternity’ - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3VCSGlHYUJHQzMzdTdLTmd1N0F6VGhMQVBXeVJjWlVTMzB6S1o2bXJaY21zMGdRNkNIWDlpWmx3UnpBeVJFX0ZnbXdGWlcwZ2VjSXZYTW4ybEgtbWlzelU4Y2ZOQjNnNzkyb0hqSXVqYlBjWklGV1dlN2h1OU9BaVhCbGxlUnJwbFpCTldjRnR4X2xQQ0dqZV9DTQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-22T13:28:00+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [
+    "green-card",
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "f262c58892212b56",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "India gets 37% of employment-based Green Card approvals as backlog crosses 2,00,000: USCIS - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTFZLR2U3QXZ3Q3JjeXpLMXBrX2dFaWIwdGpZakdoYno0NEVyTjlLOUh5XzM2OXdOXzZXOUplbmF0dDB2UWl2MXlJbHpmaWRFU21Ddmp0TElBTnI2UDlLQzNCT2FlS2dWVmpTR1R0UkhQLWFTMHY2dDlUWUJyZXhVdGxtUmZSUkk4Z1VHVHIwcU1FaVREUXc1ODNad2IzZkozX2VtekN2dlA1bGtxbC1nM3M5dzRENi1oTjFkZjFsZkZDY2xOR0hqTVpFZ21va1hXWWVtWnljNNIB1wFBVV95cUxPTFZLR2U3QXZ3Q3JjeXpLMXBrX2dFaWIwdGpZakdoYno0NEVyTjlLOUh5XzM2OXdOXzZXOUplbmF0dDB2UWl2MXlJbHpmaWRFU21Ddmp0TElBTnI2UDlLQzNCT2FlS2dWVmpTR1R0UkhQLWFTMHY2dDlUWUJyZXhVdGxtUmZSUkk4Z1VHVHIwcU1FaVREUXc1ODNad2IzZkozX2VtekN2dlA1bGtxbC1nM3M5dzRENi1oTjFkZjFsZkZDY2xOR0hqTVpFZ21va1hXWWVtWnljNA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Financial Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-22T12:19:40+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "a2cd6e12e40d7eb2",
    "src_group": "chung",
@@ -1166,6 +1298,28 @@
    "score": 0.0
   },
   {
+   "id": "b0468e6afd5fd0eb",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Germany Confirms Changes Making Tests Harder for Kenyans, Other Immigrants Beginning November 1 - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkxYVC1FODJBOVhuZXYyZVl1QUpQMnZfa3VOTUZVNkM2dTF5dWtPNlN5azFQZzFNcDdqb3dYUXloTl9YbTVSVG9xSGE5c2NfZWM0SmVRSlJaMjFXcVhMVXFydnRTX1BYTmFqZnZFOEVjVGJqQzdha2paWW5lNHdTVkFlbXExQ01McGlIclJMX2NDdjFRQVVIN3R6Wl8yQ0hfNjM5WWc0ZlRScTJPMHdJSGg4a2ZWRGM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-blue-card",
+   "published": "2026-10-22T07:19:15+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "b53c4fdb6000c3b1",
    "src_group": "chung",
    "src_country": "AU",
@@ -1183,6 +1337,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "de57f11f551a7e42",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Citizenship Approvals Slow For Indians As Backlog Tops 813,000 - Sarkaritel.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2VHdjFvVUE4bmVaNHpvSUs3Yngwd05maDVqdTJxTzhVZEozbGI5R3dvS3NrZGNDcXZURXJMeGxjSE1OSVMtMnZkbGFOY2x4U3l2azlrZkhsY09LbnZacjgxMGFFQ3lFT2NHT0RySDROUGdwakN5WWtjbzFrTUFJS0NHcnlJbGZwd09Z?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Sarkaritel.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-22T05:59:34+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -1899,6 +2075,32 @@
    "score": 2.5
   },
   {
+   "id": "8a27662d0f3e1e8b",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "If Democrats win Senate, Van Hollen will prioritize green card path for immigrants who fled conflict or disasters - CNS Maryland",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNWx0Ry13QmhQTUdXRWFwSG04QUdZNTVJRkdTcFUyOHZEeERWb3p6cGdTZ3ZDX2JJSjFqV0ZSdDNRN055VWFqeTdsek81RHJ2eC1BLThFOW5Ycjh6UDVKOEFaM2FXbVlTWlJZU0wwMGt5eWtkVzJ1ME5OM1p6ZnhQWVV6NjBRTnhoTFdGQXpZNUI3ZWN3OFB0dEdLQ0dtOUFxM1RVVHNMWFBEc2xXdnJOWE92ODlvdEZvU2FQc0t1MVIxbTVobkprbWdtTzZjejBnZnpoRmZmUHBRcjVDY09HOFVR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CNS Maryland",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-21T21:00:35+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "a522c6f4c5be810d",
    "src_group": null,
    "src_country": "NZ",
@@ -2422,6 +2624,32 @@
    ],
    "groups": [
     "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "f807ffcc8500d7f1",
+   "src_group": null,
+   "src_country": "US",
+   "title": "The Cost Of Waiting On EB-5 Is About To Get Higher Arabian Post - Menafn",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGVsS19ua0d5cmpfY2JId2RCR1ZBcnhiY0VZYWpTWVdhN2MtaUh4V1A4X1JjVFpHTGtBYU9ZcFZKNWpUd1l2cnZOenJQcEVqOXJRbWZVaHlKLUpBWVFxT1ZtamRwZXdKc3h2VEhPM1NNVzlvWnlCX0JvWVlJa0ZUNTFQdXYtelJrZWtaV1ZnWjFWRVRGN29jZg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Menafn",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-21T15:09:48+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
    ],
    "lang": "en",
    "policy": false,
@@ -4647,6 +4875,30 @@
    "score": 0.0
   },
   {
+   "id": "6f819ead2add6dcb",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "UAE President receives delegation participating in Abu Dhabi Future Health Summit 2026 - Emirates 24|7",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTlXN0hobURxUHh4YzVYZlNKLTAxWGotTVBSSVk5UHJQdXU2Mnh4a3FycTIyMEEwbHZxXzdOcW83T2NVdGd6TS1sWUNwdHl2RGRlVi1OU2VoVS1BUjZySGxEU3ZfV0dnSlpNTUZEZG0yZVpucE1maGRkWjBFX20wNjI2NE1OMTZUenhKV1lTeHVHRFA4Q1Jmel9uMmpBQ2cxRjllci1XM2Jfa2tmSHhSM1hicngtb180QTJQQ3pxTUbSAdsBQVVfeXFMTmtkMXB0ZnVlaDRKbjBXX2hxWU5WWC13LUxTWWlmWnR0MGRleDVYbkZVSExCbm9vbnljNTZ3dDlJSENhNlJBeXhMZ3UyazlqaHFTeklFTjZtRy1ERDBERW44NG53RXhkelI3ak03YkF2OXlhRUJjN0d6WmFMaF9xUGtmN29RbHZjNUJKNWtIRjFHWnp2cGp1b2ZySjhwSW5PRDlmandmdVozc2Z4WFY3dEJ0OGtfNWZzSzdsUDNlVHdMWDlfblRwNzA5M1hTSkRoOHBUSXNraHhuNnZF?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Emirates 24|7",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-20T18:09:00+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "5353fbfb6659b644",
    "src_group": null,
    "src_country": "AU",
@@ -6219,6 +6471,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "c48c82d9f92c8828",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Overview of Schengen Visa Statistics (2014 – 2025) - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81MmhiWDVNZDVua2htZmZzMGNWS1F3NkE0WldXVzNlbUs4TGdZN3hjcDNWdi1LcDEyQWpFSmJwMnV3SlhyTDZPRzkta0lBaVktVWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-20T07:00:00+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "230200f7850f286d",
@@ -9201,6 +9479,30 @@
    "score": 0.0
   },
   {
+   "id": "9eb7b63035c7b0dd",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "UAE Names 5 Groups of Talented People Eligible for Golden Residence Permit Without a Job Contract - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTRYNVlkeHRuYVJBMmVodGJ2TlJOUk9HMVlZSDlNLTJ3UlhQb0lUXzNmdk01YnV4VE1zTlhkZnQ2ZTU5VzJKTWI1Z01veDFzYUhIR3pOSkJfR2swX1JuVHkzODVoNERFU04wN1lvVjhIcWVaNzdIbUIyUW1CMHVWbHZ4djFOaU42NF9JczZrbU1EU2ZhS1ZRY0dSck1lNGdQSDlLNHBOa2JBb212OTlOcmVqLWs2ckk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-19T08:57:29+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "149ea4b44013a75d",
    "src_group": "chung",
    "src_country": "AU",
@@ -9882,6 +10184,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "8f1f7f64889ea34d",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS keeps Tps Ukraine deadline as 101,000 face uncertainty - شبكة تواصل الإخبارية",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51Mm9qR2hKazh0NUFFTHNuQ0FWZmUyNUpSY1NpWmVWMHRqMXRYbGNQOGVrVWtteEdZYUt3ZU9ybkFoN2thY3g0Uy13d2IzSVhXUmJj?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "شبكة تواصل الإخبارية",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-18T20:47:24+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -12229,6 +12553,32 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "517eacc5a76fed91",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Cuban green card applicants face sharp approval decline as US immigration rules come under scrutiny | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRFlLVGk4ajVLNUVKcVVhdnozaE5zM1JRZjRCdmVPSkZadzJ2NFJabzg4aW00OUtmempfVm9wV1VLWVEwNmMxNXJ6b1NzUkZXN1BHTkNVd1UxX2RUUm9GLXNudExPUG5xbkRTNTRhWjlvWFJOLTV3RmZWX3lieG96cVpQOV83T2EtY25jWlJLX1k3SHBSM0t1WlNYQW1EdWVXaHdDSG01ZTU2Vzk3VkJhX3hVRnJ6LVUtaEM0NGNJVmhhVFNZWk5UdVhyd0d4VWRvYUJoSkZqTnAwVk03eFJCM0RXM053VnlBSFp6dll1Z1BpU0RIMGRoUGFITmxPc3PSAYQCQVVfeXFMTjIyZU1MTW9NT0dIQXZHS2VjcDZnMmZucmVrSzdjM2dtVFBGM0xvbzFsUzVvMWswLVptd0phamkwQVJzWEVxU0x3VlI3S094T3ExRU5ZT0I0eWo1dExONHZQWjFjT1hSNVpIRjdaNUNoeWhSbjROLWpheU1IYkRnOWprRENscUlrOUFQbkFnZ1QzcFlLU1c5Uk13b1V5RWdWcDR1RkozWnJxRDhjSHR3V0lsQWp1c3pWb19zVElvSjIzRDFzdDRXRnUzMWVjNmxkUmZFenRPQUxFZjdoem9mOGN4cTk5bEZKVTdZU0VYbUJ6eV9VSVlfa2VFOXpyYnNHa28xQ3E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-17T00:46:26+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "9aa2c775e26024b0",
@@ -16364,6 +16714,32 @@
    "groups": [
     "dau-tu"
    ]
+  },
+  {
+   "id": "76cc620a69c4fd4e",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Microsoft President Brad Smith warns Trump’s Green Card restrictions could hurt tech - The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOFE4WUw3RnhxRi1aMUxYMFVfNUdfSWVKMmtMZTBJNm5zU3Nabjcwbms0RklsT3JIUHZuOGhHUnV1NWpIZTNMWU8tQ2laa2U3TmVzRm96ZmhJLTdjbkxaS3VpaE42RlRxUU5Bb3JYMnVHOG9oVnYxNFI1RW9hV1N6QjdlTDh1MGNpWkNhcjNzY1NNZUNvV29iS2J6MHFKQktqLXMtSXk0RWVFcUVLSXhlWkhqWlUyM29zdHBBTnBaVUJxVmFjM1h5cFVxSm1rdUs5?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The American Bazaar",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-15T20:53:00+00:00",
+   "fetched": "2026-10-22T14:07:39.406479+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "de1821d60550722c",
