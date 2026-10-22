@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T10:06:26.029916+00:00",
+ "updated": "2026-10-22T11:03:54.409809+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 13
+   "count": 37
   },
   {
    "id": "au-student",
@@ -269,13 +269,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 15
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-parent",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 10
   },
   {
    "id": "ca-pr-citizenship",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 27
+   "count": 21
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -527,19 +527,19 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 28
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 10
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "eu-schengen",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "eu-sheet-chung-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -724,6 +724,80 @@
  ],
  "items": [
   {
+   "id": "12f8c9dabd4b5679",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "9 Changes to Portugal's Golden Visa Citizenship Timeline Explained - The Portugal News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkRGMDdCQlhUaWx2a2kxOGlKcHN1SDlvZlFKN2JxVFBGZTN3dTdrd0hMY09MQnJLdXR2clBHbXZzQ1J6MEgzUVdxb240Vm5uSDZNcG9VcEhZSThIVXdRUDF0SjVjUm5MLVJUdjZWSENjb0pwbHQ5cDNySm9mVk1xaDZLMTF5NXcyTklpMTkybTJRTHIzN1k1dWVROFp6U2pFZjF3c21LMkNQakpvOGkzVXRUT05EUl82azdsV2FB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Portugal News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-22T10:59:23+00:00",
+   "fetched": "2026-10-22T11:03:54.409809+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "5c6769536cce9f60",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand lists 6 requirements for citizens of 1 country to get a 3-year visa - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb0FrcmlFdmhOd2xmcktBM1NoUXlrdkxvN3NQUmZfZE5yX2V0dHQwLU12V0hzWHA0bjczdVVsR0xqLWo1RF9vRHpLVUZZR0ZvbmdSbkN5TlluTW90dFl3QlljMUtPZGZQWEdDTjBTcmRVa3NiZTFJNkhFQVBMQllSbS1qOEZYUzZCVDVPVktJTUFVOVFMeEVIM3NfN1RGaFc2eWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-10-22T10:36:50+00:00",
+   "fetched": "2026-10-22T11:03:54.409809+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "805ea238f45f76db",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US EB-5 Visa Fees to Increase From November 30, 2026 - IndianEagle",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5VTFSN3N5TUEyeHV2clRWLTlDelRoZjk1LVhZTEJTZUZWQWpaMW1QeG1zYjNpR25LbGNwS3FWVDdqTHhBUGpOQzFKNFRQS1FmOWRoOHpMRTBjQURTaWpLTHZMQ0JYVXFVYjVHUU95NXAtc2paTEpoS2dB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "IndianEagle",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-22T09:29:53+00:00",
+   "fetched": "2026-10-22T11:03:54.409809+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "21a3b18619bc40aa",
    "src_group": null,
    "src_country": "CA",
@@ -798,6 +872,30 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "ca37980516ab5898",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Archer pulls out of offshore wind projects amid financial troubles - Splash247",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNW9fbHdrdFhqVWFaNGhQUWRmSXRHcmx5ZmNidHNQSElwaU1QUExHUWZ1aVc3c1Y1UEhpa3NBeGt3MEFRcUxjZTh6anc1SVR5b2NlZ01RaHhWbG04M2VHdmp0R2lOc3Z1RDFkN3RKSW9LZDllX202RDE5MWVaRjFSQnNTLWxUNWtyY290UDh2d0VWTjQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Splash247",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-22T07:31:28+00:00",
+   "fetched": "2026-10-22T11:03:54.409809+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d3917fcbdb7ad382",
@@ -969,6 +1067,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "debf1ce8112c6a9a",
+   "src_group": null,
+   "src_country": "US",
+   "title": "As H-1B visa changes keep coming, biopharmas adjust hiring approach - BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb2ppRHEydHlpd1M0UkNLYlZKNnhqTHRSNkFmU0JwU1FCQVRPUURUWGJ0WnVTcXpGbWZSZUVqZThaQXlUcm1sLXcyaWYteC0xV0RoTFNtNGpqTFEyaXd2YldIQUVpRDVVNGMzdmNjQkJSOHY3bWp5SHBXUjZaVHlGcUtoMy1feGlKcVRoSmtNUGUzX1hsOGc4YnE5SlpIaXdCSmlVaQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BioSpace",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-22T04:08:30+00:00",
+   "fetched": "2026-10-22T11:03:54.409809+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "801bc73f48ec5fc8",
@@ -6517,6 +6641,32 @@
    "score": 0.0
   },
   {
+   "id": "4fe0e129e3269df8",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Green card holders arrested in California for allegedly registering to vote illegally - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDJFSHhmVVZtbGFwNFcyMWd3XzBPSUk1LUYtLXJfOC1EMzJZU2hOSElaNm1DSVFBN2lOWkFTRTVEMFdCdWFjRWNEckxvX0JnSC1pYU5PU3VVNFg2RTRRODQ3eXVlZHB6NTNjZTZrVkZaVGpKS0JRUXhqVlc5S3JXOFkyS21qSTlOaEpUQTU1LUs1YVdWR0VFamRMYkU5TEszVW14ZlF4QWdaSjREMnZnaUZsUFJDUktXX2lPcF9oa3VMVk9oOGc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CBS News",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-20T00:21:00+00:00",
+   "fetched": "2026-10-22T11:03:54.409809+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "aeabdd7ffde4656c",
    "src_group": "chung",
    "src_country": "US",
@@ -6738,6 +6888,32 @@
    "source": "us-sheet-chung-1",
    "published": "2026-10-19T22:57:40+00:00",
    "fetched": "2026-10-20T20:25:19.502467+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "244c0929120e5407",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "11 green card holders arrested in California for allegedly registering to vote illegally - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOenJfS0Z1bjNGdlNiM3BRSS10T2JmNUZ2b05RU3ZUX2F4RENhMTFyakJVamhackZFaXJBSVJONG1OSzlSQ01HN0F5RHpwMUp0bGNKSGIxMmFMaVgxdnJROFFGRk5KelV2UlMwWF92MVlqdm1wczBtajhPejluaHlzbGVvbGVUZFFZcnpuMmVHaWxmN2lsZVg2QVhQemZ5ZjdZdm01OTJqVXRqV0o4Z0NFQ2RvSDREb2w2aFpv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CBS News",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-19T22:53:00+00:00",
+   "fetched": "2026-10-22T11:03:54.409809+00:00",
    "visas": [
     "green-card"
    ],
@@ -7037,6 +7213,32 @@
    "score": 4.0
   },
   {
+   "id": "3da72593a81fa4d8",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Feds Charge 28 Green Card Holders In Voter-Fraud Crackdown As Texas Early Voting Begins - Dallas Express",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUGJocXA2czJ5WmEwVGtWWkl4ZzR5cmtOOGNSN2N4clpyVjFIbS0zT2lmRWhRcE12WDFScXUtT2VsVDBKRTIwQkpPamNZNS1Hd0pmUl91b2N6N05DTTdHZlA2QzZGMXdlVEExeThUMVZZMlVTcnAxbkFFbXliZWRzTHZZSWxrdkdHVEd0ckRjczdIMGwwdjY2QVc1U3pOaG5zYUZZSkNxVjJZTjN4elEtY0xwcldpbG5QTUNYVXRGU2I?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Dallas Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-19T20:18:18+00:00",
+   "fetched": "2026-10-22T11:03:54.409809+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "cc1474ad6c9da539",
    "src_group": null,
    "src_country": "US",
@@ -7228,6 +7430,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "5a5f9f35f873d98a",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Trump administration announces arrest of 11 green card holders in California, charges 28 with voter fraud - Clarin.com",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbmNFWGFMY0UwNG9JLXR3ZkJic2dMS0hwV3JKMXZVRzltVTczOTU4NjNETVV1SHQ2eG5WSHNlU1hteE5YZ3gxdHJwcUJIQVNPLXVMaUlkOWd2ZjJmLW1QMUlBLXNkSlNIRDlkcDE4UEMybXRqdVl6NTZSUEhEdXRJRDNSX2QyNzlBLWt4VnFmZU05bHNPN1VTeG5yVjdXYURPczdvT0l6bk9HcEY0X0k1MlBGdVdmZko5WVRGVG9nc0lwRmNWMm9sYnQ0Snd4Yjd0ckpQTi1mR0lhZjM5YlE3VHZOTVRXYnlq0gHuAUFVX3lxTE5HeDNvMVVzMjlFUlpxVnVKNHNKQkw2SkhRaEIyQWNNbjFGeHVmdjN0alhYc3hiMEdaeDBKekRZNlNCanBwZmJPZ0Z5RDVIS1VqTnp4cnViN2J4a3ZZekpScE55RTdKQW9UNEpyckNlMVNQakwwQ3k5bllPSm1sbUZCMTExUlowaGIyU09KSFZRZ0swVUxicUU0S1NQV2JsaXR2LU1HaWlFTDR2cWNvX2JMVm8tc2pHSllZWmRWM1ZWM01oV0t1TWNOczNtS1NreVI2dXpwRnJZTmNrTy16SmlXQVljTXctVHVzMlZCMHc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Clarin.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-19T19:01:50+00:00",
+   "fetched": "2026-10-22T11:03:54.409809+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "ff0337ba77ef3ee8",
@@ -9270,6 +9498,32 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "4f261324947e838d",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Judge orders Diversity Lottery reopened as Florida overtakes California in new green cards - Florida Politics",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdE1xcXdKT3o5VzFaQkp1X3dhNl9MT09ETzhWNE9HVlhvTC1Rd29UTDVkSmtqMGx5dm5lZ3ZRMUxIMzhzWWZUWHFrM1E3bVhUblotS0F2TnFIREhsVUU5V1BXU2xPZTJqd1MyRFBkdTAwSTdoQ2thb1d5eTJVNHNpeWtQNGYwaHVKaVliS0JiOXdKOFo1YUVmMWt5azFuQUJjSmRYNVBTVVFrcGRZblFVVUk1RDNTVDdiU1JudUNocW8yNmQ3ZmRYWERmQUcyV013?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Florida Politics",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-18T22:05:49+00:00",
+   "fetched": "2026-10-22T11:03:54.409809+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "3d0fa1edf7cb4417",
@@ -15877,6 +16131,30 @@
     "chung",
     "khac"
    ]
+  },
+  {
+   "id": "6e852b4940b1760c",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Microsoft President Warns Green-Card Curbs Could Hurt US Tech: Report - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXMxR1ZXR3hrRUlOeFhkNk5yZDhBc0R3Nm0zX2lmZlEzTFJSbUtQdElvdHFyN2hWSFRGRGg0djVpaGRvQ2h2dGdXVFV5RUpKR3l6S25FT3MzbGlWWEZXd2pEVTAwaFROemQwNkFFSFJzemloUl9LSm8xcWxXWkJxcTFkMGQ5dzBkNGppc1JOOGkzTkp0NnhsNXhXMGlwUzFtYjREelZJSjNoT1duTEHSAbYBQVVfeXFMUE9LQTR5a01Oa25ncEt1WGpiTHh5VElkeHB1MDQzNC1ycmt3bTBKa3Z5Y2dtMjdpTWRqS2M3bTBvdmthUnN3X3pWR0RxTXlwNW13dGtIUWF5aUpHdU1iR3N6am5aXzNibEV3Ylo0NG9vY1ZxVWpsbnNTamd4emhMU0pYMW5mY3JoSmc3MmdLbjZJTDZaWTFrazVKbTNKLW56bHZNRGcxdlN6NHRIX2lIU2daRExXRVE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NDTV",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-15T20:05:19+00:00",
+   "fetched": "2026-10-22T11:03:54.409809+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "4019874035d555ec",
