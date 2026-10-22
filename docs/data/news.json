@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:40:06.136173+00:00",
+ "updated": "2026-10-22T01:31:44.609335+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -269,13 +269,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 15
+   "count": 9
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "ca-startup",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 40
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 14
+   "count": 28
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,13 +611,13 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -719,7 +719,7 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 17
+   "count": 16
   }
  ],
  "items": [
@@ -1096,6 +1096,28 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "92c98f3894efaef9",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "DiLorenzo has millions tied to offshore tax havens - American Journal News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXpocmtjMUpSczhTZmdZSFdYMzhXMjMxNGNyUHdHLXFWM1NsdzU2RTJMdk9SV0M4ZTdtV1o4WHo3Q0g1c0R1dTN6Z19iVUFpOElocVdYS3RsWWNCb1lxdWNUV0FIcUNuYzBzZTNhZGxsWnhpS3RTYWVhZnBhVzVseEs3RU1iOTU0VTVZ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "American Journal News",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T19:11:25+00:00",
+   "fetched": "2026-10-22T01:31:44.609335+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "00cb06f312547f0c",
@@ -21291,6 +21313,30 @@
    "score": 0.0
   },
   {
+   "id": "1f67092e0706ba8f",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "Hotels in Korea Court Long-Stay Guests as Visa Rules Ease - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjQ5TWZRaTV0dUlCc0FaR19xOWwtYXpwUHZpNjMwMGJiaU1haEJJaU1XM09fLUx2a0lvQjRlMnhwZnQwd2lJekVSVkVqNDJyLWZ4VmpCcGRBT3RQLVdsbU1wdDJlZlBUOXJVcVVXV1otdndla1VDZ3pDSUoxc0xlOHZOQ1gxWk5XT0d4amYzUjhja2Y3VV9CMUlGVlFVakpC?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Seoul Economic Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-3",
+   "published": "2026-10-13T21:00:05+00:00",
+   "fetched": "2026-10-22T01:31:44.609335+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "ef45cfd08fc0041c",
    "title": "Employment Court: offshore visa job premiums now illegal - B2B News",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUZyRTViRWgxb3lpWVEwMEZFY1VjbjBEYW1JRVpyNXdlX0Y5TDY0aUR4Wm5VcGNGOUdRTEZiOGxrS2pCT2VadnZEN2ViVmFPaktHUW8wSkJmVTdvQmRYeXRWNjJzT3VZd2doZ0liQUFMWUlYZUF3T05UTnBOeUxzU1pEUEVYZGxQWWVj?oc=5",
@@ -23532,6 +23578,28 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "887766cbe0baf6d5",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "10 Premium Investment Immigration Programs for UHNWIs - Nomad Capitalist",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV1pKTXgzZkZvNDAwMWFIS2Q5SGpGSGFVZ2wzeldmNnBETmpGSjdBY3p1alhmWDZCd3pMQkk3UlRCWWZSOVRlT3V0UW11cnVaT3VHWEgzeEViY0ZMVkc0WkpjV3dGMFNYS3JjNGFidmdCNVU1Tk9sRkJ0MW1Sckh2UHR0Y0xQRGY3WGQtT0JIZUc1emhCSmJrbGMzdk5adzg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nomad Capitalist",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-13T07:00:00+00:00",
+   "fetched": "2026-10-22T01:31:44.609335+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "252a52bf647d550d",
@@ -52635,6 +52703,28 @@
    "source": "us-green-card",
    "published": "2026-09-30T07:00:00+00:00",
    "fetched": "2026-10-21T11:03:03.100639+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a1c12504ca2ca6ec",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Burke’s asylum seeker visa blowout leaves Operation Sovereign Borders in ruins - News24",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOSGxGWEQ3TXk2OFVaX1BGd0hIa2JVaUhhVk51Yk9EVHo0LTVkV29FUnZhUWc1czYxcGpxX3plV012SXVmUy0xRXVmVE9kNmkydk5pOWVCOGMyRXVkWkFOejlaTEROVEh3NTlHMFV2OF9DUXpOUjhVRGIzMjFkd3AzTV9qOHlHSDI2YlIxc05pMGpGSmRNQVBUZmRvaTVJUk5IYXFTblRidGkwNS0tSkEyUjZyS0t0Ry1WbEtnZTljdkRsOU9zOXBhNVVHOU5jb25IbWRUMHllekhRc19Uc094LXJoTzBtUjB0YmwtX05iUElscUp0aE9HUTVQYVNCTEp6OVpuWGhQUzdTQUhNMWFFWGh2ejU0YlllX1I0THpIRDVPMWZabjhZOUpMSU03SmRBQ0FILVQyeXJDYTAwLXE1blB30gHHAkFVX3lxTE1tc25GcXhNYjNuQ19HRUdQSllIMlZOQWhocDdhT2M2UjR1bkxGZXNGV1hfMmc5amF4TDR3SlJiLTZvbjVlWl9MR1I4YjlYb1VucWFTam1QbEhDdkFkM0lLTkZUWEhLd2hYV0FjWUpoNXByNnhsdFRtWUZ5Z2dza2RBd1duQUNwTUlhc2FmVjliVzFHS2ZlZTVVbTFUaE1aeVZ0TmU2UTVJcng4U2FPWHhZZjlnQ09Wdm1LMDRkZXBoQlZYdUNZaVVfclVFUi1namdqRnVkUWVpVWdlakxNbWdwYlJaemtBSjFlQ2JHaEQ2VkpJNmIxWm1fN3BVbHlwT3F5QVhMRk9GTDVKZXpDUHdmelRDQVc3Ymw2Tl9fNlNUd2YzVUhOc2dwOTk5YmtkMGd5ZXNkRnhVekQyNExIWlJxSlIxWXE1MA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News24",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-22T01:31:44.609335+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
