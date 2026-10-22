@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:01:03.934901+00:00",
+ "updated": "2026-10-22T22:58:58.497829+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 28
   },
   {
    "id": "nz-gov",
@@ -239,19 +239,19 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 13
+   "count": 38
   },
   {
    "id": "au-student",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 13
+   "count": 36
   },
   {
    "id": "us-eb5",
@@ -371,13 +371,13 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 10
   },
   {
    "id": "us-visa-bulletin",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 35
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ca-student",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 13
+   "count": 36
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "ca-sheet-chung-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 23
+   "count": 10
   },
   {
    "id": "eu-student",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-sheet-chung-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "nz-aewv",
@@ -719,10 +719,114 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 17
+   "count": 16
   }
  ],
  "items": [
+  {
+   "id": "fe2de0de7605dc0d",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "HOW TO GET ETA FORMS RIGHT - Travel Industry Today",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mVFZ0a0RVbGdNNDgyeWVhS1AyWmNCZGxHLU5Ka3dlOW9EZnJ2Z3l6Q3BPU3RqYzlXTk9oZjc5VEZqU3ZadEwyZHRkMW5vd3RSSlkwVFBFeHc1Qkh4UVZpRFNtUEZTeEQzcDZj?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Travel Industry Today",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-22T22:56:51+00:00",
+   "fetched": "2026-10-22T22:58:58.497829+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "365df67f3e36a1da",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Naturalization ceremony in Helena-West Helena ushers in 31 brand-new U.S. citizens - Northwest Arkansas Democrat-Gazette",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUHpGUW9FZUxOeUJrTVNpN2dIX1VMaHU2VmR1aC1sS2I4em9YbktFS3RnS2VkanlhNVFmWTV4cDIwS1lLUmZjMWNnQlFQS3ZjZWFaQVFJTWliNkMyVFZGZ0Vnemx0Z29TYjRsMnI2dFMxMHFoMFZwZmlyMDk4T1BJanFJa2k2LThJaE5fektqSkNfUzA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Northwest Arkansas Democrat-Gazette",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-22T22:51:00+00:00",
+   "fetched": "2026-10-22T22:58:58.497829+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "e98bd6cd5481c0d8",
+   "src_group": null,
+   "src_country": "US",
+   "title": "California, Texas, New York lead US green card filings - The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVRZMGtUc2RyakctaXpkak5TVmZjQlRTMDVYanFONGloblpSUk5TcDdQWG0wczcwYktDcjdDZEtzNXN6eUJRblFlQzhmMGswMm1zMkZzbVZxbVVXZy1vYks1Mmk1cUhiNElGcGlBdnY4cHRwbnEzWkN3aG80dzVtRVNJQUxldmZTQi1uYWF3MXBoamplay0yQnM2anc5SkhORllJdUJucw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The American Bazaar",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-22T22:44:16+00:00",
+   "fetched": "2026-10-22T22:58:58.497829+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "e0ad9e7fa69b756b",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada brings back job offer points in Express Entry, but there’s a catch - Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTHhUSkdKeUNxcFFSeUR3SndwdGRTS0dhTUhCRlY4dDFYekc4dkdfQm5mOTA2V2FHV1FOYUtFZHdIMkFfV3RBSTl6VmlNUmZYT0xRc2xFRXFkRFNLazhCemtIMklldS1tN2RJSkc3Rl93b3ZvNTFEdTQ1TktzS2p0WU5PRzFOTkRGVjBJM3pkVWY5bUNhaTZiOHNGMGljRGU2LXRoc3k2SnBWQ3gtNDFoNUJPZW96TU41MEkxQV9nQ3pqNXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Financial Express",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-2",
+   "published": "2026-10-22T22:34:00+00:00",
+   "fetched": "2026-10-22T22:58:58.497829+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "76d8f65868bfe09d",
    "src_group": null,
@@ -748,6 +852,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "7450d4374c412eb5",
+   "src_group": null,
+   "src_country": "US",
+   "title": "United States | November 2026 Visa Bulletin: Dates for Filing chart applies, showing no movement across EB categories - BAL Immigration Law",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX0JMcTQ0bzlvUV9NUjc5OHF5d1FrelAtZ1ZTcDVpLUtHT21fSTJrQWhVd2JKbk9TbTdVbnRELURVRElIekxiejJhMHlLUGNocHB0WU5TLWJLWi1ReXJMTGRoOEFxTHdFQVlfWHFpcTdSZjdJQnpCTUZ5VVpRQUMwcWRoODFSTXFsbk9LZXAzUHZmbXVRYmcwRUZ6azlvMXNfd2J5emwxYVI0ZnVsTllYSS1kamFhQjlyQjV2TUxPcTNHMEI5TW0zZjFSM1FLWDdyd25vWWpEQmgyLVRxNWwzVTVmdU50QQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BAL Immigration Law",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-22T21:25:26+00:00",
+   "fetched": "2026-10-22T22:58:58.497829+00:00",
+   "visas": [
+    "visa-bulletin"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "20ead2dd9899ad38",
@@ -4982,6 +5112,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "550def99d13b2f1d",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "Latvia Reshapes Its Golden Visa : Property Route Ends Under New Immigration Law - Get Golden Visa",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGs4RXhsXzE4dGRXS0FWZk53a1JKTDQ3cTZsYkViMWxlUkZkbGhnME1xZVctRXgxMWNoSWJOaEkySEhGZHMxZ0xUeGNNRHhaRGxXOHBLM1QtTlFkTmpFZWhlUDR1YUthNjFNSHRwaGhXOUVLUWpweERHY0R1ZEhEallBU2Y2eXVSS3FEdjc2bDNMc0tVYlRBbVdzbVJBcWhCUTNKTVJR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Get Golden Visa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-21T07:00:00+00:00",
+   "fetched": "2026-10-22T22:58:58.497829+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "407e26a38e9d3df7",
