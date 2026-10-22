@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T03:04:54.949507+00:00",
+ "updated": "2026-10-22T04:05:40.239387+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "au-skills-in-demand",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "au-sheet-chung-1",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 14
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
@@ -347,7 +347,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "us-eb-work",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "us-visitor",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "ca-startup",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 20
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 20
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -581,13 +581,13 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 9
   },
   {
    "id": "eu-sheet-khac-3",
@@ -629,13 +629,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 20
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-business",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 11
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,60 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 16
+   "count": 9
   }
  ],
  "items": [
+  {
+   "id": "52946de7f0d23774",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "‘Impressive’ bidder line-up emerges for offshore expansion prize at world’s largest gas field - Upstream Online",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmM5VldJWnkxUWJkR0VGV3Z3WUZ6RWJVU3NQUUtyX1dJLVRidkZWT1RoSnVCLThfMGZ2dFJjY2JJb3JhWjJ4V2l4UXFJZGIzNEZ2RUZYYXV0emdMUEs4UzI0R3JReUwxaUxUNGp3bXR1OWNwZnNDODBPN2h4ZENoV05xbU9YS3NldXJQbVNSSWNnS2E1N0p0anFOb2FxSFIzazhfOHdaWVRqYXlwNnJuVHR6WnZWZ2ZESThWVjdvZkd6VEs3LURRSlhDYkhwVVZVZEtLSXJRcTkxSGZiZEhVZE1DOTBXSWc3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Upstream Online",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-22T02:35:36+00:00",
+   "fetched": "2026-10-22T04:05:40.239387+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "c204bad192773457",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Employers and Green Card Sponsor Suspensions - International Legal and Business Services Group",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0x5SVFNYklNZkZ2UWw1T1M3aXBuZlBFWENDcFBZTWlBNDdDZUNFZWZfcVFfNVFKUTBOcGNucU5rM0F4UmR6Y2JMaFQxTzBGUzVfR29sWmdxNGNtSEwwbEc5TVNuNlR5SEpRT21VN19OTnlCTUN0X21kcjEwZzlSTUdrV28wUVV5U1BSalJn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "International Legal and Business Services Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-21T23:45:35+00:00",
+   "fetched": "2026-10-22T04:05:40.239387+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "ce830ec92c46514a",
    "src_group": null,
@@ -1379,6 +1429,28 @@
    "groups": [
     "khac"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "12f509fe2dff4d90",
+   "src_group": null,
+   "src_country": "US",
+   "title": "What does the Ilhan Omar investigation mean for US citizenship? - The Week",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmpxLVJMRHcyTzMtd3k3aW1PODdWckNkeG5lM3J1NG5BNXZRMEZSQXo1NUxUWmZRNXp6cnFsZHFxMm03cFQ4MDVUOVF5QU5NVTZzRV9Ea0pKY2RZdHFHZVY1LTR6T0FTY2ZxRGxNNV8yMjE0bFJEM2JzYklPM1ZEdFpnOG1FT0xwdXRHcF9CMGNKVHdrdEE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Week",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-21T15:45:33+00:00",
+   "fetched": "2026-10-22T04:05:40.239387+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -2504,6 +2576,30 @@
    "score": 0.0
   },
   {
+   "id": "407e26a38e9d3df7",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Acciona selected for Gippsland offshore wind transmission link - Heavy Lift & Project Forwarding International",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkVaZTVaRjBQNHBIUXlraFl3TzhyN09mTFNSR3VwN18tQWF1emppT3I1MnUyUTlsUF9KYWppaE1Oc2xTc2w5WWhTbW5ubnkwbzAxanRfazBUcFhwb1VkaER1cjkxZkVjTzlwdlk0Nk5WZ3VzMkZiSGl4RDFQeG9YcGM0alN1cDY1andQajdaMk9CTGJRMUU1NEZxUkNiWkFVNElDdW8wcWJLYW05ZHlmZnY0Yw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Heavy Lift & Project Forwarding International",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T06:52:37+00:00",
+   "fetched": "2026-10-22T04:05:40.239387+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "fd91bfafb02d05bc",
    "src_group": "chung",
    "src_country": "EU",
@@ -2918,6 +3014,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "03fce43f64180653",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Mỹ thu hồi thị thực với tốc độ chưa từng có, vượt mốc 300.000 - Thanh Niên",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZF9uZ2NIOUF5NVFQbTVUaDk1dmM4SEZLMlAxTjc4NDRmVGd5VWZuTk14OU9YNm5TVlF0NGNhSExfdGRWWWhFU2RXRmdkMk1ybEtHRWtDZHlHOFhOY2o3RkNxNER3SmZXUEhESkdrcGVna01jLUhELVhhM2hTYkxnYzFJZFYxa0FkOXdQQ0VaZDRiYl9fVG50YzNzemZKSUV1RlpObGln?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Thanh Niên",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-21T01:02:00+00:00",
+   "fetched": "2026-10-22T04:05:40.239387+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "d87824e39f0938ac",
@@ -7811,6 +7929,32 @@
    "score": 2.5
   },
   {
+   "id": "6fdcf4b32fc1c07e",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Sweden Publishes Options for Foreigners Denied Permanent Residence Permit - Legit.ng",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUhnb3BpWlBLaWNVWnR6RHh2WFYyeVEyTnZRT1ZSeUpxU0NZSmh1Q1E2LXE2M3dvTGpLejM0TTg1Rk5LLWdnUHZQWGJpTC1Zdm5IZVUxeXZFTkFzVC05WERPOUZyQWhqZVp3YzhFcXM5N2dpRnBDSEpOd0laZFhpNFVWdFN1ZFBhRFF6TG5wNXgzdS1wY1lWd0JFdU96bFNDeERpRk1Odw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit.ng",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-19T10:13:01+00:00",
+   "fetched": "2026-10-22T04:05:40.239387+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "507eff0e9d6a2fa6",
    "src_group": null,
    "src_country": "EU",
@@ -9272,6 +9416,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "9e58a9b59e61140f",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Beyond Labour Arbitrage: Sprint Labs Adds Role-Specific AI Training to Offshore Placements and Launches Real-Time Accent Conversion - USA Today",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTVV5QUlSR2xhTlc3T1ltODFhWllFbDgtOWJFTXpPaGc5cEVCNFJITVVqcXNvaXZpUmNYX05Xd0Q2bkFVOHlSZkZTQnlMSkNzSEwtRWxhT2NUS091dkREeThUUmJVX0tkNndfMmdQU3FwQUZsdFVENnYtNGNMUllEM1RsaVRfS2hfb1J3R1h0N3BjVE5sRFBlYkp6Rm0xNnNoQkZ0MUVCcjktZDV4Ql95MXZCLVVPZk9zU1ZRUTVNdGJBV0VXTkwxRVlnaVlXN1g2Q1AxNGZyWW9zdlV0WjVSTlR3VDhVU3BsWF91Ymp5ME9QaWtucEdTbUxoVjJKLUk1a0QzOFk0YVV0cV9mSDB3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USA Today",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-18T07:00:00+00:00",
+   "fetched": "2026-10-22T04:05:40.239387+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "27d201acb7670327",
@@ -52895,6 +53061,28 @@
    "source": "au-citizenship",
    "published": "2026-09-30T07:00:00+00:00",
    "fetched": "2026-10-22T01:31:44.609335+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b5f30e2a057dae9a",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "54 hours worked, 26 hours paid: Indian migrant wins $60,000 from Auckland employer - https://awaaz.co.nz/",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0ZXOFY5NzNaV3FuN1NWd1phWUVxTWdSMS00RmgybzdYRzBBUUhCaEFhNlBOV1AwQnp3YnVwM281NF9qRHFaZkJfM1AzdF9xOXFJN1JuOEJweC1pRV8yZE1iakxMb3QzcTMtMDFwT0Jyd2NDV0tCN2h6dE1IeFhJUklaQ3lUVWR3MXYyaXZ3T3gtaVQzM25SLXA3Qk1DMDg2dnlaaTkwS0R0dUVTX1JMeVRsVXN0dw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "https://awaaz.co.nz/",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-aewv",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-22T04:05:40.239387+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
