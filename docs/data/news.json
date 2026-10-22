@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T11:03:54.409809+00:00",
+ "updated": "2026-10-22T12:02:49.784119+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "au-skills-in-demand",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -365,13 +365,13 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "us-family",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 10
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 21
+   "count": 27
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -533,13 +533,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 10
   },
   {
    "id": "eu-work",
@@ -557,13 +557,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 40
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 11
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -581,19 +581,19 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 39
+   "count": 18
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -653,13 +653,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -719,10 +719,86 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 15
+   "count": 9
   }
  ],
  "items": [
+  {
+   "id": "e40b461c388efdd9",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "ESTA to pilot crane and transport incident reporting scheme - Crane & Transport Briefing",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1V2WlNKN1FjS2t0Z1pCVnc5NXQwVWhkQy1hLVVDQURYRkRpMlA4QnNST3dOVmdtZVR3N2NtUER6Qm1McExMX3hGTktCdzJoWVdQcjhlTy1UdDFXMnJGalpVVjV2T094SC1DZ2Z1OVE2d3p0RHZaSFc2SnNlRU8zU2tMamFYQ05hOTZqaGZlR25ZYmpEOWZsZmxsa04wWVotNmlpOXB6Zl9rRGdfdWQw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Crane & Transport Briefing",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-22T11:31:32+00:00",
+   "fetched": "2026-10-22T12:02:49.784119+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "4a9bf501c59f3e73",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Scholarships in Canada for International Students - Academia Mag",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzBsbHNyQy1UM1FGTl83MnduWGxiU21DV1hhS2ZvQ0JHYnI1Zmd5TGR1Mk1vM3hQRFBJMUQyTUNMOUZJTnF6REd1bm43RGR1THRVTnFjTFVBZmhBSmRaLVNZY1JpTUhuWTREWHhzUnprLXk5ZUlUUDhMSTZ3aHJxX3JkZDNRY1dGLVhKejdmSDA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Academia Mag",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-22T11:20:11+00:00",
+   "fetched": "2026-10-22T12:02:49.784119+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "7515142f13fec976",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Former RWE offshore wind chief starts new role at vessel operator - Wind Power Monthly",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXEteXU3LUJBU0daR3lCR3RRdEYzTlpDd0x2emhfbnVkQU16NXZvVDFkTUZWdUxSVFEwY2dGU0t2TjQtZkVBRWRJWUZVMDFpTFFjbTJEWU0zYlNhSFhzNkZ5cW1KcWk3VGJQOGdzdjlySTk0aGVkNXg0SC14TThyVF85M1p2eFZNQTFQNWRrX0JyaUoyS2Zxai10dm9lSXd0MkJfOGk0QXBJTjNFQVFtMg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Wind Power Monthly",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-22T11:05:13+00:00",
+   "fetched": "2026-10-22T12:02:49.784119+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "12f8c9dabd4b5679",
    "src_group": "dau-tu",
@@ -750,6 +826,28 @@
    "score": 1.5
   },
   {
+   "id": "2be8a19ba3bb9fdf",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Malta Exempts Only 1 Category of Foreigners From Long-Stay Visa Fee - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFBpWHhsRkF4WXpmdHZwcno1TzR3c0ZPU3prRTNkbFIwam00a28xenBfQUktR1BROS13Q2MwVG9XMUVFNWJRWW95TFZ0SjdjWW1yQkdhSkFxQTBrcngzSHg3UExPTGlxSEx4TFFpYUFvY1A3dkdVZF9Pb1g0MW1JeXZiTTlfd0xMenNNMGplSDZ6RTlMaFE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "EU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-22T10:58:32+00:00",
+   "fetched": "2026-10-22T12:02:49.784119+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "5c6769536cce9f60",
    "src_group": null,
    "src_country": "NZ",
@@ -765,6 +863,30 @@
    "fetched": "2026-10-22T11:03:54.409809+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9b3efeb914c43d52",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "EU anti-money laundering, fraud bodies deepen ties to tackle financial crime - MLex",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3ptSWFGYk5OTmVxVW0zN3lycklXbHk1SnhyN2RUc3lBNVhsOTlfQ0pLTzVmZGJJSldnUU05QVlaWFRUdHpzR1dyN2hrZ0VCUExjb05nWUxFQTRqNVZoTlpqdENjdzdtaUxHSElyYlRmZ0N1S0ZTWWRMZjhVUllCbHdvWDEtWjZOYjN2aDduc1JyQ0RrbVBwQzNFUy0yVmlYSlJqLTZ3bEV6eU45N0RsNE5rdVhJYlJjUGfSAVpBVV95cUxQVzgtNEVSb0R4UkIyQVhSaGJzTkxVdVlCalRLcGFZUWgwQnRWWlY3aUJjRHpzOXIwNW44RmFQX3pLOWNxZjlFcTkxVS1IWm02QVMxSU9tUEhDZXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "MLex",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-2",
+   "published": "2026-10-22T10:18:51+00:00",
+   "fetched": "2026-10-22T12:02:49.784119+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -798,6 +920,28 @@
    "score": 4.0
   },
   {
+   "id": "04772fb73e8afd52",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Portugal Lists 1 Condition Ghanaians and Other Foreigners Must Meet to Get Permanent Residence - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX0QyRjdRSHBJODBRMFV0U3owS1RCX25rN1EzTC00anZTYzVKQUlsN1BpeWN0VEZsNVNnY0hQbUNsUWNZSEE3bktvSW1VcERLQTQxVndOYkhOS0RWSEV5MENpc191SHNzbS1qdzVPSnpDb3VHZ1ZJN2hwY2JyOUhGTE56VGNUWGJBWTZQcDdiUXNhQ2xwZ2dKaWstWUU0MG9xUHVBZXU0RDVmQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-10-22T09:27:08+00:00",
+   "fetched": "2026-10-22T12:02:49.784119+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "21a3b18619bc40aa",
    "src_group": null,
    "src_country": "CA",
@@ -822,6 +966,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "58e270f8207b12e4",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Dentists, dental hygienists eligible for extra Express Entry immigration points starting Nov. 3 - Oral Health Group",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVnBDT1pSeWxyUlJ1YzZCN1lBSlBHMFVydXlLQl9sdHVmSm81NUdFVG9KS0VHRXlMSXl1TTUtTDhuYTFBMXZLR1lUZ0p4MDlXS002dTNZWXNHSG1MV0xGamItMUZRZk95aVlidG1pYnZEQTZOSEtlNGRPbExFeFRtSXBZNWNGVWtpQWVVZDZWRXBPR0JfVzJmVEJDR1VCWnIwci0xREw2X2RIRmlvYnhfYzliTzgxdVN3RGwxcG9OajdTVDZhYktHc1htWXM3aXVJdDlaZ1FfNVRONWptNF84a1ljV1lWU3AzNnVZ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Oral Health Group",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-10-22T08:38:00+00:00",
+   "fetched": "2026-10-22T12:02:49.784119+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "5b63f8e9c7571284",
@@ -959,6 +1129,30 @@
    "source": "au-sheet-chung-1",
    "published": "2026-10-22T06:47:11+00:00",
    "fetched": "2026-10-22T07:20:47.687911+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "59c3c81328de7ec5",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Saudi Aramco awards five strategic offshore contracts worth up to a total $2.5 billion - Upstream Online",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnFvano4VHc3aHNTV25jN09xWmNrcGpxTXBObktqTUUxX0wtRVBhMGZFLW95VG04eVF5LXJKbDYwdXRKQk5ZQUFZb2NHcGFrdDNjUk8tUG9XcXZTNzdjVWxHTm03WmlVeGFkU2NNcEE1OHZENjFaV21pcFI2SlB3NlpvOHRPc2lqMi1TVGVBUjVLZTBkUkZtV3U3RmdYWUo3ZnJoWWZRLTNCR2VZbGdsQXlKMEhOT1lrUVI1aDdzWkQyNjU2dTJmbE11Wkt4NEwwVmtvbzFWN2pHOG83d2Q4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Upstream Online",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-22T05:05:35+00:00",
+   "fetched": "2026-10-22T12:02:49.784119+00:00",
    "visas": [],
    "groups": [
     "chung"
@@ -1215,6 +1409,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d56dd582f0487bb2",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Viridien launches large-scale Guyana 3D seismic reimaging project - Offshore Magazine",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSDZfQXJydEtrU3g5ZGpvSDBPYV9IUFo0anhDVjFuUjBOLVlUSG1Ec0VlUTNBRkxma1k1aVQwZDloOE1MZWQ1bWI2OFZack1RaGpCNWktanFtaDFoTkhYdVlIVmRoVFNWQTFMX0ppRTJTSGdxaVNVYm43Ql9UblpZOVJFWVhRNWRnRFRuZ213bVpJeXY4OE1OZE00UC1vY21qTlcxNnRYd3JPTWhUNlZveC1FM2pLUm9hazhEV3JjUGNCNzlZYUNWVC1wTDFXLUdRXzllcF9Ebjg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T23:54:30+00:00",
+   "fetched": "2026-10-22T12:02:49.784119+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "a210efce8f87259e",
