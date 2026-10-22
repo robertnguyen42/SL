@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T02:27:51.962677+00:00",
+ "updated": "2026-10-22T03:04:54.949507+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 13
+   "count": 39
   },
   {
    "id": "au-student",
@@ -269,13 +269,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 15
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 14
   },
   {
    "id": "au-sheet-chung-3",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-student",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 10
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "ca-startup",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 20
   },
   {
    "id": "eu-golden-visa",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "eu-student",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -605,37 +605,37 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 16
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 10
+   "count": 22
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 20
+   "count": 15
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -5082,6 +5082,32 @@
    "score": 0.0
   },
   {
+   "id": "72320a26846d9074",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Belgium, Denmark post strongest Schengen visa approval rates for Indians - New India Abroad",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdWFxU1M5MWxzQ3RnWmgyY1JtdUdOaTZJLXNrSXJQMGVhTTZkdHljODdkaGZxVGROazZCVGg2RFlURjZ1VGRpckE3ZGFiQ0JraGQ3RzVmZjJlNWlEMkJVZGdJMnFfbWplRUwzM0szaFZncGhNS2stMnlvejNkNF9ibEZWY0NKMW53cHY3MGJVUFNtUndGQTd3ajRFdVB4d3hrV2V4Q2VBVVVTMmtzVDdGbFhBc3BLZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "New India Abroad",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-20T07:00:00+00:00",
+   "fetched": "2026-10-22T03:04:54.949507+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "230200f7850f286d",
    "src_group": null,
    "src_country": "US",
@@ -5460,6 +5486,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "a5ac05bd765e0912",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Tòa án Mỹ bác bỏ lệnh cấm visa nhập cư với 75 nước của ông Trump - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUURLdUh6b3hMUUtsWjQ3cVRpZm1SQ29rMDhINTljYmxpZk1zaVZiNmR1eHZmbDZmZ25hbE5JcEx3RXJFd0hYdEpOaXNlWmd4Y2Njay0zWHdqbVNzMTRnbzEyLWs5M0ktcVNEd1ZvMlp5MVI1OEMyQlBFYk9oT2ZVQWhzUHo1WEc0bEtLbno1ZU1WX0h6U3JxMF9IUFgyTnpvVFlWVkU2dw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-20T03:33:29+00:00",
+   "fetched": "2026-10-22T03:04:54.949507+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "1c7d376d51dcbd0a",
@@ -36322,6 +36370,32 @@
    "score": 2.5
   },
   {
+   "id": "e2197ef6742a41d7",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Rs 90 LPA in Bengaluru or $300k in San Jose: Redditor asks if it's wiser to move to US on an L1 visa - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOLTdiR0ZNLVdTaHhSUm5QdzVrcFB4Yk5LbkkwYVRIU0dwMXJGNFEyb1U0SXJzV3ZBbERYN0tYdFBRVFhyNXVZUXcyZ181YnVBeHNzV2dDUV8yNWVicUsxSV9TemFsUWJFV1BTUC00NGgwQU9uSmQybGFGbUdiXzluTmktbGdlek03QlhTeFd2eTVySVozYlhWUFRMTDJ2RHdsR3h6dHU2MXFwT1p5QkhodkhTemhBSHo2MnI5WFZpWmtGWFV0ZnlaWGlhSS1yZ2dGUHQxZEFIdnEzSkh6Rkp2RThDNXQwVXFUa0tYTUh6ZHFOWHljZ2J2WnNwMzXSAYICQVVfeXFMT0ZYTkVwRkM5Q0RISHlPRVJBRDZnVTFiX0NuX1ZQdnhNcWdYME1DOERjU21FVnRxZUJvamxmMnQtVDVmdmMydi1rRk8ySGZOU25WWlVEbnV1WExPQmRveE1heEdCR1BDNUVqQWM4MlRxb2N6RmUwc0xka0tjOG95d1Y4cWFaNmZ1MnlmMUJZSmFCazktWm9tLXN5dXgxVFR1X2J3a1ZmaTFMZjloUHF0dUp3X01DXzdHVGJlVE9OeGwtTVhEV052aXlrdnZMUUVRU1Q0NVl2UUtYSGl5X1pCZ0xVUXZDTmlZRHJaRlBSc2dTU2kwVHZfbzZHdDdmd2ZuMzBn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-l1-e2",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-22T03:04:54.949507+00:00",
+   "visas": [
+    "l1-e2"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "20e511feef397be4",
    "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
@@ -63035,6 +63109,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "4423c21fc42ae0bc",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand offers ‘accredited employer work visa ’; here are the guidelines to apply - ARYnews.tv",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUhZR1lFU3lQTkRnUTNuZmhwRzVkMzBLaUZKMHlMMElhV0FfTWdvUEpsYVJDWnNZQXJacHJmai1WdXB2eklERDg5ekhLb2lsRVNFbjhWYUJLRk5VVE1qRDNUSGN1YkdvWlVkNmRGaFE5emNOTkJvc013czFaUzU1MWxUVzNEaXRObGVZUFl1OFJOcXMyMHFSVXp4dmtHeDUzenc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ARYnews.tv",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-aewv",
+   "published": "2026-09-22T07:00:00+00:00",
+   "fetched": "2026-10-22T03:04:54.949507+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "15deb630b6ae09dc",
