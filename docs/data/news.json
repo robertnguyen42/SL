@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:31:44.609335+00:00",
+ "updated": "2026-10-22T02:27:51.962677+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 13
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "ca-startup",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 40
   },
   {
    "id": "eu-family",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 28
+   "count": 26
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -605,13 +605,13 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 16
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-3",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 22
+   "count": 10
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-business",
@@ -2328,6 +2328,30 @@
    "direction": "siet",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "00b44b2293be83f1",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Criminologist wins acclaimed Philip Leverhulme Prize to pioneer a new criminology of the offshore world - Northumbria University",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQV2d5WDQ4YnVVYnp2V2s0bHdCQkVmaGlGUHJRY2xpcGF4Wk5UUDg3dGJZZlNrOWdNaFB2RWFxWUpySWVXV2xhUVd3c1JxQ083YkZyd0VlQUpBMmdFOTRvblhXT28yUGt0T2hVOGQ2S2toeF84dUhIV1dRMFQ0M0swUU9jSFdmWHl2MG1ibDY0NnVBNVFyQ3hQQ29QUDM4NWk0aFFKaVZGUmViTHRzV1licGI5T3V5NjlhNWtKWUpKUDNMWDVCd3ZONkUycklNVkFVTHZMMC1QMGJ6QmpJeGpiTVdyM2FhaTZqMmFpSmg0eWV5UQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Northumbria University",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T08:49:52+00:00",
+   "fetched": "2026-10-22T02:27:51.962677+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "8c67c36c9ee8aac5",
@@ -4833,6 +4857,28 @@
    "source": "nz-en",
    "published": "2026-10-20T08:29:27+00:00",
    "fetched": "2026-10-20T09:06:01.184479+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "2290f87c9e0b2000",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India-New Zealand FTA Effective Today: Tariff Cuts, $20 Billion Investment, Visa Benefits | Economy News - News18",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSkV2VmpEM2Q1eFlVaW1KWlpzTlZRYVNXQmlZSWotUTVpUjByaXdCdWo4M3EySlhHSVN4NGFXRzFzdEdMcFhSc2ZGaVNnQnFLWmJ5RmdpT2h6ZUpaZlFVX1lVQnhabHF5dVlpMndiUHEzNWM4NzRHVWtnQ0N0Mnl4cXZZcnVYcE1rUmtWR1FtSDItcC1LUXVPYWxmbFBlbC1EWjd4SVMyMlhuMmhFZ0RneFJyMUtEdEw3SWpxVmVDbmllTktJMDJ1T1o4aThoUE0xczdDb21n?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News18",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T08:29:27+00:00",
+   "fetched": "2026-10-22T02:27:51.962677+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -8450,6 +8496,32 @@
    "score": 2.5
   },
   {
+   "id": "47308d22f53cc437",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "E-petition calls on feds to include residential schools history in Canadian citizenship study guide - NOW Toronto",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2dsOW9UOGtiRTY1QjlhT1ZhOU9aQjhjZ3pqNDlaTUQyRGM3c3pRM0xLQUxlRkF6clNlcDBOVFFSX0RvbU5LNTROOVhPdTZNVFFvLXF6OUdibkVkQ0ZjRUJLSWE2SGxmVnlUZnk3emx3aFVPM2lzQWxYTFlheUVvWGhVTVN4bDk5RnNzOGFqdmdHQjgzUWhCU3VtUXlmLXBBRnZ4YjZ6a3ZiTy1Fb1NSTTdrZ1hiV1FhZjJZLUlNZy1jbWd4bFRJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NOW Toronto",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-2",
+   "published": "2026-10-18T21:00:00+00:00",
+   "fetched": "2026-10-22T02:27:51.962677+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "115a0d9e41ffc06a",
    "title": "Citizenship fees up 36% as DIA faces $68.3m deficit - B2B News",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEFBNFppVFRfTkpHcEpiUllSanpvWHhaZUlkQWFGMmhUTWJubEg2bmIwbnhoQVd6SnVxbVYtcl9DZzg5Z1IyOXBETkpNeHhNRHNyMm9LMEFrNW5VenVHWUNfYUZrZjlzekpFY0VTOXJNbW05VFpfQ09EbGItZUtIVkk2Y2p1TEJ3WTFpRGM1LU1MV09CYUE?oc=5",
@@ -9128,6 +9200,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "2e5c21d496b4b62a",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Canada logs 5.3M international arrivals in September 2026 - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnB3TXk1Sm9wWGQ3cE9ncFdMTnI1VzNNUWxreWFWTDU3b01FZ1ctZWk4aEJTaFdjS2hxZ3d3Y3EzRmEtZ1MwT0k4NkxGOHd3NzR6UUZRLV84U0xnX09nUXlBUFVZdEhpU1Z1emZDVi16UHdVOEZMazVVOTIyak9mdV91Qi05bTItTlcyRWVn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-18T07:18:05+00:00",
+   "fetched": "2026-10-22T02:27:51.962677+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "27d201acb7670327",
