@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T15:06:10.258013+00:00",
+ "updated": "2026-10-22T16:04:23.022370+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "au-student",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-parent",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 11
+   "count": 8
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 38
+   "count": 36
   },
   {
    "id": "us-eb5",
@@ -371,13 +371,13 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 33
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "us-sheet-khac-2",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -533,13 +533,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 16
+   "count": 18
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-digital-nomad",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "nz-smc",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 14
+   "count": 20
   },
   {
    "id": "nz-investor",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 15
   },
   {
    "id": "nz-post-study",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -719,10 +719,36 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 12
+   "count": 10
   }
  ],
  "items": [
+  {
+   "id": "c1237e393f10305a",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Sri Lanka Announces Special ETA Application Process for Nigerians, 4 Other Countries - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUndsNmM5WE16TVNweVBoZktUU1dBUWxpdzZGZ0dyMk9pU1VrS0pJTHMyMHFoQTlFd0gyVEFiMjRpN0FmN3JuVmtFSVBqLVBvY0paVGxodnhIYzJMZDdVdk9nWjREOGNjYzZFNzVnNGFUU3hENWtzbWU3dndfNmpFWFRoZVROSk5GekpJbjV4eWxCYTE3YVo2Y2VmemZiNlpFTW5XbHphcElrX3lSYnk0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-22T15:49:04+00:00",
+   "fetched": "2026-10-22T16:04:23.022370+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "55317a047dcb67e9",
    "src_group": "dau-tu",
@@ -1030,6 +1056,32 @@
    "score": 0.0
   },
   {
+   "id": "bf66f1e6a1318c45",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "ESTA Q3'26 Earnings: revenue estimate is 66.81M USD - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUpuQ2lSMVZNRGhsVjk4WUo4Zm00RmxBaThYUlJwSlVBYnFzS2JMU0ZUaDJ0cndfUWdxMTFYSTV3SXNweVF3STByYnZucnRGNjlxTzVvMkZxdlZYaW9NQjEwT2xfOUNuWnJMQzc2YUdiSWlzdDNDRmFjU0VuemVueVY0LVpLMVNvbDR3RExEZW1vcnd4TWQ2NFhEdW83b1M3ZDg4aUZnVGs2WW1EZWFYcFdB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "TradingView",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-22T11:00:41+00:00",
+   "fetched": "2026-10-22T16:04:23.022370+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "12f8c9dabd4b5679",
    "src_group": "dau-tu",
    "src_country": "EU",
@@ -1272,6 +1324,28 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "8a961c867c5d59e9",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand court confirms employers cannot charge migrant workers for jobs - People Matters Global",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYkp6UkhvV1RvQXQyTWZNeU5OLXd0NzdtdGFjWF9XYlVFaDlpLWxWcV80TVMtZzEwYjdVcElMRmV4OHQ3VDdxNjRxdHFfSmhOV01jRmFkWF9JNFpTZHY2ZTVrVVhGNENKaXA4MHNpWVFJdzRJbnVmOG50SWstVXFaY2x2eGZod3FiaHNielJORmN3dTQxTGVjZnh5U0NqYjRHdTJDTWFGZHpvOWQ0VTNfX3B1aHpqTE9qMG1Oc3VoQllMZjVPekxtaHFGeDg4VHVtZklfT3hqdlB5cE91aXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "People Matters Global",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-22T07:45:28+00:00",
+   "fetched": "2026-10-22T16:04:23.022370+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "ca37980516ab5898",
@@ -1648,6 +1722,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "473cd3a11c5e493f",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "CXB RENT 2016-ESTA (21860335.MC) Stock Forum & Discussion - Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JTnJrVXJNWWl0SnZZcDYwakpleGREcXlPVlBjYlJEQjBUV0h2NkEzRUk4UjN2aFV6akpoZU1hUmI2SWVHM191bXRySWFncEVENDJ1Wk14dURhTEUtc0t2LVhyMXpoZHlh?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yahoo! Finance Canada",
+   "country": "CA",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-22T01:34:08+00:00",
+   "fetched": "2026-10-22T16:04:23.022370+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -3048,6 +3144,32 @@
    "direction": "noi",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "26c8d199fa7ee2bd",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Canada's proof of citizenship finalizations picked up in August - https://ircc.com/",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKQUFRSGREVVg1SldiS1ZBTEJ6bl9GVnd6REJqRjk0YmNiTllpUUJlRWpodWlQb3E4VVNWb3pIUXc0QkFObE5sYnhRc2VudlVLdVZDc3FzSXFiamFvWGgxaDBVN2w3R0ptb1RHZEdjb21nSTZ1QkNtU0NjcDc2QQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "https://ircc.com/",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-21T12:39:04+00:00",
+   "fetched": "2026-10-22T16:04:23.022370+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "dcd0bd19dc9d45f5",
