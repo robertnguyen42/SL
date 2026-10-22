@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T20:06:20.767055+00:00",
+ "updated": "2026-10-22T21:01:40.135354+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 19
   },
   {
    "id": "eu-gov",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -299,13 +299,13 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 28
   },
   {
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -395,13 +395,13 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 36
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -449,13 +449,13 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 10
+   "count": 23
   },
   {
    "id": "eu-student",
@@ -581,13 +581,13 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 38
+   "count": 36
   },
   {
    "id": "nz-smc",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -723,6 +723,102 @@
   }
  ],
  "items": [
+  {
+   "id": "20ead2dd9899ad38",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Women in immigration detention remain an afterthought, follow-up inspection finds - Australian Human Rights Commission",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMHBPZG5wb25HYmNHTmE1RnZWWDVRV1BaOGlKU3FhelhQc3VCc0JqbnJRZEFyRUlqbFFwcnRhNVRfOXZEaDhIZExqR0Q5allxbE51Mll2SDlleC1Odk1uT3lMRVFHRVd5cDBTeUVtQ3VpY3E3c2swRzdBSkdUeGlMd19DMl9BNWNxNW1LOW1IS2V3ZTFhUjFza1p0X0xfaTg2dXhzTk1nMXowTmxvWUxlYmtBVl9XbkZwWVBIbXRKUXBFU2lNVS13M2VZYTkxQnJrQTZxN1ZFRVd1T0Rj?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Australian Human Rights Commission",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-22T20:55:11+00:00",
+   "fetched": "2026-10-22T21:01:40.135354+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9abb6142eeefecd2",
+   "src_group": null,
+   "src_country": "US",
+   "title": "November 2026 Visa Bulletin: Selected Employment Categories Make Gains, Family Categories Advance - WR Immigration",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlNCcnZvOFU0WFMzT0s3dDZpZkZlalBEVnBPWll0QkF1Mlp1THdWMU5jRDBYRENTLWVUZEFWazZVNGdFVGNBOHZhVjJsRDg0a0tBWEdOR2o3VEZPaTZOa3htOTgyalNmQnp0VDByZ2lidU5EWE1qaVU4eVRReHprbTdVaTJIdVFpd1JoVi1YQW5SV2xTZlZXRGtJN1JiN1NJbHp3dHlNTHBNSXhYT3M2M1lkQ1J2S1ZiS2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "WR Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-22T20:51:56+00:00",
+   "fetched": "2026-10-22T21:01:40.135354+00:00",
+   "visas": [
+    "visa-bulletin"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "b0000de1e05971b5",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Five Bangladeshi’s accused in immigration fraud involving 243 temporary resident visa applications - The Australia Today",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVUVMZHdpX2NnbTlSNFhGTkdnSGJzczhtdEgtQnFnd1E2Mk54YjM3VWF1UnVlT212amZOb1owNmtmejR2cDhrYXVaVFprdmlfNnk3TzZQODBPLXdRQkFpRzhObEh2T19DUWJjVHV2d2h0RDJINDEyNFhyUnpZdXBoZ1ZqTmJJX09USnd5djVINGd5NmRrUnVJS3cxRG5QWWx5aWdVekF5M2V4WkVmSnZlRXhmZ2d4eU9HOEtqQ3NZWGRSVFR1RFc4QmxHTGFtYXhV?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Australia Today",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-22T20:43:31+00:00",
+   "fetched": "2026-10-22T21:01:40.135354+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "0a53daaa77dfe77f",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Oceaneering Sees Mozambique, Guyana Driving Offshore Growth in 2027 - Hart Energy",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVREUXdRTF82UDcyYXBiWVZLN1Y2cGpldEpNeF9JNE1aRDZXZzJHeFZ0cUlMNHhGckYyb2lPQmp1dHROWkFoR0tHZVVERk1ub2pZQkQ4ODBCa0hUajFnLW9lLXdSWTEyR3VTOGd6QjRGNGxRejRmdjZVQzNTb1VSbWNrbGNEdzlXN3ZOajhZeUtpbmNQU3FoRE9nc0lzZVlqZW1RSU5aQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Hart Energy",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-22T20:01:00+00:00",
+   "fetched": "2026-10-22T21:01:40.135354+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "5758793d0a38049e",
    "src_group": null,
@@ -772,6 +868,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "1928278e073021fd",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Express Entry reset: How 2026 selection changes will reshape applicant prospects - Law360 Canada",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LRXNIQWdZODZ5cFJkWUV2NVI1TFBUR0NWUlZ2cmphdmFSbjBiSjg1cGFselQ4Umg0bUwzYWVkZW5DTkdTZ3Y4Y3hZNGtzVk3SAVhBVV95cUxPdmRaQ1VXbWlNMDRfaVBNSjRXRGllb3dZUlZ3RnA1ZkdkeDFLdnJSbURlMW9hV0dfcFVrZllSazEyVHkzT2RNUUlfbGFOU3lDVVFUUVFZb1da?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Law360 Canada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-10-22T18:41:00+00:00",
+   "fetched": "2026-10-22T21:01:40.135354+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "3af2f3c9b22e170e",
@@ -8883,6 +9005,32 @@
    "source": "us-student",
    "published": "2026-10-19T20:01:31+00:00",
    "fetched": "2026-10-20T01:32:05.819478+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "36e6169ee84cd33f",
+   "src_group": null,
+   "src_country": "US",
+   "title": "OPT Tax: Policy Brief - FWD.us",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EcVZfdHQ2djZ5N2N3UmhHM2x6bzc0YmFvY0ladDlmWlVIZTNGa2R1VWR4U0JicUNka3BRUWlGR1h6WDRRWVNF?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "FWD.us",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-19T19:47:58+00:00",
+   "fetched": "2026-10-22T21:01:40.135354+00:00",
    "visas": [
     "student"
    ],
@@ -20454,6 +20602,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "02fae8da965ff660",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "South Korea Work Visa 2026: Types, E-7 Visa, Requirements, Fees & Application Guide for Indians - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GZXRsUXllNkNkdmU0WVRsY1Q5THhnMGhQMnFlTlE5SjQ5alZiRWs1TFNkRlRtQkFQdHEwbW1qcExVdXZselFkVC1OZ3psRy1HbGFXRFVnd3Q?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-22T21:01:40.135354+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "0cb19e286a14ecc9",
