@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T12:02:49.784119+00:00",
+ "updated": "2026-10-22T13:18:41.453863+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,13 +233,13 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -317,13 +317,13 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
    "name": "Sheet – Úc – Tay nghề (3)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "au-sheet-tay-nghe-4",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 33
+   "count": 35
   },
   {
    "id": "us-eb5",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "us-family",
@@ -383,7 +383,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "us-green-card",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "ca-sheet-chung-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 10
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 40
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 18
+   "count": 39
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 14
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 35
+   "count": 37
   },
   {
    "id": "nz-smc",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 11
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,60 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 9
+   "count": 14
   }
  ],
  "items": [
+  {
+   "id": "a2cd6e12e40d7eb2",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "UAE Publishes Full List of Countries Eligible for Visa-Free Entry and Visa-on-Arrival in 2026 - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWFvQmc0UC1sRU9adUxDdUNLRjdJUkJZRHpnWnZPUXFHT2JyRWhTSEpjRE9TRGdQVXdsNFczZmZmaVYwN25ZRWs5eGhoekxmQUdiQ1ZDWGRyTjZQa0dsZ1BHZE9OVFNJb1gxNnRkSW1Rb29FWHVXRUotSEU1a1o3WEF5bDZTSVNydEZkM0UxZ1JiNmc1SWNSLURxeTFVTzY3V2FiYlJ6aHpTbk9YTWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-22T12:03:33+00:00",
+   "fetched": "2026-10-22T13:18:41.453863+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a330663aec22d57c",
+   "src_group": "khac",
+   "src_country": "AU",
+   "title": "US visa wait times: India faces 12-month wait for visitor visa slots, 6.5 months for work visas - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUk1HUFc3V05tQzhZeEktWnU0dlAzdkRFTXFpdEIwVmxTX01vT25sRVJNMzdIVW40WFk1MzdXM2ltM0p3U3FwTkk0X19pcEJnVF9MY1JqWXIzcjYwdkpMVVFEdndvOGpZdzQxa1JBaXczLUR3TGJFcklPUVhEVnBhQ2xra1MtdDNrNWl1VFdKanJMcEhLT2lTOElObWJWNWx3SDQ3d010NE1Jd0lKWUZLc3pwVEgyMl9EdjdQdFhuTFVMaVB3b2UwaVJNX3BiY3Z4cE54X0J2ZU5GM0RTZ2JmckRSRDZKWGNpc0pGczNwdHdLTVHSAfMBQVVfeXFMTlJNR1BXN1dObUM4WXhJLVp1NHZQM3ZERU1xaXRCMFZsU19Nb09ubEVSTTM3SFVuNFhZNTM3VzNpbTNKd1NxcE5JNF9faXBCZ1RfTGNSallyM3I2MHZKTFVRRHZ3bzhqWXc0MWtSQWl3My1Ed0xiRXJJT1FYRFZwYUNsa2tTLXQzazVpdVRXSmpyTHBIS09pUzhJTm1iVjVsd0g0N3dNdDRNSXdJSllGS3N6cFRIMjJfRHY3UHRYbkxVTGlQd29lMGlSTV9wYmN2eHBOeF9CdmVORjNEU2diZnJEUkQ2SlhjaXNKRnMzcHR3S01R?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-khac-1",
+   "published": "2026-10-22T11:40:00+00:00",
+   "fetched": "2026-10-22T13:18:41.453863+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "e40b461c388efdd9",
    "src_group": "khac",
@@ -6149,6 +6199,28 @@
    "score": 0.0
   },
   {
+   "id": "ee0152441a0794a6",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Automatic EAD extension ends for H-4 spouses as USCIS finalises new work permit rule - Goodreturns",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV21VX3phT0ZtdG0wZHM4SDYyOUhTa05RejZqUG1mZU9haUhtVmRiU0Zqcm5oNU9BRngzSW1peWppQnNiMFpHQ2pGYm9ZcFU0NTZJVW5BRlVoVVlPc2dxcVdxYkNCVXpVcWpOalNObXRpUm9XZE02SHBfaERZSG1nSWxrUE85T2RxRXRBUDAyRHBnWEU3Z3VZeUFkRUMwQ3ROcnMyb196d1NoZjdYYmxBeUs4bDQ2dkZ6aUlfT0R1V2xLdzJz?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Goodreturns",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-20T07:00:00+00:00",
+   "fetched": "2026-10-22T13:18:41.453863+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "230200f7850f286d",
    "src_group": null,
    "src_country": "US",
@@ -7524,6 +7596,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "a99d3d115da19293",
+   "src_group": null,
+   "src_country": "US",
+   "title": "The H-1B visa system is one of high stakes, shifting rules, and little certainty. Over the past year, Business Insider has spoken to more than 20 H-1B visa holders and hopefuls about their decisions to opt in, push through, and sometimes give up on the H-1B Am - LinkedIn",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXFHQjIxYld1Z1VPS191ZFdZbzJpZ2x3QTlwYmo2RW5xb2UzT1lJUUpaR0NzaVVCWDdxdkNDWGh2eTdYQ2l4VnpGRGU0YnFIc1hXc3V2aF9uQjc2cnlWVmZGbHRGSFdoQXZDclRKa19YeUFqNlVQM2QtcFE0QWZvVlFUaThfM0J1MnhlSnNKNnpEaTFONDNwZlZVUHFqcjVwVHB2RmhnSm9ZendxTm1RdkczdWN4allrSU9kZ0R0alQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "LinkedIn",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-19T19:30:16+00:00",
+   "fetched": "2026-10-22T13:18:41.453863+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "6cc8566b44cfce73",
@@ -12268,6 +12366,32 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "e7def45b8fd8ca79",
+   "src_group": null,
+   "src_country": "US",
+   "title": "DOJ secures Cloudera settlement amid H-1B visa crackdown - Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1INlFnQkZTaDl1djRHU0hNOFI2eTZBU0twZzlwc2IyUzJUOFozY1h5dEh5OU1FYVBCTDF1cXliZk92eUlKYUJIU2dTb2tjeEtNZ1dBVGE2WS12aEE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Fox Business",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-16T22:13:33+00:00",
+   "fetched": "2026-10-22T13:18:41.453863+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "6a2c37f1e8906a23",
@@ -19251,6 +19375,30 @@
    "prio": false,
    "score": 4.5,
    "groups": []
+  },
+  {
+   "id": "84b20ab8c65cf4ee",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "ACCIONA selected by VicGrid as development partner for the Gippsland offshore wind 2 GW transmission project - ACCIONA | Australia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkpXSFlJQmNENldIYnBiSnBObW9JbTBaQjh2TUpybTQzRjhsaHB4NG8xcnlLN1EwWEQ4cU5pQXVTdE9MaTRPOHZ3MWNUd2hUZW9kQ3NRRllDLUpsTnRmeTh2czAtektIX0Z6Q2NIcS1QQ0tvd1h1OVM1MVduSlkwTk1fRkwyZnplUGZEZkZpY1Y3c3NWc1BJNHNmVm52a1RPS2NpcDNR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ACCIONA | Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-15T01:11:22+00:00",
+   "fetched": "2026-10-22T13:18:41.453863+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "70908f37b7ecdea5",
