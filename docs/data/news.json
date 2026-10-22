@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:03:47.042837+00:00",
+ "updated": "2026-10-22T17:58:16.636258+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 13
+   "count": 38
   },
   {
    "id": "au-student",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "us-sheet-khac-2",
@@ -533,19 +533,19 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 18
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "eu-student",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 15
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,19 +617,19 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-investor",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 31
   },
   {
    "id": "nz-family",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 6
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
@@ -724,6 +724,128 @@
  ],
  "items": [
   {
+   "id": "6cd91ea26383eec3",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "Tartaglione Prevailing Wage Bill Passes House, Heads to Governor’s Desk - Pennsylvania Senate Democrats",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd3dDMXdNb19XM1R5cHhEM1o2QkJSRnJTY3NxVlNlX0xDQzczVXNpd0ptZVoyUTVSOTVNYVF3NVJQWDFoR1Q2dlNMOEEwdWVqR2RfS0phLVZCYXlQeFdRT1BWM1ByV2RBUkRKaXZ1d2xBUWNpMVdiNmJxakhRd24tdGE4QktBZDhZdWs0NlZ1XzBLSFRGb2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Pennsylvania Senate Democrats",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-22T17:46:21+00:00",
+   "fetched": "2026-10-22T17:58:16.636258+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "6966331fef556b70",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada warns foreign spouses about 1 offence that could lead to deportation - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTU1jcHVYcGxYM2Y4dHRVS3FBUHlQcWhMMThEZkY2RzdUc3hJWTVjYW11aWIyZXl4SXRaUjRMdW1UREVVUVplcy1YT21yRWFFaTBRODhzUUhHWGs5dUhRMkxVT19yQTRKZ2Ztbm01YWhvWkw4SE4wR1RuUjd5bUxfQzRUQ3hXQ1hWd25BVERxOTVpZUNpS2NzbA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-family",
+   "published": "2026-10-22T17:40:09+00:00",
+   "fetched": "2026-10-22T17:58:16.636258+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "02dec26d22ba72fd",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Visa changes leave international students uncertain - Oz Arab Media",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Qdk95cmxnV09DT2RjdkJaQ196NXBkWks5aDduUDdwMWJmV1pBbEFLUG5aaXdqaWtmampzQ0MtdlphenlSOHBGV0Z2Wk5icGN1OTRnc3U3U1ZMTnRNbUlHY1M5UjBXdW1sVDFXR2tNVkd5UWJLSVdIMTFYMTMyQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Oz Arab Media",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-2",
+   "published": "2026-10-22T17:30:28+00:00",
+   "fetched": "2026-10-22T17:58:16.636258+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "5cc2db641b4d4339",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Sponsoring Employers’ Guide: Demonstrating Ability to Pay on Form I-140 - International Legal and Business Services Group",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX0NUMHphRGN5M1A0NlFtNHp6TWJ0WVpSSEhLQ2tBdXMxZnA3N1htem5ScnhtNzQ2al9kWDVxc0ZCeThMZEsyWElIMXhQWlozMWFSSG1sckltbkhhMk9pUVlPaTNHcmFDUE0zczdQVDVrNVY1eFhyWnUwYnVMaFhQcWlYTnBQd1BCalZUYlVySkNuNmFaTTJFM0FXTEdzMEx4NVlONi14R0NDNl9WcVRv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "International Legal and Business Services Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-22T17:26:29+00:00",
+   "fetched": "2026-10-22T17:58:16.636258+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "0e699e5ca3cf2826",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Citizenship Approvals Slow as Application Backlog Tops 813,000, Affecting Indian Green Card Holders - INDIA New England News",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWmNzQk5vemlvWmZTb0xmQ3c5QzF0VW4zZFUyWUFLdk9iakZtNHp0MmdpNUpIZU85Y3oxbEhHQlM3aE1rNFA4R2FhUXNKYlJqMm9kNXowcGxaYkpmWTV4QnpYbzRRdUpnQ2pEYWZIQVg0Rkx4YXVReTI1SGJWblVSSk9qRzVBWjk4bDFBcUZlSmEydEVsdDlEOEYtTmFIZzZFLTZ2dHR3bnFQUm5fMVJLMzNhZldmSy04SXlxWkgxUVd0ZnQxaHE4TA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "INDIA New England News",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-22T17:03:40+00:00",
+   "fetched": "2026-10-22T17:58:16.636258+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "d2fe004e2372ab5b",
    "src_group": "tay-nghe",
    "src_country": "US",
@@ -746,6 +868,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "7e26c635d4668aff",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "The Central Bank of the Russian Federation set the official euro exchange rate on October 23 at 91.1364 rubles. - AKM.RU",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLWgzWmtDeTNrakxacXZfeHVtUy1nbzhHdVhlTjc3NElJaUJCWGJoclU0R0V3WXh4dndBUHhpeUF4MEp5cXlNTHJDbUZMMG5heG8tbWtwY1UzOFRYTXdMWnE4a2Z0S3V5aXRaalNELWt3YmU2MmpCUm1wcC1BLVJiT3A1c3JhWUY0QWNtRENna2g3R1Y1VWhKblM1VFNuY2l3T3BScDNtSXpkSHJtaTYyaG14dzJNS2tUVUoxZzVRLWtJa3FUd25uaw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "AKM.RU",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-1",
+   "published": "2026-10-22T16:26:59+00:00",
+   "fetched": "2026-10-22T17:58:16.636258+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c1237e393f10305a",
@@ -794,6 +940,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "0dfa44d04aa597c1",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Ông Macron phê phán những ai phao tin bạo loạn Pháp do nhập cư, nhắc thẳng ông Trump - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41aE96MmFEVHNzOS1tdnJONmxTZjhVTGxOTTdxNkp5REFEYkpDN3VmVFRPcmRGM0c3eTFHTmVnR29hN1lSSDNBNlVaT3Jsc0hkU2NCamNoSG42TGtuSVVPM1JoR01haGNGcmtYYTFPM29WTUJwZDZoT3ZmNl9Cdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-22T14:48:19+00:00",
+   "fetched": "2026-10-22T17:58:16.636258+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "55317a047dcb67e9",
@@ -1215,6 +1383,28 @@
    "source": "nz-smc",
    "published": "2026-10-22T10:36:50+00:00",
    "fetched": "2026-10-22T11:03:54.409809+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a5e1278b376e5f7d",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "EnerMech takes on ‘major’ UK CCS gig but keeps project details under wraps - Offshore Energy",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdXFTWktJT0tpRi02QzU1YnVhRDRpVG94dEJhNWlQaXI3aF9iWDV2bURPejZVcXRpdHdJV09ZSFl4X2tibkhZU3ZYRnNlc1pDV1BkeDhwMFBIYmhqcmdrS2xvWldGNEhWUHVlRVN4LUhpc0ZTVW1IQkRtQlJSZWJlQk5FNVpYRTFBakF0dFNMNHEwYkRweFdTUWJSUWhRSEt0bGxZd2dpRmVBRWhlLXI4Ng?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Energy",
+   "country": "EU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-22T10:30:00+00:00",
+   "fetched": "2026-10-22T17:58:16.636258+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -17519,6 +17709,30 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "9aafa7ce52d5185e",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Tech giant says AI visas, bots in kindergarten needed - inkl",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVlMUWhQVGtBOURVQ3dnUkRYbWdFcWxZdTEta05oN3UxZTM0N2ludDU4N3BMSDdmR1l2X05lS1BZeFozbUJIajBhYkZ2QmRPRm92OERoUVRYR2JrQmc5S3FRZXhqU2hEUlBDaUZrRUdGdHFKS0VvU3RBVWdQYkhQYU9PRUY?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "inkl",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-2",
+   "published": "2026-10-15T18:00:00+00:00",
+   "fetched": "2026-10-22T17:58:16.636258+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "74b8024b5e62ce68",
@@ -33943,6 +34157,32 @@
    "lang": "en",
    "policy": true,
    "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "642429f8d817dc47",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "US kicks Microsoft, Adobe off H-1B visa program over alleged abuse - Türkiye Today",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNblcyaUFYSnlaZzZrUUh2czhSOFZKOXYtUm9OT2tLSUNxS0ZIYlhqeXJhM3FRVF90VDU2SXh3V3FEU01uUjNrNnZDSGt0Q09QdjM2Nkk0UEVyZTVXclgyTWxaWjdMY2I0NDdDajdvcGJPQ3F6YXQ1LW5jZFB2dGZFMmNfM0IzUGdJMnJlOUZQN1gxd2pkbTVCczFGWFFvSnpUUEJqQ2plcUszQ20y?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Türkiye Today",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-22T17:58:16.636258+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": false,
    "score": 2.5
   },
