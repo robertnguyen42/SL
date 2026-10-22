@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T09:09:00.368287+00:00",
+ "updated": "2026-10-22T10:06:26.029916+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 13
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 15
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -365,7 +365,7 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "us-student",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 35
+   "count": 33
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 10
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -527,19 +527,19 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 28
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 10
   },
   {
    "id": "eu-work",
@@ -551,13 +551,13 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 40
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 36
+   "count": 34
   },
   {
    "id": "nz-smc",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 16
+   "count": 40
   },
   {
    "id": "nz-post-study",
@@ -1039,6 +1039,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "7353dde07add3932",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "More than 150 sites sell ETIAS before launch, ABTA warns - ETIAS.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVFBscUpCREdZWTFMYXk1LW1LNVcxMUxjZURaY1IzNHRqYU52d2lHaUp1eWxPMnNDWjdzaWktX0JIdU1pOWg5YjhTeWhHRkExUW0wOTR1V2tXcmk3bGh0M1pxOEFEV2FIVG9XcmxjclpBYXpOWGhMYy0xS2RmejBrUjM0ODNJTW51eDFJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ETIAS.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-22T01:09:02+00:00",
+   "fetched": "2026-10-22T10:06:26.029916+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "41929472100e9470",
@@ -2946,6 +2972,30 @@
    "source": "au-sheet-chung-1",
    "published": "2026-10-21T08:49:52+00:00",
    "fetched": "2026-10-22T02:27:51.962677+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "fd96f4ef588e8211",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "World's biggest offshore wind farm battles deadline as turbine troubles weigh - Upstream Online",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXEtQS04MXpEcEc0cjlEelV3M01CTk16R0FnUWhQaGtfbHIwMTMzd2t0UXRKYTFESndEZXhKRG56SXFDMDhLRC1wd3RSWjUwQS1CMVdkVk1Jb1VUX2lfZ3N1MS03SGZXN2FNdW4ySUhlZ3dRT3IwbzhLT0xkNFhaNEF6VDZ3ZUE2dWxvMGxXemFfNTZhMEVhVzhtT1F0dGltZHlMR2RvY0hscEZwbjllQnBEamI4ZHR4T3FCUE8wUTlxdFd3MzdNQng2UTB5RzVvM01F?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Upstream Online",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T08:24:23+00:00",
+   "fetched": "2026-10-22T10:06:26.029916+00:00",
    "visas": [],
    "groups": [
     "chung"
@@ -14809,6 +14859,32 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "c6ccf3d6c2d97fb9",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Drop in Gulf student visa applications shows dwindling appetite for UK universities - The National",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmNYd04xYUNJeEhhaE43RDFMY1psWlJMN0xYVmw3WTZxZWlzVVcwQ084VlFDMXgxR1NJSE1VNlR5REgxeFNEMEoxcEVHUXF6ZUt2cGtRUXNfSTMtZUt3aG9oYlFjQU5zNk5zRjJyYWNrRE45UUhZOGxXR21XdjNpRWRxejVOOVNGY1RiVm5UanNGWm5KS0Z4SWRHb3NIVmppYXdJOGFEN0xtX1c4SEdOY2lFTUlaRWNKc2YwZThpWUFLR0xyNUlVV18yS1N4UnZE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The National",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-16T05:44:57+00:00",
+   "fetched": "2026-10-22T10:06:26.029916+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "be2eda1cc1bbcceb",
