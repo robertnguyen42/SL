@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T02:27:01.793705+00:00",
+ "updated": "2026-10-23T03:05:12.757859+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 17
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "nz-gov",
@@ -239,19 +239,19 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "au-student",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 8
+   "count": 11
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 37
+   "count": 12
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 11
+   "count": 37
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "ca-work",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "eu-student",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 19
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,19 +611,19 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-aewv",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 31
   },
   {
    "id": "nz-family",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,64 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 16
+   "count": 9
   }
  ],
  "items": [
+  {
+   "id": "9d32a077a0a78f5a",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Student Visa Rules: 4 Essential Changes, Easy Guide - NewsCop",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWTTF5Q0FmR0stX3ZNREl1bFRyQmQ5dVJRcVcwbU41bkpycEZ3YXRCOWFaazBjUldsVnh5LUVWNXlsaE5aaV9iOXdMLUlLaG5lTmxQY1BxcHJVU1NTSHlJT0xBYw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NewsCop",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-23T02:53:08+00:00",
+   "fetched": "2026-10-23T03:05:12.757859+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "824225aaa32c60c3",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Visa Bulletin November 2026: Latest update brings selective progress for Indian green card applicants | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMVd6a2VjeXZHaE9YNklsdG1pbzl5Q19SQmhFNDFFWWpNaWZrNlZVSS03SS1xNUVYTndvOGdsWTJhMW5pbmVSa0lBMHNtM1hIMWR1SUdHZW44ZFhGWGEtME95aXVwSHF6Z1pROHJUeWx1VGtHTWxLdzZNaEtodjNkbzd2UW1yZlVXdVFRQlNmdWppVjdvLTVXLW5SQnBYNkhwODZ3X0RxODJFUXdVNlBLdURpUVMweE45M1M1MG1zaGJoYl92YklreGZTZ0VhekhHME1VbDk4NjBjX1oxSTRTWEs4UmE0aThhV2xZenM3alXSAfYBQVVfeXFMTnVnU2tFQXBXc0RYRXBhM3hpMU16RWloQ2dtdjN1WkszTGdHaUV1aUhZMkhDZkh5T0pxdV9LTEFzcWswS1hwcG5sMm80RUFPV1VkUDN0NWgyWUJNYzhFU0t3YlZ5RzhqcVRSNFRkN0xYR1NXUTNWc2lNLU13OXVrT25pa3l5S2Itb1F0ajdnUGFOQ0dSSkRTb2I2WFc0NUg1a0dSQlhoUDc2bFNfQ0xYOFZuODhQSnd4R0xoVVNLeFZuejZRLVRzMDREUnVWM1JBNzFSZ0ExZDFOcFlnWWE4VTduTlpJX25WMUxEWmdQNWlCcVVnRXFR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-23T02:31:20+00:00",
+   "fetched": "2026-10-23T03:05:12.757859+00:00",
+   "visas": [
+    "visa-bulletin",
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "684eadb6d731bda9",
    "src_group": null,
@@ -972,6 +1026,30 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "1d7223e6c279babe",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "API turns offshore safety standards into VR practice - SmartBrief",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSkNpSmNMbjloOEROcG1fLW9JM2tKbnJ6dTVRbHBsbVdtSVcxZ2tTUzFDYlJxbEs3OUx5LW14M3ltYnBHeG1EbExQMEhBZlh6OVlRSGdPSlI3VXFnQ1c5a0RYQWpVUkUtTXpaT29tSnA1TjhzbkV6VXI5M2FBX3VzUzhUaFZyb1g1eW1GOGVHX044UQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SmartBrief",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-22T21:18:31+00:00",
+   "fetched": "2026-10-23T03:05:12.757859+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "20ead2dd9899ad38",
@@ -2447,6 +2525,28 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "cc7bf9c93fbaad47",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Immigration detainees disclose 'humiliating' treatment - Yahoo News Australia",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDU5dVl5dDZpMXdpLTczdzFfRl9ZS29uQ0J6ZWtxUTBCLWdYNlJPNjdKZC1UejQwYUluTEJsOU5pZ015MWxLcF9FZ2MyaFJsczQwOVJtLVRsMERRa1o2S0RsOGQ0ZjFJVjE3dFpDZ3N2Y1pENzBCaHA3VTZCZkNRemFJRDZYb09CQVNBOWVDZU8tWVlCWVRubA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yahoo News Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-22T08:12:46+00:00",
+   "fetched": "2026-10-23T03:05:12.757859+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "8a961c867c5d59e9",
@@ -52732,6 +52832,28 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "9b65a419b9889c8f",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "DW News. . Workers with a migration background are overrepresented in the jobs Germany struggles most to fill, according to official government data. In some shortage sectors, up to 44% jobs are filled by migrants. What would Germany's workforce look like - Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWF9oelNpVmhOX1UwUkNZZkg5SzRwMmtEN0xSa0dleUJsYmVKZ0FMakllRVRCNGw2UDRqUzZMYU56ZS01S1Faa1V5UEEta3RMYzFOYmZMSzI3eVU1bXFSU3lDanNEWk5GQ3A3d1I1d1UtR2pHaThCNHJRb2pyNE05MTlPaWNxQm44d1J3R0RURzItVTJDVUx1U241SGw2OU1IYlVqVy1RbGRub1hiVkZEck5JYVp0VDZFOWhBWUhwODdOQ2VhcDRkYnlrY2lYb1lxV1RQVDU1WHRzZVlKOWhqUmJR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Facebook",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-blue-card",
+   "published": "2026-10-02T07:00:00+00:00",
+   "fetched": "2026-10-23T03:05:12.757859+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "12fec60a071c0c81",
