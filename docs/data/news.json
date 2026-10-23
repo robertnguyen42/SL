@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:01:02.394026+00:00",
+ "updated": "2026-10-23T07:18:23.211290+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -173,7 +173,7 @@
    "id": "us-gov",
    "name": "Federal Register – USCIS",
    "ok": true,
-   "count": 2
+   "count": 4
   },
   {
    "id": "us-vi",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 15
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -245,7 +245,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "au-skilled",
@@ -263,25 +263,25 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 5
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -311,7 +311,7 @@
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -329,19 +329,19 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 8
+   "count": 10
   },
   {
    "id": "au-sheet-dau-tu-1",
    "name": "Sheet – Úc – Đầu tư (1)",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "id": "us-eb5",
@@ -395,13 +395,13 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 25
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 37
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 12
+   "count": 34
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 24
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 29
+   "count": 27
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -533,19 +533,19 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 18
+   "count": 40
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-student",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 37
+   "count": 35
   },
   {
    "id": "eu-family",
@@ -587,19 +587,19 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 13
+   "count": 28
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "eu-sheet-dau-tu-2",
    "name": "Sheet – Châu Âu – Đầu tư (2)",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "id": "eu-sheet-khac-1",
@@ -623,19 +623,19 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 14
+   "count": 19
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 9
   },
   {
    "id": "nz-business",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-family",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -719,10 +719,62 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 16
+   "count": 14
   }
  ],
  "items": [
+  {
+   "id": "57ba88e099042739",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Breaking Down OPT and How It Affects the Economy in 6 Charts - Inside Higher Ed",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0xiRlU3Sy1qdERPajkzRmxUeXlFU3B2QVFYUzJ5VmhnOUI0ZzBXQlBlYTRncHlVTFh6cWhQSEk0R213MnNmQXhPR0hpc0dyaWY5WXdBa1JmQ3ZmNjQ1Z2oyd3BQVTZYU0FLbkZGaGlKSHJSRlBLX19NRGR1T3RaUmRmR3ZDVDYyN2tSOXhlTGItWFBsdE4tQzVjU0JTdmdNR0hiSHUwU0VMcDdCTXlqSEt2RWIzVC1jM3NuZnhoUUNFcWJ4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Inside Higher Ed",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-23T07:02:41+00:00",
+   "fetched": "2026-10-23T07:18:23.211290+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "ef9218479c9ed119",
+   "src_group": null,
+   "src_country": "US",
+   "title": "November Visa Bulletin: Big movement for Indian family-sponsored green-card applicants - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOdWJJcXpBZ3hsSjFzZUpLREkyamJvVEpoMUxJVFk4azdLWWM4UzlKWWg0ZHZLS2dMWEJWN05zQzR1SlNPMVcycjNsWXZqdXcxeWcwajVHSFRJWmlJU2xWX0I1OWx0WlhVRkpQZWRLRVlrcC0xNmVOYTVTMXJtQmRJQkduZ3pIaTM0aVpRR3VhSjB4dGFyVEVpTmIwbFp4ek1rUEJwb2dDcUtuTVBUdEJ0bTN3REd0aFRqejI2ay1nTl9KTi1hX3pnckc0bV9OMUpZSVVmaFF6OGktZUpwNGNLV0FqVXdEd1RaVFNjdTVDRUEtOUQ0d0drdnpPUXFBSzl4YnNDTk9JQkVQM3VDMEN0SVM2VEF2WktjZ2duMdIBogJBVV95cUxQOW95U210bktfekEtWUs3aHB4UkNQcF9fQ0ZvQVIxVVlsbW5YbThOblVneUp0X2pUc21RWTBuRm1faE56VmtFUHhIYXJVTTJFZlA3WkxaSGpMaHZEU2QzYmZxcjFzeXFzUEJ6eU5lblA4WDdvSWpHTTRQTkZiRUU3Q2tURjhVNFNQU1NjQ3B4V0pXaXdlUzZRRUptbElFc1Q4QzUydEZYdGJVbDctcFd2N21RQUhacUM1TTVLc2d0WlNxRlJYUGF1dmx3WWtPODV6UlJoT1UtS2dhUHlhdlZvelMzQ1JKN093V0xTenZIaU9kbDFrQjd1VUxUQzQ0NjRQWXM5UndRdjNhMEFlVnY3ZXZjNDRsNWp0Z080LTBlN3FKQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-23T06:07:48+00:00",
+   "fetched": "2026-10-23T07:18:23.211290+00:00",
+   "visas": [
+    "visa-bulletin"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "e7ed91c686f8871d",
    "src_group": null,
@@ -875,6 +927,78 @@
    "score": 1.5
   },
   {
+   "id": "f8861262bbd85b10",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application To Register Permanent Residence or Adjust Status",
+   "link": "https://www.federalregister.gov/documents/2026/10/23/2026-21698/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+   "summary": "The Department of Homeland Security (DHS), U.S. Citizenship and Immigration Services (USCIS) invites the general public and other Federal agencies to comment upon this proposed extension of a currently approved collection of information. In…",
+   "src_summary": true,
+   "publisher": "Federal Register – USCIS",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov",
+   "published": "2026-10-23T04:00:00+00:00",
+   "fetched": "2026-10-23T07:18:23.211290+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
+  },
+  {
+   "id": "251f70d7eed7224a",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Agency Information Collection Activities; Revision of a Currently Approved Collection: Application for Travel Documents, Parole Documents, and Arrival/Departure Records",
+   "link": "https://www.federalregister.gov/documents/2026/10/23/2026-21684/agency-information-collection-activities-revision-of-a-currently-approved-collection-application-for",
+   "summary": "The Department of Homeland Security (DHS), U.S. Citizenship and Immigration Services (USCIS) invites the general public and other Federal agencies to comment upon this proposed revision of a currently approved collection of information. In …",
+   "src_summary": true,
+   "publisher": "Federal Register – USCIS",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov",
+   "published": "2026-10-23T04:00:00+00:00",
+   "fetched": "2026-10-23T07:18:23.211290+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
+  },
+  {
+   "id": "9c74d90019d02619",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "New Brunswick Selects More Atlantic Immigration Applicants - ImmigToronto",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUnBqTnFacmd1NXh0RTZrT2kxMG4yaER5MUxMUnhKY3IwOEEtTVFhbTJBUUJOTDdDOC0xcjd5VlVRMGtlV3NPekQyRndOanJ4YzUwZGd1aFFCQ0FzZlkzTDNIU1NqRnJzbkVwZnNXWkNINVdJZHhOVWFlV1FTMGtuLUdod1dwLUQ0ek1CQw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigToronto",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-2",
+   "published": "2026-10-23T03:51:39+00:00",
+   "fetched": "2026-10-23T07:18:23.211290+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "67016a2ba3b340c5",
    "src_group": "chung",
    "src_country": "AU",
@@ -1000,6 +1124,32 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "4b59ff3155f4d79f",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Trump Administration Investigates Ilhan Omar's Naturalization Documents - Nacionale",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGxGLVdqVmphT0lJTzB1S2ZGdmEtV0N3SGZvMzlScFA3OXVqS0o4emM0dlhOR1o4d0Y5N05hNXhmX2xQd2pIcEJNLUtTQUJOQWlwZHR6NllpOFJEaHZ6Z0s3bnZKaFdHT29ReENrWlJiMWdjN1lnZHBsWFJIdHZSc1lfdWxULTNIVzBlZVZHVzZKeFB0N1F5Yk52QTZudnptSW5mdVhGRkd1dEk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nacionale",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-23T01:46:14+00:00",
+   "fetched": "2026-10-23T07:18:23.211290+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "9d6f73dda9af59b1",
@@ -2102,6 +2252,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "de54f6d39e83107b",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "United States | H-2B visa processing times as of Oct. 15 - BAL Immigration Law",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVDZjM1F3TXhLSmtnMHRkUUctNlh2M29KQ2dxNnlCdHh0N0dxdXQwVmRqdV9EazhxLXpDaEFyZTRVOEF5Nzh2THJvZlRiRzhXanp1ZVhoQkFaVDVYQkNqSl9oNDRGYWNPMlVYM1R1czV4cDYwWFRxcG1CN3pVclVldHZrb0VFNmVLOGpwV0RBZy11SE1jUVE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BAL Immigration Law",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-22T13:53:27+00:00",
+   "fetched": "2026-10-23T07:18:23.211290+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "db33d89cad62b7d2",
@@ -4963,6 +5137,32 @@
    "fetched": "2026-10-21T15:04:25.716544+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "fe3a5647fde2d9c0",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "EES and ETIAS 2026: EU Border Fingerprints and When You Need ETIAS - Around Prague",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTVF3dER2cU1jTWpuMmF0bFhqTzhyRjZXSUI1cGZEQjhGZGl5WUw1VGpfWXo5YjUxZU5WNXpCcm1UNmdzbkx2b2dQTlNqNWVVUzRrRGtsVTJsUGpLa0VCWDltakpkYUlacXhyUE1mdWIwYzgzX0FZdDB3amk2X0dFVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Around Prague",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-21T11:50:21+00:00",
+   "fetched": "2026-10-23T07:18:23.211290+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -8475,6 +8675,28 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "54e46fe59ba3358d",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Establishment Labs Holdings Inc. (ESTA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16WnFCNnR3QWE2ZzJpcGpLVnZRVXBLX2VqbWRnbHpCUVZqblJHYXdDSXJDbEVEM21DMDlzYnpKWi1vdVhORDltRU16bkZTZ2oxRkE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yahoo! Finance Canada",
+   "country": "CA",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-20T06:53:23+00:00",
+   "fetched": "2026-10-23T07:18:23.211290+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "230200f7850f286d",
@@ -49106,6 +49328,32 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "087448703261839a",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Introduction of ETIAS in 2027 - upcoming changes to Travel Requirements for the Schengen Area and Cyprus. - Gov.pl",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWjd6VEVaSEM5SGF0b2NISXpBRUQ5RW1peklhd3JubmFycndLRkpLamF4RVlnbUJwZnpmQS1BT05BSkdKTlhvZ3lTemt3TjhwZWlfMnRsalVHVkVGS05IMGFKWm9EbUJLcmdqQW1CeEcwdVBJQUs1VjBzZXFMaGZmSXBnM3Z1am82WkhWYXZOdmN1SHBMbmtmWjcxcGZTUmhfUFZWUkttc2hFcWtib3liYU12Z2M2Y01LU0hNZ1dCYWhJQ0hLWFdXZElsRzY1RUVEZHBV?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Gov.pl",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-23T07:18:23.211290+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "9c24db098c37e744",
