@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:22:44.288061+00:00",
+ "updated": "2026-10-23T23:54:22.809305+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "au-en",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 15
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "eu-student",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 35
+   "count": 10
   },
   {
    "id": "eu-family",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -605,13 +605,13 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 15
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 8
   },
   {
    "id": "eu-sheet-khac-3",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 13
   },
   {
    "id": "nz-post-study",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "nz-sheet-chung-1",
@@ -1658,6 +1658,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "3c580ac0ddc3b30c",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Prima Energy widens Southeast Asian footprint with stake in Jadestone - Offshore Energy",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTk9BTm9hVVJWRE9fQnNzMThEYXYtWUdjdTFBeTFFZUZUeXdtdnpCR05IWUFLRkd5MUNmTXpFMnZOb2NTR2NzV2NjZV9GaHBOYUM0c2FuNUJ5dTRrZkl4UnU1MFpOa2JSSi1KSXBQNy15amZoWkl5T2JxSFNEdkFUUkZDRFlhMEJCWHBnQVFMc0IwSWxXbVg2NnF2eWpnaWs2ZkROTThqR1d6LUZuWF8xWE9B?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Energy",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-23T11:19:00+00:00",
+   "fetched": "2026-10-23T23:54:22.809305+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "0e725f953d712e68",
@@ -63699,6 +63723,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "7b3a71e6e7d0aad2",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada Explains 3 Reasons Foreign Workers Must Apply to Extend Their Work Permit - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzd1Q3UzNUtpVV83LXRLNmtoWjNRZVdnXzREYk1CdkNQUFpHbXhCLW03RFJwdXcwLTZ1ZnpCQmRrZWJhblZEcG9Kd2llZUZhQ1ZwdVhuSG4xektSQ1ZkQmp4RXlRenNieFlybXJDaGhGTktfdEVmLVlqb3dxMG9GQ2wzeEctMlBQVTV6T3M2dHo3cGNVM1Bfbjk1Zlg0YlNra0E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-23T23:54:22.809305+00:00",
+   "visas": [
+    "work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "0d330a644266d953",
