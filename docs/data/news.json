@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T12:38:48.939535+00:00",
+ "updated": "2026-10-23T13:35:56.404947+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 15
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 35
   },
   {
    "id": "us-eb5",
@@ -395,13 +395,13 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "ca-sheet-chung-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 22
+   "count": 27
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 23
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 28
+   "count": 10
   },
   {
    "id": "eu-work",
@@ -557,13 +557,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 35
+   "count": 11
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 12
   },
   {
    "id": "eu-schengen",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -719,10 +719,111 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 9
   }
  ],
  "items": [
+  {
+   "id": "325dc1d629ffafe4",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "US govt seeks remand of New England Wind offshore wind project approval - Renewables Now",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRE0wNjh1RVUxYzEtSTVvUEVqNkgxZVNSdTljNFR1cGEyZ2JwWGdBS2VJTF8weDBBX0l2NHJwX2hSQXgzRlR1OHZZVzcxS01OWGU5YVhzRkdjZ2pDUmhuOWwtaElzQ0d4aFJqYnVqdEh5bVh0bWp4a2hfekFGaWp0blFQaEN5aU5jcnFneEtpeFNlNE1adFNLbGluMkZPeE5jbEtNN0ZIVFlja054UnFDaA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Renewables Now",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-23T13:23:43+00:00",
+   "fetched": "2026-10-23T13:35:56.404947+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "97ec8c3c6e3a0df0",
+   "src_group": null,
+   "src_country": "US",
+   "title": "November visa bulletin 2026: What Indian Green Card applicants must know about cut-off dates - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORzBHTUpPVDg2LS12dk5peEhWTXVtU2d3UFgxQmRfRDhoUU5BV2RMdTl4bEhkSENMU2RRekVYOEoyQWoyZF9LbkF2dUU5cjFSeGY0QTFMYl9UVEN2ZjBhdWpXMEpxZFdvelBSdnNOZXl1akVQdFZ6VkFIclpqa3JlQ3VTSEl3b0dhNEhzOVozWV81b0txcGg4cHNucERMWFRIaFl3dGNwMXBseXlfbkZiTnV1RDZzcFFJRGtaYnhaX3g0am5YN2hOR0RkWjMwUVRhdTJyeGhkXzRQZjdlQWhReGlvMTFubWVWbFh2N1FFSFZjUUZl0gH6AUFVX3lxTE9UUFdXcTN1Z0VBZVZFaWlVRUNSRDlCb29hT2F3ZXRzYm03V2VReXlJWXdIS0FVTVRDUnN0WVAyOFZwLWVfY3lnMkNWdUs3Tm5oTU84YVc5bng2X3Vna3FOak9CdGJ0dWRTbGdyX3U0XzZjWF9TMFdyaWlkcnE1RVdDOHVmclAyTWhfb09xd3otSmxCRnp6bmVzbC1Wa2hackV2b25taXpxdUdDd05Bc1JkSXBEM0ZXV2VzYTItTjUyWWlGQnBfUE10b2s4eTVsQ2FvRDZhOThrQkFCdXpCVWt3aXNtNkNKZXdjLUV4UHFDUGthVVBiWjRBeHc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-23T13:04:00+00:00",
+   "fetched": "2026-10-23T13:35:56.404947+00:00",
+   "visas": [
+    "visa-bulletin",
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "99683c25f93a4fc0",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "Why an LGBTQ+ Family Is Planning a Future in Portugal: Two Fathers’ Future Planning for Their Sons - Get Golden Visa",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0pKTk9iZlUxWExaSnJTODBVQlBjaFZoTlFhd3I2UkhRWDhMNmdVUldmaEx3bVV4Ym5jcXkzUUJ3WTJ6XzFCTFhuSFZCaXJEd0lBcHQ1LXd1ZnA3clZhZVNDMU1CS1VMbTVvYXpQdUpTeUZYd253OU1yTUVPNldxUUdaYWhVQUk2REQ4dndVTFpUTEJneHEyZ2dmanNUSl9GeUtuaXFXQlEyNEVmaTVtUUVMakY1Y21lQ1lLOVd3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Get Golden Visa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-23T12:56:49+00:00",
+   "fetched": "2026-10-23T13:35:56.404947+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "25193de9b87e3df3",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "EU EASTERN BORDERS: Major drop in irregular crossings so far in 2026 ― Finnish PM’s party proposes tighter asylum rules ― Finnish government planning to spend €100 million on anti-personnel mines ― Latvian government planning to further empower - European Council on Refugees and Exiles (ECRE) |",
+   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPNGM1LTdzTkljUmY2OXNRNC1UUFJSenZFelRscDlCa0lGQ28zcUZvZ0piUEtYa2p5UVhHRkNiNzk4cWRHWWZGZjcyS0otVGZ5MTR4UTlRSVRaOHJaU081WS1KUnYwSHFzLW5LTl9NYkJLeVd1RzROV3BuVGg5TEdZcHZySi0xaXlaMnhFUnlCWmt4c0pXVnpqWTl0ZlF0aFNQaFI3Mk5qQVNuajBULUp0TXdmREpaS2E1c0VUM2lGRTNyWmRYTlg3U2ZyZE1KTkZTNG5hLXo3TE15ZFZaYjFkRXRESU9BTUtETmppeVNZWVhoRkM1b0ZwZ3pCalE4VFhJYUV1bWhzcGZQQVdERTl6M3FiZDFSX2V6VVBtZWZFdUk1WXE4UVR1TjNFekpvQ0NEQkE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "European Council on Refugees and Exiles (ECRE) |",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-23T12:39:00+00:00",
+   "fetched": "2026-10-23T13:35:56.404947+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "f6dd0d4c376413a5",
    "src_group": null,
@@ -814,6 +915,58 @@
    "visas": [],
    "groups": [
     "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "0e725f953d712e68",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "New data shows how IRCC handled urgent proof of citizenship requests in Bill C-3’s first eight months - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWl9OYl90VXhYWmJWRHpPZGV0ajhaeGU1ZDF0WXVTZjVzNTA4UDd2NjRPNTY4QXVMYXQ1elZ5a0ZmSFVkWFNpeWpQaWQ0dUs1dEphcWFrdHVKVzZ0WFFNeUQ5NEZEanRnaThGeEp5TEx4YkNHVFhYRGRHaWVndmUxTUItbkdwZ1dlQURZcXFWd0RyTVpMREVybFg4WUxZSTlsU05YbW83eURsQ1k3cEhLUUlRLXBVUVhfM3dkVlVSeDNFWmFJeXhHMzB1ZWhRdThpV2JBdGFSLUpCWmgwTHfSAeMBQVVfeXFMTnh0VURNTlRadnhSTzc5ZFh1UkNmRnA4QnlnbGpjUldLRDhjY0FYemFvcmF2YzJ2c3FVdzVqNTFqUGxmR2VabHVNd3lBdHlNek10a0ZoQXJiRHk4ZWhSUUdLRjQxSHFrbEw5Y1ZvOUhFUXhRdmo3R3k1aWthTzhjTGVWODFMWXlIN2NZcVZGS1l4T185Y2FNcndxWFFWV2Q2NGk4VTZsWjAwMmJfVENhdFZ2eTdlM3lReDhwdTRDNTdFa1pLT0tsbk1XRVRSc0ktVk5ER09ZNHBHa1R1U1JIalNwcUk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-23T11:01:19+00:00",
+   "fetched": "2026-10-23T13:35:56.404947+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "d6520a4994ad2a14",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada outlines conditions for urgent PR card processing - GhanaWeb",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzlicW14YURFUmpyNks4a1d1cFBmVnBNVVF5SnJ3Y2xraWE4bmM3YVYwU0MwbGxVNm1ad3MteHdrakN4T2l0ZW1YaUl0MC1tanBOc3Y4d1lKdTJXRFhNNkNpaXB1UW0zeXVEWk03N0hnRGY1R1RCNXhxZHRRMmE3Y0JlOXN3RGJqUmhMWlVMV2FDdUxCc3dhbENNa0JFNXViMFdKQ3o4NzVleUhPeGxwdW53?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "GhanaWeb",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-23T10:55:46+00:00",
+   "fetched": "2026-10-23T13:35:56.404947+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
    ],
    "lang": "en",
    "policy": false,
@@ -1323,6 +1476,30 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "0f6039538311e711",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "Moving to Spain in 2027? Spanish visa overview - Idealista",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWZEQWFsVlg2cmlzZlBvbTJrVm5yUDA5ajIyMC0zSkw2NDBlS1JVWHZHSmg3OFJ6TFMyTzBkNEN1WEI2WXVTOTBKTVJybXZOYWNnWTlJV19kNWNnUnBIOTVfTjZuaEVzdGNBazUxTi1kZzZGUUt5MTEwMHpIU19CUFhvdmpFMnNjVmFyNTF5bExXNDVZVXNPYVVPeHBFSEdlbDlQdUl5d1ViNXdVNld1dG16cy04T0NfNnhr0gHAAUFVX3lxTE9IS2NZMWluRlJsbU1jNEx5NGs4bzAzUEVPNGZsNTFyd3ZkR3ZwaFNkQWVjckpzTHRVb0Q0S3ZjVGxkdFhOQ08xUWRjZ2xESXFYcDBsWTFGbXhtTW5JS0FkcEZvN2xRSWJhNnFjZDM1ZkFseWNzS0hFcjNUVER5WHlZWW1hNWRZRVRjRFl1eDdTMjN3X0VMUHp1ZFdPNG9DWHlSY2dNTUktOHFLUlFTalp2OGxLdUktczFIY0loVmZpQw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Idealista",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-3",
+   "published": "2026-10-23T06:00:00+00:00",
+   "fetched": "2026-10-23T13:35:56.404947+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e7ed91c686f8871d",
@@ -5437,6 +5614,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "330a9b931b8eba0f",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Temporary residents outside Quebec scramble to learn French to stay in Canada - CityNews Toronto",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHV4LXdUSVRZNGVJd0stLWNLNHRDMnZHZWVwMU1hZmE0b2RNcmNUSmc0Q09BLXNKQW1sR1pnMDZPTDZMdVg3Mng5NjZKbGhNWFlnaXc5bGVNVjZNNXBFMWM5NGFyN3NpajByY214UEk3eEI3Q0prVWhxRE9lN2xlRHZScktHcmk1OW5XQWQtSGVUTDc5WUp4TDdJX3UwQ01faGZCRDVn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CityNews Toronto",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-10-21T14:36:00+00:00",
+   "fetched": "2026-10-23T13:35:56.404947+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "99a130dba7792823",
