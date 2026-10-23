@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T09:05:52.461439+00:00",
+ "updated": "2026-10-23T10:03:57.378606+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 12
   },
   {
    "id": "au-student",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -539,25 +539,25 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 10
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 21
+   "count": 9
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 35
+   "count": 11
   },
   {
    "id": "eu-family",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 17
+   "count": 39
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 9
+   "count": 19
   },
   {
    "id": "nz-aewv",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "nz-family",
@@ -719,10 +719,102 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 13
   }
  ],
  "items": [
+  {
+   "id": "e634d3e42294c894",
+   "src_group": null,
+   "src_country": "US",
+   "title": "With citizenship approvals slowing, would-be voters are left in limbo - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNEJGZUt1LVZqWkhuTmcxdnhDellUZUxQVUNSanFIZl9lQ3cxSlpfYmRSa3lxQ0RlLU4tYkU0Y0ZMR08wTDdvV3lJak54VXZqc2xYOTdRZXgtTW5lcnZYS2hvekhWcjZrNTVGWlpQS3VYTTdMV1VHXzNsSDZoZGVaX0FHM1JtbVRxN2ZBUVFGMG1YM2ZweUNlOHFsWVhMUTNzMGl6VGN5alVLNEE4X2xYNk5TakxOM3Bsa291UQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Washington Post",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-23T10:02:18+00:00",
+   "fetched": "2026-10-23T10:03:57.378606+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d6056d38f8889172",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Germany unveils new roadmap to reach 70 GW of offshore wind capacity by 2045 - Review Energy",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVFGNnlQS0hlTVRNVFpwaVdKZU5qeng2VDhUcVRVeHRuT0ZCZ1d1NUtkVXBaQkpMN3habmRidVZyOWFWbWVPY2NWLUZidko1Vm9rc2lldE9OZHFaSzU3alZvOWVnU0xMQl9FUk9JNzVGeDJnTm1NaURqSTBReEQ1X2JqaGlUYWdTc2JKZGFJOUJYUXJSN25UY2NKLUtVQ2xxVWRkT3lxUS12MElkZVdmOVdYdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Review Energy",
+   "country": "EU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-23T09:56:57+00:00",
+   "fetched": "2026-10-23T10:03:57.378606+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "32d259dab9e3735d",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia Announces 1 Condition Foreign Spouses Must Meet for Priority Visa Processing - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1JIZFFlb0tMRjJSM3BiLW5Cd3F1RFg3VWU3RGN3NDVBdjk1U1QxYUlHdXdDNmhBek9odWZha2xkUmhldklqWG16NE8yZHRUSjBtaDJfLWZmNkFWRjR6T0xKWVNQS19xYUFNSzNaN0k0THN6b0lKS0RPWlRlZG9yN0FaT3lMWThaSlg4cDI3YUpoN2hZeDJIcGZjaXFfRnRKV2JsVHV6enRrQmcxVUNKRQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-partner",
+   "published": "2026-10-23T09:30:50+00:00",
+   "fetched": "2026-10-23T10:03:57.378606+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "41642c7e8a32194e",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "\"Prove English skills\": Canada lists 7 citizenship requirements for foreigners - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZkI3a25uNHpSQlBCbXJXWmhjY0VYcUdOLW4wN0hRQWRSSGJQbm51aV9ycUJSNVFCSW5PWDhBMGpsQVRWWWd0ak4xRWdGV0hDeWNjV1MtSWlvTFQwV1ZWSEpxa000eXRqTzBCM3FESXlGYTJlczhsMGdLT19oUF9IQXRjQ1VibE9kak5EVjJ3aUU5MUlyeU1GaFdzV3M2Zlo3ZlV4VlNfaE1UWVROQ0lwMHNxbVg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-2",
+   "published": "2026-10-23T09:13:48+00:00",
+   "fetched": "2026-10-23T10:03:57.378606+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "f165155a88d6d356",
    "src_group": null,
@@ -744,6 +836,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "60ad82a2bf88fc09",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia to tighten visa refusal and cancellation rules from October 31, with tougher character checks | World News - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORHhmZGtsOUJLV2RSUUx2ME5xSlUzalFiMzNEVDBHVlFKYUpLSXBRdXcxMllJb2ZjNUM0YkVSMDEyNGtad2cyc1R1U3JFU3h2SzFtZEJjR1g5QmZvb0JLSV8wZksySDR0Rlp4ZVJ0T3RMTUFyTTM1T0FOS2dhUlhScjB3d3NVU3VvUGc0eEJ2c0ZsVnV1dEtRSE1GZFdRa3l0VHpRUVhWRTZ6NkFnbjlnQ1gxNHdCOHRkQ3dtV2pnRnd1SXlNaV9HRGg5VDBzSUtneHpCTExaNFN0eHF0bVJfeHpMV2VqZGlpbWdUUGszeUhCMUVxQk5LadIB_gFBVV95cUxQdmVubVd4UWxYaXRtcHlSSGs5d0M4bmNQQlIxTThoWlBSVWVBZDFpcTBtV19sNXFfOFVVbnFycHh1dWk4OE9TdG5TNUVMNG54SGN3eEdCN043NlprTGhaQnp2MmszZ0E4MlJLNnZxd0NRSzI0UEktR0lQNUNtX1V6X3dLMXpGcnY4WFczaWdSakYwSWlfQm5lblpRUTJjYWNyMTAwMzB4RmdnTnd3SkV2NmpCU0p6TGNQa0J1SmszWWFhZ0NLb1M3R2FLR3JSNmJKbTVFa1FmVDNpM1BTeGFpMG5NbkVQbjZVb1JpajBYeWs1dmpVdjN5Z0YyZnBSZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Hindustan Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-23T08:44:34+00:00",
+   "fetched": "2026-10-23T10:03:57.378606+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "670026801ce5cc48",
@@ -770,6 +884,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "0081974248d09474",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada plans fewer international students and foreign workers from 2027: What Indians should know - Deccan Herald",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS19Td0NkdGpraXZEY05FeE9QUGhLdVo2d0ZES3lEUm5CWDVUeWpXZy1UX2NPTG9pN2RDaEx5RkZMWGdKTWF3VHRCV2J4dVhrRHpOT2x1NUxDQUx6NVA5ZHM3czg5ZnMyVFpkb3Z0WFZkVnpjdXg0LUlEQzlCYmRoRzBhX0ZkU1ZLbmhDbndpM0NCbk13X2MzOEVEcVpCZjlFbENRNThoU3ZxdVAtMHVET3dhdGtVVWpUOVI0OUVGRENucTk4N3JvcFY4aTNyTHhYa1VhdlZ2SWpsVEtiMFBpeVFVQ2xlM3Q4SHRN?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Deccan Herald",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-23T08:20:41+00:00",
+   "fetched": "2026-10-23T10:03:57.378606+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c5726ede2d110765",
@@ -7925,6 +8065,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "7eda60a389688a8c",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Trump's Green Card 'Strategy' Pushes More Jobs Offshore - Nearshore Americas",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVhKODR3OG5uMEZlcjlPQ1JVaEs2Skd2MmpBMXpsSGozQi00SGFzY0lYbjhXd1FQNlVaVEpramFJTG9CR055N3E1Rnh1QTFuZFp0RW1TZWJmay1nYXprTVduRFlUR1h2aFVmVk54R2JHYlNYZ1dYa1ZkemVnYm1RNzlyTjFLZnNad2tv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nearshore Americas",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-20T12:06:52+00:00",
+   "fetched": "2026-10-23T10:03:57.378606+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "7535d7af941a7e28",
@@ -16947,6 +17113,32 @@
    ]
   },
   {
+   "id": "00f865efe4335e38",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Federal Judge Orders Trump Administration to Reinstate Green Card Lottery Suspended Last Year - Latin Times",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXJRdXZ4bWVJNzdnYlBIcTJBaFpaUmNJbmlzRFVLWGhvTmc5TE1nSXRIY1dXbTc5dUxtQnRkRmhRVWMweHlIMklnR3VrZVoxelhRX3hVeUJEbkN0UHNrWi11STBxTnhaTnNlOFNJbHhoWXY5ZXJOZDd5MHA1MDdQWXZ4X09GZHhYQjFlaXJoNHhDRkUzVEV1VVVmYUI5ZDFkWEdHZHF0cnZTVnpMTmI4M095ZndnS0Y2aEFOaHpaV3VtQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Latin Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-16T12:41:00+00:00",
+   "fetched": "2026-10-23T10:03:57.378606+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "e8abaf54e6320cbb",
    "src_group": "chung",
    "src_country": "US",
@@ -18295,6 +18487,28 @@
    "groups": [
     "khac"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "cd21983c5e451c16",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "King's report urges reform of DNA testing in UK immigration cases - King's College London",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUlDVmNNMEJudWxVcVI3ckMyaHVoYkJucWJtOGZWd1BNUHdCR3NHTmU4SDl1UVZxZnJWeW5sWkUzMWZjd0xkWTNUOUg3aHFSUGVWN3NWQlN2bWJxNGpZTjRMdWh2R0YyYzBRY1ZIS2RZS3VOMHpfdE5VWTlNTE1DSERHQnNmTHVFNVdkaXJXZEExRVpMRTBZTV9pWENuekFodHRDNDM1SQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "King's College London",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-16T07:00:00+00:00",
+   "fetched": "2026-10-23T10:03:57.378606+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
