@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T17:04:49.578957+00:00",
+ "updated": "2026-10-23T17:58:16.601643+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "nz-vi",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 12
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "us-eb5",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "us-family",
@@ -533,13 +533,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 18
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 28
+   "count": 10
   },
   {
    "id": "eu-work",
@@ -551,13 +551,13 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 34
+   "count": 11
   },
   {
    "id": "eu-family",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-smc",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -719,10 +719,58 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 9
   }
  ],
  "items": [
+  {
+   "id": "89c526223a389274",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK Home Office publishes LFR privacy assessment for immigration enforcement - Biometric Update",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWUtLOEtTMEVtSG9jd2t3ODhMVzVQbU5tVHJmeXZoSGlaZndVUWNfaDV1dTVaRkhNbXhZNEdyaFFuTTlZZU9QM3hRaEpQM1VnUWg1bGNQQXhaaG1NanJkRmhVcHdIbjk3ekkxQ3hzUk4tbkl3TWZwSHd3T05TTWVQckFsblJjVlR6RnBYbTlYeDY1cGNCSGROQ21faG9fb3RzeWJMaDZ4ejVqdnBKenV4RWs5Sjg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Biometric Update",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-23T17:56:52+00:00",
+   "fetched": "2026-10-23T17:58:16.601643+00:00",
+   "visas": [
+    "uk"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "2812c640fd4d15aa",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Racist by Design: Two Centuries of U.S. Immigration Control, by Kelly Lytle Hernandez - Shepherd Express",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVnpHcjA5SEZhY1Q1UEZBR2cyaVpKR3BucmliLWxlRm4xbUhLMktrV0dUcjVnY3MtRnRMcTJMUkJkN2FqelJUZWQ1N1BWZUpiRnFGQmk4eHVrcXR3RzJOVmRmYWZvM0ZJeERJcVU3OHVXc2FLRDZmM20tNE5rVXpWNXIzcHFpa3BqNU1Edlp6clU1TE5Kci1VeHlnazJ5TGN1TGROdDRZX2s4cE9kSm5XTWlYdmUtRHpGdGsyZENpNUNPU00?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Shepherd Express",
+   "country": "US",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-23T17:07:44+00:00",
+   "fetched": "2026-10-23T17:58:16.601643+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "4bc213bb48670044",
    "src_group": null,
@@ -774,6 +822,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "eabe14b675972cde",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Establishment Labs Holdings Inc. Estimates – NASDAQ:ESTA - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wX2t5dk1QLURrZ3lESkFxSVp1TEFBaXRQN3pKaE5UWThMY1ltbnZZdjVEb01adjMzYzk2bGozTEpSdzZMYkJrTVJ5X0xBSjlyM21MeDlQMFBHWFlaWjJfVzU4aE94Ykd6QmhSZ2lvMlI2MjdHNzBLXw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "TradingView",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-23T15:23:56+00:00",
+   "fetched": "2026-10-23T17:58:16.601643+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "7ac58c5baab8218a",
