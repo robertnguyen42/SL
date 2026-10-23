@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:00:08.834139+00:00",
+ "updated": "2026-10-23T21:59:48.938740+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 15
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -425,19 +425,19 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-express-entry",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 21
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 23
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-digital-nomad",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 10
+   "count": 30
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,13 +611,13 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 31
+   "count": 11
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "nz-sheet-chung-1",
@@ -879,6 +879,28 @@
    "groups": [
     "khac"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "91e022de637d40fc",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "What do Australian visa changes mean for Irish under-30s? - The Irish Times",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUlLRzNTLU5RbE0tNGs1bjlVYkM2Z3NxdHdRY2JsZVMya3JCZVNSZy1Vc2ZjVzcyNDh5ZjlXSkxmWjNCUjR5djBhUkNPUGRpNW0xWkE3TURHMmVQaUp1ampRQXhRUndnZVdJZ2w0Yk5la2V5c21SUjFyeFh0blBkbkNhVkJCdmxld3RQRVVPNS1ocGd0cURodDEzVVhHbkdJWTZWb1NaNVBhd0k?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Irish Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-23T17:49:47+00:00",
+   "fetched": "2026-10-23T21:59:48.938740+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -1430,6 +1452,34 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "629d282f561ff639",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Green Card update: India’s EB-2 applicants face another freeze as other countries advance | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLUNGZzRSXzFXMXpIbVFhMGtWYWhLNzJ0OGotU1drMGp3ZzlzWUVYM3Rsd016aThjRUNUYVFoLVdPQUFVaTZxandsTDhOcC02ZlZ2THNhS1ZSOWszS0FjblhOZ1dua3RxaWludEFkb1lIc2JVZC1lNzU0bTd6dWdFVE1qY0w3dWRUNXdUSWltMFlBQWxSLUxrSlZqd1B5R194cU1CS3VVVTEtQWh5SGZ6V0M2ajk3VEY3cFpKTUFlY2ZNd1RQQlNyVFd2eXNYQktPaVNYV1FEVjZUZ1lzYmZRdUFHUTNzRVgwVFgxS2FJdEFjM3FB0gH6AUFVX3lxTE0xTGVGcjNZOW05VjJqczQ3U1EwaFFLaTF1bUd5dHNMSGdRTUFsQWIxVUJQNlpqX3Q4azRnbU00cC03ekNhZndNcV9weXRLc3U1aTRyTWVTdVVLRkxMcUM2cXF4cGRSMXo4NW1iYWdKT205RTdfQjdwdHR1SWMwRVZwemh1YTdkR1Y5cnpLLVplT0ZzM3BqVHRncGcyTXBaUDRTd2RMQkpKaXFxN0E3QUV5SXQ0eTIwTjMyeURxTFdFWlFuSWlKWHN5UlZLbUlMTFFZc1I2X1VOZktSdHRfRTFGX3hCVHpJUFRJdXV2TWxDeGRKY3g0NmJEVWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-23T11:37:27+00:00",
+   "fetched": "2026-10-23T21:59:48.938740+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "a1bcf1cf8f56954d",
@@ -2307,6 +2357,28 @@
    "source": "nz-residence",
    "published": "2026-10-23T04:02:39+00:00",
    "fetched": "2026-10-23T06:01:02.394026+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "fdc547722d16c1bc",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Immigrants seeking US citizenship targeted in Trump administration’s illegal voting crackdown - The Daily Reporter - Greenfield Indiana",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZEtQOWNNbU0xM3ZnbEJjanBVU0NjazZJQldHWlQ4czFZNHZBal9XMktXUWhZVXRCSVZwRWV6MFJaaW55R2hVT0dEU29NR1hDRkVBY1lKN19GOHZrLWZYZXBIbXFtM0tDVmhvdjBsVGJkUVFUcUZFdHZmSmNkYXNkaF8wOFFlMnkyajZCS2F0em1hc0lUSTFjT211a1JBMm5RUzd2QlBZLWJic1RVT3F1MnowMFdrUDI0eEl1QzlFaEtMNmx1YWE2NHNfMW43bl9SdnNJT2p3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Daily Reporter - Greenfield Indiana",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-23T04:01:06+00:00",
+   "fetched": "2026-10-23T21:59:48.938740+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -13699,6 +13771,32 @@
    "published": "2026-10-19T07:00:00+00:00",
    "fetched": "2026-10-22T07:20:47.687911+00:00",
    "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5d88a6b03d290d98",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Citizenship applications go online - FBC News",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KX211YW1EZk5XTWZZRHI3S1FESnB2Vk9sdFNyVE9mUWFfQ2c4WV82SVNXYWEyM1dvRktST0VVUWllUlZHaGlyX3Vta2tRZlBMV1B2MDVXbVJNOVRrdlpLMjFfX2ZzN2o4TlI2NlljZlY3TnlxUmc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "FBC News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-19T07:00:00+00:00",
+   "fetched": "2026-10-23T21:59:48.938740+00:00",
+   "visas": [
+    "residence"
+   ],
    "groups": [
     "chung"
    ],
