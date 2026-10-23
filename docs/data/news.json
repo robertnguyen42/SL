@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T01:35:07.510859+00:00",
+ "updated": "2026-10-23T02:27:01.793705+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -239,13 +239,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "au-skilled",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 11
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "ca-work",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 24
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "eu-student",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 12
+   "count": 29
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 19
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 11
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,13 +617,13 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 36
+   "count": 38
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-aewv",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 31
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -719,10 +719,32 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 15
+   "count": 16
   }
  ],
  "items": [
+  {
+   "id": "684eadb6d731bda9",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Students with NZ visas told not to travel as Auckland business school faces enrollment ban - https://awaaz.co.nz/",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM2Y0VHVzZk5zdHNQNWpkWkdxbUJ3YmhXWlN6VjF4N3M2VzNEVTd3Z3JrU0lMSm0yQXg3WkRqS0sycHlzb1cwcWZhT0puQTFRNzA4RTJ0NElUVVNFOE16R1NlR1h1Y3BUYzFRdUVoclJkeEFfY1BOVDBJdWRBd3Yya011Z0lib2g4SmVCajF0WHE2R3dPbVloOWR5eHdFQlFWU0xuY3dCeXVoTGpJRkYyNWhsaWdSTnJsYlQ4Vi1BY2w3WXBCS2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "https://awaaz.co.nz/",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-23T01:47:16+00:00",
+   "fetched": "2026-10-23T02:27:01.793705+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "9d6f73dda9af59b1",
    "src_group": "chung",
@@ -1773,6 +1795,28 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "db33d89cad62b7d2",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Indonesia Urges Citizens in Europe to Stay Alert, No Travel Ban - https://www.thetraveler.org/",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdS14cXJEQ1FrVjJERTl6UE5GeGkzR1YzM19oTW94Tl8tdjdqZ2lNbDc4a0lnM0NibEx4eHNvWlZoOG5KSDFaMkVNZUVCTEVnN0lsUjRLWHRHcGwyaXJvSkFSM3N2VnpKLVJ4UFA2RXZudVpmUFFXYmxCallyVG9PUTdGOFBhZmw1TWdKQUtCcF94RzNXQTl3ZQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "https://www.thetraveler.org/",
+   "country": "EU",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-22T13:51:05+00:00",
+   "fetched": "2026-10-23T02:27:01.793705+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "bd513a4cd184d1b6",
@@ -2889,6 +2933,32 @@
    "fetched": "2026-10-22T16:04:23.022370+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "0e5396d5b3ab3433",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Avoiding Lag: Real-Time Signals in (ESTA) Movement - Stock Traders Daily",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVDRFdHNuRzg5cUdmdzFiaE5PWWtWM3NzWE5KTWl5T3dQM2hvdDV6cnFtS0s0YUpOY0ZHWENBSG5LU2tLWnpNNlozczJqM1JLTkd5YWExc0tldXlrRFIxVjFvdXVlM0Jrd0pYRXJkbVJVQUZneDh2aWVKR1hqSWhvTGpfbjZHY1hvYXZXTXBYVmlFbFdld0ZKUlI2U2VuSUxEZEVmWklRZnZ2Q3hRNmNweE5jeFhlVHFSczQ0cHVQNDY1amJFckRJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Stock Traders Daily",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-22T01:20:01+00:00",
+   "fetched": "2026-10-23T02:27:01.793705+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
