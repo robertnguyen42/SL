@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T11:00:27.173120+00:00",
+ "updated": "2026-10-23T12:00:01.623666+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "nz-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "nz-vi",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -371,13 +371,13 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 10
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 11
+   "count": 33
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "eu-student",
@@ -611,19 +611,19 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 11
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 9
+   "count": 18
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -719,10 +719,82 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 14
   }
  ],
  "items": [
+  {
+   "id": "9bfac5531ee539e6",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Province Immigration Named Best Immigration Consultant - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGlpNkJRLVkzeUcyaUhlZy0tc05lZ3RZUWE0RFN3dWwzYTAzanBCby1vTlo1em1FX3pjLVFlQnhFTjhoSHpHSFh1WVNTZlFPV0xpelpERnhuLVJfdE92N0Z5c19ZWUlZM1pJbVJTWmVLNVRFc0xhbFZXbWxFdVZiR1EzS1NYYjdaU0ZCUEtPeTNub1BM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "openPR.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-blue-card",
+   "published": "2026-10-23T11:42:01+00:00",
+   "fetched": "2026-10-23T12:00:01.623666+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a1bcf1cf8f56954d",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Đầu tư định cư EB-5 bao nhiêu tiền? Bảng chi phí đầy đủ theo biểu phí USCIS mới - Doanh nghiệp và Tiếp thị",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR0JjY0RVTDNjWWNSSThOMnhzZDFvQUdwSFg1Q0o4SXU5b2QwQ2FreGJ5Y25SanhOSTlFamp3eWlLcDNFc0dqdjF6WkczNHJqS19lbzV3d1RMRW9menN6OTdVZWREejZkdXp5NHFzUzVrSFg0ZmxVSndrcE9zVG1QWXZMdHlSZlRxZ0pqWUROT05TM3JzanJZY3NLak5aUFV4S0xPcDFMQi1pNVhmMGk0UC15dFRxZXpibzVMMWhQUnZuaXJZOGlhM01obw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Doanh nghiệp và Tiếp thị",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-23T11:30:00+00:00",
+   "fetched": "2026-10-23T12:00:01.623666+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "vi",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 6.0
+  },
+  {
+   "id": "9ef85d896741cc63",
+   "src_group": "khac",
+   "src_country": "AE",
+   "title": "With 963 million dirhams.. 12 residential lands for sale in Dubai - صوت الإمارات",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVlBJY3lEQUhhX0ZYU1VYQVlMYlhwV3FYZE1BWVhKZHdybnVDREM1QXl6Zk5xc3hCaGRWZXhaU2xCM0NSZHRpWVJIbXpoSE1sSmVIdl9XWkhYeUJ4elM3b28zOXFkN3JKZWVldl91NXJ4RExmNjdadE5LcEw3MGlfUGs0WngtOWxpVGRCWXVtZHZvRVJJcWZaS3VRS1VLLXZhUEN0cVJmMHdvWjVSa1ZWZ2piWFZmR1hzTDZJZHkxUFNfWkxQYjdsTjFRSQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "صوت الإمارات",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-khac-2",
+   "published": "2026-10-23T11:25:51+00:00",
+   "fetched": "2026-10-23T12:00:01.623666+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "374328aad2f70c98",
    "src_group": null,
@@ -906,6 +978,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "42f95ae5ac5f7638",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "ROCUs support latest organised immigration crime campaign - Regional Organised Crime Units",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWZuOEdQMGpSZkl5QnZLVzV5VkN0X21ZVFR6cnBLR3JQMTU5c1F6eF9zSmhuWVJQeW1KM0VaVmQzS1JVWHRHYVA1dUcxSzgtVHhqQ29UaGthemVOMDRVRS1MRkU4cjdrOXhqR3RxWkh2WS01NWU3b2cwY3M2cVNLZVVqb0hMMkdmd0NRS2lyRXd3MnV2bVAtdUs3UGZrV2RqZE1oazl3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Regional Organised Crime Units",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-23T09:02:00+00:00",
+   "fetched": "2026-10-23T12:00:01.623666+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -1101,6 +1195,34 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "bc705679a047368a",
+   "src_group": null,
+   "src_country": "US",
+   "title": "DOL PERM Suspension: Why the Green Card Path Remains Open for Tech Professionals - Lexology",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1Zld2VFMVY0bEdPZFIwSXJqQVAtWmgzM3dTeHpWLUpqblJ3NFZwMFVraHNWTTdXRnByTzVLM3ZwSVhaOWlLTGw1UkR0dmJkakQzcEZyLVJtbzhOLS1jWWRjNkhKVHoxUDh0bDVTVldSVDlvUk9JSWN1dHY3dWNyQ2FFeWsxTkF4Ri1z?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Lexology",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-23T06:44:18+00:00",
+   "fetched": "2026-10-23T12:00:01.623666+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "d2526c48d87d9c75",
@@ -5393,6 +5515,33 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "bb6baf90fd96a289",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "British Columbia Invites Entrepreneurs At Score 118 In October 20 BC PNP Draw - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOEVEQnphUjBUeHpadGVHX29sYk0tSVJnMVpDdWhoQWY4S213TGs2Z1JiZHhVQW9yUkJ4M1F1NGI3N1ZBb3JqUVRaUUZHU1h5eTBNT2xUSDJZelByb043bEJwNERWSzloWWFMcWtaYklQYzEwazF1Qk5uYTZabFNNVzlvWGYzZ1ZzR3dzYXd2MnJ6ZGdM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-21T13:05:52+00:00",
+   "fetched": "2026-10-23T12:00:01.623666+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "f1569d548345070f",
