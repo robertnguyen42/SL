@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T19:29:50.675709+00:00",
+ "updated": "2026-10-23T20:00:27.245625+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -245,13 +245,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "au-student",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "us-visitor",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 21
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "eu-student",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 11
+   "count": 34
   },
   {
    "id": "eu-family",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 29
+   "count": 10
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-smc",
@@ -629,13 +629,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 17
+   "count": 15
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -862,6 +862,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "97d6a8f711d83e9b",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Green Card Holders’ Citizenship Approvals Collapse Before Midterms - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzJTd3d4MDlKME5ZTnlDano3MVA0eEdwOTlxejNqVXljUWZHc08zb1dPdFllTTVDS3BRYkVMam4xU2plTVE5emZxY1NxS25hdUpUSUpKaWxaMFNES09UQkktYjFPYkFwZVlqMUh3NGd1TmJfM0hiSmtqQ1gtV2pBUnl5bWVxSDRiMDBmdURXYlEyOG9DeWYyM3hsMnk0YlFf?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-23T16:45:00+00:00",
+   "fetched": "2026-10-23T20:00:27.245625+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "4bc213bb48670044",
@@ -1194,6 +1220,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "e5ba98c8f69bb1cb",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Following persistent problems with the European Entry-Exit system, Brussels Airport is once again investing in additional infrastructure to reduce waiting times at border control - pressroom.brusselsairport.be",
+   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOU1RwQkU5WDJySE9SMk00bktraTZqTXdFdDVaZEhBUHo4a295b21mbUVuSlJmbzE0R2xJS3dqQmZyZVhUSUt4M2V2UVMwZVJBMFlSQnRXS1J3dE5xNFRScEtEd3hGODN4dWxCX2x2V3p3Rm04SXJnTEp5Ry1VTDBiSmo0c2RFZG1kZXFNOHgzSFNRUXJISGVBVmJmNlRjd0RscDdsNkR0cjZFRWhaQkFaZzhyc2VfSmMyQlVJVzJNdnEwTm42Z1MyUlhFSmQ2R1BfMmdERjRkZ2Y2UDAtdnhhNVMzdjczVUozUldMWGNHSDJSeW95SjUyQmQ4UXJzSXFteTZCMEE2LURlNlAwaVBDcS1iT3laNmNyX0VMVHd0VHh0VFRoZHlyUDVOT21DN0poemJVTERlOUwyQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "pressroom.brusselsairport.be",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-23T12:54:00+00:00",
+   "fetched": "2026-10-23T20:00:27.245625+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "25193de9b87e3df3",
