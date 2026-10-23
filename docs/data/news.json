@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T16:12:14.070965+00:00",
+ "updated": "2026-10-23T17:04:49.578957+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "nz-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "nz-vi",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "au-student",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-investor",
@@ -311,13 +311,13 @@
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "us-eb5",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "us-family",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "us-sheet-khac-2",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 10
+   "count": 28
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 10
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 10
+   "count": 29
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "nz-smc",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -723,6 +723,58 @@
   }
  ],
  "items": [
+  {
+   "id": "4bc213bb48670044",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Dalhousie University Scholarships for International Students 2026–2027 in Canada - Global South Opportunities",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XWVFhNHprYUxMemhqUUtQMTMtSUVrNTA0ZmdoN2JKbFBWS0NnMS1QVUYyNGN6YXc2U1pzRGFydmpCSlNxSi1Ja0h6cE1hMWxfRHpLN2pobXVVX2ZqanU3VGdvSklHOFo1Njg3ZlNJNA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Global South Opportunities",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-23T16:33:20+00:00",
+   "fetched": "2026-10-23T17:04:49.578957+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "fa1169a568489440",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Australia Names Country Whose Citizens Can Apply for Permanent Residency Visa Treaty Pathway - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3hjcGEyMV8xTkxwWHMyeEFoVEp2UHc1X0cyYW1vWU91Ymx3dTRLWGdBYktMMmdVU3l3eUUtNnFJTFdHTjRsMVBwSWRUYktMaGJoVUJfbXNBNWZxM2FubTQ1TW9pN1dnRk5GQ1J2QjdQZFc3ZkhEUGg1YzBLVE9na3ItNXR0WWYxZ0JNX2JFMGVScC00enF3bTBPLWdrRUZCZkl0YTYxMjd2eDhKWmZubUV3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-23T15:26:22+00:00",
+   "fetched": "2026-10-23T17:04:49.578957+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "7ac58c5baab8218a",
    "src_group": null,
@@ -839,6 +891,32 @@
    "fetched": "2026-10-23T13:35:56.404947+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "705e11242b17456f",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "5 Countries may get Schengen Visa-free travel - Daily Observer",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE56eURUd3hRQWpDZWYtanU4cm9mak53THhEX1dnRXhTTlZQSnNQWEFwOG5sT2ZVTnctTlFIemo1allHcGJEMnp1VlRR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Daily Observer",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-23T13:20:49+00:00",
+   "fetched": "2026-10-23T17:04:49.578957+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
