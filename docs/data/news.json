@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T12:00:01.623666+00:00",
+ "updated": "2026-10-23T12:38:48.939535+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 16
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "nz-vi",
@@ -269,13 +269,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "au-parent",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 8
+   "count": 10
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 34
+   "count": 10
   },
   {
    "id": "us-eb5",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "us-family",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "us-sheet-khac-2",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 27
+   "count": 22
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "eu-golden-visa",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 9
   },
   {
    "id": "nz-business",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -723,6 +723,32 @@
   }
  ],
  "items": [
+  {
+   "id": "f6dd0d4c376413a5",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australian Partner visa: 5 conditions that could lead to refusal - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkZYWmQ0SFI4ZXJISE1vNmh0Y3U3S0lGc05LSDNaWnF3QUh0S1AwOTE3UTJTWUdFaFFJNDVVNWFONE0wWVFlSGtKX1hLNk94b2o4ZGc5TVdaOXZfbHFHRC1ROXNxZ2R6RDBqTE9HMG5pNGhtbjQ3ZjRZNngxQVYxZ2l4RHNwUE44NEVfbWVyNjlQSFgxQkxmelpTclNlZWUwVzdrOTc2bU5ZNGs?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-partner",
+   "published": "2026-10-23T11:59:08+00:00",
+   "fetched": "2026-10-23T12:38:48.939535+00:00",
+   "visas": [
+    "partner"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "9bfac5531ee539e6",
    "src_group": null,
@@ -1027,6 +1053,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "a16b50188d59d8d4",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Newport's 'pit' from EB-5 scandal bought by local NEK group - Burlington Free Press",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM2xfVjNBVWhVQ1YybVV4RTdBcTVRc3VFcDV0dVRBVFJpYTdSR3l6NDlIcnlpLTdvN2JlNGFsLU1RS3ZNYk5DZkFEYkFfMXM4NHNuNnU0cjV4aGplS1dyd2dUY0toRWlfZnNWZVktR0Z5X281RmxkX2Yyam5ndGZXYmx0a1E2UjRQSUE4ejREWXEwVzRKVDdKT2tIYzVaU2ZuNk1STUFJV25GNmQ3NHVBUDB5M2NWZnlxTERtdjdYeEVPQzFGaC14OENuSE5zcjBZRl9UZ1NGYXRLdnc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Burlington Free Press",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-23T08:47:00+00:00",
+   "fetched": "2026-10-23T12:38:48.939535+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "60ad82a2bf88fc09",
@@ -16528,6 +16580,30 @@
    "source": "au-sheet-chung-1",
    "published": "2026-10-16T17:30:00+00:00",
    "fetched": "2026-10-22T07:20:47.687911+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d0f7e769e615b6b2",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "National Offshore Wind R&D Consortium - Department of Energy (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBndWsxNEFYWk55dkkxLUhOMWozc0FfWGpVRGNyaFBsSFRhVU1UUnBLN09ibTZVUWE3aDJpQ2RaVGlUSm00SXV1am1jWWZyZGEtVXgzRzBnbWNXdlZZTTFrSzMzX0hxN3ZfZ09oODNjaEduZnMxU2pHakJKOUc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Energy (.gov)",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T17:30:00+00:00",
+   "fetched": "2026-10-23T12:38:48.939535+00:00",
    "visas": [],
    "groups": [
     "chung"
@@ -62226,6 +62302,32 @@
    "fetched": "2026-10-22T06:01:42.494914+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "898e3acc04c51851",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Rs1.6m recovered: FIA arrests consultancy CEO in UK student visa fraud case - Business Recorder",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEN2R3N05MbjhXOWVjcDVTejlYSm5VMm1wMnVFOVU4M2NtSnNGengwbGZ0eEV0eXVIQmtGV0ZZRGFwTHJHeWRJNXVfZHN6OF9GRFhKYnhB0gFWQVVfeXFMUEQ3ZHc3TkxuOFc5ZWNwNVN6OVhKblUybXAydUU5VTgzY21Kc0Z6eDBsZnR4RXR5dUhCa0ZXRllEYXBMckd5ZEk1dV9kc3o4X0ZEWEpieEE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Recorder",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-09-28T07:00:00+00:00",
+   "fetched": "2026-10-23T12:38:48.939535+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
