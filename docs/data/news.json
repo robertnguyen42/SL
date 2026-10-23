@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T08:08:13.640179+00:00",
+ "updated": "2026-10-23T09:05:52.461439+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 10
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "eu-sheet-chung-2",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 38
+   "count": 17
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,25 +611,25 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 19
+   "count": 9
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "nz-investor",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -724,6 +724,54 @@
  ],
  "items": [
   {
+   "id": "f165155a88d6d356",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Where Australia’s migrants come from, explained in 12 charts - AFR",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWl2a0U2OWQ1SWJlcVlIZjJ4dlJBNmVMNDFlR2dMQm51bUdoUWpNNWR4a2NLV29nZ2VxVlVmYm5aYjZyaUdnQVR3aEp3WUMzbjdiSXpSMEpWOTdnV1lhT2Z3UGlaQVJQOXdKWWVSVXRWdVZHZi1LX2FiVmJDeE5CSlV6ZWNCSFFNU0xCY2JaTU9YTmQzdDA2VjdLMzhMR2NhXzQwSlVzSEtyS3FtOUxn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "AFR",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-23T09:00:00+00:00",
+   "fetched": "2026-10-23T09:05:52.461439+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "670026801ce5cc48",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "When (PNP) Moves Investors should Listen (PNP:CA) - Stock Traders Daily",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREVzaVhfazRzZ285UGxoNFpvNExoQXVOTWVUTmxwVmlLUVFCQ08xdTFFTXhzYWJPOWhDc3JocWhVV2loSzMyQUEzeVh1T0FXMXgwUzdaS2NJelpFTHFXLW1TZk5hOXhFVUZZTzZLR09TWnAxTVVtWXhQa3BQWlBwdUp6Vlk3WFZ1ZjRWdnVQQ0wyZExWS3lwZzRzdkc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Stock Traders Daily",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-23T08:30:53+00:00",
+   "fetched": "2026-10-23T09:05:52.461439+00:00",
+   "visas": [
+    "pnp"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "c5726ede2d110765",
    "src_group": "chung",
    "src_country": "AU",
@@ -739,6 +787,52 @@
    "fetched": "2026-10-23T08:08:13.640179+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "2278170ae0985561",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia Travel Declaration (ATD) opens to all passengers at Western Sydney Airport on October 26 - VisasNews",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT2dpZGh5cmt2Y0pqUXFQRE55Q2pUWlRFVFF0Zm5BeXpJZTZUMFZjekVVSVRvOHpZSnhQX2RTb21lVGYzb0xReGJkbmxEOGhmd3NDbnNJcXdWMmlaSERoOWRmYUFhcnAweDJIYW91VW5CemlmLTJKalh3TlFvMlI2dW0zWk9FYVRJNFJZTldlMFpZczNtenUxS3JNWE50ZmRpWXZ0MXdZWVBUbExfMDdCTHVfUkRCY2trM0MzbmdBdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "VisasNews",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-23T07:33:38+00:00",
+   "fetched": "2026-10-23T09:05:52.461439+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "7c2b0b834aac576c",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Western Sydney Airport Visa Requirements: 2026 Guide - Travel Tourister",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTBRSHhuMjE3dm1OMlI5Y0syOGN1QWJoTVpsbFdtY3c0Ny1zbHV3SHNrcFEtWllwSTUzLVZYUDdDSGdKb0lpaHZ2RWFQMkZJY1dtYXh4ZlpoMDdmUWw5S0JfajBIcW5CVVV0T3F0NXI2dDg3ZFpadTByVlgtYVhMczZtOWw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Travel Tourister",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-23T07:19:41+00:00",
+   "fetched": "2026-10-23T09:05:52.461439+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -2276,6 +2370,28 @@
    "score": 1.5
   },
   {
+   "id": "7a7c2b9b2c988faf",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Establishment Labs Holdings Inc. (ESTA) stock price, news, quote and history - Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRWhEeEVFWUtYRG9SUXFkVFlUVC02V0RzcVdrTGkxMmNTYm5IaXBQeXJpc3hKSkJ2ZnZhaHgyNi1WZXJ0VUF2R1RFQmxQTWhGOFE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yahoo Finance UK",
+   "country": "EU",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-22T13:55:23+00:00",
+   "fetched": "2026-10-23T09:05:52.461439+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "de54f6d39e83107b",
    "src_group": "tay-nghe",
    "src_country": "US",
@@ -2347,6 +2463,33 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "e10fbcd4a1770dfa",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Green card holder sues over naturalization taking \"an eternity\" - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSzk0UzUwWTNVek9qT2hFUk5XUm45cUZaU3FMQXJXNGU5Y2IweE5XSXprTlJ0bmlGYjNFZjkyZkVWd19tWU81ZUtRdFlaRzBCbjZ6endNQkZIS081ZG1vMkY1TGJCaXlQNTdFSTltS01ZSHZoTW9yQUg2VXQ4X1NPVzVGeHQ0MVl1?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yahoo",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-22T13:28:32+00:00",
+   "fetched": "2026-10-23T09:05:52.461439+00:00",
+   "visas": [
+    "green-card",
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "9f43dc84fa148a04",
@@ -4270,6 +4413,33 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "bfbbce8c0ea5d43c",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "How the Public Charge Rule Could Affect Immigrants Seeking Green Cards – Immigration Policy - Borderless Magazine NFP",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYjh2cXNEanlSVEh6YzJNOHkxZ3lDS0IxR1VPbmoza0ZhcWJGMjktQVVjS3dNcmxYa1U3eHgtM0JadEJtZTRheVhDdFFCZ1JpQXl2Tkk4aWs2VzdJRmdVUDdJQ1lOR3NJMjZVaWI3UG1YWXBTb0E1UXEzcjNCRl8xSWhBVkJoZFU2WmVN?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Borderless Magazine NFP",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-21T18:20:35+00:00",
+   "fetched": "2026-10-23T09:05:52.461439+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "e894d4b0ec9b7968",
