@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T07:18:23.211290+00:00",
+ "updated": "2026-10-23T08:08:13.640179+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -299,13 +299,13 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 34
   },
   {
    "id": "us-eb5",
@@ -395,13 +395,13 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 25
+   "count": 40
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 37
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 10
   },
   {
    "id": "eu-schengen",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 12
+   "count": 32
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -723,6 +723,28 @@
   }
  ],
  "items": [
+  {
+   "id": "c5726ede2d110765",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Germany outlines plan for 70 GW of offshore wind by 2045 - Windtech International",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUJUdUFqcmMxenFoRE1aTEhTeWVhdEI0VXZlUzFIb2dEREx4aVBWZ3JTRlNiNTlHQmdPeXh1MnVUMXZTdm1ORHozM0RUNVQ5V0ZEbmZ5TnlxNG8wbWFWeU1uWUdWUk9sV1JMQjRKLUV0cldWOGFkNi1jQzdkQTlaY3hHMkkxSUZIcHQ4NkhidXV0TTlnN2psd0J4cEI4YjFCSW01dlZ3RksybGU3S0E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Windtech International",
+   "country": "EU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-23T07:46:38+00:00",
+   "fetched": "2026-10-23T08:08:13.640179+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "57ba88e099042739",
    "src_group": null,
