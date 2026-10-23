@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T03:05:12.757859+00:00",
+ "updated": "2026-10-23T04:04:41.140475+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -227,13 +227,13 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 25
   },
   {
    "id": "au-skills-in-demand",
@@ -245,13 +245,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 12
+   "count": 37
   },
   {
    "id": "us-eb5",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "id": "us-sheet-khac-2",
@@ -539,25 +539,25 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-family",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 19
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 19
+   "count": 9
   },
   {
    "id": "nz-aewv",
@@ -683,13 +683,13 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,85 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 9
+   "count": 16
   }
  ],
  "items": [
+  {
+   "id": "989b2c819264af31",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "14 Building Workers In Brooklyn To Receive $419,000 For Prevailing Wage Violations - WNY Labor Today",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQUZsYnUtcjJ4SnVNcFVmcE5iSmRrTmFKVFF5M1BKTUwwTE9xempJc043VDlEUlJJejZzTFdEX1hEdXlhWEhIU3U5bmlIZzVoODYyMW9qRnhObHR2YXhHaldYelpqVWR5bmVCSGZKOExGUDNxNk9FWGJXVkNvM0R4dWF3bnVlTEliaUpBWEZVWExNUk1Pc0tiakFOTkpQMFVXUVNLRjVMTGRneXZBMmNITmZOeUN2b2pFbThWMTRWaDlGZEx1czh4Q0tzQTN4T2RXcnA4Z2ZnM3RmN3RYUHFndXhkSk9QUF9t?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "WNY Labor Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-23T04:00:48+00:00",
+   "fetched": "2026-10-23T04:04:41.140475+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "67016a2ba3b340c5",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "A Year of Offshore Oil Spills Prompts Growing Concern in Mexico - The Maritime Executive",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnVxdlNhNnNuOUE2eG5CVVU4bzE5Um1tMm91NG54SXZiZm1Tb09lN0FmUU9hUzhKWXhrNjV1cmIxY1AtVzBTdFNDU2tyZlNRSG1GR19qWGFZZ1lTeUVIeUMtVjR6bzdjRFNFd0wwaGJwQURGY3dYVFkybHlsQ2xHUlRwWnNvTUQyejR6RmQtWGV1Mm1pMV9rNzBTV0FMZG1LNXlkNm5xcnI?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Maritime Executive",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-23T03:17:05+00:00",
+   "fetched": "2026-10-23T04:04:41.140475+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "bef07f013520407e",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australian student visa applications may require offshore lodgement - The Indian Sun",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEwyVWozSzZ3YnZ1ZUxuaUUxZUxXVks0dUxoUTNJZU9qMDVFczJoNUVmV2oxa1JJU2w0VmRjODZoVFZqU3MxUlBjWW1ONGoySmdMU3hCdWRnYVh1SkxlTFY4dWZfdTJjRTZQNkpZWnppei15dmlxVVd5bXQ3cUpnQ2xzWC1pTmxjTkNVRkhUUy1fS3BlWVdpR2VFNi1CNEQ5RVFkSVNFMk5YWWFJSXhlNA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Indian Sun",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-23T03:00:02+00:00",
+   "fetched": "2026-10-23T04:04:41.140475+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "9d32a077a0a78f5a",
    "src_group": "chung",
@@ -13005,6 +13080,32 @@
    "prio": false,
    "score": 0.0,
    "groups": []
+  },
+  {
+   "id": "34407ef75f47131a",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Congress Is Fully Aware of Problems in the H-1B program, but Doesn’t Want To Offend Big Tech - Center for Immigration Studies",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjc0b29nWFQ3SHhYUkFGajJxbVRDWE1tenoyRUtoYjNYTXpPUE5CaGlmaURRUV9ZSEthLUEwR2p2QVpLTjhqOW80Q1YxN29waTJKcVh2YS1xUWRlaGw2aE9jNmJySTEwdlRQbVluTUNJUlNUUGtGU0hPSmF0OG1pMzMxQ0V3ekRMbXJhaUNXVDU0dlNJZWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Center for Immigration Studies",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-17T23:10:03+00:00",
+   "fetched": "2026-10-23T04:04:41.140475+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "cd5e5d4661d52b04",
