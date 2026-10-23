@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T13:35:56.404947+00:00",
+ "updated": "2026-10-23T14:32:55.233820+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 12
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 15
   },
   {
    "id": "au-partner",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "us-eb5",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -533,13 +533,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 18
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 10
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -557,13 +557,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 11
+   "count": 35
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 12
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,13 +611,13 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 32
+   "count": 11
   },
   {
    "id": "nz-smc",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 13
   },
   {
    "id": "nz-post-study",
@@ -825,6 +825,30 @@
    "score": 2.5
   },
   {
+   "id": "72bc101c8d5827d7",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "Greek Banks Urged to Gear Up for Tough New EU Anti-Money Laundering Rules - iefimerida.gr",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMVBMMzRFWmpPOG0xTU5XZUNxZjBfa1JDREtrQzB4UDZ5Tk9GZld4MG1jdzdJazBYZWxFcVp4VzVDUHJ3WVA5U0RyWkdSSU1ZVkVlbWNFc2tTZjVEMGFoVGdkVXg4NGMtTEpIR1BOaDJlRkVSVllPcEZIcXJFY0JCN3NGTGxYVTREWG5xQml0THZ1ZzFKRFdCczVIVklYYTBuSkhn0gGjAUFVX3lxTFAxUEwzNEVaak84bTFNTldlQ3FmMF9rUkNES2tDMHhQNnlOT0ZmV3gwbWN3N0lrMFhlbEVxWnhXNUNQcndZUDlTRHJaR1JJTVlWRWVtY0Vza1NmNUQwYWhUZ2RVeDg0Yy1MSkhHUE5oMmVGRVJWWU9wRkhxckVjQkI3c0ZMbFhVNERYbnFCaXRMdnVnMUpEV0JzNUhWSVhhMG5KSGc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "iefimerida.gr",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-2",
+   "published": "2026-10-23T12:02:00+00:00",
+   "fetched": "2026-10-23T14:32:55.233820+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "f6dd0d4c376413a5",
    "src_group": null,
    "src_country": "AU",
@@ -991,6 +1015,30 @@
    "visas": [
     "citizenship"
    ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "036a8049ab139b07",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Archer Weighs Sale of Offshore Wind Business After Culzean Project Setbacks - Offshore Wind",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMkJtNEpSR3BPMkR4LWhpeXEwY3dIVThKQm9nYVh3T0lweHdrUDhSNlcxUFdMVmtqRUllcml1LTBhS2hvTFZiWDkxOHdCb3VVQTEwSzJ2X1F2Wlp2NEU2UmQ2OFA2VXZnaHdCak90eXBrOG56ZDM1WU5ZbUxrbFoydF9xa21FdmJKZmFyOUczbEwySVVGdmRvUXJBWWZBQzJtaTZaS2lLOVZvOVNtQmhIZGFibUF2dw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Wind",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-23T10:30:21+00:00",
+   "fetched": "2026-10-23T14:32:55.233820+00:00",
+   "visas": [],
    "groups": [
     "chung"
    ],
@@ -7101,6 +7149,28 @@
    "direction": "siet",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "63772007aa71cc45",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Visa-free travel and wage freezes spark fresh split in Pacific candidates debate - Pacific Media Network",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTzV5VmhTUGZqM040d1lyeHZDalBBSXNWVDRGNjFyOWEwR1RXUmM5bC05NFJlaFVpMlk3a1NCVlRUaFBCR0NudmdadU15ZER1a0FKRXhHUEJkbnJvR1BUdjQxUWx6WTZpX09ERjdUcldCM21mN3otOXZUVUZUZ0RKRnF4aW5wdUUwX3BqUTBrdk0yTi16VnY0N2FFRjlqVkpqSjRRcTJnUDdsYjFE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Pacific Media Network",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-21T04:20:55+00:00",
+   "fetched": "2026-10-23T14:32:55.233820+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "774527a12294bc82",
@@ -56667,6 +56737,32 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "017f73243c211fa5",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "As international student numbers tumble, domestic postsecondary enrolment rebounds - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdm5iZDNpNnVwN0d4OUJudjRncHkyaktTVUlaMXZqQVIxS3NDcXhtcjZCRFFNVjJ4OWtlVEZpMTVndGg4U3VqMWlRYUoxUG5xZVFqN2lqd1piWGprR3BFeHZnR3ZlTmZEZmtLRks1aXI5cmZDQWVBM1VDMklfQXlHTWJXUVc1QVR4cmJYQXAxTXJTLWtxa1ZkeGNzSjBnUDBmT3JPR3U5T0tMNHF0bWw2TTBCeGxFVFM5Z0xwVg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Globe and Mail",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-23T14:32:55.233820+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "721c0bb179aeb0d0",
