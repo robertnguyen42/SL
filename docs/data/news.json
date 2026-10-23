@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T10:03:57.378606+00:00",
+ "updated": "2026-10-23T11:00:27.173120+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 12
+   "count": 38
   },
   {
    "id": "au-student",
@@ -275,13 +275,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 10
   },
   {
    "id": "us-visa-bulletin",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 33
+   "count": 11
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -539,25 +539,25 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 10
+   "count": 26
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 9
+   "count": 22
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 11
+   "count": 35
   },
   {
    "id": "eu-family",
@@ -611,19 +611,19 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 11
+   "count": 8
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 33
+   "count": 31
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 19
+   "count": 9
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -723,6 +723,103 @@
   }
  ],
  "items": [
+  {
+   "id": "374328aad2f70c98",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia lists 5 conditions that could deny foreign spouses permanent residence - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb1l5cG1RdWZzR0JVSE5NZ2lJZ2p0Rm9HWXFZY2J0am1OTW5UQkhqME50Z29MWXY3TzBIYVkwT1FUbHBhemdMZkwtLWdqZ1NtQzZ5OGYxUV9NMC1fczlRUGpIR2JHdm5IcnN4bjdzUS1yS093NEpZV1ZkR1lBRy1ZenVBQzhodDkxbnBfSVNxMUpRWHcwZzgzRmhjdHIzcmFsMU9LY0l3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-partner",
+   "published": "2026-10-23T10:44:03+00:00",
+   "fetched": "2026-10-23T11:00:27.173120+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "7343467ced9865d8",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Mediterranean Migrant Deaths Rise Despite Drop in Sea Arrivals: IOM - Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbllzT1ZCc3o0ZWE3N2ZNUFlfZGxyakRvZjIwZ1p0d1JLZ0hIaVFLQ0ZyRnpEb3lBaElldVo5QlhpekRWaE0ta1Y0QVpxb3lxNy1JVHpjS1p4ckotSWF2cE1seG5kN3pUcHBISTF2RkJyRUpHSDNoN1BrVGt4akZlSmpXR0wtZUc4QnJEbGJ5dzJwVzJ6RGdvVUdNVVdUa0JLd3ExZ2J2Ul9BeUdJQ01Z?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Kurdistan24",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-23T10:10:00+00:00",
+   "fetched": "2026-10-23T11:00:27.173120+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "eaf110ede4b7c364",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Green Card Update: Visa Bulletin Shows Progress for Some Applicants - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRTNrZExjejNCajZxOE9yUWpCd2J6eHYtb2VsTlo0WVZSTElFT2xlUkM1RjFzX1ExRG5qNFZ2bE1zeTZtVlhpRjZ4WFZ5MHFHWTJMcmpiR2N5VWZqb0tNSnV6TVQ0N1ZvY01OS1pfWVEydzJ2elJfbGtuV0M5NEFJTVpGR29jcU8tY3NLYVdncHE3Tk02SjlsUERiRXlNdG13?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-23T10:09:00+00:00",
+   "fetched": "2026-10-23T11:00:27.173120+00:00",
+   "visas": [
+    "visa-bulletin",
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "25902bb653147fc3",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Labor’s migration crackdown sees visa appeals top 130,000 - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZkFhREtBMVJ5ODhMVk1zdHhLWE44RG5ScWg4Y0RZX0l2NGxLZXNUdDl5RTRYTXpOSHlOUml3aWxTM0NDd3ExbVFYVWctZVVsWDRIRDQxLUFUNkZXN3J5b3R3NzZTd255b05sZ1NpODk2clRRb2RZUkR4NUJzSFVjZ29tZDVjYkRoSGM3RTlHcUNwSGI0bGQwNUVrVU1uaFR6LVlFV3Nka210R1Z6Y0EtNHg2dWZXMlNzNFJIMVJvSlhpUnRERkRiSXJwYU51QnBwTkZFUG1CdE4tUnh3MTNfTFU5ZTA3UUZ4WXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-23T10:02:56+00:00",
+   "fetched": "2026-10-23T11:00:27.173120+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "e634d3e42294c894",
    "src_group": null,
@@ -1004,6 +1101,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d2526c48d87d9c75",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Immigrants seeking US citizenship targeted in Trump administration’s illegal voting crackdown - WBAL News Radio",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb2stNGh6Y2ZFZXZoSC1CNU4yX3BaTU81M1VKSXJWa1hfVC1uNy05VjgtNTBsVVpoSTVMbWRxNWpldjBjMzVLQkk0enhCZVJyQXFkVHhaM3VBanZMeHF3d2hzN2tLWWNKY0JkeFVMeF8tM1djVjVYT0NlTzVudWVHWHZyZDZQT2RMUjVqTWVTcVMyN1NjdlBXUW81T3d3Z21GNElmSE5Kdm5tWENDa2ZlSG94bw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "WBAL News Radio",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-23T06:36:30+00:00",
+   "fetched": "2026-10-23T11:00:27.173120+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "ef9218479c9ed119",
@@ -1306,6 +1425,34 @@
    "score": 1.5
   },
   {
+   "id": "1036058378b41d73",
+   "src_group": null,
+   "src_country": "US",
+   "title": "EB-3 lao động phổ thông tiến 5 tháng: Visa Bulletin tháng 11/2026 mang tín hiệu mới cho người Việt - Cộng đồng Kinh doanh Việt Nam",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWFJrNnh3bk44OXlXZE1Sd3hkVnRMMWJJUDBaMDRORW5qNGlVYnFLZzR0UFBGN3NNTktzTmpZZGhoOXhKTFBnQWxuTHFiNW1nblNjMERSanlJaUxYRHN5aWtoMWxQR1ZkWkQyX3YyWEo2ZldvQ1pUU0FuZWtZWW9kRUJQeXVTUkZfVW1wVGgwNTNvZWltZHpSVUtGUmdYaVVCTGQ5ME9pWlJsbUQ4SzVOYWd5aFZRekdUNjAydWF6SG9HUGh2LXNNdWtjUFhjT1ptQWJNbjVJMTgxZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Cộng đồng Kinh doanh Việt Nam",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-23T02:59:39+00:00",
+   "fetched": "2026-10-23T11:00:27.173120+00:00",
+   "visas": [
+    "eb-work",
+    "visa-bulletin"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "vi",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 6.0
+  },
+  {
    "id": "9d32a077a0a78f5a",
    "src_group": "chung",
    "src_country": "AU",
@@ -1582,6 +1729,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "e23ab7d4ed843790",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada Announces 3 Conditions To Be Eligible for Urgent Processing of Permanent Residence Cards - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMTdzbk9RR2FDc2c2NzVjOFZRQU1jSTQwLWEtLXplaENpaUVHUU5FdGJHR0VjRi1RS1Q1SU9iSnRONVFmb0tibDB1Z1I5TEJ5UllEVDlDcS1oV3J0RWRfcll5WU1YdFBYTE9lQWN6bmtoMVNuRldHY25Wbmk1M1pjUTBSYl9iZ3FsalJtazBmQUs1T29sSVhjVjFjQlFCTmJiczZaRk11TDdsMmtWMnByX1otbVNscWZDUjIw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-22T22:13:07+00:00",
+   "fetched": "2026-10-23T11:00:27.173120+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "76d8f65868bfe09d",
@@ -20589,6 +20762,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "b664bd5bf9378d7d",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Businesses suspended from green card program over alleged abuses - New England Biz Law Update -",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTJUalYxR0Z1TVFyN0xqMDY2U21OVDd1bFZveHdLQkhjZnVFQmE1ZDkzcHZiWURtTXZMQlI2QzFXMmRRRUh0VVFFVmFwWWJjcTNOQnh0Vm9oM1k5YVM4X3pyNUdScWppelgxTG52TmZBeVRPX1lfTTlJNEk0Rms0Ulc2NlNqTUxRSzQ4OTQzdWVLM0EwS3dNRXRONTRnSkZqaGtLcjZMU3BtNmdfODVJbw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "New England Biz Law Update -",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-15T14:25:44+00:00",
+   "fetched": "2026-10-23T11:00:27.173120+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "85ef91b68e24f7ff",
