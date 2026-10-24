@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T10:58:55.891350+00:00",
+ "updated": "2026-10-24T11:28:14.447870+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 20
   },
   {
    "id": "au-en",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 15
   },
   {
    "id": "au-student",
@@ -317,13 +317,13 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
    "name": "Sheet – Úc – Tay nghề (3)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "au-sheet-tay-nghe-4",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "ca-startup",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 12
   },
   {
    "id": "ca-pr-citizenship",
@@ -551,13 +551,13 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "eu-family",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
@@ -605,25 +605,25 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 15
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 8
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 10
+   "count": 25
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "nz-business",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 7
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,54 @@
   }
  ],
  "items": [
+  {
+   "id": "39400cc2449acccc",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Moroccans top non-EU residents receiving Italian residence permits in 2025 - HESPRESS English - Morocco News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWotWHJvTzJwaDJiN3JZMU94YlB4V1g0dUtkMThwV0ltUUZFZ2F2Qmx4aDVwZ2l1R0ZaZE8yZkRrY1lTSXM3ZGdPM2NHNjVCdDRfeEF0SmZuWXh6Q1N2RUtpRVJOVGFNaUt2V2dfRkFRbl8xUHZtNHlBWjJDME1pUlYxMmpRdUxMLTIxb3BsUUY4Z1ZQS3A2MVZmM3lvUDVRQjhPeGJvdlZ2aUFqMzVB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "HESPRESS English - Morocco News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-24T11:25:19+00:00",
+   "fetched": "2026-10-24T11:28:14.447870+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "c065af5f3ecb1404",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Russian Strikes and EU EES Complicate Border Crossings - Kyiv Post",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SR2x1dVM2TnQ2U2c5bzEzSUUyVWpodEZRdmJzRFBMbE00NUNJOGtrOHFrVnhqUWk4SVRTUFhwdmRRQUthNy12UlZmVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Kyiv Post",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-24T11:01:20+00:00",
+   "fetched": "2026-10-24T11:28:14.447870+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "0d54d0c3d8549920",
    "src_group": "khac",
@@ -894,6 +942,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d053a596cfb310c9",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Botched deportation attempt leaves four Tongan children traumatised - 1News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUdGYTJxRmVIQkwtV2RmMlY5Wi1TWk9MMWFSVHE3ZXJiYUZzRUNJSERsTXRCeHBpZmRESVZMdGZObGZTcjB6c1RtRjNLdFdpSzJ6OHhxOC1OZ0NSaWxiWEtGQkZWd0I3TGNvaGt0YktEZ3ZJTXlsRkFpNEVCaUl5QWJWY3NzelZNelVwUEdvMGJVdjh1RzdjYzBkM0YyeVJRODFuelh3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "1News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-24T05:55:53+00:00",
+   "fetched": "2026-10-24T11:28:14.447870+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "9da65aec156d2503",
@@ -1673,6 +1743,35 @@
    "score": 4.0
   },
   {
+   "id": "9a715023ca40f421",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Visa Bulletin November 2026: EB-2 unchanged, EB-3 Green Card dates advance for India - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcWZxSjFON0VuX3lSSTlGcnJ0NWN5TE1PUjBYcm5QN2c2MTYyX2xzUnNLcFpUUVFfTUdrY29kUDJFQmg5VnJSOG16NkNob0xCSHVlbUplS1VYLWFDeVg0WVk4NklJYlZSMDNuWGplWXVUZ0F6U3FJc19GVG1kYnR3R3d3ZWRHekhJekRuazBSSmtSdGk0X0tCcnBHZHNMZ09rVUlPQ0JwNkx5bUdGa3hMUk9fSGNYTERicm1XZGM1WDN1SUctOUVrM2pVOFR0b0Ytczc2MWZSdzZDa0RMQlRFajc4UTdRemhQQ0FFSDREQlBHb3U3NXBF?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Indian Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-23T16:09:33+00:00",
+   "fetched": "2026-10-24T11:28:14.447870+00:00",
+   "visas": [
+    "eb-work",
+    "visa-bulletin",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "fa1169a568489440",
    "src_group": null,
    "src_country": "NZ",
@@ -1827,6 +1926,33 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "3372e8c23d1cdd73",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Newfoundland and Labrador PNP Draw: 126 Candidates Invited on October 16 - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMi1SZVMxZnNBelU5bHkxR2NyUVRoTmlVSmJzUk11YnotV2pKVFZmZmdIWDBTV3hjYUJKeTRDbXU3SFhHQTFiWEJGcXRQREo0SHdUbVV2NnNPRE1UVURJODBuV0NVYjVQYlM2MHFiRTRXcWx5ZDBQLW5RT0tlYU5wY1NrN2JZR1hZYkE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-23T14:18:40+00:00",
+   "fetched": "2026-10-24T11:28:14.447870+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "8b42eb21c630721c",
@@ -44172,6 +44298,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "c7b883b3eb7c5694",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Immigration Salary List closure confirmed: what employers need to do before 31 December 2026 - Blake Morgan",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjRrN0xDbUFMaWZyMUtKQ1REOGhzQnBGM0pSSDRIN3JXVVR6VU9sMS0yVWNDczhfUWJHQjAtdnV3bkhNYXB4RVNhQ21SdFFlYzRGVTdCYlFQU3JLNzFPSVJVeDVlV3dVa0JsYUdNMjF3ZUYwc1Rtelk0V2FvYVFnZVhVdnRJTUlVeWZSWS12M1dQRmI3T25zQTZEU2Zsd0FaZHN1MjNGMmQtR0VsVklXaG1SbFZ6ckpOZGY2dWlVdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Blake Morgan",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-24T11:28:14.447870+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "20e511feef397be4",
