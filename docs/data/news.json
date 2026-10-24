@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:21:34.161041+00:00",
+ "updated": "2026-10-24T21:55:29.781579+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "us-family",
@@ -431,13 +431,13 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 40
+   "count": 29
   },
   {
    "id": "ca-express-entry",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 22
+   "count": 25
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 10
   },
   {
    "id": "eu-schengen",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 10
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 20
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -1002,6 +1002,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d9499fb0cc630ab4",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Government clarifies travel ban - Jamaica Observer",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGVfU3c1dWhyWXBTTWJzc1c5b2xPaGZKWXlEaDQ3b3JyTFlPTm15UzhEbDlndlFibE5DLXU0Q1BqMkkzUjdOVHZ1VDdKaDJoSTR3RGc4NnYwcVJXaXpobVpkRy01VmlDS1dqalc4Y2ZJdjE5Wmk3WkVOVTNYM3hqRw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Jamaica Observer",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-24T09:57:53+00:00",
+   "fetched": "2026-10-24T21:55:29.781579+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "0d54d0c3d8549920",
@@ -53550,6 +53574,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "78799ff23d44b95e",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Invest NZ gains power to delist golden visa funds - BusinessDesk",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU0xyY2lMZFFaSlluMDl3VEtZS3NFYzJKb3JMQ3pFWnpzVUFYMWdrSFMzR3g5UG5fZ3B1cnRkLUUtZTkxbmM2bndfbFlPT2NRXzlzNDFLQzJLN3FwSjV1cUlpUFpjSm5uRDBjV01DRlltbktjOTNDdDlUSHVuWFVjS09qOVZRSmZFUWt5V05LV25jRjM3RzlXUnAwbHZpV2U3dk41ODBkd0hRakFhYmFhZmgzbDlnVnNXS2RRZnk2VlhwY3FCWDlMcXBiNmc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BusinessDesk",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-investor",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-24T21:55:29.781579+00:00",
+   "visas": [
+    "investor"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "9c24db098c37e744",
