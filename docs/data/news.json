@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:58:55.792645+00:00",
+ "updated": "2026-10-24T12:34:18.979313+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -263,13 +263,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "us-eb5",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -533,7 +533,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 18
   },
   {
    "id": "eu-blue-card",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 28
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -617,13 +617,13 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -1332,6 +1332,32 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "2d96f3c587c07886",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Proshot Coffee founder loses work permit fight over business transition plan - HR Law Canada",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEdLUkNibnZESFdlUzRVZzc5eS1fbFFPN01VelpZdWc0X1J3TURsTGJyWVF6aVZWTTgyQjJhUWV3R2RBQjdLZnVTN0JSM2ZOSGVVY3ZtV2xuZ2pFRlVVY1Q1VmZOcS1WUWZVOEVPR2RxQl8zVDBSeTJheld2YWVxVU1lSVJvdm03UHV0ZVdsWWhUam1LbG5jclNoZGNHX3ZKWVZFemF0MW04NUZtaGc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "HR Law Canada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-23T21:09:47+00:00",
+   "fetched": "2026-10-24T12:34:18.979313+00:00",
+   "visas": [
+    "work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "366b447d7850befe",
@@ -11552,6 +11578,33 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "763e155fb5551b34",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Federal Skilled Worker Program: Who Qualifies in 2026 - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0dYT09GdFRyUlBRVWh2d0xrMmJldXMycllJZDhBYlN5Vi13WXRQejV5bVFZeDVpbDRrdXJUNF9WZFpIQjBnVkpkV3p0TGhtU0YwNXk5aW84cU52R19jbi1ZUkQ5Zy1FMnBXaHBGMTFjWmJneDlnWVZsS0JhWk5idnBlQlY5ZzIyYjV4YTIxcWliQ0FRM3ZhdjNGVUlYdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-20T07:00:00+00:00",
+   "fetched": "2026-10-24T12:34:18.979313+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "54e46fe59ba3358d",
