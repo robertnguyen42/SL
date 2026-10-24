@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:37:09.909918+00:00",
+ "updated": "2026-10-24T01:36:20.539715+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -263,13 +263,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 34
+   "count": 10
   },
   {
    "id": "us-eb5",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 9
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 11
+   "count": 36
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 36
+   "count": 12
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -533,7 +533,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 19
   },
   {
    "id": "eu-blue-card",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 10
   },
   {
    "id": "eu-student",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 10
+   "count": 34
   },
   {
    "id": "eu-family",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 38
+   "count": 17
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 15
   },
   {
    "id": "eu-sheet-khac-2",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 9
   },
   {
    "id": "nz-business",
@@ -659,13 +659,13 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "nz-sheet-chung-1",
@@ -748,6 +748,56 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "1abd950ed18e8c2e",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "New Public Charge Rules Raise Questions About Benefits for Immigrant Families - South Kern Sol",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkduWWpwX3gtTVl0aXB4cFV5RDdZV0RKbVZmV2VfaFdKcVBtd09OcUdnSFlyb2lXRkhSeVVDay1vQ3JMaHF0cF9RaWdCYmtOUnd4SHJuUTlKOWNGbzIxajFNM3diMHdFT0tXbkZ6NUxyQ09nT2I3R0tVdENCc3NoOHZYTjNLbDVCSkRYYkdRakdremlxU3hwNjczbEl2Tk05dkEwc1FBdDlSN1ljcDk2TjROQl8?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "South Kern Sol",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-23T23:27:27+00:00",
+   "fetched": "2026-10-24T01:36:20.539715+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "2b6487ac54afd6c3",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Indian woman’s permanent residency bid rejected by immigration tribunal over husband’s drink-driving conviction - The Australia Today",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVkRXYjBZOWtFUWJza3QwUUZPLVFnWXhpSE0tbGZicWlnV09TUE5MZ2ctX0QxOXRPVmJXeWR5NnpoeFhoWU5hbXpIZ01tUERmOWFRTHZrXzJOdTdzSXJkRXVZX0hGaFVkOThmQ01jVWxTaTVaMjJlbmw4eHJRVy1Fc1dBVFVDYlE5Mks3NTNDaXEtVV9zdTVYN29BeVFlVk0wbnNlRFJpcnJJUEJZMGNnYUozZEhtR1IxVnFOVFkzd2g1ZVVjc0d6NEk5UDEzbWpxWFhlNFcwYW5oSXhtUWVPcw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Australia Today",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-23T23:18:53+00:00",
+   "fetched": "2026-10-24T01:36:20.539715+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "baeea698bf0bf806",
@@ -5000,6 +5050,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "2f88d1b2bd413444",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Chính quyền ông Trump đề xuất loại người nhập cư khỏi cuộc điều tra dân số - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaktOb0tkczBaUElYckVfeGZPa2x5dzl2bWNQNmNEWVlBckNOc1NTWThMdE5oYlRvTl92NVpKYnR2WFhoTDdLVWYxUFFnUHc4WHItOWEycnlzWV9iWW9FcUxPWlFHV25teExtUVVXNXFFeTFZWXVMRXNkeVk3YlU2U2UtbWNLM0NwMlY4NHAtbGVGT2RXSGVVT1JEc1dEMXM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-22T07:00:00+00:00",
+   "fetched": "2026-10-24T01:36:20.539715+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "b53c4fdb6000c3b1",
@@ -23225,6 +23297,28 @@
    "score": 0.0
   },
   {
+   "id": "cdcce962ab13f975",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "How to Get Czech Residence: The Ultimate Guide - Nomad Capitalist",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RdkhqT1ljWFRySy1NUzFfUl9qVTVfZVltSUpzZUlzS0RUUzR2TjN3WXRkeTR2WkxpOHNyOERNX3diOVlJNkhzZ045Z09QbmNLaDV2Ym5NcHl6T19kczFRb3ZLU01xSXNYU09CamlWYzhyQzJuRENndXZR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nomad Capitalist",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-15T09:50:35+00:00",
+   "fetched": "2026-10-24T01:36:20.539715+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "ca553a85f3807808",
    "title": "US denies over 35,000 Green Card applicants’ work permits, rejection rate soars to 44% | Hindustan Times - Hindustan Times",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNak5tNTdzTzNONm0wdjJCM25aS0FtTWtuQzJvZFhXMXpIdFg3ZE03enkwRTJFZEp2dDZqOTRHZEtlX0xWTFJGTWN0c2NjZmN3SEZScHpkdExIdlFTWjhvZjZsS1VqdmplWVBWNTlsNjdoMGlrSjdyYUgxd2pvLVg4WEtjTUFFRTVpUUpBYW5WRHN1V21IN0o4U1psOGVwN0pVM1RSdzNMdlphU0o2XzJaVUxxMElGUU5qbXVQcW9aZ3MybHR6UjRBdmg2ODNxOHpRVUNlSkJZWHhhVGR4WW5FT1pseXRMNEVyNnR3aXh6NNIB7wFBVV95cUxNak5tNTdzTzNONm0wdjJCM25aS0FtTWtuQzJvZFhXMXpIdFg3ZE03enkwRTJFZEp2dDZqOTRHZEtlX0xWTFJGTWN0c2NjZmN3SEZScHpkdExIdlFTWjhvZjZsS1VqdmplWVBWNTlsNjdoMGlrSjdyYUgxd2pvLVg4WEtjTUFFRTVpUUpBYW5WRHN1V21IN0o4U1psOGVwN0pVM1RSdzNMdlphU0o2XzJaVUxxMElGUU5qbXVQcW9aZ3MybHR6UjRBdmg2ODNxOHpRVUNlSkJZWHhhVGR4WW5FT1pseXRMNEVyNnR3aXh6NA?oc=5",
@@ -30419,6 +30513,32 @@
    "published": "2026-10-13T06:46:10+00:00",
    "fetched": "2026-10-20T09:06:01.184479+00:00",
    "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9b152a4820b4ba31",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Airports and airlines table six-point action plan to tackle EES bottlenecks - Travel Weekly - Home",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGZKdlozMlNNbUhFbkdBaUV6Qk5xdWpuVVZEQXdmY1M5LUo3ZVBNaVN5WHVpci03TEdEcEFBUXpnQTd1aTR2bWxVbzI1VTVkOTBET3Q2eFR4aU5EWUdGZzB4UlZOWnM1bU5UUFc2d2RGbzFTVGluYVk3ZG9ic0haMnRkeVY5TWVoa3VuMzg3dGVHMzExSVdpM0lVYzhrQUZfNVRjX0hicm5UQUE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Travel Weekly - Home",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-13T06:32:00+00:00",
+   "fetched": "2026-10-24T01:36:20.539715+00:00",
+   "visas": [
+    "schengen"
+   ],
    "groups": [
     "chung"
    ],
