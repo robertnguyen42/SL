@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:28:33.613353+00:00",
+ "updated": "2026-10-24T17:00:04.724809+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 25
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "au-student",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "au-parent",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 30
+   "count": 10
   },
   {
    "id": "us-eb5",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 29
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 15
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 10
+   "count": 24
   },
   {
    "id": "nz-smc",
@@ -629,13 +629,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 10
   },
   {
    "id": "nz-business",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,28 @@
   }
  ],
  "items": [
+  {
+   "id": "96323366121165ff",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Moroccans Lead Italy’s 2025 Permits With 44,549, Second in Citizenship With 23,386 - Morocco World News",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYmhZNng3T0tqM2c0SkZSc0UwWk5KZWJ1QW9PZ05ZYjVxU1VZMUkwb08za1pTdkF0YVgwamtqY3ZiaEtkRkFsRnotRFZZZGh6eEJaM2VSQVd3ZExKN2JnZ2pEbno2aS1QdS0zbGFUUnE2bDBPd0xSLTZzdUpYZEF5THZxWXV1bklRblpSZjVxZzNLSVJpdWxFLTZ2WUl5Q0MyOHppN1BxR3l4MS1SekpyeVRWbFZMMjAtU2kxdmJaekdpcVc3YkE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Morocco World News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-24T16:15:40+00:00",
+   "fetched": "2026-10-24T17:00:04.724809+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "d2f0829d63b5b49a",
    "src_group": "chung",
@@ -7124,6 +7146,30 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "78158906610c6f78",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Kalypso and Offshore Data Center evaluate offshore data centers powered by natural gas - Inspenet",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSlVkTks3cGk4d1VnYW1yQ1lIWGVoN3F1SVVPSzg1M1RwVmxORGpObENid056dE94a2o1d2M2ZXlhOGhLX2hoenRRRFlVdjktWk91VTBRWjBsY0FoQ3p1VXlDZkV3dnZoODkw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Inspenet",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T18:19:59+00:00",
+   "fetched": "2026-10-24T17:00:04.724809+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e894d4b0ec9b7968",
