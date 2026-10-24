@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:58:58.043764+00:00",
+ "updated": "2026-10-24T05:29:51.959656+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -299,19 +299,19 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 29
   },
   {
    "id": "us-visitor",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 10
   },
   {
    "id": "eu-student",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 28
+   "count": 10
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -659,13 +659,13 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -723,6 +723,32 @@
   }
  ],
  "items": [
+  {
+   "id": "101f05cbad334d0a",
+   "src_group": null,
+   "src_country": "US",
+   "title": "WATCH: College students challenged with basic questions from U.S. citizenship test - The College Fix",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR01Jd01jcVlEUE9vVFAzVUY4MWRrUHREdi1pV3lrbEhsZVRuZHZQWVpvOUV4UHlmclY3SkhRWld1M185S0diMXkzQ091WUxwSXNDSFF6NEFudkVkcFBDa0lvWmtuZDEweUFJT1JVWG9nWHZvYWFmZjA1QUU4NkVWUm10VENmQkFZNnpmU3k2MDlWSVlIV1lIbHpfNWRhbjZfQUJNM3hIZmlLOXhOZjhuRw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The College Fix",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-24T05:18:41+00:00",
+   "fetched": "2026-10-24T05:29:51.959656+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "b54fdf982941f7d1",
    "src_group": null,
@@ -27690,6 +27716,28 @@
    "score": 0.0
   },
   {
+   "id": "8a709864a967e127",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Trump Administration Seeks Remand of COP Approval for Offshore Wind Farm Now in Final Commissioning Stage - Offshore Wind",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZDlrblJ6NUN4UzR5VXl2VWlLa2tPWjhHM2dRTlZHY3E2ei13ZUlJR2JGenpfSUZhcXNOWkt2RW15ZXdyZ1U5c1pMbGh2TmNzaVBHVm1zZHFHYVhDYmtxMHBnbDh4cjIzXzMwTTdteU1EV1ktNkZsUXRFb1A3TUtnLTRncFNtNjZNQ2NucEQ2QjFhZEw0ZE1vWDctTUFaT1Y0MlZqdER6enJpd1l0NmJYdkI5bm9DZDdIR3VVc0hPbkVBNXZHcjNvWklPUHhRV2RDTlJTQWdma1Q?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Wind",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-14T07:00:00+00:00",
+   "fetched": "2026-10-24T05:29:51.959656+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "f7d524cf64063f5a",
    "title": "Europe records 59% decline in migrant arrivals by sea from four West African countries - Nairametrics",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0dXcVVUMV9uR0xNVlBZU0JwRXFCUzQzNWhDY01yeDF2ZnpCRTIwVm4zYU44UGs2LVQ2U3FIYm40OC1acDNzZENTb1EtbUFOUFEwMzRxVGdhX1h0UTQ2T3BpeDZIaV9Fd1AzYXJIX1IyeWZjWVZwcldEdUpjM29ESFBvNVVMYW9yNEVTQ2JnN3g4a2QxT2lEUlIwMUZUSzVJU1RaRmhNU0l2Um5iaWVJS1pNNUswb0hRREtNRWlFVQ?oc=5",
@@ -32912,6 +32960,28 @@
    "groups": [
     "khac"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "15d33c5061781084",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Orsted buys back British offshore windfarm stake for $20 million - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXl6R2pFR0dNLTdObmN2djB2ZmdJWDJtaVVMMUJFZ2ZRRFp5MVIzdGtUb0R6b2FEWVV4QlR1REU0VUo5NDZYT2VQbmVQV0J6aW5oUEUzVXpwNHB4VGdJejRYa0VSOXNZUzZ4YWczamVmWEptZndiU01INVdUQVFleDdLTWVaVFJZRHQxZFBOVVlCZzBfWXdXVUdlTG1LeFdsRlJhdjd3ZkotS1dwUmYxUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Reuters",
+   "country": "EU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-12T07:00:00+00:00",
+   "fetched": "2026-10-24T05:29:51.959656+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
