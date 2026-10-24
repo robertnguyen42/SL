@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T13:27:49.481242+00:00",
+ "updated": "2026-10-24T13:58:28.035050+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "ca-startup",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 12
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 20
+   "count": 38
   },
   {
    "id": "eu-golden-visa",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 26
   },
   {
    "id": "eu-family",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-sheet-chung-2",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 15
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,25 +617,25 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 25
+   "count": 9
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 9
   },
   {
    "id": "nz-business",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 10
+   "count": 7
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,30 @@
   }
  ],
  "items": [
+  {
+   "id": "67d5d20d9e1ecdcd",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Hơn 26.200 du học sinh Việt ở lại Hàn Quốc quá hạn, chuyên gia nêu lý do - Báo Thanh Niên",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNendLN1U2Y0Z0N1BpM3A5by1TbmY0Z2tfZWRBMGdDenhfOTdfek81MnNqTUU0TjBvWU5HOTRaZms3X0FSWFpoU3dKS3NNUDN5bUxPNGFnc2pYeVF6Y0ZLNndybWdIbm5mUnRuRkNmRlNwS3JMU3RaYzk0VV9Pc2s0V25XQ3FOQk80QmNhNHM1d0RTU0Q4clFIUFhwY3JuVGFWX0hsRkJSMTg4ZFNmMEtDdGM1RHc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Báo Thanh Niên",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-vi",
+   "published": "2026-10-24T13:28:00+00:00",
+   "fetched": "2026-10-24T13:58:28.035050+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
   {
    "id": "39400cc2449acccc",
    "src_group": null,
@@ -10020,6 +10044,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "83fda845229e8d19",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Australia's 456 skilled occupations offer Kenyan workers potential migration opportunities - Education News",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFlycHZDMGxpQmVLUVlOdEtMM1JFekY1dkZ0OFVOOUplTm5PejRrZGo1QmNqOUQzdTNXdV9ONXNWMjVTMk5pWFl5akE4X0FhZllSWmVPYlpMRTM0NFJBR1lsdW8tWDB6RGFpc1BERlNLSjlpQ0oxQTlzcTlpNWZhUHNDYUlKOHE1SkJSX1dnazJLT1FZcmVMcWFiQklTWG5UVWVSQXFxUnk2OS1pNjkyQ0xwV1pqcWdZSDhtM1ZWZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Education News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-2",
+   "published": "2026-10-20T17:34:07+00:00",
+   "fetched": "2026-10-24T13:58:28.035050+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "46aa34db0acd99cd",
