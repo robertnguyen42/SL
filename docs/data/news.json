@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:51:05.334293+00:00",
+ "updated": "2026-10-24T20:19:38.046712+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 22
   },
   {
    "id": "au-en",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 25
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "au-student",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "id": "au-investor",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 29
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "ca-work",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-sheet-chung-1",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,31 +611,31 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 8
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 9
+   "count": 23
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 9
+   "count": 16
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -659,13 +659,13 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "nz-sheet-chung-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,30 @@
   }
  ],
  "items": [
+  {
+   "id": "7ef27561c845ce2d",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Santa Barbara County Wants Responsible Offshore Wind - The Santa Barbara Independent",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcVY2WlpYbHJtdm1Rbmw3cHFQYnlWX1JqWGhBTHdRaUZpVGNVQXVkWjg1MDZjekRHN005MVJvM0Z6c1dpbURrVnNtNHZGOGN1VGpuREE4SHRQWm5HZTRhVlhwUkV4Njg0R19PWnlRYkJNWUNKeXpJU2dWSUJnVHU0aEltcWNVbVJaWWdfYkdSd0VtNkN6ek80?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Santa Barbara Independent",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-24T20:09:38+00:00",
+   "fetched": "2026-10-24T20:19:38.046712+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "84a9214fbd92f085",
    "src_group": null,
@@ -858,6 +882,34 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "a72c9573bc67aee0",
+   "src_group": null,
+   "src_country": "US",
+   "title": "India EB-2 Green Card Cutoff Stays at 2013 in November 2026 - IndiaWest",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zOURacGZUWVRZcW1xeUdCSUMxNkVVTGZqdXVDMkVGU1pHVWo2dE1xcXdyaFpZY2NBWjAzZ0xQR0ZFR2RGOTFOcGhTYmtlUzB1RjI1NDVLVEZlSFNCSGNUNHNtMnAxMGZKNmlfXzg5WFV2WnRsNnZsNQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "IndiaWest",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-24T12:39:56+00:00",
+   "fetched": "2026-10-24T20:19:38.046712+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "39400cc2449acccc",
@@ -5890,6 +5942,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "9eb9b80c3168d805",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "October Roadshow Focuses on Residency-by-Investment Opportunities in Portugal and Greece - The Business Manual",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjUwNzVmUXEzNG1zUVFLZUVIbzNyeGFFakdHMmY5WGw4RnZfVWF5WTU4S2JnbTAzR0plU0V4cWV5NUg5WkI0QkY2dFl4U3lTZ2hMRkl0RDBkS3J6UVRsUWlIMmZSZG5FbzhlQnh5NEJ0bERiU3cycDdPTnRGRUo3bnhhUEstNFFPS2NDX05NRVdoanNab2k0bVM5ajJLYk0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Business Manual",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-22T07:49:29+00:00",
+   "fetched": "2026-10-24T20:19:38.046712+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "8a961c867c5d59e9",
