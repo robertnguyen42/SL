@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:27:39.054143+00:00",
+ "updated": "2026-10-24T19:02:37.689670+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 21
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 21
   },
   {
    "id": "eu-gov",
@@ -239,19 +239,19 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 0
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 0
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 16
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -389,7 +389,7 @@
    "id": "us-green-card",
    "name": "Google News – Mỹ – Thẻ xanh – Điều chỉnh tình trạng",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "us-citizenship",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 20
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "eu-family",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-sheet-chung-1",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 37
+   "count": 16
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-sheet-khac-3",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 9
   },
   {
    "id": "nz-aewv",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,7 +719,7 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 16
   }
  ],
  "items": [
@@ -21589,6 +21589,30 @@
    "fetched": "2026-10-23T10:03:57.378606+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d061d7a7a02d3d22",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "RigLogix Offshore Rig News Roundup - Westwood Global Energy Group",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEJybXl5MmVZTmxpM092UUpURVl2T3RjeUdLNDVtQzBqM1Q5SXdyMGRNNlZVOGJOZGpmYmozekRNck1mQ0gtUzRCQWdsakM5RlRGV2k0MGd0WEtuQ0tMQjNYcUhFUl96ZWR2azNfQUNlODlyRlR3Qnh6OGJHUUl5ZTE0cWRpR28ybWd1bk9B?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Westwood Global Energy Group",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T07:00:00+00:00",
+   "fetched": "2026-10-24T19:02:37.689670+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -47787,6 +47811,28 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "06264a8764b73f19",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Immigration Salary List vs Temporary Shortage List: What Employers Need to Know - Electronic Immigration Network",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOW5ZQWl5cHVHdWQ5RUpqbkVYVHNlWk9GTkUxb1hkU1RnaC1yTzhIUmVIbVVNblRnTXNBVWZ6MWc1RnhBZ21YYklXM2g1MjNfak5raXYxN1lLdTZIUjZBRUlURWFXajhqUVZYd0F4bWE3b3FnR29kbUd3ZVJzTi1qV1UtZFFBSm5BSTdSeXpzbXBENm91T0dJN1ZicU1Sek1MOHQ0bFhR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Electronic Immigration Network",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-24T19:02:37.689670+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "8850e4cd78a0d076",
