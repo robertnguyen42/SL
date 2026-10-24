@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:28:37.698564+00:00",
+ "updated": "2026-10-24T17:57:04.856494+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "id": "au-student",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "ca-work",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "nz-smc",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-2",
@@ -1472,6 +1472,30 @@
    "direction": "noi",
    "prio": true,
    "score": 6.0
+  },
+  {
+   "id": "9ecdc6eab5206231",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "PNP accuses gov’t of using public sector travel ban to distract from NaRRA controversy - Jamaica Gleaner",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHBRMTdIT0FiZ3gwQkFVc0FtNnRvVWhBUDkwU2dKVnRoVy1acnRJbVlQWmZJUHpXd3NfVFNyRUt5MTVhZ2d1QjNXNnJlOHZyQ2VwRUFvUFoxVEpnLS16ZTRhSWJWLXBybkQ1SWY2djROLTkzOTBGMG5ILWxBUlExRk03VzVwcUhBMUFOblNNazhwNWVmRG56ZjhqTFhoSDJuLW02YzdJY094b29DdlNtZWhQSGozTkdaZjRKWDk2NW4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Jamaica Gleaner",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-23T21:24:03+00:00",
+   "fetched": "2026-10-24T17:57:04.856494+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "a94b692ccc39f8bc",
@@ -2708,6 +2732,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "1aab2beaa8d4e093",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Greece’s Proposed 15% Property Transfer Tax Could Set Off a Golden Visa Buying Rush - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOW90bE8wNVZtZDdfM3E4dDc3c2JZdVkxVlFQSVF5NUNDUVFLVmwwNkRnY3NXcDdZcm5XSWFYOGxQSm5UdXY4VVNva1M0N1BGcTBPZEVzalVvblVJVDliVHZIc2hsRmNMbVBsYlUtT3Y0MEstWWpEUjEwOUpuQmVuT0FFVjR5bVgxV3g1Vm1tU1ljc3JDR2xoRGEwRHI4Q25McHhYSmw0Slh4S181MDBTeHcxdFNLcm9ILTVzYzRuWXRtbEU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "IMI Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-23T10:09:44+00:00",
+   "fetched": "2026-10-24T17:57:04.856494+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "eaf110ede4b7c364",
