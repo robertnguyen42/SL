@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:53:24.770189+00:00",
+ "updated": "2026-10-24T23:18:45.006730+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -377,13 +377,13 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "us-green-card",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "us-sheet-chung-1",
@@ -431,13 +431,13 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 40
+   "count": 28
   },
   {
    "id": "ca-express-entry",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "ca-startup",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 12
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 38
+   "count": 21
   },
   {
    "id": "eu-golden-visa",
@@ -533,7 +533,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 19
+   "count": 40
   },
   {
    "id": "eu-blue-card",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 15
+   "count": 38
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 8
   },
   {
    "id": "eu-sheet-khac-3",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 8
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 10
   },
   {
    "id": "nz-business",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-2",
@@ -750,6 +750,28 @@
    "score": 4.0
   },
   {
+   "id": "a6c6f8e46b3b63f2",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "NZ tipped to benefit as Australia plans to cut working holiday visas - NZ Herald",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaE5CMFFrQkhUMVBrbnZQWTIxdkw1eWFTNXBWUmZJVXFPYWU3bXZvTnFRbDc5RWk0ODJ5ZlN0UmY3cnhGVFJVNnNhR00ySVZsZkdNYnoyOE1Qb0ZPMVMzSEpEZkVBZUFDRkhjMjZoUUdocUFiZWtaTVpXLUJkdmp4Vy1uTWJPR1dpYmROY3dBclhIMHhkSXF3X01nYzZGR1pyeHVKcmM4SFc3WXcxNFVBa20zRllfY0FueF9xNUMtTFp0d2h3WUJKZFZCNlpPNE9McW9rd1NyZjNHd2hBamVKLXdjVWlnbWxudV9CTThwNGM1UQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NZ Herald",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-24T22:03:13+00:00",
+   "fetched": "2026-10-24T23:18:45.006730+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "7ef27561c845ce2d",
    "src_group": "chung",
    "src_country": "AU",
@@ -787,6 +809,28 @@
    "source": "au-en",
    "published": "2026-10-24T19:41:15+00:00",
    "fetched": "2026-10-24T21:21:34.161041+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "0ee564e724e79f1e",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Pro and anti-immigration protesters march on coast - Yahoo News Australia",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjRDU2RmYzZPRGhBUVIxT0l6TFRnc0JzMFZQSVdkYUpvbGdLMVlSdjRrY0xpOWl2Z05rZXZ1RW9sbTlSc1hQcGNrR0pFVFo1SE9GZ25DVHRoWTVJLU5EZ3I3RFJWSHJLTEFmS3h0SG9fcS1HUzhyU0RaNzJweUtIZVlfSTM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yahoo News Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-24T18:38:41+00:00",
+   "fetched": "2026-10-24T23:18:45.006730+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -1368,6 +1412,28 @@
    "score": 0.0
   },
   {
+   "id": "4fdc79abb0abd847",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Immigrants seeking citizenship targeted in Trump administration's illegal voting crackdown - Santa Fe New Mexican",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQ08yZ1lqRU5DVkY4cy03TmFsS0tLNXFIR0oxWFdsb2RGYzA1d2VxMjdHb2FoT0lZLXA4Wm05MTlzdm1uUVVvNzdKb1FDaVdoMno0VXRPcnVMWW9qcWJEVmlIV28yMjlVTkpZWWhTTElNVTlpdGtCb3A2bF9HckFOaHFMb2lkNnVGWmluSTl3OXNTWjM3QXNNY2RxbXVGWmlWOWctck44UDdySE9Eb2pVSVMzd1NWVWYyNU84QnlYQ0ZFNExnZ01sSmFlSWxXN0xrb1dBWWtuRldpRENpdlRobkM5T3VtYl9tcEpxWXV4YVhJVTNmS3l1bjR3NjJjbmNkVGNjUXF1T3RiNFMzbTBQU1l2VUd4NjM0aDJ5MlQyUGlmV0hqb252NXl3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Santa Fe New Mexican",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-10-24T05:16:00+00:00",
+   "fetched": "2026-10-24T23:18:45.006730+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "b54fdf982941f7d1",
    "src_group": null,
    "src_country": "AU",
@@ -1918,6 +1984,28 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "dac0757ddce982d1",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "‘There is worse to come’: Former Home Affairs Secretary warns of ‘sinister’ threat after Helen Haines alleged attack - News24",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPWHpCV1BTYWlKLWJ2N3NIWERyVmtXekNtZWRScThmUmMyanFhdXB3enZfTnFsM1NmbzVqaWxhaGpTYVJwZTVrN1ZXLTQ5TnMtSUNUX1JEd0NrWnZXY1lQVkJVTGdUSUVvUGdHdDRxbGlaRVFkTHpBUjZpeTZ2a1hodk00OWV4MXRoZUJ6NlRKeUpiRHA4QjgzbUdyUTNWYkk1S1VYZWdaWVl3TWVFLW1OT0lpNE5VLXptek5HNUpwZzNLejc0RnY0cWd1TEtXa2Y1STBlM1dLSHFJOW1fbW9NTWJUX0x3d2NIeFE0Q0lEdmktdVI5SFluZHotZFdqcExaQ2ZMTHRHcmVxOGdrTEt4S3kxemh0N1N0OEhaeGFiUDJGMDFpNE5MXzB5d2w3cjF4VFJ2NG5KOS0zUFFMeEwtVVJDR2x5bk3SAcwCQVVfeXFMTXNLYjl3UXJEdFNKMzVGSHBXOFdaY0V2SksyNnVwcjY3ZDB5aUY0U2Z2UTA0eW5qNkdjeXlnZ0F0ZGdlcDRWQUZPdkxsR3NEa3dJZFJvRnpZd0Y1U1pWNXZzTE5LbWlpR1ptWVJmLWtSZnhhMnpIeW43UDA4VmpSdTZFVjdFeGxyZXk0eUs1aEVPSlVGenlFX0ZWbzJ3Z1pVcWNzZ1QyQVFuSEYzVTA5Ym1meVRIOWE3UWJuNTdVZ1dyYXlNUURhMmNBQXdxTHNZR1k5Q3pDMGxEMVJ6MGpwNkxUS0RwUE9SOFdUQlh1eGJxMGpSQll0clV2enk0VHJ0cGRndFZpcTlCU2NCZno4NVcyZ1c2WnBGR1NiZmFmRXNEVHV4c01qdF8zd3Z5Z285bkdjWW0zQVY0ajEwdG5HNVZtZ3E1X1VKQTJsTXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News24",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-23T18:05:51+00:00",
+   "fetched": "2026-10-24T23:18:45.006730+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "ed28b5b79c5a6527",
