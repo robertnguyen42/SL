@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:58:33.475703+00:00",
+ "updated": "2026-10-24T16:28:33.613353+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -245,13 +245,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "au-student",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "au-sheet-chung-1",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 29
   },
   {
    "id": "us-visitor",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 22
+   "count": 25
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "eu-family",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-sheet-chung-1",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 36
+   "count": 38
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 25
+   "count": 10
   },
   {
    "id": "nz-smc",
@@ -629,13 +629,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -723,6 +723,28 @@
   }
  ],
  "items": [
+  {
+   "id": "d2f0829d63b5b49a",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion - Crude Oil Prices Today | OilPrice.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2M1aVV0MllHTXRGLWhraWVRV2ZQYWltcC1wNmNqLURIUUlNOVhmeTJYWGxzaVFmeDZMZFJRdXV0MHRPZHM4SGVoLWJzamE4SWZSbjNFelpvYkd0Zi1ETlZrcTRhcEd4ODc2M0RzdGJsVXhIRjJPSjZGMThHZXl5Z1hVTUhvQkFWSHA4TW1KRXZxZUxyMnBPUW9Sdi1mNXhGNXJzZlJfb2J3NUM1Y21IZlJ0N1BKeVhzRkVRYjBfSlpoeW_SAcMBQVVfeXFMTnNjNWlVdDJZR010Ri1oa2llUVdmUGFpbXAtcDZjai1ESFFJTTlYZnkyWFhsc2lRZng2TGRSUXV1dDB0T2RzOEhlaC1ic2phOElmUm4zRXpab2JHdGYtRE5Wa3E0YXBHeDg3NjNEc3RibFV4SEYyT0o2RjE4R2V5eWdYVU1Ib0JBVkhwOE1tSkV2cWVMcjJwT1FvUnYtZjV4RjVyc2ZSX29idzVDNWNtSGZSdDdQSnlYc0ZFUWIwX0paaHlv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-24T15:00:00+00:00",
+   "fetched": "2026-10-24T16:28:33.613353+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "67d5d20d9e1ecdcd",
    "src_group": null,
@@ -846,6 +868,28 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "d08445b2953fea09",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US citizenship application approvals fall by 72% — The Rio Times - UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZU1pSlo4UXAzZDI1QU9ieXNkNy1jVUR0NU02ek5IUDlyWTdXcmdDZ3RncVZZMzgybFM3UWRsNGtzRFpxYzlGV195VkJKNVA0NjZEUmY4MVNhdFhNWEF4anVrMTNyazk1ckMtWlFSdDdhTk1DVFlRdHEyczlhX2VwQ3RuMzZMUW10WTZhWjl1eTlSNlBSSkJQc2h6VU5LUFdZWWFXbQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "UA.NEWS",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-24T09:00:24+00:00",
+   "fetched": "2026-10-24T16:28:33.613353+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "6b20872d7919abe4",
@@ -3859,6 +3903,32 @@
    "score": 1.5
   },
   {
+   "id": "f69fdbd2fc63953c",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia lists 5 grounds for refusal of permanent residency for foreign spouses - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSG5nNEY1cGtTdXFDTUlCYkUtN3VvU0M5c2dKZGVRSGxqVnkwd1V2bjhyZXpxLXNyQVRoT1ZpdDBUSHpUSG5qNXdkeGFnaXdfcDR5M3VEaEQ5RXBXV1NfWmlfZ1BCdmJYV1Vha2dkakdITWZiRVJPVzFLTEZKSDRkLVJNcDc5bFJVcEQ3cndxTHp4NHJ0WnBVb2xZSkZROWdfMkVKcTBJb3M?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-parent",
+   "published": "2026-10-22T22:33:31+00:00",
+   "fetched": "2026-10-24T16:28:33.613353+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "80049b3f1e714b47",
    "src_group": null,
    "src_country": "EU",
@@ -4542,6 +4612,32 @@
    "fetched": "2026-10-22T20:06:20.767055+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "333b1c86271659ab",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK spouse visa warning: 9 marriage types that may not be accepted - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWlQ5VlZYenF0NFQwZ3JjNTk0Q0J1RnBvemN0c2tWT213NDFvUms3bkRseDRGenRxSHh6UE1ma25CQ1NMU0JaTy1GNHFUaGs2WG5jNUJKU1RGWmlGbXh6YTFES3pzb1g4RTZ1NHZwSk82Q0ZubVloRjZQdDg2azBFUWxSS2tPdlFwa1V5eXg1TXVlYURaRzN0ZUtkalhaQUhrZ0FfOXJ3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-22T16:44:46+00:00",
+   "fetched": "2026-10-24T16:28:33.613353+00:00",
+   "visas": [
+    "family"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -10550,6 +10646,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "564b2327b64c3ee4",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "York restaurant owner speaks out after Home Office drops bid to remove licence - Yorkshire Post",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWXEtdUZvY1dabHNEZ09NSGE5cUk3RDhBU1h1YVZEZWZmTllTZ3VidkNzWEk5OFVCYlNlM3Via2s4QkozZnp0X092VVFVUVA1elkxUDZmYWZqb3VraG9aeGtkTnNrNVZwSUI4SE5lTTJkLXlpUlUzaTh5YjdCenVnZENmMFpvLUk3Skd1aHNLVlUzM3RLcnRDTXZoTTZfYjZocHRuYkQwemxSbjdNYXJXTEZOY3gxbGdzSl9qbHVHYWhQZ1EzWjd1c1ZhT3BnZnp6TUxscXo5eGpiR2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yorkshire Post",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-20T14:10:00+00:00",
+   "fetched": "2026-10-24T16:28:33.613353+00:00",
+   "visas": [
+    "uk"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b935978025837787",
