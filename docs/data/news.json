@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:27:07.158352+00:00",
+ "updated": "2026-10-24T15:58:33.475703+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -245,7 +245,7 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "au-skilled",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "us-eb5",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 5
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 12
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 25
+   "count": 22
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 10
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-sheet-khac-3",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-investor",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -1408,6 +1408,28 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "2e71a5e314e37ede",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Did you receive a letter from USCIS about your background? Here's what it means - Enlace Latino NC",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXRhREhzczBhRHhuNnVsUUNoaG9lVmM0d3czRVprV2h0eUo2bFFaSzRSWWt3VmpXcG9SM0dFeVR6YWJFbTlLU3d1Mmp6LTJIX1ozUnZSZ2JscjE1bzRGMmpiY0pNNFFjWmJfblBXdHNrbG4xeTBjNlZZSTJBQWdmSEhfVjFiSmFMekNnT2J2enJxV1hRUkpMbHllVS1DbF9mNFE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Enlace Latino NC",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-23T21:06:00+00:00",
+   "fetched": "2026-10-24T15:58:33.475703+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "366b447d7850befe",
@@ -8266,6 +8288,30 @@
    "source": "au-sheet-chung-1",
    "published": "2026-10-21T10:38:07+00:00",
    "fetched": "2026-10-21T12:01:35.641841+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "043f64222269fb74",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Rotor Blade Erosion Repair Epoxy Market To 2035: Offshore Wind and Aging Fleet Drive Growth - News and Statistics - IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZVVFaGEzcy1fU05ISkpQVmw0VTNTNW5GbWRDdEdZRWN6Zk4zNDBBTUtZNnlOcXlDbFljNTNybU9uMWRpZXpGeUtpTWZSZE44d283TUhaVTREa1RScVo1eEcxMzlhd20zSTdZNW01MnU5RW8zQ2MtNWdnbWIxWDh4VTJKb1RJQUVEVVZ1XzdGOXJTNjRjUTE0UENXTnBYQ2hZUXVNcWtzQXRHUGNMNGE1WUN6M0VOeDhuZEh1OVIzakxEdkladFZrdFpPRFg4cDhQNFA3UC1TSXRMekJtbHlPTVU0YUJ0SHRQakRISg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "IndexBox",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-21T10:26:04+00:00",
+   "fetched": "2026-10-24T15:58:33.475703+00:00",
    "visas": [],
    "groups": [
     "chung"
