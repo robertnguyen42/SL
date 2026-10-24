@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T03:01:03.407057+00:00",
+ "updated": "2026-10-24T04:01:28.714831+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -323,7 +323,7 @@
    "id": "au-sheet-tay-nghe-3",
    "name": "Sheet – Úc – Tay nghề (3)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "au-sheet-tay-nghe-4",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 5
+   "count": 2
   },
   {
    "id": "us-sheet-khac-1",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "ca-work",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -557,13 +557,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 10
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 39
+   "count": 18
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 19
+   "count": 9
   },
   {
    "id": "nz-business",
@@ -695,7 +695,7 @@
    "id": "ae-sheet-chung-2",
    "name": "Sheet – Dubai (UAE) – Chung các loại (2)",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "id": "ae-sheet-dau-tu-1",
@@ -719,10 +719,36 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 9
+   "count": 14
   }
  ],
  "items": [
+  {
+   "id": "d0bb5c5cf7b07d62",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Meet the S.F. congressional candidates: Expand work visas and green card access? - Mission Local",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1pqZUN3Wi1RVHVsOXp2ZTJGM0R5VFY3cGNiRl8wTjc2aTJLNkxPWi1XMFdZRHdsbTh3b0UtT29zOENQZExJcDVZSUp0akNkcXE4anNjZkRtZjFOLXVTMHd3Vzd2MjhacVR3YXRQSEROc090dkp6X1VVcTdQc0ZXUERmQXhnNVE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Mission Local",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-24T02:30:23+00:00",
+   "fetched": "2026-10-24T04:01:28.714831+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "eaea5d48e9479cf0",
    "src_group": null,
@@ -748,6 +774,54 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "c1310d4c86271dfc",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "EES, ETIAS and €20 Fee: How confusion over Europe’s new border systems fuels visa scam - Vanguard News",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdkx0M1VudkpFVVBFTWpEY18zVjJPdnFqV0lSZmdIY1A3M1dpenpkMXdEcUg2OFVkRG5RWGFwTnByTkVNVkl2czFVQ01SenM1X2NjTXNkU2QwYzcxaGpGcGdXRXdwUHMzcm5fQWxQaWc2RFk4bDNXTVM3ZlVsSDlWU3d2UlpaQW5FNGQ4X1NHenY1d0NGTDdFQ0NUTHhIQU1JcFJ3bG5raGFfUy14Q3A1YkdzbEtyQWJiTXM4YdIBwgFBVV95cUxQM3VhekZSZ0wwQllsZjAtdHZjaGYwdE5XY3FPRm9wdEYyWmhwdTBXaW5VWWdzS3g3OGdSQXhQV3k2MDZlRFdmMXhFYnJianpPTzl3YzdpbnppU2dIYW55QnVGVktOem1XbzBVUTNQdktWWXNmczB0Yl9jLXVOVEs4ajIwczFYX0RzX1RIZjdIYUNMeS1IZ2w5NXBkTkxid0cxMGYtVkkwbHRGZXNlNVNOZUhQZFRHN0pQOXhpcjlLbU1rQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Vanguard News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-24T01:17:23+00:00",
+   "fetched": "2026-10-24T04:01:28.714831+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "f2567aa5c636b1e9",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Matas: Vụ trục xuất cựu lính ĐCSTQ từng đánh Việt Nam là phép thử cho hệ thống Canada - Trí Thức VN",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUZuMnVXWlZQMTV4d3BwUW1OclBYX2p5UHNTRG5pbGxHMFVoZ0F6UVRXNk0wYjMydlB3b3F6MC1IbDFRc2xsRmdWLTFic1dCMGpjM191cmhUR2Vua0QxeVBMWm1mQ2hIN19qSUJIRE5MZTdsNDk3dG1aLUJWQTkyM25aT2xnVDlWeWZVR21CR1BrOFVvS01VdkZKa3lqNFNzZlJvdWNLbWxhaEVhT0JLTmJxMDVVcHFFT2xlUjJ30gHDAUFVX3lxTE1nUmtEcmdyeklnNHBLb0FPY1B6dFlLZ2wtTWhWVjNGQnZaRV9wcllYdWtFcTQ0ZEJQRGpTRmR2M1otMzFyQ3d0dldDZjEybmxPYWJfWFJXaHpFRHFSaHkwOW9MTnRjWkMxYzlDUnRxMHFYcVFyQ3RvWHhqQXdvLUdpaV9NTkhnZUo2eGY1b2NPWVBmZ1I5ZGRwRFlQR083NHhBNGhGUmx4cWhQOXdlelRTdXJURi1PUGc1Qno1ZWctaFRwYw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Trí Thức VN",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-24T01:11:56+00:00",
+   "fetched": "2026-10-24T04:01:28.714831+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "8af2765c67734ded",
@@ -6624,6 +6698,34 @@
    "score": 0.0
   },
   {
+   "id": "18cd11e7646c1bae",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Home Office lifts deportation order for man, 62, who has lived in UK for 50 years - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1d6RU5qbVBCQU1fVmtiTDBSczBfQlRfSU5MS2VnVHRRQ24xSVpWMnJlVVhvM0lkUW1tYkdNb0ZHcTlKeVRfcUJURE5xemJaTGwzS1B6aC0zR0tIc0toM1dJUmdROWg4NnZHSVVpb0FxZG1KVG5jczdBZVNRSUtwd19nNnN4R3lDZ0FmdXE2NmFQTkp5LTA2LXRneTM3amlNZ0RaX2dGbndKWm1QcjllT1FibDg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Guardian",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-21T16:17:00+00:00",
+   "fetched": "2026-10-24T04:01:28.714831+00:00",
+   "visas": [
+    "uk",
+    "asylum-policy"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "675300396f30741c",
    "src_group": "chung",
    "src_country": "AU",
@@ -12135,6 +12237,32 @@
    "score": 4.0
   },
   {
+   "id": "746577c743b46654",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Proposed OPT Filing Fees for F-1 Students Participating in Practical Training - EY",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmVCbFZQYlNIMllpeUd0ZDNaQXp4QUtpTjNGOHZSbG9TcWJzeEpud3ZDd0U3bXhRV3FzdlpiN0dXTmRSVnVCbG0tQ0dXZDRHRnhPRmVXYU1LX0NId05sdUNtejg5UWZRVmhnTEE0bTB2NFkwWjUwSi1tUFVadXhudDV5VmYtMi1ac1ROdlBrRy1lT3hxM1JEdDlmcTRFYnZyM2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "EY",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-19T21:21:24+00:00",
+   "fetched": "2026-10-24T04:01:28.714831+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "e8380e74fe599a1d",
    "src_group": null,
    "src_country": "US",
@@ -15576,6 +15704,28 @@
    "source": "au-sheet-tay-nghe-3",
    "published": "2026-10-18T03:22:25+00:00",
    "fetched": "2026-10-19T20:59:44.628037+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9974d0e858536cfc",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Award-Winning Australian Short Turns Visa Nightmares into Fantasy Epic - FilmInk",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORlZ6RmtQMi0zRkVfcEJUX0VyZUlzejBNdktZcjVNZGRVZjBTVGFnMVM3ajVvX1p3NTR6TjliZzI0Vm1RUzhtLVRMRy1MWEh6VDNacUtoeXMxVElUWmkya1R3TXhLRk5FQ0lldkE5am9lU1Q1WGZVQzRxX0k0RUlDSWJuV3hRbFdNVmU5cG9XYUc1TFFiMXM5eWMwbS1qc2xoNE54YWUtV2FackIwOWM0bVZn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "FilmInk",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-18T03:17:05+00:00",
+   "fetched": "2026-10-24T04:01:28.714831+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -35380,6 +35530,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "002390709e29468b",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Green Card process suspended for 8 companies: Immigration experts on what happens to approved I-140, exis - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQS1BqVnY0dkt5OGlDUzloQnNyWmdFSjF3RGt2a1hkRWw5ZTFJTEptREd2ZVdlemM3MldSZ0dFTmttNndtZjhuUTJqVTZjSnNRcTNyUzFyai0wRnVsVTZYdUczdE5DZHlSSjQzYzBKUDlSN2Y3SGRSYjFWR2ZFQ21ia3J6ZUFNVkYxMURsR2xrTFhhM19VWURLeWM2T01kUkE5THRLcnN4emN5N1M2d21qdHVIUS1LZWljWFd5azFMNXdWamFwM2NERWMxczVEMVRDSjBJMU5idF85Nm9JUkZRZktqMHVmeWVlUFluNzBtV3lONU01NWZNMVFBRktvTGUtUlhuMEJ6MzVUM05IbTBEdFFJWGdUU0JSVDR5ejhfcDh5T1pEWFFfRUprNlBfREZjVlNzZEV4NkZnTm90amxsZXpYZU9pWEZhU3JodHNNWjLSAdYCQVVfeXFMT1JmblZXZTlDSUEzcWpFVlBLaENCQjF0UFFadUQwZlRQcW9PX3Z5cXJvLWk1UnBuRk5aUzZ3LXJpTVhqX2dONXRad3pxR1hTTnNsdWQxRlYxLUlPaFRLbHc3dU16ZE1HT3dpU1JoMkpQMm1yUFh6UHhrYjVPUHNjTkpxd2c5NWo2SHFmMW5iXy1ha3h0OGh4ZDhGSzJGaFk1Tk9GM0NoNkhhMk5pbGJ3ZXJoNjJQTVJqZWtHYkw2RXBxV2I2VllvX1puNlBWUVlTeGxYNkFfam1PMUV4aTRfUXQ3XzBpWHlDYWQwR1ZGQVBXdW9lM3VqU1pLUTlGbm1uVDFHbGxTTVg1b0EtVzhhUk9teGxrN05VMHJJSHRIY2NIUTlLcEFMZ09XZU9FaGN1MWlmYk5MYm9HcS1IODJobG43b3dTekRqVnZxMzN3OWdSWWpOWnhB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-10T07:00:00+00:00",
+   "fetched": "2026-10-24T04:01:28.714831+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "a18ae40e02c987e8",
