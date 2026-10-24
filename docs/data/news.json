@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:54:22.809305+00:00",
+ "updated": "2026-10-24T00:37:09.909918+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -263,13 +263,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 6
+   "count": 8
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "au-partner",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "au-sheet-chung-1",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 36
+   "count": 11
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-sheet-chung-2",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-3",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 17
   },
   {
    "id": "nz-investor",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "nz-post-study",
@@ -659,13 +659,13 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,76 @@
   }
  ],
  "items": [
+  {
+   "id": "8af2765c67734ded",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia says it wants international students, but visa refusals tell South Asian families a different story - The Australia Today",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdmR3aHdLZGV2OXdEVTlIWWFfUzBxVkswVEppU21DTVMxMTNXbllhYkp3d3VLdlBHNi1CU2lMcWc1OGNQRUtxT2hwbGtNbkpFcWpucDFWRTRZQ3JJMjY0a1V6eFB5aW5Ndm1IWDNsQ1dUNVVCeWIta0p1bTIzUXk2enp4WEVGS01hVGMxUmlhamo2U1NCazFKYlFmQkhfREU2OTdEZjkwZlVPdUp5UzlSYzJSSS1yb056QTRvS1pXYlZOcGQ4OElNMVNGT2VSTmVGUUxQQ2xvV3lHUlllVlQw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Australia Today",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-23T23:57:32+00:00",
+   "fetched": "2026-10-24T00:37:09.909918+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "baeea698bf0bf806",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia to introduce lottery for working holiday visa extensions — ABC News Australia - UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaEtfaTJyT3o3a2FwYnJjdUxSSlZfWWo2eDd5TWpibDhQVjZGWVNHbmhrdHpTa3Y2Z3VwYmFPMDNkZ3ZMODNsOFRfQUgxTE82ZXBmakF6OUV3OHo1UnM2c0QtNVFBWGVNVTljYmpPYmhkbi1xcUZMdDhIWU1LNkRaTHNKRllvcG8xczRpQ24tT3hWN3p2MDlCczRKWWNmS2JCcjVfaTJ6S3dQTlJ2VVd2Qk54bDlLMndLLTUzcW5EeXR4dVRfNzVLX1dlV3B4Zw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "UA.NEWS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-23T23:02:41+00:00",
+   "fetched": "2026-10-24T00:37:09.909918+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a94b692ccc39f8bc",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Thủ tướng tỉnh bang Alberta, Danielle Smith, nhắm vào vấn đề di trú. Nhưng những con số nói gì? - DCV Online",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3R6VEh0TUNLTmMwdGFFdmpoY05rRThWU0xEMnZVcjNaVXVFaUZhZWhGbU1fQnBFeGhQUGUta1dpQ3I2T1MzWlpwQk5tQUNPQlpTRnV6RFhzNGdzR3AzR1RiMHdQaHN0dUY1MTRfdU80VXpnVUhIWHhlblVnMl9UR3FfVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "DCV Online",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-23T21:19:00+00:00",
+   "fetched": "2026-10-24T00:37:09.909918+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
   {
    "id": "366b447d7850befe",
    "src_group": "tay-nghe",
@@ -27091,6 +27161,32 @@
    ],
    "groups": [
     "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a67f13897a6ddc6f",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Video: Naturalization in Tulsa for new US citizens - Tulsa World",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdERBSnNoczEwRUhNd3pZVl9zcVdkc19yS3hXY1BfSGRlYjRIc1p4b2dSVTljZDVINTQyVmpNZnkwakVOb1hYU3hRcTFlRWFFMGJHaVJGcjlXdm8xT1ZmQ3B0UGhnUEdiZUQtRWNIdWF0YUs0YnEzb185T1JrMDMxd1h5NGs?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tulsa World",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-14T07:00:00+00:00",
+   "fetched": "2026-10-24T00:37:09.909918+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
    ],
    "lang": "en",
    "policy": false,
