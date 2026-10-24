@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T13:58:28.035050+00:00",
+ "updated": "2026-10-24T14:27:32.124787+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 16
   },
   {
    "id": "au-partner",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "us-sheet-chung-1",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 12
+   "count": 33
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -557,13 +557,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 26
+   "count": 12
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 10
   },
   {
    "id": "eu-schengen",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 9
+   "count": 24
   },
   {
    "id": "nz-smc",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-2",
@@ -942,6 +942,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "fb3efa80294566a3",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Move Abroad For €900? Complete Bulgaria 🇧🇬 2026 Student Visa Guide | Powered By YouSend Fano (AD3s1eZrv9) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPekVYYTBnSHdZRkhTUnJlQmd5ZGh2RzJtNFEyS3hjVlB3MkNQdF9JdnozTG1tNzR0czRlT053S3FwcXZKZzRnX3hsREloaGxicjJpeDlDYXdNR1ZSb3NSM1d1Nk1sbmlySlItVDdmLUF1eG5mV0VELWtiWFdONjdMOXZzbUxOWEk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Unisba Media",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-24T06:14:45+00:00",
+   "fetched": "2026-10-24T14:27:32.124787+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c7f5d4e2f595edcd",
