@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:19:38.046712+00:00",
+ "updated": "2026-10-24T20:54:41.103486+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "au-en",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "nz-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "nz-vi",
@@ -275,13 +275,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 11
+   "count": 35
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "ca-work",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 38
+   "count": 21
   },
   {
    "id": "eu-golden-visa",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-digital-nomad",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,13 +611,13 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 13
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "nz-smc",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -6175,6 +6175,32 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "4d1e54cf513c780b",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Free Education in Italy for International Students 2027 - Shiksha.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDlqOFI1di1vUVJ2RGJMc0J6cTB4S3haRHNSUWE2VEttRnpDeGRCQllob09fWW5IOEVibTN5eFZhVVJKcGgzVFhoNGhrbk8wWTVWcm1va0czajNDQTM5U0FxNXdwckR2Nkx6MTVUeWN5eFRydjFkdm9nY2dWWUh6OVkwQnM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Shiksha.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-22T07:00:00+00:00",
+   "fetched": "2026-10-24T20:54:41.103486+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b53c4fdb6000c3b1",
@@ -34032,6 +34058,36 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "0a14e5f005e4a6cc",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Trump administration’s PERM suspension: Can H-1B workers stay in the US if green card filings are blocked? - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOV0dmOTdRZFdQTUdMR1VGTV9Oby11MVdEejR3cVRwcE0zWFZwQXpmRmxtN0JpYjZtMUlqY3dpN29TVEs5bHFyWGFxZWI0eVhKOGFQcXdzSHMydFVMYXk5dGFBeEg1NGdWaUFUOXJMN0twcy1RbHV3NmNpbGEzdEEzUkZrVjk3MnpOQVFzbHQwNFo3NUdrR0VsYXY3SEdidnRXVmZGQlJ1a3VjNjRpeldiWlhDRlpmcUpHaVVwdGsyNkM0aG5XNUtDU1lMUzYwUC1Sa2dhSldBRWUzYlBsY3lpQS02eXdXbS14c2pZOEFkak8xTjNrTHRFTkhR0gH_AUFVX3lxTE84NFJ1VDgxcGkzVS1aR2ljTzlXVHh2TGdHTWRBYy1na3lIVXo3X0NVVHhUeUh6b0ZuWm53b2pVRmh2Q19rOTBkUFBsUnY4emxLbVd6bTlpSHJCTXViUF9MVGtjNm5LeVM2aDN4elppM3dtS2RSOUdVX0h2clVpZ3U1MkZuRU84YXQ1a1MzOEdNUVNxd25jNlFHR1NKWTF6MG8zaFNldUViVS12MTIzR0U1MHJCWUNtTlRRX0dmbWlCa1ItNWlLUU5OYlVOT0ItUG9ENEhrYWRqV28zTEtiWmNJbXkyYmhrN1I4MGdaZ183ZjFaSTRoakI0aWFvRVMyOA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-12T07:00:00+00:00",
+   "fetched": "2026-10-24T20:54:41.103486+00:00",
+   "visas": [
+    "eb-work",
+    "h1b",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "b0f8cdd44321e5ec",
