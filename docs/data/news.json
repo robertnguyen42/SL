@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:01:28.714831+00:00",
+ "updated": "2026-10-24T04:58:58.043764+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "au-sheet-chung-3",
@@ -311,7 +311,7 @@
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -323,7 +323,7 @@
    "id": "au-sheet-tay-nghe-3",
    "name": "Sheet – Úc – Tay nghề (3)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-4",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 37
+   "count": 40
   },
   {
    "id": "ca-work",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 18
+   "count": 39
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -659,13 +659,13 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "nz-sheet-chung-1",
@@ -695,7 +695,7 @@
    "id": "ae-sheet-chung-2",
    "name": "Sheet – Dubai (UAE) – Chung các loại (2)",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "id": "ae-sheet-dau-tu-1",
@@ -719,10 +719,58 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 15
   }
  ],
  "items": [
+  {
+   "id": "b54fdf982941f7d1",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "We should be a nation of citizens, not residents - The Spectator Australia",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjU3N2RQWTExaEhGTlg2Rm5SdVhPNUtQUG45WjFIWDVNWnNsa3g3UHJQalFrWHotSW10WW9NR0Y4MUJqbzUxcEVxQ2pMdkV5V0tjbUM5Q3VwOFdjTEtTOXdneDltUTZjZXVZZXR1bjhXV3NSWElVMDlVTkxnWEpZLWRnSTRweDI4NGM4MklR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Spectator Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-24T04:03:13+00:00",
+   "fetched": "2026-10-24T04:58:58.043764+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d1be347fe5a6bce0",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Canadian-born dentist taken into ICE custody at green card interview in Minneapolis, his wife says - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGZaRnhVbktmS2h0YjhVLTFGLU9zN1Rtd0xjQ01Td01zdUZGTTNnOFRJdlNCVFYxNmFmbFd5SGtzeDlzTUxIUVpabFZCeDNJcFVZdlNxVXM0cGxxV3VxbTM2eTRPSjNSR2NmZjF3SjFLSzNaVmozYjFTazBiV0V0Tk5sTGNaM1VGbmxzQVRR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CBS News",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-24T04:01:49+00:00",
+   "fetched": "2026-10-24T04:58:58.043764+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "d0bb5c5cf7b07d62",
    "src_group": "chung",
@@ -5184,6 +5232,33 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "4f00f1845e875ff0",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Germany Opportunity Card Approved in 109 Days! | Saksham’s Germany Visa Success Story - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoMWp0SGtQTzdFaXJxcVh1a0ZvYW8tcGNtQzdnSEZpblBobVRFRFNjbUZXN3JzcE1UMWFVZ1ZfVlQ3Q1lYVU1RelA3dkswUHhGc29ZMDFtVm03NDBl?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "YouTube",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-blue-card",
+   "published": "2026-10-22T07:29:28+00:00",
+   "fetched": "2026-10-24T04:58:58.043764+00:00",
+   "visas": [
+    "blue-card"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "659b0064306fc803",
@@ -24347,6 +24422,32 @@
    "score": 2.5
   },
   {
+   "id": "69ce178d489be909",
+   "src_group": null,
+   "src_country": "US",
+   "title": "A Modest H-1B Visa Proposal - National Review",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zOG4wQzhxZ2tjQldjSTdGT2Jadkx4OExycGFNVklTNXgwbEhoQmszN1FnUjRiNWtZZm9CRlYxN0dkYzhuUWpuakRFOGx5WWZ1V2VYUkF6MDc5bjd5TzRIWWdNYVVSMWMtWUFKSHZLY1NpS1pC0gF6QVVfeXFMTUhBYVZ6M2dfOWx5bm9iTXJyRGotbWJRR0RNRFBHNk5DRXg1bkNqNkxrdzlGdVA4RHZpdnoxOGlJMWU3RHVrRWtaQkdPUHRHVHJ3MWs4WXdsaGdnbzhHNHhQRFhZVmFzWnd0bnN1alpWekhsb0lEOGdsN3c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "National Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-24T04:58:58.043764+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "0cb19e286a14ecc9",
    "src_group": "chung",
    "src_country": "EU",
@@ -34269,6 +34370,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "704c53eb052e7d83",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US proposes $70,000 OPT fee, may deter Indian students from studying there - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOREw2TDY3RDdOLUJZNkZVX3VpVWNhUXQzSzUxSHB6VzMtVGd6SENhdmVLQ1U1aTlWVl9iRXlQdWtNT0lWTi00eDM2MFRuYmduTnJCTDF2cS0wMDZtaE5BMVdtTDRoWGx3VnQyNFhaWC1USWcxbHRrOVJwZ1J2cHpPR0J0b0lMOUw1TThaaFJ5eHNnTVEyTUUyX0w3RFQ0UV94cERpQWc3d1JKVG9KSDhMQXdTZU1JVktTRUYtY3RucVcyaVIzMFRxd1VZTTk3ZHJV0gHWAUFVX3lxTE96NDd4UWtnay1SUEVhdXRTVlRRekdGZWVETWdzNEhtQW1vTzJyajduZHFvNVU2Yk45Wng2eVRPNlljZ2hhcU16dFVUZ3Z6UEVsTXZjSURUYU9xdWExUzlZOWpKQ002SHRxY3dCXzFKdUVJMm8zdHhZOWxvb056UzBBOEd1dU5qczNyeElNc2wtczRWM0xUb1l5OWZGZXJQeUNHWG5IX2NOVlBQNVR1bGtIU2l3VHpZMXQ4N1ducl9FQ3J2SUFsN0lrYUQ2d0I0Vk8wdnYyakE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-11T07:00:00+00:00",
+   "fetched": "2026-10-24T04:58:58.043764+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "ee1bbf469051a928",
