@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:00:04.724809+00:00",
+ "updated": "2026-10-24T17:28:37.698564+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 25
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 29
   },
   {
    "id": "us-eb5",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "us-family",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "ca-work",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-sheet-chung-1",
@@ -605,19 +605,19 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 15
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "nz-smc",
@@ -629,13 +629,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -683,13 +683,13 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-2",
@@ -744,6 +744,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "8a6ba338744a3894",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "PSA: PNB credit card holders can enjoy simplified Korean visa application - Philstar Life",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb05XbWxfc3NPcUFEODlrWjlFTFgzTGhpOVVHemppWHBBNUVycHU3STAxckp0WlY5MjJpVEIxbHFmZ1d1bjVTY25ILUFwT05ONnA3TXlwYmgtbGZmYUJhLUw5dWJBOUJHdERaRFdlLS1WZmJaOFlCOHJFRXhJOUhEZVlDWVRPS0lIQXpQN3g3MzA5NFhjRGRmSFJQYTVGTUQyRVlmUWxuRHpuYklfNzFpOUxBazAwVGNkVnc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Philstar Life",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-24T15:11:32+00:00",
+   "fetched": "2026-10-24T17:28:37.698564+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "d2f0829d63b5b49a",
@@ -1254,6 +1278,28 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "7dfad03d0fccb52b",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia denies Indian citizen a new visa to settle inheritance — ABC News Australia - UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYl9TRWU2UmxSVmhZUGdQSkZ4Q2NSaC1vTFBkbW8ySWJ2STU5eWEtTXU4a0RweHAyMlJ6anZkX3B0T3B6Si1ZcFJJLUdLTVdSdGk2Q0tlVkJfMzZ4bG9nNDRqRnBsNVpCaDVNa2YxSlBoNTdsNGpESVFNaTRVbGlfZzZLeFFBZGFpam0wb2tRSHVtQW5HQTZMNnM1NlpxeVdaNFlKSkZRVmIxRTF3alM1N0RGdXV5UGdpVWFBcjkydUpndG1qNlRnTDYzY1ZXMms?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "UA.NEWS",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-24T02:02:50+00:00",
+   "fetched": "2026-10-24T17:28:37.698564+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c1310d4c86271dfc",
