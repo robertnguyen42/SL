@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:21:05.715718+00:00",
+ "updated": "2026-10-24T22:53:24.770189+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 29
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 12
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 28
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -533,7 +533,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 19
   },
   {
    "id": "eu-blue-card",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-digital-nomad",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 38
+   "count": 15
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,25 +617,25 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 8
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 14
+   "count": 40
   },
   {
    "id": "nz-post-study",
@@ -659,13 +659,13 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -723,6 +723,32 @@
   }
  ],
  "items": [
+  {
+   "id": "de8f7b068ddc7aae",
+   "src_group": null,
+   "src_country": "US",
+   "title": "November 2026 Visa Bulletin: Final Action Dates Advance, Filing Dates Hold - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2J2Q2FOT3JpeWhQdlpsVTB4Y2ZOSDZlZmVzbGRmdWN1UDN4YWlZcWhLZHBrOGduLWhLUkFEc0tZdWFzckc4d25pMDlfVzNSak8wb3R2aDE3cUVzWVhsRF8tYWpWdlYwenRQbkl6OWhiWmtCYkEwY1phOWZfUTVCVXcxYVBzZlZ2NG55NDR1SUNWMDdJVzRPSENNcEVPNVlJdFJHeXpPUGTSAa4BQVVfeXFMTVRiOGYyd3hVU01CMUtQY1c2UHYwb0Ricktoa0RCeDVGVEVSUEk5SVNrV1pPdU1ZMDdGaDNkbW1nVTdORmdBaGJfTjNLeWhRWVdqUEhUMF9RT3FDZzB3REpma2M3aWNCN1l3LTRZLXpoeXBoWW0yeVEtcWFMSEpLYmNudldmOHlQclBJY0pnYWdmWF9QYU1Zc1I0bmVyVll2d3NNX1JZVWIydDJURWN3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-24T22:39:13+00:00",
+   "fetched": "2026-10-24T22:53:24.770189+00:00",
+   "visas": [
+    "visa-bulletin"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "7ef27561c845ce2d",
    "src_group": "chung",
@@ -954,6 +980,28 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "2fa8bb75013f2122",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Confirmed by the federal government | IRS, SSA and USCIS offices will close on Thursday the 26th: the reason and when they reopen - El Cronista",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdXJOYldTck9xQXJkNERDdmFyUk0yUWNrOG1Md25qaTM5VkJJS2NUS09wbmVFZDk3Yld0aGtQQzRIUVFzMXR4d3prVFc3cEg0YjFBX20yV3EtVU1aZy1ubkFGUUdiZDJrSFI3bGhlb2VITVh1LWVLY2hJZFVJaXZMeDVPSXI3M2FjQmNna0ZuTmFwLUhSTy1GUU43d19jWEdISmtIMUZlT3BQSkxGLXU3YlJVNnFfMzZHTVQ4VjdTNUxhZEt5QnpncW9qZU1HOHF4Q1lMaFZFNTZQdW5fdkJRdlR3Q1JyWkFDU0t3Zm5JZ2JDUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "El Cronista",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-24T11:46:32+00:00",
+   "fetched": "2026-10-24T22:53:24.770189+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "39400cc2449acccc",
