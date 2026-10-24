@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:54:41.103486+00:00",
+ "updated": "2026-10-24T21:21:34.161041+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "nz-vi",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 9
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 25
+   "count": 22
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 21
+   "count": 38
   },
   {
    "id": "eu-golden-visa",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "eu-family",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 10
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "nz-smc",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "nz-sheet-chung-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-2",
@@ -748,6 +748,28 @@
    "score": 0.0
   },
   {
+   "id": "999c9135b6ac1b5c",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "'Just the beginning': Far North tourism delegation airs Working Holiday visa worries - Cape York Weekly",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRENDakN3ZXZYLXJQR0l4aTlfdk5lWndTS0tkaEV5YUp1ZDkwaFlkUHJydS1BUDUxVHRNRWFEZENvYkxEV0t4RkdWTVZ6S0FzekdJdk0tSHVhTUlzbG5IZlZqT1lnRGRMYUVsOU1xbmxJOVpBc2FwOEMwLU8xczhNeFJ2S3FqcGRudFBfZktjWV95WEIzUzZULWFXWld5R1JDV1lnOXNZS043STh2X2IwTlIxTldjWWJvckE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Cape York Weekly",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-24T19:41:15+00:00",
+   "fetched": "2026-10-24T21:21:34.161041+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "84a9214fbd92f085",
    "src_group": null,
    "src_country": "US",
@@ -783,6 +805,28 @@
    "source": "us-citizenship",
    "published": "2026-10-24T17:34:00+00:00",
    "fetched": "2026-10-24T19:51:05.334293+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "c4c444701233413b",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Full list of European countries where Kenyans can apply for permanent residency and what it takes - K24 Digital",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWjJhckgtOExOWk1BamdDMUpkOUVmWGtZNzJnYndsNUEwcjVNUWk3RzBaMXJlTU1JX3dhUXhhX2NkQlhuMlFibjZwWHY2V1B4Ym9maExmTUQ4aGpBZFdHZHBmYWNvSVNiWDNTb1lRMll1V25IXzFpYmNVRlU2YWxIMHgySGJsd05Ecl9EbkZtRGhwaU5Yb251Y1NvLXNQWU5ac21tUk9mYmE1V2M1NFhRSXZyOXZwS0M5d0NzOGE4ZUlzcFhTZkx3bmpQaUtwOEQ4MXc1WXBWSWJQc2hVYlg0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "K24 Digital",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-blue-card",
+   "published": "2026-10-24T17:06:15+00:00",
+   "fetched": "2026-10-24T21:21:34.161041+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -16558,6 +16602,28 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "068a822d51da8886",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Tuấn Hưng tái xuất mạng xã hội sau 2 tháng cùng gia đình sang Mỹ định cư - Góc nhìn pháp lý",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzB6dUN4WEFORzJYNTRHZXhFN3lYaUJCaEVMcnU4Z0NweGVtYVBUY0NVWW1mb3pfSnVlQW43Vl9ySWxZRFR3dzh2dDZOcGh2Mk5FSWRJdGxNRnE1LVBvWUV5OHFlWDFrajE4azFwMXZYU0Vsd1p6d0pfNDBXZnljbmhfRTllemVQZHhoaGJpWGxucS1jMUlBaVdyaWxrMXRFUjJLZDRPUnVtS2JWZmp2ZTQzVEFWZGNoc1p0Vw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Góc nhìn pháp lý",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-18T08:08:48+00:00",
+   "fetched": "2026-10-24T21:21:34.161041+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "98c41eefb6071746",
