@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:02:37.689670+00:00",
+ "updated": "2026-10-24T19:51:05.334293+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -233,19 +233,19 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 25
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 0
+   "count": 10
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 0
+   "count": 4
   },
   {
    "id": "au-skilled",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -389,13 +389,13 @@
    "id": "us-green-card",
    "name": "Google News – Mỹ – Thẻ xanh – Điều chỉnh tình trạng",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 29
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 35
+   "count": 11
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "eu-student",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 16
+   "count": 38
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 24
+   "count": 9
   },
   {
    "id": "nz-smc",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-investor",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,50 @@
   }
  ],
  "items": [
+  {
+   "id": "84a9214fbd92f085",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Immigrants Seeking U.S. Citizenship Targeted in Voting Crackdown - The Haitian Times",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUtVZkRkNWJkUlNwcnVsZkJvLVBZU1JCUDBGelMyWHhlZDRwTTB4bXktZHN0VU1Pbzhyd0o2cndzRU9FaDNFbHBUNDF5NGZOX3hkUjB1ZzlLUVlXdVhQWlFIRlEtdWNVcWt1TlhtUFR0OEtWWjAzek1rYjdabC1yeE5Wc1hYV0lDdmYyR2x3OXRWUDRUaWR1cHRJaWVhX3BzLVpMTHBOSUJzZU5Z?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Haitian Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-24T18:06:36+00:00",
+   "fetched": "2026-10-24T19:51:05.334293+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "3a35e249a5ac0c25",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US citizenship application gathering dust: Taiwanese… - inkl",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY0EybnEzWWpZbGhvVGw5c3h0X0VFOFBWaFdMbW5uQ0NWSWpka091VTA0bnlFVmM5STFzMUdHZkxyNVpjRnFkUC1ibUhZVjNPUEJEd1gwMkw4MXZPRVRKM1hCUFlaY3JZOEx2QkFfWEgxNk03OGVHcHVrQkdQZWh1TXBfTGxjTE1Zd3VQTEc5UWVEeWZzNEkyLTFoQWsyUmlva1p2d01KdWtPTlluRHU1cFNQNWJxWFFEanVucnplX1QzSC1Xd2ZTdlFZYmkxbTJUWGYwU3BRWTVZbUlocU1uNDhPLUVtNmNZS3BIOXAtNA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "inkl",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-24T17:34:00+00:00",
+   "fetched": "2026-10-24T19:51:05.334293+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "96323366121165ff",
    "src_group": null,
