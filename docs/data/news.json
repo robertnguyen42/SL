@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T09:23:22.121609+00:00",
+ "updated": "2026-10-24T09:58:02.502634+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -263,13 +263,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 31
+   "count": 10
   },
   {
    "id": "us-eb5",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "us-family",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 29
   },
   {
    "id": "us-visitor",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 22
+   "count": 38
   },
   {
    "id": "eu-golden-visa",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 10
   },
   {
    "id": "eu-work",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 12
+   "count": 40
   },
   {
    "id": "nz-post-study",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -683,7 +683,7 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "ae-sheet-chung-1",
@@ -723,6 +723,32 @@
   }
  ],
  "items": [
+  {
+   "id": "0d54d0c3d8549920",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Qatar outlines 3 requirements visitors need to meet for visa with ETA - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDhUc1JlTG5yNTNwMUFJMV9TTE9wNzFaMVVadzJGd2l2OTB3MUFrSm91RmpqcHlxRzFnTnJjVmU1VU94MmhxZlFLVzZ4WkhLZVhxOUhPSDM4QmNIUUJoZF8wSXRkMUdBMk1Hc1pYWkJMY0VULVV0OHZFakU2QzFWZ2Vtb3dkclJYb0lIYXJobw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-24T09:43:25+00:00",
+   "fetched": "2026-10-24T09:58:02.502634+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "6b20872d7919abe4",
    "src_group": "khac",
@@ -940,6 +966,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "c0594d1be8062c4b",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Gov't Defends Travel Ban As Opposition Questions Its Value - Radio Jamaica News Online",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmtMVlNxYnhWU1RoZFljSnNWZ3l5dUlPRnh2UHNtYzd1OXk4SHh2aWM0b2s0cTNaOGR4SnpMSWtwZmxNak52Q1NsbjJ3aUxrUUN2Z2pUTGtyT0pEdkpXWE5SS3VFbExSSVFmN2RsRHNuMDZ2WkJUaUhCc2xEVnlMRHpCT2dWUGUwNTZDYVFPdVZWN3JZUFkwOHkyN0R1azg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Radio Jamaica News Online",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-24T03:14:49+00:00",
+   "fetched": "2026-10-24T09:58:02.502634+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "d0bb5c5cf7b07d62",
@@ -60844,6 +60894,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "11763115575910db",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "US to more than double EB-5 visa fees for immigrant investors from Nov 30 - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHljWHZWT0FkVUtEQlloOGh5RVlVVGZwSVhLUXAySHp1dk9rRGhPLU9wY0tkMXprWWI4UTdYRnpPTG94dl9GTk1GWVFZTFdCTmczaXdGM3lFQ3Baa0Y5YzhhVFo4ZVBXcFZSU0M1Y2tGNzhxWUdWZVU2WF90YWtNVExFa1ZiMlB6SG5mdUVYdGwyLVo4OHR1NVNsSDBXOC01MFRqejk5aXlneGhFdmhwdHhvZWgya1VEZmZZWTN6bU9iN184Q0dSM3dIM0RrM3FFWk1ZSFR30gHbAUFVX3lxTE1UTUZrQm14cjlVUm1WN0ZvbTdZU0NaODVsSXprY3FrN1FMdW9WZkJTaDZrYlN0S2g3dHUwYVA3aVVHS1RMbkdrc0JKSm8zNFdZc291Q1RIa3d5aWgxT2VvR0xRME50WHc0elY0UkZVQjZPbG16UDgwS3hVY1MxZHVGbUdTcG9hVGRRVEsteHAxd3lYSHZPWjhKWUJqcWNRb2RsNk1CUlFsdkFjbC1EbzRpWXlHbFY5d29pM3d2Qm0tRGx0Z3hyY0R0VzluNmxqck1QcTJ1cHhjeEtDRQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Standard",
+   "country": "US",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-24T09:58:02.502634+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "8581ee0bba37fe96",
