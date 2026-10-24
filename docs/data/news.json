@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:27:32.124787+00:00",
+ "updated": "2026-10-24T14:57:58.750550+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "au-student",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 10
   },
   {
    "id": "eu-student",
@@ -557,13 +557,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 26
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 10
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -605,25 +605,25 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 14
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -25015,6 +25015,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "be5c186d20f1aa6c",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "EU Anti-Money Laundering Regulation 2027: New AML and CFT Requirements for Financial Institutions - Presseportal fair-NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2s2UXktalZoVnJaVnZFTzd6S002VGRfNTRYT295TnhQS2RtQ2gyQ3RhRHNKZThUMGxSQUpNTnVKUkhNWkJsYlQwTGo5Tkd0ZGhLTmRkOHZlVndHazcyckVYLUtJWk8zMXZES19OYmpCcG9oendqV044V2hTTnZtaW9fUU8ySTBNdUlIa3N0SHRRZ2lLeUVOaGVDcjIyTDJUaEpmdnRuVnE5X2tOWGlLeFA0VXZwcUxieGhUazdIZG5uczhqaGdSUg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Presseportal fair-NEWS",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-2",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-24T14:57:58.750550+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "0cb19e286a14ecc9",
