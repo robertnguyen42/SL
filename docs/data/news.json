@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T07:59:57.269089+00:00",
+ "updated": "2026-10-24T08:31:56.168651+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "eu-gov",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 8
   },
   {
    "id": "us-visa-bulletin",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 25
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 37
+   "count": 23
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 22
+   "count": 38
   },
   {
    "id": "eu-golden-visa",
@@ -533,7 +533,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 18
+   "count": 40
   },
   {
    "id": "eu-blue-card",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 18
   },
   {
    "id": "nz-business",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -767,6 +767,30 @@
    "groups": [
     "khac"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9da65aec156d2503",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Immigration adviser lodged ‘hopeless’ visitor visa application for $1500 - Stuff",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWZSNDdHeDIyZFhIWThQQnBwRThwNlZQM3ZlRjVNaG1Sc2h3UWNYWEk0UzBFeE40bE9Gdmd2WE83NTZlODhxUjlVSlNNbXpNTWM5WEdfZHlJc1ByTlZPQ3RUa2pTd2h5dzEwRkswWGRpUkNFX0dlLWd4ZG1uTnFPY2p4bnpXMFBCR29WZUJVeWVaY1ZQaUJPcUFHX3Z4eTVHNTJ3QUtPOF8tV1U?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Stuff",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-24T05:49:38+00:00",
+   "fetched": "2026-10-24T08:31:56.168651+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -5425,6 +5449,28 @@
    "direction": null,
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "a6b88079b0915289",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Mỹ ngừng phỏng vấn visa toàn cầu: Những trường hợp nào đã bị ảnh hưởng? - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVVYOU5qUTh5NG5VV3pOYUtvT3FrRUlxdldXSHJobUtlMHJ2U2dTRGpqdTZGczVrUnI4Q0pqSzMyNFg0QU54akRYcWtvVkdveU5hS193NTdYSFBlRC0yR0Iwa1R3TmlQSDAxODBkd3RqMTdtRVJEbTdSVzUxMDk3amlPVkhXa2p1c2JYTlk0WFVGSC1oWFloT3RwNFJJR0xxc0NtOVJheWs?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "tin.skydoor.net",
+   "country": "US",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-22T07:00:00+00:00",
+   "fetched": "2026-10-24T08:31:56.168651+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "b53c4fdb6000c3b1",
@@ -60674,6 +60720,32 @@
    "visas": [],
    "groups": [
     "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "0d0c23fad8302aed",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Best Countries For Digital Nomads In 2025 - Nomad Capitalist",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdFRrd0NrVFN5d3hnOHdRQWxOZW82UDFUclNhSEQ4MUQ3VF9kdkx2clRvczN3OS1TZnBOYmJVM2wyTFNSZnlhOWVqOXRuNXkxbWE1T0UxQVU4ajI4ZUk0dld2WVVoQzBXdkdVclVleHlFR1hoRE5WZ3N0RFhXaVA5b0V0Nl9IaW4tR2JkUzln?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nomad Capitalist",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-09-30T07:00:00+00:00",
+   "fetched": "2026-10-24T08:31:56.168651+00:00",
+   "visas": [
+    "digital-nomad"
+   ],
+   "groups": [
+    "khac"
    ],
    "lang": "en",
    "policy": false,
