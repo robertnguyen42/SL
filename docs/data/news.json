@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:01:04.325904+00:00",
+ "updated": "2026-10-25T17:54:19.667263+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "eu-gov",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "au-skills-in-demand",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
@@ -311,7 +311,7 @@
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 32
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-sheet-khac-2",
@@ -455,13 +455,13 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "ca-work",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 30
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
@@ -533,13 +533,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 21
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 20
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 32
+   "count": 11
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 9
   },
   {
    "id": "nz-business",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 19
+   "count": 40
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -723,6 +723,28 @@
   }
  ],
  "items": [
+  {
+   "id": "8835f7125f8c579c",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Globevisa to Convene Hong Kong Summit on Asia's Evolving Global Mobility and Cross-Border Planning - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYjBwVHFtaDlmeTdmOE4yaXVnR0k3cTAzc0wyT3RtUGNtSmZ4LVhTMWRXTmlJUTQ4VWZUVk5OY2VkcFprWllqbDZydVlpR3BmTE05bjc1bWtHbm45aTlkdW5qZVpkOTNfZE9KRjhTMFIwZjQwYTRmbWZKZHczcF9qOTFnQjhmT0hISlBNSTFRbDhwVkdhZTA2TnZiSW9NaFlSYjJLWHRiQW1BVFdKNFFTb2FMOFFxVVJrd2h4MmRfRnJiMGUxYU1SamljRHh4U1lZWUhPWWhVSXo4WHZTaVZiZnNaTnlPdXY0MGlXa0cxdWFOX0hHWGg2dHNZVzQ2VzZZdEdiQ3R4YkpLRGZMZzMyZWI4MHpnaGV2Ync?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "South China Morning Post",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-25T16:00:09+00:00",
+   "fetched": "2026-10-25T17:54:19.667263+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "ab6d4bbee7c55ce3",
    "src_group": null,
@@ -25365,6 +25387,32 @@
    "groups": []
   },
   {
+   "id": "f113e66c3460f367",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "ESTA growing but Belli warns: ‘The overall picture is concerning’ - Heavy Lift & Project Forwarding International",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNF84aEZWQ0pHOWhiTkJfTElyTk5ESDM4dnRkOTZRdUtFeVRLU1E2MXFubkpzTUFJM29VdzJZT1NRZzhtMHd0NlJsZHJkWHBfcjdMTXplWXM1a282bTFldExxaUphRlk5cnhUc2lzZVVVQXJYUXhvVURIZEdPZXlaQl9hNGtSY0ZpRnJQVHczS2wtc2hiQ21nLVptcXNPVzg0TDhZT1lYMl9KQy04LTRjT09KdEpFd0Vvd1VMQkh4TGNLS0V5VFNCVk9R?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Heavy Lift & Project Forwarding International",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-15T11:50:37+00:00",
+   "fetched": "2026-10-25T17:54:19.667263+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "fd23db78ec717671",
    "src_group": null,
    "src_country": "EU",
@@ -31165,6 +31213,32 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "98ba7bac408cae66",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "The international student trap: new modelling finds UK universities have nowhere stable left to grow - Public First",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWTVMZG9FZWozSnlaZDZCbjlfNmhzR3dBM3BEVVhEN01ZbHhybkxDWDNJejZfY1U2ZnRRWEl4SWRkc1htNnJLNTYzN0xYZHFfQUZLeUlCTnk2VFdjOGJ4SkJxX0FYY1ByT2FkTFZ6U09TLVd6UVVTdndrYTRHYzg3N3pKemRTY1MtYW1RdDVWWHhrWjNsU19VaTVNNzR0aXV5Wng2TGFlOG9Zc3R6cmVNclh0SWhueVlBbnhadkNDODRwMWY1dVM3ZA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Public First",
+   "country": "EU",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-13T16:32:33+00:00",
+   "fetched": "2026-10-25T17:54:19.667263+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "17c735cdd835472c",
