@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T04:03:45.348945+00:00",
+ "updated": "2026-10-25T05:02:23.693148+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -227,13 +227,13 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 15
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-eb5",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 12
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -581,19 +581,19 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 16
+   "count": 37
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 23
+   "count": 9
   },
   {
    "id": "nz-smc",
@@ -5950,6 +5950,30 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "133e45f78539397b",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Fiji FIU warns of investment citizenship risks - FBC News",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWU1acHBQNFdxa3J4V2R6TjRObjEtMVRhRWc0VjdianV3NDJuc0NqcE1PVzE0ZXd1UTFUTTRfeHdUQXBLZkVLTG9RMS1QSmtVcVhjaVFGV0pXN3JUNWhzSExicWhpNEV3OWpJQWRkVXRHSENwLVpFRE5FYTZ4cGxQQkZqRUx0QQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "FBC News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-2",
+   "published": "2026-10-22T10:57:24+00:00",
+   "fetched": "2026-10-25T05:02:23.693148+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5c6769536cce9f60",
