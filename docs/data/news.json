@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T06:35:14.106820+00:00",
+ "updated": "2026-10-25T07:33:09.461231+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -245,13 +245,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "au-student",
@@ -275,7 +275,7 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "au-parent",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 29
+   "count": 9
   },
   {
    "id": "us-eb5",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "us-family",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 29
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 11
+   "count": 33
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "ca-student",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 29
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 20
+   "count": 37
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 20
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 22
+   "count": 20
   },
   {
    "id": "eu-family",
@@ -581,19 +581,19 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 29
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 38
+   "count": 36
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-2",
@@ -713,7 +713,7 @@
    "id": "ae-sheet-khac-1",
    "name": "Sheet – Dubai (UAE) – Khác (1)",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "ae-sheet-khac-2",
@@ -8220,6 +8220,32 @@
    "score": 1.5
   },
   {
+   "id": "bf5cad2d5be1f104",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Establishment Labs Holdings Inc.'s (NASDAQ:ESTA) Profit Outlook - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbk9lRElJVEJCQzIyZjllR1VvTTd5MFJZdkFVUHdsM3hhVzVGNTAybUs3U2o5Nk8zenVDOWl5eVpuell0T2VKTnhkc2JwdEFIbVhvUGlTTzlrRDFFd0dfb2RHR0xYTFBxV1QyaE14dDVZblYwc05KRkI0QXh5ZHhHRUx0VjFoc0JHYkFXMmdtUkkzV083U0ZobGROU3BzSW5lOXE2clYwVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Moomoo",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-21T15:11:39+00:00",
+   "fetched": "2026-10-25T07:33:09.461231+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "f807ffcc8500d7f1",
    "src_group": null,
    "src_country": "US",
@@ -13418,6 +13444,28 @@
    "source": "eu-sheet-dau-tu-1",
    "published": "2026-10-20T00:00:00+00:00",
    "fetched": "2026-10-20T03:01:47.360578+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "52490a0ee2f7745b",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "The number of legal immigrants entering the United States has dropped sharply. - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGdEJFd05wZXpNM25fZU5wRzhka2tuaFJqcXlDa0hfSVpkZ0VaMGk1U3lFOTNkVnNldnFfck5UM1M0ajNXendkckxITXJYZ1BPQVc0WVJNSzlrWEQ2STRodGxVWHRvR2ZQalM2R0V2YkREMHpTSV9reW80Q2dXNlU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Vietnam.vn",
+   "country": "US",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-19T23:42:49+00:00",
+   "fetched": "2026-10-25T07:33:09.461231+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
