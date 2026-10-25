@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T23:49:44.084450+00:00",
+ "updated": "2026-10-25T00:27:15.483308+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 16
+   "count": 37
   },
   {
    "id": "au-student",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "au-sheet-chung-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 28
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "ca-startup",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "ca-work",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 12
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 28
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 23
+   "count": 10
   },
   {
    "id": "eu-student",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 23
   },
   {
    "id": "eu-family",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 10
+   "count": 23
   },
   {
    "id": "nz-smc",
@@ -653,13 +653,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -770,6 +770,28 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "1c554f8fb5d83d8f",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Singapore Yards Chase Profit From Europe’s Offshore Wind Push - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjZIUU9nMzQ3OENRc2RMakFGMnduRkM2bEE1QnZ5YnFkMXduaC1HaU9nVzQ5Q3VUX05FWC1fRjBZN2tQMURsYXlaTDFvWXhka09mem5qZWYwNHAtd0ttNTNiYTlSZDJ6QnhvbnM2V194OGRHNWN3bVY0cnRJdHhvNW5XTVEtcW1ERVpGRGFUUDZFUXlrNUt1NkRSejVBNXZXMVoyRWZHbi1DNTRveFZENWFR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Bloomberg.com",
+   "country": "EU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-24T22:00:00+00:00",
+   "fetched": "2026-10-25T00:27:15.483308+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "7ef27561c845ce2d",
@@ -1088,6 +1110,32 @@
    ],
    "groups": [
     "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "e71e196b7ad130e7",
+   "src_group": null,
+   "src_country": "US",
+   "title": "AI tools may flag H-1B visa filings discrepancies as US immigration checks get more stringent - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON0daMElzQ3h2N29pMF9CN19ITzhCZWZsbkJBUUdla3NOMmk5TnE5Qk1XRVJTSDNLUFo2TmFOZk9PLXp4X0N3c3JCZ0tzVGxfMmtkc0FwT1Y3eVBYZWV0aDNUbG9RX0REbnAxVE1ieDdWWFVqOE1paGhBSG1NUWRoWmE2cWcySDdYdGRUNHVnUmhMY0FfTjFKMDlzeE51bnVTOHZGak90UDA3MzB2S3Rya2NCMjZER0dzbmtKelhIcExWM3BubWZxQl8xbXhwOC1xNEdBS3BYZnlqaXFoZ0VGNEZ3VWlHZ3BuWkRaTlR4bnFSQUFDcy1N0gH8AUFVX3lxTE95UHJHX3FxV1pxUFhZU0J4MnRHZklRbExQd1p3WlBJMnVTb3dGS1BuMGZDN01sWmlWZmxmTy1wVE1ZMV83T0wtNXlCNE9tYVJBcHpKVmdPWDNETU1udnFLSXgxOUw0c1FBMTlGR0FxNklJNnNDS2V3RFo5R3F3ZnNGN1FfRDZ5M3hlLTl2aTBSQXRQbURNRWRKczVKM1YxVUpPelpmRlQzZ1JBUjlIZW5UVEtWTDR4cUlKeERKQzNaQmxSR2gycWxwYWFzVTM0ci1uSXpEWi1GZGFfOGJEWFNUNVI2UVNxRzFtU0g2RVdVYWM1VHloU0Ziazhxcg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-24T10:51:00+00:00",
+   "fetched": "2026-10-25T00:27:15.483308+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
    ],
    "lang": "en",
    "policy": false,
@@ -6399,6 +6447,30 @@
    ],
    "groups": [
     "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "597e21793d969854",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Qatar Work Visa for Indians 2026 — Eligibility, Salary, Labour Rights and Application Guide - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZTDh3VnZtcHFXdk5ONXhCWGd6NlhhZjVLSzI5ZUxGSS1vSTlUNjEtaXhBOThLM2lDVHRURlB0NlBYaS1mSlFtZV9XbkNLeXVx?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-22T07:00:00+00:00",
+   "fetched": "2026-10-25T00:27:15.483308+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
    ],
    "lang": "en",
    "policy": false,
@@ -34314,6 +34386,28 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "b15bf819fe22f5d2",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Nữ nghị sĩ Mỹ bị điều tra hình sự về hồ sơ nhập cư - Tuổi Trẻ",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcEQ5V04yclJMRGJQVnZKNEtUNm5ZaUNWNnA2dktNZGNzLXNUeGZLQzg2SHlyckIzWWpxamdBMXNSQ3UxVkw3T042clVLUU5tODNRTUlOREpuS2tSblZVbTY5aERkUjZBd0tOWGc4Q0tlNFFRQjBBZEs5elhTSDJQaUotV2I3ZVZ3MzVUYzhsT2w0SHh0Z0Ew?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuổi Trẻ",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-12T07:00:00+00:00",
+   "fetched": "2026-10-25T00:27:15.483308+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "b0f8cdd44321e5ec",
