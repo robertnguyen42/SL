@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T09:30:27.573931+00:00",
+ "updated": "2026-10-25T10:22:13.596610+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 20
   },
   {
    "id": "au-sheet-chung-3",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "us-family",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "us-sheet-chung-1",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "ca-work",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 30
+   "count": 11
   },
   {
    "id": "ca-pr-citizenship",
@@ -533,7 +533,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 19
   },
   {
    "id": "eu-blue-card",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 19
   },
   {
    "id": "eu-family",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-sheet-chung-2",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -719,10 +719,36 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 9
+   "count": 16
   }
  ],
  "items": [
+  {
+   "id": "583247e104995b7e",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US visa, green card applicants: What changed under USCIS filing deadline rules from October 23 - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYk45RjE2VVpBOThxYUM5MmRjZDR2SS1iZEU3NVZlNERpMmllbWdEeWN3VFJzMzc0QjIzS1pKWTVsajZlUUJDQ2RFbERvUWE1Umc5LXBnR0h3RWV4aFJuN2o5MVpMYUZLbkx5ejN4R0dlWVBGS3F5SDZZZC0tSzFBOGVKVWtJX3pQMUVDRWpjWnh1dTRtMmVsaGgtRkd6SS10MnRCVnZDTUZuSVhIOWsya1hSYTM0VDhudWVLOVd6XzVndEtlZjNCRlF0cHY0Ty1CWWJoSGRFamZaMHB3N2JTTmZXbmNzaGt5Y0NFWDBqb9IB9AFBVV95cUxNLW0ySGlNUjRaRUE4bW9LeGx6VnpXNklOT0NOX0FXc2tlT2FOTWhrZ3dkU3FIWVBDZW5KQ1plQmFxMk9yRTRVSklBS1RwU1RGUHd6MjJGQ0FjdlBFX2dFSU56UGpjQUplY2RibmZNWGR2TVNuN2pMekZua1FqRUdDTmhqMGwyLUMzeE5jNFFsY0NjUkgtLTZFQjB4eWVNVmh1aVB4MXpFaGx0M2V0WEtfY2dabUQ3MnExWnIyRTRycDJ3Y0N2VTFZa3NoeXAyUUd1UVdvYVdsN3NVWDVkbThvQkxBb25Pb25IRzZURURSaWx2eW1I?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-25T07:04:35+00:00",
+   "fetched": "2026-10-25T10:22:13.596610+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "72266a7fd9ed61b9",
    "src_group": "tay-nghe",
@@ -768,6 +794,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "486c02b40133ca22",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Study In Bulgaria Without IELTS 2026 | Best Low Budget Schengen VISA For Pakistani | Europe VISA Le Téléjournal Est-du-québec (gsXUZrjmM7) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY3BGLWFVd0NMNy1NZmdtTlVROG1Vbnpja3VNRmVVY1VBZEJTOFJxSDhrRHZBZkNtYXpEUnFrNXQ0dXd3OWttaVN6d0d3U2JTd3Nial8wSENmV1dzMmIzSnVLQ1pPZWpBR2RsTkFSYXJUSkVfSE5hU3R4RmNBX1hBSk9ndEI?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Unisba Media",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-25T01:41:15+00:00",
+   "fetched": "2026-10-25T10:22:13.596610+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e5a964d974d73236",
@@ -6975,6 +7027,33 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "641f4c93c5cb78ee",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Argentina Introduces “Golden Passports”: What Are the Requirements for Obtaining Citizenship? - Visit Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPekRrS2cxVlVTdGh1OGdTT1ZzRThjWm1sdDczZVF1OU14OWhiQWdyaG0yZE9hY0ZBNFpEZkNBeHRwT0FjVEJDSXFvdGlWei1oTUxtbU5kMXZHNFNzWUYzUHNiLUc3cXJXLW1aZDJKWE1GU0hZa2E1cDE5NGFRY1haYU80RWZQdm1qTFVtOWFnd0dPR1d5N250NVZqRWVUSE5vb21WUzduUDdXNXdfMHFZRUFGM0Y4RG9YZFpnTHZjM1NYWFAxWDctcQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Visit Ukraine",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-2",
+   "published": "2026-10-22T02:26:51+00:00",
+   "fetched": "2026-10-25T10:22:13.596610+00:00",
+   "visas": [
+    "citizenship-investment"
+   ],
+   "groups": [
+    "chung",
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "a116793ae5992f41",
