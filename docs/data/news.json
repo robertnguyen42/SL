@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:56:06.649585+00:00",
+ "updated": "2026-10-25T12:28:58.348215+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "nz-vi",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 37
+   "count": 16
   },
   {
    "id": "au-student",
@@ -263,13 +263,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 15
+   "count": 9
   },
   {
    "id": "au-partner",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 26
+   "count": 10
   },
   {
    "id": "us-eb5",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 20
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 20
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "eu-sheet-chung-2",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
@@ -629,13 +629,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 9
   },
   {
    "id": "nz-business",
@@ -748,6 +748,28 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "34e1e545f34425b3",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Immigration New Zealand Denies Transit Visa to Woman Stuck in Cook Islands - SSBCrack",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVlIQ182VmkzdzB6UDdIdTZXMTFVTjJKeWFKNUlKRU92Q0NOZ0MxeEJUREFaMlV2SENvMXdFTWYtT1NNR01sVnd1Y24tck5vTEFBTlVHZ2toZ0VDbjl4aEpaZ2FSaUNmaHAtZ2doMHBPSWVDQ1ZNOHJwNGM5OEpIMWFjUkdxVGJ1NElYXy1zVnBnOC1tNEFNOHdwcU1FbmYtenVz?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SSBCrack",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-25T05:29:17+00:00",
+   "fetched": "2026-10-25T12:28:58.348215+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "72266a7fd9ed61b9",
@@ -8981,6 +9003,32 @@
    "score": 0.0
   },
   {
+   "id": "1c203e666b5562e9",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "2027 Green Card Lottery Reopening Faces Appeal - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDI4NlVqeVdxMEJ0ZFdMcVNPZzB6VEx2Q0ItX280bDN4d1JNREdVRGYwYTliOGw0ZFNjLTI3ZzF1Sm1MT0pwVjlmUTVsajg1S3EyQ0s1cC1HcnVRRDdWSnBKdVdBMjZWaF9KUmxkSlR2UlZ1bUkwME8tSndQVFBZaldyYnVVbF9iRVpB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-21T11:53:00+00:00",
+   "fetched": "2026-10-25T12:28:58.348215+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "fe3a5647fde2d9c0",
    "src_group": null,
    "src_country": "EU",
@@ -16512,6 +16560,30 @@
    "source": "au-sheet-chung-1",
    "published": "2026-10-19T02:45:19+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "243dba697173d140",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Man charged in fatal July car crash on I-140 in New Hanover County - WWAYTV3",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2JJbjlfaE9rbUFsUUF6TW9ja0tUd01landIMVJVd2dOY0Nsc2FfRWs4WnRtVEtueVFEb0VjYXA5UVZQNHJKUDZoeVZtLXJtd3N4eGdfdzdGRVVkTlYwYkRDNUFkclNMNWZPTzhHWXp1LUZIeTZXN1lraTM3YVAxRWJHOXFyeHN6dHhCNUM5S3hDNGk3X2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "WWAYTV3",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-19T02:16:43+00:00",
+   "fetched": "2026-10-25T12:28:58.348215+00:00",
    "visas": [],
    "groups": [
     "chung"
