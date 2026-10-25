@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:52:35.738839+00:00",
+ "updated": "2026-10-25T20:19:21.580214+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "au-student",
@@ -305,13 +305,13 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 33
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "us-sheet-khac-1",
@@ -437,7 +437,7 @@
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "ca-express-entry",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "ca-pr-citizenship",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "eu-golden-visa",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 10
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 9
+   "count": 21
   },
   {
    "id": "eu-student",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 10
+   "count": 32
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
@@ -803,6 +803,28 @@
    "source": "eu-uk",
    "published": "2026-10-25T15:54:26+00:00",
    "fetched": "2026-10-25T15:58:49.162153+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "e509514bdbbcf423",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Inside the lives of Dubai's fraudsters and money launderers as two Brit crooks get travel ban over-turned and vanish - The Irish Sun",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxRVMwVGZKVHkzQnNvMHhweEFiQzlnN1J0ME54QnJNVFhFaEhZWFZqMlhoRnVoSUFMWmwtOUoxQ1pBUGZ3X0RuTExWeHdOWS02aGl6Nld6cG9WaWdjejRMX0toNWJCMmJrSi1OaWhzWDY3a3NlMm94WFd3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Irish Sun",
+   "country": "AE",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-25T15:41:44+00:00",
+   "fetched": "2026-10-25T20:19:21.580214+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
