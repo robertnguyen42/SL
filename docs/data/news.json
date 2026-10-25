@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T02:00:50.710936+00:00",
+ "updated": "2026-10-25T03:00:23.817960+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 20
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 36
+   "count": 38
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "au-partner",
@@ -281,13 +281,13 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "au-sheet-chung-1",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "us-family",
@@ -437,7 +437,7 @@
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 28
+   "count": 40
   },
   {
    "id": "ca-express-entry",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "ca-startup",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 12
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "ca-sheet-chung-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 22
+   "count": 25
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -533,13 +533,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 19
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -581,13 +581,13 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 11
+   "count": 32
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -12310,6 +12310,28 @@
    "score": 4.0
   },
   {
+   "id": "96b04dbec92d660c",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "India-NZ FTA comes into force today: Holiday visas and relaxed student employment pathway EXPLAINED - The Week",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlhQRjIxdEMxVzl1aDZYV2JzQ0wwbU0tN0RPSFN6QnNsWTJDOFV5UjRDZXluRzZKV1Y4LXAycU43THdKd3ZLcUFBSHMwOXFzU1ViZGNBYTB4eTI1QmJvNU44VEFaOXJtckJBWkgxaUMzQ21BcU1udGdUcEFQN0ZnSXl4eFBiZGVSdFBfX0tCUTA1cVVobkd0ZFUxNU41ODDSAaQBQVVfeXFMT1F0WkVUMGxLZ19ranRHWVhzeHRkVDZWQUs4dmhrRlVlRFRpVmdmSGd6YnlLeU4zU29MZXNybzhOMU5LcDBhcVBXc0V6Wl9zLVJYMHZ5OHZpTTdVeE9fNjZOUVZBNVRBWkkzOEl2MXJDbW5DZVRVRlo4QWE5QkRMaHVnTVhkMjlHSTRkZlJKZW1wdTdiN1pGZzM5MUhlMUFneVE2ZUI?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Week",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-20T07:10:24+00:00",
+   "fetched": "2026-10-25T03:00:23.817960+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "5b33f75328abc0de",
    "src_group": "khac",
    "src_country": "CA",
@@ -12656,6 +12678,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "c339ce5b2094e9ed",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "China Clarifies Offshore Trust Tax Rules Ahead of Oct. 22 Deadline - Caixin Global",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1dxbllBN2VsYklldnJuMFlLU18tZkNSUkE2Yl8zY0lMbmM0U3djU0dkbG1lNVlzMEp1ZkFBY21mZnllOWk2Y19nbHYxM09IdmRkLTNMRjRXZFZmc0lPZzhkcVUzWmktNER3bUJOUmRpSFZSZ05kTE9ZVTFfU3gzVml4SGhGOWtiR1Y3Sk50RHlkZWVhX0JzU25yU3Vab3NFUjNBOXhvbndRYmdyT2xBNUc1MW1MUWQtUWN0Zw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Caixin Global",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-20T05:56:00+00:00",
+   "fetched": "2026-10-25T03:00:23.817960+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "e5b9643a7d9e3010",
@@ -15968,6 +16014,28 @@
    "source": "au-sheet-chung-1",
    "published": "2026-10-19T05:00:00+00:00",
    "fetched": "2026-10-19T07:51:42.676552+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "6985c2f2b9428926",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Bad decisions on immigration would disable our health system - Strategic Analysis Australia",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZlNjZjVTT0gwS1ktb2VpQmE5Q29iWElwT2VUTWo5R001Ti1BVkoxQXNVRzllU0Q1TXREbkRvOFk5cVBPeUpuMUMtQVZxdFMyM0RVWENKYnhDU215eUlubHNMQ3FZU2V3NWl2NFJGTDlURzh5VFFXbVhmR3o3cU9YR1A1eHNyVk0yNE5CRTUtakhpLThFeXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Strategic Analysis Australia",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-19T04:17:40+00:00",
+   "fetched": "2026-10-25T03:00:23.817960+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -60177,6 +60245,32 @@
    "fetched": "2026-10-23T14:32:55.233820+00:00",
    "visas": [
     "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "3e304b780a60c620",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "The numbers that show the Home Office’s flagship migration plan failed - The i Paper",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmZyaV9kcVZ2cEN3cGw4UXFwZ1p2a1JtWTVFanZvS3VjQUlqMEQ2Q284b3pNZERTTGVqRFgxdDhHMFMzb0lDTzRJZXVxaUEyUExUSWdFR24tVENjYUt4c2d5akIxMXphYkhQeGtRcnJfa3dFRHJWcE11akJ1Q0UxWTJzSVdVeVRQS1l4elMyRFZpMzNVQTU0WEJRLXVDbXFZLTNzaQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The i Paper",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-25T03:00:23.817960+00:00",
+   "visas": [
+    "uk"
    ],
    "groups": [
     "khac"
