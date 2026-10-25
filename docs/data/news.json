@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:54:19.667263+00:00",
+ "updated": "2026-10-25T18:23:44.628507+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -305,13 +305,13 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 26
   },
   {
    "id": "us-eb5",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 9
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-sheet-khac-2",
@@ -449,13 +449,13 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "id": "ca-student",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 39
+   "count": 20
   },
   {
    "id": "eu-golden-visa",
@@ -533,7 +533,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "eu-blue-card",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 21
+   "count": 10
   },
   {
    "id": "eu-student",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 11
+   "count": 32
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 12
+   "count": 8
   },
   {
    "id": "eu-sheet-khac-3",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "nz-family",
@@ -723,6 +723,28 @@
   }
  ],
  "items": [
+  {
+   "id": "94372c36b18aa3a3",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Cook urges Burke to rethink controversial visa changes - The West Australian",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNnFOczhUMk4wSzZXMWRoVjVNc3RJR01jS19FREtZb2phMy1icTZXVU9uazhsWFFZTzJpYU82bVdmNnNfTUxLTmg1Yl81a1hvMXVzWUgwQnZMM042LW0xQU1VanpMLUtGTW1MZXUzS1dHVzZRbWc1UVpEc1psRUcwWEJqRG5WdGxFazdEZmROSkIwQ1lrVEJzX0gxeGxmVjBMbG9MY25fYkpoLUJCb2o3NFlpU0lyLUZoVkgyRzVRYVhtN2lTUHE0dnFPdzdtaXZ6UWx3M2dGWVY5OUkyTDZnMjl6RW5BMk9yMU82R3oySTJ4UQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The West Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-25T16:42:00+00:00",
+   "fetched": "2026-10-25T18:23:44.628507+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "8835f7125f8c579c",
    "src_group": null,
@@ -2389,6 +2411,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "5e1504dc0cabe01e",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Manitoba Issues 1,304 Letters of Advice to Apply in MPNP Draw #282 - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNVlKX2RXUkpZUjZfUVB0cW1yNHp2ZnQ1eHUxTmw1bFVSNmNNWDJYUnRYSXBrZjF2MFVkb2lUbFNZQWItTVFiYjRlcnlyLWdvV0p2bmVXVUtyZG5PMC1aWlItTzFpR2NpMU1fRm5WQk5PdnVIby1HYmx6Vks2OVVWc0FrRG1kRUd3TlVsUVV2eHdXazZaUFBQeFJIMWc0Wkl4VUlr?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-23T17:23:29+00:00",
+   "fetched": "2026-10-25T18:23:44.628507+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "a7ee221b1b0e3c2d",
@@ -54690,6 +54738,28 @@
    "source": "ca-pr-citizenship",
    "published": "2026-10-05T07:00:00+00:00",
    "fetched": "2026-10-25T08:23:24.882478+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "dc56726e6f9070e0",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "France rejects Turkish student’s visa over headscarf photo | Daily Sabah - Daily Sabah",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYk5WNUpudlVxN1hWOWZ1b0hyR0lTcnAzWnBJZjJFZnFvaVhBX0d5ZVozRGkzUVM0SjBua0pYaFJBS3NvSnBnZlUtR09SV3FrQzJUQ3RXcGdfQmFjay12Y1ZISC05NUJSZEd1THlpd19WRnppeEs0QTBpdEFKVGxsVWhzOTlBYW9sVmlsaUdnT2g4UTl3cmlOMS05eHA1d9IBowFBVV95cUxNcjNJOTVhbXJHUWVETEo5VmJFNzZQaFRKMDVMUFFaVmFOR3ZrNGg2cFlJY29HQTFwUlFhTzAxNTNKYTUyUXE1Mmk4aEFiTkNJZzJqVFhKb0RibEt2SDlpZ29lRENMbnhQYzlJa2ZHdjRTbW56Mk1ua3d0c2IyV3JNaG1PcUtUUkJvMnRjNVBQOWZKcjJhNG80Yml4MHh4NUc4eF9n?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Daily Sabah",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-25T18:23:44.628507+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
