@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:19:21.580214+00:00",
+ "updated": "2026-10-25T20:55:27.399641+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -437,7 +437,7 @@
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "ca-express-entry",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 20
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 10
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 17
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-investor",
@@ -979,6 +979,28 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "0a18d98f0e14560e",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Thành phố Mỹ hoang vắng sau chiến dịch truy quét nhập cư - VnExpress",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdEhUQ3hfN3l2dF9JaFZ1RWNCcnJmT2l0SEdkOFRhY2dMTElFTGV3cnVYSGNRRHQyYVpQX01aeEZkSm1jaG5XdkN5cXo2TmpJZXBEVDRXeV80RXJPbFhMNlFIUXh1a1NyQm9qQ1E0MDBJcmR2V2N0Vnl6Vng3VmYxdHpvVWJqUEl1SjRfR2REZ0hZWXExZWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "VnExpress",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-25T02:07:53+00:00",
+   "fetched": "2026-10-25T20:55:27.399641+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
   },
   {
    "id": "486c02b40133ca22",
@@ -22916,6 +22938,32 @@
    "fetched": "2026-10-25T11:56:06.649585+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "57c6761d135a02fb",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Finnish ruling party group wants asylum applications processed outside EU - Verkkouutiset",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbG5EVG5DRlhVQWFpMUtVMFhQRWhHTzdVUGV0c3hJWUx3YURQWjdDOUkwQWpUS0dJWWhtRUtrQ1cza0VLRlV6WUE3c05YU04tX3ZpeTVSeTIwQlpNeEJHX1VQNGs2d1dHdmF2czRTNE9kWm42LTEybVRZVTJTejRJLUVUZDAwZHpBRlRMRzJQX2g3bTloc1NPSHB0TExqNm5mcHV2d3NXSE0zcWgy?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Verkkouutiset",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-16T07:00:00+00:00",
+   "fetched": "2026-10-25T20:55:27.399641+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -46286,6 +46334,32 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "d6ae83808deb1dbf",
+   "src_group": null,
+   "src_country": "US",
+   "title": "PERM Suspensions Latest Blow to Immigration Programs - SHRM",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWEYwU2k1YVB6Ti1takZPZGhQV0pFX0JZZTlVYVloX2xlbi1wMmh3bVMyVlQ0NzFDN2lMLThWa241TTNva2NLVE9hWkpLTHVEWU5VZzh3eXZVOVpKSDBCc0ZEd1BEaF90TFZGVThCT3FpcllsS1RfQk95cXAtZlJFcnFQOTJGRTN0ZFZYdlVkbS1vYVRS?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SHRM",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-10-25T20:55:27.399641+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "20e511feef397be4",
