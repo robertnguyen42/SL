@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:28:58.348215+00:00",
+ "updated": "2026-10-25T13:10:56.844185+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "nz-vi",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 16
+   "count": 37
   },
   {
    "id": "au-student",
@@ -263,13 +263,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 15
   },
   {
    "id": "au-partner",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 26
   },
   {
    "id": "us-eb5",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 20
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 19
+   "count": 12
   },
   {
    "id": "eu-family",
@@ -581,13 +581,13 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 11
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 12
   },
   {
    "id": "eu-sheet-khac-2",
@@ -623,19 +623,19 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 9
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 12
   },
   {
    "id": "nz-post-study",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "nz-sheet-chung-1",
@@ -29674,6 +29674,32 @@
    "fetched": "2026-10-24T05:29:51.959656+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "1c3b2eb6c0020128",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Times of India: US Proposes Ending Deference to Past H-1B Approvals; Indians Will Be Disproportionately Impacted - Fragomen",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOERUUk42MEdvWWp6eldBTklLbUhHQWt2NEdldXdGNm9qc3JmTVpDd0VCbmhZdXdpM25TSTJTM0V5dUEyOGdNc24tWDZxR29pckxBUHo0RmpKUFh4VjZyTEplMzh0WWhESTlSSjJpSndJQXBTR05wTlhPcFpjSUUzc1hXSV8xU1RuaGNRWFhBemdTSUw2ZjFVVTAxZ2dmZXI0dGpXQmZnWUJsaW5YSnZEejA2VkhEQWcwSEpDVVVjYWtDcVFVRE5JSWNiTkQ5aFhlanl1WFZ5MWdiNklPNW93WXVlOA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Fragomen",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-14T07:00:00+00:00",
+   "fetched": "2026-10-25T13:10:56.844185+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
