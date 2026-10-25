@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T10:57:05.461459+00:00",
+ "updated": "2026-10-25T11:25:41.483092+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 16
+   "count": 36
   },
   {
    "id": "au-student",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "id": "au-investor",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 22
+   "count": 25
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "eu-family",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 22
+   "count": 10
   },
   {
    "id": "nz-smc",
@@ -12023,6 +12023,30 @@
    "visas": [
     "aewv"
    ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "de8bebb20160cd9c",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Australia Visa Update 2026 – 189 Invitations, New Points Test & NSW 190 - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9nQVJYZXpKTTJHUmVYV2tia2pFYW1fcFlWa3hHNGhVUnBhZWlqVkFqTWU4RHZyaWFKdVhTbVdxemtvQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "YouTube",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-4",
+   "published": "2026-10-20T10:45:15+00:00",
+   "fetched": "2026-10-25T11:25:41.483092+00:00",
+   "visas": [],
    "groups": [
     "tay-nghe"
    ],
