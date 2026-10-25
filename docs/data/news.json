@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T14:26:07.742892+00:00",
+ "updated": "2026-10-25T14:57:47.265967+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-investor",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -311,7 +311,7 @@
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 27
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "us-sheet-khac-1",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 20
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -527,19 +527,19 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 20
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 10
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 19
   },
   {
    "id": "eu-family",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -623,13 +623,13 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 8
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 14
+   "count": 16
   },
   {
    "id": "nz-investor",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -723,6 +723,59 @@
   }
  ],
  "items": [
+  {
+   "id": "ec5087d491092115",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Green Card: Documents Foreign Couples Need to Prove Their Marriage is Genuine - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFN5cFJUVy03UFc4RkVZV3prV3QwZmNkQXhvR05VTmRrdm9lUEpQRFVwY3FTWlAxUDdCaWo0Sk5wVGsxcTlGR21sQ0hzd1lOcXFkNHhLSVhGWGx5ZHQ3QldaNDhTZFpuQmd5TEFZUWpxSHV4Zm9fTEFHRVdSYzA4elZIT3BEM1ZjZ2VxUjNMSVhtLUctWDdPN3M1bnZNY0ZuRktJYlZFSHZCMjdnTC1XS2JzZklTWEhXQ2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-25T14:54:02+00:00",
+   "fetched": "2026-10-25T14:57:47.265967+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "a069a3d8dcd530a5",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US visa bulletin explained: All about Green Card priority dates, cut-off dates and visa queues - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZWRpc0VPTUxwWkJCWEZ2M0RqbG40cS1xS1l0SXMtVG9wNHFLb2stR0tkWEtrWUFucFNNemp2NmUydUZBNThuQzFLaE40Ql9mWi0zdTJLTGsyNUdIclU4M1hjcmVlU043R1Zud1ZBdDZldDRubURLVzYtMGhDUmR0NEtIbklaUUFUdXNMME1tZE5LN1o4clZuQ0MwdVJ3dDFCV3FOT0FjcWhRZGQ5ZzJsU3RNR2UyTDJEeHN2akRpVHo1amF3bVFoazNiR1pHSUxvcE5pWFFad0w0Rk93ZFcxVnJ3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-25T08:39:12+00:00",
+   "fetched": "2026-10-25T14:57:47.265967+00:00",
+   "visas": [
+    "visa-bulletin",
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "583247e104995b7e",
    "src_group": null,
@@ -2572,6 +2625,34 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "66ec429b2641eee1",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Green Card: India EB-2 Date Stays Frozen, EB-3 Advances Three Weeks - Gujarat Samachar",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGszanRiVTk1eHZJSUtaVkZHeFItSFJCYUg5VVZ2dU1aRFI0NFgwQmsxR09oQmxMVXl0Ymhid0lnSFo4ODZFbThZVEtMTXNWLXBPMDR6dFNJLXcxMEZFNVdqZEMtYkpfYUQtM0R0dWhHOUpiMTFyQkFBQXYzX2p0QVhnZHVFQjQ2Q19Iei1yRFpfQ2V0RmNiaU1wRnNUcFJoWkxSZHpnUjZRekRYb0tHd085eGotaVZTSm83UjZEdnZLOUl5a3pKdGE0MXJmQmNLbTZjdmt3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Gujarat Samachar",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-23T15:11:38+00:00",
+   "fetched": "2026-10-25T14:57:47.265967+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "7ac58c5baab8218a",
