@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T03:00:23.817960+00:00",
+ "updated": "2026-10-25T04:03:45.348945+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 20
+   "count": 40
   },
   {
    "id": "au-en",
@@ -227,13 +227,13 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "au-skills-in-demand",
@@ -281,13 +281,13 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "us-eb5",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "ca-sheet-chung-1",
@@ -533,13 +533,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 19
+   "count": 40
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "eu-family",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 38
+   "count": 16
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "nz-smc",
@@ -8805,6 +8805,32 @@
    "direction": "siet",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "52a9ed1a92425807",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK student visa refusals for Indian applicants rise to 8%, complicating international recruitment for univ - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQWFDRlhvSjhuSjJwZEZWZ1NBcTVPWEF2WUR0RnFrLXBnX3R1YWFHNzJFcW8zU0RXY3BXc25iMGNUZW1UX2M0WHFyT3lINmdzVXZ5VVM0aVYwVjFuOEV5M3FEMWtBQV9jLU44ak9DT2o4aF8zdGlXcTM3Q2ZsZlI4YjZyMDhpQ29rdGp2NmhqVVcwUHN3N2pBMGdhanVLVFRTZ2V3UDk0MHY4ZlREOVpjZXJjSWlHeHJGNzlUVjZaenZXUlNSaGw4cnJleVRCYUhlUTc5SHRsNFZsWGVSRjQ1M0NrUlY4bjVZNEUtbWlSUnRjQ2FCcXFBWGlxWTJIcDFieGRQd0ZRTdIBjAJBVV95cUxPczI2cXAyY0k3d0xMRjBkYmZpdnF2bWtoSlNFWDh4S3B2VVNZdHM2MzZoMGhtbEU3Y0R1eWczNE9tRDBPUUhQU2N4R19ZWk9scG1BSVRVLXlmR0ExSEk0eDdJeUswMlQ2U1M5SHhXOW5xRUZQRmxUbnVFa2R1b2E3bFh6YnpuLVNqV1lDRXI4UnlGQVF2dEpRQkZoV1BpbENteEpIRHlIZWo5aUxwNUZpa1VsSWtINUk1TmFLT3V6UEtQeW5ZcHJPWnZtUzd2SzRxZS1HcnFWa0R4NFJKR3pNT09rRl9WZC1CbFZxdWFHekEtNlBxd0pkOWpMd0JGdW9OaE9iTXJLMDdXN3pp?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-21T11:13:49+00:00",
+   "fetched": "2026-10-25T04:03:45.348945+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "026e47d2f5f54ae2",
