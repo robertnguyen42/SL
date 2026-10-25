@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T08:23:24.882478+00:00",
+ "updated": "2026-10-25T08:59:04.458966+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "us-family",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-sheet-khac-2",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "ca-startup",
@@ -521,13 +521,13 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 20
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "eu-citizenship-investment",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-student",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 10
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 11
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -623,13 +623,13 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-investor",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "nz-post-study",
@@ -746,6 +746,28 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "4ee108e6b38058eb",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Lucky in the Ballot, But Not Guaranteed Residency: Official Figures Reveal Hurdles Facing Samoan Quota Applicants - Samoa Global News",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR1RPQzlvaDZtZk05ejk0TEV4clAxWmcwaFJyTUhObEs2eHdHRkF5bEJnVWc2cGR5OGM5cHV6WmFxNzBpWUtvbDRTcG04ZWNCbkpUVjJxSjZnRDZBV2xNQWktTFVHeHNnNloyV2EtaEl2NHdQbUFnclJEbjk5MHk5eG5MYkNUc1p3ZXFlZEZHcE1fcXoxT1pmZTcyczJJTXVtZ24xWTJ6NXZzdWRyVjB0YnFEUnR2RWJxVnFraGlDempaU0lucW9yS2xaNkZhX09tVnc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Samoa Global News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-25T02:38:26+00:00",
+   "fetched": "2026-10-25T08:59:04.458966+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "e5a964d974d73236",
@@ -2629,6 +2651,33 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "453f848774f9d813",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "IEC Canada 2026: IRCC Invites 1,304 Candidates in October Draw - ImmigCanada",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbE94d2ZBb3Bxak1qR0s2X1pENjkzejUtRFNqZEY5UDA4RzZWWF9KbS1nbk5YMjFqWEpZa2VOLW9RZHJOTWc1YjJ4X2RMcE9KUVRvcGpoTE92NXRkdFM2ZGNJVEs4VVZPZEYxeF9FSmxlc2VGT2VyUGI0WFVKaFp5Q01ESGlzb0VvQlA2MVRR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigCanada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-23T13:33:32+00:00",
+   "fetched": "2026-10-25T08:59:04.458966+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "325dc1d629ffafe4",
@@ -67167,6 +67216,28 @@
    "groups": [
     "tay-nghe"
    ]
+  },
+  {
+   "id": "c08e4b7b2bf6b60c",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "How Home Secretaries change immigration rules without telling Parliament - Mark Pack",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNzA3LS1IcEhzZU9MblJBMndjLVo1Mlg3UFJzY2ZjTW5INnlSS1FkMm5mV2hmZ0pkOWY5aFNuSTItVzdGZWRwWUFDSG5TNDg2OTAzZEpMdWlNZDRaWjFoWi1tZmlDUEo0S0VEbWdTMmJERmlURzV4bTdfR3I5eTRSeHQ0VHRhTXdvSG8xZm90MnM2MHpkeUVnYnRrU2ZrODNiTnIyZ1k0NXdNOE0x?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Mark Pack",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-09-27T07:00:00+00:00",
+   "fetched": "2026-10-25T08:59:04.458966+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "030fe334c779eb91",
