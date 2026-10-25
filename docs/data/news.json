@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T05:02:23.693148+00:00",
+ "updated": "2026-10-25T05:58:21.130319+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "nz-vi",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 15
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 12
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 38
+   "count": 21
   },
   {
    "id": "eu-golden-visa",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "eu-family",
@@ -581,19 +581,19 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 37
+   "count": 15
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 9
+   "count": 22
   },
   {
    "id": "nz-smc",
@@ -659,13 +659,13 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "nz-sheet-chung-1",
@@ -6641,6 +6641,28 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "36cb6aac71df357d",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia - International Relations, Trade, Migration - Britannica",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzVjB0dV9xc2FkeXBybFVQbGJBOENmXzFQYUN6YU1PSE80bl9qM21HdW5vaW1UeUpkRnMwc2pKYmhWOWtjOURqV05hREs1T20xMGlzdzZuVEI3U21WYjVhNGFObnRmNmpmYTlXRUVuY2ZiQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Britannica",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-22T05:00:00+00:00",
+   "fetched": "2026-10-25T05:58:21.130319+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "9d54347c5a3c42d6",
@@ -13172,6 +13194,28 @@
    "direction": "noi",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "201aeae793fc9582",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Austria blames migration for riots in France and Italy - Brussels Signal",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1RzZWg0UFNkajlOeFYzWnQ4eDE0TENyeEJ3ZFZPYnkzTlhuMTBzcjFOb09fY0V0TXF0bkhlYkg1NHZ0bG1rZDNNTklYVk9OMFVUbU1TU05kM2w5clJZbF9nbGNoTzBhTVRKODZLaHI4WDFCRFBuRVVTU3IwSGsxZGdkbk5rOGxwclBlV3RLY2hweGM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Brussels Signal",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-20T02:00:38+00:00",
+   "fetched": "2026-10-25T05:58:21.130319+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "db203395a3d7d6ee",
