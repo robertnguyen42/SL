@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:25:41.483092+00:00",
+ "updated": "2026-10-25T11:56:06.649585+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "au-student",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-investor",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 39
+   "count": 20
   },
   {
    "id": "eu-golden-visa",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-family",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 11
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 13
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 10
+   "count": 22
   },
   {
    "id": "nz-smc",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-investor",
@@ -16432,6 +16432,32 @@
    "score": 0.0
   },
   {
+   "id": "356ad3a0c4a5ca0c",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "How to get your digital Emirates ID in the UAE - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1dnSzYtUi1GQlNCcE1UV05uRjluUlI0VVdrZ0Z5emFBekJ4UTNoeGo0RnJPaVN2Tk03aFhSNElTWVIxT0dOM2xic0VtLS15Q1djbXZJcDNMSWpGQTFqTVlsTnJhcDF2Q1RYQ0RrbmV3LWUzUVVTc2dTOWJjM0NkRzlXeDdzRkFwM3BsUkxjOGlkaHF2VGhtT1JPWk1NRUdGeWhpcWR1TGNOZzh1elHSAcABQVVfeXFMUHBUZklMaE11SndDRGs5dEdKZmhqNjd4cjFtRWt2WkJZNlVWcFU5NjBDbFE4cDRSY1k0TzhBWjdiLUZsTko1ZS1BbXhrTm12b193TjRVRi1STTY4SjJQNDBfSG44OXRySkxLSHhUdi1seEJqR01pUk82N09Ga2k2aEh4SDJTUkxCUEhfYXowaVc0emxzME5uUF83TzItZENob1VvTzkyWllzLWNWbUFkN1d0TnhwNjR2amI4eF9aTXNy?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Gulf News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-19T04:13:00+00:00",
+   "fetched": "2026-10-25T11:56:06.649585+00:00",
+   "visas": [
+    "residence"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "ccf7844bac9cc333",
    "title": "Người phụ nữ định cư tại Trung Quốc bị kẹt lại Việt Nam vì nợ thuế doanh nghiệp - tin.skydoor.net",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVhvUXdNckgxWC1kQV9oYzYzTGtpN2dacE5CTzFoNDRkaURjTnNTLXJHOE5WVFViazNiNTR6UHlncTdvRTR1YmxjdXlHXzNKSWc5cElQcm1nY3BYQVJyZWMwRksyMlBIVXVyOGVLYWZFTWxsYXBzM2laWVBFVGYyeDRDcEpVdzJNYkRaUjBtcjI?oc=5",
@@ -22535,6 +22561,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9dfbae90d2b0ac6e",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Fugro Completes 2026 Survey Campaign for Ireland’s 900 MW Offshore Wind Project - Offshore Wind",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZnIyMUQ0RXRfdDFISGs0TXdnYTRnZlRqUjVDbmFseEN4NXE0bm1CejQ0NDl3emR1eWp4WDhHYlpDTlRQbUpOcGtBeFlodkpVVFUwak44Y1d5dEp4WklzLTEwRl9MR1pOY1lEdHVNWDBHd2J0SGNzMmhBMXhvRjBNMzhJZkd4X21DY0VuMFNzbXRMYkJHU1Y0elBOVU9aLXBCN1RKSkFDS2xTX0RqTkJVU1B4UmQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Wind",
+   "country": "EU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-16T07:00:00+00:00",
+   "fetched": "2026-10-25T11:56:06.649585+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
