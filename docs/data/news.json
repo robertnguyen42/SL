@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:33:09.461231+00:00",
+ "updated": "2026-10-25T08:23:24.882478+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "au-student",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 27
   },
   {
    "id": "us-eb5",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "us-family",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-sheet-khac-2",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "ca-startup",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 39
+   "count": 20
   },
   {
    "id": "eu-golden-visa",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 10
   },
   {
    "id": "eu-schengen",
@@ -581,19 +581,19 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 29
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "eu-sheet-khac-3",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 13
   },
   {
    "id": "nz-post-study",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "nz-sheet-chung-1",
@@ -723,6 +723,30 @@
   }
  ],
  "items": [
+  {
+   "id": "72266a7fd9ed61b9",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Australia Visa Age Limit With 5 Exemptions You Didn’t Know Zuma (AKXtq7HWHR) - Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YT1BPc19fNkY3dl85OWtqSko2ZUNnSlRzUERIZXQ1NnJmMjFERGlGSjdlMTQ2eExZVGFScmF4LWlSUkVwbU1xT2lndmtLQ19POGloemhWZFZ0S29maTBNR1BSLTVqdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Unisba Media",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-4",
+   "published": "2026-10-25T04:29:22+00:00",
+   "fetched": "2026-10-25T08:23:24.882478+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "e5a964d974d73236",
    "src_group": null,
@@ -6665,6 +6689,28 @@
    "score": 0.0
   },
   {
+   "id": "b6b3588802b5eeea",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia - Multiculturalism, Immigration, Diversity - Britannica",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUNpU3VzSTNrcFR1RGdNQlVqaFBWRFRiTlRxT2tYbFZTMXNYYTNVN0Q0ekk2dEdKcU5WM2RKd3NKU2hFekItWTkzNm5PaUtDNTU0aG05Vmt5QmZRRTZ0cl9Ca0NMMkFNeVJmYUc4MHR6YXdhbXROZlhvcG1YMUhMM3loN0s?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Britannica",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-22T05:00:00+00:00",
+   "fetched": "2026-10-25T08:23:24.882478+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "9d54347c5a3c42d6",
    "src_group": "chung",
    "src_country": "EU",
@@ -11518,6 +11564,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "48664b7c335b0c78",
+   "src_group": null,
+   "src_country": "US",
+   "title": "UK Keeps Alternative Family Visa Routes Open After Suspending Reunion Pathway - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlZScmYyaGE4SDhwSU1pbjJxaUlCSHBxVVJnNTJ5a1hTekpBcHNNcXBKdHk2LUV0R3hvZTM2RWxaeHFycjB3THNjcFJVcHpKbWRTck43ZnB2MG9sUWx1QVlYdEdkTWdVbHQwYXVGV3F0eWhrd3M3TmpBUFlhNjI2MF9ZV0wzX19CWDUyTU0zaWswREhBZUhJZ3J4N2tjVzhrVGJHVg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "EU",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-20T12:40:20+00:00",
+   "fetched": "2026-10-25T08:23:24.882478+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "28f2b1feaeb6880d",
@@ -54088,6 +54156,28 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "130393229172dcac",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "What would charging temporary residents for health care and education mean for Alberta? - CTV News",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbFZfM0J2RDJuQ1p5cHJhUGZvejNkaGpXSmc2bGxRQ21TZTk1T2FaLVFrNHZ2dGV0SmxiN0Z6ZmlOQVNsTEt0cFptalZpbDhKaUplN0tNQW1ZY1JqeGV0a0ExNjBPNVNPTHZrcU90N1FnTTd0ZEZJbDJiTGJqUnplTkl3emxYTWxMRGFMUTdydnpCOWtQd2lBUjdjSy1tTlBzY05qTTdNRURDTGdmNnhlLTlKcWlOc3pGc1hseV9mdUphVGZY?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CTV News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-10-25T08:23:24.882478+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "9c24db098c37e744",
