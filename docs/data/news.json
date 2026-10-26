@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:09:50.061322+00:00",
+ "updated": "2026-10-26T04:08:02.371369+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 17
+   "count": 36
   },
   {
    "id": "au-student",
@@ -305,13 +305,13 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -329,19 +329,19 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-sheet-dau-tu-1",
    "name": "Sheet – Úc – Đầu tư (1)",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 10
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-sheet-khac-2",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "ca-work",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 39
+   "count": 12
   },
   {
    "id": "eu-sheet-khac-2",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "nz-post-study",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -723,6 +723,50 @@
   }
  ],
  "items": [
+  {
+   "id": "791a16f3af17918f",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "WA hospitality industry warns visa changes could cost 4,500 workers - theshout.com.au",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0psdEdRYjlBYjZQTUZUbjl1cl8ybVBBRG9YNGtJSjRMeU1mVTYwZXRNYjVEWEQ5c2Utek5yeHpOOVowU2lrUlZnTjRCZE00cjI1eUpyNG5mbi1vTzJFRTltT2IyUkZTSjREVXdwT2J3emVGWHpCRWZfVUpJTmFCakpSTDhHQlU5ZDVwRWVReDlwWmpqbmJjNXcwc213LWpSME53UW53VjFGcE9XRFJJMg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "theshout.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-26T03:58:01+00:00",
+   "fetched": "2026-10-26T04:08:02.371369+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "41a9b71ca8dc6400",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "More than a workforce: Australia’s migrant nurses, midwives and carers - ANMJ",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTVKV3Z2OE9RMUQ1MERVRGVYVk1Rbmt2RXVnT2lZNmlqTmNzZzI5ODNldE1Mak1lWTZxR2QtdmxHZTh3OVZlejJ6UDRGT1RYdW9NdG1CN0gzaXpnOVY2WFdJWlNocmo0WlAzeDlhelZVMU5GRjZMM2lWbkJJYUVBeVN5aGF6OXV3TFoxWUZuZFlTQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ANMJ",
+   "country": "AU",
+   "type": "news",
+   "source": "au-skilled",
+   "published": "2026-10-26T02:31:31+00:00",
+   "fetched": "2026-10-26T04:08:02.371369+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "48ce582be425e66f",
    "src_group": null,
@@ -864,6 +908,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "5de2ac1632719992",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "ACT publishes manifesto with $22b in cuts, ditches migration promise - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeTJzM1kwNWxQb2I3RXdObzM3elhidmczOElGUjNLTDFZWmFkQU1LRHlKYjI2ZkVZVEFMMm5aY05JWUt0SFFIZEpXQjJrRkJQdVBlaEI2dW5hb0RVOHlEM3RZa0VibU5ibF9admxDRUZEcFRFT2RQRHd0aWk3emstRElQTUlKeW5tOS1hR2RQVHFIc2FsQlZCYlZBLWczQXNEeTl4WExFdWlsNEtBWHlBd2pkbUVTaDhPTHhyYXFsSjdWUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-25T23:47:36+00:00",
+   "fetched": "2026-10-26T04:08:02.371369+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "a74692c25bc23471",
@@ -1111,6 +1177,33 @@
    "source": "us-visa-bulletin",
    "published": "2026-10-25T08:39:12+00:00",
    "fetched": "2026-10-25T14:57:47.265967+00:00",
+   "visas": [
+    "visa-bulletin",
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "3b8b109127153cfa",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US visa bulletin explained: All about green card priority dates, cut-off dates and visa queues | Hindustan Times - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZWRpc0VPTUxwWkJCWEZ2M0RqbG40cS1xS1l0SXMtVG9wNHFLb2stR0tkWEtrWUFucFNNemp2NmUydUZBNThuQzFLaE40Ql9mWi0zdTJLTGsyNUdIclU4M1hjcmVlU043R1Zud1ZBdDZldDRubURLVzYtMGhDUmR0NEtIbklaUUFUdXNMME1tZE5LN1o4clZuQ0MwdVJ3dDFCV3FOT0FjcWhRZGQ5ZzJsU3RNR2UyTDJEeHN2akRpVHo1amF3bVFoazNiR1pHSUxvcE5pWFFad0w0Rk93ZFcxVnJ30gHnAUFVX3lxTE84Ti1nSTI2MmotdjdVdVZmaEdTdnNuSGUzS09DQ3Ixc1N6bnY3SjItRmlpeHd2NjBxYjJuUHBfd2FBMVY5bXJyQkNIMUE0RmVJYXBtSVRPNXc5QVZ5aGJ6cXVTQVRXd1F0SkpNbm8zOVpWVmNDaDdSeWZ3REZDUmYyZTI5Tk1oSW5sRV9FUFdnNWVwb1RaVEg0aG9JYWkwelhNb1NBMFNIUlBJSkJNQ05qOTIzWnBTclhscWZUODFDcFdOSTBycXl2Z2NEcUtZNmx6UHFEY293S0cwcVdGQTZZdnN1WjlGRQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Hindustan Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-25T08:39:12+00:00",
+   "fetched": "2026-10-26T04:08:02.371369+00:00",
    "visas": [
     "visa-bulletin",
     "green-card"
