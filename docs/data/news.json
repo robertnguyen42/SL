@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T22:02:10.079907+00:00",
+ "updated": "2026-10-26T23:03:06.087831+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "id": "eu-gov",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "au-student",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
@@ -311,7 +311,7 @@
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,13 +431,13 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "ca-express-entry",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 10
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -617,13 +617,13 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 11
+   "count": 22
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 9
+   "count": 16
   },
   {
    "id": "nz-aewv",
@@ -659,13 +659,13 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 18
+   "count": 40
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -2683,6 +2683,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "f594e19f4bc65d27",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Texas dad deported by ICE to Ghana was then forced to go to Mali, a country that's unsafe for him, he says - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeWJUS09WUkdWUFB0aGNwaHB4N3Fod0NVZFk1SHRGdDBaVi1JbTZEdTRENS1xZmprTFVXZXlQbFB5UUpHOG55LUFMN2VPUkRqRWtFMXNtUkt1RC03QlBsNHVHcGdLTUJBSUQ5OVRkR19jQWJ3RWc3VGFkYnBTaDlGVGE1V0xmMWRzLVB6dXJZbGh6QXRwVzM0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CBS News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-25T23:00:15+00:00",
+   "fetched": "2026-10-26T23:03:06.087831+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "b654be6458f60563",
@@ -20316,6 +20342,32 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "d566219caf6e945a",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Trump administration to require most immigrants seeking green cards to leave the U.S. first - WINK News",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZmo1VG00dlRId3hPNmFPSThEZnlwV1IzV1FDWEh3Qmo4dmdhQjE4czIydHd1U2FmM0ZZQi1wd1drT3o0NWg5cEN5Vm5nOEphV05WbjR2SnRXa3IyVjV5TkQweWsyZW1VcWs0V1VzQVdfM0xNRzhpZVZ3cjZDSWJvaEU3dHZpT0IzMWFLeDNyWkxZQ0IzWnZpRHZEYlRNVkxMX2xoRDZqc0VMcXowSFNsRUpYYmdrRjJsVFpwMWhVRDNKUk5uXzBGbVB6ckl1NnNVQW1CdG1HSmItelpqdnQyenMwT1JGM1lDMWFuNXJxNWZMWWNuMENSZzQxZVQ5b1A5WUN2YUR1UExqR2M?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "WINK News",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-18T07:00:00+00:00",
+   "fetched": "2026-10-26T23:03:06.087831+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "27d201acb7670327",
