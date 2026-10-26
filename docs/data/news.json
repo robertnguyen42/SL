@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T11:10:30.370500+00:00",
+ "updated": "2026-10-26T13:54:01.392685+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "au-sheet-chung-1",
@@ -335,13 +335,13 @@
    "id": "au-sheet-dau-tu-1",
    "name": "Sheet – Úc – Đầu tư (1)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
    "id": "us-eb5",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 36
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 19
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -527,13 +527,13 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 23
+   "count": 40
   },
   {
    "id": "eu-blue-card",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 12
+   "count": 35
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 19
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -611,13 +611,13 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 11
+   "count": 20
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 9
   },
   {
    "id": "nz-business",
@@ -647,19 +647,19 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 19
+   "count": 40
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -723,6 +723,108 @@
   }
  ],
  "items": [
+  {
+   "id": "270e0e5abd5fed9c",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "DOL Overhaul of Work-Based Green Card Program Clears White House - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHJhSWRmalJsRjRoYkFGVHpRS0lvcFFFeXlxOWd2ZzI5S3VnWmtIRXBQcDh2TFYwb3FrNnJXN0lwMEhDT0N0MjJpTUFKbHBpNk9HSjVXTkxpQ0VIS0lpdXlpemJjOElwYlhOTzcyVHdpUVRHVXcwYnBVZzhJaGUtYTlKR1FCck5FTTkwOGV0cTdWbUx6LWVQNFpWSTJhUGJLbXNubXl2QnVoR1pBczExQ01kMA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Bloomberg Law News",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-26T13:38:00+00:00",
+   "fetched": "2026-10-26T13:54:01.392685+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "f526de27e391db3e",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Antigua and Barbuda Weighs CIP Suspension to Preserve Schengen Visa-Free Access - Outbound Investment Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHBzXy0ySV9oa2xnNnVPUHd1UVp6ejFKQ0RoLWRFUTRkLUVMLVlJNHJWalhxWkdGTDV2a19oaDZoelFrSXBsNHdOSjNLWkVadzlPbXBZMElYbF81Qmg4RlpoTk9lbGJoUHRUSG5uVU5pN2FBTlJjek41eWV4ZkFCbkJ1UWkxYUp4Wkh4VVh1bjF3T2psQVFjWGU1dmpsbGR6Z3JDbEthU3JOVmJFcXoyVA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Outbound Investment Group",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-26T11:48:26+00:00",
+   "fetched": "2026-10-26T13:54:01.392685+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "8d17bc293606a086",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "Indian Man Wins Rs 12.9 Crore Lottery After 33 Years In UAE, Eyes Golden Visa - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0tqdXBNQXF4UWdkTElYQW9HbjFxMm9SbjBqUWc3eE1sYUNXZEVxUmRKcThsQTVxX2E5M3MxclhrTzRiSlctbWVSV2RqVmJNaDBfNFBWNFdGQnZHbWZ0NHJ3RHhYanZUbDVSSDQwNnozdG80NzFpbUlSZWs1MkhKMjl6RHNsYUZKcFFUVUVNLTVFcTdUZWZnSVFZWmFRMHJpYlBWVTA2NVNwTnJHbU1zM3UwUm7SAbwBQVVfeXFMT3EwRlpRb2k0RkRqaVFNc0w2Y3VaamtndG9CRDY1STlHTUV2WkczRV9iRXI1UWowNFl3MXZ5alZaVURkamVTRnNBSlRpSGZqenJRMEliaU1ab1dBdFFCRlVwZExVZ0lYS3JCcm5tRFNiQVhUeTRTQWVFS2REOU9zeVUyQjhqTklfYWxCNTZ4eE04VlJ3SVN5VERieERkZVprMGQzQ2pfanpmbFNyUW1NOEVEWHJCUTZiX1hsNDI?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NDTV",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-26T11:20:24+00:00",
+   "fetched": "2026-10-26T13:54:01.392685+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "e98bf237cfc47cdd",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australia visa rules change for Indians: Who needs fingerprints and facial scans? - News9live",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnI4MG0tbXJWZnVtTWZ1dVczQi1RMWNWMXQ1SFVqZWFNMmFWSmtVMW1WUDVnaC1USDRMT0x1ZHZfNVhRdjNSMFdqUjctQ2ROdExUSU9zTndrUDctMExIR0hOVXhxTnpOSUJlTHF6cnU0UWlmR0tYcE9OY3FNWGprXzZqaDBGZEROREV5ZDJZbE12aWc5QVVia0t4aGNabW0tTHFtYkU5RFJKNV8xY0HSAbMBQVVfeXFMTXVSQnphUERWZlQ5WW81OFpheHNGQlRucVd1b19UbW1XMHNZLUl4V2pndHplcDlzUFdDb3NleFlWcUxLVXJDT0pxaWFPTWluclNRbFVmVUljLXI3b29JUGdfNmVYaWdkQ2xfY3hLS1JGUU1HYk9uRUhOVXd4bXB1U0FkVmZramx0MXBrVGZEX1U0SkhhMERUWnRZbmVPc3ljRVZheHBCeGxjT3BxdjdLdzFLbFU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News9live",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-26T11:12:44+00:00",
+   "fetched": "2026-10-26T13:54:01.392685+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "290290fe448eab36",
    "src_group": "chung",
@@ -768,6 +870,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "65b40145f67b9d2f",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australia Announces Allocation for 12 Countries Whose Citizens Qualify for Permanent Residence - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGRZNVRYY3d1bzl3UXpfWm9PQXRld3VlQld3WmdwYzZHOTJES1FhemdwVXEwdVBUeXpEdXRvQXJabkZhTlEyR1ZnaV9Ld3d3MU9odEVIcTFrclVHZXVWalBacXZFSl8ybS10Z3lNQjJVVG5rdHdJM1VDcmQtWC1Nbzl0ZGROSG5EVzNvX0xMNGhkbnlrWkZ5a2VkRHRDTVI3TzNhbU1wQ0dEN2c3V2ZNcEQ5TXE0YVg3Q3U1aWk0dw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-26T09:34:50+00:00",
+   "fetched": "2026-10-26T13:54:01.392685+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "8342ca681caa7195",
@@ -42720,6 +42848,32 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "bf587996ff9730c0",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Microsoft Loses Green Card Rights. What It Means for Thousands of Workers in Limbo - Latin Times",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdXI0R3FUR1JhX2x6Z2R2QWhLQTE4QXdPRjBZQUNBNkFKMDFqUUI5OURCRVRzMmNleXZiWU9HRzNwelFSTVJyTXNmV0NtdjA4MURtTkx4WnBCbHdYV0M1QlV5SUQzQlFHM1FvTTYybFZkaERhS2s1YnA2S0k5eGJRblROMGNIM0hzLWljdldSYXVwYjJuSTdqNFRIYU8xZDU3VXBRQnQ1NDg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Latin Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-26T13:54:01.392685+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "f6cc906fe6524f7c",
