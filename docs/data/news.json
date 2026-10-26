@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:08:43.290507+00:00",
+ "updated": "2026-10-26T06:04:33.634543+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 35
+   "count": 29
   },
   {
    "id": "eu-gov",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -305,13 +305,13 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "us-family",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "ca-work",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 30
+   "count": 11
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -527,25 +527,25 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 25
+   "count": 40
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "id": "eu-student",
@@ -557,13 +557,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 19
+   "count": 12
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 10
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-2",
@@ -623,13 +623,13 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 9
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -719,10 +719,38 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 15
+   "count": 16
   }
  ],
  "items": [
+  {
+   "id": "17dab75a772dc4e9",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Green Card wait: EB-3 advances 21 days for Indians, no movement for EB-2 - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeWxFVW1oNUt5em8yalNicDJ3bDIxa1dhOUdXT0RPR2NNZlRQUmV5Zk5VV3c3YmZPNWVoU3BYWWdpSzdJR2ljdG0xclc4Q01hcEdPNWZWbW96Nm5sTFA5a3BCZ1d5aGphNy0xdFBRdWlKal9BaWx1UVcybFFYcXZmUUdfakVxekxvWFc2ZWgtWjFoZTFxeHY2emZkQTlhRndJU1l5WXp2VlQ5Qk5oeG45MWcwMkNQZUF5SUZCb0dHSGhHV1NBRXZCVUNUNE1rYk1Od2NrcWxB0gHbAUFVX3lxTFBLOUtudklBcjkyeFJkWEpuUE93RkpWV2tMRG9Dcm5kdkdHWEFyMkR6S1VtQ1VlZ094S1hzaVBZMGZQTGYtRjlvT3FaMWJ1eVRXOXdOcVA0eld5RmM3OFpSbHB3YVBNQjItbm5PcUNHRUw1QTFiUWtkYWg1eWlTbV81OG55RXljc2JKRHlOUWI0YlE2cHh1cW1SRlpmU2Q2Z3MyM0wzRGVveDlGWXRsemxTNW9OYlYtYmN2RDJhRlF4bEstUjJxUW5tekp2enFwcmZ4c2FPNjZ3ejJoRQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Standard",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-26T05:36:52+00:00",
+   "fetched": "2026-10-26T06:04:33.634543+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "65184a1fac8a4375",
    "src_group": null,
@@ -746,6 +774,28 @@
    "score": 0.0
   },
   {
+   "id": "e73c4cea7368ac35",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Newland USA kỷ niệm 3 năm thành lập, tiếp tục mở rộng giải pháp định cư Mỹ - Báo Thanh Niên",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHBlNmFLOEMweVg4eGd0TnRjblc1XzZhWWVYUzdPbkZiNnhIT00wRnI0cVlWbjhQMDZOT3lyMEtucDlGRExmMFptOXF2S3VpSGU3bWx3ZkRndHk0U3g4c3pyd3FOMDdFRno0d2lqYkRTYzBGZDJqaWM1XzN5LUxoX1dDc1h4elNacF9tS0xjYlE0enJvQmpwUWdsaVd1dVVtc0JWczY1bnVPT3RWRTlGNno4SWVBZ1k4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Báo Thanh Niên",
+   "country": "US",
+   "type": "news",
+   "source": "us-vi",
+   "published": "2026-10-26T04:00:00+00:00",
+   "fetched": "2026-10-26T06:04:33.634543+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 4.5
+  },
+  {
    "id": "791a16f3af17918f",
    "src_group": null,
    "src_country": "AU",
@@ -766,6 +816,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "18ebdb873176606c",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "Michael Velten: Why Tax Residence Comes Before Wealth Structuring - Hubbis",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVG15YmJjc25QbWdjNFloNFZIeFZocVAtZUFKNjNPSk9HcjkwN0xnWHVVN0hmR281MGhRMDlyenZELXRUOThEcF8ybmVIdVF2eWRQSGU5QWpqS1pFaVZBLTdVdUxaYTl6aDM1TnBVTnlrRmtNNUoyVGRFSDVlbDMtSEZVRTl1YVR6U1htdzZ6RG55Q0ExS2gyZ2hoRQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Hubbis",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-26T03:19:19+00:00",
+   "fetched": "2026-10-26T06:04:33.634543+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "41a9b71ca8dc6400",
@@ -27217,6 +27291,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "d608153149e07b8a",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Recommendation to Sweden on strengthening refugee protection - UNHCR",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNlV5dFpOQzY5WkhjQWgwLUNFSjV4T0FwWE9DZlFPUHppVkpxM3NSUk4zbUk3NmthNlVha2RRaEhVSlZhX3ZwUWlXelowVkR6R0g4bTdieXBQckk5QVh5eWhQTVFpVkNYc1FIaTZSb2p6REJiTWFaY2l3WnZXWmtpNWwzNnJSODBDakRaQ3RQYjRTX2R6MDBGcXJJR2Zjb0JzS29Od3kwSVZoNU9VMlhaWEhVem5zcWRqeXgtb3Z0LVo?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "UNHCR",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-26T06:04:33.634543+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "0cb19e286a14ecc9",
