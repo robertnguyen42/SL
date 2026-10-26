@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T10:15:33.367547+00:00",
+ "updated": "2026-10-26T11:10:30.370500+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 31
+   "count": 33
   },
   {
    "id": "eu-gov",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 32
+   "count": 10
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 19
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "eu-student",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 34
+   "count": 12
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 19
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -629,13 +629,13 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -647,13 +647,13 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 13
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "nz-family",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 19
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -1327,6 +1327,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "1d1ff8ddd8dfe46c",
+   "src_group": null,
+   "src_country": "US",
+   "title": "More Than 70 Rockland County Residents Become U.S. Citizens During Naturalization Ceremony - Monsey Scoop",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeU9XNXVYTUx0Y1VEaU41ZEZ2cGpyOFdZMnJabDlNQ2Q1UHMyQlNJd3pHcTNKSlV0SUdsX3pLMjE5eXZUazNpWnR3QVVPV05MUnZRbnJCMTRNWGNSSkwwWmQ5aGV2bkV2cUJVblI3X1IzZDdmM28tc1VHUDZFNzR1Mk1IZTVNeUxYWVczeE0zN0ptUzh1OHluWFF3dG1FdFBXOEl1bnVZSkpmZENsMUJfdGtkR1M?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Monsey Scoop",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-26T01:05:51+00:00",
+   "fetched": "2026-10-26T11:10:30.370500+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d7e2e1478f12c337",
@@ -1987,6 +2013,28 @@
    "score": 0.0
   },
   {
+   "id": "a632b456bf5963db",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Citizenship Approvals Plunge 72% Under Trump - Howl.Link",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1KUERUOGExaV9mV1RySGlBNkJTTzB0UHRBNkdkb0p0WDFlRFp1ZkI3cl82NWVlaUtNbFNB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Howl.Link",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-24T20:25:25+00:00",
+   "fetched": "2026-10-26T11:10:30.370500+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "7ef27561c845ce2d",
    "src_group": "chung",
    "src_country": "AU",
@@ -2520,6 +2568,28 @@
    "source": "us-en",
    "published": "2026-10-24T08:18:51+00:00",
    "fetched": "2026-10-24T09:23:22.121609+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "60e0a5b193d5cc48",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Citizenship Approvals Plummet in the U.S.: Miami USCIS Office Approves Only 68% of Applications - CubaHeadlines",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iZm1wOFc3dVBTOWJEVExOSWtmQ3FTVk1ubTcxaTZ4WWFOb1VVNkFZZGptZkFRbHhLdXZRZ0RJejFOVzBwRnN3d1BteGVtSXpsS29LdzdPaFk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CubaHeadlines",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-24T07:00:00+00:00",
+   "fetched": "2026-10-26T11:10:30.370500+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -9071,6 +9141,32 @@
    "score": 1.5
   },
   {
+   "id": "7f555652f670d1ec",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "‘Green card’ scam suspect allegedly charged up to $40K per marriage - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2lPaUlTb2l3ay11MXNWeVowZkFYbS1USWVxRzd0aUVpcjVuZ0JtNEZXb3c4U1UtdFV1RmxHNGZyczl6RDhCM3lpd3dEMTQ1U21pdG90VWtxc1J0VlZvNU5IVjEzQjBCZ20yVndSYUdvajhHWGNJYndHS2thNkFlUkQyMlFzUWtoZ3N5ZzRpd1M2TXB6WjZ4UjN2RE9xVXlaTTEzdjhMbzY?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-21T20:55:00+00:00",
+   "fetched": "2026-10-26T11:10:30.370500+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "85885cb1d3e55a7d",
    "src_group": null,
    "src_country": "AU",
@@ -14512,6 +14608,32 @@
    "source": "us-green-card",
    "published": "2026-10-20T05:06:00+00:00",
    "fetched": "2026-10-21T21:01:22.328513+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "ffad0b9424eda9e6",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US government bans American technology company from Green Card programme for two years; fines $1.4 million; DOJ says: Violated Immigration and Nationality Act by … - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOdVg4VzA5c3doS296UTNJZ2w1NF9KYV9UR1ZsdE5aUlNJNGFGWG83WjhzLUN3eEV6Tjl6ZFg2ajZiNXBTYzJwcW1rTVpJMU9sd0QyRHpvNUwzR2t0bmVGZUtxV1ZzbzRYVzJ6YXoyc1Ftc1B1eWg4QzBxZFZSbVl0bE9VUWZKOFJabVA0ZjhKc1lsd1JGNnl4QVVkbU5ra1VOdnFPTE1WZzAwZnc2bzhQeVpmUXBFOTVyS0h1YkFKaWd3dmxyWTNWWEpWM1drOWVDRkJIOC1IMjhYWWszRjhCbkdqLUs4VjkzcFBYZV9CVzk1Nl8yRTFyQVhpTzZYbzBETEx2dWtTbndfSU8xWWF2dGVIVnB6eDBidzh1aDdqMUZhNmY4cVIzOVh1ZGRjMlRXcWgwVGxxS0tWQzRVU2RKd2FXbWl2N1RTSmg4MWpqTXV1dFFENjQyRHQ4MXlfZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-20T05:06:00+00:00",
+   "fetched": "2026-10-26T11:10:30.370500+00:00",
    "visas": [
     "green-card"
    ],
