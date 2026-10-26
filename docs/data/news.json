@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:05:31.824285+00:00",
+ "updated": "2026-10-26T22:02:10.079907+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 32
+   "count": 34
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -311,7 +311,7 @@
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
@@ -437,7 +437,7 @@
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "ca-express-entry",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 10
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-golden-visa",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
@@ -617,19 +617,19 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 22
+   "count": 11
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 16
+   "count": 14
   },
   {
    "id": "nz-investor",
@@ -659,13 +659,13 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "nz-sheet-chung-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-2",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 18
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -723,6 +723,58 @@
   }
  ],
  "items": [
+  {
+   "id": "92934f816670cfe9",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "State Department Pauses Visa Issuance for Approved Applicants Amid Public Charge Training - PravdaReport",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1FqcDl3bjBQVHBWdEUxM0NHdGUzVFNsOEwyUURJRGtzWnljc05YVXRpY2hxMUZUSlJia2RwTXRyOGpIUXV6Zm01WmdPUFBoX3lwNnZhZGJ6aG5aSDdyRThmbnBEaGR3bTJyVTI0a3lqQ1d2RUxIUEJ0bDlwZEtlanJIQ2tfUFFQZUhCX2tmMWFxVlNMV0xmM3JSNTl6MEd4VjczSHc3bjc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "PravdaReport",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-26T21:38:01+00:00",
+   "fetched": "2026-10-26T22:02:10.079907+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "832750d741662807",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Refugees Fight DHS Green Card Freeze, Termination Rule - Law360",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOG5SMVhzYllqNEFnb0VoZWJfY29GOHd4OHJkaXdCejJ1V1VXcnZBZGpZRHVQbXpUWGZyRlJGS0FqLXp3QkVWYXFUc09pQl9xaEl0N01BbVlreHZMRHhjTG1WMlpOMGMzUmU2bXlMa0hDbDRaUld4LXNWbG9OZDY1QTZkNFBPVlZPQmFQcnE3bmE1dG85SkRHatIBVkFVX3lxTFAtZ1VwRjZOa21hbDhzWEo4SHU0YmYzRWo3dXQ3QjJiWEt3T3gySFNsYzdmSWtiVl9JdkpmNnVQUG1TbC1iRGZrNS1Ob2xhS0NLS1p1UDVB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Law360",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-26T21:12:20+00:00",
+   "fetched": "2026-10-26T22:02:10.079907+00:00",
+   "visas": [
+    "green-card",
+    "asylum"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "f02b93b5dcfc8f09",
    "src_group": null,
@@ -750,6 +802,32 @@
    "score": 4.0
   },
   {
+   "id": "440588919fe75e88",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "ETIAS: A New Travel Authorisation for Entry into the Schengen Area from 2027 - Ministerstvo zahraničních věcí",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MOU13T3FRZGJXcHBLNGNVWm9malF4VzhObTFZX2p0MTJfYVFJN0dWbXFJTDA0eFAxc0V2V2xhanRPbV9YUmpvUVBCSDdfd1NhMFFxd0xQY1Vqc0MycGVyTmJ6MlZnOWlEWmZFRVVBQUQzY2diNDdkT0tCVHI?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Ministerstvo zahraničních věcí",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-26T20:14:00+00:00",
+   "fetched": "2026-10-26T22:02:10.079907+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "ce60addbf1f31cb7",
    "src_group": "chung",
    "src_country": "CA",
@@ -774,6 +852,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "4ab2bbc49d93409d",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "SC imposes travel ban on Keheliya, four others - Ceylon Daily News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjJVVTc1bC1BXzZyUlR5Mks0THVubVhRSC1nbGVWQnVsNXdWQ0tTRHRSeU01UmtFWUtodklXQlJDUkNGOEN3WXB6MUI1QkQza3A0dmN0X3JpcTN6Q1hnbTVsUi1UOXY1OXVkREN3RzNmUUlLNkFCcFFzVmFMNHdlaVdkaTJ6VUR2UkhwS0gzY2thUnZJMkZuQVc4TmYtMUhDQ0E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Ceylon Daily News",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-26T19:54:28+00:00",
+   "fetched": "2026-10-26T22:02:10.079907+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "5d7e7ce37a86de05",
