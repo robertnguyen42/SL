@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:51:13.726194+00:00",
+ "updated": "2026-10-26T00:39:11.726902+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "au-en",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "au-student",
@@ -269,13 +269,13 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "au-parent",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -455,13 +455,13 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "ca-work",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 11
   },
   {
    "id": "ca-pr-citizenship",
@@ -527,7 +527,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 25
   },
   {
    "id": "eu-citizenship-investment",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "eu-family",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 18
+   "count": 40
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -719,10 +719,78 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 15
+   "count": 9
   }
  ],
  "items": [
+  {
+   "id": "2c0e9be6304d7baf",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Earthquakes swarm offshore Vanuatu - Earthquake Insights",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR2JtYk10cGVLRHlReUViQ0luekt1elBVSlZ1RkhqRHlyS2ppSDg1a3A4OFo2eHFleU42UHd4UmVvQUIzaEN0emplTFFZZ01zeEpUYW52UjBRZllpYi14VWNNU0VjN2U5c2x2bTl4R1NBNGtQajUtZ0VIVzRHZGpZYXdn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Earthquake Insights",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-26T00:35:07+00:00",
+   "fetched": "2026-10-26T00:39:11.726902+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "03e81f73d13ca7c5",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "WA Premier hits out at Labor’s backpacker visa changes - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOFJkNkxDYmhpVzdvblc2ajJVaThUYW1BOTkyQTNYMDRzRExsVW1CSElYeGZxOGNnMkM4dzVkNmVCWkNXT25oQ0xoUDhnVjMwdzQ5NU9JOTd4MFNOYk9RQmVlY2RZWWdiUXM4eGQyNUEweUpaVGlDZnpnZWtFV1AteGtpVW14ZVZ2WU1GbXNBN3I1NjhuZS1QX3ZUOVNZaV83eVU2c1FfaWg5NHcxVGUzd3N2ZmlFSUdCRzVtMjA2UHNGcnhwUDgwazRVQlBNTmR6bDlnNVk3cktVVk1vdVo5S2FqazFSWmEtQzVWUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-26T00:04:03+00:00",
+   "fetched": "2026-10-26T00:39:11.726902+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a9c9e37d7e8e13e5",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Americans Lead Global Demand for Citizenship by Investment in 2026 - CEOWORLD magazine",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGdtUG54WTdhb0x2OTczX0dCWWlDekd3R2tWU0FUdm5wbThOQXB5clA0OFJmbXhYOWxUNXMtdm5MYTFIUnFNblNaMWZ4dk9YaE1mbFc5UzZ1YTNzcVVGRm9BOEc2LUpISFN0RlFONHhMclRCVUZtOUF1X3A0MnlnQVd0aFp0c3pYQWZ3SWhQelhTb016ZTZJa05IQi01cXpP?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CEOWORLD magazine",
+   "country": "US",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-25T23:56:59+00:00",
+   "fetched": "2026-10-26T00:39:11.726902+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "a74692c25bc23471",
    "src_group": null,
@@ -748,6 +816,28 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "84e279e6d5052c9e",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Argentina Launches $350,000 Citizenship-by-Investment Program - CEOWORLD magazine",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVlCNlpTOExCZmVpMnliUUhPMDhEZERkakFCZDBQWG1OM2dfQm42QnBhS01LemlOVjZudXJuZHYyMlVudThXOUhWQk9rTmg0YmNocm5RWFVtYVQ1aDNqTlZ3dHR1NTNxS0c5MnNGcUpLYjhMQWxRRXRHMENfUjd2VGRlam4zdHlGV2p4Ymk4S2ozSzZYWHZj?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CEOWORLD magazine",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-25T23:36:59+00:00",
+   "fetched": "2026-10-26T00:39:11.726902+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "76d3f05b850e4768",
@@ -3995,6 +4085,28 @@
    "score": 0.0
   },
   {
+   "id": "eebdd92778556219",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Westpac to jack up interest for Visa, Mastercard users - The West Australian",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQamFESG05WVhhLTBQbzhfWXVaV2xJcTMtUVIwWG1SR0pyMGdOYVg1WUt4ZWFjYlgzMGFsSTVvU2hnXzgtTGJ6dDd6TVY2NnB3VE5EaGMwX1VfdHhJSnAyZEV3bkZRNDFSRGZNTlBieFMtYXVDd2JKQWJkODh0WFJYcW1tVFhiRlVKM1ZaNkVwTXUwbEk5akw3TUV2cDlqYmxhTWhSaWMxYTQ1d1hWMmc1M3h1LUJndTBBRGprc2U1Ym1TVEVfeFNNaVJKX180WFNiNFl0OHVDVU9wWktZalZwSG84WlhPcmNJTlFv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The West Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-23T08:07:00+00:00",
+   "fetched": "2026-10-26T00:39:11.726902+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "c5726ede2d110765",
    "src_group": "chung",
    "src_country": "AU",
@@ -6397,6 +6509,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "e5136d13857fa265",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "New Brunswick selects 63 AIP candidates for provincial immigration - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekR3elhvdERRS1RnZkxyU280b0lVMTJLWXYxWUcyY3JtUHUteDhPTkVHSUZ4Slo1b1FMU0ptOUROa285aVFaQ055WDZuZzBsbkVpbmpuQWVTUUYyZnR0LUh1R18tY0p4aEhhbFlvX1lZV1Flam5EcXJpeGhrWmZrYzMwVlpvVmwyWjhKS2NxNTdXckdPQ3BrSlUwOXYwdHRYY2FpYUNrSlB6bHlsWmdCStIBtgFBVV95cUxPU3VHNXIwby1sOU03eGZsZHZqa0UxTHRzTlduTC1KekNXbkQxTWc0djctTEtRclU3TlFUWHpkQTl3MHgzek9lNy14UGFIMGRrSXZZRjEtYWtTcGtFY0Z2OFFyMWliXy10MEl2NEVqYUlyUjhla0tENzREek53MUN0dTRUMUpnSVJhYm9tSTMxWmNwd0lIRm83RUd1eWxLU0VDc0FsenB6bmdXZnV2V1k4NDlmOVpQZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-10-22T11:05:08+00:00",
+   "fetched": "2026-10-26T00:39:11.726902+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
