@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:39:11.726902+00:00",
+ "updated": "2026-10-26T01:40:09.505691+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "nz-gov",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "au-student",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-investor",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "au-sheet-chung-1",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "id": "ca-student",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 11
+   "count": 30
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 19
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,13 +521,13 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 38
+   "count": 20
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 25
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "eu-family",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-aewv",
@@ -695,7 +695,7 @@
    "id": "ae-sheet-chung-2",
    "name": "Sheet – Dubai (UAE) – Chung các loại (2)",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "id": "ae-sheet-dau-tu-1",
@@ -719,10 +719,62 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 9
+   "count": 10
   }
  ],
  "items": [
+  {
+   "id": "b1cde601bbc5e8a0",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia’s student visa shakeup could send up to 30,000 Bhutanese home - Asia News Network",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejVJdjNfWU1DWndRQWlkdG9vNnVkdnlXTl9Jbkl6T3FlS0dvX0R6bjlEbUFXZ3RUbFBHSFRsWmlvTDlVMEZiRk9zcXdMUjJCc09tZ1JUdTA5aktRcUZFQUpja2tXUWFGQ0VGbUs3cUZhejEtd3dYT3Y4cE95MUJGZUptQ2Z0bW5uQVFubWpvSHMweVRwSU5oa0w1cw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Asia News Network",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-26T01:19:20+00:00",
+   "fetched": "2026-10-26T01:40:09.505691+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "d7e2e1478f12c337",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "Greece Targets Golden Visa Abuse Over Hidden Rebates - Greek City Times",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd09mVlJYNHMxSjdoUTl5UG5WNEV5VnI4LVJWM1VPdDRSRlRnM1czdXBwQncxWVVLbzZ1Wld1Nml1TUp6U0lqRHhQTEVITTNtSVJQbE9LX2ItVGlwcTVqSHlXYUt1MWFLNEM3Y2tKVWtUSThRZTIxdWdUWnNJWGVYd1FXOHBpZmNfMzZRWC1ET2hFTE1lcnc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Greek City Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-26T00:48:54+00:00",
+   "fetched": "2026-10-26T01:40:09.505691+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "2c0e9be6304d7baf",
    "src_group": "chung",
