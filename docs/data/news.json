@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:29:49.060476+00:00",
+ "updated": "2026-10-26T03:09:50.061322+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 31
+   "count": 39
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "nz-gov",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 28
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 35
+   "count": 17
   },
   {
    "id": "au-student",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 33
+   "count": 31
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-golden-visa",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "eu-family",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 13
   },
   {
    "id": "nz-post-study",
@@ -60296,6 +60296,35 @@
    "groups": [
     "chung"
    ]
+  },
+  {
+   "id": "994000081af6542d",
+   "src_group": null,
+   "src_country": "US",
+   "title": "OCTOBER 2026 VISA BULLETIN: USCIS to return to using the Dates for Filing for both family and employment-based adjustment of status - New India Abroad",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZjl6TXFPQ3lZUFBrSzFhbThDV3RNVkxYVUZZSlpIek5DdzEtV3RaRlFUenhMVzViYU45clEtYXJ2YlFTZWc0ZzFVbmROVzBOaWhkMklXXzZMMDR5UlBXVjhLZHhXdWhpR0VoY2JrVEhyOVphNXRhSzRJbjZDdWM2TDkyaEdSenVQcF9aTDZUeGFOak1HVVpGeFVTRWpfUzB5dkxfZ3pwd183QzltbmJaMnpYOElRenM1NnhmdUx6ZUlnZ2o5dlhyM2pUZVFfc3p0cW1UbXNPMTJkYnJGMFdFbjNKdVdiUC1mZHRmUU1EcmZITFIxOUR6cnJVMUw0eWZfMTg3dmN0YVhiaDI3M1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "New India Abroad",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-01T16:21:39+00:00",
+   "fetched": "2026-10-26T03:09:50.061322+00:00",
+   "visas": [
+    "eb-work",
+    "visa-bulletin",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "8771093692fc5978",
