@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:39:02.678303+00:00",
+ "updated": "2026-10-26T19:37:33.625220+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "eu-gov",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "au-student",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -341,13 +341,13 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "us-eb-work",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 28
   },
   {
    "id": "us-visitor",
@@ -431,7 +431,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 37
+   "count": 19
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 21
+   "count": 26
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 37
+   "count": 21
   },
   {
    "id": "eu-golden-visa",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -605,13 +605,13 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 16
+   "count": 39
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 11
   },
   {
    "id": "eu-sheet-khac-3",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 16
+   "count": 14
   },
   {
    "id": "nz-investor",
@@ -647,13 +647,13 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 12
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -719,10 +719,34 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 15
+   "count": 16
   }
  ],
  "items": [
+  {
+   "id": "0ad2329d12c55e3e",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Hai Long, East Anglia TWO among offshore wind projects reaching key milestones - Offshore Magazine",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNk9ES0g4NkozRFJpOTFLXzZ2MThVamdwNURQVXZkWHFEMXNxS1BaX1piclpYRE8taTNiVkdlS0doXzh6RlRGTi01aUkyQ2p4dk5JRGhVTlJnSlNtRmdlUWlzODZ2dktaNVgwdm5lVkVaQXlDRUU0dm5DLTRJQlJ1T29qYVR5TUhlY1dfelVnd25UVTV3WHZ1YUVBZlliS2Mtb1hIMTlKVXFQRzlZNzBrV045RGFlZUN6ZXpibHBlakNxem1RN0piX1pNTzFndE1aMTZv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-26T18:51:24+00:00",
+   "fetched": "2026-10-26T19:37:33.625220+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "3baaae37b1f6dda6",
    "src_group": "tay-nghe",
@@ -894,6 +918,56 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "c7a7d48fb17c73a6",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Work visas under India FTA worse deal than options already available, lawyer says - RNZ",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZXpORWhzMkNOWklBNWhjRWhwUlNkbVNPOUI2NjB2U2laWWd3ZUctSmVGVnlmM3RvdWJZazdadXlfTGdVTTQ4RWFnazFpeUNMTzJtWTZOSDJ6eDFmWWZkWUtNSzZhYjZ6UUVXbGVsWF9ZRUV4OThtejhGUXFwS3Z4TU5hbjZpQ1FkallUZ1ZtOURNNXpWZVdsQXFwVDhYYS01OXdoaWFkeXl3NjNVVFZOV0U3c0hVcjZhMnJJSHRHX09xZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "RNZ",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-26T16:50:46+00:00",
+   "fetched": "2026-10-26T19:37:33.625220+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "d768c44933e6c41e",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Jamaica Government Imposes Travel Ban For Public Sector Officials - Caribbean Today",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc19PalpRenRUMC1RQi1MNDRKX1lVTG4xNWFwMUhfYmg1R2lsVjB6U0diTlJHdVQ2MEsyM2F3TU96TzVuSTlIWVY5SUtqSld4bkpnZU1ncjlrWGxWYlh2TjMzYkNTeHBQLTdQazRuVXU2ZGdZRkl6TWtHZU9uWTQtamtod0QwVUxBMHpPbEExMnQwdFRWOVAzYnZZQVhoeXFMNVVOaXF3bUtjMkFVSURNaU8yaWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Caribbean Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-26T16:39:27+00:00",
+   "fetched": "2026-10-26T19:37:33.625220+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "c68e97f2fd3b9bc3",
@@ -2684,6 +2758,32 @@
    "fetched": "2026-10-25T12:28:58.348215+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "3d6f94e41ebebccd",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "F-1 Visa Rejection: Is There a 300-Day Wait for Another Slot? - Tupaki English",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVM4SEJBR29hVTg0b25ncm1EekdwYTNqdWpsSnp1UnZxQm10Y2R2alJISW5iMVNTRjVjdmRyX1ZpdVdZVVhnVWNOa1dSYV9XWTVuLVRyc3Z0RVhqYllwUzFRSWphS0hJMXF6UTlEWUVCeWkydXlBVEFmd1g0V2JhOTl4ZFh4anRTeTV1eXlyTU0zUXJVaDVJLVVn0gGfAUFVX3lxTE9PVkZnZV9Jd2tsRXo1S1ZqU2pHeUR2c2JPbTJaZTgwSHU5c0NISm96YlNOWlZ2SEpFaUJOdzRHdVRiQVpGVC0tbk9lUG5odmtuMVRiNDJjU1RiQzhBNVNtdGhOSkRkYjByN3NYMncyNHJhR2F6bHpOVzNKOFFWM0FMVVc1QVEySVNuZVpybnQ0R2pkUms1a2pUVVZKbElLVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tupaki English",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-1",
+   "published": "2026-10-25T04:53:04+00:00",
+   "fetched": "2026-10-26T19:37:33.625220+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
