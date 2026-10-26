@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:18:47.314036+00:00",
+ "updated": "2026-10-26T09:15:35.559376+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-gov",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 28
   },
   {
    "id": "au-skills-in-demand",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-investor",
@@ -299,13 +299,13 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 23
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-visa-bulletin",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-sheet-khac-2",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 7
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -527,19 +527,19 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 12
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -551,19 +551,19 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 19
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 10
   },
   {
    "id": "eu-schengen",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 18
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,13 +617,13 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "nz-aewv",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "nz-sheet-chung-1",
@@ -677,13 +677,13 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "ae-sheet-chung-1",
@@ -719,10 +719,82 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 16
+   "count": 10
   }
  ],
  "items": [
+  {
+   "id": "8342ca681caa7195",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "Americans for Prosperity drops support for Martina White and other GOP lawmakers over their prevailing wage vote - Inquirer.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeXVjamJKdmtsRU1adjlJS09ya2ZmbXVvM2dOTkZ5Ymo1cHp5STNTeXFVWFlTUkY5SHZvdFBlcGNHSHNzSmJObVBpd09kQW1VRWxnT3pRc1dkVkxKRVdTaFlqTFE2bHNSc2NndDZlbGQ0RXZvWFF4bUQ3dG85UERMeDAydXcyVHdydncwYnJnWGxFVUlxS2JlNFpJY054dnZXcGRWNg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Inquirer.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-26T09:01:01+00:00",
+   "fetched": "2026-10-26T09:15:35.559376+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "9557563e306d6a81",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australia tightens visa checks for Indians – fingerprints and facial images may now be required - The Australia Today",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXp2S0o5ZHh3TjdUUmJOcXYzQnh3eXRDOTFlMU5HazNLMExnMVhjb3doWjV2Q1N1N0t3WG5idEw3bzRsOEU2RVFaa29lc0RMRnZUaHRaYjcteENuVUhhckR4TzJpbzg2M25DVll3UVR5cS1CengxWlJfWkNTZ21DSFZMcVZZZkpmQXZkRkk5OHUzNWl3TjBvaGc3QWI0d0RuaFA1VEFxWjBYRG01T2dZRkxVZlBnTjZLOTZ6VDNuMUFTWkNmLWpZb1l6TQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Australia Today",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-26T08:47:01+00:00",
+   "fetched": "2026-10-26T09:15:35.559376+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "61a9b262c94a6214",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "NEWS: EU bank lobby pitches regular boardroom talks with EU anti-money laundering authority - AML Intelligence",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSmZiZXFVUjlqc0RYVE9CbHl0eDFEQjJGVDF5T2t3eVRHbmN6YS1mbHdIaVZBdllTYm43dF9aVVJtYTUzS3RLeEZIeV80RUt2VlBvNjZfa2RvNHk1RWN2V2pzOHVkbmwtRWNfZ1U4WHZpbWFpem5zTzFyMm9KWHRSLW9Vems5c3NVc3hyZlVQSDFZS0RrVk51VktSTXQtWWVPcWtsU2YzdGtObVRjMVZsYnVJa0FZalJ5YjdFbU1qYThWMms5NlE0Q3RsTQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "AML Intelligence",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-2",
+   "published": "2026-10-26T08:35:18+00:00",
+   "fetched": "2026-10-26T09:15:35.559376+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "2c6780f9344770eb",
    "src_group": "khac",
