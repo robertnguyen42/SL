@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T17:33:45.080242+00:00",
+ "updated": "2026-10-26T18:39:02.678303+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "id": "eu-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "nz-vi",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
@@ -437,7 +437,7 @@
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "ca-express-entry",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 10
+   "count": 32
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 19
+   "count": 37
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 25
+   "count": 21
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 20
+   "count": 37
   },
   {
    "id": "eu-golden-visa",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "eu-digital-nomad",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "eu-sheet-chung-1",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 16
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 11
+   "count": 21
   },
   {
    "id": "nz-smc",
@@ -719,10 +719,136 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 15
   }
  ],
  "items": [
+  {
+   "id": "3baaae37b1f6dda6",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Time to Review Your Express Entry Profile - Changes to Express Entry for High Wage Occupations in Canada - Pryor Cashman LLP",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcEgwSTdNbUk5OEYzYjBZMDEtRlpDbXptdDJYbzRZVHZkN0xxZE1mNGtvOFRvQUMyTkpHYVhPRGRKZEVyN1lrUnJWMzNkbHdNSDRFd2RMano3RnVrdWh5RC1TN0FfWVpxTmY3cERidzAyVHhuVDN4S2U4bk9rOFA2LTdzc011cU96U1VyYXFDUW1KM1Z1cS0yV1NZc3VsblI4aWxEbTdjS3J3MExJbE9ELUNqdHpQTVY5clJnRXdyRXBRV0lPUEN0ajBhY2NpWUJaNmd2YmlXNHhOSnZS?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Pryor Cashman LLP",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-10-26T18:34:33+00:00",
+   "fetched": "2026-10-26T18:39:02.678303+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "ff82411df36c719b",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Short-stay school students are paying the price of Australia’s visa policy - The Koala News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZW9fSWRhTTJKWmlQbW95cThkS2VoS2pnVFFhNXNqc1ZtX0k0aEtwbzkxMWhMbGdRNTFIeWVibTZUVENuRHMxZmh4R0VxajJQUVBkYXdJTWZvWjVuQ2FkWHBwTnBHMHE2U0cxMFpid3dPbGpCa185RVR4NTQ4UXBpR1pIaXY4Qk5JcTRzN2hSVzBoUVAwMWlUaWpEWTVzem84?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Koala News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-26T18:30:59+00:00",
+   "fetched": "2026-10-26T18:39:02.678303+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "bbe6ffb21a30f597",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Indian visa applicants to provide fingerprints, facial images under Australia's new rules - The New Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV2swV0RhdlFCdHB0TG1FT29KWlZuWF9oMG95d3dRdUN4T2NRaGhTYks2MU5JN2ZVbEx2cm9BLXZKRmxwWVJHblNhOUMwc3ZQcXN1dnM3RzFibmNVQmRtY3RkWUd2aVJvMlFiVm9kR1huNl81cllnUzFkbWctcExicWo1UUdrRHlISGxtNlJzVGRQbUFBUEpCMFhUblJPVmozTGg1a2VHSDhOcDh0VzR4akNkTUpQM1hGVk5WZm5WLXh5a0dMN3dvdE5MaW52N2NfaDNiStIB4gFBVV95cUxOeExHOEhMdTlhcnQ0dzJQckozT3FwWmlvejlOOHdfSVRfUDZFXzZmMjMyNVl4QWtJX29uVUNlRF9pZmZqX3lBYVhPa2MyQWM3RktOdEtUbnE5SWdiZVE3REtKSjNMTUs1MGJWeW5SdHAtUWNZS0pMVXRham9odDM4ME9QaWlnOXhPSnpVRElxNUhwaUNrV3hNNXpxdjJ1U3BPTVVCVkpVSHlWdXBoSGFVVHFka0daOVh4azM1ZTVkc2l1RklqVWY0aVp5dG5vRnREV09hS0FNQVU1TFpQU2w5bVhB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The New Indian Express",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-26T18:14:06+00:00",
+   "fetched": "2026-10-26T18:39:02.678303+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "98c75d1333b96716",
+   "src_group": null,
+   "src_country": "US",
+   "title": "The FP Visa Bulletin for November 2026: Dates for Filing Chart and an Employer’s Immigration Action Plan - Fisher Phillips LLP",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTlc0NUZVYkl1RE05d29XYVVPRHFyX0ZpNnp6RU5ETkQtOGJ2c1pPc2VWMUJNTTNhYkdvakRnZUFpa1YzTm9QaDVNR19hdWNjTVJaVDlnb3ZaeklYeHFVZ1pFUHNfdGs5RlU3LVhPUEpCakdTVkNQY2E2TTNTbXdWaG1oQ0RrY2pobTdvZG1fVUI4aWhE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Fisher Phillips LLP",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-26T18:10:45+00:00",
+   "fetched": "2026-10-26T18:39:02.678303+00:00",
+   "visas": [
+    "visa-bulletin"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "235df94a857d0472",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada selects 792 provincial nominees to pursue permanent residence - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcUZtN2VHMzRIcncxdGtfbE45bU95ck9GSGVONmpFZ0VMNG5RM2NIMzVkWHd2N0pPMHI2S0JfREQxbWVZbUlNcnFVUmRnQmFxZV9scE1wWmRFTmhWSFAzSkpHRTc1UjAxckt3bWFESGdXVzlJYUgwQ0RrVFBEZlRvT3FaTm90OWVxNDl4alRSTVVhNG1SRkJJOElvUVRpYjRLZjNpcjZHdDJPSklTSG9CSklYMNIBuAFBVV95cUxNM1owR1o4R2FBd3V3NXRuaHBPRU1xR0ZiN1NyLVVHOEJaaHJLdTB4czNBS0Fzb2lEdWVJQzkzOGt0Y0hJc0REU0wxYVQxN2tSMEN5NEhHNzdzbjN5XzViZjNjNmNja3hyaVRzb3V1enlEaklxOWIzUVB6d2ZRUUpUY3ZsYnl2eVVQTVZPTkJGUW1UTXM1enk2eUU2eVktU3M4Uk9RcF91cEtlQ2tCbXhYZ0RKM3R1c1Fm?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-26T17:48:45+00:00",
+   "fetched": "2026-10-26T18:39:02.678303+00:00",
+   "visas": [
+    "pnp",
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "cc9efbd8a1948e04",
    "src_group": null,
@@ -794,6 +920,30 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "66180596aac47d41",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "The Central Bank of the Russian Federation set the official euro exchange rate at 90.0935 rubles on October 27 - AKM.RU",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHl5MGUxaG9TN0R0bndzR0djX0J2VFdGaEwxcUdaN0VtM09QcHM1Ymo4alMzbkp1b3NOTGxSaDNXRE5jS0hOQ1JSSGxKMFlpNElUekg4ekRqemo3WFY1NmtnYTRVWUNDTnVNeGgwcFNmTy1KSFlpZDNHREpmMUVGS0hJanRYNzViLUg1UGhqNWRHamc4azl6cE5LVk5BUk1PTnlzcTF6S1JvYVE4QUFWeTdadEtJX1RkTUc4SkpBV1BqTFA5Sy1STQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "AKM.RU",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-1",
+   "published": "2026-10-26T16:19:55+00:00",
+   "fetched": "2026-10-26T18:39:02.678303+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "494faec4cf557a53",
@@ -15064,6 +15214,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "c67e7074fdcb6b91",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Austria Schengen Visa Trends and Statistics: 2014-2025 - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11SmpKZlRqWUU4Tm4tSXNXS0E4Q2NLeW5MUFhydzZPUjRjRHFzNjd4YjlKNDAwQU9KS2R2OGpTQktHY3JtU2ZxR2xZaThMYTV0aE9uZXJ1cTNpYmg0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-20T07:00:00+00:00",
+   "fetched": "2026-10-26T18:39:02.678303+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "54e46fe59ba3358d",
