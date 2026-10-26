@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T15:33:23.720824+00:00",
+ "updated": "2026-10-26T16:42:10.423110+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 35
+   "count": 33
   },
   {
    "id": "eu-gov",
@@ -227,13 +227,13 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 25
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 35
+   "count": 33
   },
   {
    "id": "au-student",
@@ -299,19 +299,19 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,13 +341,13 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-eb-work",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -437,7 +437,7 @@
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "ca-express-entry",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 20
+   "count": 37
   },
   {
    "id": "eu-golden-visa",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 18
   },
   {
    "id": "eu-sheet-khac-2",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 13
   },
   {
    "id": "nz-post-study",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,56 @@
   }
  ],
  "items": [
+  {
+   "id": "494faec4cf557a53",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "UAE Lists African Countries Whose Citizens Qualify for 14-Day and 60-Day Entry Visas - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR1JKaVlaeW0yOEh3OWw3Y3dheEFOVDEwTGFadGlHWEdOYmRUdXpjZ1lXYkViS1RnZjNqOVF0cDF1NU9Sd0VHWHNaU0JtTm1DT3NfakNOMDN1ek11OTd4VUtCN2xBdGQwam9PR0FmdjA4MWJPUDM0VlA0QUxkaURUZmhhZUdXYzF2ZERocjEzeHN3TWdLNW9NUjYtR3JuS2hTR0stNzFR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-26T15:56:34+00:00",
+   "fetched": "2026-10-26T16:42:10.423110+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "bc065c020b2524a8",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Older workers, non-permanent residents take greater share of Canada's retail workforce - Canadian HR Reporter",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSm10M2lwMk1OOHVLOV82R1RKczR5NFhSX1VubVdyN25iWlJaSUJxUzhiUjZPRjg2QmxycmtKYVpFSV8ySFlCNzVPajFpRkJGR21EQmtXS1JhbjVZOFBkbjNZVTcydTRiVm9EWFhVNVVKU1MydExvMkRYcUU0cmpLb09ISmdESVZmVW9LNVpjSWNINldWRHJRQlNzZGhJUlFqNFpkUnJXYnoyMlRGTE4tcGZrckRSenl4MU5pYWZUNmtOODBzVy1hTGhRUHVOcnNHRGJQanM0NA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Canadian HR Reporter",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-26T15:36:46+00:00",
+   "fetched": "2026-10-26T16:42:10.423110+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "a9e2de8f8ebf06c6",
    "src_group": null,
@@ -1240,6 +1290,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "82e7aaf8245b6ec4",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada K-12 International Student Enrolment Falls 4% as Chinese Market Shrinks - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWUdoTEU2ZzJoLU02NTNxXzBlOGE2NVhDZTlIOUwyMnRGbklMMkRPeF83akZOSkhnTnZBOVo1VFh1THh4SXdNLUt4SFZkSzNqTWl3TEV5STlOWXMzc2hSSjhISUsyb0NxeDNwUkkwV0RMWVlTR1BMbWtDVnJsSjg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-26T08:51:36+00:00",
+   "fetched": "2026-10-26T16:42:10.423110+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "9557563e306d6a81",
