@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T16:42:10.423110+00:00",
+ "updated": "2026-10-26T17:33:45.080242+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "eu-gov",
@@ -227,13 +227,13 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 25
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 33
+   "count": 35
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -305,7 +305,7 @@
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "us-eb5",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -437,7 +437,7 @@
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "ca-express-entry",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 10
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 38
+   "count": 19
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 37
+   "count": 20
   },
   {
    "id": "eu-golden-visa",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "id": "eu-family",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -605,19 +605,19 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 18
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 11
+   "count": 8
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 21
+   "count": 11
   },
   {
    "id": "nz-smc",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "nz-post-study",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -683,7 +683,7 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-1",
@@ -723,6 +723,78 @@
   }
  ],
  "items": [
+  {
+   "id": "cc9efbd8a1948e04",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Sen. Moran Calls on DHS to Establish Permanent USCIS Field Office in Southwest Kansas - KSCB News.net",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1JWQmFZMVFPUDBYRUhOT0pJWFhZRkQ1aUlPMEVaR0lhN2hHeHBfQTZIYUpDR1lYeDd0OVpKZ21GWS1nWlpibWgzS1ZfOURja1FvSFBjazRVa1NUNzNIOUctbk84SDF0YXg5bjVxQVJ3REJkV25VSmVvcVQ2R2ZEM0xCUk1fVTlkUzFLbzhOSi0wUmFwVTllVWMydno1eHdBVGlRd2lTMUUwdFIwNHI1WkdHZDgtOXJhdG14bVZn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "KSCB News.net",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-26T17:28:23+00:00",
+   "fetched": "2026-10-26T17:33:45.080242+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "acc168c35a98df87",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Planning northern lights trip? What Nigerians should know about visas,costs - Tribune Online",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVZiUTR6Ul9Mc3hUUFVjNG5VOHBIS2FJcXI5UGJfVjczLWRlZUNVZHRHNFF3WEEyY0xnVnlxU1dlbTdrOTMyTmhKNVNGejg2SVQtWWdXbGpJaFZsYWRIcmJQMGlVdFR2Wmo1ZjVxbklPd3ZyREJrQkhzdjc1M2xMMWF5WVZjU2J4UkpZYlRlSzBRRVV3TDJWMFlVYUtfSEJUM3lJMNIB-AJBVV95cUxOQnlpYUVvUDdhenUxVFRCYWZBZEdqVlljYll6LWY3cGd3ZkxSbDNiQTZvLWhLMHN0c0NNak4ydFFoMzN4QzhSSTEzS1k2ZEZpUUt1UTlXNnQyQ1ZOQzhIWHlKejgzN0dub0dybUM5dEFEYU5rSTc5SGtFZ0VlRDdiTnVwdVpKTTBNS1RCMVNJSnZabFRZdmRfTmhFcU95N2Y5dTJtYzN0dlVfeWMxMFhRMnhscWZvUkNVVkozT1JUdWlNRTZXZW9sQk00NHFCSGNvS19HaUhFQ2k0V2pqa0ZyRWhuU3M2N2swTVFibXkzWEJrTmxmZk4tTlNJT1J3TVkzWEpnMkQzZWpYLW1ldHhwWk5PSlZFVkpNSlVMa04wbjhaMmUwd0p3VGdIMGdfWWUtUDJWQUl6Mkctekk5YkhHZXprU2JhbEs5cDUwOXJPektJVS1EcU0yYkRBQmFxWmpZYUVIY0EyTmJ0TktsNXFvOWlpZEN0d0N4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tribune Online",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-26T16:57:00+00:00",
+   "fetched": "2026-10-26T17:33:45.080242+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "c68e97f2fd3b9bc3",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "Building an EB-2 NIW Record for Work That Serves Many Small Businesses: Lessons From a Recent Approval - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHBCYmlwUjlXZTByRERGR3loRFZCWHl4UzBuR25QZ0lDUFdfN0MyeTZLRjN6VnhuNlVwUkJkSElyVVdtWlZRNkVkTjBSWS1pTXFvX2t6Rm94YVlJZzEzaFhiRUM2eHBRSVhWNFA2dVZoUU5BX1Z6WUZwb2NHZDMwb21XdGNhWTFCY2l1YjVXdWV2eE02WFNDWmRGOGNMdXJTOUNUOEJIdUhyMnZWb1RDSU1pNEozZ9IBuwFBVV95cUxPejM0OWJOZVpiOXA0My1CU2hvUFpJd004TVIzQnhwNl9UcTdCNHpiZzQxd3BMMWNBZlJXSFAtRnhaSUx1OUZINzFXRmRGbl9IRDE1YzNSRVBybEpvQllOT1VueV9xSXJ1R1V5cExlTVFVejc1RHlQRlJPUFNEZmttYTJ5aXdhUnRQMThnbGc2QXphUUluNk9yZXBySjMwdklxTkg0SlVuZlFYclUxUXk1OTJPSVQ0a1ZFTjhj?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The National Law Review",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-26T16:35:59+00:00",
+   "fetched": "2026-10-26T17:33:45.080242+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "494faec4cf557a53",
    "src_group": "chung",
@@ -817,6 +889,28 @@
    "groups": [
     "khac"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "602967cc9c475f9e",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Canadian-born dentist detained at green card interview - Oral Health Group",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWE5fai1pMFdtcGhsbS1aN1M2MWxxQUZEclZrRmJLMERmTF8ySW94eVRzakx4T0diaEpqZGJpalNZREdxeHZyQnpfclFLVlpFeG8tdnI4QmNjVXdRTkFqRHdEd0NhMW92dE9qYnI0aWVvMjBmNF9RRktDNFV2bXB3aWx3WDVWSm1ueWJ3cDU4QV8wR3RQWWRRTGNYWTJqY2J3NTVOb1BIWDVWeTF4em02MVFNdHhhbVpOa0QtaUdTdGVFa0FoNUpv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Oral Health Group",
+   "country": "CA",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-26T15:11:08+00:00",
+   "fetched": "2026-10-26T17:33:45.080242+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -3217,6 +3311,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "8c0f2cf769e42fc2",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "The Schengen Area: Member Countries, Border Checks and How the Rules Work - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRWnlWc1JzR3B0UkJhLTdENWg0S2VkRW9pYlRJMjhnd1Z2REViX2Y2TWt4cGNUTGJaRHFvVzZ1Z3pRS2VuWXhzdEtYWndlS3paekRVdEN3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-24T07:00:00+00:00",
+   "fetched": "2026-10-26T17:33:45.080242+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "aa8384c9c1335248",
@@ -6948,6 +7064,30 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "858352e19ec0a1a9",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "46 Ebola Contacts Face Travel Ban as Patient Develops Organ Failure - Nigeria Info FM",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSk8yWEFRSFJkT0FXeTNpY2UxSnlUaERGbXpoNlJPWHdSVTFJc1k3UGw4b1FPOHRHM0RlNXJxUHVTVGt4Zk81YUdibjJMUjRTNGN6R1JkR2Jjc1FxUXcyYk5HQ1N2anpEc2ZJOExOdk96MmY2amIxc2JLdGZ5MFotdnkwUjJwcFVFNDVZMVhxNUJBaVgwODhhRTE4cUJpb1JDbWdWeHhLeEJzOGF3SF9IWWNVdnc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nigeria Info FM",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-22T17:42:57+00:00",
+   "fetched": "2026-10-26T17:33:45.080242+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "c8e3a4a4fa1d8fe9",
