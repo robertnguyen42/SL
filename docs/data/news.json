@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T20:27:21.253162+00:00",
+ "updated": "2026-10-26T21:05:31.824285+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "nz-gov",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "us-visitor",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "ca-startup",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "eu-student",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 8
   },
   {
    "id": "nz-aewv",
@@ -653,13 +653,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 25
+   "count": 27
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,62 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 16
   }
  ],
  "items": [
+  {
+   "id": "f02b93b5dcfc8f09",
+   "src_group": null,
+   "src_country": "US",
+   "title": "The Visa Bulletin for November 2026: Dates for Filing Chart and an Employer’s Immigration Action Plan - JD Supra",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHJYSU5rZzUtVjhrdHY1bWZqb2x1TE1iLXVrYm11bU1OdC1Xbk1fVnRVNDFFb0RRV3hPcEx1VzM4NFlGSjd1djdZakVIMmdiX3l6ZU9MU0lUVzIyN1BzMGQtdDBrTmljVTVfVVBWLXpFSHdzZzRKQmY4MVZhVVh4NWpiUms?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "JD Supra",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-26T20:49:06+00:00",
+   "fetched": "2026-10-26T21:05:31.824285+00:00",
+   "visas": [
+    "visa-bulletin"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "ce60addbf1f31cb7",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Why Canadian citizenship by descent claims through female ancestors often need more documents and attention - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN0prM01hM0UyeEF2RUpsald4RDIwRk5aVjFORThqcVN3UUtzS1c2OEZWUUttdFZqWE41VWN3amQ2aXBLY3NDOTNWMFBPa0dtTmdYRURSQ05lU1FkZ3VIemVkU3JnREhfN09yMmlfY3dfU1lqakNTUkRTWjRmOHFIWVBUSlJvWC1vSG5FcWVHYXdJMHh2eklaNWFpd0NoeGMyVGZIS3BGYmduVzZ0SVFjYU9yYnFGZW9rSm9LLTktbnptQWkyeUNhWFlVXzVpcVJnRFJlRjRBamF1WTJoWk1pUTJKODVCbFXSAewBQVVfeXFMTTlqYTM3WEVUclZfaHAtMmhDWXRIVTJQeFc1a2l1dk5wQzMzMTk3bFpjSnFtQ0RUR0ozRndQR1VUYnFxbFgtTXZXWDkybG5nbDMxS3hXNkZOV21wcDliZTZ0THhrZFR1b3kyaHpkdGVPUkR3dnY1dXJCWERGdG9Xeld6ZG8xNTI3d3FaQUVJUXBSRDNrcVlmV3RBRzN5VXotYnpWdGlNRFJTejVCTW43UDJyUUdlMUpyS0V4cmxxQ0syLTA3V0w2RzBsUWFDSWRYVWplOGh1bXhjZlVzUFMtTUs4V3JzY1RjLXc3d2g?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-2",
+   "published": "2026-10-26T20:08:35+00:00",
+   "fetched": "2026-10-26T21:05:31.824285+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "5d7e7ce37a86de05",
    "src_group": "chung",
@@ -737,6 +789,30 @@
    "source": "ca-sheet-chung-2",
    "published": "2026-10-26T19:10:18+00:00",
    "fetched": "2026-10-26T20:27:21.253162+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "1f9367451d3c0c70",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "India, Canada hold inaugural Migration and Mobility Dialogue in Delhi - The New Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYkdWV2dSR2pfcEsxdEhZcWFNcGZNUGduUC1SNU9yLTIyYnZHaEdiZkhrRGZiM1BMS0dNcU4yRWhFQUk5Sy1TSTAwQTh0X21EUzZ0Mm42amg5U1AyUXBvb0FKXzl0a2ItZXZfQ1NvNEVtNnVOZlJjNEhHMFIwY3F4VVZEa1R4SFlsc0Y5ZmV0WlpxcTJnTWoycXpiQVJaYmxrSVE3T3VuQ2g5bTFSTWo2YTVqaHJqQWxGQWdFcXBR0gHLAUFVX3lxTE1HcFdTNWFXTExFZC1sSzN6YmRvNUpwdGdlUm5rLXhZeC1xSTI5TlRwUi11bVQ3V01FU1MwemhxOFFuOUFUZ3IwZkVkYWdUQ0s4Z2ZJRTMwM2tGdVFNVDZlaWMtRFgtai1FR1BGSFY3eklXaTM1eHI5a2Vna1MtZG5CZVloazNDdnR3U0VpNUNmZWRFaXNnM0ZrU25hNW9tWGFRYm5LXzRkemJRN3o5NFRoVHExVGloOUl0RHZuLS1fQTJzSFFCZWFWbFlB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The New Indian Express",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-26T19:07:25+00:00",
+   "fetched": "2026-10-26T21:05:31.824285+00:00",
    "visas": [],
    "groups": [
     "chung"
