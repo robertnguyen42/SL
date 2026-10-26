@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T19:37:33.625220+00:00",
+ "updated": "2026-10-26T20:27:21.253162+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 33
+   "count": 31
   },
   {
    "id": "eu-gov",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -347,7 +347,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "us-eb-work",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 9
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 28
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "us-sheet-khac-2",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "ca-startup",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 19
+   "count": 37
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 21
+   "count": 37
   },
   {
    "id": "eu-golden-visa",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "eu-digital-nomad",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 21
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-smc",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 14
+   "count": 16
   },
   {
    "id": "nz-investor",
@@ -647,19 +647,19 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 12
+   "count": 40
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 25
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -719,10 +719,34 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 16
+   "count": 8
   }
  ],
  "items": [
+  {
+   "id": "5d7e7ce37a86de05",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Think Immigration: If the U.S. Immigration Path Ends, You May Want to Look North and Ask “Is My Client Already Canadian?” - AILA",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVERHWnI1T1V1SFh5b3hIUzdsd1I5dThJY0F6NVBkdFhQb2FvMDBITWNpQXIyTGZmYmNWNTRIQTNzcENPMld1U2ZfcWpSX21qb0otd3k4eVNwd1pWYjBrSk1VSGNwZjgtNExjNDZmemg3b1Voa0tuWVFFeFlmUHlvUWwwZ3pkMXE1YzNfRXV3X00yZ3A1N1RwQk9hYk5QczZGQmZSVjRqaEpVd1pfdEY0VmlHUk5LVDlab1BHc2dmS3cwZ3VXZzFnaTY1ZmdLM2NnMXZiaUdYdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "AILA",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-2",
+   "published": "2026-10-26T19:10:18+00:00",
+   "fetched": "2026-10-26T20:27:21.253162+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "0ad2329d12c55e3e",
    "src_group": "chung",
@@ -3748,6 +3772,30 @@
    "fetched": "2026-10-24T23:18:45.006730+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "6c27d1351a82f62c",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "GROUNDED - PNP questions fiscal restraint amid travel ban, NaRRA Spending - Jamaica Gleaner",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFlxVVVweVY0VmViTDM3WThmWXVNaWJTZkxpT3ZnLUZIelVYMDJueldDMDIzeGZDZkxCNU9Pa09MaFg0RzBQZUMyQUNrcDZYczR4cVJMQmhSazFLclEtaWo0dlBxYVdrUUR6RGpCcnZvZjRXa01HSmcxOTdUV0VxZGMwOW02YndoZkp6S1V1NWYxTkd6OXBoRlpSOURvdGw4YmxFVzZhSXVQS0s1VHoyQkVhZGZBSTB5d2Fv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Jamaica Gleaner",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-24T05:10:38+00:00",
+   "fetched": "2026-10-26T20:27:21.253162+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": true,
    "direction": "siet",
