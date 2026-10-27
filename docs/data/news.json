@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:23:40.526281+00:00",
+ "updated": "2026-10-27T14:18:46.994042+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 37
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-gov",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "au-sheet-chung-3",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 6
+   "count": 11
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -395,13 +395,13 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 39
+   "count": 15
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "us-sheet-khac-1",
@@ -437,7 +437,7 @@
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "ca-express-entry",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 37
+   "count": 40
   },
   {
    "id": "ca-startup",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 34
+   "count": 11
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 18
+   "count": 34
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 18
+   "count": 26
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -527,25 +527,25 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 22
+   "count": 10
   },
   {
    "id": "eu-student",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 18
+   "count": 13
   },
   {
    "id": "eu-family",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,13 +611,13 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 15
+   "count": 8
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 11
+   "count": 21
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-business",
@@ -647,19 +647,19 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 17
+   "count": 40
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 25
+   "count": 27
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 39
+   "count": 14
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -719,10 +719,82 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 9
   }
  ],
  "items": [
+  {
+   "id": "c7bfd10b9728d22d",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australia Expands Biometric Collection Programme To Visa Applicants In India - ETV Bharat",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcXAyd0J0SzZTTjBfV0NRaGpDUF9WclFFbjNoM0RXZVJ5dHo5V2t0NG5SWVYzeHZsNWY2Nk9hamM1S2U4YndTNjJnTWdyamFzZTNZd1J1YnQ5N0xiRmxPTnpkeUI1Y29DVFNQaFRCbGhQRmFaOHp0Rm1aWnBScmg4STh3SDhkZkJiRDh6SXU4UUdUOFVXNFJUVHhrUDctM21OWEd2Sm12cEpsWnlEV2U4dmlmVm9nczdUNk5taE9uby1MQVNfMUU4NWhDRVhlNmPSAdQBQVVfeXFMUExqbE5FaHh6clhYMXhIZGk2SmkyMzAwR19Reld5cFBZUXZQZnZJRmxyUVZOWXVoRUF6LWEzV2czOVl6ZHBRWEVnNnRQcHczRFU1ZWphemFTdi1CcFZadnU4YVgzbGFzQXczbzA3c2JqQURGU2NpVzBtUXY2bl90N19weVc0dF9nWlVua3ZWSVdtTWNhUDJGOV9mcjVxWVhyaTRBczJ0TzBvOUMwT1VhX29JbGpsLU5UU2E2Qmx0X0xwRXczdS11T0tsLUJMa1pXcnRXVXA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ETV Bharat",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-27T14:08:04+00:00",
+   "fetched": "2026-10-27T14:18:46.994042+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "f8fce298ea9df2b9",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Visa cuts could leave mango harvest in Australia short of 1000 workers - FreshPlaza",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamxYcUJqemJNdjdwaHVxd2RNVVBhY1VST0tMa2pWLVc1VWIwcnhPeE1PaEdfTVlYa0lRWFJHNG1HV0phVlVvX1YyVlhtS3dCU3M2UFE2dXcycTFDWU43Qjd1b0dLVmZWRXlZZTN4RXlkT0F1VWlyMXJjY2FOQ2Z3eGcySE5zX0kyVWRUWjBBd2xXV2NoMEZ2QjJva2pCQ2tUWldYTDVYb01rc1ZDdFI1UTJxVVU3VERCV2xWaFF1TVFyd2w5enlj?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "FreshPlaza",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-27T13:37:56+00:00",
+   "fetched": "2026-10-27T14:18:46.994042+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "5acb6de9f109407a",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia PR Invitations at 65–80 Points Offer New Hope for Skilled Professionals - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclI3S3R1NWttTGc2YXRJOElwM0EyMlBEdUFqcV9IVUpvSXd1alM5SWNIalZRR0JPNHdrT2o2eDFiQmoyVHlua0hodExCaXB0bC03bzVoYkJ4c0dwTVFhZ0MwZEJFYW16dlF6OWNVaGFMdEJrVmRjUlpRRGpSaGw0MjFmRHhKRDgyQ21JTWZjRmM4RjQyS3M3Z1F1aTM2blRQdUFjMFFjQXp4M2VsRWFVQzlwTEVuVk5QZVRoZWFDZ0g?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "EIN News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-27T13:30:00+00:00",
+   "fetched": "2026-10-27T14:18:46.994042+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "02bc7e6209a4df1c",
    "src_group": null,
@@ -775,6 +847,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "70c956903d7b0d03",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Is the H-1B visa program taking jobs from American-born workers? - Marketplace.org",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkNLMGhGOEdlLUN5VUV0eGJLdVpIZ1JyYjBTMFZueFIwM2tjT0habm9VZFBiLXRtLTVZZ192RHV1Y2lkOWR1d3p5WFZlVVFvQ1JOanpkS1JxdHAxUmNMNjZlWnFXdlVqaW0wRTJvbU52cGNVLWhrLWZwZUxQVmg3MGdOMU81aW5kZ2lhZ0NmMXpFd1VRMU5WcHpsX3ZSZWV5Vmk0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Marketplace.org",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-27T12:53:00+00:00",
+   "fetched": "2026-10-27T14:18:46.994042+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "b19b92e6f8280f08",
@@ -54249,6 +54347,60 @@
    "score": 0.0
   },
   {
+   "id": "f5776015d3267ce2",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Coalition says student visas will be tied to institutions - The Koala News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaElWS1FGRnN5NzRKSjhaSENkSlg0NjFmTmJwTzM3R1phVlRyWTVhNm9OdGM3T3Y1Z2ZmdmFkQzUzUEdyUEZVUE9pcm1sLTVXN0RvYmE2SlF0OWxDeFhXMm9fX0RCU2ZGUG8yMmc3QUtDa3RhMk54WVJKSnlid21TUXJfY1N0aURabkQ4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Koala News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-student",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-27T14:18:46.994042+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "bdd0f51fa4ff6adf",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Arrests made in Home Office raid on fake gay asylum evidence group - PinkNews",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjJTQ2tSMEpaNkdHUWVwcjJCd3ZzRExESUhNQ2huNWVhZXpQVE1WT1FsdnAyRkNtQ1R2Z1liQzZLc25PREtGUnVTY1lyR0pQWVV5ckxOMkdEaENYajZ0MEdHZXJqUHEzMHllVXppcWFUMjdJT0hHYkd0VDlEYjRQNg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "PinkNews",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-07T07:00:00+00:00",
+   "fetched": "2026-10-27T14:18:46.994042+00:00",
+   "visas": [
+    "uk",
+    "asylum-policy"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "8850e4cd78a0d076",
    "title": "Coalition MPs concede immigration pledge not fully costed by independent watchdog - The Guardian",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkxpZk1ULXFaVDRCOGJ4eldaeTRTTm9lVnNyZmNteU1WWUJTMFVfU1N5TlgxcDdHenpMN092NGlsQW5lNDlHSjJ1SkQ4b0ctazhHdkg4dDRnYWJMYlpUdWVrbWQ3bDlDaS1Teklaa2dYT1JWS1BydFBqb2NhdE5ReW5JVDFDQmIzOEJCdHFuajgwX3IxV1NtaTFxM1ZuX2VaRndpZnZxVmg4UjhmVV9ycnJUT0hLREl4UjhZXw?oc=5",
@@ -66255,6 +66407,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "d8ebf1c37fe1596d",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Japan raises permanent residency fees for foreigners by 20 times - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXUHdHb2kyQkloYlhrZkd2Y05GU1dBa0RpQ1k5bl9FVmFJbDdHaWZBZzl3Zi1yeTU2eDIxbGk5SnFTM0FjNVFCVS16TG1lY2ZjX2dhQW5XSDZZVDA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BBC",
+   "country": "AU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-10-01T07:00:00+00:00",
+   "fetched": "2026-10-27T14:18:46.994042+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "721c0bb179aeb0d0",
