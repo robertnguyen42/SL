@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T09:12:26.255291+00:00",
+ "updated": "2026-10-27T10:10:55.288819+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 37
+   "count": 25
   },
   {
    "id": "eu-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 32
+   "count": 34
   },
   {
    "id": "nz-vi",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 15
+   "count": 34
   },
   {
    "id": "au-sheet-chung-3",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 7
+   "count": 10
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 20
   },
   {
    "id": "us-eb5",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 40
+   "count": 14
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -431,13 +431,13 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 36
+   "count": 38
   },
   {
    "id": "ca-express-entry",
@@ -455,13 +455,13 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 35
+   "count": 33
   },
   {
    "id": "ca-work",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 34
+   "count": 18
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,37 +521,37 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 23
+   "count": 40
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 25
+   "count": 12
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "eu-schengen",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 13
+   "count": 35
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -611,7 +611,7 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 8
   },
   {
    "id": "eu-sheet-khac-3",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 9
   },
   {
    "id": "nz-aewv",
@@ -653,19 +653,19 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 27
+   "count": 25
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 14
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -719,10 +719,152 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 8
   }
  ],
  "items": [
+  {
+   "id": "6a2ee1c1d6c1c56a",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Passport Legacy Hosts Evening Cocktail with Grenada IMA CEO to Explore Investment Migration and Generational Legacy - Nairametrics",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQelVvVURjbjM0Tk5VRmRXSm4zNThzcW9MYW1oaGZqOEdEanYteVctYTcxVHRFUHVBT1ZEUHB4Y2ppSE4xQTFMOEdlSlgwUXQ4Z2RkWDJ5ZnZueER2YWFndEM4Z2wtMjI5MlBXbG91ZUVhZnp6VjdCdm9lM3hyLU45bk5UOEVudmVVbDFTWnNTcDlER3k5SWJDcnhhZUVfLXE5TVh1SmlFZUtpVWtFZ3AtUTlsd2hhc2UwaE10eUs5QjRMY3MwVms2UnkxdE1hTWo5OEdtTG5ubk9VUHZXUmpYT0prLWREX00?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nairametrics",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-2",
+   "published": "2026-10-27T09:37:51+00:00",
+   "fetched": "2026-10-27T10:10:55.288819+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "690028c71b71aace",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Direction 110 visa failures leave serious foreign criminals free - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaE1CZk9QTnh4Zkx1V09yNm00aWFiTzVic2diUFJqaG5pdzhWWUlsQ2QxZDNLdmNjNjlnNG40RHV0MU9xSU9fcFdkeG1zemJ1OU56dXpSQmdPc1R0M24xZU9PY0pqYWlKRzFIbmJUMTlBUDRvMFV6dzNOZEVncVpHc1J3bjRhdEhRTF9DN2ZiSTBjUjlFa1hIck9IUE9yR1ZzZjZNejlBXzRJQ2VtYzJvWXMtSjNCMmotSFdVYllHTnYzQkRXdklGd0VNUFU0bVlXV0VTZDRxaXRxTXdmdUpCOGIwbWYwVkxlWjJ2Q1RHcURfdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Australian",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-27T09:30:15+00:00",
+   "fetched": "2026-10-27T10:10:55.288819+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "31de29fecc87da5b",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand updates student visa regulations, reducing research students' work rights significantly - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeDd1VU1STTdvdjVIbVVDU1cyaTdseXZlejBsaUpMZ3Z6NTAwRmJjZ2k3VHZGRkRUSFJCTW1BVENKX1RXMk9zQ0F1UFliMUdfWFR1d1o4MlNxaU1rVTBQRGlFRldIcFhWaWg3WjdZa09vUUhEbWRHVHpXMXNJTnFaa245R2tvd3ROcHFYUEx4T0VVejQxa09JQjQxc1dVZFd5WkpyNGl0YXBkcXAtMURKNU96S0diOWdWRE50X1dHdjdOcUdLXzFzdjFwYl8zLVlFVm44VnJFNEgwOElnR1l2bXpFZmVHV1l0cTVEZ2RoSXVNckliSG44WlcwWTJCeWPSAYQCQVVfeXFMUHdPZTNjZ3VyaVhTSmJkd1dxZUVvakF1OHJSUTdPLVZkSmYyaERZNEJvU0pGOURwd2stbGl6Mmx4aXdfMDBjUDlFM1A3VHBkcmdCT0hfOVdDZndMS0FhTlp5bzI3VERhUW5FWlVRSHlLZTdJRU9DM2dEQkVQeko5Z25SamhvXzFEMDdvY3REb1ZEdG4wWWpJZXh2VHFnSURzU0Y1LTRQaDFYa0xxSWc2UnFiaTZsUG8wZzBITXhLazlDMFUwVjNGNFRMbVVVU0NTYmNCM1JFYXJiREZiNHNwcnRIUmI3V1lSY3VlT29jemhUdEM4R2Rqdl9RRnRWZHRSbXVSMzE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-27T09:26:31+00:00",
+   "fetched": "2026-10-27T10:10:55.288819+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "16eaf44f5b98ab56",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Changes Visa Application Process for Foreign Spouses Who Want To Join Partners - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlZmY2VOeGczZTN5X0RWZHhJeEhRWmJWRjNnRDNfVDZDVkVFOEpBcndiVWdDdTFuRS1NMEJOUGlxVU1kYWpLR19UMG1mZDhFNUVLQjhZNUg4THlPU2hOODdETXBKT2FTR3FIeGVZWXdGd3BUd0ZUdW1lSFhZV201N3E1cF9SUm5kcmFhTktnZ1d6TUZvMVVoN1l1OXhCN0otYlJ1R1V3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-27T09:16:04+00:00",
+   "fetched": "2026-10-27T10:10:55.288819+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5cbd7c92e3d93aac",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Trump administration proposes $70,000 fee for OPT applications — Channel NewsAsia - UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0JFTWIwNFFTT3dGTDFiVWRNQzV4eDRUb0F4cmVmbEEzU3BDRDFUcDVWWVd3Z0pNQjVPYmh6d24zZTZlVGtHV2VTMHU3N0k2WmxXdlFGdTB5Ym5rQTFnaFZFakhyaS1WbDdpcm5HeDJmcFNfVFlGckRaMW02MkhjdE1rM1RJUUdISHhIdlhRVnpISlVkUTNQNkF4MERBOENIeklxemdYcw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "UA.NEWS",
+   "country": "US",
+   "type": "news",
+   "source": "us-student",
+   "published": "2026-10-27T09:15:47+00:00",
+   "fetched": "2026-10-27T10:10:55.288819+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "62f7d33d5ed30801",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "GDRFA Dubai wins 'Best Employee Wellbeing Programme' at Future Workplace Awards 2026 - Big News Network.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVnVOa0FoUkxnaWc2U29VbGtMQWZtaGtGUnhWQTBXNUs3VzlkTmNjZk1XalhsUlltaC1WbDBaQjZKM1FCWkE3ZHpJMTBLdVhHNHFwMldBdWhPSFBNbnhsQ0JCaU9LRDQyMXJXZmZKZzFmaEp5ZmI2cHIxWXJoZnFhenVyQlU3V2NmUVRjRy1HWGNhLVlzWGk3Ul9tYWVyejJrWW5oOHgzRDkzdVR2UzU3SmpFT1A5X0VQb1lJdEItc1MyTWo2YWpN?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Big News Network.com",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-27T09:07:00+00:00",
+   "fetched": "2026-10-27T10:10:55.288819+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "aa446542e1d1ca4a",
    "src_group": "chung",
@@ -772,6 +914,33 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "597e2fb3e6097af5",
+   "src_group": "khac",
+   "src_country": "AU",
+   "title": "“A pathway to Australia”: 13 nations get permanent residency places - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkFDcEUwaWpTeEg4UWpsSTNjNG1LWlVBd0hjbklRTko5dmhaQ1g1Vm4zeTNlRW9xM0RweUhKYnV1ZVZjaU9GRVIyVGF0cldqSktkV1FUV2NxaEJvWHFXMVA3SHlEbzIyd0NqQXBvVlJhYnFrWG5aREJEZFByMk5ad0QzSnBKTllnenhEbXJrTnBwY3RIcmMwMXpLQTlETk5PWnN1Vmo5MGpIV2o0V0ZwT1N2cE44NGF0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-khac-1",
+   "published": "2026-10-27T08:42:44+00:00",
+   "fetched": "2026-10-27T10:10:55.288819+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "785ba744b953de52",
@@ -16868,6 +17037,30 @@
    ],
    "groups": [
     "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "2d4b0f754623186c",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Opinion: Fighting back on Trump’s cruel public charge plan - Yakima Herald-Republic",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUV9VWWxtaXZMVDhsOVRkRWJBdmctU2tYb3ZjUnVPbml6eV9Ial9WanZSZElxUENrc0R5aW8yaUthVXhWWHB1dWFmMlNCSmROM01kZzB3NXhtRmFVZjBNam5NaUdjWjVzS1QtNkZJQUF5SHBIYTRZY05JNkgweWJ3T1hLRV9VQnUySWg1ZEg0NG5nZDJhcGp0ZjIybXdiV0xxYXdPRHhGc3UtdGxCTjNHRlc1cGV0YThnVWJ5c2FKRjZkNm8tRnlFa2VGOEFGSm9nMGFmZHp6TlBqS3ZI0gHiAUFVX3lxTE9NWlVNUlJlTzU4WTZ4VXlCS0lvVzZDTUNnRnNEUTB3TFBSYUVReHdETnIzcHlrX0FIS1JoVU44XzB3NndBX2JmMkQzeVRqQkJ0dEF4ck9fUThieDB5MEVxOWVKTXdFTE1Edmg5MmlCZTZtWXhHV1d2TnVfMzdXc0VIWklRNnZIc1RaMXVieTRVSEJjOHZzYWpVdnRmNU9ydWw5TEVQSUY1T1F1VEFKRWMxakhlRHljYkRZWUhZUVNKOEVnV0ltd0Mydk9ER21Yd003ZmZjS2FTMmJpOU4ta1BhT0E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yakima Herald-Republic",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-20T07:00:00+00:00",
+   "fetched": "2026-10-27T10:10:55.288819+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
    ],
    "lang": "en",
    "policy": false,
