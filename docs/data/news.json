@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T10:40:31.387286+00:00",
+ "updated": "2026-10-28T11:36:14.591231+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 29
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 38
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "nz-gov",
@@ -227,13 +227,13 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 34
+   "count": 13
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "au-partner",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "au-sheet-chung-3",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "id": "ca-startup",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "ca-work",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 18
+   "count": 34
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 26
+   "count": 20
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,13 +521,13 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 34
+   "count": 15
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "eu-citizenship-investment",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 11
+   "count": 23
   },
   {
    "id": "eu-work",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "eu-schengen",
@@ -611,19 +611,19 @@
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 7
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 23
+   "count": 11
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 9
+   "count": 15
   },
   {
    "id": "nz-aewv",
@@ -647,13 +647,13 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 39
+   "count": 22
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 16
+   "count": 40
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -719,10 +719,106 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 9
   }
  ],
  "items": [
+  {
+   "id": "38e8af178eec73f0",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK Raises Student Visa Financial Requirements, Nigerians To Show Up To £14,130 - Arise News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTVV5V2l6OS1tNG5HbnpRMl9FS1ltVkpVcDV4VktJRDV4OXh3a1FucEd6U2Ywa0FkUVRBT3B5RGRidWtXRVVDNl9UMlhUX2NQM0xyV3VKRWFKYWhvcWlXMkN3Vlh4S0V0eXZONXozVXdnNzNhLXFNTnYzLUd6MDFmWEQ3bGVDcHRpUmcyaUgzdk51VkdZZ3VWbUUtaVp5QQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Arise News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-28T10:59:48+00:00",
+   "fetched": "2026-10-28T11:36:14.591231+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d8d4b74a4753c627",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Report warns use of AI in immigration system is creating an ‘automated hostile environment’ for migrants - Electronic Immigration Network",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOclpkaHFCNVdIcXBRREFYLWhqZFFxeHZyLWtyaHgxM0xuQl9GR1hDLUVxTUc0SHVyTzNmZGpyUE9LMVBucjJLMmctSzBVR2NpS2ducEh3YUYzZ0dBejRIY3RHT2JaMTZKMlh3ZF94MF9ucjNuQkJNVjdDclMwTmp5bWh0Q2xSQnFCb2o2UnhRd1ZtMVZQb0xHWlQtUWJYam5TS2dfdGFJeTZNVV9iQmN3Tmc3eEk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Electronic Immigration Network",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-28T10:56:43+00:00",
+   "fetched": "2026-10-28T11:36:14.591231+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d8c1a33b182444b1",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Publishes 4 Changes to Student Visa Rules Which Affect Foreign Students - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUxKbEd3MWhHNXN4aDJmeC11cmIwYU1GV1U3dnAyellCMElfc3JiTDNTS1hTcGpMYmoxM09OZzR6MTVvUGpLTngzSVZQbU94eXlmYk4wbWV2NmF5NzNQNE1sNjRxcnRMT1lUeUJQZWpuMWhHa0VNVHNieFFOTXJZbWJxQUgtVXdGbkdYSjBHOHkxZ3BISERMcmpvNTg0cHprRHc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-10-28T10:45:05+00:00",
+   "fetched": "2026-10-28T11:36:14.591231+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "e5df4b60bcb233df",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "Dubai Police raise security and digital safety awareness among Bangladeshi residents - Emirates 24|7",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFNlOWliVXk1RzV1NFdWV1VuRXh1YkNRN1pDbmZ0V2lLYS05WGcxZEs4RzhNSHVMWGpwZTVoTXVPVk9ja044V1g4UVF2ay1sYUU1Smg2SUF5TjRwM2V0YVpzODFXejVHcFp3U0JRZnZ3UTJKSnZSdV9hcHRDYk5CSDl5MFNOb0xWaXJHNW5POXdYM2dsZFFlekp1SWtYNHNQeVM4dTRscDl3VzlhMUVERzM0bmVBYnU5LTJTQ1BWNNIB2gFBVV95cUxOQUVGUm43RE94cTB4Z1I2RWVDelJ6UWZjbkJGX0hHMkIxMWZ5MW1VODhwdnVRT2JzZ1VQWkt0OHJzQll1MjNoakZCODVlQ0NfSjBDWGt0SEVYNXZRTjZFZ2NUUTFEQlVLNzROWXNUcjVReXVMTGxHWHhfOWd6eTJSSDF5QVU3UXEwRnllY09TV0QyakY4cGZVeGdCWkNlMk9ieU1HdGxSd05XMlh3SmhrRDZQYXpXclJ2aml5dElONjkyQnExR0pTVWpJdkJJdm1tRVpwZ3lWMW9pZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Emirates 24|7",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-28T10:39:00+00:00",
+   "fetched": "2026-10-28T11:36:14.591231+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "b70a6673af1eaeb9",
    "src_group": "chung",
@@ -944,6 +1040,30 @@
    "score": 0.0
   },
   {
+   "id": "5a419f3ba885518f",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "3 top Australian universities face revenue losses and potential staff cuts as visa rejections soar for students from Nigeria, Kenya, India, Nepal and Bangladesh - Business Insider Africa",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU0I4eFBPalNYREJmS3A5dUprOFhBRXZ4TmFOSkIxUnJWSUpLakNCTlVHNU1pLWlqeXVnM3F2X1ljeDRrUlg0XzdMbWVyS0ZZVGhIT2IzWUo2WkRKSTFsNTJWYm9sSEJhM0NCUEkzUURFbWE2Q1I4Q3BSREN4NnVrbE9XUG5FZFJyVUlrenpWT1dwMW1QOFhIbWhEc2pwWGF6NklEOWQxRjQwSEpuVFZnNXphUDlxNkhfd0ppQk0wWjhRS1p1Y1NyVVNlY2JZczhPR3BVakV3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Insider Africa",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-2",
+   "published": "2026-10-28T09:09:04+00:00",
+   "fetched": "2026-10-28T11:36:14.591231+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "91afa0531816225d",
    "src_group": "chung",
    "src_country": "AU",
@@ -1085,6 +1205,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b7caf44a11812ac5",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Migration divide deepens as younger Australians remain more open to immigration - The Weekly Times",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNkRVYUlTbUZXamQ2ZWtoTW1XSk95bEg2WUppZUhsbjZlUDFLN3hiaUxwX0xBbzNROU9kVGhGRUt3Wl81XzlkSWllMXl4X1UyR1A3ck5HaUlZTngtNldCRmFybGJLVWlXbzJoa1hjRVlfanZIVXkwNndKZDIyUXpaY1pwRWJuMGV4aGg1ZHNSNnlfdWNIN3p1NGZNYXp6TDYtZW10aWV0MmFCSGZ0TmwydzJPVnVaZm51TzBRS3B2cGhuVUszcmE3YTM1TUFXOGh5Z2hydWRBVW9yVEJLbXBfX0RYTV92cDNZSWtPaHVzeFRESHdyNlF4dDZB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Weekly Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-28T07:04:45+00:00",
+   "fetched": "2026-10-28T11:36:14.591231+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -1314,6 +1456,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "fba9c9939422d6c8",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Du học sinh bị cấm vào một khóa học ở Australia - tin.skydoor.net",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOVI4cWdTaC10ZWZ5VDFLU0FiQWp0VE51eVVLRDB2UlZTOVhOR21nb2VDQXFGRlhBeDBMTUVxTG9GY294akI1M3o4R3lMZ2VtcnBPUnNEZWEzTEpTRW1WbGZwenVPOURET28zeWpUNVNYaGlBemRSa3hNQkFUeUhHNjJJUllYc3ZYQ0U3dHRFOTc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "tin.skydoor.net",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-28T04:30:00+00:00",
+   "fetched": "2026-10-28T11:36:14.591231+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 6.0
   },
   {
    "id": "3ef1859e3f22eef9",
@@ -14566,6 +14734,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "0fb975505c3ad7d4",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "FamilyVisa.ae marks three years with launch of Golden Visa Portal - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0RzTmtaMFpCb3VZSXRxT1k1RUNiRjgwNU10Um1JZWRsT2djcEZheDlsZ1ZRTjdvRXNGX212SmhvR0VkRHVlbzByOWtXdFIzMmE1Uko1X1JLTjlWWmZYZGdqNTRQSGNWTXZTZzhPZXhxQ1BHdUZKWERTbGVGY3lyMXY3bFFudUZSTE5YSFllaEJ1M0FfdW00QzhtMjdBUXF3UDhDMDhHckNzQmhMQUw3b2dvWGtYakxoVnpWelFB0gHQAUFVX3lxTE9qelAyVHJ6TkxNZ0E1ejJFaGNndVNlQVMyeTkyRmhxaFlZdU4tRF9YRXMzOXM4UzhqejRDTWloMHhvYl83dmt1dHgyeU1yNW1YTU9KSEI0WXdIS1NWNmNBNXh3QzQydVRlY09GOENQMGJMNV9BR3h4YW9GczB3dTZJZ3lmT1lOb3huTFdzX3ozaHBYMEI3cll1S1JHU0RGeHVOVlBtT3pwVEdseWo5WGtNMEJmbUZNcWpUMG5DR0wzYldPbzZObk1HTTd5QmZpN3U?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Gulf News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-22T04:29:34+00:00",
+   "fetched": "2026-10-28T11:36:14.591231+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "a0e3aef143fd7748",
@@ -31080,6 +31274,30 @@
    "fetched": "2026-10-28T10:40:31.387286+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "ce915abae976e681",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "How an immigration officer decides whether your family tree proves you’re a Canadian citizen by descent - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0lWclJRMmlMQ29vYllfMm1SVzI3cWhKWmdlU3dnelRJSHFnMWJqQk5Qb0hrY09od3hCUHQ3OGR3b24xMVZqY0JjS1RScGYyZ2phb2FFdUVBYXJGUVFSbmhiSGV6anlFQTkxVHNxb3VOcEdReldOV204RUNqVTFJcXZjUDEtVnRWN2t3RG9XZWZwUEkzbHhQV0lad2NQY21TaXhaTVZ2YUZhSE91aHF2b2Q4cDBUd05ndkVQVkN6dWtnWmRK0gH-AUFVX3lxTE1vNUFfei1PTllkYXAwV0NaOTFsTHdxODdfZC13em9mNmpYanJWb1Y1SFk4U2tuTGF5aW4xTG1QaEw1WlVtbjUyelp6UVgwUWUxWXg0a3NWVDhneGc0b0w5OEU5Y0VuRzNPS21sUFZRZzRiRXR6R0dKNDRHdE1CaVgxMkNBQXRQRmdraEJCMHpjMEJkemNCNHBhRGsydmk4YzdkRnE4bDJqVjByRU0wMHJrV3djcVJEN2FqU3p2SmZ0T2R3bVpUN0FsNEVJRE9zeHAwRkVaZDJ5R2Zad0hsdE5KaTBmcVBxdlp3dWJHb3FRZDNsaEo0WGZjaWxxS1Vn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-16T07:00:00+00:00",
+   "fetched": "2026-10-28T11:36:14.591231+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
