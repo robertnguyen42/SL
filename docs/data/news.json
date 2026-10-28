@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:32:57.760062+00:00",
+ "updated": "2026-10-28T23:29:35.153799+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -160,14 +160,14 @@
   {
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-en",
    "name": "Google News – Australia Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-gov",
@@ -178,14 +178,14 @@
   {
    "id": "us-vi",
    "name": "Google News – Định cư Mỹ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-en",
    "name": "Google News – US Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-gov",
@@ -196,8 +196,8 @@
   {
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 37
   },
   {
    "id": "eu-gov",
@@ -214,515 +214,655 @@
   {
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-gov",
    "name": "Immigration New Zealand",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 38
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 25
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 2
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 13
   },
   {
    "id": "au-student",
    "name": "Google News – Úc – 500 · Du học",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 7
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 9
   },
   {
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 31
   },
   {
    "id": "au-sheet-chung-1",
    "name": "Sheet – Úc – Chung các loại (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 20
   },
   {
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
    "name": "Sheet – Úc – Tay nghề (3)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 3
   },
   {
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 6
   },
   {
    "id": "au-sheet-dau-tu-1",
    "name": "Sheet – Úc – Đầu tư (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 4
   },
   {
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 18
   },
   {
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-eb-work",
    "name": "Google News – Mỹ – EB-1 / EB-2 / EB-3 · Định cư diện việc làm",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-h1b",
    "name": "Google News – Mỹ – H-1B · Lao động chuyên môn",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 6
   },
   {
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 32
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-green-card",
    "name": "Google News – Mỹ – Thẻ xanh – Điều chỉnh tình trạng",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 29
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 31
   },
   {
    "id": "us-sheet-chung-1",
    "name": "Sheet – Mỹ – Chung các loại (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "us-sheet-dau-tu-1",
    "name": "Sheet – Mỹ – Đầu tư (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 0
   },
   {
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-express-entry",
    "name": "Google News – Canada – Express Entry · Tay nghề liên bang",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 34
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 8
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-work",
    "name": "Google News – Canada – Work Permit · Lao động",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 11
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
    "name": "Sheet – Canada – Chung các loại (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 36
   },
   {
    "id": "ca-sheet-tay-nghe-1",
    "name": "Sheet – Canada – Tay nghề (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 21
   },
   {
    "id": "ca-sheet-dau-tu-1",
    "name": "Sheet – Canada – Đầu tư (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 1
   },
   {
    "id": "ca-sheet-dau-tu-2",
    "name": "Sheet – Canada – Đầu tư (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 0
   },
   {
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 14
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 34
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 23
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 30
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 33
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 30
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 11
   },
   {
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 36
   },
   {
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 35
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 16
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 23
   },
   {
    "id": "eu-sheet-dau-tu-2",
    "name": "Sheet – Châu Âu – Đầu tư (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 0
   },
   {
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 22
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 8
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 11
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 16
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 15
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 20
   },
   {
    "id": "nz-business",
    "name": "Google News – New Zealand – Doanh nhân · Business Investor",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 0
   },
   {
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 22
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 29
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 9
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 33
   },
   {
    "id": "nz-sheet-chung-1",
    "name": "Sheet – New Zealand – Chung các loại (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 0
   },
   {
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 7
   },
   {
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-2",
    "name": "Sheet – Dubai (UAE) – Chung các loại (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 1
   },
   {
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 40
   },
   {
    "id": "ae-sheet-dau-tu-2",
    "name": "Sheet – Dubai (UAE) – Đầu tư (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 0
   },
   {
    "id": "ae-sheet-khac-1",
    "name": "Sheet – Dubai (UAE) – Khác (1)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 3
   },
   {
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 12
   }
  ],
  "items": [
+  {
+   "id": "bf7c12c88a8bd423",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Over $1m in assets seized after Brazilian migrant sex scheme - 1News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU0NZc1RGb0dsU1RoWXMxYjFRdXZ6RzI4RzQ1c1gtbzJrTW91X0gzWGNyeUd1eUd6MkQ0WkJtSk1PbHBCaXNNMDUxbVc4cVRxR0pvQjAyb2x3RzJPX1lyeGxkOTJ3YjdSUFdjYUdEY2dTSWVIYXg3YU9jT3FaVkhLenk1VmJvbC1UZVhidkFSd1c2ZGZmOU00RHJyaw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "1News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-28T23:16:23+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "2d54ea6ef0aa74f2",
+   "src_group": null,
+   "src_country": "US",
+   "title": "EB-5: What Investors Need to Know- 2026 Updates, Key Deadlines & Investor Considerations - JD Supra",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDVwSU9FQnRNYXZSN0FUNFdmUmlJRW5DRkd1dm1oMmVVaEZvclFoX3RlRl9jZGFiVjFqcmxhMlpCZl94WTlSQWZneGZTeEdpRkFwODVDUk9vZ2lJSkRsSDNSb3V4VU9VSm4zeHNENmNwMjlvNGRiQ1c3Mk5ySWZ0b3lHaWs?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "JD Supra",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb5",
+   "published": "2026-10-28T22:13:38+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [
+    "eb5"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "2b17ee80c20d3438",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "More than $1m in assets seized from illegal migrant sex work operation - Stuff",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRTdWdXVleXpEN2FHY3l1OUdySkQyekEta1lPOXMxemJfdzRQOGFIeXdDbnhlWnNWYUZqNW5OLVpOSTdKbWFHbDNnd1QtRGN2b1dwUnFUVVRpWHQ3SVNNVmtkNExnR0NvRWE0MGlxbGlDclpQVEVUSXZ2R1F5WGlxMmlQZEVVYVJ1YjR6eExzRUdRWm9BRTdUblZVSjhnVm8?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Stuff",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-28T21:59:59+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "69f4487f82f12f40",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Asset seizure brings joint Immigration New Zealand and Police operation to a close - The National Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHdsdVk3NG9ra3NteDE5cExXbllVaFBubXBUa000OVBYNHg4SVhGQklZb1JWUVlhdklCN0k3d0M5bzNYODVmSks2QzJtZjRtLVdHeWRub2dOSEJZM0FHZXU3dUhNSDBIb3R5eHptVzR1NlNOY2dMRWxZd1kyN1U4SWVzZGl6aDVnempmLV9jQ011YTJLVE5tVm11emlwV1FMSjBqenc5SkxIdzFGb2xtVi1Wb0JibUtuaUE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The National Tribune",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-28T21:47:34+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "04d11da4ddadd607",
+   "src_group": null,
+   "src_country": "US",
+   "title": "November 2026 Visa Bulletin - International Legal and Business Services Group",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42dUFMYk5oeks3ODdRU3B6NXFEenlGQlpKVVFTa3dSdFBIUlAwbWhUbHI3WDRKenVoaGdiOUdJMHBZNFFrdWQ2NEE5Q3REV2dHRmppTHNSU0ZCaUhKb3VjRENwN0N6N0stUDJpZVlCR29EcmVteWpr?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "International Legal and Business Services Group",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-28T21:42:57+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [
+    "visa-bulletin"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "4797aee77eec51c3",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Up to 98-hour weeks, paid for 40: Christchurch motel owner sentenced for exploiting migrant workers - Immigration New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEpYcUR4NTEtZVI2bUZVZHYwS3VaU3RjZTNQV2RuWXdPNHdCX2RwSVpTMVlPazVhd2tQaGkxeV9tY0oxQW1vVDBMUEU5UHl4dUx3bFBXSk1aNEtkWllxMUo4Tkw3UnZER0lwYlRWMjJKUHlVdzRhYmtQUlN0S0RHMEZ3dVBVR3JwdjZlQ1Yxa0k5Z3N6TkpfMEY1YzdVQmpuQjdLR252TVVCMjV0ZWNHZzVJWTY3OEFqMFlr?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration New Zealand",
+   "country": "NZ",
+   "type": "official",
+   "source": "nz-gov",
+   "published": "2026-10-28T21:22:02+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
+  },
   {
    "id": "24e24f0eaa1c39de",
    "src_group": "chung",
@@ -848,6 +988,32 @@
    "score": 2.5
   },
   {
+   "id": "abea4f78eea0aecf",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Generations of Americans in Greater Boston may already have Canadian citizenship - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFZZWFJSeE9DWHQzVzdXbE9VWjV5RFZiSC12Um43WmtpdkdXSk9wUkFzMkx3MWxuR1duY2hSaWpDTmRieUZOVkxoYnNFRS1KanRPT3FZNjJPRFdKX3lyLTdxenpHNEtLNjBCQW5uNnQ4enlZeFQ3TXpJUHZFSjNXMWY5VXo0YVNENExEd184MnBNMXFOX2U5WGoyZ3NYMmJmVEJRVkp6YTVIYU12Rm9PdDB6YndVSDdMWE5WWlZXUTlua2_SAcgBQVVfeXFMTzJZSTlsWHpPVzZwNzNXMDRsemNOMW5BYkhLRENWVmVZamJpV1RfVXdiUV9sd2xKTlFjelNPS0FNSUJDYzRfNi1sTFVyQ294NXBBQ25CWlliZHhnLWpIYll2UHQzREtvajJ2LWxtMThDSzhxbkYtZkgzLUNSM1EtSkdnczJ5eGhEUzhXWE1lM1ZXSGpWYjF2ZDVtTnJmbVEwT2d1MUE4MHNVWlE5SVFVOWpnY2g5N3RHOGlkLTVvd1k3elZES3NfVUE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-2",
+   "published": "2026-10-28T19:46:24+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "082d8c49992ae78d",
    "src_group": null,
    "src_country": "CA",
@@ -895,6 +1061,30 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "cf8f09807d9b2262",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Offshore maintenance is optimized with Aker BP and Honeywell - Inspenet",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IOGZBQm5JczhWTnp4ZE9mT3EyQy1heVlQWHFkSUVmd1BpeU42TWFyOVBCeXBtMnVGdDlXQUljNDd5QWhkS3V5ZnN0d0kteTV1RWxrZERyc0JpekcyYTI4T3lURjQ2UTRrTmFpUHluOWh5dUVqRzdN?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Inspenet",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-28T18:43:33+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "141b8c1c73273b03",
@@ -1011,6 +1201,32 @@
    "fetched": "2026-10-28T18:39:13.413692+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "aa455c3a3448e853",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Embassy issues fresh warning on B1/B2 visas for Bangladeshis - Barta 24",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CUW5sTXNsLVRqZVlrZWJETXhoZGpZdFF4TURpUVZraTlYaXBRYkc3T1Y0ZEFvazAwMU5NWFFDbGZTU2pfaExDdllycGZYdW9wYWxTb3l0ME5WNEl6QkpWYnpXQ0E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Barta 24",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-28T17:49:19+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -1264,6 +1480,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "ca500c53876cfba1",
+   "src_group": null,
+   "src_country": "US",
+   "title": "The H-1B Program Needs Radical Reform to Protect American Workers – AFPI - americafirstpolicy.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamVRRm9wZ3VYOGcxQkE1SWZMcUVvWldzMTZTaVpUdF9ZdkdrZDlHQjBrNG1wZlBJNDZ3R3QtR3RQWTBvTWdzS3lhV1NoMXRXdFgycHloZDl2eTdBYng5aXVZR1ZhTWNTMFhsY3MtV0dtYzBxalNDNUFCMmxvNThmSGdxdFdWRWpibzZSR28tbmZYckFucEt2endlVTlvX2plSHdiU2NpNA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "americafirstpolicy.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-28T16:06:00+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "ba8b36ca06ebde3f",
@@ -1564,6 +1806,34 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "8dc23f123a5d9bdb",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US moves closer to PERM overhaul amid crackdown on green card sponsorship - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVlJjanplc0cyV2kyT1lhY3U2WjZ4LXJ4V0NnVGk3OFFxRnV5d2FRQThocm5yMnhWVjJNSmJhalh5dU1MNy1fVjNhTHUxUlpScUdsNjhfNVl0cWx1T1Jrd2dObGliamNtVUwxRVpZNEdtTkxWYmdwNGw3SVVlYWYxRnNNXzF0emVnU1FiSDk5czFIZmNIZkdZb2hORW00TThDeXAwMGZheFRjakdHTTlmcXRVVHRxMFltNWlURFZVYk1GQ2N6ZEtDMGhiQzdrTUlVYXA4NDYtU3BpTi1X0gHiAUFVX3lxTE8wcjJyYnhjeVV1bGlDS0JTTFBHcTlBSFhiaUQtQXJjajljZ25weWlacnkyTmhkQzgtdlp0MmgyVS1sZExoRmR2YUpDc1IzbkFPbi02cjFBY2FBZmtVZmR2bXpnZ1VzYmNEaDlJclh6VUo5aXJXZW1GdF9ic0U5bGZMSmY0eFV0eUVzZ3Nya01vUWRWRnNWRHNkYkFCSVlNV2tMYW1PdzdXTUpIazRiMFFVYk1OM3hGWUZOOUdVT2YwbzFjNXVEWWxyYkZnYWJoSEdoclJ5dDRDYWwxYU1STFM1Y0E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-28T14:30:00+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "1133a1591a95e5f1",
@@ -2033,6 +2303,30 @@
    "score": 4.5
   },
   {
+   "id": "759cdc43369dd6e1",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "The Business of Offshore CO₂ Storage: A New Market for Maritime Infrastructure - Marine News Magazine",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW9adUk1RVpvd1BSR3VucElTVzNUdkxDRUpNMy1YcW1lYm52RHJBMEllY0xfVzJ2UlZTWEh3bzgtdDRnY2hXQ2g2emp5RmJsNUF5NFdrV3dlcl9jSGlReVRESWh0WEZNODdRdmZnbEx3X0xDMC15Y0h3d3VwakRIZUNYU01nRTDSAYwBQVVfeXFMUG4yZjl5RWtqVENNVnYwMHpHRWNpZE5rcmxGNjV3cDEzYjQ3Z1FnYi1QTTlRbHJaUnNLaDluLWNFSnBtb0pXRmJGWDRNbng1NC1HRUEyZ1FGZnlSRHRjQ1B6c2o1bkxfQm4xdUhvcjZLVmJyNER5WFRuQjlSRDdGeF96RVNZeDg1YThCRG0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Marine News Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-28T12:09:07+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "b70dffaa2d69876c",
    "src_group": null,
    "src_country": "EU",
@@ -2150,6 +2444,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "ddbcfbcb200d6685",
+   "src_group": "dau-tu",
+   "src_country": "AE",
+   "title": "Cruise ship residents left stranded after fuel prices soar - Emirates 24|7",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOalBFUzlxRy1NXzhDX0FIVUg3Qi1oWi13aEcyVGFPS3I5SHBWUnZUX0tFQU1JNGxNSXVrZlNyaFJwRmxMSUt0bVhEdjVGZ2dPenA0QXl3R19ER2lCQUlWOV9PTEVhMDVBVWhhSmdpRm84VHBpWFY3bk85MjNkWENMZlJiQjJ6Y2xKWFk3NDFFNVBaMjNyeF81eW1aM2pYQVNJOEEzMm5ucjZlc3l1RFc3ZnhaQk03eS1ZMnF6OUpIYk5DVUc3NFFuc29Gb3ZzOUXSAeoBQVVfeXFMTkgzU2o2WEpNOE44QUVIUzZldjN5a2FGcDlLNU1yN3NzVGVWa2loVm56amVGUlV5dWNZN014N05rYWs2U3hVeUx5dTd2SFBGTVNKRUN4OHhCYzZWN0JYTnk4OEEwOWJOVFByb3ptYW9BcTladG95TjRJaFJ0ek1zR2piVnpDUkJHTm84OWRIcHZ5dzJuWUUxNTJnSFczRV9WT045dnFuNlUyRzBHb0F2TzZJRnNDY2hOa1NtY1FKWHdwRk1oa29GM0ZmTEd2YjRCZWFmYVlaWGNNdGdSdkJtNjI4RFE5eE85cm1R?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Emirates 24|7",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-dau-tu-1",
+   "published": "2026-10-28T11:03:00+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "38e8af178eec73f0",
@@ -19829,6 +20147,28 @@
    "score": 0.0
   },
   {
+   "id": "588ca0a2ea887b07",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "11 Second Residencies Through Cheap Real Estate Investments | - Nomad Capitalist",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKdUcwa3NBUUpxXzZyNXpTajd3UFpJV3NxVDYyRlRvOU4xaWR6MUlqc0V4YklRMzdhVEMyYnV3SjRVTHh3U3EtWFZUMUlNaFNhZGJWS1NEOWdRNnByWnlXT0d6a04xaXVRbE9YQjMwMVBLbEl5eVE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nomad Capitalist",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-21T07:29:20+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "973927b3d976cc23",
    "src_group": null,
    "src_country": "EU",
@@ -26563,6 +26903,28 @@
    "source": "au-sheet-chung-1",
    "published": "2026-10-19T07:00:00+00:00",
    "fetched": "2026-10-27T21:06:00.337075+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "9bdf6ec1efa7ac98",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Feds have DNA evidence that could prove Ilhan Omar wed her brother, committed immigration fraud: sources - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGNXamlaUXk5RG15QjZ1ejl6N0ctaXRIVThVbF9ycEFHbGpqN0pueUt3QjQ1U0tqeloybG5sS2FDdmJDLU1yMUNNX2VvRmpmdktnWHc1dEVpR29pTTlQVVdXRGRtRkNjSHB0TDlJeFd0dHJldmFsRzlmVHhNZzl2TEU3bHhCQUZFZ2RyaFZKVEtCYzJqUWxxZlI1NFZobEI2d0NCNzhuYXNYS1VFTTM1aDRlSXVSaGRVTlFwbmxLaHc4bDEzekFTeU0xWFptdTkyemEyVTNNakQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "New York Post",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-19T07:00:00+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -33322,6 +33684,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "02ae9a412d7135be",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "Italy Golden Visa : The Real Processing Timeline - Get Golden Visa",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmhiX1N5VzlLT1RtN1R6d0pnMXF3ZVdBVm12Sk1GV0ZlUHdCQlk0YmJqWTdCUGZLeUN2aUd5aDhydjlQbUkwOFVGbS10S3RvMGZWWi1qbjhNOHV5MHh4LWRhV1kweXBKVW45elEtOU83V0tXRmlXZms5SEVRYkpPbVdYdm5hd2hURmtxYXRXS29ObUU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Get Golden Visa",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-10-16T07:00:00+00:00",
+   "fetched": "2026-10-28T23:29:35.153799+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "6a89c4bd2af7d492",
