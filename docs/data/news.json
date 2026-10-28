@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T14:47:53.432459+00:00",
+ "updated": "2026-10-28T15:45:00.347852+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 33
+   "count": 23
   },
   {
    "id": "eu-gov",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 21
   },
   {
    "id": "us-eb5",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "us-visitor",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "ca-startup",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 15
+   "count": 34
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -533,13 +533,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 11
+   "count": 24
   },
   {
    "id": "eu-work",
@@ -557,13 +557,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 25
+   "count": 13
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 11
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -575,13 +575,13 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "eu-sheet-chung-2",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 22
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 25
+   "count": 11
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -647,13 +647,13 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 22
+   "count": 39
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "id": "nz-family",
@@ -713,7 +713,7 @@
    "id": "ae-sheet-khac-1",
    "name": "Sheet – Dubai (UAE) – Khác (1)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "ae-sheet-khac-2",
@@ -723,6 +723,160 @@
   }
  ],
  "items": [
+  {
+   "id": "09dace7c20e057d6",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "EU Defers Immediate Schengen Visa Exemption for Citizens of Five Gulf States, Citing Security , Technical Requirements - Yemen Online",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jTlg1YU1GODJCendxZFJGZlRXTmlENVZIdm9Wa3ZPR3JJT2toMmowRFVjRS03dXdwaWtiNFdHTVR1ZmU1NkgwM3p0UUpYSkZD?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yemen Online",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-28T15:37:20+00:00",
+   "fetched": "2026-10-28T15:45:00.347852+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b92edc0bc6d8ef5a",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Bolsonaro flies to Florida despite travel ban days after election loss in Brazil - Le Monde.fr",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWk5ZTThpTTNmSHp0eG5SQzJ4R2VtdmYtcVhPR0xwakpWbG13d2s0STgzWVEwejFLTWxyeXR5SG4taHppekMtbTdxcVRxdDJWZzRCemlxT09YMWg0UlJxakVFZGZONXhYRF9ZNHVGU3pndWN0ZzEtZ0laN1NpNFVwTWhETS1PMkF2R19wTGwtNjZsSnZDSlBEc0Q5TUJXUTQ0d29tWVkxQ21aVUFMajE4cmkyN3R3RVpPNjFGenZtWUJWclI0QXFhUWhwM2ZERVRIRHdvY00xMTdWLUYyOUFfcFp0dkE2VU5XVkE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Le Monde.fr",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-28T15:35:05+00:00",
+   "fetched": "2026-10-28T15:45:00.347852+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "606e38c79f3e59fe",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Flávio Bolsonaro lands in Miami after defying Brazil travel ban - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlFZSS1WMXJZZ1RwTV9UMFZLM18zYkphTGNsNkFBUjFzVE5nUlpjWUV2Q211MFAzbWpJcVRPZHNpbTl2eVdvYkNoSzVKcGJwQmM0VHQ5MEpFTEtodDBQQVhGa3RES2dabDlLTUNXdi0xSXdpZ1lKYXY3SzV1VlA4UEJhUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yahoo",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-28T15:30:00+00:00",
+   "fetched": "2026-10-28T15:45:00.347852+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "9f8771dcac0a7e83",
+   "src_group": "khac",
+   "src_country": "AE",
+   "title": "UAE Allows Foreigners to Convert Visit Visa to Residence Permit Without Leaving, Mentions Fine - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFFoX24tbEdEbVhUXzNuR0FTVV9OdV9Zc3pzcFhLLUxlaUpNUVNlSUFud0hMSUJ2dWhnUmdrZ0VFcHZhZzJjOGtEajRGSVZ2cTBhLTZFMFBlY01WNEh6RnFWbGlPN2VtZEVPbmY0ZlN0LXU2Rzg5VDUwdVZfSXIxSXZOWTR0QXM5clVVTnZDa0tGeldxRTNJNXhMWllmaFFueG82OHNiUXdnM3MwUGc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-khac-1",
+   "published": "2026-10-28T15:15:48+00:00",
+   "fetched": "2026-10-28T15:45:00.347852+00:00",
+   "visas": [
+    "visit"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "3bf854f405a438b7",
+   "src_group": "khac",
+   "src_country": "AU",
+   "title": "Australia Mentions Registration Fee for Foreigners to Participate in Permanent Residence Visa Ballot - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk00WXlvdHV1OHoya19EQ1E4RXUtSUJQMGdtYUZkS2o3dkVKR0tmWlEyZEEwX1dmRG83XzB4Q1FTMXdEWGdaRXRoUVhUM25IRDlSa3p1Sm1yM3ZrQnZTSjNQREE5VDJNak5tTHdzMmFkZzZVbm5abldOWGp6UnBNb2JkRlFzdmJmUlpJV0FibW5Ya2VYdkxacFdueDFUaER3R2ZjS3pqcVU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-khac-1",
+   "published": "2026-10-28T15:03:19+00:00",
+   "fetched": "2026-10-28T15:45:00.347852+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "cf3c5db0c06bc1dc",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Dominica continues EU talks on future of citizenship by investment programme - Dominica News Online",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMThUMkhsd0JqSzhiSVo1V3E5S1NNYW5EV3VUSlVpSllYSE1lOVNxU0doUTRtYXY4UTdqREpkTDdqeUF0YUJyOENrWWlPOTM3T09fVFNYSUNMbGlWWXRraE4yamZjWDg5UjgxdkFsY1VXQmEzOGY3dW1PbmZhWFFTN1VVYU5aTVRmeUttaVM0WWJIb2hINDhDRWJ0dVQ4d1hyZDFTYkZSTXV3endxUnFxYmJNZkFHb3c2aEl3RnBHSURiTE5PblpZV2tBdWo1dzlBZXB6aGxzdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Dominica News Online",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-28T14:52:00+00:00",
+   "fetched": "2026-10-28T15:45:00.347852+00:00",
+   "visas": [
+    "citizenship-investment"
+   ],
+   "groups": [
+    "chung",
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
   {
    "id": "e28ffa16b593cf0b",
    "src_group": "khac",
@@ -766,6 +920,30 @@
    ],
    "groups": [
     "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "a510534606f49e37",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "First-of-its-kind marine robotics test and development center opens in Norway - Offshore Energy",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRzRlMHlzTUdIc2d6bFM2OFpZTTFNaVEycFVOR2xOLXdwQXZkWm43dFFGZmZhY1RGbFJzRXNBTE00c2IxSklkbzdLM3RxMVZwSTUzdnlxVWFvQlpYU0JnMTdjUmZLekxYdDBYR2E1RjF1WVlCTmxBdDZyWkczajljZXk5YWRqNnIyUjZ5ZDM4TjdmNFBTcVB1cTFhUjZjbnVYQWVvSW80cTZoZk9nSlp2WjN2dHlCbmc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Energy",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-28T14:21:42+00:00",
+   "fetched": "2026-10-28T15:45:00.347852+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
    ],
    "lang": "en",
    "policy": false,
@@ -1105,6 +1283,33 @@
    "visas": [],
    "groups": [
     "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "3b1653c8a2c7272d",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK immigration data shows work visas fall 43%, student visas drop 19%: Latest figures - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdF9KTTd1WnlxWFEweVdFSFhIbW90QUV4Qnd6eVBwVUFfQ0s3MV9NRnZ1dHRMU1lMcTZ5MEotTlA3RDdod1dsSzd6YUVSUkZuUklDUVJhenhISXpuUVZuQmJibDRabHR3N0tBdG5SX2JQaFpBWEI1WlNCTmxQc091czZLMENGckdQWS1NLWl4ZFl5QWRCUlEyYmFuZ0hHWmZiYUg0cE5mSzYzWXJYTmRmdnJhTnBuaTBfWkxwaUo4MUtYUHJuMVFxZ0czNDZYQVRl0gHXAUFVX3lxTE9HcUV0OHM3c1BxQktUVEZIcHB2bzFYdUpUZWhWVDZBZmRKYXoxOXpoTFJBSmFvdUZRZGZUNktjTHZtSFVrbDh4S1RBSHhidGRScENKWUtVOEF4VW05UlU2YUFPMHpIUXJVN3A4dy1NMHVoZUpVd29Bb3BVeWxzd2stME1LV2RiUVY5aHJtMTBRWjhYVnU5aUFmZzZyNTFxbFVNVXFpZ2t6QXNaak43cVhVSjJWTEMwVmtiRHE1QUItbVBKVFA1eWJCSGtDNzJGVmRaUGNPWEFJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Financial Express",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-28T11:37:02+00:00",
+   "fetched": "2026-10-28T15:45:00.347852+00:00",
+   "visas": [
+    "work",
+    "student"
+   ],
+   "groups": [
+    "khac"
    ],
    "lang": "en",
    "policy": false,
@@ -1769,6 +1974,33 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "0c535154e7fdefd4",
+   "src_group": null,
+   "src_country": "US",
+   "title": "$100,000 H-1B fee and J-1 waiver physicians: Key considerations for healthcare employers | Viewpoint - Chief Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSjB4VEtzdzFKYkxJeXNZZGpWVkF6WDYyWnZYZXFDeDVYWElXQ1NhUGJ6RFVSN213OHlveTI4dzdUMnhQcFJPMzdrNmlzX21vVzVucURaaEl5UDdpTTJDdTY5T1hPclh6bUp3VElhaHBPeHNZX3Z1ZkZDdkZZVzMxY0szV3ZpNkFVSDJ0WVlrdkV4V1RHa2pNdDBOLXJ6Ukc1TWRNdEFJa1QxY3FBREdXb19kVFFVVElKYU5VTHBuS1IxSktWQjQ3MTAyaDhVX2U4UHNXa2NHX00weDA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Chief Healthcare Executive",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-10-28T06:49:43+00:00",
+   "fetched": "2026-10-28T15:45:00.347852+00:00",
+   "visas": [
+    "h1b",
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "3ca3d941194c4559",
