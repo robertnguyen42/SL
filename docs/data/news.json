@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T16:43:54.781638+00:00",
+ "updated": "2026-10-28T17:40:32.520374+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 35
+   "count": 13
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-citizenship",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 39
+   "count": 19
   },
   {
    "id": "au-sheet-chung-3",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 6
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 11
+   "count": 0
   },
   {
    "id": "us-eb5",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
@@ -461,7 +461,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "ca-work",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 34
+   "count": 9
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 34
+   "count": 14
   },
   {
    "id": "eu-golden-visa",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 25
+   "count": 27
   },
   {
    "id": "eu-work",
@@ -557,13 +557,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 26
+   "count": 13
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 11
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -581,13 +581,13 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 16
+   "count": 37
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -605,13 +605,13 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 7
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-3",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 15
+   "count": 9
   },
   {
    "id": "nz-aewv",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "nz-post-study",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -719,10 +719,114 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 11
+   "count": 8
   }
  ],
  "items": [
+  {
+   "id": "712aea2595179179",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Green Card Update: New Fees and Application Changes Coming in November - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUNUNzRVb28tVGM0OGRMSUp2cnNsX3NpalBzMlFOM0hrNEh5cnkxT3gxT3l4eVQ5YURnVnJVUnFuazZvOHphX010UWticVNXUFhjTVBBaktveThLRHJMQlQtYzBSNzlZSWMyQjNodGJybHFfVjNKVjQtNEwtQTlqdWFybzdOUEp4SndJV2EzQjNnSjM5U0tmamJFbmZIaDlza3c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Newsweek",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-28T17:35:00+00:00",
+   "fetched": "2026-10-28T17:40:32.520374+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "9446bf1bf12c56f4",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Op-Ed: Assessing economic impacts of non-permanent residents in Alberta - Juno News",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNVo1S0JPYVRBSzZmME8tOG1OdkN6X2FEZ3llWTI5LVFNZlpwd0FwajB4RzdMN2hnaGhleW05NW5BZG44TWYtOThjUWJ5X0JkcmZQR0FWbExWbW9zZjJ0MVJTX1BPOTRJYUk5bnRZNGJWdGhhY2hXMTFxWXZmazhDSlBfTQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Juno News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-28T17:23:50+00:00",
+   "fetched": "2026-10-28T17:40:32.520374+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "1cb3c52979d44116",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "ICE Accused Of Violent Arrest Of Green Card Holder - Law360",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd1NwOS1SR3FIdDZ3SXhaRUVzMFl6SjZIOUNtMC0xcUM2NklaTmV1UVRWZFJPWHRyeE45SDJ0bGJLZWdEMzZlVEh1bjVHWlhJZnMyN1EtRGVyb1VZUURsSkwtREV1ZVBFbmhqV3JwOWZraU1WMGQwRWl4b0YtbTh1MXpxS244NFJINzVKQ2RLbVNZejd10gFWQVVfeXFMTWhHOFNvOE1CMk4tY3BqOEVJcmNseFFfRVgySmIwUG11WVN4bWVGSGVjS2dEaVBaeEx1Tm9fal94MzRvRmJsa25TZ1lXNm1EaURVOGlyQ1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Law360",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-10-28T16:48:44+00:00",
+   "fetched": "2026-10-28T17:40:32.520374+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "3a0ccabe1eb2b03e",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK Raises Student Visa Financial Requirements for International Applicants - NigerianEye",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mSEQzQlJJVThNYmM5Y2diSkwyUkJleHdWdHByQmQ5bVNpMWw2Z28xMTlBbFVNc0p2VnhIMEptc283dHRTTlFmbUpGaGY1WG8yTE1iOVEyT00wb21nOEgxdnhwbVRScWROdXVhbGp2dTIzRWNvVnBpdVZsWWp6QQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NigerianEye",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-28T16:28:24+00:00",
+   "fetched": "2026-10-28T17:40:32.520374+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "8821bdd24aadd613",
    "src_group": "tay-nghe",
@@ -746,6 +850,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "fb8628cf853639c9",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "The Central Bank of the Russian Federation set the official euro exchange rate on October 29 at 90.1660 rubles - AKM.RU",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZElXbkhMT09hZ093MVZxaGI4ZlZrdWtUMWsyWnNTeE5ha0ZPX2JHSEtrYXpzR1dBQ2EzZEhaeWMxUlJoRHh6dkdaZkRQMG9qYTIwQ01fM016X1c1VUNpajctcUVVeDNhbzY3Y2hDb1FsYUdWTUFHV19fOUpxMHMyV3llUGtPZ0ZUeHBwWnVBOEp0allFZGNHZXl5SWU0RlhUU0ZkMkRrejJqbjhBcWhMejN3MnU5UnlIcHoxZ2VIRXVRODVzd0xZSQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "AKM.RU",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-1",
+   "published": "2026-10-28T16:15:05+00:00",
+   "fetched": "2026-10-28T17:40:32.520374+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "e996926f09bbcd9e",
@@ -970,6 +1098,28 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "2481a477fad09026",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Australia lists 5 groups that can skip taking English test for subclass 192 visa - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2NaeGRaMk04VmQxdGNnQzNpMi1RY24xU0FnM3o4YVZPX1lmcFU3M0NubmVfSU4xbzZLejVHTTZOSVdQYkJPVEZfVmV2MjJtMm5JRmZSelQ5NkZsbndXTUUwZDZkVnpfcjlXWUV4SHFhX2FJSHQ0YjI1OWdIbXlZLWdfX01kSXJzUEZqMmwzWFRYUXY1b2dHLUdZLXB1a1ZOeC1KVDFyQ0l0eDliT3c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-28T14:40:30+00:00",
+   "fetched": "2026-10-28T17:40:32.520374+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d1a0a6ff77629b27",
@@ -1295,6 +1445,32 @@
    "score": 0.0
   },
   {
+   "id": "d33ef04b9b2397da",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Green Card in November: The USCIS Change That May Affect Filing Form I-485 - MundoNOW",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPREU1M2NsZFFrNmZhVlFHNGNNOHY0UmxsVjExWTRTOHhzNFhKa2JmMWJPTE93T1o2NUVYa0NhZmdOWkNidjdvU0JDTUF5enlValQtOUg5RXlpWkVVZGlRaTJRc0dWSUpXai1uU3JFbDY1Q3lnemdUTG4weW52cko3R3drWTVpOXN4X0J6ME9jeGhIUFJfVU9LbWJTTG9oZWtsR21Bcw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "MundoNOW",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-28T12:48:20+00:00",
+   "fetched": "2026-10-28T17:40:32.520374+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "41ad6aa05ae31235",
    "src_group": "chung",
    "src_country": "EU",
@@ -1456,6 +1632,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "d2b226844973f8c0",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Thailand Considers 15-Day Visa-Free Entry for 3 Countries - ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVk1vMTNPQ1FvWmlFWHI2LVdrb21LMUNMTnRRTFBFS2FRM2h0R1dub19rdlFOUjlIakM4Y1F3WkhZbkpTaVVhenBtcl8tTERkRXFiQWk0aFBlYmtrd1IxTEgzU20zamVfbUhDU0F1OTlOS04xbXZ4a2J1QWIzZHN3LU5GNTc3OS1Xdm03UnRQT1FianpGQ00wWNIB-gJBVV95cUxPdHdQV0g3dmpQWnhOa25TX1kxSUpRd0dvb2pPSjNuWVUtRFJnc3lGSVJGYUJBZ1NTWU9BVHgybEVGc3Q3WHo5SkZwWjJvME91LXpyb0ozc2l3RDlRU290bGlpQjFOd3k1VHlON2NueG1BMmlIUlNFWlFwbXFCcXcxdTZOQjJHTFZsYWs5eWxTbU1zWFV3eWRhQUdMSTJBVWNhcUVlcml6bW5pZHFreDY5cy16dENMV0hodHhlT2hjU3BLdEl1MkluOGtscVRyZG85cjZuMVotd24xWnR2a0F2M19pZmJJTllfVkVLVlRVQmVkTmxYd3FJTURlSjBHeFFRejVIdFdNcmJmdEk3SFVKVERxU0k1VjMxQ09uUkF4UGV1UUlfUzNvbjUyVjVxd1RqOXhIME40N2RHOGoyX0NVMHNhTUFzNllab2MtYm12M05JN010UHZqS1d5a0tGLWtFWEJLUDhZRU5KYnlnRTJSdnlweVpvV01xc1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ProPakistani",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-28T11:47:42+00:00",
+   "fetched": "2026-10-28T17:40:32.520374+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -3849,6 +4047,30 @@
    "fetched": "2026-10-27T16:14:26.977596+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "86f3e833b326c34f",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Inceptio CEO says regulatory hurdles scuttled offshore exploration bid - CBC",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM08xOEM2OE1JX3NhRFZFeHdPQUpQT2J1dVpILVJreG85b0RlUnpPc2hrXzdlT2YtenN0NEhRN0k2YkFfZ3dpTlE3M3ZSZGFmU1Q5Ym5FVWN3eVhaSkFxcVh1TTFaLW1TTFU5OUh1REd1QnVMamJNTUZUZkR5VnU0ZVR6ZVBwNW9QQV9VRENFdlEwMXpyQTdUODQwQ1VkQkYwcTZ5MHU1MndCQnVneDk3SW9pamlOR2t1SXJlZ2lVdmdva1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CBC",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-27T16:05:24+00:00",
+   "fetched": "2026-10-28T17:40:32.520374+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
