@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T20:37:18.286521+00:00",
+ "updated": "2026-10-29T21:34:47.251561+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 28
+   "count": 40
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "id": "eu-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 27
+   "count": 29
   },
   {
    "id": "nz-vi",
@@ -263,13 +263,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 9
   },
   {
    "id": "au-partner",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 6
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 33
+   "count": 20
   },
   {
    "id": "us-eb5",
@@ -371,13 +371,13 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 14
+   "count": 40
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-sheet-khac-2",
@@ -449,19 +449,19 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 5
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 37
   },
   {
    "id": "ca-work",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 11
+   "count": 31
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 35
+   "count": 22
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,19 +521,19 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 17
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 29
+   "count": 38
   },
   {
    "id": "eu-blue-card",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "eu-schengen",
@@ -575,25 +575,25 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,13 +617,13 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 10
+   "count": 21
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 16
+   "count": 9
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 21
   },
   {
    "id": "nz-business",
@@ -647,25 +647,25 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -719,10 +719,105 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 11
+   "count": 10
   }
  ],
  "items": [
+  {
+   "id": "39cba46645cbe42a",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australia Changes Visa Requirements For Foreign Applicants Under Subclass 407 - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGtwLU9QYTdPbmhURWRWY0VzT090S2VQLXhneVhJRnFzQmI1NjBJcVBBUDVIZl8zUzJKelpBVUNCNU1oelNEM09YRmVLVlVVSlp5OUIzWG5NQ3VQM3A4N2JwV3RkMlAzRU54MTQ0QVFYZ0RXM0JmUEU4TkcwTVJzeXh3Ml85VlBWWkt5Q0FiRm5HTldfTEhmUTBVNUo?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-29T21:01:59+00:00",
+   "fetched": "2026-10-29T21:34:47.251561+00:00",
+   "visas": [],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "efde0fa4e2cb0640",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Mask ban, visa review measures proposed by antisemitism envoy - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd19Ga1NKbzhiS0tWRXlMOGxadWRzenVqSTZrX0NLTnB0OWRNY1VtTWlZa2Zvc1JUTXNkT2NaT0gzQ2ZqUnhEWFUzUlJJMjhlZnBDb0dEUjJGNlVmVmNMQVctRDF2VmRJaURPRkJYVWpNS3g0X3kzcm0xR1lkbnN2aWYyZE9qaW9ZTXN1aVR2ZmZZTTk4WGZJVUc3N0hJNkJpWFBJ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-29T20:12:02+00:00",
+   "fetched": "2026-10-29T21:34:47.251561+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "e1b6c258e59a3d68",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Canada expands the right to citizenship by descent after the implementation of Bill C-3 - arabcanadanews.ca",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZC0wVHpROGdqUHg2S0VPZlBGQUVDU2ZuTk1RM2xjcmU5ZzNVSW00azJfY2dJLVhtTkN1ZzZLcmdBUjFfcUh6TW5pdThLS3lET0dUZEF6Nk5LTkRXOXVlSWNhTTBOMXEwN0wyUHZyc2RKQ0dLNDhSVENvMDB2dXh3ekRRbHFwQlBzbFpXXzhSZ3l2SjBIU2xGWENXSVVnRE03Y0l0RXdtWkJQa2xPZHRMZF90MWJvcTFsYTd4dklDUXhqQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "arabcanadanews.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-2",
+   "published": "2026-10-29T19:37:27+00:00",
+   "fetched": "2026-10-29T21:34:47.251561+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "cbe8a749985f4cac",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada sets immigration numbers at 380,000 annuall... - arabcanadanews.ca",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM21VQ3hlYzduN25LRFF6VFRFWmpjMnFxRDRlZVJoRXJrTUFoV3FSM3N1eGgxcUZLWC0yc2xWQzFYcjF3MTVIXzR2aG5zVHdVQ3dXLXJRd0J1MDJCOC1ZRy1RX0toYk1scW04ZmQzekNfVkU3Sk54SkdvNmNqbnZpYWdfbS15eEl0Um9MeFQ5ODdQUDVMTHhnQjhLWFdoa1B1ZkJfMHZYMDVaeU4zU2JzdmdsallSeWdsMFBySHJqQmQzcGtiTDMtVmNyZHQ0WlBkdzhSWFZhSXMweXExYk55a2gxUVF5UQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "arabcanadanews.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-29T19:37:18+00:00",
+   "fetched": "2026-10-29T21:34:47.251561+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "29bbcf511a481804",
    "src_group": null,
@@ -1673,6 +1768,30 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "7405db7e55fcc85f",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Immigration weekly update: October 29, 2026 - Crown World Mobility",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmxtSnNiSDBEX1lnQzk4QkZYbk5vTXdudUdNenE4S0FfaXFKMEVvd0QzOElxODdfVnFuQU9sTS1xVGItRXVQbUE0djRvemxjRnNISFNKaFk1WWItc1I4VTZVeUhqVTRlNzJJNjV3MlRvT0MwemZqbllfdmVGS1dMcHB1bGRfRGZFWDM0bF9sb0dFZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Crown World Mobility",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-29T10:52:42+00:00",
+   "fetched": "2026-10-29T21:34:47.251561+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "96c53aee414f7f0b",
@@ -5469,6 +5588,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "09ed466085751fc6",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "IDP student survey shows students weighing more options and visa policy impact - StudyTravel Network",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mT2xjN2dqY3ZlaFA1RmlmaHQteXhGTlpQOXdyM29yY3Fncnl3NkRVWTJlV0xLM2ctd3ExS1JFZDJQY0xOMWpXbUVpOGpFMmlaRHI3QzBQa1h4MDBnb1E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "StudyTravel Network",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-10-28T07:26:03+00:00",
+   "fetched": "2026-10-29T21:34:47.251561+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "b7caf44a11812ac5",
