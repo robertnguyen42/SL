@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T14:50:14.633921+00:00",
+ "updated": "2026-10-29T15:46:21.850989+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 22
   },
   {
    "id": "eu-gov",
@@ -208,14 +208,14 @@
   {
    "id": "uk-gov",
    "name": "GOV.UK – UK Visas and Immigration",
-   "ok": false,
-   "error": "HTTP Error 503: hostname doesn't match against certificate"
+   "ok": true,
+   "count": 20
   },
   {
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -227,19 +227,19 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 33
+   "count": 14
   },
   {
    "id": "au-student",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "au-sheet-chung-3",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "us-family",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-sheet-khac-2",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 6
   },
   {
    "id": "ca-student",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 31
+   "count": 10
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 21
+   "count": 35
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,25 +521,25 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "eu-work",
@@ -551,13 +551,13 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 26
+   "count": 13
   },
   {
    "id": "eu-family",
@@ -569,7 +569,7 @@
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
    "ok": true,
-   "count": 40
+   "count": 37
   },
   {
    "id": "eu-uk",
@@ -581,19 +581,19 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 17
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "id": "eu-sheet-khac-2",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 20
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -719,10 +719,90 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 7
   }
  ],
  "items": [
+  {
+   "id": "bbde113efb2418b4",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Planning to buy your way to Green Card? EB-5 fees are going up - The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZzdrN3N0NzR5VVF1NDZRR2pMWklSMVR3SnFDbmc3eTMzN3pFMEh5czRQTzh6aVBMZElvb2pEaUJha0pfYzFLRmdybDcxYk9ObFlKTWpoWDZjN25Vb2lKZXYzM2pwTmh4T2MzdjlFV1VvMVlQT3BVUkZMMlhTRzJZMEY0cWRKblFwa1ZwSTJhRjNxcHZsbHBWcGs3ZnZ4cTRERFdHX0E1QWdJWnlvMkZ4bnVYbw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The American Bazaar",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-29T15:18:50+00:00",
+   "fetched": "2026-10-29T15:46:21.850989+00:00",
+   "visas": [
+    "eb5",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "719c5f93ca600aae",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK Student Visa Living Costs Increase: 5 Cheaper Countries - Techloy",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VUHFsRHRmRmFDZ0x5UGpGcGM4Mm9YZE9KY2NNM3c4WlVaaEdaOWpuT0d3T2dqWVlxOUQtLW1abnk4X3pNWlJuZXBPeVgyMkR0NnNlWmFJS2dTbnZjTElkUWk1cDNrUE1IRGRjMVlzQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Techloy",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-10-29T15:16:00+00:00",
+   "fetched": "2026-10-29T15:46:21.850989+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "3485c4bebc3226ba",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Visiting Israel in 2026: ETA-IL Rules, Travel Advisories and Where To Go - Global Rescue LLC",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWDB1T1JtYm9mMzVyU3Bwd1l4b2VxRENidWc0WGd5b2hCSkFCeGxwMjh5akJjQVhrVDk4cm8ybzJiZkFhZ1lVTUVEZGRyZS1Cc1UyR29waHdyNHp4SDNKNkJNRWF6SDJEWXl0b2pSUWl0em1uZm8zN2NrT1V3VlV2S2pTcHZ5d1lBWWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Global Rescue LLC",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-29T15:11:15+00:00",
+   "fetched": "2026-10-29T15:46:21.850989+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "535db20f8d88794e",
    "src_group": "khac",
@@ -822,6 +902,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "cd13ace37d319b7b",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Establishment Labs Holdings Inc. (ESTA) Reports Q3 Loss, Beats Revenue Estimates - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUY2QnNmNEdCckJPTWlFX3pUcnVrRGhsWkhiNFQ1MUhaUnZOODhGNmx4SUV4QXNHZktFZzJQRWJPUGp0Y0dwenljdVRtUnlmT0VuRnlBUE1fNV9JYV8xQmcwNEU1dWxNTmtXWlBRTUZuU3A2eFhtUjNscEFRdGZqdFo5QndRNGxYeXBpQUJmRkxTdHBlUERVeU5XRWFUeW5PaW9V?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yahoo Finance",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-29T13:30:05+00:00",
+   "fetched": "2026-10-29T15:46:21.850989+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "22cbd00fc35d1286",
@@ -1235,6 +1341,30 @@
    "lang": "en",
    "policy": true,
    "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "f2b95a5ac71a7c2f",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Australia Visa Biometrics for Indian Students: New Rules from Oct 26 - Shiksha.com",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUWhNSFR6UmxLaTI2UEhOLXR1LWhiZXZBTERGRWQ3UTV3dHVDWGdHYW5TVHV3bWRCaGlVMWJFVEZpUlFfSGoxWm50TnVrbjhSc2dlblIyUW96UVRYTWkzZU1jZXZPdU1iLVpFTjVYOS16VWc4d0xKQ2VqOE8waEQwTF8xb0M3c1VpNzB0VUtqNW5kcEhOVEl1LWJ3eFBHLUJzQ1o5SEt4d0VJVGNiQkU4bTVRTkhQTTBWNlhWbTVUS0tiSVZxdWJvdGw3M2dlRTlCcV9mbmdfeUl1ZUpwNmRVSFRZZHJZNVk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Shiksha.com",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-10-29T08:52:15+00:00",
+   "fetched": "2026-10-29T15:46:21.850989+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": false,
    "score": 2.5
   },
@@ -11231,6 +11361,32 @@
    "score": 0.0
   },
   {
+   "id": "dc25ab814cbd4a01",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Schengen Visa Trends from Türkiye (2014 – 2025) - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lMjBOWHdJSjlmNUJwLWVTX0QzZ3dwT0Jkdy1YRHNJVFhRMVZyUlZxeEhodGxnYkFaXzhvWmVCVlJmTmNOUHQwS3lzSmYzQUgtRnNzQ0hUSjd6OG5n?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-10-29T15:46:21.850989+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "d8f80978b4a93333",
    "src_group": "chung",
    "src_country": "AU",
@@ -14649,6 +14805,28 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "a9173bdfd1d41465",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Immigration policy cuts foreign job seeker interest in Canada by half: report - Human Resources Director",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakZ3djBJOUFGSC10OWU0d2VFdEk2OW5KNnZRQ1RuNVBKa2UtTDR3aUFjdDhqTkx4QXAtejRuNktDR1lRNTJFTDMzQVM5V2hSUm5PWGF2NHpGbjR0MGVqcncyREdlcEdJbWtvcEFsX2tKbDktUWczMVR0bXFmT25vZUlqY3Q2anVtZHdNOUo3Um5Rc3RCdERVd2RjQ19RV2hJM1QtNzNOdTEtb3Q5VXpEVS1MWElNemgwTVFFMWlZMW1ad1NLOEZ0TERmX3ZGYlpn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Human Resources Director",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-10-23T14:18:03+00:00",
+   "fetched": "2026-10-29T15:46:21.850989+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "8b42eb21c630721c",
