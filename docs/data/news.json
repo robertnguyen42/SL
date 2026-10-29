@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:43:22.335359+00:00",
+ "updated": "2026-10-29T13:54:42.295355+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "eu-gov",
@@ -208,14 +208,14 @@
   {
    "id": "uk-gov",
    "name": "GOV.UK – UK Visas and Immigration",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTP Error 503: hostname doesn't match against certificate"
   },
   {
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "nz-gov",
@@ -227,19 +227,19 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 23
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 13
+   "count": 33
   },
   {
    "id": "au-student",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 6
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 30
+   "count": 20
   },
   {
    "id": "us-eb5",
@@ -371,13 +371,13 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-sheet-khac-2",
@@ -449,19 +449,19 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "ca-work",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 29
+   "count": 10
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -521,13 +521,13 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 38
+   "count": 16
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 11
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -581,7 +581,7 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 39
+   "count": 30
   },
   {
    "id": "eu-sheet-chung-2",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 18
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,25 +605,25 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 21
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 23
+   "count": 10
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 8
+   "count": 15
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 10
   },
   {
    "id": "nz-business",
@@ -647,19 +647,19 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 23
+   "count": 40
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 30
+   "count": 28
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
@@ -683,7 +683,7 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "ae-sheet-chung-1",
@@ -724,6 +724,57 @@
  ],
  "items": [
   {
+   "id": "22cbd00fc35d1286",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Majority of insurers plan greater use of onshore captive reinsurance, BlackRock finds - Captive Insurance Times",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQVE3Z2lFWC1ackJIVEpuWkE1MTVOUWpMV3JXTFVseklIdko3Y1NhRXE5dDROdlZ0blJaM01nVWdVa0pSbFpnak5TR2lHaExJMmRoNFA0RjlidVdtN2pNZW5idnN3VlJqS0JjMGh0S05SYXotQ0FiUk9FRTI2UXZlVFp1N1Vsdk9fMzV3T2huOFF5ZEtoaGdBMThVRmFTTGxseUpUZUNZcHYyeTRNUWd1R245NkF1MUQyX1RUc2lydFQwRV9QanNOYUY2Qm4yZklta0dHMnNpVXVKb0lFVW5KZnotcEFUQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Captive Insurance Times",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-29T13:24:27+00:00",
+   "fetched": "2026-10-29T13:54:42.295355+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "02768b513fd2bc8a",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Australia Student Visa Rules 2026: Restrict Onshore Applications for Indian Students - KollegeApply News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSjRfVzRhYzdobXFwM3RvVm0weUkyRDV3SmxPTmJCaW51aDdvQWE0QnFCNmFXREpVTFNtRzVXVjFfWmNZeElITk83LTVLcXRSdUNFTzgyaFdTdDRpVm5id24xWjJSZGVObUFQZXVDUE02OFRBSTVBLXZlWDZMYUFzS19iaTVHS1gtM0JMYk5FZEZCQmlkZWExWk9IMjF6enJBelJkb0psNUJCOHIyTWtPcVNEOG9lVHJKcUE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "KollegeApply News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-2",
+   "published": "2026-10-29T13:09:15+00:00",
+   "fetched": "2026-10-29T13:54:42.295355+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "d3c5324d8438c70d",
    "src_group": null,
    "src_country": "EU",
@@ -744,6 +795,28 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "6a01fb9dce7c3f1a",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "CEAR calls for more funding to protect migrants in the Canary Islands - Teneriffa News",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmFxdmVQZ1RINklZQXRacldFNXBuZ1dXaFI0VmlwR1JBbGEwQUlicE9ENzFPNWZTaWxFcURPa2kzSnRIa1c1c19FWWlGTWhWQUw2aEpyMlVna2RNcHI5VzV2TDBYUnQxSWV0aUxkd2tnUHFLRjFwUkI1UTVEbk1KWTBNVEgyZTBPMl9pSTl5cWVaN1pkUDZjZU02VTk4YWdzdW5ScmNPdXpkWkFIYUpianFuNUM2VUd2Y1gtalVqMWlMUmtHNDJqd0dKeFJRWktn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Teneriffa News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-29T12:05:23+00:00",
+   "fetched": "2026-10-29T13:54:42.295355+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "91685b848a6bef86",
@@ -966,6 +1039,30 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "fc4f5f0f3978e49d",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "'All-in-one' $1.9B Covington offshore services firm pioneers frontier tech on expanding fleet - NOLA.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTHBjUzFfWkxTMzhlU3hYb1Z6N295cVZXbVBoYW1xYkF4Tk1GaWJoTk4tQVNfR0JMLUFVN0pPSnNoVVlRUW1adlIyVExSVndkVHVzbmFoYlJFc3JpbU9fbUZLVHhhbUQ1Ym1TUm15dkVYclJsaURsbXBOV2VrcGdNOEdGZ3NULVBvbEY3ZFNRRllHcEJDN3JUeU9NS1ZrX08yYkdXREtYOUE2NTZoUEctNFRoMzBGazl3X29EeTkzS3VXQdIBxwFBVV95cUxPMnhSOVNlWDd0Q1A5OHFXWVhvcHRfV3ZjY1JWV1NWTFJXTEVsUHhkRUF5a25BV2F1NVpIcHl0UmtzcEJjSWpiV0RFWnc2ZU5vYjRnR1labU10VHR4ejdWY0YySjNGOWNwRFBDU0IwWWtVU0RqSHctYkFOb09TZ1lYX2taOExLZUI1RUt1UzI2cl9hM19GNXY3MVFTSC1JeGFZUG1tQURHOHdsYWt0NGUwQ0VER3FfQ25LeXJRVHZpZmdKVFVRRDlB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NOLA.com",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-29T09:00:00+00:00",
+   "fetched": "2026-10-29T13:54:42.295355+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
    "prio": false,
    "score": 2.5
   },
@@ -1567,6 +1664,28 @@
    "direction": "siet",
    "prio": false,
    "score": 4.5
+  },
+  {
+   "id": "b490c676bde62794",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS Set to Compete $20M+ Small Business IT Services Contract for Specialty Intake Expansion - OrangeSlices AI",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOanpGalVDcmxlOFpweFgwRDZKNUxraVMyMGtGSHZkSzZuVFRqOUc2aktvNzFXcjVtYXYxQlpSVkxlbGRyaDFNR2RleDNZTWtFZDkyZG1WY2dXc3FGVTA3T1VCX24tT1BmNFJiM2Vxa1RHOWdxeXh2OWJqY2RnUUkwazMzTzBOcElYSjQtOXBYSkVjQUJsb0hxODV4YU1oWXdSZ3hDaUMyWXFST1UyMXRNUkdjZkg4ZHc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "OrangeSlices AI",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-29T01:46:36+00:00",
+   "fetched": "2026-10-29T13:54:42.295355+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "d4dacd0518e81c73",
@@ -10901,6 +11020,32 @@
    "source": "eu-sheet-chung-1",
    "published": "2026-10-26T07:00:00+00:00",
    "fetched": "2026-10-29T12:43:22.335359+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "95526bfac77179b4",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Schengen Visa Trends from Japan (2014 – 2025) - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMRkk1TXczVWlkdldHeDlCT3U1Z2xmZ01ESEREbURLTnZFXzRLSW5mR0NZNUpfRkowVGdNSjRGVFgwNURKQVVRakszdEZqajVaM0VIUndpVE5ndw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-10-29T13:54:42.295355+00:00",
    "visas": [
     "schengen"
    ],
@@ -69276,6 +69421,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "903e5ef8a4b2c33e",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Court overturns UK decisions blocking Gaza mothers, children from family reunification - Arab News",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXB3VDd6R2poX2o3YVJEZkhDQXpUeU9NT2t1cmtjRExPSmE4aVBhbWgtOW5wUWZpSU13d0gxcVBSMUl4TVBKci1jdm9FYXh2dXVPSjNwWmNZcU5paElSR0M5WFRSZzNvUm1nUVBFTnZfRzZ5VjFTeE9RZm1ZZ3A4c181MU5sVG91ampXLTN5U2pWZUthVVl1QXZZWVpGYUhpa092RlZLbk9Dc1hFLWFBUkxkempZeGM3c2pGemk2MW4tZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Arab News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-04T07:00:00+00:00",
+   "fetched": "2026-10-29T13:54:42.295355+00:00",
+   "visas": [
+    "family"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "8482fbdaa3279ae5",
