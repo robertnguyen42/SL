@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T04:41:03.562554+00:00",
+ "updated": "2026-10-29T05:38:50.018443+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 35
+   "count": 22
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "nz-vi",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 16
   },
   {
    "id": "au-partner",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -299,13 +299,13 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 20
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
    "name": "Sheet – Úc – Chung các loại (3)",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-1",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 25
+   "count": 19
   },
   {
    "id": "us-eb5",
@@ -395,13 +395,13 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 29
+   "count": 40
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 13
+   "count": 40
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "us-sheet-khac-2",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "ca-startup",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -527,25 +527,25 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 30
+   "count": 32
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 22
+   "count": 10
   },
   {
    "id": "eu-student",
@@ -557,7 +557,7 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-family",
@@ -569,13 +569,13 @@
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "eu-sheet-chung-1",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,19 +605,19 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 14
+   "count": 7
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 28
+   "count": 11
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 10
   },
   {
    "id": "nz-business",
@@ -647,25 +647,25 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "nz-sheet-chung-1",
@@ -719,10 +719,34 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 9
+   "count": 12
   }
  ],
  "items": [
+  {
+   "id": "9feb43cc90e7c51b",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Bonaparte CCS project offshore Australia enters FEED as INPEX moves to increase stake - Offshore Magazine",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTGFmWkV2eW9vYXVaMXpfRW5LRFp5elZqSm5HRUdUSEV6U0ZzdzY0VjZ6NVNVV0F2NWROYkM5U3B5MEE1eFlXa1U0X21Pa3l4bXNtMjExci1nY2ppWW9oOEpqUHoxZnZuUEhFWW9STWpZVU9OeG9nQlQyTDl6SlZKLTAxNEZ2azExRFlKRUdKMllsOTB2T1BSMDlOdHBXUjJyWm9RckxndUg0THpyNzU3bFZQUE5nZGZEa0Y5LU8zWEw0cGlKN2ltQWVST3FxLTA4QnJrbWxNby00RTNPN3gxQk1mYnlaaTA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-29T04:56:50+00:00",
+   "fetched": "2026-10-29T05:38:50.018443+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
   {
    "id": "665dd8b707fe4afe",
    "src_group": "chung",
@@ -2742,6 +2766,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "7ba4e7b5e35fa7f9",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "ESTA Q3'26 Earnings: EPS estimate is (0.26) USD - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXJ5TDhRUDU5SDZGaVgyblVYM1JkdXFNZWlOTkhpRzQ4bUNXUzZBX3FUejdQLUxIbVZhM1FMay1yZ2N5d3ZmY0U5UUdLUWd2eXFTTkg2VVBJWUc5Q2JuUkdvNDhZQ0VFcU9IYXVHRFdJbXcyOG80WkMyem52M1lkRlM0UWlPXy1NSHBHLWtlNW9KSVZOMlQzTFlGVFFTZEFrT2RabDNqLXViZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "TradingView",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-28T11:01:21+00:00",
+   "fetched": "2026-10-29T05:38:50.018443+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "38e8af178eec73f0",
