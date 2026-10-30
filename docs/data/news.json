@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T17:37:26.035815+00:00",
+ "updated": "2026-10-30T18:38:53.220922+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "nz-gov",
@@ -227,13 +227,13 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -245,13 +245,13 @@
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 13
+   "count": 38
   },
   {
    "id": "au-student",
@@ -263,13 +263,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "au-sheet-chung-3",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "us-eb5",
@@ -371,13 +371,13 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "us-sheet-khac-1",
@@ -449,19 +449,19 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 4
+   "count": 8
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 37
   },
   {
    "id": "ca-work",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 11
+   "count": 27
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 26
+   "count": 12
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,13 +521,13 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -545,7 +545,7 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 10
+   "count": 19
   },
   {
    "id": "eu-student",
@@ -557,25 +557,25 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 18
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 32
+   "count": 20
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -605,13 +605,13 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 6
   },
   {
    "id": "eu-sheet-khac-3",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 20
+   "count": 10
   },
   {
    "id": "nz-business",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "nz-post-study",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "nz-sheet-chung-1",
@@ -683,13 +683,13 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "ae-sheet-chung-2",
@@ -719,10 +719,88 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 8
   }
  ],
  "items": [
+  {
+   "id": "a968352f38bb3572",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Austria freezes refugee family reunification: only 314 arrivals - Around Prague",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1JCNExLRnFpdzJlMXJ5eUhxTXdmWDdpQ3phSlNfOVUtQ1piUmgzNWVsWER5UnBRS0QteW5tZ19pa2pXdVVvTGdNdVJNUUFFVGVCODJhbTh4NVhtNWU1RTNrN1VhUUhETTZ5SFhOOEwyaGhNMXpraHBqSTdXY2RzZkZzZ2xLTl9HeURVXzRyalVVZER3eW9HMEtvWXVMRkw3Nlhvek9RajFENUtfWFVYbFJOTVY?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Around Prague",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-10-30T18:15:55+00:00",
+   "fetched": "2026-10-30T18:38:53.220922+00:00",
+   "visas": [
+    "family",
+    "asylum-policy"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "d777c9b4db208c7c",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Chatting with Charlie | November 2026 Visa Bulletin Reaction - WR Immigration",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50NFJKTHplWWpwNTdfQnZuMzZYS2V5M0h6NWM4aEtBXy13MkZiSWdjb2g1QUQ4WEM3S3d6MXlwcU4zd3BKYzJGa0FoMjFucVVzMkd1R0Z2M0VpUWMtRnVyVTN6Z2JpYmNFLWFnaGxISjFPcWJRMWR1RENuWTc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "WR Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-30T18:11:51+00:00",
+   "fetched": "2026-10-30T18:38:53.220922+00:00",
+   "visas": [
+    "visa-bulletin"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "eda7dfbc8f7163d3",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "GDRFA Dubai wins gold for innovative workforce intelligence system - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVZEbEo1QjUyeTJ4dTBadVd5MDJwWUwtU0Q4c0pSdlJzQ0xEa2FzWk9LUUwzV3c4bkFPZXhYcFVwYWlad2cxaTJKYkFnNldlNTh6UHl1MnI3bHppa1JNMmxMVlJRTk1Ca2FXYjlUcmplS1U0bXUyRXd6QV94Z2RRRjBocDR5blpqWURzdkQ3bDVtUlM4aWRTc215cGxNY3BQTFVlMXJQRDRoSWRGOUHSAcABQVVfeXFMUDFzQ3k5Tjg0MVVHRE8yTE1UN094VG03VHpVdUFrQ3JUYklrZGFNTHZELV9nNmxCVFY3U05iRlhFcHEtQnBSc25WbFcwa3U3WnBQcVlySWUzNUt5MTY4SXhZck9WbHJnVGVtcjZRbnpaeFppdGV4cF9GUmVOUmFLN1FhZ3doRWVtS2dWVXV2M0Q4eVNoaEFNMzVuZlhuSDFvOFM3aGxONmdvZXhVcDNOTl9ZYjRmVzVPNkhqdkVtZlZn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Gulf News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-10-30T17:51:29+00:00",
+   "fetched": "2026-10-30T18:38:53.220922+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "93679bc541bf7bc3",
    "src_group": "khac",
@@ -1257,6 +1335,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "e95260d64c43c813",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Canada Announces Requirements Citizens of 2 Countries Must Meet to Apply for eTA - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDc5MjF4OE1jZjI5S29NLVQzM3pTWWV4bi1IaW1kTU1PUldXQzh2X1h5QnhQMEFoMlY1M1VtRnpHTG9QQklrYVppb0sxcFBURFFJcVZrX1duR2FsZkt1VTB5SjFxU0g4d1RsZG1GSFFveFIxTlcySEdSdVozOGVmMUFfQWZycUtVdzhvZFdtaWZxZHVmRUxvdGRxRVZkclN3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-30T12:01:57+00:00",
+   "fetched": "2026-10-30T18:38:53.220922+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "92bf46e980da91b2",
@@ -17754,6 +17858,28 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "c6143c4a6e5b97d1",
+   "src_group": null,
+   "src_country": "US",
+   "title": "🍊OS Insider: New Details Emerge in USCIS RIVER Benefits Contract Fight - OrangeSlices AI",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTzZSbU9PX3VoYjNQdU1TbWFNbFVuWDhKRzhGTFFWV2g4a1pHX3hKNUVSeUJuMG9YNjVyZDEzNXVWaWxIUlI0VlNGM256cnZJVUhiMkFUQUExa2J0NnVoamhrWEVxRUlSXzdyN0JkUW50S0hWZ0RFTEZZTUg5aVVvNkRSUEN1dHctS1dER1BBNm9mOEwtYVYySGZnVW1HY2plYklSZXczcUpxX1Fqb2I5VQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "OrangeSlices AI",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-24T02:53:58+00:00",
+   "fetched": "2026-10-30T18:38:53.220922+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "d0bb5c5cf7b07d62",
