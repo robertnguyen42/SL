@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T03:41:33.420507+00:00",
+ "updated": "2026-10-30T04:41:23.645238+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 27
+   "count": 29
   },
   {
    "id": "au-en",
@@ -190,14 +190,14 @@
   {
    "id": "ca-gov",
    "name": "IRCC – News releases",
-   "ok": false,
-   "error": "HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 30
   },
   {
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 22
+   "count": 39
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "nz-gov",
@@ -233,7 +233,7 @@
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
@@ -263,13 +263,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-partner",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 22
   },
   {
    "id": "au-sheet-chung-3",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 6
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -395,13 +395,13 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "us-sheet-chung-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
@@ -455,13 +455,13 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "ca-work",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 31
+   "count": 12
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "ca-sheet-chung-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 33
+   "count": 22
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,13 +521,13 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 16
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 29
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 13
+   "count": 32
   },
   {
    "id": "eu-work",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "eu-schengen",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 20
+   "count": 37
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 20
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 21
   },
   {
    "id": "eu-sheet-khac-2",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 9
+   "count": 15
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 21
+   "count": 10
   },
   {
    "id": "nz-business",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 30
+   "count": 32
   },
   {
    "id": "nz-family",
@@ -665,7 +665,7 @@
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 22
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -719,10 +719,58 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 10
+   "count": 8
   }
  ],
  "items": [
+  {
+   "id": "2781da5a7a685120",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "Checklist: Canada shares 5 resources for Kenyans seeking work, study visas - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0ZXMWV3UzZwZEZZbXlGWXBXRTNtN3ppdjcxNExUODJjTHF2TFdpUHlqRmZ6ZHZkR0hPamdGUWR2SlJaTUk3d2pWZzJ3ZjZUR2N4cG5aY3JQTzU5Tlp4bVBBMHVUTlJyTlhkQjR4WXVUWFY4ZnI5ei1xcXh3Yl95R3hHQjJqWGhIVlQ0LW5WVm04cUJtcmU4eEpYbE1JNFFVRWdUcG9ORlljazlTaVBIVUNLeExtc2tR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-10-30T03:52:30+00:00",
+   "fetched": "2026-10-30T04:41:23.645238+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5a921f4e69766ca8",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "HH26-394 TILLAMOOK COUNTY CALL FOR BIDS – PREVAILING WAGE RATE CONTRACT FOR CONSTRUCTION SHILO LEVEE/WILSON RIVER TRAINING STRUCTURE SECTION 00010 CALL FOR BIDS - Tillamook Headlight-Herald",
+   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNNUl3aW1jU3ZLaGtsNHhSTUN2ZGp5WXliMjBlRzZFVV85aHF0YnNDV0NvY0diZVRhX1JNYi1vMlZkZHI3WGgxS1FOOERsU2RJX1RKaV93TkFmci1LNkwzR0FVckFXR0NVVW4waGQ0RkxTWFROSEtHTXJsWmY5OFBET216RlFSMU93eWd4NEQwNEt4Zy1hWHRmUzBiRXRQZEQ2VXN2ZXB5RndSZzBQWjhIWUU5YW1jNk9OcHlqUGpWcThzTkVwUlZBZTEyVE4ySzh5MUdkbXVRcE5TdG9mdFphMGFSMWxtdUtCWXJ0aENUZHpDWVV1RlZMWUVSYng0aXJUSWRZWUpsZ3NYeVAybUJMWURIUnZlSGVkVmdEOS1vWHY1V1RhTVhfc1JJVDFfYXZ1ckxUYjdBeGtYOEhyaWVNamFjLTkwRUhfQUdN?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tillamook Headlight-Herald",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-10-30T03:45:08+00:00",
+   "fetched": "2026-10-30T04:41:23.645238+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "725b7d1ada2f6be7",
    "src_group": "chung",
@@ -744,6 +792,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "2c5953cf474c5251",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "EU pressure threatens Caribbean golden passports ᐉ News from Fakti.bg - World - Fakti.bg",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlN2S3p4UHFUQXhLMXJGVkZFRjMyeEJsS3FSYVY1SHFrWjQ1blNRTnp4SXZ6b1lQQlRQb2p6ZjJmM3JaSy03RGs3ZEF4b0owemFuam9VRm9lS1ZiYTZRcVQ5UGF0czlwbm1NZjItd0dCRkRsR09vcnhOSi11eUdnaFQwY0M5TmJPRnc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Fakti.bg",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-10-30T03:35:00+00:00",
+   "fetched": "2026-10-30T04:41:23.645238+00:00",
+   "visas": [
+    "citizenship-investment"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "d46a5d8336d51b43",
@@ -1105,6 +1179,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "53e06218f6229623",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "IMCA Launches 2030 Strategy to Guide Offshore Construction Industry - Marine News Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNEczTHJma1NMMDlZZl9SM19sWk1UenJuWFJCRHFxZEFYRlpwbWFDdXZNVHd6YkJwcVVOMXlwQjEwRko3SzQ5aWNtLVRHNlF2OWNzRXl0bnlyOEdNdWRYTlM5WnJXZjJ4QmRnOEVHbGFLVlNUek9JWkFiT2QtMDBMeEVn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Marine News Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-29T19:36:33+00:00",
+   "fetched": "2026-10-30T04:41:23.645238+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "29bbcf511a481804",
@@ -1857,6 +1955,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "a63b1b9fa4f997a2",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Establishment Labs Sees 2026 Adj Gross Margin of About 70.7% >ESTA - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazBRcS1faFdFX2xjY0JsWjltSnZGYkFTQkFycWRJTEZab2c3bDBNX2ZIY3BwVTdqVUpyaGlncXh3dm4teGJQdFFSYkdqYjlCNDBBY1RWWjhydmJNZVZ5RlJSdDF5cVpUdkJ5RFU0Z3lpZmdPMFphTk1RbzZMYmJsZWFYSnJwcWUwSFRRQzRaemwwclkzYUlYYzRRZXVEVjFXMC1N?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Moomoo",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-29T13:50:33+00:00",
+   "fetched": "2026-10-30T04:41:23.645238+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "06fb63f128c75915",
@@ -3509,6 +3633,28 @@
    "direction": null,
    "prio": false,
    "score": 3.5
+  },
+  {
+   "id": "e98d5eafa62f4962",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Migrant staff worked up to 98-hour weeks at motel but paid for 40 - 1News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSk55NEs4SlhJekQzb1V5VGZ0dTVldnNVb1JRX21QQ2ZmREpWRFZjSExQZnFQVlRCeU4wbWRoRzFpUHo2THQyR21vRVEwRk81dzFxZ3loMXN4NUVWSWtFSlBjRHVWTjVTcTBrcElPclhHWWN4OEg2ZF9aTkdYMy0zSTRRanFTbzZGMEtKUWNvT2ROR2tOVUlDTEpoYVk2TG9mbXNv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "1News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-28T21:11:50+00:00",
+   "fetched": "2026-10-30T04:41:23.645238+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "24e24f0eaa1c39de",
@@ -15793,6 +15939,28 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "db1cf630cfb778c8",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "The permitting deal collides with Trump’s war on offshore wind - Canary Media",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjFxVEZWQ2NCeE5BcHg5eWVma1hXZkJSam9QNkgxZ2c0azZ6bnRid2xwbS1MR2stMkJlbTR6dXo0QlZIT25vVUlUeVYzTTFsRnQ3Yy1nWXNySHBSMnlfbGVOaWVCWVNQY0FPb3k0R0FsZktrWVJYbjhGYjY0YVozVg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Canary Media",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-23T16:37:00+00:00",
+   "fetched": "2026-10-30T04:41:23.645238+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "4bc213bb48670044",
@@ -41589,6 +41757,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "09c4c13a14009885",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Visitor Visa Wait Time Rises To 1 Year In Hyderabad; Check Delhi, Mumbai And Other Cities - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT01rTWd3WWFZMWUxZkJoVHI1LTctaVN6NHVGbTIxTjlXTG04QmhWZ2ZwYjVGUk5HSlhWVmoxSFR0MUZKc1lrclhHRlVadEUtTlNOdzRlOTZqdjM1MW5uVENuYXJ0YWpFSWV2VzRFUzA2cUdwYkZPa3JhczNSdGlIZThXdHdMc29TdXd1WURDbEkyMDZFM0U0cl9Hei1NdE1zMjFMeHNoeGF5MDN3M1JwaTN5WTlEc2EtVUdmZWh0eGdib29XNGfSAc4BQVVfeXFMT19Xa013dVpuazFvSjlHQXNpVWhhd21KbWdmY1ZJZUVzOHJzZFBSOWxLVGJab0s2Znp5OGRYc2NNR19Icl9ieGZRaXFHTjVfRjRPWDNrVm1RaFpVTExXRHVTOWd2QklIbEtzV2VnTk5LbG1uMlpSenhxREM0ajZQdTVLVXl0UktYNXBfbTQzRU0xMWhEQ2hOVnhxQjU0a05vYnJaaWt2T3Y1NWZ1eTkxSW96bkxvNGlTN0ZCeXVRM2NnM1V3QkxVSTduSTFZY2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NDTV",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-10-30T04:41:23.645238+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "0cb19e286a14ecc9",
