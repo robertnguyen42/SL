@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:30:34.773876+00:00",
+ "updated": "2026-10-30T00:42:55.138769+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 27
+   "count": 40
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 37
+   "count": 24
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -227,19 +227,19 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 23
+   "count": 40
   },
   {
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-investor",
@@ -287,7 +287,7 @@
    "id": "au-citizenship",
    "name": "Google News – Úc – Quốc tịch – Thường trú (PR)",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "au-sheet-chung-1",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "au-sheet-chung-3",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 0
+   "count": 3
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "us-sheet-khac-2",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "ca-sheet-chung-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 34
+   "count": 22
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 0
+   "count": 40
   },
   {
    "id": "eu-golden-visa",
@@ -533,13 +533,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 39
+   "count": 28
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 33
+   "count": 13
   },
   {
    "id": "eu-work",
@@ -551,7 +551,7 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
@@ -563,31 +563,31 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -605,25 +605,25 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 15
+   "count": 9
   },
   {
    "id": "nz-aewv",
@@ -653,13 +653,13 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 32
+   "count": 30
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nz-residence",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 21
+   "count": 40
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -719,10 +719,62 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 10
   }
  ],
  "items": [
+  {
+   "id": "78ddeecd1cc73150",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "eu-LISA names ETIAS a major focus for 2027 - ETIAS.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xVjNTMWVUSldVNC1vUXhFSmJqN0FwbGdoeFJMeWxhT0ZZZEdGRHozVHFmOGczSWhlYWpsSDJiSGpycFBRNWtqelRobmFGVjBvb0Y4SDJGVlo2RzItUE5yb0poNWh2b0tpMk14NkpnOHE3cFZnaVlKaQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ETIAS.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-30T00:05:01+00:00",
+   "fetched": "2026-10-30T00:42:55.138769+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "5c1b96b418309fe0",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "Job offers to influence invitations for permanent residence - the Manitoban",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ01PQWp0UzJ6RTBNUXVyVVEyZTBQTi04QXU0NGZJR3k3VU8wUVR0Y0VOVkNiNlVHdER3X2FkbXgxdzQ5U1VPS1lvV3VNX0ZYd2d1bnN5a2NRaU5oUGtRcUxhcUxIOHBuUFVOMXAyQ3ctWVl2WnE1SVl3dlBPdkdjaTNQRzFDWHRWQXY2dHNwQlMzQzF6NXo0NzZmdnR2ekZv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "the Manitoban",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-29T23:23:15+00:00",
+   "fetched": "2026-10-30T00:42:55.138769+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "dbc1eb675509f894",
    "src_group": "chung",
@@ -2585,6 +2637,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "33e74a2ac0755314",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada cảnh báo du học sinh: Làm việc sai quy định có thể mất tư cách lưu trú - Trí Thức VN",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUlOZHpyTHctSVhYaTdMb1BHckxXaUlLaWdiQ1hIQ1g3TkxORnd6TjFMVnYwNmJWWEdTNWs0MzBjZDBxNzJ3Y05HXzlYbmxmd2I0Z2dZbGRKNFZtejBmNXZZcDJRZURfd0xMOHlFQ2wtWUNBN2xfdWNqLXRWRzdEN3Z2WGJ6UHFHVUZNazJpY0pxclVPVzhUcTI0Q25ORzBDLWQtYVNZd0kzenlGRVJUMEM2WdIBuAFBVV95cUxPeXFFN1VSYWVFMXQ2Q3c4OEJVV2UzeG5URWhuS2U4RTgyNmd0RV9hbF9Mb0xybks5aWRWcU5jUVEwYkIxdW55alJ4aDVuOVRmNnM4SzFNa2txWWlBd2NGRm1FRTRIQzJEcjZtdDFyOWFzV0JKRFNRM2pKbWI1ejZGSWFMenB5b2pWbVZkdVFjbDRZNnZuMDdwTHY5c201dFJxems0T1dtd3BrNHpxNHFXS3hnTDNkdlpp?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Trí Thức VN",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-10-29T06:56:39+00:00",
+   "fetched": "2026-10-30T00:42:55.138769+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "vi",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 4.5
   },
   {
    "id": "853bd5217f1c040e",
