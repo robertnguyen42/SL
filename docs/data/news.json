@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T05:39:48.787303+00:00",
+ "updated": "2026-10-30T06:44:31.417227+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -173,7 +173,7 @@
    "id": "us-gov",
    "name": "Federal Register – USCIS",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "us-vi",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 24
+   "count": 40
   },
   {
    "id": "eu-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "nz-vi",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 16
+   "count": 10
   },
   {
    "id": "au-partner",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "au-sheet-chung-3",
@@ -329,7 +329,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 6
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 20
+   "count": 34
   },
   {
    "id": "us-eb5",
@@ -377,7 +377,7 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 9
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "us-sheet-chung-1",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "ca-startup",
@@ -479,7 +479,7 @@
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 30
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -539,19 +539,19 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 32
+   "count": 13
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 21
+   "count": 10
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "eu-digital-nomad",
@@ -563,37 +563,37 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 36
+   "count": 20
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 20
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,19 +605,19 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 21
+   "count": 19
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 15
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 21
+   "count": 10
   },
   {
    "id": "nz-smc",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-family",
@@ -723,6 +723,79 @@
   }
  ],
  "items": [
+  {
+   "id": "88bfe15db703e7e4",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Manitoba PNP Draw #282 Invites 1304 Candidates - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6UzVLTEFZLU5rZ2xqcGE1TVRkdVRvaEtiS3ZlVGJ0U093aWNFRXQxZE91RHlaOFp1SmRNdU5XeHVZTWhmQnBteVJsOWkyWmh2RjVKbE5HLWtGUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-10-30T05:26:57+00:00",
+   "fetched": "2026-10-30T06:44:31.417227+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "fb5594a39e065e8d",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "African Export-Import Bank Mulls First Offshore Yuan Loan - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFZ2WnhPdDJyVjJIRFpUNG4wUzRjTjJDeS1SNzBQRFpmcGdaMVNXNVBHdlh1RHB5b0NfOTJSNnVUcFBMRWVOLUltWWdocXNKTjB6NWJ6S0xrOEFBY2JwT3NYNzdFY2FJamEwZkw1WmsyaFJQaDVCN205T1haSG5UbTJ5Yk0wUHZfdG1VdlpyTEE2Y3JDeVNpVS03ektHTkhFYjQ3QUlrbnpHN28x?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Bloomberg.com",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-30T04:09:00+00:00",
+   "fetched": "2026-10-30T06:44:31.417227+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "05b0adc9f21e99fa",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Agency Information Collection Activities; New Collection",
+   "link": "https://www.federalregister.gov/documents/2026/10/30/2026-22139/agency-information-collection-activities-new-collection",
+   "summary": "The Department of Homeland Security (DHS), U.S. Citizenship and Immigration Services (USCIS) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and clearance in accordance…",
+   "src_summary": true,
+   "publisher": "Federal Register – USCIS",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov",
+   "published": "2026-10-30T04:00:00+00:00",
+   "fetched": "2026-10-30T06:44:31.417227+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 3.5
+  },
   {
    "id": "2781da5a7a685120",
    "src_group": "khac",
@@ -1273,6 +1346,28 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "e00a432fc01bd5d7",
+   "src_group": null,
+   "src_country": "US",
+   "title": "EXCLUSIVE: Trump Admin Hits Historic Milestone In Immigration Crackdown - The Daily Wire",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDhCNUpFRVFoZkJEMnNKbTVjUHU1enlzOGhhTXlEQTBZV3F4V1ByTUhNZkF6a3BpMEI4QXZJaExsM3dQS3BuZExkdVEwR1QzdDBYZ0Z0RGNNc2VRaHNHbHhtQTlWYkljRjlQRDVLaUpPdzRtYm43Ym1hdWRkeXZWSXRrM0l4eHM1blF1WXpnTFVaenBicGxuNF9nczJWbDhxbFAw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Daily Wire",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-29T19:09:54+00:00",
+   "fetched": "2026-10-30T06:44:31.417227+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "c712a7b3cd52eec2",
@@ -17197,6 +17292,32 @@
    "lang": "en",
    "policy": true,
    "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "95ae1185680b9619",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "MEMORIAL UNIVERSITY MUN international students down by 45% after federal restrictions - Education News Canada",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ0Y0thUll4VWQ4QzRPYmRDMHZfbFU5QlJNdmNGY1ZCTkc0U2xkQzJoX0JrU3E1WmdmVS1LMHFib3cyem9KOHlLR1Y4QUsxTHFSeWJqb0dhWkZqQkZ2aXRUeGtlNU12WWEwVDFYUEdXVGpTWlNqVjN4QnhFa3pEMklDOVY4ODFBdUdxLVJva2dJUWJ6RC1BZ19pUmJRRWxMSUstam54QkdHYjFjOVhveUlmT2dPZzZ0TmktQzRuYW9nR21BRGJwUENxWGVGVWpNUXRKbVZRaFFiVmgzSDZB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Education News Canada",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-student",
+   "published": "2026-10-23T09:24:35+00:00",
+   "fetched": "2026-10-30T06:44:31.417227+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
    "prio": false,
    "score": 2.5
   },
