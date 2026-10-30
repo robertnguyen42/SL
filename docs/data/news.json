@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:38:53.220922+00:00",
+ "updated": "2026-10-30T19:41:15.136084+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 29
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 33
+   "count": 35
   },
   {
    "id": "nz-vi",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 38
+   "count": 13
   },
   {
    "id": "au-student",
@@ -263,13 +263,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "id": "au-partner",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "id": "au-sheet-chung-3",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 35
+   "count": 13
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -455,13 +455,13 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 8
+   "count": 4
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 37
+   "count": 40
   },
   {
    "id": "ca-work",
@@ -539,7 +539,7 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 13
+   "count": 26
   },
   {
    "id": "eu-work",
@@ -563,37 +563,37 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 38
+   "count": 34
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 20
+   "count": 33
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -617,25 +617,25 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 8
+   "count": 17
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 9
+   "count": 15
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 20
   },
   {
    "id": "nz-business",
@@ -653,19 +653,19 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-residence",
    "name": "Google News – New Zealand – Thường trú – Quốc tịch",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "nz-sheet-chung-1",
@@ -683,7 +683,7 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "ae-sheet-chung-1",
@@ -719,10 +719,88 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 13
   }
  ],
  "items": [
+  {
+   "id": "c9dfe5d3b44de050",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Straight to Residence Visa: Conditions Foreign Workers Must Meet - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXAwNGprRWVRWVAtNnFtQ3BoVEtsOGtFVEh1b0JxOWtoN1RSbGhwSGlGSlNkRW9qRXlITWJOZ2FsUTVabnYxalFxNG9PTHg0Tll1cVYyalBIc3FoaVpiM1dkOUJUZkV3WUFjbmYwRDNPZlFtdVJPeTBfMTFubHQzRC1QYjI1eFBuT0hNRWlDQ19nTnhqcERPUkpYSlpMSFEzcXlaWm9CRQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-30T19:29:50+00:00",
+   "fetched": "2026-10-30T19:41:15.136084+00:00",
+   "visas": [
+    "smc",
+    "residence"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "8d96b77289f2c9b9",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Work to Residence Visa: 4 Benefits Foreigners Can Enjoy - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVhBWm9BYlFIMlR3UjlRdkRoa0RLRkF4bzhnWHRJNFl3V1FaWjVwTEx3RjRZUXkyS3p1SDRVbDJYSjJfbXZpQ1c4M2YwR2JRenhJRWdhNElXQXoxUWtDM2hVYl9pYTJtMldEM3VWR0RRcmtwNTk2TnNhbUZzakRXdWVvNkxQVURvRF9jdVJSMVFUdEEyLXkwUWhoX0dkSDZyb1ln?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-10-30T19:06:33+00:00",
+   "fetched": "2026-10-30T19:41:15.136084+00:00",
+   "visas": [
+    "smc",
+    "residence"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "d92bae3be2c84ec0",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS presumes 2.2 million immigration enforcement actions under Trump: what it means for Cubans with pending applications - CiberCuba",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaDZodFVKbXVLdVpBMXBVbXdEVXlQNWlaZHgzYlY2ZFF6Q3J5V2pmR2tSMEZmeF9zYW9DTGd5TGdFM1RkYmpOTVpoZDRuc2FGNnBuUVh3ZzNVQnllQ21TX2RnUzRZWDMwMV9kSXJHN3JnX09mTVZYaUEtMDlwZmJiQjVOQ0VOWVhOZjBOaS1BWVdPWVl3VXpOWWx0Y0R2cjNzZ1YzS3VHVWEzZnNRNGtUOTFRYy0zeG4xTGMtYkNuYzhoMTg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CiberCuba",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-10-30T18:44:50+00:00",
+   "fetched": "2026-10-30T19:41:15.136084+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "a968352f38bb3572",
    "src_group": null,
@@ -1039,6 +1117,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "fb09dfa0854c6d30",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "SBM Offshore commissions Seatrium to build an FPSO for South America - Inspenet",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zR1M3ZlB5eVRBT1dVb2dOT0k4OHFDcHhpQ0NFRVJjbXNLQnBsODVQb0Y2QzBuOXNNRmREc0ZMc19Ca3V6cVpxM055aWs2Z0pMbXIyQnN4LWpxdmgtZ09BWFNvdFFGajB4bXB1TW5nUXo3Um9tYnNXa0V3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Inspenet",
+   "country": "US",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-10-30T14:10:30+00:00",
+   "fetched": "2026-10-30T19:41:15.136084+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
