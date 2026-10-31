@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T20:28:07.330511+00:00",
+ "updated": "2026-10-31T21:07:05.389554+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 40
+   "count": 27
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 35
+   "count": 20
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -227,7 +227,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "nz-vi",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "id": "au-student",
@@ -269,7 +269,7 @@
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "id": "au-partner",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -371,13 +371,13 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "us-visa-bulletin",
@@ -395,13 +395,13 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 37
+   "count": 13
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 4
+   "count": 6
   },
   {
    "id": "us-sheet-khac-1",
@@ -449,7 +449,7 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "ca-startup",
@@ -521,25 +521,25 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 37
+   "count": 19
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 23
+   "count": 12
   },
   {
    "id": "eu-work",
@@ -551,13 +551,13 @@
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "id": "eu-family",
@@ -575,13 +575,13 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 35
+   "count": 29
   },
   {
    "id": "eu-sheet-chung-2",
@@ -593,7 +593,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 19
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,25 +605,25 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 40
+   "count": 25
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 7
+   "count": 12
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 7
+   "count": 17
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 33
+   "count": 12
   },
   {
    "id": "nz-aewv",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 22
+   "count": 40
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -744,6 +744,32 @@
    "direction": null,
    "prio": false,
    "score": 3.5
+  },
+  {
+   "id": "77a01728b8b16c11",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Cygnet Health Care Loses Home Office Sponsorship Status As Company Disappears From UK Visa Sponsor Register - ZimEye",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM1NRdXVUNXlmS0hDRUNXRE5JazA1RHA4c2JDWnZkTzFyczRJTXVYeHJWM0lycnZnMUNURjNvZTNmeEttZFVDM1JYZ1hocnl0VmlWbUtoRF9YV0Y5c3VnZDJWMkh4TkpZZnJHRHBJMGR6MERscGNZc2RMX2xzbnVqbTA1TG1NdEFWYTd0U1QzZk16eE1yTUNjc0ZrMVdjaHhyeWFLY2NpQndNdWQ3Yk9SWDJsZDZSejluMHp3Vmswd25LVktJMnZqRVhTQWNqa1ZZMFBudE5kVjFMdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ZimEye",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-31T20:17:27+00:00",
+   "fetched": "2026-10-31T21:07:05.389554+00:00",
+   "visas": [
+    "uk"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "9a5bff8a63a628be",
@@ -1262,6 +1288,28 @@
    "direction": "noi",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "b230105bdc1b32ac",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Three arrested after immigration operation visits more than 10 businesses - Telegraph and Argus",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0Y4anJkd3FTS2RsU3k1dkpHY3M1V1BQSEpBUGIzVC1pdXdncmo1MGNzZGxzclpOZ1lwczEwWEhLTXl2aHQwWVdVcjdlYXRaU0pYNWVTUkJUTnhud3h1SGtKSUFRbDRPQTA0OHl4ZWw3cXdCT21XcnRuUDFrMVJ5NlY2UWZDZktCbE82V2xQaklpUjNWOGJ4RUpiNDRDa2lpYXc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Telegraph and Argus",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-31T03:18:00+00:00",
+   "fetched": "2026-10-31T21:07:05.389554+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "6067dbc254147db3",
@@ -61833,6 +61881,34 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "7e3d64a3dfcbb148",
+   "src_group": null,
+   "src_country": "US",
+   "title": "‘You have a green card of your own’: US' new PERM rules expose a job trap of 'rewards' that employees get - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOYTN1dE5GZG9ZNE1sZUZFQ3ZPR1Z0OWkyMG05Q3pLZ0xENm9aUWlBOXZMVzFOUGg2RmhPeUJBMlMtSmN1TGpMXzkwR05BVlV4azNzcDZRN3FnQTVIWm1qY0xPY1EwNUt0cW81TFZJMWE2TGFKZWZhY09vWUVQdS1VWnFGSjlJOVJqZWZja3FZQ0p3bFZfOHdpRTFDMTRXbU9USXpRdklzbUFaUTY0WEU4SDJWOXlWMHdDcGNPUGZQUW53S002UGlCazFyVHVwLW1NelV4V3pwZGxtYlJ2dk01Rkdoa1NGNGV5STBtRnlMSGhvbzBMWDFpUzlQV1RIVDdzODNOYUtFa0ppY3FBR1R0QkpkRzZWOFo3TVpZR3B3UFltUlU3cmlabTU1dkJYVWg2SUHSAbcCQVVfeXFMTXlkSGptVENfaHBwYzd4ck1wOFdjUkJGaXUxVlIzSFQ5U1d3NjJlbEJtdXpZZjRrNkdFVlMtUEthM3o0bERyNVEzSjZvbW9Pai1NdFQ5ZGpaSlpsUTROcDFtaW5DTEY0TTl2RGRSWEgtVzVZNHFiXzh5eG9IMHVodWMzRmhuY3lBVVREcFo5NGVNWFJEOXZsaTBYYThjM2dIR2dDRWs0WmdVdWJaQTZmZGxsTzNQbE1sRWpaQk5KM3RHSGRDd0t0QzNfVDctVlREM0tZb2FhNThjRDc3dkxRWENWcDBxb1o0UUstRGhlSjVWLXlGYkh0cFpTQU11Tmd3bnlNNzhhdzdZbFBOcXM0ektxTmcyR01IcGoxX2FQdXZYcEJhYkNidXRoUkRVdVp0cFhQWG43QlE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Economic Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-09T07:00:00+00:00",
+   "fetched": "2026-10-31T21:07:05.389554+00:00",
+   "visas": [
+    "eb-work",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "f6cc906fe6524f7c",
