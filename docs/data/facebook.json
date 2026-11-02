@@ -1,0 +1,50 @@
+{
+ "_huong_dan": "Danh sách trang Facebook đối thủ hiển thị trên web. Lấy từ link Facebook trên chính website của từng công ty (02/11/2026). Sửa/thêm: mỗi dòng {name, url, note}.",
+ "pages": [
+  {
+   "name": "iCanfield",
+   "url": "https://www.facebook.com/icanfield.vn"
+  },
+  {
+   "name": "American Plus",
+   "url": "https://www.facebook.com/muanhamy.vn",
+   "note": "Trang 'Mua nhà Mỹ' được link từ americanplus.vn"
+  },
+  {
+   "name": "USIMI Group",
+   "url": "https://www.facebook.com/102640645532473"
+  },
+  {
+   "name": "Maple Leaf VN",
+   "url": "https://www.facebook.com/mapleleafvietnam.dinhcuquocte"
+  },
+  {
+   "name": "UCA Immigration",
+   "url": "https://www.facebook.com/uca.com.vn"
+  },
+  {
+   "name": "UCA – Định cư New Zealand",
+   "url": "https://www.facebook.com/dinhcunewzealand.ucaimmigration"
+  },
+  {
+   "name": "AIMS Việt Nam",
+   "url": "https://www.facebook.com/aimsvn"
+  },
+  {
+   "name": "Victory",
+   "url": "https://www.facebook.com/victorydinhcu"
+  },
+  {
+   "name": "Kornova",
+   "url": "https://www.facebook.com/kornova.tuvanditru"
+  },
+  {
+   "name": "BSOP (Bắc Sơn)",
+   "url": "https://www.facebook.com/BSOPdinhcuchauau"
+  },
+  {
+   "name": "Khai Phú",
+   "url": "https://www.facebook.com/khaiphuimmigration"
+  }
+ ]
+}

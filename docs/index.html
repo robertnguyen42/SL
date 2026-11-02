@@ -59,6 +59,10 @@ button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{ou
 .sum summary{cursor:pointer;font-weight:700}
 .sum ol{margin:8px 0 0;padding-left:20px;display:grid;gap:6px}
 .sum .imp{color:var(--muted)}
+.fb .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.fb .chips a{border:1px solid var(--line);border-radius:999px;padding:4px 11px;color:var(--text);text-decoration:none;font-size:13px;background:var(--bg)}
+.fb .chips a:hover{border-color:#1877f2;color:#1877f2}
+.fb .hint{color:var(--muted);font-size:12px;margin:6px 0 0}
 #toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;padding:9px 18px;border-radius:999px;cursor:pointer;box-shadow:0 4px 14px #0003;border:0;font-size:14px}
 </style>
 </head>
@@ -80,6 +84,7 @@ button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{ou
  </div>
 </div>
 <details id="sum" class="sum" hidden></details>
+<details id="fb" class="sum fb" hidden></details>
 <main class="board" id="board"></main>
 <button id="toast" hidden></button>
 <script>
@@ -180,7 +185,18 @@ document.getElementById("q").oninput=e=>{query=e.target.value;shown={};render()}
 const sortSel=document.getElementById("sort");sortSel.value=sortMode;
 sortSel.onchange=e=>{sortMode=e.target.value;safeSet("sortMode",sortMode);render()};
 addEventListener("beforeunload",()=>safeSet("lastVisit",Date.now()));
-load().then(loadSummary);setInterval(load,POLL_MS);
+async function loadFacebook(){
+  // Trang Facebook đối thủ (docs/data/facebook.json). Facebook không có nguồn tin công khai miễn phí nên chỉ đặt link
+  try{
+    const r=await fetch("data/facebook.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)return;
+    const f=await r.json(), box=document.getElementById("fb");
+    box.innerHTML=`<summary>📘 Facebook đối thủ định cư (${f.pages.length} trang)</summary>
+      <div class="chips">${f.pages.map(p=>`<a href="${esc(p.url)}" target="_blank" rel="noopener" title="${esc(p.note||p.url)}">${esc(p.name)}</a>`).join("")}</div>
+      <p class="hint">Bấm để mở trang Facebook. Bài viết không tự cập nhật vào web.</p>`;
+    box.hidden=false;
+  }catch(e){}
+}
+loadFacebook();load().then(loadSummary);setInterval(load,POLL_MS);
 </script>
 </body>
 </html>
