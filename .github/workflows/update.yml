@@ -1,7 +1,7 @@
 name: Cập nhật tin di trú
 on:
   schedule:
-    - cron: "*/30 * * * *"   # mỗi 30 phút
+    - cron: "17,47 * * * *"   # mỗi 30 phút, lệch giờ chẵn để GitHub ít bỏ lượt
   workflow_dispatch:          # cho phép bấm chạy tay
 permissions:
   contents: write
