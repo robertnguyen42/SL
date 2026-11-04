@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:13:30.522714+00:00",
+ "updated": "2026-11-04T06:35:13.868841+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 25
+   "count": 27
   },
   {
    "id": "au-en",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 36
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 40
+   "count": 32
   },
   {
    "id": "nz-gov",
@@ -227,13 +227,13 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 12
+   "count": 40
   },
   {
    "id": "au-student",
@@ -263,7 +263,7 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "au-investor",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -335,13 +335,13 @@
    "id": "au-sheet-dau-tu-1",
    "name": "Sheet – Úc – Đầu tư (1)",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 8
+   "count": 15
   },
   {
    "id": "us-eb5",
@@ -377,13 +377,13 @@
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 10
+   "count": 40
   },
   {
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -395,13 +395,13 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 28
   },
   {
    "id": "us-sheet-chung-1",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 12
+   "count": 34
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -425,7 +425,7 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-sheet-khac-1",
@@ -449,19 +449,19 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "ca-work",
@@ -473,13 +473,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 14
+   "count": 12
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "ca-sheet-chung-1",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 26
+   "count": 24
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 18
+   "count": 10
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,43 +521,43 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 35
+   "count": 40
   },
   {
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 24
+   "count": 11
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 22
+   "count": 9
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 34
+   "count": 40
   },
   {
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 12
+   "count": 17
   },
   {
    "id": "eu-family",
@@ -569,13 +569,13 @@
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
    "ok": true,
-   "count": 40
+   "count": 35
   },
   {
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 37
+   "count": 40
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,7 +587,7 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 11
+   "count": 28
   },
   {
    "id": "eu-sheet-dau-tu-1",
@@ -605,19 +605,19 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 26
+   "count": 24
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 11
+   "count": 7
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "nz-smc",
@@ -635,7 +635,7 @@
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 19
   },
   {
    "id": "nz-business",
@@ -647,13 +647,13 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 40
+   "count": 19
   },
   {
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "nz-family",
@@ -677,19 +677,19 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "ae-sheet-chung-2",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -719,10 +719,109 @@
    "id": "ae-sheet-khac-2",
    "name": "Sheet – Dubai (UAE) – Khác (2)",
    "ok": true,
-   "count": 13
+   "count": 10
   }
  ],
  "items": [
+  {
+   "id": "63b4a782f439f30a",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Antigua and Barbuda proposes ending Citizenship by Investment Programme by 2030 - Writeups 24",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjY4WUlqUUlWWnNpb3BjTDZHcW1HVHh1OXd4dHQtLThrYmdhS2lURExjU1RVV1RmeUVhMXhRb0R6MjFqOG0wb1c1NklhWGswMHcxRHI2S2g4aGVyYmN1TUt6dTVNellaby13REsybUdlRlFSb2JhdzNCbHFaSGFmeVpqMHlxbTYzbXBLRnY3ZTdvUGd3ZnJONG1GSktXeER1cUF2VnRsTmlmOGM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Writeups 24",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-citizenship-investment",
+   "published": "2026-11-04T06:09:22+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "citizenship-investment"
+   ],
+   "groups": [
+    "chung",
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
+   "id": "0d899241a76d3393",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "(PNP) Risk-Controlled Trading Report (PNP:CA) - Stock Traders Daily",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHptMl9IQm9UMDZ2SGRLOXRYelFUaWxEWU90aURJTWNzZi1fN00tSVpJQ1hhcHpCS1pzU0R3T1F3T1JRZDN5R2VxU0RFczBLVWtEaDFjd3JreUtaUjNWalpyZ2ZCb3R4b1RzNFBKYW9SVmJiMjBUSjNvOGp5V3lhemlUbjl6clpxQ2tWcUZ4MGhlNXJkM05n?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Stock Traders Daily",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pnp",
+   "published": "2026-11-04T03:56:35+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "pnp"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "ca6f3d7995372e0c",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Vermont Eyes Nova Scotia's Offshore Wind Resources - The Maritime Executive",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUDN3Yjh0eFRvRl9fNjBBV3JDaXZBbHRsSVVhTUhiLXF5ZnBycEQxdHVNaUFxaHdYUGZNYW83M1dxemF2YnN2TkUwblpBWDU3cmNaaTktcGNVd2NjYjNTMG9sMThwcno4aFNWcTg1Nk43OTJRVXdYS0JXcDNzRURIYjU3c212cGN5ampkX05US1pYeGs?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Maritime Executive",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-11-04T03:17:20+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "bf17cb53014d7715",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Peter Menzies: Canada cần một cuộc thảo luận chín chắn về mức nhập cư - DKN.TV",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZnNDSFNQNTBDUGYyaGYtRFo2Yno1VVFQRTI1dDZwV0JCY0JYamJxeHRkRHozZmFxX0k2X21lQWp4ZmFPUFo3ZXU4bUwyZ1NfZHVnUkpRRjctcjM5TnZSdldDTk5lX2JKeTRSZ0VKUXpXV2VZMXFGTzJSSklEWHFvWjRWSkVGMm5WRmRUYkxLSEFuMlA5VzgydHcxYnVuUnA4SWhoR084TTVaellQZVpDc0FQU2VYVklVSDRZbWstUnVHcUdP0gHEAUFVX3lxTE9mc0NIU1A1MENQZjJoZi1EWjZiejVVUVBFMjV0NnBXQkJjQlhqYnF4dGREejNmYXFfSTZfbWVBanhmYU9QWjdldThtTDJnU19kdWdSSlFGNy1yMzlOdlJ2V0NOTmVfYkp5NFJnRUpReldXZVkxcUZPMlJKSURYcW9aNFZKRUYyblZGZFRiTEtIQW4yUDlXODJ0dzFidW5ScDhJaGhHTzhNNVp6WVBlWkNzQVBTZVhWSVVINFltay1SdUdxR08?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "DKN.TV",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-vi",
+   "published": "2026-11-04T00:13:50+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
   {
    "id": "53eec2ef7e3145ee",
    "src_group": null,
@@ -798,6 +897,28 @@
    "score": 0.0
   },
   {
+   "id": "46f5a5d58815cebc",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Mexico | Online appointment system expands to additional immigration services - BAL Immigration Law",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUpJVTM0YTI0WDdRNTlYajhQV05XMWNhTi1HNlNNNDlxZEdzVUpqRDI2U3lXT1RZaGRoZk40WkZvdnBwS1RRRUczbjBwVU9wUVl6NXlqUndhVnZ3bnFuM1lxTzlSMkdWUUlBUzY1dEtMdklpRjJKTXRFWjU3cVVra3hNeFRMZ2d2QkQ4U0ZVVlZYWGpBeGRPMTVabHBydmwyazZieml3bFF2aFpDcDd2aHNfMA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BAL Immigration Law",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-11-03T22:10:08+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "27066c1c1db4a6c8",
    "src_group": null,
    "src_country": "CA",
@@ -811,6 +932,58 @@
    "source": "ca-express-entry",
    "published": "2026-11-03T20:56:01+00:00",
    "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "6889b35fdbbb4160",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "Is Your Company Ready for Greater PERM Scrutiny? DOL Proposal Clears Initial Review - Immigration Blog",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkViT2RZdldOYXc3YkhCblNkT2t6NGlzS1RDZ01ZMFV3cXVsVHBsSUhrUVhxeVhTUGN4TTBqMnMxdXdlaW1zRnN4LUVmRUhxY3JsbVBPSVdlYVhwcVBXSzlkeFFjSjRyOE1ZTWJWNUR5MUcyNFUwOHM4aHJIR0pVcHNHM1FJTzJLT1IyVFE2MlpTNGJZTFRxOFVRUFlJb0h4Q0V0aWJSQmNJR2tnWTFPQXdWSkdEalJVNWlEcWM3WVBnaWFIbnVTZA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration Blog",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-11-03T20:52:48+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "9c8ce7e7a90a2085",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Express Entry Changes Add Points for High-wage Occupations - On the Record News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORi1QYXc2MDFwb1JuNmZVRUVlS0hQamhWQ1d1MjRBTWhwRjZYV0VpNHpMa01lYVAtaDdUZTVBcEJ6QTV5MzVldGdSdlQ4eUI2ZkZfSXM4R3BxUGtJUFMtVllkOEVqcFNfcndTU1FmRF9TbFM5b2QxWFdoY2FETWNJSUlKLVJ5OEN4QlJnU1owRQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "On the Record News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-11-03T19:40:08+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
    "visas": [
     "express-entry"
    ],
@@ -1258,6 +1431,32 @@
    "score": 0.0
   },
   {
+   "id": "5e3228860a2bdcf6",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Dubai to Launch Tourist Visa Applications on Visit Portal, Mentions Date - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUF5b3NkenNxY0NVVDhIN3pPd3JXTE5CZ29wVmR2bjZtRk82cGhWUkx0Tk5xRi1mSWdHczFiaUNSVUkxLVVKc0kxakI3eGdzUGpiVjFoRUVScXhXelVXSjNkQkZTN2dmeUFPMGdtcHUwVDJkOHZlZk9IeFRtaXVEd1hRWVJLZktkRHk3SG1GM3NQdm5tcmRzcFVIT09lNkthYl9hSS01a1BHRFk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "AE",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-11-03T15:01:20+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "visit"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "c3562e95ab499618",
    "src_group": null,
    "src_country": "CA",
@@ -1330,6 +1529,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "16b89cf7920bdc34",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "New Express Entry Draw Expectations, CRS Cutoffs, And Trends For November 2026 - INC News",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02b1ppMlZGelprQXE2REk3OXRmaktYV2JMZl9NLVVnYmtiQzZDREJNTGk2VDFZSVQ1a1FXWnlFZWVNWUd1aVhRc25JSHhEOWRyZHgxUXRqRnR4QUJtYkI4SUZVSXFGaXJxNlp0RDBwVGh6MUU2UjFnQzZvVDkwRTg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "INC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-11-03T14:16:29+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "25494bc8a2d45b48",
@@ -1512,6 +1737,30 @@
    "score": 0.0
   },
   {
+   "id": "ee2be48401fd7f2d",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Production Restart at Australian Offshore Fields Boosts Jadestone's Oil Output - Offshore Engineer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1hEVTIyc3ZWSzV3SVduOGJrUVZTVE5UbkdVWkowYURaSVduWjhIZ3NYSUd0dXVUeGRIQXNVOEl3cGxwS2dPSWhybTZ0MjNIcWZfVlN0M0xLV0RrTWlLQjM2dkFkRG5ob2pGdUpCOFk4TGljYS1xWXpJLUllYS1PSUtyY1dKdW14aVQyQl9PaEFJejJxSDFDUE1PTXZYVjJJZVhKMGtCa1BGVGxkY3FlRW1URUZzREU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Engineer Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-11-03T12:24:47+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "66c621eb73a5512e",
    "src_group": null,
    "src_country": "AU",
@@ -1604,6 +1853,28 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "fe011ca7b3bb873b",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "ESTA Warns European Heavy Transport Industry Against Protectionism Amid Growing Challenges - Breakbulk.News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamZmOENUV0R6azhwZXNFZUFkMTJ6REZMWnZCcjBOcEdIYW1VTTBreUd3aEYwR01QcWJOZm5nVFRsUEU5dUV1WmVONGk5RHctbnBqVnhTbDBCSFlLdk1FZlo4Y0Y2UmN3REptWlk3U050NThpT2lnRk11bkVSNDF0OHpMWnM4aWhaWDhUR0xEWnNzM0lhMXN1V0xPUTJsemhXcVhaeGhQeUJZeHdHRXRXXzA2UGk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Breakbulk.News",
+   "country": "EU",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-11-03T11:49:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "c07bea63fb2b50f0",
@@ -1796,6 +2067,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "4e004191071eb91a",
+   "src_group": "dau-tu",
+   "src_country": "EU",
+   "title": "How To Get Latvian Residence by Investment - Nomad Capitalist",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CcVhtcGw2Z2dzT0J5Ul9JaXFTQkluVF80XzlMNnpWR3ZZOVdtRDlVbDdRN3c2RjdmNmI0RFpiY2lXVUVsanJzamR2MEdVdmZUY3hIR2pWLUIwVzlZTWVlQ1ZxNGRPZUtkaFNvNkZYNTIyNkoxcjc2dUZ2aXRKcUk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nomad Capitalist",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-dau-tu-1",
+   "published": "2026-11-03T09:32:06+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "36c2cd8d5af81a22",
@@ -2173,6 +2470,54 @@
    "score": 1.5
   },
   {
+   "id": "a7510e09642b7dcc",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Travel to China boosted with extension of Aussie visa-free entry for 2026 - Karryon",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94YjRWWU1DSXFaLUhVbVFaQXZQYlVQbTZadTJGaFBBT2hxZ3ktMFVzZ2I3dEZyTzlfeF85UUd2QmJ1OU9VT0lMYWx3WVBLQzJicHpIdER5MVh3bjgtWHVUUUJ1TnVRWE0yVDE1czdHbHppWXZmdXpuLW50aw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Karryon",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-11-03T04:13:26+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "db955fa393916d3d",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "ETIAS Travel Authorization in 2027: A Practical Guide - https://www.thetraveler.org/",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWkZVRlc5X29xajhNYjg2UGtDejZlemxtZDB4NVJPYmdScmo5b2hyLU5ReXVFWEx1eVRoLU05MlFCeE9Hel9hTEZiWk9BazBwVU03MzgwQk5JaW11N1RKSlBKaGVtcnFxWnlSb3pwQm14SU9ZdGJ4MGJQeno2d3FzNHpUU3E3Vm5u?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "https://www.thetraveler.org/",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-11-03T03:09:37+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "de3c78b2f349b2bb",
    "src_group": null,
    "src_country": "AU",
@@ -2291,6 +2636,32 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "7560bc2511e1e362",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Justice Department charges 6 SoCal green card holders accused of voting illegally - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbmJMaG5ZTGZhcUMyTDFKUjVYenAxMzIzM295RW95SllZVHJzb0NJOUhmdG00YXJsQ1hiLVY1TGwtdDRfQ2dIX09jOEFxUlFRMG9vWjRSZnNGa1dUZUFOamJmSkZPbHo3VHVuS0NoWVNVX0prc1lxcldPWHdnM0hFRHZZVHFqeV93amdTM0k2M0ZVTUhGUUhvZEJGenJKR0VYWVhfc0ZGSjhBT05OSmtMZHR0RzJHdlVCVGNyQlpDeks?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CBS News",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-11-03T01:28:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "285413a212985149",
@@ -3794,6 +4165,30 @@
    "score": 0.0
   },
   {
+   "id": "b387b5f749e51f99",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Schengen Countries Issued 630,000 Visas in Russia in 2025, Up 14% Despite the War in Ukraine - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0JOUmNDMi1CQWozX0hZYlZhUGlFLUFKaDAwMUc0eGFHbElVMTNKOTh5Mkg4SkY0U0R1cG1QLTlZZlAxSWt2aXFDcDA1ZklGcW5QWWtYSlIxSUFXY241OVphSzVSTWpwTmhwSnJUM2V0V2ktQW4weVJjcnZ3N294Q2t0bkw2SWtkSkRNXzVfdlBEbVg3UEE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-11-02T12:59:25+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "d1bb859229962f73",
    "src_group": "khac",
    "src_country": "AE",
@@ -4530,6 +4925,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "d71451f2f4ba6795",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "Digital nomad visa France: your options in 2026 - Expatica",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWnlhUEFKWFJnNFN2SFgzc3J6N0VVOFo2R24zOEI3WGdqNEhZZ05FUEQ2SzlNXzdhemtkVTQ3VVFHTkVKMm84LUZZUXJyT0lMS0gtellEOU43dC1DYmVLazVKVXljN0h2bGdhSXZlLVRqRWNpdWNkQjQ1QlQ1a1k4Wg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Expatica",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-3",
+   "published": "2026-11-02T08:00:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "digital-nomad"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "5c6d1aeeb156693e",
@@ -21764,6 +22185,34 @@
    "score": 0.0
   },
   {
+   "id": "c2d66de1c2ee2f1a",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Home Office urged to break with ‘toxic record of failure’ over AI use in asylum claims - The Independent",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3NUZ2JDSkxyTzV3R0JodkpYRldvczRTN0VqSzJjUkhRd1lNY1lnaGhlVzZTTFV6NEZhbzQ0VkRWNzJTSVlrM0pncWVRMGFtR054SXh2V1hRZVVVWUFuY2hhNlpSWlpMWmc1MFh1aDJFV3dhU3M2T29MV1JVZGxwQXd0b0FudVVrVEtmeklwWTZVbXVUX2lWZHpQVHdxUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Independent",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-10-27T00:01:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "uk",
+    "asylum-policy"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "615f9def81db289c",
    "src_group": null,
    "src_country": "AU",
@@ -24757,6 +25206,162 @@
    "score": 0.0
   },
   {
+   "id": "71fc2f751d05ac05",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Schengen Visa Trends from Bangladesh (2014 – 2025) - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2UlZrYUViYVV0NUNNQzJYcFRtRE1haGFST2E1c0xxcTFFS3V5b3RnS1o3Ul84UUZzZk9SNFlvZXFIQnlJd29Nb3VTRk44X0FaUDlydkh2VVNpdXBMaVJZWA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "7ebcab425bfe2d9f",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Schengen Visa Trends from Madagascar (2014 – 2025) - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yWHpxNXUxamdTdTZGR1ZKWkFaU1pqUnpOQUZFOXdGR1p6dUk1WjdYVk1hNWNXVEVjS2tiUUdqVGRRYWNnRFRqcU4zSEw1M3ZlUmtRampscl85aEtTY3hBTw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "277f57dda41a4017",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Schengen Visa Trends from Equatorial Guinea (2014 – 2025) - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41aUdOZ3FWSE9vTGdIVVFIYmJMQWFmcy1SMl9MY0Y2M3FPenoxZjlOOVJSQm5hNVdxVGo5MWo3ckVVZENXVV9DanoyWXFYc3ZDWUo5TThwbnhfOVA4MG9Bc3dvdVpvaUFCUGc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "6aa76f5de436c2cf",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Schengen Visa Trends from Tanzania (2014 – 2025) - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SUkhPZFNFdkd1OThNR0JBcHR0SnlHZWZOVGJUdW0zQTFFdmpMYVd0RVQwU0pzaTJuX195bGdDWTZtVDNISDVlYnZJd00tVDNzVU9YZlRsME8xbHlDM0E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "648609ca41c11b6d",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Schengen Visa Trends from Gabon (2014 – 2025) - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EaEdrLTB3em52Ym5wNXl0dGNpdzdkelh1VlBnNm1ldFRoMHE3bkVid05UZXFDUlVtc2tOLUh4QmUxRldmanBpcjRWVU9UcmEtN3VBaHkwNzNKQQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "f8379aae6bcf2f5d",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Schengen Visa Trends from Azerbaijan (2014 – 2025) - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XTUdLeWJIMmRnVTY0dFRLdTVLdWRiSHJDSDlHM0YzcXNKU2NMcWFSMmFfU2ktRlhKQXp0WGRnV09RbVU0STVQb1d3OG5BUTNxLXRXb0dZaURscElkOFRJbA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "d8f80978b4a93333",
    "src_group": "chung",
    "src_country": "AU",
@@ -25988,6 +26593,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "a1418501acbedb85",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "Costa Rica Digital Nomad Visa: Requirements, Cost and Processing Time - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tcnhpTm9yQ2dXcTViaExoY0FsSDhORU9GaVhpTDJBRGdJZTNsS0VZX1VGVXRUVlhiV2pQQnIzY2dPMTJYNWxuODV4Q1YyQUVhLXNuVDIycFNLY0pJRXJUNkpYSThva1JvSWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-3",
+   "published": "2026-10-25T07:00:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "digital-nomad"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "34e1e545f34425b3",
@@ -33114,6 +33745,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "e3632e365a96ceca",
+   "src_group": null,
+   "src_country": "US",
+   "title": "The U.S. advances the dates for several family visas by a year: What does it mean for Cuba? - CiberCuba",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN1VueDE4cDVLYnBFemx2cUNJeEw4eTBodDZlUzhNLUliM1E4V0lKY25ldlVJcGlzSm8yYkZoRElmTXMzYUdSbjVFRTFIZjQ4MjZGR09mMDdYWHgtaHFXX1lwMlFzb21ZckE4QTB3bXJXODRqaUNUU2pGUDhOc21mZHNuQWFoZWNRcmZoSTJVSEVLRlBobDNkYlVwODI2ZVFmUUxWR3duQ0FpQkhFOFJGUkVVOGdJWDU0cEJrOFpR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CiberCuba",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-22T07:00:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -75234,6 +75887,32 @@
    "score": 2.5
   },
   {
+   "id": "d2c453dca6fe1e94",
+   "src_group": null,
+   "src_country": "US",
+   "title": "White House suspends Microsoft, other firms from green card program - USA Today",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcVlPTXBUZ3NMWS01RTZuLXloY3dUQ1RxdVZyUnM4MW9VcEhtWm5OWlQ0UzhQdU03SUNBRG42a05Yb200a1pmMG9kRXlVOHZaOUw0WWVSQVpXWGtYREpuRlhsbVJnVTNpSWxjcEFYSnlqN3ppOUFjWU5waU1CdGM2aktEQTFhWHZMSWhtTFA5Ul9JdDh1eFVzZ2dPYUNCbXpmUFYxZ1MwWUR4UmFYdHlTc3JaN0pRLWY3UERJTlpRbGlmZFJIajBpdjdR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USA Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "20e511feef397be4",
    "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
@@ -80992,6 +81671,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "792b3d692737b366",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Temporary Protected Status (TPS): Country status and how it works - Boundless Immigration",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGUEFLLVFSUHJzZGlLcDgtX3ZqQ0s0QWVXYkdBUVc5ZnV0Rlc3X05NQVc4RUdwVjhqTTJsdGxUUmdDUUFWTnV5cm13U1liM2c2bDRNV0J0MDNBanhQVmZLTzAtTm1hQ3JKMjh3Tm5xM2N5amQ3UFVmUnM1b21lams?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Boundless Immigration",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-06T07:00:00+00:00",
+   "fetched": "2026-11-04T06:35:13.868841+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "360c812d4bf88df3",
