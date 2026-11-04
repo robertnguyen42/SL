@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T19:30:49.146351+00:00",
+ "updated": "2026-11-04T00:13:30.522714+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 31
+   "count": 14
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "nz-gov",
@@ -227,13 +227,13 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "nz-vi",
    "name": "Google News – Định cư New Zealand",
    "ok": true,
-   "count": 40
+   "count": 26
   },
   {
    "id": "au-skills-in-demand",
@@ -251,7 +251,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 40
+   "count": 12
   },
   {
    "id": "au-student",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -311,7 +311,7 @@
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "id": "au-sheet-tay-nghe-2",
@@ -329,19 +329,19 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-sheet-dau-tu-1",
    "name": "Sheet – Úc – Đầu tư (1)",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 15
+   "count": 8
   },
   {
    "id": "us-eb5",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "us-family",
@@ -383,7 +383,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-green-card",
@@ -395,7 +395,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "us-visitor",
@@ -413,7 +413,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 35
+   "count": 12
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -449,13 +449,13 @@
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "ca-student",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 30
+   "count": 14
   },
   {
    "id": "ca-pr-citizenship",
@@ -491,7 +491,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 24
+   "count": 26
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -503,7 +503,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 10
+   "count": 18
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -521,7 +521,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 29
+   "count": 20
   },
   {
    "id": "eu-golden-visa",
@@ -539,13 +539,13 @@
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 10
+   "count": 22
   },
   {
    "id": "eu-student",
@@ -557,13 +557,13 @@
    "id": "eu-digital-nomad",
    "name": "Google News – Châu Âu – Digital Nomad · Người làm việc từ xa",
    "ok": true,
-   "count": 17
+   "count": 12
   },
   {
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 12
+   "count": 40
   },
   {
    "id": "eu-schengen",
@@ -575,7 +575,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-sheet-chung-1",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 18
+   "count": 40
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,13 +605,13 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 28
+   "count": 26
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "eu-sheet-khac-3",
@@ -629,7 +629,7 @@
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nz-investor",
@@ -659,7 +659,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-residence",
@@ -677,13 +677,13 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "ae-sheet-chung-1",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 40
+   "count": 25
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -723,6 +723,106 @@
   }
  ],
  "items": [
+  {
+   "id": "53eec2ef7e3145ee",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Want to work in New Zealand? 17 jobs to lose Green List Work to Residence route from March 2027, check the full list - Business Today",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVGV0MVpKSkxIdm9NVTB0UDNZWUdzSXgydUFkejg0OHZMSnltV0FYSFRrWVMzMVpwUHpTYjZleUU5ME5xYnhnSXVxWXNQQzVQVHMtekVibE5GMHlpMVRHSTlrV1lBN0tQa05xaG1td3U3X1kzUWhERURETUppbnA5cEw0UkVXaUVlaWZTdHpMUlppRWkzMElCV3k1d3l3UnRGVHd0MUNlbWVFeG54THdlUS11TFdFM0dPOXpiZHN5eV91bklPcXBkTW1FRHdfTGszajNmcmFnZHhSelgzYzlVMlR5bWVzR2hORmtHNzRRbG5BSlBESC1EM0VRMGhhSU80LVB1SWNHWdIBjAJBVV95cUxQamVlclpVNkZ6dmNQQmI0Vk5XWDhrX3p3VE12Wm1DbS0zaWZvUG5rWS03MEJ5U3VScDJFMk8tMzI1WDdLTzNWQXVRR3lPLTY4Q2ZxOGJtZk5vY0o1cmFob1U0Rm80LTJHTk5hYUV4dExiZlktTlhpX2RydmJoNE9EY0x2QnlMZTdGM19MdXF6YUprX192c1F5Q3pBZHp5S3pPcThqQUZsUi1uTjhWV0VEWkpwSzlTZkpiajU1OWtHdVVTbGRUOHZESnBBQUhyVk1vUVI3YU1lREt1bW5Sdkg3V2xjTjgxYkFxMV9tYUFIR1ZYNU43bk5SM094T3NRalFUOUxYdVNhb01ZdnR0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Today",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-11-03T23:30:09+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "smc"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "e64237819e8d08a8",
+   "src_group": "khac",
+   "src_country": "CA",
+   "title": "These Are the 10 Best Passports in the World for Visa-free Travel—and No. 1 Lets You Visit 163 Countries With Ease - شبكة تواصل الإخبارية",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84R2hmSEoyZ016QnRuM3NkRk14Qklyc25qR1lXRWFTOS0yc0g4bnFXLThkaDBDTlVDTUZ3NGs1SnNlLWxMM2xRNW1NNkhHQmsza1Bz?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "شبكة تواصل الإخبارية",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-khac-1",
+   "published": "2026-11-03T22:46:53+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "4eef4edc46c7c43e",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "The Central Bank of the Russian Federation set the official euro exchange rate on November 4 at 91.6010 rubles - AKM.RU",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTVSX0lGV0ktWmQtTTl2OFVmblNLUFNmeGMzZ2lBTjNGMi1HM0F1ZVZ6V0ljZzBnM0xtelBTSkF5Z3I3TGh1ZlhwSFRmTjE1UVhtb2VaQURoaExKNGxfd1N6UHJzcWhlZzE5dVFKdnd5RVItRFIyZ2ViSDZvbUhaTEt6YkYtOGwtalNaSlNGaDVnalJvSnlNZVpUbHB5c2E5QnlycjY4YVh1bGZ5b2p2bklQeUVveFlzS1JJSExLS1NWWkt1Wk1Naw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "AKM.RU",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-1",
+   "published": "2026-11-03T22:45:59+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "27066c1c1db4a6c8",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada Express Entry Changes In Effect From Today - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PenV6QVY0SjJ1ZE1DSkpNRTNNTUdMdV8ycHlEd3dZeUJQdEtmYnMtY190bFpnbG9KTy1WdG9HUXB2Yy1VbEl3dlJqeTdnM1RTYWVGWFFVbGpPYy1pQ3FHU2dEbEx5ME5kdWF0c1Zqel9tY055NU5OWGtiS29jZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-11-03T20:56:01+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "f11f9a91b65c3259",
    "src_group": "tay-nghe",
@@ -776,6 +876,28 @@
    "score": 0.0
   },
   {
+   "id": "a7b270dec77d5e7b",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Extremist AfD spreads hate speech against Romanian migrants in Germany - European Interest",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0ZNdFBEM3ZGYW1KX3NuN05kTGJpOW9sSFczTHRzX2V6M0hFMzI4VEpzZUtJVTFtUWVMbnVaZVRYNEVqakJqVUVnQXAwaDUzdE56akZLZTJLeTlCb2pHM1o5dDdqX1ducWZ5U1k1OHRneDVfRTYtenh1eVBzX0dIdlpYREFXYi1SYUh5NlhhYjI4a3hQcHAwSjVaczlaWWE0MWJKaDZB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "European Interest",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-work",
+   "published": "2026-11-03T18:04:54+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "e44a071674906564",
    "src_group": "chung",
    "src_country": "CA",
@@ -792,6 +914,52 @@
    "visas": [],
    "groups": [
     "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "34927b92507fb697",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Immigration levels update to be included in Nov. 5 budget - CHAT News Today",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWdDNS1qMGRPVUh4akNmZ05QNi0ybUp1RXJYeVJhT3ROQkVjaGVJUTVQbV9lWVdYRU5GVTNnZmtQbHNDLUpMOXpBMXRtTEYtaUhUY0l0X0l1bWNVQ0d5OGpUcHJFUUhfTkhPbGtlN1JfZXV2NDRZN2p0LVk2WkFVd1E3T3pBWmNTZVdETm05cEE5TWJSME1mYQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CHAT News Today",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-11-03T17:54:56+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "7a67512f2a642e12",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "Ukraine National Bank to introduce reference hryvnia-euro exchange rate Nov 4 - Interfax-Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YNlZ4VnJXa3MwdDl1WFdLSlNhcUxEQ25QUy1vcEYyclRCc1NxbDgyN3NDUzZiZFZQVnhLZTVpVzNYdmM1cVdGQjJBN3lHbHZrY1V6a29XUll3OTJ4by1iR2cxc9IBaEFVX3lxTE9hZkFDLS16bDd3anZHaUVPbDA5dXNiMWEyRkNYb2daQlZZcXFWeG95WHg4MWl0bzg2X1E2bUdRd0ZmTm83ZGNBd1V0a2J2TzZoX2pYYjNoTGY3VDBha2cwM3l0VnZQTTl5?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Interfax-Ukraine",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-1",
+   "published": "2026-11-03T17:27:32+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
    ],
    "lang": "en",
    "policy": false,
@@ -1112,6 +1280,32 @@
    "score": 3.5
   },
   {
+   "id": "a84bd95f1f35b8e9",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Quốc gia có nhiều du học sinh Việt nhất - Znews",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSmhNSTM1NTk4LU5VLVR5X290RkFrdzcydzI5eGVHZTYweTZTc0Y1enRmcEJVWHBCUFVXLVZwdTBxaHJreE05VVVZU1VhNGtyUDJ0MEFYR1R2ZnFGWGtGUThxVzl1dVJNLVZtcGpIN3lIUlROWVVLa2dTaHVzSk5aaVRMTjNTOS1BLVhsTjJ0MA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Znews",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-vi",
+   "published": "2026-11-03T14:43:38+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 2.0
+  },
+  {
    "id": "c56f193c64b96124",
    "src_group": "chung",
    "src_country": "EU",
@@ -1127,6 +1321,32 @@
    "fetched": "2026-11-03T19:30:49.146351+00:00",
    "visas": [
     "blue-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
+   "id": "25494bc8a2d45b48",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS Changes Where Green Card Applicants Must File Form I-485, Wrong Address Risks Rejection - Mwakilishi.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnJiUHQ2a25sVTc3Wmc1LVlEYzgzWXFvdUxkVDl6TzQ5cGxMUFpLRU9kYWpwdnpSNDZpN0E1clRFN293VjZvNWpDRnNXSjdiaWRreGVzMFJRcGxZUTVFZmZhVDlKWkxyMzZOSUNHN0toVU5KU2t5cldHSFBsUTdRQlNCMG1hRUdDbXRjOHFTUUQwb1hwUDN5Nzc2dHRkRXRKQkRvWnAyT3NEbGpuMDMzODBORHQ1T1BOTjY1ZWd3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Mwakilishi.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-11-03T13:40:00+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "green-card"
    ],
    "groups": [
     "chung"
@@ -1268,6 +1488,30 @@
    "score": 1.5
   },
   {
+   "id": "81ce592a99a842c4",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Jadestone Restarts CWLH Production Offshore Australia, Output Climbs - Offshore Engineer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1BreFZlSDNMTjk4V2R5Q21HWUFDbVlGLTBOM3p4RzF2bHZQbzlhRWJlVExHdkowblBWWnFGZGtFV2hzRHpuQ3Vjc25RNDhaTUJ5aW9fVkJKWG1Ed2VNNUpxSlk4YVNkc19ndUxLR1l2UjBQMkplbU1HY3hNU0kyV1lxSS1LY21MaU0yRE1OZmJHSmR0YWtjSWt3RGxyNmlWZjJ0cHhsYWs?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Engineer Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-11-03T12:24:47+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "66c621eb73a5512e",
    "src_group": null,
    "src_country": "AU",
@@ -1314,6 +1558,30 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "1af57403dd80702d",
+   "src_group": "tay-nghe",
+   "src_country": "US",
+   "title": "California Requires Mid-Project Prevailing Wage Increases on Public Works Contracts of $35 Million or More - Littler Mendelson P.C.",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWklnRnR5cE1ZWXgtdXcyMUxwVm10WDVvUmNua194ZGEzczduMmN2TThoSlFpRmR4dDcxeU9aZHV0UEpkMTZaUVBTQjcwRDgwclZjdDgzbmI0ZUNRT1lkSXI1VmJQM0F5MmI1dGhGUkpfaDcwbjFVVFNZVWxQb2hBSzNPR0E0Q2ZwTzBILWxxVU9JTk01QUpEVDd0eVhMMHFZcXAtYkpYM2NxbXpGQ2wtejVNYnJmTTVkNDU1X2x3X0Y?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Littler Mendelson P.C.",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-tay-nghe-1",
+   "published": "2026-11-03T12:00:00+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "ab97107c33f24c52",
@@ -2075,6 +2343,32 @@
    "direction": null,
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "45b6936035caf9f1",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Four in five people who took the Home Office's immigration poll were NOT British, figures show - Daily Mail",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2w5T2JlNWR5ampkVzRabk5fS28zeEh1dmJQcUFHZXlENFRyOGRPMUVmcmFSZFFzdnp3WDhXV2JfNnQ4ZThVakZVY2FzcTd2dzRFNkl2djJvVnd5RUxyZURWTTBxU1VfTndSa3hRVUlQbTFfSG5xNmlyTEVQOVFweW9XY1h5U1p5SGM5M2t5cmJiTmt4OS0yeWNvMjJjbGhyVXp30gGoAUFVX3lxTFB1UmJ0MS1WNWFFLXhaQWJ1SlY2c3dFUzlSWUJRR1AyMFVkcGlvREpBMGZJZU01Yk40WTRIc2QxWXpVcE1rTUhWNFJ3eW9oVFRZbkxtSEVjblRYMi1jME5TUUVjOEpwQ1RGQ3V4WVRKblVTRC1weU1tOEFoTmp2bEJ2aWpsMy04bTVmeXdUWkFpcHhPWnQ0aGwyZWRLblEwc3JsTWdrN3JBSw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Daily Mail",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-11-03T00:42:00+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "uk"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "97205f436a06ca4d",
@@ -3596,6 +3890,32 @@
    "score": 2.5
   },
   {
+   "id": "1888831753c5426d",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "An API for ESTA: What’s Possible and What Isn’t - Breaking AC News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1ZnUVRQMXpCVGYxbkZzcExxWk1DT3B5MWtWSzJoaEQ0M1NyTi01S252QUQ4cG1NWWs0emlWdHpodVdvaF9aSkhURkd6NGNJMzlWSkhyUWdadkQ1aUgwXzVqT01HRmttV2JPRUt0UGR3RDF4VkhNYWV6dG93TFVWYW44ak9WTmRYWHNrZXZqV0NKekdIY3c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Breaking AC News",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-11-02T12:19:21+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "90684347aaa31ff8",
    "src_group": null,
    "src_country": "EU",
@@ -3880,6 +4200,30 @@
    "visas": [
     "schengen"
    ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "f6685ba8dceb7542",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Dominion Energy Installs 44 Turbines at Virginia Offshore Wind Project - Offshore Engineer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFQyTXhMZ2dPMTloaklZMlRRdWNtVGJLcXNCZzdLVDJNcC1EUUFKOG9NcHF1ME1Mdm84bEhybWxkQ3EtaUMxOWpZRHlZTUpwdkR0MzBucnJ4YUJydXJwaEZfaVVSYUt2bEk3ejNhT18wUFlvZ1FJYVFWNEZ6eUFuU3p3d0tJV1lyeXFDeDZ0YWY4dE5lTjBPeXJQbG5meUQ0WjRPRDlpOVNoM0dM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Offshore Engineer Magazine",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-11-02T10:05:40+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [],
    "groups": [
     "chung"
    ],
@@ -8904,6 +9248,32 @@
    "score": 4.0
   },
   {
+   "id": "848f2a02974ca8f2",
+   "src_group": "tay-nghe",
+   "src_country": "AU",
+   "title": "Australia reconsiders tightening student visas, risking a loss of over $1 billion in education revenue. - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDFQWVZUdXVnejlkTWdwaE9UTEhrZjNCVHgzZHBlRkN0V3RfOE1lMU9lU0NOTVR0ek5MOGpQYmJMYjNNOTUyZlo4SV9WNzJoNUNVTVJFMFhVcjlPVk5UZTV3M3M2TTEweTc5bEluLUR2RnpIYVQ3N1QxZ0tGZVBXbjJjUUYxNnRNelFFbW85WXZCb0dxMkd5VXp4cFJ6UndrMm95Z1Z5NU0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Vietnam.vn",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-tay-nghe-2",
+   "published": "2026-10-30T09:38:43+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "f0ba9efa3b6e0f2b",
    "src_group": "khac",
    "src_country": "US",
@@ -10271,6 +10641,32 @@
    "published": "2026-10-29T22:55:05+00:00",
    "fetched": "2026-10-30T11:31:53.148825+00:00",
    "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "7699aa4507769d99",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "ESTA Maintained by BTIG -- Price Target Lowered to $93.00 - GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdENTZmd3UjJPcGQ3d0dFMXlMVUw0WkdHRnRJNDJCenpUT1JqazI2Y1dXZDQ2XzVlLXhNVmpOYXpGZ1pWVURTWG1uWEhwOVRiUzhnZUlFSGpTdmlhQllXRzlPMHFUNHZJdFA4RXZTVjY0eWREYmlVMDhmcUV4WGU2bTlsdDFaU3FLSk82cV9pZ25yellselE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "GuruFocus",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-10-29T22:54:53+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "visitor"
+   ],
    "groups": [
     "khac"
    ],
@@ -13064,6 +13460,30 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "2823fb7ba9cc616e",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "How to Immigrate to Canada from India in 2026 - Immigration.ca",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BczA1NzdKeDZicFR1UHFaWDBtNi12dDVHS3M1MnpwclFLSkNPQzc1UWhpZXdqY2Q3REg2SDQ0WjNCaHFFeFJDaGtLS09lQVN1SW1uLWwwVXJMTjBWUGs5WjdvQmhVVWNwaWtuUmZR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration.ca",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-10-29T07:00:00+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "28cef5b5462334cb",
@@ -36349,6 +36769,34 @@
    "score": 2.5
   },
   {
+   "id": "80d138795cf79be5",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada Sets KSh 146k Fee for Permanent Residence Applicants Through Express Entry - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV0E2UFZfWlQzVHhNWWllNmwyREZfZVZUb2ltcXdQalpLVjJteWg2MWI0TVBLc3lQUXVodEZrOW10UFVqUFNNT3I2ZE9jUGxqUkREZkViUm4xNFZfRm9ycGpDc3VBMUtZYTJzcmthVURMZ3lVS2NuMDBoTnFEaFZ2a2xxMXFyLUkxcFVfTkpQVGxXRjlVMVhTT3dOU2QtdDZ6NE5reVI1VjVRSXdBb2VKck9TRDMzYXU0MmluTWdkX1NBdkxfZHN1c2lnMA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-10-21T07:00:00+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "express-entry",
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
+  },
+  {
    "id": "407e26a38e9d3df7",
    "src_group": "chung",
    "src_country": "AU",
@@ -54249,6 +54697,34 @@
    "score": 0.0
   },
   {
+   "id": "f0743b779d88595a",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US rejects over 12,000 family-based Green Card applications in 3 months - Tuko News",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONk1WMmtlMjZuVGFLMkF2MVJDRFBJZ3VqN1VmUE5sdWRJQXplc2prUEZzdXEwZjFXWmdiNXBOcEtCUUNzejFBeUoxM0dwQW1CYVFlN0lNelhvZk1MUEZMT25yLU12U01rcDNOZ3JYZ2FHMS14SXZpNmlOSmw1cTRXRWE1OVkzc1hzRWV0OGhKQjJYN25ieVhvOG55cGNtRUxUcHdCb3UwSWg3eUc5NmxlV1B4MV9vSDg3MUttSWpCZU1KNUk?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Tuko News",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-10-15T07:00:00+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "family",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
+  {
    "id": "0cb19e286a14ecc9",
    "src_group": "chung",
    "src_country": "EU",
@@ -57641,6 +58117,33 @@
    "direction": "siet",
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "4d02b121ad9bcd2a",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Express Entry Draw #448: Ottawa Invites 752 PNP Candidates - LPEN",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hVUF6eVZRQ2s0YVZYRGRGYm1Fb2dna2FsTWhvckl5MGkxaHNiNXIwdmhyVlNpamt6ZG55SXhZc19jbm9SRWpnWXVuVWFWRFNvS1FJZU9vMmh5a1lMRkktMzNsZmtfMVF3QW9aYjNfbVVfQUJSWHh6ZjVxd0hBdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "LPEN",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-10-14T07:00:00+00:00",
+   "fetched": "2026-11-04T00:13:30.522714+00:00",
+   "visas": [
+    "express-entry",
+    "pnp"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "f7d524cf64063f5a",
