@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T23:59:33.648138+00:00",
+ "updated": "2026-11-08T06:07:03.185870+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -161,7 +161,7 @@
    "id": "au-vi",
    "name": "Google News – Định cư Úc",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "id": "au-en",
@@ -239,7 +239,7 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-employer",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "au-sheet-chung-3",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -353,7 +353,7 @@
    "id": "us-eb-work",
    "name": "Google News – Mỹ – EB-1 / EB-2 / EB-3 · Định cư diện việc làm",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "id": "us-h1b",
@@ -383,7 +383,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-green-card",
@@ -395,13 +395,13 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 27
+   "count": 29
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "id": "us-sheet-chung-1",
@@ -425,13 +425,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "us-sheet-khac-2",
@@ -473,7 +473,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "id": "ca-pr-citizenship",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "eu-schengen",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "eu-sheet-khac-2",
@@ -617,7 +617,7 @@
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-smc",
@@ -653,7 +653,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "nz-family",
@@ -677,13 +677,13 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "ae-sheet-chung-1",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -724,6 +724,32 @@
  ],
  "items": [
   {
+   "id": "c1f55821c7a7d777",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada targets 1.14m new permanent residents over 3 years - en.bd-pratidin.com",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10NlZsVzR4VGoxY1AzOXQtenFHN3doVWZPYkFWV3VjdmRSTGMxRzk0a2V3dlYxYXlZM0k1VUhlNjRMYWNPNHhEOHBvakdLRDBDQ0RfWTU4cWtYdERudFFiVGYtV3BiVFdR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "en.bd-pratidin.com",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-11-08T05:26:33+00:00",
+   "fetched": "2026-11-08T06:07:03.185870+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "29c22e2fc3d411c7",
    "src_group": null,
    "src_country": "NZ",
@@ -737,6 +763,28 @@
    "source": "nz-en",
    "published": "2026-11-07T23:45:00+00:00",
    "fetched": "2026-11-07T23:59:33.648138+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "40a4d802ece9c2ce",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Former Tourism Australia executive avoids full-time jail over $50,000 flight fraud and visa offence; ordered to complete 120 hours of community service - The Australia Today",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZU5QZjA5TExUcXhwd0psVTBJcGh2RUxtV3JFWGlWbm5WWkRBeXBJdHVtSjdhZWFGeXFfeDhnemltNmdfRTBBbURZbFRNQkZwUVFRbEF0dGRaWFp1bnlSNkxaWUVFLVpGelZwdE42bXBka3FOUzZUbkxxMmNHdEJaSEFGc1JPNVFhUjJnbVQyNDVvZW5uRGEzNHdEU3hDa211ODg2VHp5MGFzWlozR1NmMkFWczNJa3JDdDJoNU1ETDRfVUNJZkp0Zk91TEx3LWdScnZxbVFYVkRnaGg3N2k4M19Sc3kyUkZJMlM3ZkVVUUhaeW52Uk5IekhXcGJQMjZHSTl2dTdnazVySTd1bTFpaXU4ZEs?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Australia Today",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-11-07T21:20:14+00:00",
+   "fetched": "2026-11-08T06:07:03.185870+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -1307,6 +1355,28 @@
    "score": 0.0
   },
   {
+   "id": "ba91a4dc8c3672d1",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Ground breaks for USCIS' Atwood Ave. Building - johnstonsunrise.net",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHJUcElKb05NelJLdUhxclRlMFQ2XzE0VlJZMEMteWt3X2dNNmJjWWViRGhpV1QxMU1ZSTk2cjZtQzA5VnByRjFCdno1NngyVm4yMzM4WVZCeUV3OW9BLUM5eWRvU0ItaHNrNUJlQ0lta0xrVkFCTF80NjZubmVyRkhCdEE0MjBxUDMyUXN6MklzSi1YOXV6ZWtIZkgzbTlIOWl4WEdmQUplRnZaaTgwTTFTQ3d3MWlMUXR3WWZRT0lJcDg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "johnstonsunrise.net",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-11-07T08:37:07+00:00",
+   "fetched": "2026-11-08T06:07:03.185870+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "a7daf1418c5cf65a",
    "src_group": null,
    "src_country": "NZ",
@@ -1651,6 +1721,28 @@
    "direction": null,
    "prio": false,
    "score": 2.0
+  },
+  {
+   "id": "8c6577dc1f7b94ed",
+   "src_group": null,
+   "src_country": "US",
+   "title": "2 Filipinos face loss of US citizenship in Trump crackdown - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzhqSE9vVHRmczhRQjZvT3VmSC1uY0dEX1ZicUN3UkRBcVFUdFM1cGRoN2dLd0k2TTRuRkEyMnBZSDB4TU1XNkZWT2pZRUIwdThsMENaVEltWDZOM3hQM1hzTDl1OU9kZC1zVHVMWlRUY3JTcExHbGxBc0Y0OFN2R212R051enVVQ3R0UzdCdUo0c3pJbGdqQlpjOUhwbG1zMU5QdXpxTGN4dmtSOGc00gG0AUFVX3lxTE9mOGZ6aTJRQ2laMzRsX01XZlk3WDdvQnp3c1NhNkhWVkRRYnBETG92c3VzdnJ5NVZmUHRLZGltWUVIZm5ZRU9pTldUT2x2UFZyd3pSdUpTLUM3cjNab2JRcnhqTG0yQlhWMTFLbDZveG1CX0RWcmktWWZtNWNmOUpQT1RtQnUzaFVHRXFVbnhQSWtKbFIwdTJGQlRIcjBiZ3hZT2VYeVdvVjlnQWxabzRTWVJ5Tg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Manila Times",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-11-07T01:10:00+00:00",
+   "fetched": "2026-11-08T06:07:03.185870+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "1007cd81478a3cc6",
@@ -3073,6 +3165,30 @@
    "score": 0.0
   },
   {
+   "id": "c67b90da72effd5f",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "“US Travel Ban On Seven Supreme Court Justices Still Subsists” — Retiring Justice Abba Aji Blames Misinterpretation Of Court Judgment - TheNigeriaLawyer",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWFd6NUJUcXptOXFqUzZhdXdORXpNOFBMUXVJU2pzLWd0cklicU1wRHkzNVpkbmNyQ3Vfc1hFTDBFcDZYZlVSRFc2bGdWT0RKV3ZzcjVscjUxNjlncWR0aUhLVG05bUVMb3dXcVdnVVpVU1Y2MDlmTllUSGY2bmszQU9aN1h4cEc1LVlycVgtZm5OTjlmUkZ2V3poT1hUZWhOZVFIT09fQkpMamYtdU1BcmZCTERrcGQ3VWFrWnphZWtHb1R1QkthQUw1b1JGRzM4X2pNYlhmVDlneGpHYnJMUFUxc3JNRWRHaTB3MXJIcWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "TheNigeriaLawyer",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-11-06T13:45:42+00:00",
+   "fetched": "2026-11-08T06:07:03.185870+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "647f5a96a2c9317b",
    "src_group": "chung",
    "src_country": "AU",
@@ -3461,6 +3577,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "66857bf7a06f8c70",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "‘There is something VERY wrong’: ‘Fundamental flaw’ in Labor’s immigration system exposed - News24",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNnV0S3AwY3NQUWRla2VzRjFXYno5Wk4xWk5yTmw2ODFSVGlNVDFaRTg5VzRYWnJqR0JKUU5hZ0d5dFNZYWgzcFBueS1CekR4bXgyTjBZR3ZKLUtXUEtPUGR3dHNTc1QtVUxjR1lmdUE3cFVicWxmVzRfU0dkaEVsamt6VjVfdmE3blhfNXNxWlhLVVlaVDkzNmNmS2Z1b2M1YndoX1VQbmFtWFJDOXhESHNRbE1ZSmpGeFVqS0dLbkRuQzVXelFWWFE3Q01HNGhDdk1Mdl95SXZQSmpXWXpkQVVobUtlUElmQkdJcktGZ0F2OHJubzVsTUhQaVpQcm9mbTNPeVQzZmpyVDM1SlHSAY4CQVVfeXFMTTZ1dEtwMGNzUFFkZWtlc0YxV2J6OVpOMVpOck5sNjgxUlRpTVQxWkU4OVc0WFpyakdCSlFOYWdHeXRTWWFoM3BQbnktQnpEeG14Mk4wWUd2Si1LV1BLT1Bkd3RzU3NULVVMY0dZZnVBN3BVYnFsZlc0X1NHZGhFbGprelY1X3ZhN25YXzVzcVpYS1VZWlQ5MzZjZktmdW9jNWJ3aF9VUG5hbVhSQzl4REhzUWxNWUpqRnhVaktHS25EbkM1V3pRVlhRN0NNRzRoQ3ZNTHZfeUl2UEpqV1l6ZEFVaG1LZVBJZkJHSXJLRmdBdjhybm81bE1IUGlaUHJvZm0zT3lUM2ZqclQzNUpR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News24",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-11-06T11:11:02+00:00",
+   "fetched": "2026-11-08T06:07:03.185870+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -7596,6 +7734,30 @@
    "score": 0.0
   },
   {
+   "id": "dd728dc5722f81a0",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Brazil approves merger of offshore energy contractors Saipem and Subsea7 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd0pFMXN0TF8zWFBycGtsQmRFTFN2QUJKTmFSZ1M5M2I2UnhJb1B4MXB2ZDdXbzhDeWtGZVgyRk1nUUZyTDFfcDJjU3lqTEJfMXJHWnZyTHlPNGZhSlF3WDFKeldlendLQVNybjBfUkxXZkpVbV96bjhFdFI2REd6aDVwZHR2MTVYQ3E4RWtueEpYeC1LWU9VLVZlYWE5TzdLcVp5MU56MVpfb2FsaEYwMjY1RXlxb2ttVkpnSlY1U25pdFJlSjZnb0QzUHZvVGtxUzVQRzF1VTJ5UQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "TradingView",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-11-04T17:34:08+00:00",
+   "fetched": "2026-11-08T06:07:03.185870+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "c01a29d6b8022e8e",
    "src_group": null,
    "src_country": "US",
@@ -8847,6 +9009,32 @@
    "fetched": "2026-11-07T10:26:07.437896+00:00",
    "visas": [
     "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "b53899c2edc99ce7",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "ETIAS and EES in 2026: What Americans Need to Enter Europe - NewsBreak: Local News & Alerts",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRy1hQU5pUzR6SWhtY2NFemRkS1NzWTJRRTBDQnhXSTZIcUl2LXlGM0tCeW9rbklHYjlSSWtCdnRnWGU5eEpCM1QxaWRLODBjbDFHa280UWliZXQ0R0hCd3JIaWZxMjF4X0VXTUNnTXE4Y1ZqRnRQRG45NHZSazJyazlXb2FYY3dzOTlITWRVa0RlNEpjQW9KaUhrWkg3dVkyeDJHVTk4Ym1SVFZvNWE0ZjlIR25seG94Y2NmaEZ5NkI?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NewsBreak: Local News & Alerts",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-11-04T08:00:00+00:00",
+   "fetched": "2026-11-08T06:07:03.185870+00:00",
+   "visas": [
+    "schengen"
    ],
    "groups": [
     "chung"
@@ -12168,6 +12356,32 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "ed878db842cd8d2c",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Trump Administration’s H-1B Proposal Faces November 10 Deadline - Dallas Express",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2xuTmVZMExRZF9yRHdDSDBuNnR0ck1LV1hockxhU2hQbndQay1YM2loaVVxcG84UkhCZlV4UEN1Y2p3V1c0eU1uNGx6Q1hzNTBJdm80Mm5LNUpsdzNPeU03c2hyajFhQXd1SldnWS1CQTFDa2ROcE56Q1lfN252dkpQd0VhcVBveEVKeWNraTVKTm1ZY1BHZ3VudHRzY2c?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Dallas Express",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-11-02T18:59:18+00:00",
+   "fetched": "2026-11-08T06:07:03.185870+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b95e573111c2bd1d",
@@ -20068,6 +20282,32 @@
    "direction": "siet",
    "prio": true,
    "score": 4.0
+  },
+  {
+   "id": "1426d9163404fb3a",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Úc tính lại chuyện siết visa du học, nguy cơ mất hơn 1 tỉ USD doanh thu giáo dục - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU3ZYYmtZb3JXVVVhdm83ZVF0eTRudWRyZTJYemZnWW00a192d3hiVlItTTJGRDdBOXdLbS12Z3h1WXl2QTVZT3RwaU9kVGtCeDBuaDctdGE1a19KMUtfZ2RraFpQMDZjQVAwcnIxbHhIWUVpSFNJWGdENnJydDJNbEFodGVrRDcyQ0paMEJGQjU2M0pmT2hkWXdXVl9zNlI1SFhTRA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Vietnam.vn",
+   "country": "AU",
+   "type": "news",
+   "source": "au-vi",
+   "published": "2026-10-30T07:00:00+00:00",
+   "fetched": "2026-11-08T06:07:03.185870+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 6.0
   },
   {
    "id": "f08a4ef951d7c502",
