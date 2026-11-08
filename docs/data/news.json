@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:31:12.690923+00:00",
+ "updated": "2026-11-08T22:30:30.991382+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-gov",
@@ -215,7 +215,7 @@
    "id": "eu-vi",
    "name": "Google News – Định cư châu Âu",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "id": "nz-gov",
@@ -275,13 +275,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-citizenship",
@@ -299,7 +299,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "au-sheet-chung-3",
@@ -317,7 +317,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "us-eb5",
@@ -401,7 +401,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "id": "us-sheet-chung-1",
@@ -455,7 +455,7 @@
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ca-student",
@@ -533,13 +533,13 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "eu-work",
@@ -569,7 +569,7 @@
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "eu-uk",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,19 +605,19 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-smc",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "ae-sheet-chung-2",
@@ -701,7 +701,7 @@
    "id": "ae-sheet-dau-tu-1",
    "name": "Sheet – Dubai (UAE) – Đầu tư (1)",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "ae-sheet-dau-tu-2",
@@ -723,6 +723,80 @@
   }
  ],
  "items": [
+  {
+   "id": "933d45a4556b6925",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Greece Entry Requirements: €63-a-Day Rule, EES and ETIAS - Greek City Times",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa0IzaHI5UWlVYW9XdjVTYmpRTGx0d3lhRnFSbVE5SV9JTThTYnMwemZIcWNMdTJwVEZER21tVlBqNi1QTkxzXzUxSFhnckRtY05GYS1pVG5SbWpvOEsxU3lZVUJvcjZlRWRfR1VTSm00WnhXRnJhamFSbGtUc3hRbUdB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Greek City Times",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-schengen",
+   "published": "2026-11-08T21:41:03+00:00",
+   "fetched": "2026-11-08T22:30:30.991382+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "ff69e756e06930bf",
+   "src_group": "chung",
+   "src_country": "CA",
+   "title": "IRCC Clarifies Permanent Residence Eligibility Rules for Temporary Resident Permit Holders - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbkxOa1dwRGlzMGswdnBraWZ0YkF5LWhRRi00YTdmTHJaaVZnQm1jcWRQRkQxQjhaZmpnR1laSTZVMTlsNjRkZEoxR2NiSmFRYkFoSVd2UGVFN1MyV0ZTMjlxRFhNTVR3RHg3VVo3ZFV0U0RVOFdBQTNrRWJ3Wk5uZkdFZkJiTjhzU3Fyc1NfWlBiWFFpTlNiaEpxNUxURmc4alpYUkNqNmJDNUY4UVRCSm0xVWVOdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-chung-1",
+   "published": "2026-11-08T20:08:02+00:00",
+   "fetched": "2026-11-08T22:30:30.991382+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "0772068229dfdcfc",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "UK lists 4 conditions migrants must meet to qualify for permanent residency - Vanguard News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHpwc2hONnBIRGJqSlljbG1vVG0yOU9YaTFhUjg3YWtBRlIxNkpzYjcxSXJ2M1VuUXNlZUY4LThld1Y4ZFZoNU1wdGUxbDlBZVEwNkZ4Y0RHSkhMbndFaFBwcUVjamJEMGhEbDhwYm9BYzlsTGJQWUhDSEZiVVVadi1KZGM4bDNhQUQ4Zm5JYXlOaGx1NzZqRXdQLUJtMDF2MVlrVmZHOTZGQlVYTHUzRGdR0gG3AUFVX3lxTE5TcUkxc2V1VV8teHpxeGFubUx4NFNWdmdyRkNKdU1odjBib3VacDRPa2t2Z1dsNzZhc0pPVnNpdnBUU0tCRzRkR1RmTm9tYm9aSlFSQmJTSlBQZG15RDlnZ0ZXTG5XcmQ1Y3RJNktiX0ZpQmpBR3ZwX2tnSmJvNU1NOTFES1REUERqcEVycmtfbkRoejgtM2hqNVdpSHRzc201U1NycG9ZbDVMcVpOalF3OUlNdjk3aw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Vanguard News",
+   "country": "EU",
+   "type": "news",
+   "source": "au-citizenship",
+   "published": "2026-11-08T14:02:55+00:00",
+   "fetched": "2026-11-08T22:30:30.991382+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
   {
    "id": "7a319af2652638f2",
    "src_group": null,
@@ -1230,6 +1304,32 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "a7b8217037aceec5",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Unofficial ‘mayor of Conway’ released from ICE detention after obtaining his Green Card - KIRO 7 News Seattle",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTkJiMDR6VUJncTlNUkEtUnFCZHFiMk9WbHJCdWFnUDFoYzFqU1FYek1pUHl4MEVUSHRUV09oVE1FVk01OEFscVVBakJqY0E5UlZxOXV1M0RtVVBDZU4yd2FZY0Vta1JNZGE1OHl5b3Atb3JPUEhUYlc0bUFzd0xEclZINXdZWU1wN1dVYnVYVTdqdHY5ZUxRV2NFVFVma3U5TnZtb0pyQTdZRnExM0hkWWRZcUY0WWhXcnlOU3E3MGhsNlZmVXlOUHlfUVc5Z3BrV0d3Q9IB6AFBVV95cUxNV0hFQ2lEczIxU2hsQkhMaUhBOS1yVFBDV2VGQW8wX2RLMnpjSWMwc3g3WGVHVHhYcWhvNm1iM0kwbzFyMUw5TU1uWk5nbV9JdlhxS0w0WUNZb1AyM1Vrb29vSFFFSWhZNm5sSUg3YzZOX3laNl9tUzRmQzVubVhxMEZKbkNORWVwc05BSlZyamtQMlk1UEVPRU5lY05FU1UzQnlqanl6Uy1SYkh5QkNCRmh4a1JSSWpHV2JFQjlvMy1YU3hMRFFndVhGUVVINjZoTkpadFNfS3pfSFBFc1E4VXU5YmdCNzdm?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "KIRO 7 News Seattle",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-11-07T16:13:54+00:00",
+   "fetched": "2026-11-08T22:30:30.991382+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
   },
   {
    "id": "5524a2b4f94154e2",
@@ -1745,6 +1845,32 @@
    "direction": null,
    "prio": false,
    "score": 2.5
+  },
+  {
+   "id": "3a6f339453047bb8",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada Introduces New Asylum Rules: Online Claims, 60-Day Deadline and Work Permit Access - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MSUlKQV9hclhNR0NpSXM0XzhhQTA2Z2FOdUJnWm02SVZuMmJFRlhnUnd3TDFjcVVHS09tc2YtdmlaVEtPOGEtUTFfd1hTeGlFcU1KMDVYbVJLTGhxNURyUXRYQzVCLWJDV2s0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-11-07T08:00:00+00:00",
+   "fetched": "2026-11-08T22:30:30.991382+00:00",
+   "visas": [
+    "work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "01ffbd7f8065e74f",
@@ -4218,6 +4344,33 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "349ecfedf089a1c8",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Express Entry CRS Changes 2026: IRCC Pauses Draws for Up to Two Weeks - ImmigCanada Immigration Consulting Services",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjX2tNcXpUaWlmZnVtY0E2MzFyNEp3UVdyeElLVVRPSEY1d0lfRnE1LTlfSkRybDhxWTRZLXNVSmNLUVM2X2RGOERLVU5vZk9JbzlHRV9BRHNLZkhFZ2NxYTVJby1WZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ImmigCanada Immigration Consulting Services",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-express-entry",
+   "published": "2026-11-06T08:00:00+00:00",
+   "fetched": "2026-11-08T22:30:30.991382+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "chung",
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "score": 4.0
   },
   {
    "id": "befc092a92e4517c",
@@ -7052,6 +7205,32 @@
    "direction": null,
    "prio": true,
    "score": 1.5
+  },
+  {
+   "id": "644b5ac8cfd8b649",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Schengen Visa Trends from Algeria (2014 – 2025) - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KeUlkQkFscUlxa3JORjdIRVpaQzNLT0VvOHFGZ0JrQWdaY25QQnNXSFVvalp4VVFYb2lsQ0U3Q0IyMkxWc0hEYW9uelVMdTQ0WXI3c1JtNlFEbk13?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-11-05T08:00:00+00:00",
+   "fetched": "2026-11-08T22:30:30.991382+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "b29cbf4cf172e8ed",
@@ -10010,6 +10189,32 @@
    "fetched": "2026-11-06T18:30:28.717153+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "6ea1d4fc7df16afd",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Video | US Midterms Elections | H-1B Visa Uncertainty Weighs On Indian American Voters - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdi10ODVnb2JfemlnNWg1WUMyNmFVaE80Z2kyaDJFQ1FMU1dZb2dYTXlOVF81OW9GN2MyQjhYZTNXTHFuZ1ZsUlZCYmwtcl9vNDVraUlZZmxZdTVHQm1QZ0hDQUlCMHQ1dEpLcHd1RTI0cWNYYlFKNEZZd2FpdlRRbFpZZXlBaVBsUTFNWlcxTG1qNm91MlZraWFsSDludjNaREVFQkFmMjBBT3ZEVzhBeg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NDTV",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-11-04T00:44:08+00:00",
+   "fetched": "2026-11-08T22:30:30.991382+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
