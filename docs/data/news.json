@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T06:37:04.845655+00:00",
+ "updated": "2026-11-09T06:47:42.180744+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -388,7 +388,43 @@
    "id": "cb-en",
    "name": "Google News – Quốc tịch đầu tư Caribe",
    "ok": true,
-   "count": 28
+   "count": 26
+  },
+  {
+   "id": "us-travel-vn",
+   "name": "Google News – Du lịch US cho công dân Việt Nam / ĐNA",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "id": "au-travel-vn",
+   "name": "Google News – Du lịch AU cho công dân Việt Nam / ĐNA",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "id": "ca-travel-vn",
+   "name": "Google News – Du lịch CA cho công dân Việt Nam / ĐNA",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "id": "eu-travel-vn",
+   "name": "Google News – Du lịch EU cho công dân Việt Nam / ĐNA",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "id": "nz-travel-vn",
+   "name": "Google News – Du lịch NZ cho công dân Việt Nam / ĐNA",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "id": "ae-travel-vn",
+   "name": "Google News – Du lịch AE cho công dân Việt Nam / ĐNA",
+   "ok": true,
+   "count": 9
   },
   {
    "id": "au-skills-in-demand",
@@ -538,7 +574,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "id": "us-green-card",
@@ -556,7 +592,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "id": "us-sheet-chung-1",
@@ -586,7 +622,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
@@ -748,7 +784,7 @@
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -760,13 +796,13 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "eu-sheet-khac-3",
@@ -886,7 +922,7 @@
    "id": "cb-st-kitts",
    "name": "Google News – Caribe – St Kitts & Nevis · CBI",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "cb-antigua",
@@ -3867,6 +3903,35 @@
    "title_vi": "Hãng luật Colavecchio & Colavecchio khuyên các cặp vợ chồng chuẩn bị cho phỏng vấn Green Card diện hôn nhân",
    "programs": [],
    "si": false
+  },
+  {
+   "id": "38360aa52a4b6724",
+   "src_group": null,
+   "src_country": "CB",
+   "title": "Early Move to Diversify Has Put St. Kitts and Nevis in a Stronger Position to Weather CBI Pressure, Says Prime Minister Drew - SKNVibes",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3d29mOXRrcGdrUEhKY0owdk4yM1d2VVFoNW9vSW9EX2JpcTJOV2o4T1U0ck1jYUl6Snh5emNXdE5hdzlJN3VxZzRtV0lYODdoWEpGMG4yNGE3RVhjYmdr?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SKNVibes",
+   "country": "CB",
+   "type": "news",
+   "source": "cb-st-kitts",
+   "published": "2026-11-06T16:50:53+00:00",
+   "fetched": "2026-11-09T06:47:42.180744+00:00",
+   "visas": [
+    "st-kitts"
+   ],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "tier": "press",
+   "programs": [
+    "cb-cbi"
+   ],
+   "si": true,
+   "score": 3.5
   },
   {
    "id": "684e583c2b970fa2",
@@ -8290,6 +8355,31 @@
    "si": false
   },
   {
+   "id": "97c00e7b2a542bea",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Chinese New Year 2027: Dates, Visas and Where to Celebrate - Pixidia",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uakVCTzFIZmUzeXhjQmJXaGx3SFNLdmtNLVE4bmFieUc0SmVaRzROUFY3NTEyRFlRRC1mM1V5V1lEUl9ENGxPMlUyc3RCVEx6dTUzTURmWEpPQzNROEVIbnQ4Rkp4ZFp2VnRlMUFQMGtoLUVDMFpZYXFkbWNRdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Pixidia",
+   "country": "US",
+   "type": "news",
+   "source": "us-travel-vn",
+   "published": "2026-11-05T05:32:30+00:00",
+   "fetched": "2026-11-09T06:47:42.180744+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "2b8ecaa882d0c00c",
    "src_group": null,
    "src_country": "AU",
@@ -10937,6 +11027,33 @@
    "si": false
   },
   {
+   "id": "06e148a314b321bd",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "EU Citizenship Statistics 2015–2024: Who Becomes an EU Citizen and Where. - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyYllJbDlMNERUX09KRjRsOWdSOHVnSFdaTnlINWZKZFNFTVNVYnd1WXVoeTR4WFFmWk5IOHRkVkdGR0dxclNjNTdWeEo4SzdzNG5NYnpQcHdhekxLNlh2cjZKdmFpUQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-11-04T08:00:00+00:00",
+   "fetched": "2026-11-09T06:47:42.180744+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "agency",
+   "programs": [],
+   "si": false,
+   "score": -1.5
+  },
+  {
    "id": "cada7a50da5f049b",
    "src_group": null,
    "src_country": "EU",
@@ -13271,6 +13388,35 @@
    "tier": "press",
    "programs": [],
    "si": false
+  },
+  {
+   "id": "42ec8aedf7179621",
+   "src_group": null,
+   "src_country": "AE",
+   "title": "Pakistani Passport 2026 Visa on Arrival,Visa Free & E-Visa List - UrduPoint",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmlNcVNrSHFtc3ZzZTdxVTdrV09uSHBFc0dJUThXNzFIaGNpSUREWWhtNXhzVldjT05mWWM0bXNVM08xUzJabm1kRHlxV0pETDlQdEVhakplNzI4VklQcm9HT2xTZjBIWlR2cWJQWS1DS0ZTZmVxZE1KQmlOb05hQ094VTUtaU5lM3E0cG8yN1o5RDFDUm5ydGdyT3VRaV9vU3kxNWU0NA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "UrduPoint",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-travel-vn",
+   "published": "2026-11-03T08:00:00+00:00",
+   "fetched": "2026-11-09T06:47:42.180744+00:00",
+   "visas": [
+    "visit"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
   },
   {
    "id": "5f454a3345cfbc0f",
@@ -27411,6 +27557,31 @@
    "si": true
   },
   {
+   "id": "525686188fc7e0e7",
+   "src_group": null,
+   "src_country": "US",
+   "title": "\"SCM Postponed to Early Next Year\"… Democratic Party Lawmaker Jin Sung-joon Denied U.S. Visa - SBS 뉴스",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fZlFBR1l2U3FWcENaTVFuYnhSQ3lVb0NqVTYzdUpSTzlaNVZpdmJ2Z0pvRDRfTHF4d1hfNVIwQk9EXzNFVnN6TEJYWDFCTURNWlNULW1uTWV0NHJmSnZkNHhrMmJaVGZuY2E2Mlln0gFmQVVfeXFMTW5GeWRUSmprM2RjY2FGaUFYU3hMTjhOb3hGclB2VmxDRjlES0gxVkQwWFRHcEpPZ1RaZkkzX29ha29heWhUSjNsS19wanVCOU1lWkNBZk5yVndmaGdmY2pOdVl4LVBB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SBS 뉴스",
+   "country": "US",
+   "type": "news",
+   "source": "us-travel-vn",
+   "published": "2026-10-28T21:31:52+00:00",
+   "fetched": "2026-11-09T06:47:42.180744+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "e98d5eafa62f4962",
    "src_group": null,
    "src_country": "NZ",
@@ -39261,6 +39432,89 @@
    "fetched": "2026-11-09T06:37:04.845655+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "168797e74a12d57e",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US visitor visa refusal rate for Koreans jumps to nearly 25% - The Korea Herald",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFMlBtaUpCTm81dzVfOTJiakc1M3pibzB6ZDFXaHEzTG1lRXhRd1VGQUFLVExRNURhOGxtWDZFa2RFcWlEQlY4SDBscFZMYlhBWXJwUVFWTQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Korea Herald",
+   "country": "US",
+   "type": "news",
+   "source": "us-travel-vn",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-11-09T06:47:42.180744+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "7b38eb043d5ce897",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US visa refusal rate in South Korea rises to 24.73% — Korea Herald - UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkdGQmg1NVd2Qk5SdUlQYmYweVZrXzczY19hTDktVHB4enVvdTJ3SnJIbzRmMHRCLU5uc3BObG1Fc3FUXzJEZlRJSXo1Uld1LUx2NnFFVm1xZTRfUGVwMUJ3VkRXdkw4dXVuS05NT0JlOF9FT0Y3MTR3aFAzUnNaa2FkdmNqdHltTVIzUW1IalZpbzR0eXpzd3p1TXM5WTNNSURqV05nSTcyZ3B1VWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "UA.NEWS",
+   "country": "US",
+   "type": "news",
+   "source": "us-travel-vn",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-11-09T06:47:42.180744+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "94c96abb040b74af",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US rejects record 1 in 4 South Korean visitor visa applicants, over four times Japan's rate - VnExpress International",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXFPTWRWQlZKWE8yVEhjOHFTa0wwNmxkaUgxamdyblFwYnBKSGlhU0hHejF1ZjdELW5Hb0ZmYW9lX3QwQ05SaDF0S2V2R3FtQlpRYUtCUC03UThlazRualppT1oydllnSExLdHJwelg5dGN3MGNqUUZObWJGUFNqelFGeUtBNXVMVmNyUG1FVHZ4Vy1scnY5SHJZbUtoNFNvcjduYUpSaVc2ODU1RHFFbEFDdUtPY2NMTGFTUEk0c0xvRFF6OE8yLUFrb1RwY0xGMEw0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "VnExpress International",
+   "country": "US",
+   "type": "news",
+   "source": "us-travel-vn",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-11-09T06:47:42.180744+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
