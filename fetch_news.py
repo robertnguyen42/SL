@@ -25,7 +25,22 @@ GENERAL = re.compile(r"visa|thị thực|định cư|di trú|nhập cư|nhập t
 EXCLUDE = re.compile(r"tái định cư|giải phóng mặt bằng|khu tái định|hoa hậu|showbiz|Centene|prior authorization|Philippine|Visayas|Mindanao|Luzon|Cebu|PNP chief"
                      # keyword "offshore" trong Google Sheet kéo về tin dầu khí / điện gió ngoài khơi
                      r"|offshore (?:wind|oil|gas|drilling|energy|field|project|asset|rig)|FPSO|subsea|oilfield|LNG", re.I)  # PNP = cảnh sát Philippines
+# Tin hình sự (kết án, truy tố, bỏ phiếu bất hợp pháp…) từ newsroom USCIS/DOJ: không phải thay đổi chính sách
+CRIME = re.compile(r"\b(?:sentenced|pleads? guilty|convicted|indicts?|indicted|charged (?:with|for)|arrested|alien smuggling)\b", re.I)
+# Tiêu đề chỉ là tên trang (Google News lập chỉ mục cả trang mục lục của website chính phủ)
+GENERIC_PAGE = re.compile(r"^(?:newsroom|news(?: and media)?|media releases?|search result.*|immigration and citizenship website|"
+                          r"ministers for the department of home affairs website|additional estimates)$", re.I)
 NUM_PREFIX = r"(?:visa|subclass|diện|thị thực|loại)"
+
+
+def strip_publisher(title):
+    """Bỏ đuôi " - Tên báo" Google News thêm vào tiêu đề (để tên nguồn không làm khớp từ khoá)."""
+    return re.sub(r"\s+-\s+[^-]{2,60}$", "", title).strip()
+
+
+def is_noise(title):
+    t = strip_publisher(title)
+    return bool(EXCLUDE.search(title) or CRIME.search(t) or GENERIC_PAGE.match(t))
 
 
 def kw_pattern(k):
@@ -367,7 +382,8 @@ def main():
                 continue
             visa_re = (tax[s["country"]]["visas"][s["visa"]]["re"] if s.get("visa")
                        else tax[s["country"]].get("groups", {}).get(s.get("group"), {}).get("re", []))
-            if (s["type"] == "news" or s.get("filter")) and not (GENERAL.search(title) or matches(visa_re, title)):
+            core = strip_publisher(title)
+            if (s["type"] == "news" or s.get("filter")) and not (GENERAL.search(core) or matches(visa_re, core)):
                 continue
             d = parse_date(e["date"]) or now
             if d < cutoff:
@@ -407,7 +423,7 @@ def main():
         ai = {}
     tiers, tr = load_tiers(), load_translations()
     items = [score(tag(i, tax), tax, pr, ai, tiers, tr) for i in by_id.values()
-             if parse_date(i["published"]) >= cutoff and not EXCLUDE.search(i["title"])]
+             if parse_date(i["published"]) >= cutoff and not is_noise(i["title"])]
     if DROP_VI:
         items = [i for i in items if i["lang"] != "vi"]
     items.sort(key=lambda i: i["published"], reverse=True)
