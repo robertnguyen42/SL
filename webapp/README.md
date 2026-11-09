@@ -14,3 +14,10 @@ Cập nhật code: `clasp push` trong thư mục `webapp/`, rồi `clasp deploy 
 - Deployment: `AKfycbwm7zZ_AB0b5BMIw3YssAyjSanun2PyHqr4m-6MLzKAmm_ptIH_3ibMQlwCjvWj_q04LA`
 - Link: https://script.google.com/a/macros/si.im/s/AKfycbwm7zZ_AB0b5BMIw3YssAyjSanun2PyHqr4m-6MLzKAmm_ptIH_3ibMQlwCjvWj_q04LA/exec
 - Cập nhật giữ nguyên link: `clasp push` rồi `clasp create-deployment -i AKfycbwm7zZ_AB0b5BMIw3YssAyjSanun2PyHqr4m-6MLzKAmm_ptIH_3ibMQlwCjvWj_q04LA`
+
+## Cắm cờ tin cho email bản tin tuần (v2)
+- Mỗi tin có nút **🚩 Chọn**; tin được lưu chung cho cả team ở Google Sheet "SL | BẢN TIN TUẦN – TIN ĐÃ CHỌN"
+  (Script Property `LIB_FLAG_SHEET_ID`, tự tạo lần đầu có người cắm cờ). Tuần bản tin = tuần (thứ Hai–Chủ nhật) lúc cắm cờ.
+- Nút **🚩 Bản tin tuần** ở thanh trên: chọn tuần, sửa tiêu đề / tóm tắt, bỏ tin, **Xem email** theo mẫu "Bản tin Định cư"
+  (SI GROUP, TIN NỔI BẬT, mục Úc / Mỹ / Canada / Các quốc gia khác), **Copy email** rồi dán vào Gmail.
+- Chức năng này chỉ có trên web app (cần lưu chung); trang GitHub Pages không có.
