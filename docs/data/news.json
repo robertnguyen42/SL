@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:30:30.991382+00:00",
+ "updated": "2026-11-09T02:00:27.120836+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -197,7 +197,7 @@
    "id": "ca-vi",
    "name": "Google News – Định cư Canada",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "eu-gov",
@@ -281,7 +281,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -323,7 +323,7 @@
    "id": "au-sheet-tay-nghe-3",
    "name": "Sheet – Úc – Tay nghề (3)",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "au-sheet-tay-nghe-4",
@@ -341,7 +341,7 @@
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "us-eb5",
@@ -353,7 +353,7 @@
    "id": "us-eb-work",
    "name": "Google News – Mỹ – EB-1 / EB-2 / EB-3 · Định cư diện việc làm",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "us-h1b",
@@ -371,7 +371,7 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "us-family",
@@ -383,13 +383,13 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-green-card",
    "name": "Google News – Mỹ – Thẻ xanh – Điều chỉnh tình trạng",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "us-citizenship",
@@ -533,19 +533,19 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-blue-card",
    "name": "Google News – Châu Âu – EU Blue Card · Lao động tay nghề cao",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "eu-student",
@@ -563,7 +563,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "eu-schengen",
@@ -587,13 +587,13 @@
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -605,7 +605,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 21
+   "count": 24
   },
   {
    "id": "eu-sheet-khac-2",
@@ -623,7 +623,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-aewv",
@@ -647,7 +647,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-post-study",
@@ -677,7 +677,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -689,7 +689,7 @@
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "ae-sheet-chung-2",
@@ -723,6 +723,32 @@
   }
  ],
  "items": [
+  {
+   "id": "7f23caf72825718a",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Phnom Penh Seminar to Examine New Zealand Investor Visa Options on November 13 - Cambodia Investment Review",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNzJCSXBNZTdhQjZKRmlwM0o2NWNRS0w1bURtVDBjNmRxWmdYMEkycVd2TnEtRUdILWtUQldLS0hNMUJDQnVlbTFYZ2hTNklhVWVLazdiTExrN1Q4S3JWVFJUeHc5cS1GTUtPdzJ5VWFwcVFfQnhtSmZjX1FjalBMVHB2eTcwcy04SGRiUTBTeEFYOUk5V0VvVW92V0tMaFU0NUloUVZvR0JrTndjMmRvWUttbllITl8zeURHWVJ1cEJvUm9zOEE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Cambodia Investment Review",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-11-09T00:58:49+00:00",
+   "fetched": "2026-11-09T02:00:27.120836+00:00",
+   "visas": [
+    "investor"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "score": 1.5
+  },
   {
    "id": "933d45a4556b6925",
    "src_group": null,
@@ -4668,6 +4694,32 @@
    "score": 2.5
   },
   {
+   "id": "dd06f64597ba91f5",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Can Democrats reverse Trump's H-1B policies? What US midterms mean for immigrants - India Today",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSkktcXhQTDNUOTg4ZVEyTGJhZEptQTlMTGJqeU4tUWVMd0paUFkxd3lPZHZqcDNTNnotb0JJN284Y21QSDJqR3hpZ3RJMnVnZXdTa200VWtwNVVzMFE4TFUxYldqa0hfOVBfWFJkUmhCVVF6XzdrRGpNV0NvdWlUMjJRSC1ZSFE4TEd5amRvREhIRVk0WXR1dUkzb0RnY3lmdTB5Z2xGZWZlcjdvZDhvRlUtSE1QV05R0gG-AUFVX3lxTFA2ZGdwbUliR0FKdVpPZWZzbEpLMXdkVl9GemJkcXBlYTNQVndPVkQ0MmJFYk9feWlybFJOaWg1QWcwN005aEx4WmlFZTViRFVJazgwSmRMbnVfM09SSTBESXQ0dmlrM3pGRGMtMmdOZWJjbXU3UjdBNlFhTE9IQmRUT0lCUk1RaGxzSFFSU2FrZFc0ZnY4WEtVb2JJcUNwcXFJYnBBOExVS0p4SU9mbXM0MXFVZkJqYUFuZ2paX0E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "India Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-11-06T04:52:20+00:00",
+   "fetched": "2026-11-09T02:00:27.120836+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
    "id": "a19db8132471f334",
    "src_group": null,
    "src_country": "US",
@@ -5062,6 +5114,28 @@
    "direction": null,
    "prio": false,
    "score": 0.0
+  },
+  {
+   "id": "8e62149c58a61c41",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Netherlands closes permanent residency pathway for 1 category of foreigners - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUM2dmdLUHpmb0JSLWxDcm0yZ2NHYVo5cmRBMkw3MUJvdVFzSHVMWGtsa3FCSzlZeWxMaWJQRTZxN3RpVFFmNUg3Z2FUNlQ3WWtDUS1pNnlaNUR1ODBLS3Q4dFRzeFRBMU1uWnZqNFd1V1hna0VEazhXbXRyNFZlcy1CQllPVlB1RjB6azRXb1FXUUpXQmJfeDMyWk5yTHNXWWtrOGdOVTZDR1k2?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-11-05T23:38:38+00:00",
+   "fetched": "2026-11-09T02:00:27.120836+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
   },
   {
    "id": "7dcadf771bdd8317",
@@ -7442,6 +7516,32 @@
    "fetched": "2026-11-05T17:40:36.153561+00:00",
    "visas": [],
    "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "c7804f4d057a1603",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Impact of Trump Tariff Taxes on Republicans: Implications for Indian H-1B Visa Holders, Russian Oil, and Trade Deals Following US Midterm Results - Observer Voice",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYTlnc0xkdHhnb2E3eHB1WHNpeUs2SEFhUUdnX0o5YlRkeVU1LTR2OGo5RFdUN2UxVWZnb2tlSDhKRkxsc0IwOW9IaXNuX3BYdk9JMVQ5SVRrb180TEdrZ0hiRVBfb2Z6NWNRaGQtRkZ5Y1lPX3RVd1lnOW9aYTJtSXJWQXRnbmgzUGZ1R3lGbXBYWk1GN2NDaVpNLVY1NzdOUmRFTHdaeFVSZFJUT0dqLVhxRzlWaGhSUk1CY3IzeElZR0F2bjgyb1FKYVJ2ejJfOTdiV3p3VDlabFd6akxxLVVleTYyZkc4em5VenpOcWdldVBpSklRNElSQ0dkenR4LWZGWG9ITQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Observer Voice",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-11-05T04:55:39+00:00",
+   "fetched": "2026-11-09T02:00:27.120836+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -10067,6 +10167,28 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
+   "id": "3847c12cd1098474",
+   "src_group": null,
+   "src_country": "US",
+   "title": "US Visa Curbs May Push IT Talent Back Home - Rediff",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXBoeEJjXzY4cnozSlU1V0N5VXVPM250RU1Ea0lIR0R3X2dPSEtwSlo1QVNzZ09LVmZPdGVjdFBTRGl0TU80R0RBV185SnlQejlvSklMZ1Z1V3YwTzAwWGpqamZkV0VKV09CSlpMTXpLcnpDeUwxbjRUSlA4cElfS3BFbXJnV2lDS0xkMXZ5Mnlzdlh50gGXAUFVX3lxTE9JMnAxVDVUQ2p1Qlh6WHg1bVhGWWc3NURnVEpjOGRWWnZocUZrX0gtWXRuRElfTnlwN3lqdUVzRENYaWE0Wm84dG12WGloVEh5Y0Z4bHc1YnU2TjNpMzEwZUc3NVpJbkhsZmVuUENDZzAwUVhncU4zQmdwdjdkMy1pZGtXZXlaUTNTRG1iX1BTR3RodlhjNDQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Rediff",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-11-04T05:21:23+00:00",
+   "fetched": "2026-11-09T02:00:27.120836+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -17706,6 +17828,32 @@
    "score": 0.0
   },
   {
+   "id": "620832e17498827e",
+   "src_group": null,
+   "src_country": "US",
+   "title": "UK opens 3 new 'legal' refugee resettlement routes for India, other nations - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDRiNnA5elVBM3UzczF3aGJ3Z2NNbE5TZ0EwZXhieTVydURJT0hmV3ZnU1Z3VlFVMmdNN3RVTU1uR0VTWDNGazVkaUs3Z3YwZzVOQWpMV1hJSUQxNnUzbGdZU0lWRlpZTl9CN3VhSlRKOGhvdm5EVHJaNFhkWVRCaHFsZ2xOdkplMWxEbmQycldEWUFNR20wV1pEbnNNX0YyTnBqNUhxRzlZNmRENHI1cF9mM0JFbC1MbDVfdWljUnY4RDYzMUF4UTdNQ0FvR0liX0sxSNIB2gFBVV95cUxOS0x4LV9feHZpWnlXemV0dlNZQ1BSam9SZFFmWHdodDk0RXE0c0w2a1M2Z1pHbXFyRmxTdFptMHY2VzF1U1NaWVNxUERndlRqNUVMWExGek0tRVN2dkprNW5jWnpqM0FFZFZtVk5weVJyTVBRTFdpM0NuMmU2Z3J3OUtCUWh5TnVsVlJJSjE4T0ptXzBZRHozcUFOYmRvR2VDYTJiOC1WWTBjTVZXOHZOX3VuVHRYR1JTUEcta19RQU9JaTVUVk5NVWowcTRtU2IxeVRMTkIzOUk4Zw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Standard",
+   "country": "EU",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-31T07:24:16+00:00",
+   "fetched": "2026-11-09T02:00:27.120836+00:00",
+   "visas": [
+    "asylum-policy"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
+  },
+  {
    "id": "e7228020af5a59d3",
    "src_group": "khac",
    "src_country": "EU",
@@ -21273,6 +21421,30 @@
    "direction": "siet",
    "prio": true,
    "score": 6.0
+  },
+  {
+   "id": "baecb0d2cde0ae1e",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "Frontex Explained: What the EU Border Agency Can and Can’t Do at Schengen Borders - SchengenVisaInfo",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaTUxDY2pIeWFISjRMZGRpcVJzVVV2eTlwMEtHMndZWnNIMGpZNC04VUhXeVk2elZlaU53WWd0WTVKNFNJWFpRYW04enAwQmNhdmNmdFlJY2ZTeGhhZ2pmSQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SchengenVisaInfo",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-10-30T07:00:00+00:00",
+   "fetched": "2026-11-09T02:00:27.120836+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "score": 0.0
   },
   {
    "id": "f08a4ef951d7c502",
@@ -28791,6 +28963,28 @@
    "source": "au-sheet-tay-nghe-3",
    "published": "2026-10-28T07:00:00+00:00",
    "fetched": "2026-11-08T18:31:12.690923+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "score": 2.5
+  },
+  {
+   "id": "bb7bf1a0895229d0",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Trump says Microsoft abuses visa laws. Microsoft disagrees. Who’s telling the truth? - Computerworld",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaUEweU9Fb19RLV9BanJHTl9jNFB5VE9YODJqMTFDdTlIdGFJYnZUYU56eGpZQ3NENWlmdTR0dHRXM0RJcDQ4RWFuWWJ2U2R6TW5VcXNxTUEtT1p5MzE0S2lvNEFPWTE5czc5WDF3ckhkOEdBWGk0RTdxNnlaaUU3dlM3VEdjSHE1UzhkNmJoRW53UF9xOWFGUXpFa3NEVDBDNC01aWZCMm92OU1EVlY3OWJfSGJnMkdpaHZXNS1OLVktVDI3TGhCQ0dTWQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Computerworld",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-28T07:00:00+00:00",
+   "fetched": "2026-11-09T02:00:27.120836+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
