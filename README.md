@@ -75,3 +75,5 @@ Sửa `sources.json`. `type: "official"` = nguồn chính phủ (hiện tóm t�
 - Visa du lịch (Mỹ, Úc, Canada, Schengen, NZ, UAE): chỉ lấy tin liên quan công dân Việt Nam / Đông Nam Á (trường `cung`),
   hoặc thay đổi áp dụng mọi quốc tịch (trường `toan_cau`, vd phí visa) mà không chỉ nói về công dân nước khác (trường `tru`)
 - Từ 09/11/2026 trang chính (`docs/index.html`) dùng giao diện thư viện mới; `preview.html` chuyển hướng về trang chính
+- Visa du lịch được lấy thêm từ báo tiếng Việt (nguồn `*-du-lich-vi`), là ngoại lệ duy nhất của `DROP_VI`
+- Giao diện: tin chia theo tuần, trong mỗi tuần chia nhóm Mỹ / Úc / Canada / Các quốc gia khác (6 tin đầu, bấm để xem hết)

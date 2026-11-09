@@ -15,6 +15,8 @@ KEEP_DAYS = 120          # giữ tin trong 120 ngày
 # Bỏ hẳn tin từ báo tiếng Việt (09/11/2026): báo Việt chủ yếu dịch lại tin tiếng Anh,
 # nay tin tiếng Anh được dịch trực tiếp (translate.py) nên không cần nguồn tiếng Việt nữa
 DROP_VI = True
+# Ngoại lệ: chủ đề visa du lịch vẫn lấy báo tiếng Việt (tin dành riêng cho công dân Việt Nam hầu như chỉ có trên báo Việt)
+VI_KEEP_SOURCE = re.compile(r"-du-lich-vi$")
 MAX_PER_SOURCE = 40
 ATOM = "{http://www.w3.org/2005/Atom}"
 # Tin báo chí (type=news) phải chứa ít nhất 1 từ khoá chung này hoặc 1 từ khoá visa, để loại tin không liên quan
@@ -230,11 +232,11 @@ def load_programs():
             for pid, p in raw.items() if not pid.startswith("_")}
 
 
-def program_hit(p, text):
+def program_hit(p, text, vi=False):
     """Khớp từ khoá chương trình; nếu có 'cung' thì phải nhắc thêm cụm 'cung' (vd Việt Nam) hoặc cụm 'toan_cau'."""
     if not matches(p["re"], text):
         return False
-    if not p["cung"] or matches(p["cung"], text):
+    if not p["cung"] or vi or matches(p["cung"], text):
         return True
     # Thay đổi áp dụng mọi quốc tịch, trừ khi tin chỉ nói về công dân nước khác (Ấn Độ, Nigeria…)
     return matches(p["toan_cau"], text) and not matches(p["tru"], text)
@@ -242,7 +244,8 @@ def program_hit(p, text):
 
 def tag_programs(item, progs):
     text = strip_publisher(item["title"]) + " " + (item.get("summary") or "")
-    item["programs"] = [pid for pid, p in progs.items() if p["nuoc"] == item["country"] and program_hit(p, text)]
+    vi = item.get("lang") == "vi" and bool(VI_KEEP_SOURCE.search(item.get("source", "")))
+    item["programs"] = [pid for pid, p in progs.items() if p["nuoc"] == item["country"] and program_hit(p, text, vi)]
     item["si"] = bool(item["programs"])
     return item
 
@@ -454,7 +457,7 @@ def main():
     items = [score(tag(i, tax), tax, pr, ai, tiers, tr, progs) for i in by_id.values()
              if parse_date(i["published"]) >= cutoff and not is_noise(i["title"])]
     if DROP_VI:
-        items = [i for i in items if i["lang"] != "vi"]
+        items = [i for i in items if i["lang"] != "vi" or (VI_KEEP_SOURCE.search(i.get("source", "")) and i.get("si"))]
     items.sort(key=lambda i: i["published"], reverse=True)
     taxonomy = {c: {"name": t["name"], "flag": t["flag"],
                     "visas": {vid: v["name"] for vid, v in t["visas"].items()},

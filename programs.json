@@ -1,5 +1,5 @@
 {
- "_huong_dan": "Danh sách chương trình SI đang tư vấn (theo file MATRIX SẢN PHẨM ĐỊNH CƯ, 09/11/2026). Tin khớp ít nhất 1 chương trình được gắn nhãn chương trình và coi là 'tin SI'; trang web mặc định chỉ hiện tin SI, và translate.py chỉ dịch tin SI để tiết kiệm chi phí. 'kw' = cụm từ khớp nguyên cụm, không phân biệt hoa thường (riêng cụm VIẾT HOA <= 5 ký tự khớp đúng hoa thường; số thuần như 482 phải đi kèm chữ visa/subclass). 'nuoc' = mã thị trường; tin phải thuộc thị trường đó. 'cung' (tuỳ chọn) = tin phải nhắc thêm ít nhất 1 cụm trong danh sách này (vd công dân Việt Nam / Đông Nam Á); 'toan_cau' (tuỳ chọn) = cụm cho thay đổi áp dụng cho mọi quốc tịch, khớp thì không cần 'cung'. 'tru' (tuỳ chọn) = tin nhắc các quốc tịch này mà không nhắc 'cung' thì bỏ (vd visa du lịch cho công dân Ấn Độ, Nigeria).",
+ "_huong_dan": "Danh sách chương trình SI đang tư vấn (theo file MATRIX SẢN PHẨM ĐỊNH CƯ, 09/11/2026). Tin khớp ít nhất 1 chương trình được gắn nhãn chương trình và coi là 'tin SI'; trang web mặc định chỉ hiện tin SI, và translate.py chỉ dịch tin SI để tiết kiệm chi phí. 'kw' = cụm từ khớp nguyên cụm, không phân biệt hoa thường (riêng cụm VIẾT HOA <= 5 ký tự khớp đúng hoa thường; số thuần như 482 phải đi kèm chữ visa/subclass). 'nuoc' = mã thị trường; tin phải thuộc thị trường đó. 'cung' (tuỳ chọn) = tin phải nhắc thêm ít nhất 1 cụm trong danh sách này (vd công dân Việt Nam / Đông Nam Á); 'toan_cau' (tuỳ chọn) = cụm cho thay đổi áp dụng cho mọi quốc tịch, khớp thì không cần 'cung'. 'tru' (tuỳ chọn) = tin nhắc các quốc tịch này mà không nhắc 'cung' thì bỏ (vd visa du lịch cho công dân Ấn Độ, Nigeria). Tin từ báo tiếng Việt (chỉ nguồn visa du lịch '*-du-lich-vi') coi như đã thoả điều kiện 'cung' vì viết cho người Việt.",
  "us-eb5": {
   "nuoc": "US",
   "ten": "EB-5 · Đầu tư",
@@ -293,7 +293,13 @@
    "B1/B2",
    "B-1/B-2",
    "B1 B2",
-   "US visa"
+   "US visa",
+   "visa Mỹ",
+   "thị thực Mỹ",
+   "visa du lịch Mỹ",
+   "phỏng vấn visa",
+   "Đại sứ quán Mỹ",
+   "Tổng Lãnh sự quán Mỹ"
   ],
   "cung": [
    "Vietnam",
@@ -357,7 +363,11 @@
    "tourist visa",
    "subclass 600",
    "600 visa",
-   "Australian visa"
+   "Australian visa",
+   "visa Úc",
+   "thị thực Úc",
+   "visa du lịch Úc",
+   "visa 600"
   ],
   "cung": [
    "Vietnam",
@@ -419,7 +429,10 @@
    "tourist visa",
    "TRV",
    "temporary resident visa",
-   "Canada visa"
+   "Canada visa",
+   "visa Canada",
+   "thị thực Canada",
+   "visa du lịch Canada"
   ],
   "cung": [
    "Vietnam",
@@ -480,7 +493,11 @@
    "Schengen visa",
    "tourist visa",
    "short-stay visa",
-   "visitor visa"
+   "visitor visa",
+   "visa Schengen",
+   "thị thực Schengen",
+   "visa châu Âu",
+   "visa du lịch châu Âu"
   ],
   "cung": [
    "Vietnam",
@@ -542,7 +559,10 @@
   "kw": [
    "visitor visa",
    "tourist visa",
-   "New Zealand visa"
+   "New Zealand visa",
+   "visa New Zealand",
+   "thị thực New Zealand",
+   "visa du lịch New Zealand"
   ],
   "cung": [
    "Vietnam",
@@ -605,7 +625,11 @@
    "visit visa",
    "visa on arrival",
    "UAE visa",
-   "Dubai visa"
+   "Dubai visa",
+   "visa Dubai",
+   "visa UAE",
+   "thị thực UAE",
+   "visa du lịch Dubai"
   ],
   "cung": [
    "Vietnam",

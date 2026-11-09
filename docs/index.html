@@ -65,6 +65,13 @@ button,input,select{font:inherit;color:inherit}
 .week{margin:0 0 18px}
 .week h2{display:flex;align-items:baseline;gap:8px;margin:0 0 8px;font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700}
 .week h2 .wn{font-variant-numeric:tabular-nums;text-transform:none;letter-spacing:0;font-weight:500}
+.week h2{border-bottom:2px solid var(--line);padding-bottom:6px;margin-bottom:12px;font-size:14px;color:var(--text)}
+.bucket{margin:0 0 14px}
+.bucket h3{display:flex;align-items:baseline;gap:6px;margin:0 0 6px;font-size:14.5px}
+.bucket h3 .wn{color:var(--muted);font-weight:500;font-size:12.5px;font-variant-numeric:tabular-nums}
+.bucket .list{border-left:3px solid var(--bc,var(--line))}
+.bmore{display:block;width:100%;border:0;border-top:1px solid var(--line);background:var(--card);color:var(--accent);padding:8px;cursor:pointer;font-size:13px}
+.bmore:hover{background:var(--soft)}
 .list{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
 .item{display:grid;grid-template-columns:30px minmax(0,1fr);gap:10px;padding:11px 14px;border-top:1px solid var(--line)}
 .item:first-child{border-top:0}
@@ -150,6 +157,11 @@ const KINDS=[["policy","Tin chính sách"],["siet","▼ Siết chính sách"],["
 // Tầng nguồn (source_tiers.json): cơ quan chính phủ ưu tiên cao nhất, công ty di trú thấp nhất
 const TIERS={gov:"🏛 Cơ quan chính phủ",press:"Báo chí",agency:"Luật sư / công ty di trú"};
 const PERIODS=[[7,"7 ngày"],[30,"30 ngày"],[90,"90 ngày"],[0,"Tất cả"]];
+// Trong mỗi tuần chia tin theo nhóm quốc gia; mỗi nhóm hiện trước BUCKET_TOP tin, bấm để xem hết
+const BUCKETS=[["US","🇺🇸 Mỹ",["US"],"#1d4ed8"],["AU","🇦🇺 Úc",["AU"],"#047857"],["CA","🇨🇦 Canada",["CA"],"#b91c1c"],
+               ["OT","🌐 Các quốc gia khác",["NZ","EU","AE","CB"],"#8a4b23"]];
+const BUCKET_TOP=6, WEEKS_PAGE=3;
+let weekLimit=WEEKS_PAGE, openB={};
 const PAGE=60, POLL_MS=60000, NEW_MS=48*3600e3, VISA_TOP=10;
 
 let data={items:[],taxonomy:{}}, all=[], knownIds=null, limit=PAGE, visaAll=false;
@@ -272,15 +284,21 @@ function render(){
   document.getElementById("reshead").innerHTML=`<span class="count">${items.length.toLocaleString("vi-VN")} tin</span>`+
     chips.map(([f,v,l])=>`<button class="chip" data-f="${f}" data-v="${esc(v)}" aria-label="Bỏ lọc ${esc(l)}">${esc(l)}<span aria-hidden="true">×</span></button>`).join("");
   if(!items.length){document.getElementById("results").innerHTML='<div class="empty">Không có tin phù hợp. Thử bỏ bớt điều kiện lọc hoặc chọn khoảng thời gian dài hơn.</div>';return}
-  const page=items.slice(0,limit), weeks=[];
-  page.forEach(i=>{const w=weekStart(i.ts);if(!weeks.length||weeks[weeks.length-1].w!==w)weeks.push({w,list:[]});weeks[weeks.length-1].list.push(i)});
-  const wTotal={};items.forEach(i=>{const w=weekStart(i.ts);wTotal[w]=(wTotal[w]||0)+1});
-  document.getElementById("results").innerHTML=weeks.map(({w,list})=>`<section class="week">
-      <h2>Tuần ${dm(w)} – ${dmy(w+6*864e5)} <span class="wn">· ${wTotal[w]} tin</span></h2>
-      <div class="list">${list.map(item).join("")}</div></section>`).join("")
-    +(items.length>limit?`<button class="more" id="more">Xem thêm ${Math.min(PAGE,items.length-limit)} tin (còn ${items.length-limit})</button>`:"");
+  const weeks=[];
+  items.forEach(i=>{const w=weekStart(i.ts);if(!weeks.length||weeks[weeks.length-1].w!==w)weeks.push({w,list:[]});weeks[weeks.length-1].list.push(i)});
+  const html=weeks.slice(0,weekLimit).map(({w,list})=>{
+    const groups=BUCKETS.map(([id,name,cs,color])=>{
+      const g=list.filter(i=>cs.includes(i.country));if(!g.length)return "";
+      const key=w+"|"+id, open=openB[key], shown=open?g:g.slice(0,BUCKET_TOP);
+      return `<div class="bucket" style="--bc:${color}"><h3>${name}<span class="wn">· ${g.length} tin</span></h3>
+        <div class="list">${shown.map(item).join("")}${g.length>BUCKET_TOP?`<button class="bmore" data-b="${key}">${open?"Thu gọn":`Xem thêm ${g.length-BUCKET_TOP} tin ${esc(name.replace(/^\S+\s/,""))}`}</button>`:""}</div></div>`;
+    }).join("");
+    return `<section class="week"><h2>Tuần ${dm(w)} – ${dmy(w+6*864e5)} <span class="wn">· ${list.length} tin</span></h2>${groups}</section>`;
+  }).join("");
+  document.getElementById("results").innerHTML=html
+    +(weeks.length>weekLimit?`<button class="more" id="more">Xem các tuần trước (còn ${weeks.length-weekLimit} tuần)</button>`:"");
 }
-function update(){limit=PAGE;renderFacets();render();saveHash()}
+function update(){limit=PAGE;weekLimit=WEEKS_PAGE;openB={};renderFacets();render();saveHash()}
 
 // Lưu trạng thái lọc vào địa chỉ trang để gửi link cho đồng nghiệp
 function saveHash(){
@@ -311,7 +329,8 @@ side.addEventListener("click",e=>{
 });
 document.getElementById("main").addEventListener("click",e=>{
   const b=e.target.closest("button");if(!b)return;
-  if(b.id==="more"){limit+=PAGE;render()}
+  if(b.id==="more"){weekLimit+=WEEKS_PAGE;render()}
+  else if(b.dataset.b){openB[b.dataset.b]=!openB[b.dataset.b];render()}
   else if(b.classList.contains("chip")){const f=b.dataset.f;if(f==="q"){S.q="";document.getElementById("q").value=""}else if(f==="all"){S.all=false;document.getElementById("showall").checked=false}else S[f].delete(b.dataset.v);update()}
   else if(b.dataset.v){S.v.add(b.dataset.v);scrollTo({top:0});update()}
 });
