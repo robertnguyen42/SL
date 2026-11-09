@@ -24,13 +24,14 @@ jobs:
           TRANSLATE_MODEL: claude-opus-5-5
           TRANSLATE_SINCE: "2026-11-09T00:00:00+00:00"
           TRANSLATE_LIMIT: "300"
+      - run: python export_slim.py   # bản dữ liệu gọn cho web app nội bộ (Apps Script)
       # AI phân loại Siết/Nới (classify.py) đang TẮT để không phát sinh chi phí API.
       # Bật lại: thêm 2 bước "pip install -q anthropic pydantic" và "python classify.py" (env ANTHROPIC_API_KEY) vào đây.
       - name: Commit nếu có tin mới
         run: |
           git config user.name "ditru-bot"
           git config user.email "ditru-bot@users.noreply.github.com"
-          git add docs/data/news.json sheet_keywords.csv $(ls docs/data/ai_labels.json docs/data/translations.json 2>/dev/null)
+          git add docs/data/news.json docs/data/news_si.json sheet_keywords.csv $(ls docs/data/ai_labels.json docs/data/translations.json 2>/dev/null)
           git diff --cached --quiet && exit 0
           git commit -q -m "Cập nhật tin $(date -u +%F' '%H:%M)"
           # Thử đẩy 3 lần; nếu trùng file với lần chạy khác thì giữ bản mới vừa lấy (-X theirs)
