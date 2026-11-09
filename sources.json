@@ -61,7 +61,8 @@
   "country": "AU",
   "type": "official",
   "name": "Home Affairs Úc – Tin di trú",
-  "url": "https://news.google.com/rss/search?q=site%3Aimmi.homeaffairs.gov.au+OR+site%3Ahomeaffairs.gov.au+when%3A60d&hl=en-AU&gl=AU&ceid=AU:en"
+  "url": "https://news.google.com/rss/search?q=site%3Aimmi.homeaffairs.gov.au%2Fnews-media+OR+site%3Ahomeaffairs.gov.au%2Fnews-media+when%3A60d&hl=en-AU&gl=AU&ceid=AU:en",
+  "filter": true
  },
  {
   "id": "au-gov-minister",
@@ -76,35 +77,32 @@
   "country": "US",
   "type": "official",
   "name": "USCIS – Newsroom",
-  "url": "https://news.google.com/rss/search?q=site%3Auscis.gov+when%3A30d&hl=en-US&gl=US&ceid=US:en"
+  "url": "https://news.google.com/rss/search?q=site%3Auscis.gov%2Fnewsroom+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+  "filter": true
  },
  {
   "id": "us-gov-state",
   "country": "US",
   "type": "official",
   "name": "Bộ Ngoại giao Mỹ – Visa Bulletin & thị thực",
-  "url": "https://news.google.com/rss/search?q=site%3Atravel.state.gov+when%3A60d&hl=en-US&gl=US&ceid=US:en"
+  "url": "https://news.google.com/rss/search?q=site%3Atravel.state.gov%2Fcontent%2Ftravel%2Fen%2FNews+OR+site%3Atravel.state.gov%2Fcontent%2Ftravel%2Fen%2Flegal%2Fvisa-law0%2Fvisa-bulletin+when%3A60d&hl=en-US&gl=US&ceid=US:en",
+  "filter": true
  },
  {
   "id": "us-gov-dol",
   "country": "US",
   "type": "official",
   "name": "Bộ Lao động Mỹ – H-1B / PERM",
-  "url": "https://news.google.com/rss/search?q=site%3Adol.gov+%28H-1B+OR+PERM+OR+%22labor+certification%22+OR+%22foreign+labor%22%29+when%3A60d&hl=en-US&gl=US&ceid=US:en"
+  "url": "https://news.google.com/rss/search?q=site%3Adol.gov%2Fnewsroom+%28H-1B+OR+PERM+OR+%22labor+certification%22+OR+%22foreign+labor%22+OR+visa%29+when%3A60d&hl=en-US&gl=US&ceid=US:en",
+  "filter": true
  },
  {
   "id": "ca-gov-canada",
   "country": "CA",
   "type": "official",
   "name": "Canada.ca – Di trú",
-  "url": "https://news.google.com/rss/search?q=site%3Acanada.ca+%28immigration+OR+IRCC+OR+%22Express+Entry%22+OR+%22permanent+residence%22+OR+%22study+permit%22+OR+%22work+permit%22%29+when%3A30d&hl=en-CA&gl=CA&ceid=CA:en"
- },
- {
-  "id": "ae-gov",
-  "country": "AE",
-  "type": "official",
-  "name": "UAE – ICP / GDRFA / u.ae",
-  "url": "https://news.google.com/rss/search?q=site%3Aicp.gov.ae+OR+site%3Agdrfad.gov.ae+OR+site%3Au.ae+%28visa+OR+residence+OR+residency+OR+%22Golden+Visa%22%29+when%3A60d&hl=en&gl=AE&ceid=AE:en"
+  "url": "https://news.google.com/rss/search?q=site%3Acanada.ca%2Fen%2Fimmigration-refugees-citizenship%2Fnews+when%3A30d&hl=en-CA&gl=CA&ceid=CA:en",
+  "filter": true
  },
  {
   "id": "ae-wam",
