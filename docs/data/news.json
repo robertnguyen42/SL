@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T06:47:42.180744+00:00",
+ "updated": "2026-11-09T06:56:40.971281+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -388,7 +388,7 @@
    "id": "cb-en",
    "name": "Google News – Quốc tịch đầu tư Caribe",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "us-travel-vn",
@@ -424,7 +424,43 @@
    "id": "ae-travel-vn",
    "name": "Google News – Du lịch AE cho công dân Việt Nam / ĐNA",
    "ok": true,
-   "count": 9
+   "count": 10
+  },
+  {
+   "id": "us-du-lich-vi",
+   "name": "Google News tiếng Việt – Visa du lịch US",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "id": "au-du-lich-vi",
+   "name": "Google News tiếng Việt – Visa du lịch AU",
+   "ok": true,
+   "count": 0
+  },
+  {
+   "id": "ca-du-lich-vi",
+   "name": "Google News tiếng Việt – Visa du lịch CA",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "id": "eu-du-lich-vi",
+   "name": "Google News tiếng Việt – Visa du lịch EU",
+   "ok": true,
+   "count": 0
+  },
+  {
+   "id": "nz-du-lich-vi",
+   "name": "Google News tiếng Việt – Visa du lịch NZ",
+   "ok": true,
+   "count": 0
+  },
+  {
+   "id": "ae-du-lich-vi",
+   "name": "Google News tiếng Việt – Visa du lịch AE",
+   "ok": true,
+   "count": 0
   },
   {
    "id": "au-skills-in-demand",
@@ -574,7 +610,7 @@
    "id": "us-visa-bulletin",
    "name": "Google News – Mỹ – Visa Bulletin · Lịch chiếu khán",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-green-card",
@@ -592,7 +628,7 @@
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "us-sheet-chung-1",
@@ -652,7 +688,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "id": "ca-work",
@@ -694,7 +730,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -724,7 +760,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "eu-blue-card",
@@ -760,7 +796,7 @@
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "id": "eu-uk",
@@ -934,7 +970,7 @@
    "id": "cb-st-lucia",
    "name": "Google News – Caribe – Saint Lucia · CBI",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "cb-dominica",
@@ -9022,6 +9058,33 @@
    "tier": "press",
    "programs": [],
    "si": false
+  },
+  {
+   "id": "a5370616ed670ce5",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Murphy Oil Corporation Announces Signing of Offshore Mauritania Production Sharing Contracts - Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcVFTLXZmWEg0T1JvRF9MVFlLbWV1ZlhJREhORmVmZ1NhTFp0OFJfUmNBeEx1anV4eGhRcFQ5YzlNbkF5TjRON0dWQjNqTkZYWVdqQmY0dTNMVXgwSmFSbXF6T0RnWHN6QkZ0Skotd05qcV9GbzRmM0hmclVFMUs1Nmhkblp1d21fTnJjZmhsbEFHZmwyVUtLV21qS0FrNVVoMkVMWk1ic3hicFBscGFLUjdTSTJiMlg4NmNaMjc4U09hTU45Y3Y0dml3LTBLOWhibm9ja0MwUDlUYV95T002Wm8tYw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Wire",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-11-04T21:30:00+00:00",
+   "fetched": "2026-11-09T06:56:40.971281+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
   },
   {
    "id": "18ca4756e7724520",
@@ -39525,6 +39588,33 @@
    "score": 0.0
   },
   {
+   "id": "c01f1966ac0d7c6e",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Không có visa Mỹ hay châu Âu, nữ du khách Việt vẫn đi qua 10 nước Trung và Nam Mỹ - Thương gia",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb216VEUzZ1F4Z255RG4yWmJMQ2tMUWFDRG9TbDNsUDdmb21EN1p6UkNyMjZKZUR1d0dGMlZ2S19lamJGSlJhaEtNaWxMRlcwdDhzMjl0eE83Tm1DR3V5Q0NUcXJnUldtWk5zS25QUklYejNnRGdUNmNuSHBoMEt2NXVLOGFxMnVfWFFwM09Id1R1R3FrdGhWUDBVaGRaTGktN2hPUHlUcElPWnNzZy1YTVc2aVRhSS1RTzI5M1pQS3LSAb8BQVVfeXFMTTM2RkJpVTFBSUY0aml5aUluTl9tLUZuV2pSU29EYWxpaVY4a1diVVhzem1XQlpoMDFhRW85ZTBMRkQ2Mnp2dkJ5alJQRmtyRkV5MzVpZlIwdVJDaWZ0QWdaVksyS0gzdzZRaUE0d0EzQkczSUpWU19reENlelVSTHdSMDZjRk9hNDVFV0t0OTJHVXVSRV9wcmNOZ3NLSm1mOUZHVEVIenhlbXBJZmZhNzhOeF9PSTZxQlJRbmdyR0U?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Thương gia",
+   "country": "US",
+   "type": "news",
+   "source": "us-du-lich-vi",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-11-09T06:56:40.971281+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [
+    "travel-us"
+   ],
+   "si": true,
+   "score": 2.0
+  },
+  {
    "id": "d8f80978b4a93333",
    "src_group": "chung",
    "src_country": "AU",
@@ -44990,6 +45080,33 @@
    "tier": "press",
    "programs": [],
    "si": false
+  },
+  {
+   "id": "89968477e41921b7",
+   "src_group": null,
+   "src_country": "CB",
+   "title": "Your passport to new possibilities with TVG Citizenship by Investment - Khaleej Times",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1FwdU5xQVlVczh5NDBOTlBfS1JsMjY1S3hTVEpMNFdTUEJMZ3BYa05ZT3NBczZYckgzdmNBeEs2UTBoc2ZBTDZYRmtMNlFfSGpTbWlTc3FWTW9NX2Z4b3pjdnZWbWtLUl9BakpoRUtmTjUxMkdLaUpLYnpyZUpESzV4dmxZUWJRdHRDaU1CYm1pRTJ3cWxXTDJFejBDMHIxSUkyd1B2Mk1OcGtVSXkwM05Dc1ptcmfSAbcBQVVfeXFMTldRcHVOcUFZVXM4eTQwTk5QX0tSbDI2NUt4U1RKTDRXU1BCTGdwWGtOWU9zQXM2WHJIM3ZjQXhLNlEwaHNmQUw2WEZrTDZRX0hqU21pU3NxVk1vTV9meG96Y3Z2Vm1rS1JfQWpKaEVLZk41MTJHS2lKS2J6cmVKREs1eHZsWVFiUXR0Q2lNQmJtaUUyd3FsV0wyRXowQzByMUlJMndQdjJNTnBrVUl5MDNOQ3NabXJn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Khaleej Times",
+   "country": "CB",
+   "type": "news",
+   "source": "cb-st-lucia",
+   "published": "2026-10-23T07:00:00+00:00",
+   "fetched": "2026-11-09T06:56:40.971281+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [
+    "cb-cbi"
+   ],
+   "si": true,
+   "score": 2.0
   },
   {
    "id": "751f35c1429e1a0a",
@@ -52069,6 +52186,33 @@
    "tier": "press",
    "programs": [],
    "si": false
+  },
+  {
+   "id": "a3a5191c82154acf",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Chính quyền Trump thu hồi hơn 300.000 visa Mỹ - Znews",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZzZ3ODZMWUhPeXE5dm5uLUYzZ0hZV0c5TzZjekNUdHRmVUFLZ2s1MVJ6NnZUVzVkbGlpRmZuR1VUWVQ0QWNkS1JEZ0pLSnd4T1ZlTkhXbmMzVXRfVW9pYzVZZU83aURVdE9XdWNSTUcxYzJCUlBtV2F0ZmVCU0JRTVpWa0t6V3VvUXdQVjhCN1ZnUGpQSWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Znews",
+   "country": "US",
+   "type": "news",
+   "source": "us-du-lich-vi",
+   "published": "2026-10-21T07:00:00+00:00",
+   "fetched": "2026-11-09T06:56:40.971281+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [
+    "travel-us"
+   ],
+   "si": true,
+   "score": 4.5
   },
   {
    "id": "fd91bfafb02d05bc",
@@ -83435,6 +83579,33 @@
    "tier": "press",
    "programs": [],
    "si": false
+  },
+  {
+   "id": "0778bf9995d46f89",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Anthropic: Claude gửi tin báo án mạng giả cho cảnh sát, nộp 19 đơn xin visa Mỹ - Một Thế Giới",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGZqc2ZjR3B4Z2pCS25yQVF0RDQ5Nk1vNzVmZ0VxQnB3TDk3MXlLX3J1SzlFVjlaR2RpMHRPY051N2ZIWVR5QmNsYUVIVlVzTnU0TGtfWTltMngyS1hKWTJEcU9yX2hvd2R5c1JSdXZJbnUtOWRJa1JZeFlXbWplQzVQNU9ib1UwQ29iZU55TVU2YW0ycFFvaU1wSkZGdmpSN3MtZzB6TVJxb3BP?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Một Thế Giới",
+   "country": "US",
+   "type": "news",
+   "source": "us-du-lich-vi",
+   "published": "2026-10-10T07:00:00+00:00",
+   "fetched": "2026-11-09T06:56:40.971281+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "vi",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [
+    "travel-us"
+   ],
+   "si": true,
+   "score": 2.0
   },
   {
    "id": "a18ae40e02c987e8",
