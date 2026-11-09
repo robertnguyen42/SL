@@ -97,7 +97,7 @@ def main():
 
     # Chấm lại điểm với nhãn AI để trang web dùng ngay, không cần chờ lần lấy tin sau
     tax, pr = fetch_news.load_taxonomy(), fetch_news.load_priority()
-    news["items"] = [fetch_news.score(i, tax, pr, labels) for i in news["items"]]
+    news["items"] = [fetch_news.score(i, tax, pr, labels, fetch_news.load_tiers(), fetch_news.load_translations()) for i in news["items"]]
     (DATA / "news.json").write_text(json.dumps(news, ensure_ascii=False, indent=1), "utf-8")
     print(f"Đã phân loại {done}/{len(pending)} tin.")
 

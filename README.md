@@ -53,3 +53,14 @@ Sửa `sources.json`. `type: "official"` = nguồn chính phủ (hiện tóm t�
 - Mỗi lần cập nhật tin (30 phút), GitHub tải sheet → `sheet_keywords.csv`. Sheet phải để "Bất kỳ ai có đường liên kết: Người xem"; chưa chia sẻ thì dùng bản đã lưu
 - Trang có 2 cấp lọc: **Nhóm** theo sheet (Chung các loại / Tay nghề / Đầu tư / Khác) → **Loại visa** chi tiết (`keywords.json`, trường `nhom` nối loại visa với nhóm)
 - Mỗi nhóm trong sheet tự sinh truy vấn Google News (6 keyword/truy vấn). Keyword quá chung bị bỏ qua: job, regional, SBS
+
+## Phân tầng nguồn tin (`source_tiers.json`)
+- Mỗi tin được gắn `tier`: `gov` (cơ quan chính phủ), `press` (báo chí), `agency` (công ty di trú, hãng luật, trang dịch vụ visa)
+- Điểm ưu tiên: chính phủ +3, công ty di trú −1,5 (cộng với điểm tin chính sách, diện chính, tiếng Việt)
+- Sửa danh sách tên nguồn trong `source_tiers.json`, lần cập nhật sau áp dụng cho toàn bộ tin
+
+## Dịch tiếng Việt (`translate.py`) — CHƯA BẬT (chờ chọn model, phát sinh chi phí API)
+- Dịch tiêu đề (và tóm tắt nếu có) của tin tiếng Anh sang tiếng Việt, giữ nguyên thuật ngữ (EB-5, 482, Express Entry, Golden Visa…)
+- Kết quả lưu `docs/data/translations.json`; `fetch_news.py` gắn `title_vi` / `summary_vi` vào tin; trang web hiện tiếng Việt kèm "Bản gốc"
+- Mỗi tin chỉ dịch một lần. Biến môi trường: `TRANSLATE_MODEL`, `TRANSLATE_DAYS`, `TRANSLATE_LIMIT`
+- Bật: thêm bước `pip install -q anthropic pydantic` và `python translate.py` (env `ANTHROPIC_API_KEY`) vào `update.yml`, sau `fetch_news.py`; thêm `docs/data/translations.json` vào bước commit

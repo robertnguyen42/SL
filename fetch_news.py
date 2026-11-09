@@ -19,7 +19,9 @@ GENERAL = re.compile(r"visa|thị thực|định cư|di trú|nhập cư|nhập t
                      r"immigra|migra|citizenship|residen|uscis|ircc|home affairs|green card|thẻ xanh|"
                      r"asylum|refugee|tị nạn|border|deport|trục xuất", re.I)
 # Loại hẳn tin chứa các cụm này (nhiễu phổ biến)
-EXCLUDE = re.compile(r"tái định cư|giải phóng mặt bằng|khu tái định|hoa hậu|showbiz|Centene|prior authorization|Philippine|Visayas|Mindanao|Luzon|Cebu|PNP chief", re.I)  # PNP = cảnh sát Philippines
+EXCLUDE = re.compile(r"tái định cư|giải phóng mặt bằng|khu tái định|hoa hậu|showbiz|Centene|prior authorization|Philippine|Visayas|Mindanao|Luzon|Cebu|PNP chief"
+                     # keyword "offshore" trong Google Sheet kéo về tin dầu khí / điện gió ngoài khơi
+                     r"|offshore (?:wind|oil|gas|drilling|energy|field|project|asset|rig)|FPSO|subsea|oilfield|LNG", re.I)  # PNP = cảnh sát Philippines
 NUM_PREFIX = r"(?:visa|subclass|diện|thị thực|loại)"
 
 
@@ -184,6 +186,29 @@ def load_priority():
     return {k: words(raw.get(k, [])) for k in ("chinh_sach", "siet", "noi")}
 
 
+def load_tiers():
+    """Phân tầng nguồn tin (source_tiers.json): chinh_phu > bao_chi > cong_ty_di_tru."""
+    raw = json.loads((ROOT / "source_tiers.json").read_text("utf-8"))
+    def pat(ws):  # cụm ngắn (<= 4 ký tự, vd ICP, WAM) phải khớp nguyên từ
+        return re.compile("|".join(rf"(?<!\w){re.escape(w)}(?!\w)" if len(w) <= 4 else re.escape(w) for w in ws), re.I)
+    return {k: pat(raw.get(k, [])) for k in ("chinh_phu", "khong_phai_chinh_phu", "cong_ty_di_tru")}
+
+
+def source_tier(item, tiers):
+    pub = item.get("publisher") or ""
+    if item["type"] == "official" or (tiers["chinh_phu"].search(pub) and not tiers["khong_phai_chinh_phu"].search(pub)):
+        return "gov"
+    return "agency" if tiers["cong_ty_di_tru"].search(pub) else "press"
+
+
+def load_translations():
+    """Bản dịch tiếng Việt do translate.py tạo: {id: {"t": tiêu đề, "s": tóm tắt}}."""
+    try:
+        return json.loads((OUT.parent / "translations.json").read_text("utf-8"))
+    except Exception:
+        return {}
+
+
 def tag(item, tax):
     """Gán lại nước (nếu tiêu đề nói rõ nước khác) và danh sách loại visa."""
     text = item["title"] + " " + item.get("summary", "")
@@ -200,7 +225,7 @@ def tag(item, tax):
     return item
 
 
-def score(item, tax, pr, ai=None):
+def score(item, tax, pr, ai=None, tiers=None, tr=None):
     """Ưu tiên: tiếng Việt, tin thay đổi chính sách (kèm hướng siết/nới), diện visa định cư chính.
     `ai`: nhãn Claude từ classify.py ({id: {"p": bool, "d": "siet"|"noi"|None}}); có thì dùng thay cho từ khoá."""
     title = item["title"]
@@ -217,8 +242,15 @@ def score(item, tax, pr, ai=None):
     groups = tax.get(item["country"], {}).get("groups", {})
     item["prio"] = (any(visas[v]["prio"] for v in item.get("visas", []) if v in visas)
                     or any(groups[g]["prio"] for g in item.get("groups", []) if g in groups))
-    item["score"] = (2 * (item["lang"] == "vi") + 2.5 * item["policy"] + 1.5 * item["prio"]
-                     + 1 * (item["type"] == "official"))
+    item["tier"] = source_tier(item, tiers or load_tiers())
+    t = (tr or {}).get(item["id"])
+    if t and item["lang"] != "vi":
+        item["title_vi"] = t.get("t") or ""
+        if t.get("s"):
+            item["summary_vi"] = t["s"]
+    # Ưu tiên: nguồn chính phủ cao nhất, công ty di trú thấp nhất; sau đó tin chính sách, diện chính, tiếng Việt
+    item["score"] = (3 * (item["tier"] == "gov") - 1.5 * (item["tier"] == "agency") + 2.5 * item["policy"]
+                     + 1.5 * item["prio"] + 1 * (item["lang"] == "vi"))
     return item
 
 
@@ -370,7 +402,8 @@ def main():
         ai = json.loads((OUT.parent / "ai_labels.json").read_text("utf-8"))
     except Exception:
         ai = {}
-    items = [score(tag(i, tax), tax, pr, ai) for i in by_id.values()
+    tiers, tr = load_tiers(), load_translations()
+    items = [score(tag(i, tax), tax, pr, ai, tiers, tr) for i in by_id.values()
              if parse_date(i["published"]) >= cutoff and not EXCLUDE.search(i["title"])]
     items.sort(key=lambda i: i["published"], reverse=True)
     taxonomy = {c: {"name": t["name"], "flag": t["flag"],
