@@ -239,11 +239,15 @@
    },
    "eu-cbi": {
     "nuoc": "EU",
-    "ten": "Quốc tịch đầu tư / đóng góp châu Âu"
+    "ten": "Quốc tịch đầu tư / đóng góp châu Âu (Thổ Nhĩ Kỳ, Pháp, Hungary, Croatia, Malta…)"
    },
    "nz-aip": {
     "nuoc": "NZ",
     "ten": "Active Investor Plus · Đầu tư"
+   },
+   "nz-business-investor": {
+    "nuoc": "NZ",
+    "ten": "Business Investor Visa · Doanh nhân"
    },
    "ae-golden-visa": {
     "nuoc": "AE",
@@ -256,6 +260,30 @@
    "cb-cbi": {
     "nuoc": "CB",
     "ten": "Quốc tịch đầu tư Caribe (CBI)"
+   },
+   "travel-us": {
+    "nuoc": "US",
+    "ten": "Du lịch Mỹ · công dân Việt Nam / ĐNA"
+   },
+   "travel-au": {
+    "nuoc": "AU",
+    "ten": "Du lịch Úc · công dân Việt Nam / ĐNA"
+   },
+   "travel-ca": {
+    "nuoc": "CA",
+    "ten": "Du lịch Canada · công dân Việt Nam / ĐNA"
+   },
+   "travel-eu": {
+    "nuoc": "EU",
+    "ten": "Du lịch Schengen / châu Âu · công dân Việt Nam / ĐNA"
+   },
+   "travel-nz": {
+    "nuoc": "NZ",
+    "ten": "Du lịch New Zealand · công dân Việt Nam / ĐNA"
+   },
+   "travel-ae": {
+    "nuoc": "AE",
+    "ten": "Du lịch UAE · công dân Việt Nam / ĐNA"
    }
   }
  },
@@ -38692,10 +38720,12 @@
    "policy": false,
    "direction": null,
    "prio": false,
-   "score": -1.5,
+   "score": 0.5,
    "tier": "agency",
-   "programs": [],
-   "si": false
+   "programs": [
+    "travel-eu"
+   ],
+   "si": true
   },
   {
    "id": "b0918668e318c5fd",
@@ -127550,7 +127580,8 @@
    ],
    "tier": "press",
    "programs": [
-    "nz-aip"
+    "nz-aip",
+    "nz-business-investor"
    ],
    "si": true
   },
@@ -127580,7 +127611,7 @@
    ],
    "tier": "press",
    "programs": [
-    "nz-aip"
+    "nz-business-investor"
    ],
    "si": true
   },

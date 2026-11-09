@@ -224,13 +224,25 @@ def source_tier(item, tiers):
 def load_programs():
     """Chương trình SI đang tư vấn (programs.json): {id: {"nuoc", "ten", "re"}}."""
     raw = json.loads((ROOT / "programs.json").read_text("utf-8"))
-    return {pid: {"nuoc": p["nuoc"], "ten": p["ten"], "re": compile_terms(p["kw"])}
+    return {pid: {"nuoc": p["nuoc"], "ten": p["ten"], "re": compile_terms(p["kw"]),
+                  "cung": compile_terms(p.get("cung", [])), "toan_cau": compile_terms(p.get("toan_cau", [])),
+                  "tru": compile_terms(p.get("tru", []))}
             for pid, p in raw.items() if not pid.startswith("_")}
+
+
+def program_hit(p, text):
+    """Khớp từ khoá chương trình; nếu có 'cung' thì phải nhắc thêm cụm 'cung' (vd Việt Nam) hoặc cụm 'toan_cau'."""
+    if not matches(p["re"], text):
+        return False
+    if not p["cung"] or matches(p["cung"], text):
+        return True
+    # Thay đổi áp dụng mọi quốc tịch, trừ khi tin chỉ nói về công dân nước khác (Ấn Độ, Nigeria…)
+    return matches(p["toan_cau"], text) and not matches(p["tru"], text)
 
 
 def tag_programs(item, progs):
     text = strip_publisher(item["title"]) + " " + (item.get("summary") or "")
-    item["programs"] = [pid for pid, p in progs.items() if p["nuoc"] == item["country"] and matches(p["re"], text)]
+    item["programs"] = [pid for pid, p in progs.items() if p["nuoc"] == item["country"] and program_hit(p, text)]
     item["si"] = bool(item["programs"])
     return item
 

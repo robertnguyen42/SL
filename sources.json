@@ -126,5 +126,47 @@
   "type": "news",
   "name": "Google News – Quốc tịch đầu tư Caribe",
   "url": "https://news.google.com/rss/search?q=%22citizenship+by+investment%22+%28Grenada+OR+%22St+Kitts%22+OR+Antigua+OR+%22Saint+Lucia%22+OR+Dominica+OR+Caribbean%29+when%3A14d&hl=en-US&gl=US&ceid=US:en"
+ },
+ {
+  "id": "us-travel-vn",
+  "country": "US",
+  "type": "news",
+  "name": "Google News – Du lịch US cho công dân Việt Nam / ĐNA",
+  "url": "https://news.google.com/rss/search?q=%28Vietnam+OR+Vietnamese+OR+ASEAN%29+%28%22US+visa%22+OR+%22tourist+visa%22+OR+%22visitor+visa%22+OR+B1%2FB2+OR+%22visa+bond%22%29+when%3A30d&hl=en-US&gl=US&ceid=US:en"
+ },
+ {
+  "id": "au-travel-vn",
+  "country": "AU",
+  "type": "news",
+  "name": "Google News – Du lịch AU cho công dân Việt Nam / ĐNA",
+  "url": "https://news.google.com/rss/search?q=%28Vietnam+OR+Vietnamese+OR+ASEAN%29+Australia+%28%22visitor+visa%22+OR+%22tourist+visa%22+OR+%22subclass+600%22%29+when%3A30d&hl=en-US&gl=US&ceid=US:en"
+ },
+ {
+  "id": "ca-travel-vn",
+  "country": "CA",
+  "type": "news",
+  "name": "Google News – Du lịch CA cho công dân Việt Nam / ĐNA",
+  "url": "https://news.google.com/rss/search?q=%28Vietnam+OR+Vietnamese+OR+ASEAN%29+Canada+%28%22visitor+visa%22+OR+%22tourist+visa%22+OR+TRV%29+when%3A30d&hl=en-US&gl=US&ceid=US:en"
+ },
+ {
+  "id": "eu-travel-vn",
+  "country": "EU",
+  "type": "news",
+  "name": "Google News – Du lịch EU cho công dân Việt Nam / ĐNA",
+  "url": "https://news.google.com/rss/search?q=%28Vietnam+OR+Vietnamese+OR+ASEAN%29+%28%22Schengen+visa%22+OR+%22tourist+visa%22+OR+%22short-stay+visa%22%29+when%3A30d&hl=en-US&gl=US&ceid=US:en"
+ },
+ {
+  "id": "nz-travel-vn",
+  "country": "NZ",
+  "type": "news",
+  "name": "Google News – Du lịch NZ cho công dân Việt Nam / ĐNA",
+  "url": "https://news.google.com/rss/search?q=%28Vietnam+OR+Vietnamese+OR+ASEAN%29+%22New+Zealand%22+%28%22visitor+visa%22+OR+%22tourist+visa%22%29+when%3A30d&hl=en-US&gl=US&ceid=US:en"
+ },
+ {
+  "id": "ae-travel-vn",
+  "country": "AE",
+  "type": "news",
+  "name": "Google News – Du lịch AE cho công dân Việt Nam / ĐNA",
+  "url": "https://news.google.com/rss/search?q=%28Vietnam+OR+Vietnamese+OR+ASEAN%29+%28UAE+OR+Dubai%29+%28%22tourist+visa%22+OR+%22visit+visa%22+OR+%22visa+on+arrival%22%29+when%3A30d&hl=en-US&gl=US&ceid=US:en"
  }
 ]

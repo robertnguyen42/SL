@@ -68,7 +68,10 @@ Sửa `sources.json`. `type: "official"` = nguồn chính phủ (hiện tóm t�
 ## Chương trình SI (`programs.json`) — mặc định chỉ hiện tin thuộc chương trình SI
 - Lập từ file "MATRIX SẢN PHẨM ĐỊNH CƯ": Mỹ EB-5 / EB-3 / EB-1C / L-1 (+ Visa Bulletin); Úc 482 / 494-191 / 186 / 858 NIV (+ Migration Program);
   Canada Start-up Visa / PNP / Express Entry / Levels Plan; châu Âu Golden Visa & quốc tịch đầu tư; NZ Active Investor Plus;
-  UAE Golden Visa & Freezone; Caribe CBI (Grenada, St Kitts & Nevis, Antigua & Barbuda, Saint Lucia, Dominica)
+  UAE Golden Visa & Freezone; quốc tịch châu Âu (Thổ Nhĩ Kỳ, Pháp, Hungary, Croatia, Malta); NZ Business Investor; Caribe CBI (Grenada, St Kitts & Nevis, Antigua & Barbuda, Saint Lucia, Dominica)
 - Tin khớp chương trình: gắn `programs`, `si=true`, cộng 2 điểm ưu tiên; translate.py chỉ dịch tin SI
 - Trang web mặc định lọc "Tin chính sách" + chương trình SI; có nút "Hiện cả tin ngoài chương trình SI"
 - translate.py đồng thời để Claude đánh giá tin có phải thay đổi chính sách không và hướng siết/nới (ghi `ai_labels.json`)
+- Visa du lịch (Mỹ, Úc, Canada, Schengen, NZ, UAE): chỉ lấy tin liên quan công dân Việt Nam / Đông Nam Á (trường `cung`),
+  hoặc thay đổi áp dụng mọi quốc tịch (trường `toan_cau`, vd phí visa) mà không chỉ nói về công dân nước khác (trường `tru`)
+- Từ 09/11/2026 trang chính (`docs/index.html`) dùng giao diện thư viện mới; `preview.html` chuyển hướng về trang chính
