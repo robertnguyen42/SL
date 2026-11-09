@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T05:10:55.665290+00:00",
+ "updated": "2026-11-09T05:13:25.799793+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -203,13 +203,13 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "id": "au-gov-immi",
    "name": "Home Affairs Úc – Tin di trú",
    "ok": true,
-   "count": 40
+   "count": 10
   },
   {
    "id": "au-gov-minister",
@@ -221,31 +221,25 @@
    "id": "us-gov-uscis",
    "name": "USCIS – Newsroom",
    "ok": true,
-   "count": 40
+   "count": 16
   },
   {
    "id": "us-gov-state",
    "name": "Bộ Ngoại giao Mỹ – Visa Bulletin & thị thực",
    "ok": true,
-   "count": 40
+   "count": 1
   },
   {
    "id": "us-gov-dol",
    "name": "Bộ Lao động Mỹ – H-1B / PERM",
    "ok": true,
-   "count": 40
+   "count": 0
   },
   {
    "id": "ca-gov-canada",
    "name": "Canada.ca – Di trú",
    "ok": true,
-   "count": 40
-  },
-  {
-   "id": "ae-gov",
-   "name": "UAE – ICP / GDRFA / u.ae",
-   "ok": true,
-   "count": 40
+   "count": 11
   },
   {
    "id": "ae-wam",
@@ -269,7 +263,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-student",
@@ -413,7 +407,7 @@
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "id": "us-visitor",
@@ -449,7 +443,7 @@
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-sheet-khac-2",
@@ -587,7 +581,7 @@
    "id": "eu-schengen",
    "name": "Google News – Châu Âu – Schengen · Du lịch, ETIAS/EES",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "eu-uk",
@@ -623,7 +617,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
    "id": "eu-sheet-khac-2",
@@ -641,7 +635,7 @@
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "id": "nz-aewv",
@@ -665,7 +659,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-post-study",
@@ -695,7 +689,7 @@
    "id": "nz-sheet-tay-nghe-1",
    "name": "Sheet – New Zealand – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-sheet-dau-tu-1",
@@ -2829,6 +2823,33 @@
    "prio": false,
    "score": 0.0,
    "tier": "press"
+  },
+  {
+   "id": "0ff433cc8478ceec",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Cuban Aliens and Florida Man Sentenced for Their Roles in an International Alien Smuggling, Asylum Fraud, and Money Laundering Conspiracy - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTEstaVU1YlhOMm5rajRSenpiRnJWdTZhdHQ3d2hsUVRnWkkwLUswaUdlREVnNlJwdVEtbWE4Q0dhUG9hdmVqUXdVTzhzWkh5VEFkemJERzhzbjdjTTA5RkdUNVZzaGwtTnpqZURxeW14WnhZaW9Sd0xHV0l4bnNCQzF1cjFPLVdmSTBIMmwtYndzSnBSNWxjSUhOTFBLSU05SWhQeFFoMHNCS0hsaElHT0k2RXpRdVdUMldvam85ZDd2djVEUWhkTXk1ZUYtUGM3Rk9sYkEwNXZkZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov-uscis",
+   "published": "2026-11-06T20:57:01+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [
+    "asylum"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
   },
   {
    "id": "55271ea90b81d7a7",
@@ -5030,6 +5051,31 @@
    "prio": false,
    "score": 0.0,
    "tier": "press"
+  },
+  {
+   "id": "1f17f99a7ecc5f68",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "IRCC to hold media technical briefing on immigration levels - Canada.ca",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTWdOOE50SVJCLXM5TVVaVjRRWlhOM0xXSXdKdEY5UXhZM0d3Zk9xQWZJOWNjWnlOdzlxdGdod2NmWFQ1UTF3V2h6Um1PcDJWQi1DVEVWMzNXMzBJUGlrRHRnVDBienJkM1lJMFV0ZHozMlpxR19ZRlhITGtYbnpYcHdsOGo3ZTJOUUFPY0UyZ3JGVTQ1V3lRYm5ldUtuTlZBZThVZXZfcmRRMjRqZW5NVDR2SnpxT0N0b2U2VHFHM0d6YVZVdFVyZTUxNlhPVVZD?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Canada.ca",
+   "country": "CA",
+   "type": "official",
+   "source": "ca-gov-canada",
+   "published": "2026-11-06T00:04:43+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
   },
   {
    "id": "1b12b4a4d086afd1",
@@ -10423,6 +10469,52 @@
    "tier": "press"
   },
   {
+   "id": "fcc953a39d21f594",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Alien from Canada Charged with Falsely Claiming to be a US Citizen to Register to Vote - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZGJZTFVwc09IblNDWHFBa0s0MThQUmZVQ0FQQ1Fna0twSzZ3d0JpcS11c21iR3paeXFXa1ZMQTJSQV9hOXR6QlBEb21ZZnJRSnJ3cTBGdGRRSW5QVkticlc3a0c4allpVmNvUHA1bTc2aHN0VHdtMmprcHNOaHkzcTBjUjlwR2d0azdTZm43SE5QcmVDUVdNV0NjalNvOFk5WkJUNmYwYnBjYmd4SG9aSF85STM3UVFPMG9oWWFaRDRpcU00RG5sbW02TQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov-uscis",
+   "published": "2026-11-03T19:13:26+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
+   "id": "348988f193106a23",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Newsroom - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9pMTJUd3B2LWk1MVZGSFRZMGpZR1NDdjdlM0IyOVRnM05rMjM2MVNJenNIb3g0dXFDQ1JfajVPODdNZXYw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov-uscis",
+   "published": "2026-11-03T19:13:26+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
    "id": "f11f9a91b65c3259",
    "src_group": "tay-nghe",
    "src_country": "AU",
@@ -13529,6 +13621,29 @@
    "prio": false,
    "score": 2.5,
    "tier": "press"
+  },
+  {
+   "id": "a13ce0fc3e41a924",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Together, let’s help Canada’s Francophone communities thrive during National Francophone Immigration Week - Canada.ca",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVlFIOVVDOFVkT2xnOWE5RG5EUUhvTjZzT1RjVVdWR0ppaHdGM1Y5ZzBOdEc0WHFxYnlWTDRPeG9aZGRxZDhRNEZ6YXhwZ0lPNWJCSWE3WU81NWI5WXRWdmFUcE5CRHZaYUxUZUlXMlJmdTF4YkVLd080VFE2N3ppWmtPTEtXT0E3THJSRzYzLTZsSTJOV0ZJb291TWpYUVRkRWYwelpyVW5PSnRVUi1QNmxOVmIzR1Z6NmtFMjFtWjdZYml4bzlWbHNXazBaUWIzMFA0RWpKc0M5OEtRd0ZvdU5XdE5XU0ZMcDJXRkNsLXJ2bUlwVUhKbjdwNXhxVzA5dDV2a1JuSHZYdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Canada.ca",
+   "country": "CA",
+   "type": "official",
+   "source": "ca-gov-canada",
+   "published": "2026-11-02T15:26:48+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
   },
   {
    "id": "9fff8262c70e38d6",
@@ -28010,6 +28125,29 @@
    "tier": "press"
   },
   {
+   "id": "f58424e1daaf4d05",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Suburban Chicago Man Sentenced for Staging Robberies to Help Others Fraudulently Apply for Immigration Visas - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMUVyRzFycVdVeHZlSU03eVFzNFk4d19XSnRXN21zR3lQb2llMlltcVYyRHNaZEtsX3NYUUEyeUQ5TEZCdFZnZHhfUVRxRlNUWVEyTnRXVWVWS2pOdjBRdXNQcktDZlZkRGQ0eFFqa0hIRlBCWXVXTlMtVnA0Q3F6Umo3bFVRdlFKU3hXMkdETE91aWl4R2Z1b2NwMF9BOVEtREk2Y2RwcEZYUGdINy1sbVhLYng3cERmVktfMHZ1NWR5S1YtMGFzUmhuU1VRODBB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov-uscis",
+   "published": "2026-10-28T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
    "id": "1ec9a55a76b769ee",
    "src_group": null,
    "src_country": "EU",
@@ -35925,6 +36063,29 @@
    "prio": false,
    "score": -1.5,
    "tier": "agency"
+  },
+  {
+   "id": "f06e92ade7aec157",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Litigation-Related Update: Sileiri Doe Class Members May Request Reopening or Reconsideration of an Adverse Decision Without a Fee - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN2cyWUZuSk8wcm9LcTdPdUdiT2NicTI3bE5BWmh0ZmU2WEgtWDN0OFZyeTI1MWNLMGtyTzVKaHJUdnByZmRJbEgwTmVIOTE1LXp6amFJX2dycEtOSWRjbEFpVGlrRXA5SUprb3lJeHpxMjR0dS1GeDNoWWh5UkMwZFBZbmV4RGpJdmkzaEpHM1l4OHJNSG0xYWJGdlFWQ0tSWUxMQThwT0xIa2FLNk5acmpGaVdoOHJTT3dZbVNiWkNkdXhVQjMtbk5SdmY3ZW1Tdnc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov-uscis",
+   "published": "2026-10-26T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
   },
   {
    "id": "d8f80978b4a93333",
@@ -44090,6 +44251,121 @@
    "tier": "press"
   },
   {
+   "id": "a539b93709170871",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Digital Australia Travel Declaration arrives at Western Sydney International Airport - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeFYzSHhwQUFUSkJLaWtRNTcybzJlLUdXZUZUMHVfOUNvQ3pYWVdqTGdUSnBiRlpVWVo5eHZjWnMtRURaa0lPTGxYYlZEM3FDNlN1eVhPU0lSSDVGQ0pUTE5zRGxJdThCOUdVb2c4cTBJQVktWGZtTlU2S3NXSUloM0FmTkQyZHZTb0FzX1FxYzZDeG9FOE9sS2pLMVdweDk5Ykh4VVhYR3lFSGE2V1J0aFdYY0JSOUFreGFwVmxSVXVaYU4yVEpETkhHMmZTZ19xa1ZDdA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "official",
+   "source": "au-gov-minister",
+   "published": "2026-10-22T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
+   "id": "c43f1975b1ff0013",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Grocery Store Manager Convicted of Immigration Document Fraud, Obstruction of Two Federal Labor Investigations, and Conspiracy - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNFhKRlJMRUJvTkdxVzhpZmJ6Tl8zUUQyMEx2cjY3Y0lwOTZ4NTlhUk9feExDQjhQaG9IOUhHdzdPU1ptYkdnWlpmMXBIU3ZqckFpMlM2dVBBSXIydXYwS3ducnYtdE52Wmx6X0xVd19mZENycDB6UzA3aXhLbkdnbmNKU2lUelJHQWwzNXNfbjdyelByTzVKN3l3RGM5aHYzOXpQRF9VX0FOOXJkR1BubXVVM3Jkc2hlaEd1YU9EOW9YclpyWlRZUkdQWGx2NGtfS0pWRTlB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov-uscis",
+   "published": "2026-10-22T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
+   "id": "d251b1c89f0dff16",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Aliens in Idaho Charged for Illegal Voting - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnNYdHVyZElOQ0N3OGdBVVFZOGNoRlhqSFF2TUQ2TWdjS2JpaG1LdUoxRzE5cy1oSlZtemxtdC1GOXF5ZEwyVWt3RVNiZDdRekZlcndtOS1qQmRnbTRTelRPY2FqM2xZbTU5eE43c1FPX0dNSjRjbUpqb2tuVUFadzd2c0JkWXc5ZFZpYlpRRDc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov-uscis",
+   "published": "2026-10-22T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
+   "id": "1ef372eeb8f2112e",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Alien from South Africa Charged with Unlawful Voting - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2lwU1VGczF1dEZHTUllSTQyVWJiLXl2UmlxeTRqM05Pd0l5NWpyZ2tpVEQxUUoxS2pUWFBERkNDNmRrNDREWUVxX1VtcVBXRHZ5U2ZKYW1tY3Y5eUdVdXQ1dW9idVh0UWdTOGFQUllzTlhYWkJKRUY1Tkc2YnRFMG9WUS00eDFFdzdRSGpyRk1MYjVYUER5VjVsQUprZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov-uscis",
+   "published": "2026-10-22T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
+   "id": "8bf017f24f013d00",
+   "src_group": null,
+   "src_country": "AE",
+   "title": "etisalat money, Visa to expand cross-border money movement capabilities - www.wam.ae",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3ZWOE12WjZIS3lIMEloaEFmQ05DQWp3UDB6b3QwV0RmMnhHVW83R0tVSTBNNldxbVBUYmtqZ1VfZkQ1ZG9DMks3c2tFekJlZjRsZkN5NV9sd2VBempxbTNCMjFPLU4zenFMT3B6RE14enFFdWswdXlwcmhYZUxES2d3SXZwZG56TGs4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "www.wam.ae",
+   "country": "AE",
+   "type": "official",
+   "source": "ae-wam",
+   "published": "2026-10-22T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
    "id": "de57f11f551a7e42",
    "src_group": null,
    "src_country": "US",
@@ -47394,6 +47670,29 @@
    "tier": "press"
   },
   {
+   "id": "e840becb495a16d2",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "News and media - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4NEpoaDlPMnplUDduN3UtbFdxblg5WFlGTWVYWGV1bUNRMEV4NFF0MV9qc1RFQVZXXzJRbU9DWXRBbUt1SE95MnNNR2VwQkpjS2ww?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "official",
+   "source": "au-gov-immi",
+   "published": "2026-10-21T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
    "id": "fd91bfafb02d05bc",
    "src_group": "chung",
    "src_country": "EU",
@@ -50484,6 +50783,29 @@
    "prio": true,
    "score": 1.5,
    "tier": "press"
+  },
+  {
+   "id": "7f9ca4f2b606b91e",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Canadian Alien Charged with Illegal Voting - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdG1tM0NHcE9RYW1XR0JnTUlrMHV6OFNzbXNXTmF4eUszR3owajgtOU9fTndVSmEtVmFwdi0xWXJMRFNDZHNsTGZMQkRRT2dfNm5MRldXbGd2c2UzSFA1czE0QVJQZTBfMkVPZjBmcG51UlA2SEQ3NGgwM282Z1RwZHJsMUVXS2VrNDJ4VjJVdzY?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov-uscis",
+   "published": "2026-10-20T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
   },
   {
    "id": "54e46fe59ba3358d",
@@ -53961,6 +54283,52 @@
    "prio": false,
    "score": 0.0,
    "tier": "press"
+  },
+  {
+   "id": "ab1524cb09fdb694",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Providence Immigration Attorney Pleads Guilty to Wire Fraud and Tax Evasion - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYnlJYW9KLWVuTkd1YVdfQmFvSWNlNmRmN1BhY2lSVHRCRW5IMGxxWE9MMjJBNG1NMkxZeU1YOHBySC1kNUtZbjlwX0FXdS1aU21MVFY5OTZNdm5jZ3RNZzkwam1tZkRWQmUya0tmbGJ6cXl4UTVKQUNKSUR5b0ltVmU2R0N5RjhyR0dfbUE5Sy14V05iNlZsb21IWG1qZjI0WktkQlZzV2xXSC03Tm5MWFE2SlpqaG5JS1V4eg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov-uscis",
+   "published": "2026-10-19T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
+   "id": "3d8a443ab334dd29",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Massachusetts Man Charged for His Role in Marriage and Immigration Document Fraud - USCIS (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1RNV0pldEdsSGUtYUY1bWhqVDNHWFllU0NhNElUYlh3dGMwcEtSRU9VX2ZkWVFOd2tvRmVuUkF0ZGZtZjFrc19GS0F5TjllZHowWnBIY0E3VXY1NDRTQWRoUHJCbjg0SEh0Y0JBUklqYmpNV0ZRZko4YWdCSVo0Y1c2UFpkTl80ZmNoMkxuVS1JRDB3cUlGLUF1cWxaYlBkWW52Vi16VTFrRVYycHptQl95THBDUnZTSTZwLV9yVUp2YzF0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USCIS (.gov)",
+   "country": "US",
+   "type": "official",
+   "source": "us-gov-uscis",
+   "published": "2026-10-19T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
   },
   {
    "id": "9759bc6c81f9e399",
@@ -84976,6 +85344,29 @@
    "tier": "gov"
   },
   {
+   "id": "2bad24a326a71885",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Additional Estimates - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWtKOGRTZXBaSm5WMzVsWmZGb0VLRVVYRGZwcGVuZkpWd1dnZU1TRXVYbldZZ0h4eDAtYkhSLWZ5YUF1WktqZVc2Y0NkSXVsTlVsb3BCVXVFR1R0aUlHcUF5RVZNN3FOeWQwamtRQk95RVdYT25OWnEwQVVkVlhlMGN5bktRY3FLSUxDRnN3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "official",
+   "source": "au-gov-immi",
+   "published": "2026-10-08T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
    "id": "20e511feef397be4",
    "title": "Australia: Builders seek migrant visas for skills that ‘really matter’ - Inquirer.net",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpWX2ZFUnQ4WEhOeWY3WWYtM0NGVkF0UjVUM2Y2VGZqSFZSOGFMR3RNYmVGQ1FGaWIyQVhkR256N2I3ZGZCcjBqSEhqXzNWUnlSRmVqSDdGa0J4NkZZUTFTRzFzY1VpYndjb3lIOVQwNHotS0lmMWg5aEVQMXcteHl0T1pPeXFBMzg5RjZNRkNPOVZ0dzdJOUdUSUJCbTN6Xy15aDBINUJvU0NZ0gGyAUFVX3lxTE15STh2eThxelRWZndhOHVpMW05TFBjaHRrUEhyenBFOXVRbDdqc0lJLWEwRzJYLVFpZVdjVVZValZGMThlRGRyV0RYMHNISy1LeThhM3FCRndWRkVEXzZCMlJfWU1fY3FfWUZnbzc1OEQ4UTM3VFNlX3pTSUVSZUtrNk5Ca3R4VTBvaS1LdExTcU9KeGZUbkhrX0hDYmpNQU9TNHJlajZ6UnRfZ1RKVTVtckE?oc=5",
@@ -90842,6 +91233,33 @@
    "tier": "press"
   },
   {
+   "id": "1697b44b2f8bc93d",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Immigration and citizenship Website - Immigration and citizenship Website",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vTGVHeTMyMTlBWUVvaUJpZVhaQmo5d2FHZTZqNW1yWFBqZGdwVUZyNzg0VkNtS1VEWnh4aGpvaUU4RW5MRnQ5RFpqaU5iTG14d2poSUNzcV91c0Q2d2U2dXBOb0pvZ1dXN1lXekctMzJFVEVZakdmeEF3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Immigration and citizenship Website",
+   "country": "AU",
+   "type": "official",
+   "source": "au-gov-immi",
+   "published": "2026-10-06T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
    "id": "360c812d4bf88df3",
    "title": "‘Largest cut to immigration in Australian history’: Coalition unveils migration overhaul plan - The Australian",
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQ0xaRXVQZzNtQnRGZG9GQXRQZzk0Uk9NTHNORHZBOUotemkyS1ZPTVh2ZWRBbEQ3Ukw4b01Bbno5ZjNsT05kSVZWOFpNWjBJRHZyVUN5cUVFbEdBc2xTOWVra2w3dFdRWGtDODIxMXlHTHhYaEZucUdCRWg1ZUNUTmt6QTdkSWhCMGZCV0tPQnRWWW02NVkxSkZCcWtJQm9ucnNISVlzYUJSMURPVTR5aW9EQ0oycWczWXgtaGRoODFldTJVLVZsd1dyNUlkUjdkOE53aWkzeHcyR1hqSGlxb2lqOEg1M2dieDZ1Zmwtanlna2hmNUNscDZ5SlVPaVVMNnBjeFV6ZEllUQ?oc=5",
@@ -94058,6 +94476,29 @@
    "prio": false,
    "score": 0.0,
    "tier": "press"
+  },
+  {
+   "id": "6ffdcbe4d471b980",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Ministers for the Department of Home Affairs Website - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObWFDVEVTSWo0Z3AyREZmUDZqdnViUTlTdk56OVQ1ZjBvbWZtTWxPNEdqV2dtTmxsWE9yOE9ycDZwTjNUOEIzRUhaRVdIcmIwVUhyS05qNVFBX19kRDh3NlFsOEt4VVZkRGNOSGJCRlYxcWFuTEpsTDI4UHZyVkZsOC1mcnBxeXpabFoyTFFVYU8xWEdheDAzWkRpQmVVUEh4WThDY1NscTBJYkVNS2xIQU05NkgwVlZEQ0RnSVFSNm9yUWVuckk0bzZHcG5EaXUybk9KU2prTnJEUm5WRUtvM2M1QThTWk1DbzdKT1VRdUQ4Vmp1?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "official",
+   "source": "au-gov-minister",
+   "published": "2026-10-05T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
   },
   {
    "id": "9c24db098c37e744",
@@ -109401,6 +109842,52 @@
    "tier": "press"
   },
   {
+   "id": "7fe2a70d0742e9a5",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Interview with ABC News Breakfast - Lieutenant General Michelle McGuinness, CSC - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0F6YWM0RGpiOUhRc3ppZ0ZPTEFWbVJYWElnc3lsbjdSa0laNFNHaDFkbTVPbFFsQjVnd3RZdlh4VFhHQTY5dDNRNS1OaG5ncVl4TzN6bVU0S2dfLXllYzJnZnV5VUozeVBDSGxLQlphdXFmMFRSdTRqMXhGQkZ4N18ycmxyUlVWX0diQV9vU3M0aHZGdU5SWG1xODBlb29zZWFLdFBBRDdLSWVsdEU1NXdrSzZtQW5sSGZtOEVBOHJWV0pYalZVUWlpZ0s?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "official",
+   "source": "au-gov-immi",
+   "published": "2026-09-25T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
+   "id": "09bd6845c1a50075",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Interview with ABC Radio AM - National Cyber Security Coordinator, Lieutenant General Michelle McGuinness, CSC - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREZ2d19zSlNURndLSWNYc2VucW5razh3am93WWJhUTZuUnNDSEpBck5MamFCOFk3eGE0TUpuSE9hc3ZpRHV3UklzNXVyeTN3c1Nfc0x0QWtKb0pJZWJxN01fZ2wzY005bnhtdVY2bzFhdmI2cWpWdTVIUGljTWJSQkhTclhnbjhTa3drcWpvci1oQUh5S2dMRzg3VXRLeF9YSFhlT18xUEhwcXV1ajl2dS1LeHA3d2YxVnQwQll3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "official",
+   "source": "au-gov-immi",
+   "published": "2026-09-25T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
    "id": "8b8735dcc900e83d",
    "title": "PEI PNP Draw: 195 Invitations Issued in September 2026 - ImmigCanada",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdG9DeHNSR0hTdmJTUlFZbXlQVEdhQ2ZFVWtBaHpsRW5NZ3B5clBhbTJTVUhMRnBiRnIwNExZTWU2UTFjWFZtVjVTdV9XTU96c2xPUUJINEVrYmlIVndiTHNQdGFpZTRnMjBXUVJfeFJqN0NRVjlDV0dpaGVRR1pnR2xGWjY?oc=5",
@@ -117835,6 +118322,29 @@
    "tier": "agency"
   },
   {
+   "id": "feaabfa441f02a28",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Q&A National Press Club - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR21XdXZYTC1qM1ZSUFo0NGViUTJVNVJmaUZYMGFoSFM3RVNsdXhrYk1IR1Vsc2RkR1hESkNFclQwSlJLU2dlSHVxQmhZcnRRTDdBR3BGaHhSclFkUUFPckpDcGpIY3laa3N5NFpkZzhxU0tLcEpKc28wWlAzekdUWTRZX056dw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "official",
+   "source": "au-gov-minister",
+   "published": "2026-09-18T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
    "id": "2a2363c327069fd8",
    "title": "PNP Diaspora Region Elects Inaugural Leadership, Expands Overseas Voice - South Florida Caribbean News",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGs2QUJoRHd3Rnd3Sko1Ym00bXd0ZDU0bmZJakVMTlZwRmktV3p6TmlRcmlVWE9LTVMzaU5uU3BLTFV0ZUhnMENBYlBLRS1tNGdmQjAtU1hDVWZtNG5MZFpXVUxHVm1ONUtUcno2OVNfVmFtdFRiejBaTkdieVN4TnRnb0xES2dpTlRHRmNiYk00LVnSAZgBQVVfeXFMTlpBcmJOU0ZENGtVMnNKRDRESkRNWWcyamhDWmNwck42b0c3OF9PWENsVUNYZTdZY0pHYklWS2hOb3JyZUYyREt1dC15RkFqRS1HVUx4X0VjOWVsMXJhc3phZUZzNzRmOXZMMWVmaEpMMmNvSzN2czY3S2IyV0lscGVyZTZzNjlEOFVYenRMcUFGc0dZNmRlRlc?oc=5",
@@ -120040,6 +120550,75 @@
    "score": 2.5,
    "groups": [],
    "tier": "press"
+  },
+  {
+   "id": "b6e566f2a4945980",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Interview with Jacob Greber, ABC 7.30 - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUczazZhalI0eEFkQ1FMZ1U5aFR5dEx6S2ZkMTM4dFNSeE5qVGE2Y3dJdm5fMjJUZ3Jwa2RSSkZVYmNqYzhBTEoxVEtOXzhyOHIxdzNQZklFQ2k5WlhDekswVE82dHdKRlA5b1R5ME90NG1Yb293Sm9iRXVKSkRqNGt3ZmVDWFEzWjVKLWpFLUNoSWM1d0Fv?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "official",
+   "source": "au-gov-minister",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
+   "id": "e677106b9f28c8b9",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Migration reform to end rorts and bring in the skills Australia needs for a strong economy - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcS01S1d4aGxkcG12ekVfbzVOWkNwR1lTMlZtQjBBVGM2Z0Qtc3pnbW50QVNQemdGdHNlWldUbkw3TXc1X3FqX09LbEMwQXdCWEhRUHpOelp6MXFmWjV6NXROZFFiZDhySXI3ckp6dm51aDRwZi1vakVieVhLVTJmV2Z4aUpfbHd3U0VWYzc1U05iN2lzX0RTVDhDa0RhSVYtaW9rQ0t3R3pucVltdkUwdzN5ci1iWnp4TlAtcVlCT1JsdURIcnc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "official",
+   "source": "au-gov-minister",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
+  },
+  {
+   "id": "d1f1a223f618184d",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Interview - ABC Afternoon Briefing with Patricia Karvelas - Department of Home Affairs Website",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkpweS1aNnphUmRseXc0TUdDazZXVXBOMmVUTHhwdGRyalJNZDB6T1VYVjZHRW9WU3FlM0t1TTRSTXpQOW44LTF1a3EzX3ppM0J4WGE5UHpRNFBpbzAzd1hlZHlOZ0Y0aUFnNTRtcXdYaWVCbF9wUUp3YXgtX0s4WXNsYjE1bDFFU3FKV0dXUnFxT01TVWdZa1ZCT1VrbUM3Y2ZXZlJNazNhX09kek9nc3RpajFmX0U?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Department of Home Affairs Website",
+   "country": "AU",
+   "type": "official",
+   "source": "au-gov-minister",
+   "published": "2026-09-17T07:00:00+00:00",
+   "fetched": "2026-11-09T05:13:25.799793+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "gov",
+   "score": 5.5
   },
   {
    "id": "5f30623419cf53e1",
