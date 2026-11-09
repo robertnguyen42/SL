@@ -44,7 +44,20 @@
   "gov.ae",
   "Homeland Security",
   "U.S. Embassy",
-  "Embassy of"
+  "Embassy of",
+  "Citizenship by Investment Unit",
+  "CBI Unit",
+  "ciu.gov.kn",
+  "cbi.gov.gd",
+  "cip.gov.ag",
+  "cipsaintlucia",
+  "cbiu.gov.dm",
+  "ECCIRA",
+  "Government of Grenada",
+  "Government of St Kitts",
+  "Government of Antigua",
+  "Government of Saint Lucia",
+  "Government of Dominica"
  ],
  "khong_phai_chinh_phu": [
   "ircc.com",
@@ -107,5 +120,10 @@
   "di trú",
   "du học",
   "visa"
- ]
+ ],
+ "_ten_tang": {
+  "gov": "Cơ quan chính phủ",
+  "press": "Báo chí",
+  "agency": "Luật sư / công ty di trú (phân tích chuyên gia, ưu tiên thấp)"
+ }
 }

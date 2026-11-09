@@ -14,7 +14,7 @@ Biến môi trường:
 import json, os, sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from typing import List
+from typing import List, Literal
 
 import fetch_news
 
@@ -36,7 +36,12 @@ Quy tắc:
 - Tên người, tên tổ chức, tên địa danh giữ nguyên hoặc dùng tên tiếng Việt thông dụng (Mỹ, Úc, Canada, New Zealand, Anh, Dubai).
 - Số tiền giữ đơn vị gốc (USD, AUD, CAD, NZD, EUR, AED); ngày viết dạng ngày/tháng/năm.
 - Bỏ phần " - Tên báo" ở cuối tiêu đề nếu có.
-- Nếu có tóm tắt thì dịch tóm tắt; không có thì để chuỗi rỗng."""
+- Nếu có tóm tắt thì dịch tóm tắt; không có thì để chuỗi rỗng.
+Đồng thời phân loại mỗi tin:
+- policy: true nếu tin nói về một thay đổi (hoặc đề xuất thay đổi) chính sách, luật, quy định, phí, hạn mức, mức đầu tư,
+  điều kiện, thời gian xử lý, lịch visa, kế hoạch nhập cư hay chương trình di trú của một quốc gia; kể cả phân tích của
+  luật sư / chuyên gia về một thay đổi cụ thể. false nếu là quảng cáo dự án, hội thảo, câu chuyện cá nhân, hướng dẫn chung.
+- direction: tác động lên khả năng di trú của người nước ngoài: "siet" (khó hơn), "noi" (dễ hơn), "khong_ro"."""
 
 
 def main():
@@ -51,7 +56,8 @@ def main():
         done = {}
 
     # Tin mới nhất, tin chính phủ và tin chính sách dịch trước
-    pending = [i for i in news["items"] if i.get("lang") != "vi" and i["id"] not in done
+    # Chỉ dịch tin thuộc chương trình SI (programs.json) để không tốn phí cho tin ngoài phạm vi
+    pending = [i for i in news["items"] if i.get("lang") != "vi" and i["id"] not in done and i.get("si")
                and now - datetime.fromisoformat(i["published"]) < timedelta(days=DAYS)
                and (not SINCE or datetime.fromisoformat(i["fetched"]) >= datetime.fromisoformat(SINCE))]
     pending.sort(key=lambda i: (i["published"][:10], i.get("score", 0)), reverse=True)
@@ -67,10 +73,17 @@ def main():
         n: int
         title: str
         summary: str
+        policy: bool
+        direction: Literal["siet", "noi", "khong_ro"]
 
     class Batch(BaseModel):
         items: List[Item]
 
+    labels_path = DATA / "ai_labels.json"
+    try:
+        labels = json.loads(labels_path.read_text("utf-8"))
+    except Exception:
+        labels = {}
     client = anthropic.Anthropic()
     ok = tin = tout = 0
     for start in range(0, len(pending), BATCH_SIZE):
@@ -95,6 +108,8 @@ def main():
         for it in resp.parsed_output.items:
             if 0 <= it.n < len(batch) and it.title.strip():
                 done[batch[it.n]["id"]] = {"t": it.title.strip(), **({"s": it.summary.strip()} if it.summary.strip() else {})}
+                # Nhãn chính sách / siết-nới do Claude đánh giá, thay cho nhãn theo từ khoá (fetch_news đọc ai_labels.json)
+                labels[batch[it.n]["id"]] = {"p": it.policy, "d": None if it.direction == "khong_ro" else it.direction}
                 ok += 1
         tin += resp.usage.input_tokens
         tout += resp.usage.output_tokens
@@ -104,6 +119,7 @@ def main():
     ids = {i["id"] for i in news["items"]}
     done = {k: v for k, v in done.items() if k in ids}
     OUT.write_text(json.dumps(done, ensure_ascii=False, separators=(",", ":")), "utf-8")
+    labels_path.write_text(json.dumps({k: v for k, v in labels.items() if k in ids}, ensure_ascii=False, separators=(",", ":")), "utf-8")
 
     # Gắn bản dịch vào news.json ngay để trang web dùng, không cần chờ lần lấy tin sau
     tiers = fetch_news.load_tiers()
@@ -113,6 +129,9 @@ def main():
             i["title_vi"] = t["t"]
             if t.get("s"):
                 i["summary_vi"] = t["s"]
+        lb = labels.get(i["id"])
+        if lb:
+            i["policy"], i["direction"], i["ai"] = lb["p"] or i["type"] == "official", lb["d"], True
         i.setdefault("tier", fetch_news.source_tier(i, tiers))
     (DATA / "news.json").write_text(json.dumps(news, ensure_ascii=False, indent=1), "utf-8")
     print(f"Đã dịch {ok}/{len(pending)} tin bằng {MODEL}; {tin} in / {tout} out tokens. "

@@ -111,5 +111,20 @@
   "name": "WAM – Hãng thông tấn UAE",
   "url": "https://news.google.com/rss/search?q=site%3Awam.ae+%28visa+OR+residency+OR+%22Golden+Visa%22+OR+%22Green+Visa%22%29+when%3A30d&hl=en&gl=AE&ceid=AE:en",
   "filter": true
+ },
+ {
+  "id": "cb-gov",
+  "country": "CB",
+  "type": "official",
+  "name": "Đơn vị CBI chính phủ Caribe (Grenada, St Kitts, Antigua, St Lucia, Dominica)",
+  "url": "https://news.google.com/rss/search?q=site%3Aciu.gov.kn+OR+site%3Acbi.gov.gd+OR+site%3Acip.gov.ag+OR+site%3Acipsaintlucia.com+OR+site%3Acbiu.gov.dm+OR+site%3Aeccira.org+when%3A90d&hl=en-US&gl=US&ceid=US:en",
+  "filter": true
+ },
+ {
+  "id": "cb-en",
+  "country": "CB",
+  "type": "news",
+  "name": "Google News – Quốc tịch đầu tư Caribe",
+  "url": "https://news.google.com/rss/search?q=%22citizenship+by+investment%22+%28Grenada+OR+%22St+Kitts%22+OR+Antigua+OR+%22Saint+Lucia%22+OR+Dominica+OR+Caribbean%29+when%3A14d&hl=en-US&gl=US&ceid=US:en"
  }
 ]

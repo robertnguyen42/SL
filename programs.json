@@ -1,0 +1,271 @@
+{
+ "_huong_dan": "Danh sách chương trình SI đang tư vấn (theo file MATRIX SẢN PHẨM ĐỊNH CƯ, 09/11/2026). Tin khớp ít nhất 1 chương trình được gắn nhãn chương trình và coi là 'tin SI'; trang web mặc định chỉ hiện tin SI, và translate.py chỉ dịch tin SI để tiết kiệm chi phí. 'kw' = cụm từ khớp nguyên cụm, không phân biệt hoa thường (riêng cụm VIẾT HOA <= 5 ký tự khớp đúng hoa thường; số thuần như 482 phải đi kèm chữ visa/subclass). 'nuoc' = mã thị trường; tin phải thuộc thị trường đó.",
+ "us-eb5": {
+  "nuoc": "US",
+  "ten": "EB-5 · Đầu tư",
+  "kw": [
+   "EB-5",
+   "EB5",
+   "regional center",
+   "targeted employment area",
+   "TEA investment",
+   "Reform and Integrity Act"
+  ]
+ },
+ "us-eb3": {
+  "nuoc": "US",
+  "ten": "EB-3 · Lao động định cư",
+  "kw": [
+   "EB-3",
+   "EB3",
+   "PERM",
+   "labor certification",
+   "labour certification",
+   "prevailing wage",
+   "unskilled worker",
+   "other workers category"
+  ]
+ },
+ "us-eb1c": {
+  "nuoc": "US",
+  "ten": "EB-1C · Quản lý đa quốc gia",
+  "kw": [
+   "EB-1C",
+   "EB1C",
+   "EB-1 multinational",
+   "multinational manager",
+   "multinational executive"
+  ]
+ },
+ "us-l1": {
+  "nuoc": "US",
+  "ten": "L-1 · Chuyển công tác",
+  "kw": [
+   "L-1",
+   "L1 visa",
+   "L-1A",
+   "L-1B",
+   "intracompany transferee",
+   "intra-company transferee",
+   "new office petition"
+  ]
+ },
+ "us-visa-bulletin": {
+  "nuoc": "US",
+  "ten": "Visa Bulletin · Lịch chiếu khán",
+  "kw": [
+   "Visa Bulletin",
+   "final action date",
+   "dates for filing",
+   "priority date",
+   "retrogression"
+  ]
+ },
+ "au-482": {
+  "nuoc": "AU",
+  "ten": "482 · Skills in Demand",
+  "kw": [
+   "482",
+   "Skills in Demand",
+   "TSS visa",
+   "temporary skill shortage",
+   "Core Skills Occupation List",
+   "CSOL",
+   "Core Skills Income Threshold",
+   "TSMIT",
+   "Specialist Skills"
+  ]
+ },
+ "au-494": {
+  "nuoc": "AU",
+  "ten": "494 / 191 · Lao động vùng regional",
+  "kw": [
+   "494",
+   "191",
+   "DAMA",
+   "designated area migration agreement",
+   "regional employer sponsored",
+   "skilled employer sponsored regional"
+  ]
+ },
+ "au-186": {
+  "nuoc": "AU",
+  "ten": "186 · Doanh nghiệp bảo lãnh thường trú",
+  "kw": [
+   "186",
+   "employer nomination scheme",
+   "ENS visa",
+   "employer sponsored",
+   "employer-sponsored",
+   "sponsored workers"
+  ]
+ },
+ "au-858": {
+  "nuoc": "AU",
+  "ten": "858 · National Innovation Visa (NIV)",
+  "kw": [
+   "858",
+   "National Innovation Visa",
+   "NIV",
+   "Global Talent visa",
+   "Distinguished Talent"
+  ]
+ },
+ "au-migration-program": {
+  "nuoc": "AU",
+  "ten": "Kế hoạch di trú Úc (Migration Program)",
+  "kw": [
+   "Migration Program planning",
+   "migration program",
+   "permanent migration program",
+   "planning levels",
+   "migration strategy",
+   "net overseas migration",
+   "skilled migration",
+   "skilled visa",
+   "SkillSelect",
+   "occupation list"
+  ]
+ },
+ "ca-suv": {
+  "nuoc": "CA",
+  "ten": "Start-up Visa (SUV)",
+  "kw": [
+   "Start-up Visa",
+   "Startup Visa",
+   "start-up visa program",
+   "SUV program"
+  ]
+ },
+ "ca-pnp": {
+  "nuoc": "CA",
+  "ten": "PNP · Đề cử tỉnh bang (đầu tư & lao động)",
+  "kw": [
+   "PNP",
+   "Provincial Nominee",
+   "provincial nomination",
+   "AAIP",
+   "Alberta Advantage",
+   "BC PNP",
+   "OINP",
+   "SINP",
+   "MPNP",
+   "NSNP",
+   "Atlantic Immigration",
+   "Rural Community Immigration",
+   "entrepreneur stream",
+   "PNP entrepreneur"
+  ]
+ },
+ "ca-levels-plan": {
+  "nuoc": "CA",
+  "ten": "Kế hoạch mức nhập cư Canada",
+  "kw": [
+   "Immigration Levels Plan",
+   "levels plan",
+   "immigration levels",
+   "permanent resident admissions",
+   "PR targets"
+  ]
+ },
+ "ca-express-entry": {
+  "nuoc": "CA",
+  "ten": "Express Entry (liên quan PNP)",
+  "kw": [
+   "Express Entry",
+   "CRS",
+   "category-based selection",
+   "Canadian Experience Class"
+  ]
+ },
+ "eu-golden-visa": {
+  "nuoc": "EU",
+  "ten": "Golden Visa · Cư trú đầu tư châu Âu",
+  "kw": [
+   "Golden Visa",
+   "golden visas",
+   "residence by investment",
+   "investor residence",
+   "investment residence permit",
+   "ARI",
+   "Guest Investor",
+   "MPRP",
+   "Malta Permanent Residence",
+   "permanent residence programme",
+   "residency by investment",
+   "investor visa"
+  ]
+ },
+ "eu-cbi": {
+  "nuoc": "EU",
+  "ten": "Quốc tịch đầu tư / đóng góp châu Âu",
+  "kw": [
+   "citizenship by investment",
+   "citizenship-by-investment",
+   "golden passport",
+   "golden passports",
+   "citizenship by naturalisation for exceptional services",
+   "exceptional services",
+   "naturalisation by investment",
+   "CBI"
+  ]
+ },
+ "nz-aip": {
+  "nuoc": "NZ",
+  "ten": "Active Investor Plus · Đầu tư",
+  "kw": [
+   "Active Investor Plus",
+   "investor visa",
+   "Investor 1",
+   "Investor 2",
+   "Business Investor"
+  ]
+ },
+ "ae-golden-visa": {
+  "nuoc": "AE",
+  "ten": "Golden Visa UAE",
+  "kw": [
+   "Golden Visa",
+   "golden residency",
+   "10-year residency",
+   "10-year visa",
+   "long-term residency"
+  ]
+ },
+ "ae-freezone": {
+  "nuoc": "AE",
+  "ten": "Freezone / thành lập công ty / thuế UAE",
+  "kw": [
+   "free zone",
+   "freezone",
+   "IFZA",
+   "RAKEZ",
+   "DMCC",
+   "DIFC",
+   "ADGM",
+   "company setup",
+   "business setup",
+   "corporate tax",
+   "mainland company"
+  ]
+ },
+ "cb-cbi": {
+  "nuoc": "CB",
+  "ten": "Quốc tịch đầu tư Caribe (CBI)",
+  "kw": [
+   "citizenship by investment",
+   "citizenship-by-investment",
+   "CBI",
+   "CIP",
+   "CIU",
+   "CBIU",
+   "economic citizenship",
+   "golden passport",
+   "golden passports",
+   "National Transformation Fund",
+   "Sustainable Island State Contribution",
+   "Economic Diversification Fund",
+   "Sustainable Growth Fund"
+  ]
+ }
+}

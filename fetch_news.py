@@ -65,11 +65,13 @@ def matches(regs, text):
 # ---------- Keyword từ Google Sheet (sync_keywords.py tải về sheet_keywords.csv) ----------
 SHEET = ROOT / "sheet_keywords.csv"
 SHEET_COUNTRY = {"ÚC": "AU", "UC": "AU", "NEW ZEALAND": "NZ", "MỸ": "US", "MY": "US", "CANADA": "CA",
-                 "CHÂU ÂU": "EU", "CHAU AU": "EU", "DUBAI": "AE", "UAE": "AE"}
+                 "CHÂU ÂU": "EU", "CHAU AU": "EU", "DUBAI": "AE", "UAE": "AE",
+                 "CARIBE": "CB", "CARIBBEAN": "CB", "CARIBÊ": "CB"}
 SHEET_GROUP = {"chung các loại": "chung", "tay nghề": "tay-nghe", "đầu tư": "dau-tu", "khác": "khac"}
 GROUP_NAMES = {"chung": "Chung các loại", "tay-nghe": "Tay nghề", "dau-tu": "Đầu tư", "khac": "Khác"}
 PRIO_GROUPS = {"tay-nghe", "dau-tu"}               # nhóm định cư lâu dài, xếp lên trên
-QUERY_CTX = {"AU": "Australia", "NZ": '"New Zealand"', "CA": "Canada", "AE": "(UAE OR Dubai)", "US": "", "EU": ""}
+QUERY_CTX = {"AU": "Australia", "NZ": '"New Zealand"', "CA": "Canada", "AE": "(UAE OR Dubai)", "US": "", "EU": "",
+             "CB": "(Caribbean OR Grenada OR \"St Kitts\" OR Antigua OR \"Saint Lucia\" OR Dominica)"}
 STOP_TERMS = {"job", "regional", "sbs", "sponsor", "nomination"}   # quá chung chung (SBS trùng tên đài; sponsor/nomination trùng tài trợ, đề cử giải thưởng)
 TYPO = {"UB-3 Skilled": "EB-3 Skilled", "Skill Migration Category": "Skilled Migrant Category",
         "regional center": "EB-5 regional center"}   # "regional center" đứng một mình trùng trung tâm cộng đồng ở Mỹ
@@ -219,6 +221,20 @@ def source_tier(item, tiers):
     return "agency" if tiers["cong_ty_di_tru"].search(pub) else "press"
 
 
+def load_programs():
+    """Chương trình SI đang tư vấn (programs.json): {id: {"nuoc", "ten", "re"}}."""
+    raw = json.loads((ROOT / "programs.json").read_text("utf-8"))
+    return {pid: {"nuoc": p["nuoc"], "ten": p["ten"], "re": compile_terms(p["kw"])}
+            for pid, p in raw.items() if not pid.startswith("_")}
+
+
+def tag_programs(item, progs):
+    text = strip_publisher(item["title"]) + " " + (item.get("summary") or "")
+    item["programs"] = [pid for pid, p in progs.items() if p["nuoc"] == item["country"] and matches(p["re"], text)]
+    item["si"] = bool(item["programs"])
+    return item
+
+
 def load_translations():
     """Bản dịch tiếng Việt do translate.py tạo: {id: {"t": tiêu đề, "s": tóm tắt}}."""
     try:
@@ -243,7 +259,7 @@ def tag(item, tax):
     return item
 
 
-def score(item, tax, pr, ai=None, tiers=None, tr=None):
+def score(item, tax, pr, ai=None, tiers=None, tr=None, progs=None):
     """Ưu tiên: tiếng Việt, tin thay đổi chính sách (kèm hướng siết/nới), diện visa định cư chính.
     `ai`: nhãn Claude từ classify.py ({id: {"p": bool, "d": "siet"|"noi"|None}}); có thì dùng thay cho từ khoá."""
     title = item["title"]
@@ -261,6 +277,7 @@ def score(item, tax, pr, ai=None, tiers=None, tr=None):
     item["prio"] = (any(visas[v]["prio"] for v in item.get("visas", []) if v in visas)
                     or any(groups[g]["prio"] for g in item.get("groups", []) if g in groups))
     item["tier"] = source_tier(item, tiers or load_tiers())
+    tag_programs(item, progs or load_programs())
     t = (tr or {}).get(item["id"])
     if t and item["lang"] != "vi":
         item["title_vi"] = t.get("t") or ""
@@ -268,7 +285,7 @@ def score(item, tax, pr, ai=None, tiers=None, tr=None):
             item["summary_vi"] = t["s"]
     # Ưu tiên: nguồn chính phủ cao nhất, công ty di trú thấp nhất; sau đó tin chính sách, diện chính, tiếng Việt
     item["score"] = (3 * (item["tier"] == "gov") - 1.5 * (item["tier"] == "agency") + 2.5 * item["policy"]
-                     + 1.5 * item["prio"])
+                     + 1.5 * item["prio"] + 2 * item["si"])
     return item
 
 
@@ -421,8 +438,8 @@ def main():
         ai = json.loads((OUT.parent / "ai_labels.json").read_text("utf-8"))
     except Exception:
         ai = {}
-    tiers, tr = load_tiers(), load_translations()
-    items = [score(tag(i, tax), tax, pr, ai, tiers, tr) for i in by_id.values()
+    tiers, tr, progs = load_tiers(), load_translations(), load_programs()
+    items = [score(tag(i, tax), tax, pr, ai, tiers, tr, progs) for i in by_id.values()
              if parse_date(i["published"]) >= cutoff and not is_noise(i["title"])]
     if DROP_VI:
         items = [i for i in items if i["lang"] != "vi"]
@@ -431,6 +448,7 @@ def main():
                     "visas": {vid: v["name"] for vid, v in t["visas"].items()},
                     "prio": [vid for vid, v in t["visas"].items() if v["prio"]],
                     "groups": {gid: g["name"] for gid, g in t.get("groups", {}).items()}} for c, t in tax.items()}
+    taxonomy["_programs"] = {pid: {"nuoc": p["nuoc"], "ten": p["ten"]} for pid, p in progs.items()}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"updated": now.isoformat(), "taxonomy": taxonomy, "sources": status,
                                "items": items}, ensure_ascii=False, indent=1), "utf-8")

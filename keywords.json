@@ -991,5 +991,94 @@
     "nhom": "khac"
    }
   }
+ },
+ "CB": {
+  "name": "Caribe",
+  "flag": "🌴",
+  "country": [
+   "Caribbean",
+   "Grenada",
+   "St Kitts",
+   "Saint Kitts",
+   "St. Kitts",
+   "Nevis",
+   "Antigua",
+   "Barbuda",
+   "St Lucia",
+   "Saint Lucia",
+   "St. Lucia",
+   "Dominica",
+   "Barbados",
+   "Vanuatu",
+   "CARICOM",
+   "OECS"
+  ],
+  "visas": {
+   "grenada": {
+    "name": "Grenada · CBI",
+    "kw": [
+     "Grenada"
+    ],
+    "q": "Grenada citizenship by investment",
+    "uu_tien": true,
+    "nhom": "dau-tu"
+   },
+   "st-kitts": {
+    "name": "St Kitts & Nevis · CBI",
+    "kw": [
+     "St Kitts",
+     "Saint Kitts",
+     "St. Kitts",
+     "Nevis"
+    ],
+    "q": "\"St Kitts\" citizenship by investment",
+    "uu_tien": true,
+    "nhom": "dau-tu"
+   },
+   "antigua": {
+    "name": "Antigua & Barbuda · CBI",
+    "kw": [
+     "Antigua",
+     "Barbuda"
+    ],
+    "q": "Antigua citizenship by investment",
+    "uu_tien": true,
+    "nhom": "dau-tu"
+   },
+   "st-lucia": {
+    "name": "Saint Lucia · CBI",
+    "kw": [
+     "St Lucia",
+     "Saint Lucia",
+     "St. Lucia"
+    ],
+    "q": "\"Saint Lucia\" citizenship by investment",
+    "uu_tien": true,
+    "nhom": "dau-tu"
+   },
+   "dominica": {
+    "name": "Dominica · CBI",
+    "kw": [
+     "Dominica"
+    ],
+    "q": "Dominica citizenship by investment",
+    "uu_tien": true,
+    "nhom": "dau-tu"
+   },
+   "regional": {
+    "name": "Quy định chung CBI Caribe (ECCB, OECS, EU/Mỹ)",
+    "kw": [
+     "ECCIRA",
+     "Eastern Caribbean Citizenship by Investment Regulatory Authority",
+     "CBI programmes",
+     "CBI programs",
+     "visa-free access",
+     "visa waiver"
+    ],
+    "q": "Caribbean citizenship by investment",
+    "uu_tien": true,
+    "nhom": "dau-tu"
+   }
+  }
  }
 }

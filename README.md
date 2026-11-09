@@ -64,3 +64,11 @@ Sửa `sources.json`. `type: "official"` = nguồn chính phủ (hiện tóm t�
 - Kết quả lưu `docs/data/translations.json`; `fetch_news.py` gắn `title_vi` / `summary_vi` vào tin; trang web hiện tiếng Việt kèm "Bản gốc"
 - Mỗi tin chỉ dịch một lần. Biến môi trường: `TRANSLATE_MODEL`, `TRANSLATE_DAYS`, `TRANSLATE_LIMIT`
 - Đã có trong `update.yml`; chỉ dịch tin lấy về từ 09/11/2026 (`TRANSLATE_SINCE`), tối đa 300 tin mỗi lần. Từ 09/11/2026 không lấy tin từ báo tiếng Việt nữa (`DROP_VI` trong `fetch_news.py`)
+
+## Chương trình SI (`programs.json`) — mặc định chỉ hiện tin thuộc chương trình SI
+- Lập từ file "MATRIX SẢN PHẨM ĐỊNH CƯ": Mỹ EB-5 / EB-3 / EB-1C / L-1 (+ Visa Bulletin); Úc 482 / 494-191 / 186 / 858 NIV (+ Migration Program);
+  Canada Start-up Visa / PNP / Express Entry / Levels Plan; châu Âu Golden Visa & quốc tịch đầu tư; NZ Active Investor Plus;
+  UAE Golden Visa & Freezone; Caribe CBI (Grenada, St Kitts & Nevis, Antigua & Barbuda, Saint Lucia, Dominica)
+- Tin khớp chương trình: gắn `programs`, `si=true`, cộng 2 điểm ưu tiên; translate.py chỉ dịch tin SI
+- Trang web mặc định lọc "Tin chính sách" + chương trình SI; có nút "Hiện cả tin ngoài chương trình SI"
+- translate.py đồng thời để Claude đánh giá tin có phải thay đổi chính sách không và hướng siết/nới (ghi `ai_labels.json`)
