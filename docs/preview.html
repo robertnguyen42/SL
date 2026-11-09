@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bản tin Di trú</title>
+<meta name="description" content="Thư viện tin di trú Mỹ, Úc, New Zealand, Canada, Châu Âu, Dubai — lọc theo thị trường, nhóm, loại visa">
+<style>
+/* Bản mẫu bố cục A: thanh lọc bên trái + danh sách tin theo tuần bên phải */
+:root{--bg:#f5f6f8;--card:#fff;--text:#16191f;--muted:#5f6b7a;--line:#e3e6eb;--soft:#eef1f5;--accent:#1d4ed8;--accent-soft:#e8eefc;
+ --new:#dc2626;--siet:#b91c1c;--noi:#047857;--brand:#8a4b23}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1115;--card:#171a21;--text:#e6e8ec;--muted:#9aa4b2;--line:#2a2f3a;--soft:#1f2430;
+ --accent:#7aa2ff;--accent-soft:#1c2740;--new:#ef4444;--siet:#ef4444;--noi:#10b981;--brand:#d9935f;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0f1115;--card:#171a21;--text:#e6e8ec;--muted:#9aa4b2;--line:#2a2f3a;--soft:#1f2430;
+ --accent:#7aa2ff;--accent-soft:#1c2740;--new:#ef4444;--siet:#ef4444;--noi:#10b981;--brand:#d9935f;color-scheme:dark}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",sans-serif}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+
+/* Thanh trên */
+.top{position:sticky;top:0;z-index:20;background:var(--card);border-bottom:1px solid var(--line)}
+.top-in{max-width:1320px;margin:0 auto;padding:10px 16px;display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+.brand{display:flex;flex-direction:column;line-height:1.2;min-width:0}
+.brand b{font-size:18px;letter-spacing:-.01em}
+.brand small{color:var(--muted);font-size:12px;display:flex;gap:6px;align-items:center}
+.dot{width:7px;height:7px;border-radius:50%;background:#16a34a;flex:none}
+.search{flex:1;min-width:220px;position:relative}
+.search input{width:100%;padding:9px 14px 9px 36px;border:1px solid var(--line);border-radius:10px;background:var(--bg)}
+.search svg{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--muted)}
+.top select{padding:8px 10px;border:1px solid var(--line);border-radius:10px;background:var(--bg)}
+.fbtn{display:none;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);cursor:pointer}
+
+/* Khung chính */
+.wrap{max-width:1320px;margin:0 auto;padding:16px;display:grid;grid-template-columns:268px minmax(0,1fr);gap:20px;align-items:start}
+
+/* Thanh lọc trái */
+.side{position:sticky;top:76px;max-height:calc(100vh - 92px);overflow-y:auto;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:6px 0 10px}
+.side-head{display:flex;justify-content:space-between;align-items:center;padding:8px 14px 4px}
+.side-head b{font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.linkbtn{border:0;background:none;color:var(--accent);cursor:pointer;padding:2px 0;font-size:13px}
+.facet{border-top:1px solid var(--line);padding:10px 14px 8px}
+.facet:first-of-type{border-top:0}
+.facet h3{margin:0 0 6px;font-size:13px;font-weight:700}
+.opt{display:flex;align-items:center;gap:8px;padding:4px 6px;margin:0 -6px;border-radius:6px;cursor:pointer;font-size:13.5px}
+.opt:hover{background:var(--soft)}
+.opt input{margin:0;accent-color:var(--accent);flex:none}
+.opt .lbl{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.opt .n{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+.opt.zero{opacity:.45}
+.seg{display:grid;grid-template-columns:repeat(4,1fr);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{border:0;border-left:1px solid var(--line);background:var(--card);padding:6px 0;cursor:pointer;font-size:12.5px}
+.seg button:first-child{border-left:0}
+.seg button.on{background:var(--accent);color:#fff}
+.fb summary{cursor:pointer;font-size:13px;font-weight:700}
+.fb a{display:block;padding:3px 0;color:var(--text);text-decoration:none;font-size:13px}
+.fb a:hover{color:var(--accent)}
+
+/* Kết quả */
+.res-head{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+.res-head .count{font-size:15px;font-weight:700;margin-right:4px}
+.chip{display:inline-flex;align-items:center;gap:4px;padding:3px 6px 3px 10px;border-radius:999px;background:var(--accent-soft);color:var(--accent);font-size:12.5px;border:0;cursor:pointer}
+.chip span{font-size:15px;line-height:1;padding:0 3px}
+.week{margin:0 0 18px}
+.week h2{display:flex;align-items:baseline;gap:8px;margin:0 0 8px;font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700}
+.week h2 .wn{font-variant-numeric:tabular-nums;text-transform:none;letter-spacing:0;font-weight:500}
+.list{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.item{display:grid;grid-template-columns:30px minmax(0,1fr);gap:10px;padding:11px 14px;border-top:1px solid var(--line)}
+.item:first-child{border-top:0}
+.item:hover{background:color-mix(in srgb,var(--soft) 60%,transparent)}
+.flag{font-size:18px;line-height:1.3;text-align:center}
+.item a.t{color:var(--text);text-decoration:none;font-weight:600;font-size:14.5px;line-height:1.4}
+.item a.t:hover{color:var(--accent);text-decoration:underline}
+.item p{margin:3px 0 0;color:var(--muted);font-size:13px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.meta{margin-top:5px;display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12px;color:var(--muted)}
+.b{border-radius:4px;padding:0 6px;font-weight:700;font-size:11.5px;line-height:18px}
+.b.new{background:var(--new);color:#fff}
+.b.siet{background:var(--siet);color:#fff}.b.noi{background:var(--noi);color:#fff}
+.b.gov{border:1px solid var(--accent);color:var(--accent);font-weight:600}
+.b.pol{border:1px solid var(--line);color:var(--muted);font-weight:600}
+.tag{background:var(--soft);color:var(--text);border-radius:4px;padding:0 6px;line-height:18px;border:0;cursor:pointer;font-size:12px}
+.tag:hover{background:var(--accent-soft);color:var(--accent)}
+.grp{color:var(--accent);font-weight:600}
+.sep{opacity:.5}
+.more{display:block;width:100%;margin:4px 0 24px;padding:10px;border:1px dashed var(--line);background:transparent;border-radius:10px;cursor:pointer;color:var(--muted)}
+.more:hover{color:var(--accent);border-color:var(--accent)}
+.empty{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:40px 16px;text-align:center;color:var(--muted)}
+#toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;padding:9px 18px;border-radius:999px;cursor:pointer;box-shadow:0 4px 14px #0003;border:0;z-index:30}
+.preview-note{background:#fff7e6;color:#7a4b00;border-bottom:1px solid #f3d9a4;font-size:12.5px;text-align:center;padding:5px 12px}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .preview-note{background:#3a2a0d;color:#f6d48b;border-color:#5a4214}}
+.scrim{display:none}
+
+/* Điện thoại / máy tính bảng */
+@media (max-width:900px){
+ .wrap{grid-template-columns:1fr;padding:12px}
+ .fbtn{display:inline-block}
+ .top-in{gap:8px}
+ .brand{flex:1}
+ .search{order:3;flex-basis:100%}
+ .side{position:fixed;top:0;left:0;bottom:0;width:min(320px,86vw);max-height:none;border-radius:0;z-index:40;transform:translateX(-105%);transition:transform .2s}
+ .side.open{transform:none}
+ .scrim.open{display:block;position:fixed;inset:0;background:#0006;z-index:35}
+}
+@media (prefers-reduced-motion:reduce){.side{transition:none}}
+</style>
+</head>
+<body>
+<div class="preview-note">Bản mẫu bố cục mới. Trang chính hiện tại vẫn giữ nguyên.</div>
+<header class="top">
+ <div class="top-in">
+  <button class="fbtn" id="fbtn" aria-controls="side">Bộ lọc <span id="fcount"></span></button>
+  <div class="brand"><b>Bản tin Di trú</b><small><span class="dot"></span><span id="upd">Đang tải…</span></small></div>
+  <label class="search"><span class="sr">Tìm kiếm</span>
+   <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+   <input id="q" type="search" placeholder="Tìm có dấu hoặc không dấu: 491, EB-5, golden visa, dinh cu uc…" autocomplete="off">
+  </label>
+  <label><span class="sr">Sắp xếp</span><select id="sort"><option value="prio">Ưu tiên trong tuần</option><option value="new">Mới nhất</option></select></label>
+ </div>
+</header>
+
+<div class="wrap">
+ <aside class="side" id="side" aria-label="Bộ lọc">
+  <div class="side-head"><b>Bộ lọc</b><button class="linkbtn" id="reset">Xóa lọc</button></div>
+  <section class="facet"><h3>Thời gian</h3><div class="seg" id="period"></div></section>
+  <section class="facet"><h3>Thị trường</h3><div id="f-market"></div></section>
+  <section class="facet"><h3>Nhóm</h3><div id="f-group"></div></section>
+  <section class="facet"><h3>Loại visa</h3><div id="f-visa"></div></section>
+  <section class="facet"><h3>Loại tin</h3><div id="f-kind"></div></section>
+  <section class="facet fb" id="fb" hidden></section>
+ </aside>
+ <div class="scrim" id="scrim"></div>
+
+ <main id="main" aria-live="polite">
+  <div class="res-head" id="reshead"></div>
+  <div id="results"></div>
+ </main>
+</div>
+<button id="toast" hidden></button>
+
+<script>
+const MARKETS=[["US","🇺🇸","Mỹ"],["AU","🇦🇺","Úc"],["NZ","🇳🇿","New Zealand"],["CA","🇨🇦","Canada"],["EU","🇪🇺","Châu Âu"],["AE","🇦🇪","Dubai (UAE)"]];
+const MK=Object.fromEntries(MARKETS.map(m=>[m[0],m]));
+const GROUPS={chung:"Chung các loại","tay-nghe":"Tay nghề","dau-tu":"Đầu tư",khac:"Khác"};
+const KINDS=[["policy","Tin chính sách"],["siet","▼ Siết chính sách"],["noi","▲ Nới chính sách"],["official","Nguồn chính phủ"],["vi","Báo tiếng Việt"]];
+const PERIODS=[[7,"7 ngày"],[30,"30 ngày"],[90,"90 ngày"],[0,"Tất cả"]];
+const PAGE=60, POLL_MS=60000, NEW_MS=48*3600e3, VISA_TOP=10;
+
+let data={items:[],taxonomy:{}}, all=[], knownIds=null, limit=PAGE, visaAll=false;
+const S={m:new Set(),g:new Set(),v:new Set(),k:new Set(),p:30,q:"",sort:safeGet("sortMode")||"prio"};
+
+function safeGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
+function safeSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+// Bỏ dấu tiếng Việt để tìm "dinh cu" ra "định cư"
+function fold(s){return String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/đ/g,"d").replace(/Đ/g,"D").toLowerCase()}
+function d2(n){return String(n).padStart(2,"0")}
+function dmy(t){const d=new Date(t);return `${d2(d.getDate())}/${d2(d.getMonth()+1)}/${d.getFullYear()}`}
+function dm(t){const d=new Date(t);return `${d2(d.getDate())}/${d2(d.getMonth()+1)}`}
+function weekStart(t){const x=new Date(t);x.setHours(0,0,0,0);x.setDate(x.getDate()-(x.getDay()+6)%7);return x.getTime()}
+function visaLabel(c,v){return (((data.taxonomy[c]||{}).visas||{})[v]||v)}
+function visaShort(c,v){return visaLabel(c,v).split(" · ")[0]}
+// Tiêu đề Google News có đuôi " - Tên báo": bỏ đi vì tên báo đã hiện ở dòng dưới
+function cleanTitle(i){const p=" - "+i.publisher;return i.publisher&&i.title.endsWith(p)?i.title.slice(0,-p.length):i.title}
+
+// Gộp tin trùng (cùng thị trường, cùng tiêu đề) → giữ tin điểm cao nhất, ghi thêm các nguồn khác
+function prepare(items){
+  const map=new Map(), out=[];
+  for(const i of items){
+    const t=cleanTitle(i), key=i.country+"|"+fold(t).replace(/[^a-z0-9]+/g," ").trim().slice(0,70);
+    const x={...i,t,ts:+new Date(i.published),srcs:[i.publisher],
+      hay:fold(t+" "+(i.summary||"")+" "+i.publisher+" "+(i.visas||[]).map(v=>visaLabel(i.country,v)).join(" "))};
+    const prev=map.get(key);
+    if(!prev){map.set(key,x);out.push(x);continue}
+    if(!prev.srcs.includes(i.publisher))prev.srcs.push(i.publisher);
+    if((x.score||0)>(prev.score||0)){Object.assign(prev,{...x,srcs:prev.srcs})}
+  }
+  return out;
+}
+
+// Lọc: mỗi nhóm điều kiện trả về true/false; skip = bỏ qua một nhóm để đếm số tin của chính nhóm đó
+function pass(i,skip){
+  if(S.p&&i.ts<Date.now()-S.p*864e5)return false;
+  if(skip!=="m"&&S.m.size&&!S.m.has(i.country))return false;
+  if(skip!=="g"&&S.g.size&&!(i.groups||[]).some(g=>S.g.has(g)))return false;
+  if(skip!=="v"&&S.v.size&&!(i.visas||[]).some(v=>S.v.has(i.country+":"+v)))return false;
+  if(skip!=="k"&&S.k.size){
+    for(const k of S.k){
+      if(k==="policy"&&!i.policy)return false;
+      if(k==="siet"&&i.direction!=="siet")return false;
+      if(k==="noi"&&i.direction!=="noi")return false;
+      if(k==="official"&&i.type!=="official")return false;
+      if(k==="vi"&&i.lang!=="vi")return false;
+    }
+  }
+  if(S.q){for(const w of fold(S.q).split(/\s+/).filter(Boolean))if(!i.hay.includes(w))return false}
+  return true;
+}
+function counts(skip,keyFn){const c={};all.forEach(i=>{if(pass(i,skip))keyFn(i).forEach(k=>c[k]=(c[k]||0)+1)});return c}
+
+function opt(name,val,label,n,checked,title){
+  return `<label class="opt${n?"":" zero"}"${title?` title="${esc(title)}"`:""}><input type="checkbox" data-f="${name}" value="${esc(val)}"${checked?" checked":""}>
+    <span class="lbl">${label}</span><span class="n">${n||0}</span></label>`;
+}
+function renderFacets(){
+  document.getElementById("period").innerHTML=PERIODS.map(([d,l])=>`<button data-p="${d}" class="${S.p===d?"on":""}" aria-pressed="${S.p===d}">${l}</button>`).join("");
+  const cm=counts("m",i=>[i.country]);
+  document.getElementById("f-market").innerHTML=MARKETS.map(([c,f,n])=>opt("m",c,`${f} ${n}`,cm[c],S.m.has(c))).join("");
+  const cg=counts("g",i=>i.groups||[]);
+  document.getElementById("f-group").innerHTML=Object.entries(GROUPS).map(([g,n])=>opt("g",g,n,cg[g],S.g.has(g))).join("");
+  // Loại visa: chỉ hiện của các thị trường đang chọn (chưa chọn thì hiện tất cả), xếp theo số tin
+  const cv=counts("v",i=>(i.visas||[]).map(v=>i.country+":"+v));
+  let vs=Object.keys(cv).filter(k=>!S.m.size||S.m.has(k.split(":")[0]));
+  S.v.forEach(k=>{if(!vs.includes(k))vs.push(k)});
+  vs.sort((a,b)=>(S.v.has(b)-S.v.has(a))||(cv[b]||0)-(cv[a]||0));
+  const shown=visaAll?vs:vs.slice(0,Math.max(VISA_TOP,S.v.size));
+  document.getElementById("f-visa").innerHTML=(shown.length?shown.map(k=>{const [c,v]=k.split(":");
+      return opt("v",k,`${MK[c]?MK[c][1]:""} ${esc(visaShort(c,v))}`,cv[k],S.v.has(k),visaLabel(c,v))}).join("")
+      :'<div class="opt zero">Không có loại visa phù hợp</div>')
+    +(vs.length>shown.length||visaAll&&vs.length>VISA_TOP?`<button class="linkbtn" id="visamore">${visaAll?"Thu gọn":`Xem thêm ${vs.length-shown.length} loại`}</button>`:"");
+  const ck={};all.forEach(i=>{if(!pass(i,"k"))return;
+    if(i.policy)ck.policy=(ck.policy||0)+1;if(i.direction)ck[i.direction]=(ck[i.direction]||0)+1;
+    if(i.type==="official")ck.official=(ck.official||0)+1;if(i.lang==="vi")ck.vi=(ck.vi||0)+1});
+  document.getElementById("f-kind").innerHTML=KINDS.map(([k,n])=>opt("k",k,n,ck[k],S.k.has(k))).join("");
+  const nf=S.m.size+S.g.size+S.v.size+S.k.size+(S.q?1:0);
+  document.getElementById("fcount").textContent=nf?`(${nf})`:"";
+}
+
+function item(i){
+  const isNew=Date.now()-new Date(i.fetched)<NEW_MS;
+  const dir=i.direction==="siet"?'<span class="b siet" title="Chính sách bị siết chặt">▼ Siết</span>'
+          :i.direction==="noi"?'<span class="b noi" title="Chính sách được nới lỏng">▲ Nới</span>'
+          :i.policy&&i.type!=="official"?'<span class="b pol">Chính sách</span>':"";
+  const g=(i.groups||[])[0];
+  const visas=(i.visas||[]).slice(0,2).map(v=>`<button class="tag" data-v="${esc(i.country+":"+v)}" title="Lọc: ${esc(visaLabel(i.country,v))}">${esc(visaShort(i.country,v))}</button>`).join("");
+  const extra=i.srcs.length>1?` <span title="${esc(i.srcs.slice(1).join(", "))}">+${i.srcs.length-1} nguồn</span>`:"";
+  return `<article class="item"><div class="flag" title="${esc(MK[i.country]?MK[i.country][2]:i.country)}">${MK[i.country]?MK[i.country][1]:""}</div><div>
+    <a class="t" href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.t)}</a>
+    ${i.summary?`<p>${esc(i.summary)}</p>`:""}
+    <div class="meta">${isNew?'<span class="b new">MỚI</span>':""}${dir}${i.type==="official"?'<span class="b gov">Chính phủ</span>':""}
+      ${g?`<span class="grp">${esc(GROUPS[g]||g)}</span>`:""}${visas}
+      <span>${esc(i.publisher)}${extra}</span><span class="sep">·</span><span>${dmy(i.published)}</span></div></div></article>`;
+}
+function render(){
+  const items=all.filter(i=>pass(i));
+  items.sort(S.sort==="prio"?(a,b)=>weekStart(b.ts)-weekStart(a.ts)||(b.score||0)-(a.score||0)||b.ts-a.ts:(a,b)=>b.ts-a.ts);
+  // Dòng kết quả + các điều kiện đang lọc (bấm × để bỏ)
+  const chips=[...[...S.m].map(c=>["m",c,MK[c][1]+" "+MK[c][2]]),...[...S.g].map(g=>["g",g,GROUPS[g]]),
+    ...[...S.v].map(k=>{const [c,v]=k.split(":");return ["v",k,(MK[c]?MK[c][1]+" ":"")+visaShort(c,v)]}),
+    ...[...S.k].map(k=>["k",k,KINDS.find(x=>x[0]===k)[1]]),...(S.q?[["q","","“"+S.q+"”"]]:[])];
+  document.getElementById("reshead").innerHTML=`<span class="count">${items.length.toLocaleString("vi-VN")} tin</span>`+
+    chips.map(([f,v,l])=>`<button class="chip" data-f="${f}" data-v="${esc(v)}" aria-label="Bỏ lọc ${esc(l)}">${esc(l)}<span aria-hidden="true">×</span></button>`).join("");
+  if(!items.length){document.getElementById("results").innerHTML='<div class="empty">Không có tin phù hợp. Thử bỏ bớt điều kiện lọc hoặc chọn khoảng thời gian dài hơn.</div>';return}
+  const page=items.slice(0,limit), weeks=[];
+  page.forEach(i=>{const w=weekStart(i.ts);if(!weeks.length||weeks[weeks.length-1].w!==w)weeks.push({w,list:[]});weeks[weeks.length-1].list.push(i)});
+  const wTotal={};items.forEach(i=>{const w=weekStart(i.ts);wTotal[w]=(wTotal[w]||0)+1});
+  document.getElementById("results").innerHTML=weeks.map(({w,list})=>`<section class="week">
+      <h2>Tuần ${dm(w)} – ${dmy(w+6*864e5)} <span class="wn">· ${wTotal[w]} tin</span></h2>
+      <div class="list">${list.map(item).join("")}</div></section>`).join("")
+    +(items.length>limit?`<button class="more" id="more">Xem thêm ${Math.min(PAGE,items.length-limit)} tin (còn ${items.length-limit})</button>`:"");
+}
+function update(){limit=PAGE;renderFacets();render();saveHash()}
+
+// Lưu trạng thái lọc vào địa chỉ trang để gửi link cho đồng nghiệp
+function saveHash(){
+  const p=new URLSearchParams();
+  if(S.m.size)p.set("m",[...S.m].join(","));if(S.g.size)p.set("g",[...S.g].join(","));
+  if(S.v.size)p.set("v",[...S.v].join(","));if(S.k.size)p.set("k",[...S.k].join(","));
+  if(S.p!==30)p.set("p",S.p);if(S.q)p.set("q",S.q);
+  const h=p.toString();history.replaceState(null,"",h?"#"+h:location.pathname+location.search);
+}
+function readHash(){
+  const p=new URLSearchParams(location.hash.slice(1)), set=(k,s)=>(p.get(k)||"").split(",").filter(Boolean).forEach(x=>s.add(x));
+  set("m",S.m);set("g",S.g);set("v",S.v);set("k",S.k);
+  if(p.has("p"))S.p=+p.get("p");if(p.get("q"))S.q=p.get("q");
+}
+
+const side=document.getElementById("side"), scrim=document.getElementById("scrim");
+function drawer(open){side.classList.toggle("open",open);scrim.classList.toggle("open",open)}
+document.getElementById("fbtn").onclick=()=>drawer(true);scrim.onclick=()=>drawer(false);
+side.addEventListener("change",e=>{const t=e.target;if(!t.dataset.f)return;const s=S[t.dataset.f];t.checked?s.add(t.value):s.delete(t.value);
+  if(t.dataset.f==="m")S.v.forEach(k=>{if(S.m.size&&!S.m.has(k.split(":")[0]))S.v.delete(k)});update()});
+side.addEventListener("click",e=>{
+  const b=e.target.closest("button");if(!b)return;
+  if(b.dataset.p!==undefined){S.p=+b.dataset.p;update()}
+  else if(b.id==="visamore"){visaAll=!visaAll;renderFacets()}
+  else if(b.id==="reset"){S.m.clear();S.g.clear();S.v.clear();S.k.clear();S.q="";S.p=30;document.getElementById("q").value="";update()}
+});
+document.getElementById("main").addEventListener("click",e=>{
+  const b=e.target.closest("button");if(!b)return;
+  if(b.id==="more"){limit+=PAGE;render()}
+  else if(b.classList.contains("chip")){const f=b.dataset.f;if(f==="q"){S.q="";document.getElementById("q").value=""}else S[f].delete(b.dataset.v);update()}
+  else if(b.dataset.v){S.v.add(b.dataset.v);scrollTo({top:0});update()}
+});
+let qt;document.getElementById("q").oninput=e=>{clearTimeout(qt);qt=setTimeout(()=>{S.q=e.target.value.trim();update()},180)};
+const sortSel=document.getElementById("sort");sortSel.value=S.sort;
+sortSel.onchange=e=>{S.sort=e.target.value;safeSet("sortMode",S.sort);limit=PAGE;render()};
+addEventListener("keydown",e=>{if(e.key==="Escape")drawer(false)});
+
+async function load(){
+  try{
+    const r=await fetch("data/news.json?t="+Date.now(),{cache:"no-store"}), fresh=await r.json();
+    const ids=new Set(fresh.items.map(i=>i.id));
+    if(knownIds){const n=[...ids].filter(id=>!knownIds.has(id)).length;
+      if(n){const t=document.getElementById("toast");t.textContent=`🔔 ${n} tin mới — bấm để xem`;t.hidden=false;t.onclick=()=>{t.hidden=true;scrollTo({top:0,behavior:"smooth"})}}}
+    const first=!knownIds;knownIds=ids;data=fresh;all=prepare(fresh.items);
+    document.getElementById("upd").textContent=`Cập nhật ${new Date(fresh.updated).toLocaleString("vi-VN")} · ${all.length.toLocaleString("vi-VN")} tin`;
+    if(first){renderFacets();render()}else{renderFacets();render()}
+  }catch(e){document.getElementById("upd").textContent="Không tải được dữ liệu, đang thử lại…"}
+}
+async function loadFacebook(){
+  try{const r=await fetch("data/facebook.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)return;
+    const f=await r.json(), box=document.getElementById("fb");
+    box.innerHTML=`<details><summary>📘 Facebook đối thủ (${f.pages.length})</summary>${f.pages.map(p=>`<a href="${esc(p.url)}" target="_blank" rel="noopener" title="${esc(p.note||p.url)}">${esc(p.name)}</a>`).join("")}</details>`;
+    box.hidden=false}catch(e){}
+}
+readHash();document.getElementById("q").value=S.q;
+loadFacebook();load();setInterval(load,POLL_MS);
+</script>
+</body>
+</html>
