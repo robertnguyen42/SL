@@ -7,3 +7,10 @@
 - `LibraryPage.html` lấy từ `docs/index.html`, chỉ khác phần tải dữ liệu (google.script.run) và tham số trên địa chỉ trang.
 
 Cập nhật code: `clasp push` trong thư mục `webapp/`, rồi `clasp deploy -i <deploymentId>` để giữ nguyên link.
+
+## Đang chạy
+- Chủ sở hữu: daniel.do@si.im
+- Script ID: `1hZTMEPBaLA0wzwRiO9jNpnG6h7utRAjkKhamA7bso09UfIObDeoNlF3c` (editor: https://script.google.com/d/1hZTMEPBaLA0wzwRiO9jNpnG6h7utRAjkKhamA7bso09UfIObDeoNlF3c/edit)
+- Deployment: `AKfycbwm7zZ_AB0b5BMIw3YssAyjSanun2PyHqr4m-6MLzKAmm_ptIH_3ibMQlwCjvWj_q04LA`
+- Link: https://script.google.com/a/macros/si.im/s/AKfycbwm7zZ_AB0b5BMIw3YssAyjSanun2PyHqr4m-6MLzKAmm_ptIH_3ibMQlwCjvWj_q04LA/exec
+- Cập nhật giữ nguyên link: `clasp push` rồi `clasp create-deployment -i AKfycbwm7zZ_AB0b5BMIw3YssAyjSanun2PyHqr4m-6MLzKAmm_ptIH_3ibMQlwCjvWj_q04LA`
