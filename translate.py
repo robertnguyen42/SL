@@ -8,7 +8,9 @@ Mỗi tin chỉ dịch một lần. Cần ANTHROPIC_API_KEY; thiếu thì bỏ q
 Biến môi trường:
   TRANSLATE_MODEL   model Claude dùng để dịch (mặc định MODEL bên dưới)
   TRANSLATE_DAYS    chỉ dịch tin trong N ngày gần nhất (mặc định 120 = toàn bộ tin đang giữ)
-  TRANSLATE_LIMIT   tối đa bao nhiêu tin mỗi lần chạy (mặc định 600), để chi phí mỗi lần có giới hạn"""
+  TRANSLATE_LIMIT   tối đa bao nhiêu tin mỗi lần chạy (mặc định 600), để chi phí mỗi lần có giới hạn
+  TRANSLATE_SINCE   chỉ dịch tin lấy về từ thời điểm này trở đi (ISO, vd 2026-11-09T00:00:00+00:00);
+                    dùng để không dịch bù tin cũ"""
 import json, os, sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -22,6 +24,7 @@ OUT = DATA / "translations.json"
 MODEL = os.environ.get("TRANSLATE_MODEL") or "claude-opus-5-5"
 DAYS = int(os.environ.get("TRANSLATE_DAYS") or 120)
 LIMIT = int(os.environ.get("TRANSLATE_LIMIT") or 600)
+SINCE = os.environ.get("TRANSLATE_SINCE") or ""
 BATCH_SIZE = 60
 
 SYSTEM = """Bạn dịch tin tức di trú sang tiếng Việt cho đội tư vấn định cư người Việt (đọc nội bộ, văn phong báo chí, trang trọng).
@@ -49,7 +52,8 @@ def main():
 
     # Tin mới nhất, tin chính phủ và tin chính sách dịch trước
     pending = [i for i in news["items"] if i.get("lang") != "vi" and i["id"] not in done
-               and now - datetime.fromisoformat(i["published"]) < timedelta(days=DAYS)]
+               and now - datetime.fromisoformat(i["published"]) < timedelta(days=DAYS)
+               and (not SINCE or datetime.fromisoformat(i["fetched"]) >= datetime.fromisoformat(SINCE))]
     pending.sort(key=lambda i: (i["published"][:10], i.get("score", 0)), reverse=True)
     pending = pending[:LIMIT]
     if not pending:

@@ -12,6 +12,9 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 OUT = ROOT / "docs" / "data" / "news.json"
 KEEP_DAYS = 120          # giữ tin trong 120 ngày
+# Bỏ hẳn tin từ báo tiếng Việt (09/11/2026): báo Việt chủ yếu dịch lại tin tiếng Anh,
+# nay tin tiếng Anh được dịch trực tiếp (translate.py) nên không cần nguồn tiếng Việt nữa
+DROP_VI = True
 MAX_PER_SOURCE = 40
 ATOM = "{http://www.w3.org/2005/Atom}"
 # Tin báo chí (type=news) phải chứa ít nhất 1 từ khoá chung này hoặc 1 từ khoá visa, để loại tin không liên quan
@@ -250,7 +253,7 @@ def score(item, tax, pr, ai=None, tiers=None, tr=None):
             item["summary_vi"] = t["s"]
     # Ưu tiên: nguồn chính phủ cao nhất, công ty di trú thấp nhất; sau đó tin chính sách, diện chính, tiếng Việt
     item["score"] = (3 * (item["tier"] == "gov") - 1.5 * (item["tier"] == "agency") + 2.5 * item["policy"]
-                     + 1.5 * item["prio"] + 1 * (item["lang"] == "vi"))
+                     + 1.5 * item["prio"])
     return item
 
 
@@ -405,6 +408,8 @@ def main():
     tiers, tr = load_tiers(), load_translations()
     items = [score(tag(i, tax), tax, pr, ai, tiers, tr) for i in by_id.values()
              if parse_date(i["published"]) >= cutoff and not EXCLUDE.search(i["title"])]
+    if DROP_VI:
+        items = [i for i in items if i["lang"] != "vi"]
     items.sort(key=lambda i: i["published"], reverse=True)
     taxonomy = {c: {"name": t["name"], "flag": t["flag"],
                     "visas": {vid: v["name"] for vid, v in t["visas"].items()},

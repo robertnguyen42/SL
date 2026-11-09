@@ -1,12 +1,5 @@
 [
  {
-  "id": "au-vi",
-  "country": "AU",
-  "type": "news",
-  "name": "Google News – Định cư Úc",
-  "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+%C3%9Ac+OR+visa+%C3%9Ac+when:14d&hl=vi&gl=VN&ceid=VN:vi"
- },
- {
   "id": "au-en",
   "country": "AU",
   "type": "news",
@@ -21,13 +14,6 @@
   "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=u-s-citizenship-and-immigration-services"
  },
  {
-  "id": "us-vi",
-  "country": "US",
-  "type": "news",
-  "name": "Google News – Định cư Mỹ",
-  "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+M%E1%BB%B9+OR+visa+M%E1%BB%B9+OR+EB-5+when:14d&hl=vi&gl=VN&ceid=VN:vi"
- },
- {
   "id": "us-en",
   "country": "US",
   "type": "news",
@@ -40,13 +26,6 @@
   "type": "official",
   "name": "IRCC – News releases",
   "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&type=newsreleases&sort=publishedDate&orderBy=desc&pick=30&format=atom"
- },
- {
-  "id": "ca-vi",
-  "country": "CA",
-  "type": "news",
-  "name": "Google News – Định cư Canada",
-  "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+Canada+when:14d&hl=vi&gl=VN&ceid=VN:vi"
  },
  {
   "id": "eu-gov",
@@ -64,13 +43,6 @@
   "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=uk-visas-and-immigration"
  },
  {
-  "id": "eu-vi",
-  "country": "EU",
-  "type": "news",
-  "name": "Google News – Định cư châu Âu",
-  "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+ch%C3%A2u+%C3%82u+OR+golden+visa+OR+du+h%E1%BB%8Dc+ch%C3%A2u+%C3%82u+when:30d&hl=vi&gl=VN&ceid=VN:vi"
- },
- {
   "id": "nz-gov",
   "country": "NZ",
   "type": "official",
@@ -85,10 +57,61 @@
   "url": "https://news.google.com/rss/search?q=%22New+Zealand%22+(visa+OR+immigration+OR+INZ)+when:7d&hl=en-NZ&gl=NZ&ceid=NZ:en"
  },
  {
-  "id": "nz-vi",
-  "country": "NZ",
-  "type": "news",
-  "name": "Google News – Định cư New Zealand",
-  "url": "https://news.google.com/rss/search?q=%C4%91%E1%BB%8Bnh+c%C6%B0+New+Zealand+OR+du+h%E1%BB%8Dc+New+Zealand+when:30d&hl=vi&gl=VN&ceid=VN:vi"
+  "id": "au-gov-immi",
+  "country": "AU",
+  "type": "official",
+  "name": "Home Affairs Úc – Tin di trú",
+  "url": "https://news.google.com/rss/search?q=site%3Aimmi.homeaffairs.gov.au+OR+site%3Ahomeaffairs.gov.au+when%3A60d&hl=en-AU&gl=AU&ceid=AU:en"
+ },
+ {
+  "id": "au-gov-minister",
+  "country": "AU",
+  "type": "official",
+  "name": "Bộ trưởng Nội vụ / Di trú Úc",
+  "url": "https://news.google.com/rss/search?q=site%3Aminister.homeaffairs.gov.au+%28visa+OR+migration+OR+immigration+OR+citizenship%29+when%3A60d&hl=en-AU&gl=AU&ceid=AU:en",
+  "filter": true
+ },
+ {
+  "id": "us-gov-uscis",
+  "country": "US",
+  "type": "official",
+  "name": "USCIS – Newsroom",
+  "url": "https://news.google.com/rss/search?q=site%3Auscis.gov+when%3A30d&hl=en-US&gl=US&ceid=US:en"
+ },
+ {
+  "id": "us-gov-state",
+  "country": "US",
+  "type": "official",
+  "name": "Bộ Ngoại giao Mỹ – Visa Bulletin & thị thực",
+  "url": "https://news.google.com/rss/search?q=site%3Atravel.state.gov+when%3A60d&hl=en-US&gl=US&ceid=US:en"
+ },
+ {
+  "id": "us-gov-dol",
+  "country": "US",
+  "type": "official",
+  "name": "Bộ Lao động Mỹ – H-1B / PERM",
+  "url": "https://news.google.com/rss/search?q=site%3Adol.gov+%28H-1B+OR+PERM+OR+%22labor+certification%22+OR+%22foreign+labor%22%29+when%3A60d&hl=en-US&gl=US&ceid=US:en"
+ },
+ {
+  "id": "ca-gov-canada",
+  "country": "CA",
+  "type": "official",
+  "name": "Canada.ca – Di trú",
+  "url": "https://news.google.com/rss/search?q=site%3Acanada.ca+%28immigration+OR+IRCC+OR+%22Express+Entry%22+OR+%22permanent+residence%22+OR+%22study+permit%22+OR+%22work+permit%22%29+when%3A30d&hl=en-CA&gl=CA&ceid=CA:en"
+ },
+ {
+  "id": "ae-gov",
+  "country": "AE",
+  "type": "official",
+  "name": "UAE – ICP / GDRFA / u.ae",
+  "url": "https://news.google.com/rss/search?q=site%3Aicp.gov.ae+OR+site%3Agdrfad.gov.ae+OR+site%3Au.ae+%28visa+OR+residence+OR+residency+OR+%22Golden+Visa%22%29+when%3A60d&hl=en&gl=AE&ceid=AE:en"
+ },
+ {
+  "id": "ae-wam",
+  "country": "AE",
+  "type": "official",
+  "name": "WAM – Hãng thông tấn UAE",
+  "url": "https://news.google.com/rss/search?q=site%3Awam.ae+%28visa+OR+residency+OR+%22Golden+Visa%22+OR+%22Green+Visa%22%29+when%3A30d&hl=en&gl=AE&ceid=AE:en",
+  "filter": true
  }
 ]

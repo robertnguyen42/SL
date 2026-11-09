@@ -59,8 +59,8 @@ Sửa `sources.json`. `type: "official"` = nguồn chính phủ (hiện tóm t�
 - Điểm ưu tiên: chính phủ +3, công ty di trú −1,5 (cộng với điểm tin chính sách, diện chính, tiếng Việt)
 - Sửa danh sách tên nguồn trong `source_tiers.json`, lần cập nhật sau áp dụng cho toàn bộ tin
 
-## Dịch tiếng Việt (`translate.py`) — CHƯA BẬT (chờ chọn model, phát sinh chi phí API)
+## Dịch tiếng Việt (`translate.py`) — Claude Opus 5.5, chạy mỗi 30 phút khi có secret ANTHROPIC_API_KEY
 - Dịch tiêu đề (và tóm tắt nếu có) của tin tiếng Anh sang tiếng Việt, giữ nguyên thuật ngữ (EB-5, 482, Express Entry, Golden Visa…)
 - Kết quả lưu `docs/data/translations.json`; `fetch_news.py` gắn `title_vi` / `summary_vi` vào tin; trang web hiện tiếng Việt kèm "Bản gốc"
 - Mỗi tin chỉ dịch một lần. Biến môi trường: `TRANSLATE_MODEL`, `TRANSLATE_DAYS`, `TRANSLATE_LIMIT`
-- Bật: thêm bước `pip install -q anthropic pydantic` và `python translate.py` (env `ANTHROPIC_API_KEY`) vào `update.yml`, sau `fetch_news.py`; thêm `docs/data/translations.json` vào bước commit
+- Đã có trong `update.yml`; chỉ dịch tin lấy về từ 09/11/2026 (`TRANSLATE_SINCE`), tối đa 300 tin mỗi lần. Từ 09/11/2026 không lấy tin từ báo tiếng Việt nữa (`DROP_VI` trong `fetch_news.py`)
