@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:25:13.628695+00:00",
+ "updated": "2026-11-16T00:24:18.084952+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -315,8 +315,8 @@
   {
    "id": "eu-gov",
    "name": "Ủy ban châu Âu – Di cư & Nội vụ",
-   "ok": true,
-   "count": 30
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "id": "uk-gov",
@@ -334,19 +334,19 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "au-gov-immi",
    "name": "Home Affairs Úc – Tin di trú",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-gov-minister",
    "name": "Bộ trưởng Nội vụ / Di trú Úc",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "us-gov-uscis",
@@ -388,49 +388,49 @@
    "id": "cb-en",
    "name": "Google News – Quốc tịch đầu tư Caribe",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "id": "us-travel-vn",
    "name": "Google News – Du lịch US cho công dân Việt Nam / ĐNA",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "au-travel-vn",
    "name": "Google News – Du lịch AU cho công dân Việt Nam / ĐNA",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "ca-travel-vn",
    "name": "Google News – Du lịch CA cho công dân Việt Nam / ĐNA",
    "ok": true,
-   "count": 2
+   "count": 4
   },
   {
    "id": "eu-travel-vn",
    "name": "Google News – Du lịch EU cho công dân Việt Nam / ĐNA",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nz-travel-vn",
    "name": "Google News – Du lịch NZ cho công dân Việt Nam / ĐNA",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "ae-travel-vn",
    "name": "Google News – Du lịch AE cho công dân Việt Nam / ĐNA",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "us-du-lich-vi",
    "name": "Google News tiếng Việt – Visa du lịch US",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-du-lich-vi",
@@ -478,7 +478,7 @@
    "id": "au-skilled",
    "name": "Google News – Úc – 189 / 190 / 491 · Tay nghề độc lập & đề cử",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-student",
@@ -502,13 +502,13 @@
    "id": "au-partner",
    "name": "Google News – Úc – 820 / 309 · Vợ chồng – Hôn phu",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-citizenship",
@@ -526,7 +526,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 20
+   "count": 18
   },
   {
    "id": "au-sheet-chung-3",
@@ -544,7 +544,7 @@
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -556,7 +556,7 @@
    "id": "au-sheet-tay-nghe-4",
    "name": "Sheet – Úc – Tay nghề (4)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "au-sheet-dau-tu-1",
@@ -574,7 +574,7 @@
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "id": "us-eb-work",
@@ -598,13 +598,13 @@
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "us-visa-bulletin",
@@ -616,7 +616,7 @@
    "id": "us-green-card",
    "name": "Google News – Mỹ – Thẻ xanh – Điều chỉnh tình trạng",
    "ok": true,
-   "count": 31
+   "count": 28
   },
   {
    "id": "us-citizenship",
@@ -652,25 +652,25 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "us-sheet-khac-2",
    "name": "Sheet – Mỹ – Khác (2)",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "id": "ca-express-entry",
    "name": "Google News – Canada – Express Entry · Tay nghề liên bang",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "id": "ca-pnp",
@@ -688,7 +688,7 @@
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "id": "ca-work",
@@ -700,13 +700,13 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "ca-pr-citizenship",
    "name": "Google News – Canada – Thường trú (PR) – Quốc tịch",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "ca-sheet-chung-1",
@@ -730,7 +730,7 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 27
+   "count": 23
   },
   {
    "id": "ca-sheet-dau-tu-1",
@@ -754,7 +754,7 @@
    "id": "eu-golden-visa",
    "name": "Google News – Châu Âu – Golden Visa · Đầu tư cư trú",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "id": "eu-citizenship-investment",
@@ -790,7 +790,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "eu-schengen",
@@ -802,7 +802,7 @@
    "id": "eu-uk",
    "name": "Google News – Châu Âu – Anh (UK) · Skilled Worker, Du học, ILR",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "eu-sheet-chung-1",
@@ -832,7 +832,7 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "id": "eu-sheet-khac-2",
@@ -880,7 +880,7 @@
    "id": "nz-post-study",
    "name": "Google News – New Zealand – Post-study Work · Ở lại làm việc",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "nz-family",
@@ -987,6 +987,62 @@
  ],
  "items": [
   {
+   "id": "4dd33d0e21b6ad07",
+   "src_group": null,
+   "src_country": "US",
+   "title": "I went back to India when my H-1B was rejected. Now I have 2 public companies and am a judge on Shark Tank India. - Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2UxZXVGbktqdFFvNjdQYUtNQWtZRm5SOGlQRnlpUzF1QU1ON0pvRUZwTHo1UFQ5aWJ5M3FfVWlvYmFyN3MzUTZSNGNYeW1kR0doR0hOaTI0TkFKamNaQVdvLVdyS2FCYWpLdk9CdU1DZ24tRW90M2hoRHNNY1RCdHJKNnYxWkZTUXRQaFl1dnhmbXZaOHVlMWJBcTBBZUF2VU8zUVNvMkFoT3dpTGc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Insider",
+   "country": "US",
+   "type": "news",
+   "source": "us-h1b",
+   "published": "2026-11-16T00:00:00+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [
+    "h1b"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "74fbf55c36dfc1f3",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "​Five Chargesheeted in Jammu and Punjab Over Rs 11.62 Lakh New Zealand Visa Fraud - The 420.in",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORks0WndXWEU1NHhwX1EyM2Y2OGE1NVRvNm9tcXQ5Q3ZZdDVrQlBXZXZaSk01MVRyX2hTLXRQSGdJRlV2MmNPazAzcjlNMnJRNVdua3AtZDYtVF9TZWxhWmZOY3JyajZhaGFwYWVLbEZJeG1OZXRRR0ZuNGdvQTFPVGRtdGlCWjB2ejFKU0pTS191Z3YwSGxyTjJvR3NVUmNZ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The 420.in",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-11-15T22:15:11+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "7e103a30e3a4ce0b",
    "src_group": null,
    "src_country": "AU",
@@ -1072,6 +1128,35 @@
    "programs": [],
    "si": false,
    "score": 2.5
+  },
+  {
+   "id": "f0ce26487df6b44b",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australia Outlines How Foreign Spouses of Citizens Can Apply for Citizenship - Yen News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUU5tRndnTkJrcE9FT3N2WVR0V3E0dTRDQW1kNlBvQWU5cW5yOFJXNHpDS1dlc3VtQ3YzeWE0dEZob3FhelZOMENCa3VmQ3ZJaEZYQ0NmZUxieE9rLVd4YTZXbFZTc0J0bzJJREFvTkZMRXc5djRJTXBPS3dBcHRCbTkwRzloY0U5clk3MXBhWjBTUXJpRVRCYjlJTmRkTDA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Yen News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-partner",
+   "published": "2026-11-15T17:21:59+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
   },
   {
    "id": "3a1ef20f1e6e9649",
@@ -1829,6 +1914,31 @@
    ],
    "si": true,
    "score": 6.0
+  },
+  {
+   "id": "2ffe4272f3ceb727",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Labour's migrant deal with France EXPOSED - led to more chaos in the immigration system - AOL.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3Q0R0FQOGc3WGd1aWR3R0M3aEJuM0thSXN6YnUtS1YzeWNZUEM4Sy14a05mSXhQMElKWVk2Qk10SWhwa2VrWXVfbVNnSjMwc0I3Rm14dXo0OVV0aVdxLWIzdVg1NmhkMUY0NTl0TWQ4dFM0OUJuS0gyWjNLT1A0emItZFJ6eE50?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "AOL.co.uk",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-11-15T07:00:00+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
   },
   {
    "id": "1dc50be96d945851",
@@ -3027,6 +3137,35 @@
    ],
    "si": true,
    "score": 4.5
+  },
+  {
+   "id": "b90eb5419a485c29",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Can you guess how many permanent residents Canada plans to take in next year? - Rebel News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNGlqNW5HVlQtcm84cm41dXhVTUJ6OUg4bG1lYUtUS2NZZXMwSkRjVzlIZjBYUWFQT2hNYXFSdUVRWEZRS25JUFNVV2NNeUJYSlJuVXdFSzl3a3BRc0FXS01lcmlBLUc5S3dWNGVsMnpodGNqYnFsOFV2ZHVNZHZ0M3VHY0djeVNySkR2QVM3aGhaNEtEVmVrbFlTbFNzRS13T0Y4Sw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Rebel News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-11-14T00:35:06+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
   },
   {
    "id": "da24cbc67c1fdd1e",
@@ -6509,6 +6648,31 @@
    "score": 2.5
   },
   {
+   "id": "191520ad1a42b603",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Immigration minister admits Liberals brought in “too many people” - Juno News",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fZ0hxcmxEc1htMmdseWlGUk1zN3U2ZFhIRVJXX2l6aWh2T3ZCNjk3WUpZMVo3dU1iZzJMVTNsUUNyV0NjN0x3cGhqNnQ0NC1MWjZTU1AwbG9VaUE5U08xUVhuQjFEV3FSc0dja1FnamRSMnpzVHRiWENR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Juno News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-11-12T19:17:22+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "52d85ff30aed4be6",
    "src_group": null,
    "src_country": "US",
@@ -8061,6 +8225,35 @@
    "score": 1.5
   },
   {
+   "id": "5b782224198dd7c5",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada Plans Permanent Residency for 100,000 Workers and Their Families - Nigerian Bulletin",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSms4Zl83eHBRS19Ib1F4eTBEdjVGVE1TVFAyZ0puMmtyZ3owcU5Xbm9ueUpTXzVUdm1UT1VTZmE3TWZRU29zQnFmd1E5ZVVqdS1Dd1h6NlNCOWM3SmhXSXc3bEg5dFRrb25qbmNFYnYzVXcyY3dFSEJ4a1IwMVFxdHFJXzZxNHhOSGo4SWt0QXBCMmQybXRCOHVWbTZ2cWlzV21hQ21zSUJfZTJUeDRaRQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Nigerian Bulletin",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-11-12T07:29:53+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "31cb95cda553394a",
    "src_group": null,
    "src_country": "US",
@@ -8929,6 +9122,35 @@
    "programs": [],
    "si": false,
    "score": 0.0
+  },
+  {
+   "id": "23d406c038e17c0c",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Indian professionals eye greener pastures amid Green Card delays: Study - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNjNacTdJU01lOTN0bU5TZWZFTXFGM0tPODJGOTI1b21OVi1KNTRWWnd5aTRZR0ZVR0VtdFpsYUhhRGRDemRPMFhmcHBmUGxNZHZXR2FfRUg1ZXdkYU95S3hRb1hDY1pLeXQwaU44QTJIWUV4R2JxeXlsZ2NZUTY2QnN3S2FQazJ3X3hCY0locXM5NElhUmhGSTlJdC1TUVdRM3g5UzQ3dG5yRkNMbHcyLW1qNXBvOUgxcFpNdVhLSzY5bFJJOEpKX1JmcC1PaWxtUENpYVdHTzA2TDNSeXpkUNIB5gFBVV95cUxPRFNqR0lJcHg3OF8xM25qTm1aa0VXWHVqM1d1TVd2b2tCUkgyVDk3Ymdkdmtkc3hmem1XNWJuVmZqdkNPTjBvZm9vREtTUy1ZSnpZVWNHeWRzdkZXckxfMFl6YTVrX1lfSlZEZDc2NXJLaTZuX0l5ZjgzeU1fWXo1TU1mbFFocldpOWMtcHl6bzc4QksxU0VmLUgya2RVWG5ISEEyUGFpQUtLenZ6NkFHQlluMGJXODgxOWFhMWdQbVBHVkltQ29kRVVOTFpQMU9TZHhMOHh2QUZOc1ZiLURWZ2dmMS03UQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Times of India",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-11-11T18:38:00+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 1.5
   },
   {
    "id": "3e4cba4096c01c57",
@@ -10262,6 +10484,31 @@
    "score": 0.0
   },
   {
+   "id": "b2429807bdba2c2c",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Political row erupts in Gosport between the Conservatives and Reform over AI claims about immigration centre - Portsmouth News",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXNfNUhrYUs5Z24zWm51MFlES2VWWkEwa0xxUTV5YVo2TlRnVlhWTEhSS0JHMVdVUXZ4WEVLQlAyeWhtRmhPdEc0elYzMmRoekpqTDdwQUlQRnhCNi1YOUludVNLMkhxNEd3bTljOTFpcl90UTljVWVkenNNUlFYekI4ZWJNel9MMV84X0djSnhMRWVCUUd6M0lmdG9wdGFzZkJiTnJiellfV2Q5VENScWwzNmNKRE5VRzhwY0lDWQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Portsmouth News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-11-11T11:11:00+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "e752601864fe7f66",
    "src_group": "chung",
    "src_country": "AU",
@@ -11175,6 +11422,37 @@
    "programs": [],
    "si": false,
    "score": 2.5
+  },
+  {
+   "id": "78a05c610c2f9802",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "IBM Ends H-1B, Green Card Sponsorship for Most Roles in Consulting Division - Analytics India Magazine",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONExMbTBFelJYQUNhbDZsajFpaXB3QWZ1ZVVvS2lBbEVpejFFNTVCTm15Y0tHaFVuYmhoeDJnU1Z4cUdoTFpkSFNEZWF2UnlEaVhPS2xacm4tQ1VlaUxYbVpoR0NQb19LLUx0dmVrdWNqRjZQX1BwdUpBamVubTRzTC1KUTRYTFA3SG1qR1ZOTG5WZG9XRzlYdVZBa3BjM2dZTjU3Vk9iVnRuQWE3a1dMajJR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Analytics India Magazine",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-11-11T06:12:02+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [
+    "h1b",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 1.5
   },
   {
    "id": "8829ff7bf055dfb2",
@@ -21382,6 +21660,31 @@
    "tier": "press",
    "programs": [],
    "si": false
+  },
+  {
+   "id": "924c0da00539a617",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Uzbekistan places temporary visa ban on Nigerians - Vanguard News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWZzaENTSTR1WGR2cXdCNnZ3TXRjTzgzWkd3RTBTV1RpZEVfdW1BOHRSRU11Z1RSWGRabHhHMUgzR2Y0RERrUjQ3Q2pTTTdmX1N5VXZpQUZJdnNGRTFMNXVRcUFRY0VOdEF3bVJGWVdQYUJVU0tHN1BneHI4MWJVY1ozbmJoVjZfNXc2UFk1b9IBlAFBVV95cUxPZWpmcGQtY0NiOUJ6S1VlMHYwdDV3amJTNURhZWhMOXBMUkdxLWs5eGJYcmlHLXZGaEU4ZjhzNWxacmhlS1JlaVZfVjFhb0dTY3JZVzdlcVVGVHNMZUZCa21XS3RpR25oQ2lIMmUtVVVLUWNrMl92Qmt2RndZTE1ld2JtNXBTMXdJYTZCWnZxVGoxT2h4?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Vanguard News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-11-06T12:49:49+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
   },
   {
    "id": "a306215ef33014d4",
@@ -45283,6 +45586,35 @@
    "source": "us-visitor",
    "published": "2026-10-29T07:00:00+00:00",
    "fetched": "2026-11-13T15:25:43.542224+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "02fef0c5cc06e2f5",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Qatar Lists 4 Conditions for Foreigners to Get an Immediate Tourist Visa - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNjcyMEp2QTBqVFVFM0R5WHB1ZkZ0T0RmWm05VGQyZDd1d1FTYmQ5MEExVVl2RUVzT19IMHVDbm0xZms0RE1NUFBJWWxPVEpxdDdFY2RfOEg0c1c1LURuMzg2NkVjQm5jTXhZRU1zMlphdlBWOGFOaU84NDFoa0ltWkt1Vkh5SUsxU01WVmdiYnlld2J2em02ZjFWWQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-10-29T07:00:00+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
    "visas": [
     "visitor"
    ],
@@ -74497,6 +74829,60 @@
     "ca-express-entry"
    ],
    "si": true
+  },
+  {
+   "id": "c43bb0ab2cd7e2ef",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "European Self-Employment Visas You Can Qualify for on €2,000 a Month - IMI Daily",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZG5rNXQ4bFRfOEJhVVRfbUpJdlNQVVYxSEQ0NTlfZVNYVnRiLXI4ZXJDNkJ4MklPcVc3VjM4MWkyOFc3TGFLaHNPMmhyQWEyLVRUa1NYRE4yR0Etdm12enRpOEZPSTNkYV9KajVrcEpPWEpXaHY5dEl6dWVLdTB1MHN5NUdPdTJ1MzRkWURNUk9rV18yXy0yNC1KWU5URUNZVDNKTA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "IMI Daily",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-digital-nomad",
+   "published": "2026-10-20T07:00:00+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "agency",
+   "programs": [],
+   "si": false,
+   "score": -1.5
+  },
+  {
+   "id": "7991823216f7a30b",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Opens 5,000 Work Visa Places for Indians Under Two New Routes - Rus Tourism News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZE1IZXdiUU1RUHhkQUI0eWN4U0pLUzgwOVdrVWhvcnN3NmNUMTVDWnNVSWlZNTNCZjZLZnctRFNwU25yTk1EMVRJUWxYN0F1eFlvcXFiOEJhRUd3cm53M01kSXVYQ0RZdTVPOU5nY1J0UXZuWktQazg2ck5ESUFsOXB2bjF0czF1djdYUlczRWxnY3RWMUlsTEZUMU9YclRHZzd0anVHMTFWdFVoU0pYZFhORXd3Zw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Rus Tourism News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-post-study",
+   "published": "2026-10-20T07:00:00+00:00",
+   "fetched": "2026-11-16T00:24:18.084952+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 1.5
   },
   {
    "id": "54e46fe59ba3358d",
