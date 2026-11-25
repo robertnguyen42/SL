@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:22:04.032040+00:00",
+ "updated": "2026-11-25T02:48:46.597589+00:00",
  "taxonomy": {
   "AU": {
    "name": "Úc",
@@ -334,7 +334,7 @@
    "id": "nz-en",
    "name": "Google News – NZ Immigration",
    "ok": true,
-   "count": 26
+   "count": 40
   },
   {
    "id": "au-gov-immi",
@@ -352,7 +352,7 @@
    "id": "us-gov-uscis",
    "name": "USCIS – Newsroom",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "us-gov-state",
@@ -388,7 +388,7 @@
    "id": "cb-en",
    "name": "Google News – Quốc tịch đầu tư Caribe",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "id": "us-travel-vn",
@@ -412,7 +412,7 @@
    "id": "eu-travel-vn",
    "name": "Google News – Du lịch EU cho công dân Việt Nam / ĐNA",
    "ok": true,
-   "count": 10
+   "count": 28
   },
   {
    "id": "nz-travel-vn",
@@ -424,13 +424,13 @@
    "id": "ae-travel-vn",
    "name": "Google News – Du lịch AE cho công dân Việt Nam / ĐNA",
    "ok": true,
-   "count": 16
+   "count": 10
   },
   {
    "id": "us-du-lich-vi",
    "name": "Google News tiếng Việt – Visa du lịch US",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "id": "au-du-lich-vi",
@@ -466,13 +466,13 @@
    "id": "au-skills-in-demand",
    "name": "Google News – Úc – 482 · Tay nghề tạm trú (Skills in Demand)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "au-employer",
    "name": "Google News – Úc – 186 / 494 · Doanh nghiệp bảo lãnh",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-skilled",
@@ -490,13 +490,13 @@
    "id": "au-graduate",
    "name": "Google News – Úc – 485 · Tốt nghiệp ở lại làm việc",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "id": "au-investor",
    "name": "Google News – Úc – 188 / 888 / NIV · Đầu tư – Doanh nhân",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "au-partner",
@@ -508,7 +508,7 @@
    "id": "au-parent",
    "name": "Google News – Úc – 103 / 143 · Bảo lãnh cha mẹ",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "id": "au-citizenship",
@@ -526,7 +526,7 @@
    "id": "au-sheet-chung-2",
    "name": "Sheet – Úc – Chung các loại (2)",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "au-sheet-chung-3",
@@ -538,13 +538,13 @@
    "id": "au-sheet-tay-nghe-1",
    "name": "Sheet – Úc – Tay nghề (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-sheet-tay-nghe-2",
    "name": "Sheet – Úc – Tay nghề (2)",
    "ok": true,
-   "count": 32
+   "count": 40
   },
   {
    "id": "au-sheet-tay-nghe-3",
@@ -562,19 +562,19 @@
    "id": "au-sheet-dau-tu-1",
    "name": "Sheet – Úc – Đầu tư (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "au-sheet-khac-1",
    "name": "Sheet – Úc – Khác (1)",
    "ok": true,
-   "count": 30
+   "count": 40
   },
   {
    "id": "us-eb5",
    "name": "Google News – Mỹ – EB-5 · Đầu tư định cư",
    "ok": true,
-   "count": 40
+   "count": 34
   },
   {
    "id": "us-eb-work",
@@ -592,19 +592,19 @@
    "id": "us-l1-e2",
    "name": "Google News – Mỹ – L-1 / E-2 · Doanh nhân – Chuyển công tác",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "id": "us-student",
    "name": "Google News – Mỹ – F-1 / J-1 · Du học – Trao đổi",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "us-family",
    "name": "Google News – Mỹ – Bảo lãnh gia đình (F1–F4, IR)",
    "ok": true,
-   "count": 40
+   "count": 15
   },
   {
    "id": "us-visa-bulletin",
@@ -616,19 +616,19 @@
    "id": "us-green-card",
    "name": "Google News – Mỹ – Thẻ xanh – Điều chỉnh tình trạng",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "id": "us-citizenship",
    "name": "Google News – Mỹ – Nhập tịch – Quốc tịch",
    "ok": true,
-   "count": 31
+   "count": 40
   },
   {
    "id": "us-visitor",
    "name": "Google News – Mỹ – B1/B2 · Du lịch – Công tác",
    "ok": true,
-   "count": 40
+   "count": 33
   },
   {
    "id": "us-sheet-chung-1",
@@ -640,7 +640,7 @@
    "id": "us-sheet-tay-nghe-1",
    "name": "Sheet – Mỹ – Tay nghề (1)",
    "ok": true,
-   "count": 32
+   "count": 25
   },
   {
    "id": "us-sheet-dau-tu-1",
@@ -652,13 +652,13 @@
    "id": "us-sheet-dau-tu-2",
    "name": "Sheet – Mỹ – Đầu tư (2)",
    "ok": true,
-   "count": 7
+   "count": 5
   },
   {
    "id": "us-sheet-khac-1",
    "name": "Sheet – Mỹ – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "us-sheet-khac-2",
@@ -670,25 +670,25 @@
    "id": "ca-express-entry",
    "name": "Google News – Canada – Express Entry · Tay nghề liên bang",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "id": "ca-pnp",
    "name": "Google News – Canada – PNP · Đề cử tỉnh bang",
    "ok": true,
-   "count": 35
+   "count": 37
   },
   {
    "id": "ca-startup",
    "name": "Google News – Canada – Start-up Visa · Doanh nhân",
    "ok": true,
-   "count": 10
+   "count": 18
   },
   {
    "id": "ca-student",
    "name": "Google News – Canada – Study Permit · Du học",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "id": "ca-work",
@@ -700,7 +700,7 @@
    "id": "ca-family",
    "name": "Google News – Canada – Bảo lãnh gia đình",
    "ok": true,
-   "count": 40
+   "count": 16
   },
   {
    "id": "ca-pr-citizenship",
@@ -718,7 +718,7 @@
    "id": "ca-sheet-chung-2",
    "name": "Sheet – Canada – Chung các loại (2)",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "id": "ca-sheet-tay-nghe-1",
@@ -730,13 +730,13 @@
    "id": "ca-sheet-tay-nghe-2",
    "name": "Sheet – Canada – Tay nghề (2)",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "ca-sheet-dau-tu-1",
    "name": "Sheet – Canada – Đầu tư (1)",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "ca-sheet-dau-tu-2",
@@ -748,7 +748,7 @@
    "id": "ca-sheet-khac-1",
    "name": "Sheet – Canada – Khác (1)",
    "ok": true,
-   "count": 27
+   "count": 30
   },
   {
    "id": "eu-golden-visa",
@@ -760,7 +760,7 @@
    "id": "eu-citizenship-investment",
    "name": "Google News – Châu Âu – Quốc tịch đầu tư (Malta…)",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "id": "eu-blue-card",
@@ -772,13 +772,13 @@
    "id": "eu-work",
    "name": "Google News – Châu Âu – Giấy phép lao động · Thời vụ",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "id": "eu-student",
    "name": "Google News – Châu Âu – Du học châu Âu",
    "ok": true,
-   "count": 40
+   "count": 28
   },
   {
    "id": "eu-digital-nomad",
@@ -790,7 +790,7 @@
    "id": "eu-family",
    "name": "Google News – Châu Âu – Đoàn tụ gia đình",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "eu-schengen",
@@ -808,19 +808,19 @@
    "id": "eu-sheet-chung-1",
    "name": "Sheet – Châu Âu – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 36
   },
   {
    "id": "eu-sheet-chung-2",
    "name": "Sheet – Châu Âu – Chung các loại (2)",
    "ok": true,
-   "count": 40
+   "count": 31
   },
   {
    "id": "eu-sheet-dau-tu-1",
    "name": "Sheet – Châu Âu – Đầu tư (1)",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "eu-sheet-dau-tu-2",
@@ -832,37 +832,37 @@
    "id": "eu-sheet-khac-1",
    "name": "Sheet – Châu Âu – Khác (1)",
    "ok": true,
-   "count": 16
+   "count": 40
   },
   {
    "id": "eu-sheet-khac-2",
    "name": "Sheet – Châu Âu – Khác (2)",
    "ok": true,
-   "count": 17
+   "count": 9
   },
   {
    "id": "eu-sheet-khac-3",
    "name": "Sheet – Châu Âu – Khác (3)",
    "ok": true,
-   "count": 19
+   "count": 9
   },
   {
    "id": "nz-smc",
    "name": "Google News – New Zealand – Skilled Migrant · Định cư tay nghề",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "id": "nz-aewv",
    "name": "Google News – New Zealand – AEWV · Doanh nghiệp bảo lãnh lao động",
    "ok": true,
-   "count": 11
+   "count": 17
   },
   {
    "id": "nz-investor",
    "name": "Google News – New Zealand – Active Investor Plus · Đầu tư",
    "ok": true,
-   "count": 10
+   "count": 22
   },
   {
    "id": "nz-business",
@@ -874,7 +874,7 @@
    "id": "nz-student",
    "name": "Google News – New Zealand – Du học NZ",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "id": "nz-post-study",
@@ -886,7 +886,7 @@
    "id": "nz-family",
    "name": "Google News – New Zealand – Bảo lãnh gia đình · Parent Boost",
    "ok": true,
-   "count": 4
+   "count": 6
   },
   {
    "id": "nz-residence",
@@ -910,13 +910,13 @@
    "id": "nz-sheet-dau-tu-1",
    "name": "Sheet – New Zealand – Đầu tư (1)",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ae-sheet-chung-1",
    "name": "Sheet – Dubai (UAE) – Chung các loại (1)",
    "ok": true,
-   "count": 40
+   "count": 20
   },
   {
    "id": "ae-sheet-chung-2",
@@ -940,7 +940,7 @@
    "id": "ae-sheet-khac-1",
    "name": "Sheet – Dubai (UAE) – Khác (1)",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "ae-sheet-khac-2",
@@ -952,13 +952,13 @@
    "id": "cb-grenada",
    "name": "Google News – Caribe – Grenada · CBI",
    "ok": true,
-   "count": 18
+   "count": 40
   },
   {
    "id": "cb-st-kitts",
    "name": "Google News – Caribe – St Kitts & Nevis · CBI",
    "ok": true,
-   "count": 40
+   "count": 24
   },
   {
    "id": "cb-antigua",
@@ -970,22 +970,403 @@
    "id": "cb-st-lucia",
    "name": "Google News – Caribe – Saint Lucia · CBI",
    "ok": true,
-   "count": 14
+   "count": 16
   },
   {
    "id": "cb-dominica",
    "name": "Google News – Caribe – Dominica · CBI",
    "ok": true,
-   "count": 20
+   "count": 23
   },
   {
    "id": "cb-regional",
    "name": "Google News – Caribe – Quy định chung CBI Caribe (ECCB, OECS, EU/Mỹ)",
    "ok": true,
-   "count": 33
+   "count": 32
   }
  ],
  "items": [
+  {
+   "id": "cfd5d4a498fb8130",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "GDRFA Dubai launches world’s first Knowledge Readiness Accreditation - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVV4WEdXdTJiVmI0czFGanFScWNQVHBZTTB2aVhObkI2Umpnd0VUZFh3djBsRVdxWlBGQlBqZHN1MVFjUFdJTGZpa2tveG03ekJqc0VuQ1ZVM21zSW42SFRaYXEzYm1oaWJhZ0xmWVRva1hucDlvNk96dXplTFNzalVzak9vZ2c1bzgyVElNTkNQbVZ3QjVBMHFCRVZtOFVCTGVrdGZyWkZfOXBLVkhn0gHCAUFVX3lxTE1taDRCLXFsckhLOWxpczVHaDl5SUdoVVNZaVBxTkJhMWZUY1B6YV9LRFBXUTBRMGtHTGxoa015N2s3OG1JcTVQaTFSdUdPUDhaX3Q4STJ0dWhuN1BhUDk1ZEtGSDZId1JsdVEycWQzUkZVNXVlTjZZTlJwSVpacFJoN2c5bGZ6RmEyOHZzczRnNkllUFFOMGVtQUdDVmhxN2hLWWstcnc1MG1OeDhZVFdJc3pQekxDaW9mZW1RMU1YYlR3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Gulf News",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-11-25T02:21:31+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
+  },
+  {
+   "id": "4a5d3e7655bf2559",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Australian Immi App Hits 52 Countries: Easy Visa Biometrics - NewsCop",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NMWRTYVpNNENPYmN6cWM4R3hrN3RCRWtsbWgtTHI0UEx4Zy1BZXNiWFdYUXFTaEtzNkQ2eFlkaWYzSlhLUk1qVFdFOGpLWW00TnozRDZSTGdxMXJjU0RsVGt2TUxjRzM4ZXMzT3E2b0dHVjM5NVY2MTRZbHc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "NewsCop",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-11-25T02:00:28+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "2016a2fe08674e51",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Online Visa Platform, Issa Compass, Expands Beyond Thailand With Tourist Visas for Vietnam, Indonesia, Sri Lanka, Cambodia and Laos - USA Today",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMEw5anRoelk2d2VtNDdUWGtTN2pobTFiZUdkSUYzcm5TVXRhbXVyQmp4TmZISlBzbUlHVjFTdE1IbF9jLVkydlRzTjhSSUY3ZzZtc1d1dVVTN2FCVlVQeXV6Ui1sZDhfUFJOaHNIdjR2YUp5R0JXZ1lXYVhXZlNYbmM5RUNKVDkyVlA5Q2F1Z184UnltbU8zUGEyd1pPclhKZlUwTjJMbTNKdjNsd2ZnbVhfVFdwTnAtM25XRUw5c2RHWnpmeEwyMXhNZGpQZFd1QlFkT2tGZDBpRXR1NVNWSk1ZTHJtcDhLdDRBSTZqcGRRUmJRczhBSG1zSXo1dWgxc3JFVkZIbTRFZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "USA Today",
+   "country": "US",
+   "type": "news",
+   "source": "us-travel-vn",
+   "published": "2026-11-25T01:34:05+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
+  },
+  {
+   "id": "c291da9f66210861",
+   "src_group": null,
+   "src_country": "US",
+   "title": "DACA Renewal Delays Stretch Toward 7 Months as Work Permits Lapse - immigration-analytics.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnFLc2F4WWJGYkVtN21QbEhjckdEcVUwVzFfdF84eDhIb2JKREpibEROMzFEV1N2X1VHVUtZTzRrcm9CYzFfa09DUGxkdVIxZFFqeDctN0RRNzItWHdhOWw0dWpoMUgyMmJHY2xBSzQtamJCNWl6YTNzRE53ZUFjWHVXbGM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "immigration-analytics.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-11-25T00:44:55+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "9af8c9c1a692e8b2",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Family Residence Card Malta: EU Route or National Reunification in 2026? - Global Advisory Experts",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcXJOUHM0ZURKRnJCRE8tY3BfeTRrcEVlNkd4RmU1eTRyd0lVdXdoX3dpSXF0MlZwc0VDaDRvN3FEdVljOE9ndmZQUTI1RDdSWXVieU1Ka2xUcWV6UU1jcV9CaTRWRWpsNGx5QjVHeVRSWnNHakJvOExCMUktZmlTczljbjhadFNLNGl5eVhPTEM?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Global Advisory Experts",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-family",
+   "published": "2026-11-25T00:09:17+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "fcd91a56245aecc1",
+   "src_group": null,
+   "src_country": "US",
+   "title": "The current citizenship test is not doing its job | Blaze Media - Howl.Link",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB6d2hycVhSbVhIVmwzeE8xWkduZ1FmZ0R6Ym81UGsyVkRIeEhyaVotZlIzRlVmaTQ5UWRZ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Howl.Link",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-11-24T23:23:15+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "78ab05af7287ed7b",
+   "src_group": null,
+   "src_country": "US",
+   "title": "USCIS Tightens Green Card Requirements: Which Public Benefits Could Affect Your Application? - Parriva",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0FEVUh1YkZUQmhNdWxDeWxRQ2VFMDlKUHlUb1BHYzBzUFVCMkFuVVVVZjZtSU9EU0xTNENpYlJtcTFibGhzTGUwU1FKdk9tT1VNZE81aWdfZHVSN0RJY19aNEhWWU4ydFVweUlvcnNFS1FfYkh0TjMxZlJvSWVIdmFn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Parriva",
+   "country": "US",
+   "type": "news",
+   "source": "us-green-card",
+   "published": "2026-11-24T23:04:50+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 4.0
+  },
+  {
+   "id": "484b0ca350b57c03",
+   "src_group": null,
+   "src_country": "US",
+   "title": "N-600 Lawsuit: Second Circuit Revives APA Claims in Alzokari - immigration-analytics.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmNPQU45SEc5ejloVmc4N3g5X0ZsYVNCcUNZX2dxdGJMUC15Zi0tN0tKbTBmbmxYMFZXajdrTE9pSXVKNFgxbjFFYVg1N19DRC1LUXRQUU1CdVE2TlZrazQzSmFXQWhFT0pCanFveDFYNVNhQWJIWEVIYlpuaDg5S1hyNEJiZzc1amRj?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "immigration-analytics.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-family",
+   "published": "2026-11-24T22:54:50+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "8428e9cd93e155b5",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Minister defends 2027 permanent residency plan, says 'vast majority' are already in Canada - CBC",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXZtWU1xcW9CaGtuUjBCTWxSVkZ3dGl3OE5DNzJvUHl3Q3FzRXB3M0p6OExKZXZobEVMNUlHX2hsSjEzYUozSXFMZi1iR1hGRWZjR3h0UElSaGNobW9QenhvRU42SnRSYlFCSW9IS3p3SmZ1djZOclVoX0dJRzdSMkFDLUt6YVl2?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CBC",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-pr-citizenship",
+   "published": "2026-11-24T22:25:18+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "d8deb18bd544628b",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Opens 1 Visa Category, Names Eligible Foreigners That Can Apply - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkFuaGc0OU9XaC1aNElOSzllbExKN2I4VHlvT0NodEkwRWhXMElhclMyeDIxaVRMa3JzdkRadmx4Um9vR1pTYWQ1OUNaalFiOXRZWVlSZnNURUx5YjhYTFdyRzg2NlJLWlRWb2dxeDJPRG91QUxEZFIzY21WbTBzM2JUZXRHZlh6NEVRcWstRW9EOVVibGwzei1vWEx6cWpLdFA0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-11-24T21:15:31+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "1c6d60c7d54d8374",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "Board Says Medical Exams Must Come Before Green Card - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MWUFjVjFoYnpzQ21FcDhVOTNEWC1BdnBJWFBCTVBBNTlRd0p0S3lXNlJ5dDNzc1dXRGlKWFlRSjN1VDdhS0ZieWE4ZHBMWGNhcjdDSmtB0gFWQVVfeXFMTUxZQWNWMWhienNDbUVwOFU5M0RYLUF2cElYUEJNUEE1OVF3SnRLeVc2Unl0M3NzV1dEaUpYWVFKM3VUN2FLRmJ5YThkcExYY2FyN0NKa0E?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Law360",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-11-24T20:48:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "green-card"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 1.5
+  },
+  {
+   "id": "8eadbdca64115f37",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Visa backdown offers relief but workforce uncertainty remains - ANZ Bloodstock News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ25RNlY2RTRwMy1QdnFzeEVpSHR2UDlKelhlUnl4dXhaUUNwZ2VDd3Q0THFfNEpSQVl0SDdXR09hSkxHRVZIa2QwVm44SVJPZV95R2tKNXc4b1BNSnFIMHZkUG1OcFcxeklCRFFEYy13UGFYdVdUVVozTmY1UEwzVk1CQTRaS2NTOWZYTk1VbVJPQkQtT0NoV3RXYm0?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "ANZ Bloodstock News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-11-24T19:11:10+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "b82dc520186fd4cd",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Tourist Visa Costs 2026: Fees for 6 Destinations Compared - FTN news",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbW4wbldQUE1SeUxoVWlMUzB2aTk0cV80Z21xMUhkVU9MaFU3Zk9CRzAzckEtRHM5MVVxUFRzRmdmWGNOVFV5REE5cF80OVUxczU4RkFsMFI1Vmt4YjF3dmFqTzNnSVZmaW5hcGN1T2VncXlGYjFmZ3dwWU5yZnlXWEJJaTZIWXdycE8tX0Y3dF8xZw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "FTN news",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-2",
+   "published": "2026-11-24T18:40:40+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "chung",
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
+  },
+  {
+   "id": "96710740c43b38cc",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand’s migrant workers face new AEWV rules in 2026. What has changed? - The Daily Blog",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZG5JMUwxQ093cjB6N2x5bi0zTXF1T0YyZEl3LVVoVHVqcS1QTXg1X29QSmdRUTdwdVZiVU41eUR1bmVZcVk3bkM3RlBCNnRJamdaUGJGMzlXNjB1M3pRWG9KLU4zSXJmTVctSkR0LUpIaGVlOUs1TkswdnBFcDFiZXhicU5aY01SNGxNZEgzTzJJWUItZjg0cENpdS1neFRCTG80?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Daily Blog",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-smc",
+   "published": "2026-11-24T18:22:07+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "aewv"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 4.0
+  },
   {
    "id": "0277a73749a23532",
    "src_group": null,
@@ -1168,6 +1549,31 @@
    "source": "ca-family",
    "published": "2026-11-24T16:40:02+00:00",
    "fetched": "2026-11-24T18:22:04.032040+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "7cbc2a4eff21456a",
+   "src_group": null,
+   "src_country": "US",
+   "title": "MyCaseHub: A Comprehensive Guide to USCIS Case Tracking and Immigration Updates - dailycurrenthub.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qb2tySVNldWJ3UTF1ZzNQXzY5cWo5Nl9NUlA5NUJpUFJxUXRnbnJRUnM5YU9MeHR2b2pjM0NqU1IwMkhNaDFBVmtPTWNRWTM1cUE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "dailycurrenthub.co.uk",
+   "country": "US",
+   "type": "news",
+   "source": "us-en",
+   "published": "2026-11-24T16:25:36+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -1437,6 +1843,31 @@
    "score": 4.0
   },
   {
+   "id": "493fa9cb506b7deb",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Politico: Seven EU countries have called for a travel ban on athletes from Russia and Belarus - LIGA.net",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUs0cWsyMEM3dEhPY2U0Y09rWXhyU1U4QkpfMk04VWFHVnZDcEtvTVRXU0c5bE1BSjQ5VnZyQVV6OTdJcnZsVUNoVURNTnk5RHJLTkNrVHZ2blNNVTV4TXFqZGkwUHlXV3BBZ0NtZThFUFNVUzNlaW1wN2pMTHctaUo0TG1qdmF4b1RMUjZtcHRmWlNGZjlCVGJsQnpzV2NMUmMtTHFaZzAxZXNoSGJaT09QSVNwUUNMdURXWmp6RjJxTnREcVZHTU1n?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "LIGA.net",
+   "country": "EU",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-11-24T14:27:51+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
+  },
+  {
    "id": "ba5a28c7caca0111",
    "src_group": null,
    "src_country": "US",
@@ -1450,6 +1881,56 @@
    "source": "us-en",
    "published": "2026-11-24T14:20:49+00:00",
    "fetched": "2026-11-24T18:22:04.032040+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "c8f1e5ea6cdcb0b4",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Publishes Age Limit for 4 Nationalities to Participate in Permanent Residence Ballot - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNallfUDlXUXhjd1d1cHByakdWcVZCWm9hR25CU0Y2c18wenV1bUFjYU1Db0ZhQmxsQWdIeWY1azNWSGJ5OVd4VzhidHhDQWEwajNUSnJqZFU2VURXbWpQcnhnTzdjblpqaXVVZkdQMndLTVFZa0ZSZUZGdnhpQVhsclRxZ0dkOThqMk1kSTEyc2FlR1c4WjRCYU5UWWo3ckh6X01qZUZ1X2Y4TVJF?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-11-24T14:13:38+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
+  },
+  {
+   "id": "fec98eb1dcbcaaa6",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Publishes 2026 Permanent Residence Ballot for Eligible Citizens of 4 Countries - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWG9TeE5KMlZhOVExR3c4QWcxLTZ2MDVHMHJXU3B0S0NEVmRobVlJR2lKa05rVVZuejYtUkpsNHp6OFRQQkpPWlRZZWhocVNUNGM2T2JmTWVoV0lHcGY0cGRHNUVXVTE5d3ZIR3JPaWZ4bkNMQWZmcnNPSHRUbnZYQ2hfN3lHZmZ4MW43d2R6ODBTY3ZzcUJZTlIzekZveWJwR3BqdmlfQ2Y?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-11-24T14:12:37+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -1552,6 +2033,58 @@
    "score": 0.0
   },
   {
+   "id": "8333baf5a3de5245",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Mentions Age Limit Citizens of 4 Countries Must Meet to Qualify for Indefinite Residence - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVEREakoxR01ua3VqVW5FZ3VQWElTaVRKV3o2YmFVaUxwM3BWdXlQV1EwRnZlTDV1dnNfSVJ0ck85eV9YdldqcXdZTGtiWWJ4MHBKVlUwMkNBa3VDSklGSDktcU1Gck8zbldSMVpscEd2QzdzU2VfOXpsa2tsZlUzZ2R5UmhvT3EzTWExZ3JBNVV6bW1TQ3YwRkhLZU5iM1F2b29GYjdNU210a0d5SWJMSjhGdnJlVzh1NHVhMUJpVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-en",
+   "published": "2026-11-24T13:27:05+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
+  },
+  {
+   "id": "5524b19856f380c3",
+   "src_group": "khac",
+   "src_country": "EU",
+   "title": "Daon adds identity checks for EU anti-money laundering rules - SecurityBrief UK",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNzl4bW8wcWVPeFJvVFBRbXpqem9PMk9kNnFUTVZTTG85RWFLdHdPSVRKa0hoLWdxV1BySmVFTjlDb2RJbC0yTjB4cDVyRlNDcFBnbEtra2M1c2JYRWx6ZG04dUE3cXhDWHprWHpyUFdLOUt6Zm1wYXgtcDV4UGlzU2E3RHdDelRqQkR1UnVWT242blBKM20zMEtn?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "SecurityBrief UK",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-khac-2",
+   "published": "2026-11-24T13:12:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
+  },
+  {
    "id": "f2848486c39badc9",
    "src_group": null,
    "src_country": "US",
@@ -1612,6 +2145,31 @@
    "score": 4.5
   },
   {
+   "id": "f62ef8060013fccc",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Propaganda Press Downplays Illegal Aliens’ Decade-Long Visa Overstay To Vilify ICE - The Federalist",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSDIzNEZ2NDloY2plT1dPbDRBNjRDd1A3NnI2cWx3WkRIR3haYVJabVF1VENXQjg1bUdaMWZZYWhGQTRBZUpyMHRCZmJRb05YVWhQdU0xS3lBYjd3eVpLd1IxbkdsNHdjck1nWW1WQ2JmYkI0dmxnZ0dTUmlxeEFYb1FGZG9neVZ2TnI1R3lqcGt5d2NsTWZUSnFiMnA0RmFHc01pZGkzUGRWZjFfc1Q4STRfVk1vLTZ1RmZj?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Federalist",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-11-24T12:39:06+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "1fb9a177d2cad6e0",
    "src_group": "chung",
    "src_country": "US",
@@ -1637,6 +2195,33 @@
    "programs": [],
    "si": false,
    "score": 0.0
+  },
+  {
+   "id": "c1589aa01e5f5a01",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "The court lifted the foreign travel ban on Sertaç Taşdelen, the owner of Faladdin. - Haberler.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcEE2QXNRaVd2bkppcjBjem51bGRRRU9tN2NJQXNFV29yWS1JTnlVWE5yOFNaQUlISWdWbFo4ZmdFOU9hX2l4ZGNvMjJiTU13V0F6VkpyRWlUcEtON1FHa1l1Tms5WEtCVm50aDRHbk1DaC1KN0VMM09UeUhySldFNWxEQjBRNEZp?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Haberler.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-11-24T11:57:57+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
   },
   {
    "id": "f248f56575045aa2",
@@ -1803,6 +2388,31 @@
    "score": 2.5
   },
   {
+   "id": "2f2e27a244062cca",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Mongolia to End Visa-Free Entry for 34 Countries on December 31, 2026, Releases List - Legit News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMm4zbnNrYlNTWWV4OTljWFp5NlB6Vnl6T1MxejlLQ2lxNUhNa2RGTjBDUWZsS3RGSFBPdzY5cHhJOFZ5OTBIR3MtOEdDcm5PTnZtM3NqMENUNmQ1SGVmbUt5LUxmeUd4WDRDYzMxdmo2MUFwMkhsZ0RfQnFGUXRWeWlrbVlfd1pISnZZN3JTYmdieUR6elY5ekNFYXJjSEtLQ0w3OFJNVQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legit News",
+   "country": "US",
+   "type": "news",
+   "source": "us-visitor",
+   "published": "2026-11-24T10:49:24+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
+  },
+  {
    "id": "93a4363db483344c",
    "src_group": null,
    "src_country": "NZ",
@@ -1883,6 +2493,35 @@
    "programs": [],
    "si": false,
    "score": 4.0
+  },
+  {
+   "id": "a176b9731bac8820",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "UK Skilled Worker Visa Applications From Abroad Fall 42% - Workpermit.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY281MzRTbkEyZGR1amY2T2pSVmlFaFl4d1VFamhTV3c5QUh1SGNTS2lUdEtySkVpUmx0Y0xGaEdzUjBxN2FhOFdOMlhZVG1JcGREZ01yYjdGZHZsdktrWklvM3FSdG5IOG05a0tlZldkRnRaU3ZScU9PRldfdVl6VnpOS0IybVhMMDlN?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Workpermit.com",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-uk",
+   "published": "2026-11-24T09:00:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "uk"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
   },
   {
    "id": "6dd76018186ec810",
@@ -3306,6 +3945,31 @@
    "score": 0.0
   },
   {
+   "id": "b5f33e0dac9607d1",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Memoir by Visa-Denied Author Wins National Book Award - Wisevoter",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVdPOFE4WGpOcHhqeURSZ3V0TDhJSzBqeFpLMzdCODBZa3ZNZjNBR1laMXdweUFZYXh1ekRqQzBkai1sTEZieFdIVWo5anFHa2d1NWpCNUVzYkRXdDk4RC1yRFJ4VUZXVTlSU2FVMWpWYUIzUVdsYjBITmM3V2hVWTNZZlExdnE3?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Wisevoter",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-11-23T17:04:28+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "9630dee35f14e829",
    "src_group": null,
    "src_country": "US",
@@ -3414,6 +4078,31 @@
    "programs": [],
    "si": false,
    "score": 0.0
+  },
+  {
+   "id": "532731519a32d338",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "The EU is preparing a travel ban on Russians as part of its 22nd package of sanctions - UkrMedia News",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6WVVha0R2aWFvdm8xaXlidmdGX1FYYXJLQlczSENMRTNTemNiWUY2UzRKS3NkbXF4eDN1b09DVExSVklXZUFwTERZbU5wZllZcklWY1dxQWdEYVowVUE1eTRkcWlOemQ1ejhIRko2eUpBMjR4cnVudXZrajE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "UkrMedia News",
+   "country": "EU",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-11-23T16:40:04+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
   },
   {
    "id": "932c0ca68bfe1d7a",
@@ -3876,6 +4565,39 @@
    "score": 6.0
   },
   {
+   "id": "3272a06d20dc18d5",
+   "src_group": "chung",
+   "src_country": "US",
+   "title": "U.S. EB-5 Investment: Green Card Approval and Fund Exit - The Courier-Journal",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2lrbWFlWURfbTFtMWJMVEVBMFBrVjk0M0Z1NU13RWlQaXhVVE91b3daVkRHMEtlRXV0THpNV1NRUU5BNE04ZkJaV0lieFc4Um1LN3JXQTlPSm9IX29rUnRVRldrdjVqbG4zNW1nRlAxV3VwcXJ4bHJ1YVBWdTRxTlpINVl3elREek1kS2RnWk9qREtNUVhwTnI5VnpxczRKSWc3SlJHcE5GaXFnc0lIQlFRTQ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Courier-Journal",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-chung-1",
+   "published": "2026-11-23T14:58:53+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "eb5",
+    "green-card"
+   ],
+   "groups": [
+    "chung",
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "tier": "press",
+   "programs": [
+    "us-eb5"
+   ],
+   "si": true,
+   "score": 3.5
+  },
+  {
    "id": "f5c86f2cd624a990",
    "src_group": "tay-nghe",
    "src_country": "US",
@@ -4081,6 +4803,31 @@
    "score": 0.0
   },
   {
+   "id": "92a09031d9eb155d",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "EU Council adds The Base founder Rinaldo Nazzaro to terrorist sanctions list with travel ban and asset freeze - Cyprus Inform",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaEVXYTNfMGpvLWY5My1fanNHMmg5RkZpS29yRjJEa3kyZlQ5dTg5OEtqQ1ZXMWhSaDlwMFZCcGRIX2pJVjF4WXNrZ1JhQzdnV20tWGYwclgwN29SSkV3NkpQdnhHQXh6MG82a3hNZ2t2NWFta0RWakxMb0RjMGZzRjVSSFZhTDY5NHpOakVwc2tqaTdGNWhOSkxiVm5KalpueEFpeG9Rb09FdkxLRmNZQ0ZUMlhxSEtkWEhPS01UMGRhS3VXb1FNbDZFaG85TmxkalVlYkJUTk4tTERXMWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Cyprus Inform",
+   "country": "EU",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-11-23T14:02:01+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
+  },
+  {
    "id": "aa446165cdc9987a",
    "src_group": null,
    "src_country": "US",
@@ -4272,6 +5019,60 @@
    "score": 4.0
   },
   {
+   "id": "8b6a18ae65590d7d",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "Krasnoselski challenges Moldova's five-year travel ban - Radio Moldova",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGduZGROWlRmaDZ6Q24xall5NDBKaHdlUVR0RHdkZEhva2FfQkF1NWRtT1VlR0dsNnZIV21ndV8yamdNcEtkZ05TdHMwOTU1U2tVRm42Q19EaWQzS3hCVDNrWnNHODMwb0tvcVpVOFNLUXQxaHZFUXF6R2c0TWdHUkdwS040UTZhbWV4VmM2aw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Radio Moldova",
+   "country": "US",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-11-23T12:01:34+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
+  },
+  {
+   "id": "94210603e4877930",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "UAE Spouse Visa Requirements 2026: Salary and Steps - Global Advisory Experts",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOek1UR08yYUgzdzdMN0pVM2NaTk5GQ3BkOE5WZ2hFVGdvLTFMZmtoUlFUY3hDSENUQkRQNDlGQXBvNzJndEtvZjJ2U0E0cDZzRUNoWjk2M1dxVVkwVkNxcWIzZ29ZZHdiUHJTOGxmVkJCRU1iYVY3VW5RRGNtQWRtaW0zZVJhbzhhcVFFWGtUOXV5TVlCaXlpNTVB?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Global Advisory Experts",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-11-23T11:46:38+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "673b836179cc0d73",
    "src_group": "chung",
    "src_country": "US",
@@ -4386,6 +5187,31 @@
    "programs": [],
    "si": false,
    "score": 0.0
+  },
+  {
+   "id": "1d27d6666a30effb",
+   "src_group": "khac",
+   "src_country": "US",
+   "title": "UAE travel ban check: How to check your status online for free - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcEpLbHN4R3JqZHI5bzNFRFFLcXRDYVZHRFRyeFp6Tkd2X2dDZmJ3aHpqR2FaeUJsWnVBeHl6aHpQYzlUeEQyRmlPdkkwYmlxOW1ldUxNeU8zM1lWcm9BcEtWSkFwcHZRb21hbWdQZFcxMl9iUjlRLVZIakhIbFJ5MTBuUFRVd2d2NGpDOUpkWV92d3d0NzA3Q2Zn0gGsAUFVX3lxTE9VTFY1T0twdTd4b3dSSXU4SXJnX0JIVGxrYjBvTFFCUkRvam91M19oZEE2MWdEaUpJQWhyNlhNdnJqdzU4eVZJb1pCMURNRHpBYi05OWFCTHFQaDZRQ0UwRjlNTWRnZTBCX3FleTBwbEtZNEpwVGVaZDU5djhVYXZQMWlpcUp2b1V1Q3VQWENGdVc3cG5TVWs2T3JPa0FWVGJZZ1dXeWxyckg3Qkg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Gulf News",
+   "country": "AE",
+   "type": "news",
+   "source": "us-sheet-khac-2",
+   "published": "2026-11-23T11:19:16+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
   },
   {
    "id": "ad69c2eeb5077ea9",
@@ -4816,6 +5642,35 @@
    "score": 4.0
   },
   {
+   "id": "7f5c92f8a05bea77",
+   "src_group": "chung",
+   "src_country": "EU",
+   "title": "India Emerges 3rd-Largest Schengen Visa Market, Switzerland Top Destination; Slovakia, Greece Among Highest Re - Times Now",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWEFUNmtyRUhzSnE0Ry1kWkFHRWRPekJ3LW4yWmZNVUU2LU15ZTNwazVXa0tMVjFJUHhya0I3dWY3UUZEM2pqQklzdzdCNkpPWF9CcW9NRXBaV1pKWnV5dXhXSXB6d01YOENpZHJGNjhtanRwQmxwbjF3S2NqXzB4cVAydTNzdlRMcmRZNU5tSVFMT1I5WkhWb3JjaTNRajlrbEJCYjJiZFJsMllURWlfR19YMVpodG41UWJBVk5qVTEwT1ROOHNZVUtVV1NrV3oxcU5vcUlZTVZ4ZklGSjhEOFEzQjFYb1g2SVNGcjNuQ0xqTy1EM1FvQ0I4QVlGZWVBY3JEakZyeDZQdFZ0R2Nj0gGUAkFVX3lxTE5hckZGY2hDUDF2SENJekZKQ183SkIxT3draWhXN1J2YklsbkJVVTJsclFfNU1oZzdMektGdzdzeEs4bnh5dDVYYncxLXFUMFpXdVhHU194aWI3WEdNWFJmMTltV3ZMSW15MXhUWTJJVDhuUWZNWE5CNk9PdXlzZ21Zc3ZnOUpiSGdicnZDdC1XenV2dG1NdDNsOExKYm4zajhMWTZFQ0ZtSnRhcVcxLUJwbldXR0EwcThGenpkTGVxbEd0TjQ4S1Jfa0VOMWN3WWc4ZDQ0RXEycm5VREhBTDdLeDU2MVppQ3ZCUU9WaC05WHNQZVJrdk9VckRtNm5Nb1Z0OXV1cnQ2MXNSYkRMY3BnMUNCcA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Times Now",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-sheet-chung-1",
+   "published": "2026-11-23T08:58:39+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "schengen"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "4af90c509eef0e6f",
    "src_group": null,
    "src_country": "NZ",
@@ -5195,6 +6050,31 @@
    "score": 1.5
   },
   {
+   "id": "0da97e4508c0e74f",
+   "src_group": "khac",
+   "src_country": "AU",
+   "title": "Ireland extends visa waiver for Indians until December 2026: How to qualify - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPajJ5RnJqamRRXzJkalFLcmUtam1qSG9aWVExdFczS19MRVJGcjNsdUZxY3pmZWdvV1NXWjVqOXNCcEpOMmNxVVloRUpjdHJOSnZVM3VIN0ZOWnJfQ1NDSkVNRkFGZE5ndWNMMW51UFZxWFVOQkY5Qm5CRTJpMkFHUF9lYjJQeW9Eazd1Z0ZYZ2I4aFFfRmdGR0RLOENfQi1tMHJqUFdXQlNLUVR5OWpCQ3JleGNIOFFZWUdlX1pwbHlTVEcwNV81dTUwMW1yc09XT1hBQjJOY9IB3AFBVV95cUxQSjJDVVFjN1VvVW9MZS05X0JSSnN0dFFXM3JJUkRzcGVQTnBPRUhaM0JUVTlFM3lXQjl2SUhzQ3kwa3hmWGhHZ1Y1X0hqdjI2OUpCLUdIakMyQUREbHl5NWtwNzJ6bmhkd0gyMk1Fc3VLWlZFZ244a2tKRlV1ODB4c19wTmV4ZEZHSzRFU2pxR3V6MC1SZENmZzNVWEZFSHo5TS11SHBDVjAtUnNmVnVsc2lEQ05rMjBDdnhCd2dobEVMVVBFQ0J1QUxSakRGcUhTekF1WGU0NXllcGdZ?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business Standard",
+   "country": "EU",
+   "type": "news",
+   "source": "au-sheet-khac-1",
+   "published": "2026-11-23T05:43:33+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "f57b06845ce8748e",
    "src_group": null,
    "src_country": "EU",
@@ -5417,6 +6297,31 @@
    "programs": [],
    "si": false,
    "score": 2.5
+  },
+  {
+   "id": "6c8def2fdf36dcbd",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "UK taxpayers held more than £1tn in offshore tax havens, latest HMRC data shows - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGw4Vi1LWnFXcExWM1g3U1NiNjQzNmx3MXZIRFdNdU1IdVphT3lmLVZzZnJqcmpkYkdXYXNrSl9MR0MwMjNxbUNLSkNWV28xbUptY3JHb0Z3RDBoTkJLc1VJRHF0eUpGUkRVdzhTVWlSdHlzdTVQZ2NKZTh0X0xLSExuNUlYUzZheGEwOC1USmRfbHo0UWU4MmFiZmliX1c4dVByTE83RlpNblgxck9HQUhKazJZUWdVYlpIUEo2UU1NOFE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Guardian",
+   "country": "EU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-11-23T02:31:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
   },
   {
    "id": "68d96bb18e5d424d",
@@ -8547,6 +9452,37 @@
    "score": 0.0
   },
   {
+   "id": "21493e895548b5ba",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Portugal Golden Visa 2026: A Guide to EU Residency Through Investment - The Portugal News",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbU9yelZoS2ZzYUdCUkxFTEtiRXRINmFic1ZkX0ZrRHFfVmt0TjZub0dTcWFQWUZmS0pMczZqTDlJQ195Ty1UQmlRR0ZDZnJSZ2tBanNaRTJtemgtU3pleXQ0anItc2ZjOVVUMi1yNnQ1M1dmV1FEX3RBa20yajAtb1EtZFVLTFNqZ3hwRWl1ckQtNjNfem5lUk1aaEFpbFUtZFlpTi15UEQtdGRZQWdrZFdkWERlcGV3TndJSlJzQjFMdw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "The Portugal News",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-11-20T19:00:03+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "golden-visa"
+   ],
+   "groups": [
+    "dau-tu"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "tier": "press",
+   "programs": [
+    "eu-golden-visa"
+   ],
+   "si": true,
+   "score": 3.5
+  },
+  {
    "id": "4c788c62c4eaccfc",
    "src_group": null,
    "src_country": "US",
@@ -9028,6 +9964,65 @@
    "programs": [],
    "si": false,
    "score": 2.5
+  },
+  {
+   "id": "d71ff3c1642fff2b",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Europe Hosts Record 1.65 million International Students - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdEFIV0NuOEZ6Q29KcDBnNGxabkhkXzUwQWozY1pDbnNUS2NWV051M1N3OG16amUtQjFoalNWUk9vZ01McFRXV3QwX0c0NVU4RVV1MVlaMmJTS21pWGdtYnI0SnF4b0l2UDlURFRBMFoyd3hIUnhTR19aYTBvME9aYXMxc05OcWhLa1R3WEZ6dGtsUDlleVNWYnBHc3E5eDNxREVDZzFzQXRBR0VDUG96VHg0ektYTzFNR0ladUNlZ0Rad25ZTWc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-student",
+   "published": "2026-11-20T15:31:47+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "student"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "agency",
+   "programs": [],
+   "si": false,
+   "score": -1.5
+  },
+  {
+   "id": "d7e5c212eb38132d",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Graduate Work Visa Delayed to November 23 - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbElCU19yZkw3emY1ZnlDWHQ2Ym16VVoycVloN0NnRklYbWd6Nlp5QTl2NnFOSU5KMFdjenVaYnEwU0ROa25nRUNHRFhteElRZkRmM1dtTzVTc2kydW90eUFrbVFNUGNrbGxYVE5wZTA5aG83T1hJSFJEMXNrVV9IWFhBR3hRU2RmTm5FZE5zdmdfWnVZMl8tR0w0TG1EaW55cWV0VGo5QlBNaTdyNEF3UDZ0SUd0RXo2Yno0czg3T2Utb3Mx?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-student",
+   "published": "2026-11-20T15:31:42+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "aewv",
+    "post-study"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "tier": "agency",
+   "programs": [],
+   "si": false,
+   "score": 0.0
   },
   {
    "id": "1dda6720fdbbe4fb",
@@ -10469,6 +11464,33 @@
    "programs": [],
    "si": false,
    "score": 1.5
+  },
+  {
+   "id": "a3c5791f295566c7",
+   "src_group": "chung",
+   "src_country": "AU",
+   "title": "Hunter pivots VLCC profit into takeover of offshore firm led by Harald Thorstein - TradeWinds News",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnlQMUR0TVZROS0xMWFGWlNJbDl3ci11VVBQYUxNVllaWm1acjEwMTZvbllxZng4by1NVUEwNGhSb1NzSzg0emhqYnpnNnE2X0V2cnlpYWk5WlJlSmpneFFZMzkwQXVhcTNoOVd1STA1ZllmSnZ5RmtsMEtGZ2pTYTFiRXgxWVVJR19lTzlEMkhkaVFNUFdWcFBOVGxTT0lhRVhhVHlTNmU5QXFQWUtZamIxaUV2dGtkc21fVERrTTZzX0VFcnI0cDdvODU?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "TradeWinds News",
+   "country": "AU",
+   "type": "news",
+   "source": "au-sheet-chung-1",
+   "published": "2026-11-20T10:49:34+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
   },
   {
    "id": "66fc34fbddabaf85",
@@ -12023,6 +13045,35 @@
    "score": 0.0
   },
   {
+   "id": "c393dc99b66ceb32",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Job Bank update raises wage floor for temporary foreign workers in most occupations - CIC News",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnVkQlVkU2ZRS0s5bzNfNE0tOFhBR1ItbG81VS1yenNhS3JvWmdIcFo4RjBPZEEyZmdlaUROS05nekJmTXNYbTZwVHhpQktHX0YtTzg4RWxPYmxqZGtCSTA5aV9rTkVhSU9ObTlObkdKamNFc1E0VFNicFkzalNrLWltbTRUbUJET2FiWFJxVEoxdW1tcHJYTkVKVnBYejBYbVo0ZFF4cWxhVGVRM1RZQVQ1SmdEZ21nN1JTUlNjcnAyTkxzQWJr0gHMAUFVX3lxTE1QMFRqSFQzaEQwaWF4WWF6RnRGN2JTOUZhR0xXYkpCTHhHak9XQXJSZlRYMG5BaEY1eVNJMUpCVWVsdFRLVmVXRlhNcW5HajBncWlKTjd5dGYyb0tndmdxb1JqVlJETWxUd2VpLUtDMmdTYzlkVzY5MDlJVFFHc0kzUV9rOGdPU2R6OGpWTF9uWUoyVkExTUVHLWk3VE95bmdRSTRPenJveEd3NEM5MEF5YzJmNFg0SzlhZ1dvckZEbTBKUmdVMnBnZXV4Qw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CIC News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-work",
+   "published": "2026-11-19T21:35:23+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "tier": "agency",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "83f411a7514481f1",
    "src_group": null,
    "src_country": "AU",
@@ -12079,6 +13130,37 @@
    "programs": [],
    "si": false,
    "score": 4.0
+  },
+  {
+   "id": "a58574162e49ff18",
+   "src_group": "tay-nghe",
+   "src_country": "CA",
+   "title": "Canada | Express Entry expands qualifying work experience for certain researchers - BAL Immigration Law",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWhVcmVVUGJkYm0tRnFtbEhrNnFHN3dMZi1qSUZlTTREY3V5T24xMl9kRzZKTXBIRTliR0xEcWxlNjRoYTVTWXdNQ21FUmFJYVg4SFFkd2RwSjZxbXZxSmRuYlJMaFpzYWh2d25NNXZ4UUdLR3V0MFEyTGdkbUFaUlh6akxNNkdrNk11cGFld1lpc19vSUVoYjNsSEU5OHJSbFJ0eXlDZC13Z041SVhnTmRSZGdWdXkt?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "BAL Immigration Law",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-sheet-tay-nghe-1",
+   "published": "2026-11-19T20:45:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "express-entry"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "noi",
+   "prio": true,
+   "tier": "agency",
+   "programs": [
+    "ca-express-entry"
+   ],
+   "si": true,
+   "score": 4.5
   },
   {
    "id": "885d6a4487de93c7",
@@ -14821,6 +15903,31 @@
    "groups": [
     "chung"
    ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "779631d997eea715",
+   "src_group": null,
+   "src_country": "AU",
+   "title": "Albo’s visa U-turn sparks migration warning - News.com.au",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTnp0cllkbmgtWXU4V2RDOVF6UTh2dGVCLUkxMmk3NER5VVdQcEIyRmFoc1E1SXlEbVhtVTlsN25vWkc2ZVhPNVNXMTFSaUt4LUpJTklNamQxcHcyWDZzeW9jeVZQOEVJQkx2QmFoWi1Wc0dxSk5tX1JjS193ekV2dTZ5SG82YmNpVFcxVkxYNEZoZDVKTXpZM1c2WlI5TjVfU2dhcl84aUdXT2JzQ2x6M2laV1ppbkxpQ0VLYzBVeEtmNExxSWRxNDdDdVNLanY3UEc1TWVzb21nVy04dk9laFpqS21mQdIB6wFBVV95cUxQal9FaEhVUnpLTDBXSXRicl9UX2ZFTEI2M2NMNnR4X1RqNXR4MVlKZzdaWG9RV3hpT3g2YVlmbWZoVHdXX0xCaVBmOGdIcU9fdkg0SzZXcmxucHN4TlEwZFo1c2dEVXJGX05TVFFMMjlqclVKbFIwN2JELVNSdGoteGxRX3RlY0pDcVh0X0kzSFR4bWI1b1pMZ0dCSFRWRGtUQW53dlI5MmlHSzdkYVNxMm5rd2xTdlJyMXFGU0o0cTM1TmlWbXdaQ2JpdXFYYWVOQjR4eUNkM3dDV281ekRGU1p4MkJuVmN2ZkJR?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "News.com.au",
+   "country": "AU",
+   "type": "news",
+   "source": "au-en",
+   "published": "2026-11-19T04:29:40+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
    "lang": "en",
    "policy": false,
    "direction": null,
@@ -21102,6 +22209,31 @@
    "programs": [],
    "si": false,
    "score": 0.0
+  },
+  {
+   "id": "d3ed66779b6b1719",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "New Zealand Family Residence Rules Change from Nov 12 - Y-Axis Overseas Careers",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeExjNHJuSXQ5NUtoeDBocHpHdm00RlNQWGltTmNoaFVUUHdPVThDTTViNzdHa0VPUnhucFQ5M045dmhGWXVaTk9DVzV5UEFmcmNxd0M0Z1REZUNhQ2gzaHdzek1rMk52TWlFQm1HVlZNOElSV0NTLVM5dVJ6aXpZNTRydGQ1ZHcxbUtDVTBsSWw3ZXNyNEppOFh2b0VueTdrcUkyVWUyeXRMS2pLSkE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Y-Axis Overseas Careers",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-11-17T15:37:37+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": false,
+   "tier": "agency",
+   "programs": [],
+   "si": false,
+   "score": 1.0
   },
   {
    "id": "5cc9c522e5c4b988",
@@ -30709,6 +31841,35 @@
    "score": 0.0
   },
   {
+   "id": "0921a2c31735d049",
+   "src_group": null,
+   "src_country": "NZ",
+   "title": "Six groups can get Dutch citizenship after three years instead of five - 3News",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZldlM21NT1NLV0lZM0F1YWJFYzRvQnRCX1JkNUlzbGFURlkyTzJDN2cxVWdlTTRGNG4tSzVVeVg1SHZXaFJ3OWNxckJHT2dMMG1CbWJodjA3Z1BfVkllUEg4SGRqTnV4NllQTktYM2ctYldZaHN0RklUQVFVdGc2dmg0NEoxcllKMkE?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "3News",
+   "country": "NZ",
+   "type": "news",
+   "source": "nz-residence",
+   "published": "2026-11-15T08:00:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "residence"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "ef2adaf827480b34",
    "src_group": null,
    "src_country": "US",
@@ -32876,6 +34037,35 @@
    "lang": "en",
    "policy": true,
    "direction": "siet",
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 2.5
+  },
+  {
+   "id": "23faa5605dd96664",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada sets 100,000-worker permanent residency pathway for 2027 - 5050 Markets",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rTVNmTWUzaU9sdi03WndMUDFzem5POGhKN19uM2E4TVVGMkNZZkJ6VFBNYXEtVmE5TGQ0aU9jZ0p3SkFyS1dtMXdEd01JaktCc19KSkoxUnJXeFZDdVpUaTBHR2VNbEV1X1ZrMW1R?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "5050 Markets",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-startup",
+   "published": "2026-11-13T21:23:24+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "pr-citizenship"
+   ],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
    "prio": false,
    "tier": "press",
    "programs": [],
@@ -35254,6 +36444,33 @@
    "score": 2.5
   },
   {
+   "id": "e70f9a2971dbae81",
+   "src_group": null,
+   "src_country": "CA",
+   "title": "Canada 2027 PR spaces for spouses, children - IRCC - 3News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaWZsS0NkYTRvQ0lneFNoN29SWmZ6RDR1eW90QnhpX0xXNVprX1hlNHJLU2NocXJhTWVfVENzT1pYOXRsTWU2ZUtWN1cyb2tlSy0zT2VzQzBNc0ZnRHBBLXAwZFBVeHFCY25UVUJJLVFBU2xQV0JVYno2elBLMWQteFRlaVUza1JyWXBEblZsUmoycmtubHow?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "3News",
+   "country": "CA",
+   "type": "news",
+   "source": "ca-startup",
+   "published": "2026-11-13T08:00:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "ad2d007ea5b1b81a",
    "src_group": "khac",
    "src_country": "EU",
@@ -35364,6 +36581,33 @@
    "programs": [],
    "si": false,
    "score": 0.0
+  },
+  {
+   "id": "067b73b280de5359",
+   "src_group": null,
+   "src_country": "CB",
+   "title": "Grenada citizenship for families with children - revera.legal",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12bFQ5dUw0dmxUTGdMT1VoWGZBUmY2b0dZalB2aUZTeFBSQWhyN0NJeWtJbm0ybHlZeTNjdngyRUwybHdNQnNQZkdweEhCNDdxUnJ2TFZlS1RLOVZFZzVCcWpQUERZcUhFZi14OGdONTdKaWJCVE1ycg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "revera.legal",
+   "country": "CB",
+   "type": "news",
+   "source": "cb-grenada",
+   "published": "2026-11-13T07:14:41+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "grenada"
+   ],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": true,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 1.5
   },
   {
    "id": "e07427cae9f8ec08",
@@ -38906,6 +40150,33 @@
    "programs": [],
    "si": false,
    "score": 2.5
+  },
+  {
+   "id": "efccd8fb2ea12716",
+   "src_group": "chung",
+   "src_country": "AE",
+   "title": "Dubai residents can win AED2,500 by naming one of 35 new neighbourhood parks - Emirates 24|7",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEZIbTVFTlJIZEEzUVZ4NEFrRzRENERvM0hXRzlfazFpRzhsbkkzbHFmSGVSOUdiWFZCYU1JbkM0S2tCeGc0UXRfaDFCbmI5QlJOMG5Eb1kyTDcwajRmQlE5QUxYejZCOFdCNFBXZmxxMGdwZUFiYUlMTUFJVjVES1ItbXE4RlI3Y3lPMDBiVUgxTmh6RGN4dFNfMW16TkVlSmEydmE4eFFXc1dhQ1lnQTV2VXBJYzI1U3fSAdQBQVVfeXFMT2xTRDMyUHQ5TExXdEMwUUFZRkRDRVhGQWNhekI0V2ZrR1dGY0Q5MjVEcS16UGR4bkpaenF2cS01Q2pUOGozOU1BMlk4ZktfRlhsZ1NTcDlGeV9rbTFQc2lMV2V2U2RzcmJtdVd3Ti04RmpVdnk0ZjNUdzJMeEJTS042ZVVtZjB5MjhmSGdVWnloS3hDRnhFd05SaUl1ZDRkSHc1TkZoR0ljUWFqVV82V1NXMFZzRFc0NlVYQzQ1My1tM2VtSS1MUXg2SFRZOU9RRC16RHg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Emirates 24|7",
+   "country": "AE",
+   "type": "news",
+   "source": "ae-sheet-chung-1",
+   "published": "2026-11-12T08:00:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [
+    "chung"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
   },
   {
    "id": "5d85256531aaa52d",
@@ -72114,6 +73385,35 @@
    "score": 2.5
   },
   {
+   "id": "70c34b41381414a2",
+   "src_group": null,
+   "src_country": "US",
+   "title": "Emergency Visitor Visa for Bronx Teen’s Mother Rests With a Consul - immigration-analytics.com",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEo3ZHpjNDMwaEhPQnVZaFh6OGtNU1AyMjVpOUI0TW93bzN5cDlFRGZ5YmVQX25RMHJZYno0SWloajhIRkFMN1FBTlpZcXRNd0xCU0FDMnBXSnVlaHRaOTM4dHZWZWRWOVJPVW83c3B3NzQzU2cxbVZMRG5WNGxZVnpaLW54UG1SMEl3MEhPMA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "immigration-analytics.com",
+   "country": "US",
+   "type": "news",
+   "source": "us-visa-bulletin",
+   "published": "2026-10-31T07:00:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "visitor"
+   ],
+   "groups": [
+    "khac"
+   ],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "c23e7a0eafd49237",
    "src_group": "chung",
    "src_country": "US",
@@ -76069,6 +77369,31 @@
    "source": "cb-regional",
    "published": "2026-10-30T07:00:00+00:00",
    "fetched": "2026-11-23T10:49:58.362588+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
+   "id": "dc1cdbb380a6e73b",
+   "src_group": null,
+   "src_country": "EU",
+   "title": "Andorra and San Marino EU Association Agreement: What It Means for Residents and Investors - CEOWORLD magazine",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGF1N1R0VlQzQzRCTkpYbEsxVkY5WEtuSnpvT3ExamdDQmpzbzN3RlpVMlRRU0hCVG00ZkUwY1Y2SFVjYzdPVmRYdHp2SlVMUEhLcUNNRnMtbllYbHBVSzJfc2lPQ0pPVl9kTWpNQkl4MkJEM2xpaEd2NUt2eVlsa0JHZnJoYlVmYms2ZnFIZDA2UGpHQUM1RTNKTkg4WE5rM3Fya1BQd1RnVFpJdWp3TWlnTV94aDdiaUVqa29PNA?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "CEOWORLD magazine",
+   "country": "EU",
+   "type": "news",
+   "source": "eu-golden-visa",
+   "published": "2026-10-30T07:00:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
    "visas": [],
    "groups": [],
    "lang": "en",
@@ -80497,6 +81822,37 @@
    "programs": [],
    "si": false,
    "score": 0.0
+  },
+  {
+   "id": "c05046592fed3a8a",
+   "src_group": null,
+   "src_country": "US",
+   "title": "DOL Announces PERM Processing Suspensions For Major Technology Companies - Legal 500",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeDBuTmx2Y3BYcHp1Z2hTODlxM1dXQ2hpZUhZMzVkNm5JdUt2UG5GeUU1TEJXSDB2NF9GemdLZExyTE0zenU3akNheGhLdERDNGc5eHp5am8waGhQZjhLS3ltYVdKRFhqZUtoUExlaVplMkpMeFNrZUlHWnR4dzBBS3QteGpVeXd0TUoxVVkxaVNoWTdJWnpkSHZqc1hUdGhEYWZDRWpYaWJaTm9zU2F2NU5EbGdUaXFOQVBtX2xIbUtsVE9mWTBlN2pYQ19WblhSemc?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Legal 500",
+   "country": "US",
+   "type": "news",
+   "source": "us-eb-work",
+   "published": "2026-10-29T07:00:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "eb-work"
+   ],
+   "groups": [
+    "tay-nghe"
+   ],
+   "lang": "en",
+   "policy": true,
+   "direction": "siet",
+   "prio": true,
+   "tier": "press",
+   "programs": [
+    "us-eb3"
+   ],
+   "si": true,
+   "score": 6.0
   },
   {
    "id": "28cef5b5462334cb",
@@ -84992,6 +86348,31 @@
    "score": 0.0
   },
   {
+   "id": "fc9a78f5ddcbfa44",
+   "src_group": null,
+   "src_country": "US",
+   "title": "New UCLA Report Finds Fewer Legal Immigrants Naturalize as U.S. Citizenship Rates See Dramatic Decline - UCLA Luskin",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQWxYRHlHM0laeTJsMm9CMDFCajEyNk1McVQ3OHJLOFR1U1F4NGZKbXduNnZ1bnlHb0ZaUkx4X255WFpMRGdFdXlxTjY1cVZPMkpVbFlQbVNTUWZSYTR6dzBicFROdTVDUE1SUUdKdFl2dmI3aG1TNUVOdjlobGMxZ3Z6a0VhMWJYNmhUNDMwN2prUGVvZGc3b1FEUFdEYzByU0tPYUw0U0RVbzJPSEhlMTR6a2U3WEtCaWpQY3hybnN2Z0VWQXprU0p0bw?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "UCLA Luskin",
+   "country": "US",
+   "type": "news",
+   "source": "us-citizenship",
+   "published": "2026-10-28T07:00:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [],
+   "groups": [],
+   "lang": "en",
+   "policy": false,
+   "direction": null,
+   "prio": false,
+   "tier": "press",
+   "programs": [],
+   "si": false,
+   "score": 0.0
+  },
+  {
    "id": "1ec9a55a76b769ee",
    "src_group": null,
    "src_country": "EU",
@@ -89368,6 +90749,35 @@
    "programs": [],
    "si": false,
    "score": 1.0
+  },
+  {
+   "id": "a7fd7cf93ce9754d",
+   "src_group": null,
+   "src_country": "CB",
+   "title": "Grenada’s CBI program can offer Nigerians 3-5 percent returns, five-year exit option - Business News Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORVpCb1JUSWNOOWJ5NzV5eTlCaHRuS1VrLXVsekFBdGNHLWpsdHpqb3Q2ZENicGF5T21vSzBhTlh4UTF5dVpwek9UTExVUmh3X0tyYzY0R01YTzJ2YVg3UGQ5V0EyeXJLSWFSSjVQN2V2V1VVTkhkRlhLLVdxeFNaekpVQVp3SkowSXU1enBZNy0yeXNHdEhrd2FsRHEyaTNiLVlwZ0FaRjQ1REs1bnpMR1c2SUxWaC1DVHFOVg?oc=5",
+   "summary": "",
+   "src_summary": false,
+   "publisher": "Business News Nigeria",
+   "country": "CB",
+   "type": "news",
+   "source": "cb-grenada",
+   "published": "2026-10-27T07:00:00+00:00",
+   "fetched": "2026-11-25T02:48:46.597589+00:00",
+   "visas": [
+    "grenada"
+   ],
+   "groups": [],
+   "lang": "en",
+   "policy": true,
+   "direction": null,
+   "prio": true,
+   "tier": "press",
+   "programs": [
+    "cb-cbi"
+   ],
+   "si": true,
+   "score": 6.0
   },
   {
    "id": "08a5ac6773b0d781",
